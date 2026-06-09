@@ -1,74 +1,141 @@
 # numichart-news
 
-Live financial headline aggregator. Pulls from a curated set of free RSS feeds (MarketWatch, Yahoo Finance, CNBC, Investing.com, Seeking Alpha, SEC EDGAR 8-Ks, PR Newswire, BusinessWire, Reuters, BizToc), tags each story with relevant tickers, and renders a chronological stream.
+**A live, self-updating financial news terminal in your browser.**  
+Bloomberg-style dense UI. Headlines from 29+ free RSS feeds, auto-tagged with tickers, refreshed by GitHub Actions.
 
-A GitHub Action refreshes the feed every 10 minutes during US market hours, every 30 minutes off-hours, and hourly on weekends. The result is committed to `docs/data/headlines.json` and served by GitHub Pages.
+🌐 **Live Dashboard** — served by GitHub Pages:  
+**https://Numi2.github.io/numichart-news/**
+
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen?logo=github)](https://Numi2.github.io/numichart-news/)
+[![Workflow](https://img.shields.io/github/actions/workflow/status/Numi2/numichart-news/refresh.yml?label=refresh)](https://github.com/Numi2/numichart-news/actions/workflows/refresh.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+---
+
+## What it is
+
+A single-page, high-density news dashboard that:
+
+- Pulls from curated financial RSS feeds (MarketWatch, Yahoo Finance, CNBC, WSJ, FT, Seeking Alpha, PR Newswire, GlobeNewswire, BizToc, SEC EDGAR 8-Ks, etc.)
+- Extracts and tags relevant stock tickers using a 1,700+ ticker universe + name/alias matching
+- Classifies stories (earnings, M&A, upgrades, FDA, legal, macro…)
+- Shows live prices + 7-day sparklines for tickers currently in the feed
+- Lets you load **your own book** (drop an .xlsx / paste tickers) and instantly filter the stream to only those names
+
+Everything runs 100% client-side after the two tiny JSON files are fetched. No backend, no login, no tracking.
+
+## Live Demo
+
+Visit the dashboard:
+
+→ **[https://Numi2.github.io/numichart-news/](https://Numi2.github.io/numichart-news/)**
+
+The page auto-refreshes the feed every 60 seconds. Keyboard-driven (press `/` to search, `1`/`2` to switch views, `ESC` to clear).
+
+## Features
+
+- Amber-on-black terminal aesthetic with virtualized scrolling (handles 600+ headlines instantly)
+- Monitor ribbon showing the most-mentioned tickers + their price moves
+- Source and type filters + full-text search
+- **MY BOOK** tab — upload holdings or paste tickers; the feed narrows to your positions
+- Direct links to the raw JSON (perfect for scripts, curl, other dashboards, or piping into tools)
+- URL params support (`?watchlist=AAPL,TSLA,NVDA` or `?ticker=NVDA`)
+- Shift-click any ticker to jump to an external companion desk (if you have one)
+
+## How it works (self-updating)
+
+```
+RSS feeds → GitHub Action (every ~5–10 min market hours) → 
+  scan/fetch_news.py + fetch_stocks.py → 
+  commit docs/data/headlines.json + stocks.json → 
+  GitHub Pages serves the static site instantly
+```
+
+The Action also runs hourly as a safety net. Data is committed back to the `main` branch under `docs/data/`.
+
+## Direct JSON access (great for automation)
+
+The data is **public, CORS-friendly, and always available**:
+
+- `https://Numi2.github.io/numichart-news/data/headlines.json`
+- `https://Numi2.github.io/numichart-news/data/stocks.json`
+
+Example:
+
+```bash
+curl -s https://Numi2.github.io/numichart-news/data/headlines.json \
+| jq '.headlines | length'
+```
+
+The live UI shows the exact current URLs with one-click COPY buttons.
+
+## Local development
+
+```bash
+git clone https://github.com/Numi2/numichart-news.git
+cd numichart-news
+
+pip install -r requirements.txt
+python scan/fetch_news.py
+python scan/fetch_stocks.py   # optional, needs yfinance
+```
+
+Then open `docs/index.html` directly in a browser (file:// works for the static dashboard).
+
+## Configuration
+
+| What | Where | Notes |
+|------|-------|-------|
+| Add/remove RSS feeds | `scan/fetch_news.py` → `FEEDS` list | `(name, category, url)` tuples |
+| Ticker universe | `scan/universe_tickers.csv` | One ticker per line |
+| Company name / alias matching | `scan/universe_names.csv` + `universe_aliases.csv` | `TICKER,Name` |
+| Blocklist (words that look like tickers) | `TICKER_BLOCKLIST` in `fetch_news.py` | Prevents false positives |
+| Refresh schedule | `.github/workflows/refresh.yml` | Cron + `workflow_dispatch` |
 
 ## Architecture
 
 ```
 numichart-news/
 ├── docs/
-│   ├── index.html              # static dashboard (dark, single page)
-│   └── data/headlines.json     # the feed (refreshed by CI)
+│   ├── index.html           # fully self-contained single-file app
+│   ├── data/
+│   │   ├── headlines.json   # the live tagged feed (written by CI)
+│   │   └── stocks.json      # price snapshots for current tickers
+│   └── .nojekyll            # tells GitHub Pages: serve as static files
 ├── scan/
-│   ├── fetch_news.py           # RSS scraper + ticker tagger
-│   └── universe_tickers.csv    # ticker set for tagging
+│   ├── fetch_news.py        # RSS + ticker tagging + classification
+│   ├── fetch_stocks.py      # yfinance price enrichment
+│   └── *.csv                # ticker universe + names/aliases
 ├── .github/workflows/refresh.yml
 └── requirements.txt
 ```
 
-## Local development
+## Publishing to GitHub Pages (for forks)
 
-```bat
-pip install -r requirements.txt
-python scan/fetch_news.py
-```
+This repo is already configured to publish from the `docs/` folder on the `main` branch.
 
-Open `docs/index.html` in a browser (the page reads `data/headlines.json` via a relative path; opening directly with `file://` should work in most browsers).
+If you fork:
 
-The UI is a dense, Bloomberg-terminal-style single-page dashboard:
-- Amber-on-black, high information density, monospace throughout
-- Live updating (polls the JSON every 60s), virtualized scrolling list for instant filtering even with hundreds of headlines
-- Monitor ribbon with most-mentioned tickers + live prices/changes pulled from the companion stocks snapshot
-- Command-line style search + source/type filters, keyboard-driven (`/` focuses search, `1`/`2` switch views, `ESC` clears)
-- "MY BOOK" tab lets you drop a holdings .xlsx / paste tickers locally; the feed then narrows to only those names
+1. Go to your fork → **Settings → Pages**
+2. Under "Build and deployment":
+   - Source: **Deploy from a branch**
+   - Branch: `main`
+   - Folder: `/docs`
+3. Save. The site will be available at `https://YOURNAME.github.io/numichart-news/`
 
-## Direct JSON access (fetch from anywhere)
-
-The underlying data is **always directly fetchable** as plain JSON — no scraping, no auth, no CORS issues on GitHub Pages:
-
-- `docs/data/headlines.json` — the full tagged feed (used by the UI)
-- `docs/data/stocks.json` — latest prices + 7d closes for every ticker currently appearing in headlines
-
-From curl, Python, other dashboards, or another terminal:
-
-```bash
-curl -s https://YOURNAME.github.io/numichart-news/data/headlines.json | jq '.headlines | length'
-```
-
-In the live terminal UI the exact current URLs are shown in the top status bar with one-click COPY buttons so you can instantly grab them for scripts.
-
-## Configuration
-
-- **Add or remove feeds**: edit `FEEDS` in `scan/fetch_news.py`. Each entry is `(display_name, category, url)`.
-- **Adjust ticker tagging**: `scan/universe_tickers.csv` is one ticker per line. `TICKER_BLOCKLIST` in the scraper filters out common English words that look like tickers (THE, FOR, ON, etc).
-- **Cron frequency**: `.github/workflows/refresh.yml` defines three schedules — market hours, off-hours, weekends.
-
-## Adding new sources
-
-Most financial RSS feeds work out of the box with `feedparser`. To add one:
-
-1. Find the feed URL (usually linked from a publication's footer or `/rss/` page).
-2. Append a tuple to `FEEDS`.
-3. Pick a category — used for color-coded source chips in the UI.
+The included workflow (`refresh.yml`) will continue to update the data on its own schedule (or you can trigger `workflow_dispatch` manually / from an external cron).
 
 ## Not investment advice
 
-This is a news viewer. Headlines come from third parties; tickers are extracted heuristically and may be wrong. Do your own research.
+This is a news viewer only. Headlines come from third parties. Ticker extraction and classification are heuristic and can be wrong. Always do your own research.
 
-## Performance & data notes
+## Performance & privacy
 
-- The dashboard uses a virtual scroller — only the visible ~40–60 rows exist in the DOM at any time. Filtering and typing feel instant even at 600+ headlines.
-- All filtering, watchlist logic, and holdings parsing happens 100% client-side. Nothing leaves your machine except the two public JSON fetches.
-- The JSON files are the source of truth and are safe to consume from any tool or language.
+- Virtual scroller: only the visible rows exist in the DOM.
+- All watchlist / holdings / filtering logic is 100% local to your browser.
+- The only network calls after page load are the two public JSON fetches (and the occasional price tooltip logo).
+- The JSON files are the source of truth and safe to consume from any language or tool.
+
+---
+
+Made for terminal addicts who want a fast, dense, no-BS market news surface that just works.
