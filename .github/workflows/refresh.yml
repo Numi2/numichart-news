@@ -1,0 +1,46 @@
+name: Refresh news feed
+
+on:
+  # Primary trigger is cron-job.org → POST workflow_dispatch every 5 min.
+  # The schedule below is a once-per-hour safety net if that pinger ever
+  # falls over or its PAT expires. GH Actions cron is best-effort and
+  # unreliable on free tier, which is why we don't depend on it.
+  schedule:
+    - cron: "7 * * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: news-refresh
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - run: pip install -r requirements.txt
+
+      - name: Fetch news
+        run: python scan/fetch_news.py
+
+      - name: Fetch stock prices for tagged tickers
+        run: python scan/fetch_stocks.py
+        continue-on-error: true
+
+      - name: Commit and push
+        run: |
+          git config user.name "numichart-news-bot"
+          git config user.email "bot@numichart-news"
+          git add docs/data/headlines.json docs/data/stocks.json
+          git diff --cached --quiet && echo "No new headlines" || \
+            git commit -m "chore: refresh feed $(date -u +%Y-%m-%dT%H:%MZ)"
+          git pull --rebase origin main || true
+          git push || true

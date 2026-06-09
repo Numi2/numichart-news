@@ -1,0 +1,359 @@
+# ticker,alias — supplemental aliases beyond the canonical company name.
+# Used by fetch_news.py to catch product/brand/subsidiary mentions.
+# Aliases are matched case-sensitively with optional possessive ('s).
+# Order matters only for ambiguous cases (first ticker wins).
+
+# ── Mega-cap tech ────────────────────────────────────────────────────────
+AAPL,iPhone
+AAPL,iPad
+AAPL,Mac
+AAPL,Apple Watch
+AAPL,Vision Pro
+AAPL,App Store
+AAPL,iCloud
+MSFT,Microsoft
+MSFT,Windows
+MSFT,Xbox
+MSFT,Azure
+MSFT,LinkedIn
+MSFT,GitHub
+MSFT,Copilot
+MSFT,Office 365
+GOOGL,Google
+GOOGL,Alphabet
+GOOGL,YouTube
+GOOGL,Android
+GOOGL,Gmail
+GOOGL,Waymo
+GOOGL,DeepMind
+GOOGL,Pixel
+GOOGL,Google Cloud
+AMZN,Amazon
+AMZN,Amazon.com
+AMZN,AWS
+AMZN,Whole Foods
+AMZN,Prime Video
+AMZN,Alexa
+META,Meta
+META,Facebook
+META,Instagram
+META,WhatsApp
+META,Threads
+META,Quest
+META,Reality Labs
+TSLA,Tesla
+TSLA,Cybertruck
+TSLA,Optimus
+TSLA,Powerwall
+TSLA,Roadster
+TSLA,Supercharger
+NVDA,Nvidia
+NVDA,NVIDIA
+NVDA,RTX
+NVDA,GeForce
+NVDA,Blackwell
+NVDA,H100
+NVDA,Grace Hopper
+
+# ── Other tech ───────────────────────────────────────────────────────────
+ORCL,Oracle
+CRM,Salesforce
+ADBE,Adobe
+ADBE,Photoshop
+INTC,Intel
+AMD,AMD
+QCOM,Qualcomm
+QCOM,Snapdragon
+AVGO,Broadcom
+TXN,Texas Instruments
+MU,Micron
+PYPL,PayPal
+PYPL,Venmo
+SHOP,Shopify
+SQ,Block
+SQ,Square
+SQ,Cash App
+NFLX,Netflix
+DIS,Disney
+DIS,Disney+
+DIS,ESPN
+DIS,Pixar
+DIS,Marvel
+DIS,Lucasfilm
+SPOT,Spotify
+ABNB,Airbnb
+UBER,Uber
+LYFT,Lyft
+DASH,DoorDash
+RBLX,Roblox
+PINS,Pinterest
+SNAP,Snapchat
+SNAP,Snap
+ZM,Zoom
+DDOG,Datadog
+NET,Cloudflare
+PLTR,Palantir
+SNOW,Snowflake
+MDB,MongoDB
+DELL,Dell
+HPQ,Hewlett-Packard
+HPE,HP Enterprise
+IBM,IBM
+CSCO,Cisco
+
+# ── Financials ───────────────────────────────────────────────────────────
+JPM,JPMorgan
+JPM,JPMorgan Chase
+JPM,JP Morgan
+BAC,Bank of America
+WFC,Wells Fargo
+C,Citigroup
+C,Citi
+GS,Goldman Sachs
+MS,Morgan Stanley
+BLK,BlackRock
+BX,Blackstone
+KKR,KKR
+APO,Apollo
+SCHW,Charles Schwab
+SCHW,Schwab
+COF,Capital One
+AXP,American Express
+AXP,AmEx
+V,Visa
+MA,Mastercard
+COIN,Coinbase
+HOOD,Robinhood
+SOFI,SoFi
+USB,US Bancorp
+
+# ── Industrials / autos / aerospace ──────────────────────────────────────
+GE,General Electric
+GE,GE Aerospace
+F,Ford
+F,Ford Motor
+GM,General Motors
+GM,Chevrolet
+GM,Cadillac
+RIVN,Rivian
+LCID,Lucid
+BA,Boeing
+LMT,Lockheed Martin
+LMT,Lockheed
+NOC,Northrop Grumman
+NOC,Northrop
+RTX,Raytheon
+RTX,RTX Corp
+GD,General Dynamics
+HII,Huntington Ingalls
+TXT,Textron
+CAT,Caterpillar
+DE,John Deere
+DE,Deere
+HON,Honeywell
+MMM,3M
+EMR,Emerson
+ETN,Eaton
+PH,Parker Hannifin
+
+# ── Consumer ─────────────────────────────────────────────────────────────
+WMT,Walmart
+TGT,Target Corp
+COST,Costco
+HD,Home Depot
+LOW,Lowe's
+LOW,Lowes
+NKE,Nike
+LULU,Lululemon
+KO,Coca-Cola
+KO,Coke
+PEP,PepsiCo
+PEP,Pepsi
+MCD,McDonald's
+MCD,McDonalds
+SBUX,Starbucks
+CMG,Chipotle
+YUM,Yum Brands
+YUM,KFC
+YUM,Taco Bell
+YUM,Pizza Hut
+DPZ,Domino's
+PG,Procter & Gamble
+PG,P&G
+UL,Unilever
+KMB,Kimberly-Clark
+CL,Colgate
+
+# ── Energy ───────────────────────────────────────────────────────────────
+XOM,Exxon
+XOM,ExxonMobil
+XOM,Exxon Mobil
+CVX,Chevron
+COP,ConocoPhillips
+SLB,Schlumberger
+HAL,Halliburton
+EOG,EOG Resources
+OXY,Occidental
+OXY,Oxy
+MPC,Marathon Petroleum
+PSX,Phillips 66
+
+# ── Healthcare / pharma ──────────────────────────────────────────────────
+JNJ,Johnson & Johnson
+JNJ,J&J
+PFE,Pfizer
+MRK,Merck
+ABBV,AbbVie
+LLY,Eli Lilly
+LLY,Lilly
+BMY,Bristol-Myers
+BMY,Bristol Myers Squibb
+NVO,Novo Nordisk
+NVS,Novartis
+AZN,AstraZeneca
+GSK,GlaxoSmithKline
+RHHBY,Roche
+UNH,UnitedHealth
+UNH,United Health
+CVS,CVS Health
+CI,Cigna
+HUM,Humana
+ANTM,Anthem
+MDT,Medtronic
+ABT,Abbott
+TMO,Thermo Fisher
+DHR,Danaher
+ISRG,Intuitive Surgical
+MRNA,Moderna
+BNTX,BioNTech
+REGN,Regeneron
+VRTX,Vertex
+GILD,Gilead
+BIIB,Biogen
+
+# ── Media ────────────────────────────────────────────────────────────────
+CMCSA,Comcast
+T,AT&T
+VZ,Verizon
+WBD,Warner Bros Discovery
+WBD,Warner Bros
+WBD,HBO
+PARA,Paramount
+PARA,CBS
+PARA,Paramount+
+FOX,Fox Corp
+FOX,Fox News
+NWSA,News Corp
+NYT,New York Times
+NYT,NYTimes
+
+# ── Crypto-adjacent ──────────────────────────────────────────────────────
+MSTR,MicroStrategy
+MSTR,Strategy
+RIOT,Riot Platforms
+MARA,Marathon Digital
+CLSK,CleanSpark
+HUT,Hut 8
+
+# ── Defense / aerospace ──────────────────────────────────────────────────
+LHX,L3Harris
+TDY,Teledyne
+KTOS,Kratos
+LDOS,Leidos
+
+# ── Semis ────────────────────────────────────────────────────────────────
+TSM,TSMC
+TSM,Taiwan Semiconductor
+ASML,ASML
+LRCX,Lam Research
+KLAC,KLA
+AMAT,Applied Materials
+MRVL,Marvell
+ARM,Arm
+ARM,Arm Holdings
+SMCI,Super Micro
+SMCI,Supermicro
+ANET,Arista Networks
+
+# ── Real estate / utilities ──────────────────────────────────────────────
+SPG,Simon Property
+O,Realty Income
+AMT,American Tower
+CCI,Crown Castle
+PLD,Prologis
+NEE,NextEra Energy
+DUK,Duke Energy
+SO,Southern Company
+D,Dominion Energy
+
+# ── Supplemental tickers not in regime-desk universe ────────────────────
+# Commonly mentioned in news but missing from the base universe.
+ZS,Zscaler
+HURN,Huron Consulting
+HURN,Huron
+OTLK,Outlook Therapeutics
+DTEA,DAVIDsTEA
+PDD,PDD Holdings
+PDD,Pinduoduo
+RACE,Ferrari N.V.
+RACE,Ferrari NV
+SAAB,Saab
+SPY,SPY ETF
+QQQ,Nasdaq 100
+IWM,Russell 2000
+JEF,Jefferies
+DKS,Dick's Sporting Goods
+DKS,Dicks Sporting Goods
+BREW,BrewDog
+PYPL,PayPal Holdings
+OPEN,Opendoor
+HOOD,Robinhood Markets
+ARM,ARM Holdings
+ESLT,Elbit Systems
+HEICO,HEICO
+LULU,Lululemon Athletica
+ZM,Zoom Video
+ZM,Zoom Communications
+
+# ── Crypto majors (often mentioned by name) ─────────────────────────────
+GBTC,Bitcoin Trust
+IBIT,iShares Bitcoin
+ETHA,Ethereum Trust
+COIN,Coinbase Global
+MSTR,Strategy Inc
+
+# ── Energy / commodity ETFs ─────────────────────────────────────────────
+USO,Oil Fund
+UNG,Natural Gas Fund
+GLD,Gold Shares
+SLV,Silver Trust
+
+# ── Recent IPOs / spinoffs ──────────────────────────────────────────────
+SOFI,SoFi Technologies
+NU,Nu Holdings
+SHOP,Shopify Inc
+RBLX,Roblox Corporation
+CRWD,CrowdStrike
+S,SentinelOne
+NOW,ServiceNow
+PANW,Palo Alto Networks
+FTNT,Fortinet
+DDOG,Datadog Inc
+ZS,ZS Inc
+WDAY,Workday
+TEAM,Atlassian
+PINS,Pinterest Inc
+TWLO,Twilio
+DOCU,DocuSign
+DBX,Dropbox
+ESTC,Elastic
+NET,Cloudflare Inc
+HUBS,HubSpot
+MELI,MercadoLibre
+SE,Sea Limited
+GRAB,Grab Holdings
+DIDI,DiDi Global
+NIO,NIO Inc
+XPEV,XPeng
+LI,Li Auto
+

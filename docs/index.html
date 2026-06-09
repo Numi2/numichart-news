@@ -1,0 +1,1037 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>NUMICHART NEWS — TERMINAL</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600;700&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/xlsx@0.18.5/dist/xlsx.full.min.js" defer></script>
+<style>
+  :root {
+    --bg:#000000;
+    --panel:#0a0a0a;
+    --row:#0c0c0c;
+    --row-alt:#111111;
+    --border:#1f1f1f;
+    --border-bright:#2f2f2f;
+    --text:#c8c8c8;
+    --bright:#f0f0f0;
+    --muted:#6b6b6b;
+    --dim:#3f3f3f;
+    --amber:#ff9b00;
+    --amber-soft:#ff9b0033;
+    --green:#00ff7f;
+    --red:#ff3b3b;
+    --cyan:#00d4ff;
+    --magenta:#ff5cc8;
+    --yellow:#ffd84d;
+    --blue:#5fa8ff;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html,body{background:var(--bg);color:var(--text);font-family:'IBM Plex Sans',-apple-system,sans-serif;font-size:12px;line-height:1.25;overflow:hidden}
+  ::-webkit-scrollbar{width:8px;height:8px}
+  ::-webkit-scrollbar-track{background:#000}
+  ::-webkit-scrollbar-thumb{background:#2a2a2a}
+  ::-webkit-scrollbar-thumb:hover{background:#444}
+  a{color:var(--cyan);text-decoration:none}
+  a:hover{text-decoration:underline}
+
+  .terminal{display:flex;flex-direction:column;height:100vh}
+
+  /* Bloomberg-style top status line */
+  .bbg-top{
+    background:#000;border-bottom:1px solid var(--amber);
+    padding:4px 10px 3px;display:flex;align-items:center;gap:10px;
+    font-family:'IBM Plex Mono',monospace;font-size:11px;flex-wrap:wrap;
+  }
+  .bbg-top .brand{color:var(--amber);font-weight:700;letter-spacing:.12em;font-size:13px}
+  .bbg-top .brand small{color:var(--muted);font-weight:400;letter-spacing:.04em;margin-left:4px}
+  .bbg-top .status{color:var(--green);display:inline-flex;align-items:center;gap:4px;margin-left:6px}
+  .bbg-top .status .dot{width:6px;height:6px;background:var(--green);border-radius:50%;animation:pulse 1.8s infinite}
+  .bbg-top .updated{color:var(--muted);margin-left:8px}
+  .bbg-top .times{margin-left:auto;display:flex;gap:12px;align-items:center;color:var(--text)}
+  .bbg-top .times .tz{color:var(--muted);margin-right:3px}
+  .bbg-top .data{
+    display:flex;gap:6px;align-items:center;margin-left:10px;
+    font-size:10px;border:1px solid var(--border-bright);padding:1px 6px;background:#0a0a0a
+  }
+  .bbg-top .data a{color:var(--amber);font-weight:600}
+  .bbg-top .data .copy{margin-left:2px;color:var(--muted);cursor:pointer;border:1px solid var(--border);padding:0 3px;font-size:9px}
+  .bbg-top .data .copy:hover{border-color:var(--amber);color:var(--amber)}
+
+  @keyframes pulse{0%,100%{opacity:1}50%{opacity:.25}}
+
+  /* View tabs (function-key look) */
+  .bbg-tabs{
+    background:#050505;border-bottom:1px solid var(--border-bright);
+    padding:0 8px;display:flex;gap:0;font-family:'IBM Plex Mono',monospace;font-size:10.5px;
+  }
+  .bbg-tab{
+    padding:6px 14px;color:var(--muted);background:none;border:none;cursor:pointer;
+    font-family:inherit;font-size:10.5px;font-weight:600;letter-spacing:.04em;text-transform:uppercase;
+    border-bottom:2px solid transparent;white-space:nowrap
+  }
+  .bbg-tab.active{color:var(--amber);border-bottom-color:var(--amber);background:#0a0a0a}
+  .bbg-tab .n{color:var(--muted);font-weight:400;margin-left:4px}
+  .bbg-tab.active .n{color:var(--text)}
+
+  /* Command / filter bar — Bloomberg command line feel */
+  .bbg-cmd{
+    background:#080808;border-bottom:1px solid var(--border);
+    padding:5px 8px;display:flex;gap:6px;align-items:center;flex-wrap:wrap;
+    font-family:'IBM Plex Mono',monospace;font-size:10.5px
+  }
+  .bbg-cmd .prompt{color:var(--amber);font-weight:700;margin-right:2px}
+  .bbg-cmd input{
+    background:#000;border:1px solid var(--border-bright);color:var(--bright);
+    padding:3px 7px;font-family:inherit;font-size:11px;width:220px
+  }
+  .bbg-cmd input:focus{border-color:var(--amber);outline:none}
+  .bbg-cmd .lbl{color:var(--muted);text-transform:uppercase;letter-spacing:.06em;font-size:9.5px;margin-left:4px;margin-right:2px}
+  .bbg-cmd select{
+    background:#000;border:1px solid var(--border-bright);color:var(--text);
+    padding:2px 4px;font-family:inherit;font-size:10px
+  }
+  .bbg-cmd select:focus{border-color:var(--amber);outline:none}
+  .bbg-cmd button{
+    background:#000;border:1px solid var(--border-bright);color:var(--muted);
+    padding:2px 8px;font-family:inherit;font-size:10px;cursor:pointer
+  }
+  .bbg-cmd button:hover{border-color:var(--amber);color:var(--amber)}
+  .bbg-cmd .spacer{margin-left:auto;color:var(--muted);font-size:10px;padding-right:4px}
+
+  /* Monitor ribbon — top tickers with prices (very Bloomberg) */
+  .bbg-monitor{
+    background:#0a0a0a;border-bottom:1px solid var(--border);
+    padding:3px 8px;font-family:'IBM Plex Mono',monospace;font-size:10px;
+    display:flex;gap:4px;align-items:center;flex-wrap:wrap;color:var(--muted)
+  }
+  .bbg-monitor .lbl{color:var(--muted);text-transform:uppercase;letter-spacing:.08em;margin-right:6px;font-size:9px}
+  .bbg-monitor .sym{
+    display:inline-flex;align-items:baseline;gap:3px;padding:1px 5px;
+    border:1px solid #2a2a2a;color:var(--amber);cursor:pointer;font-weight:700;background:#000
+  }
+  .bbg-monitor .sym:hover{border-color:var(--amber)}
+  .bbg-monitor .sym.active{background:var(--amber);color:#000;border-color:var(--amber)}
+  .bbg-monitor .px{font-size:9px;font-weight:600;color:var(--green);margin-left:1px}
+  .bbg-monitor .px.neg{color:var(--red)}
+  .bbg-monitor .more{color:var(--dim);margin-left:4px}
+
+  /* Virtual list container */
+  .bbg-list-wrap{position:relative;flex:1;min-height:0;display:flex;flex-direction:column;background:#000}
+  .bbg-list-header{
+    position:sticky;top:0;z-index:20;background:#000;
+    border-bottom:1px solid var(--border-bright);
+    display:grid;grid-template-columns:54px 102px 1fr 86px 58px;
+    gap:6px;padding:3px 8px;font-family:'IBM Plex Mono',monospace;
+    font-size:9px;color:var(--muted);letter-spacing:.07em;text-transform:uppercase;white-space:nowrap
+  }
+  .bbg-viewport{
+    flex:1;min-height:0;overflow-y:auto;position:relative;background:#000
+  }
+  .bbg-spacer{position:absolute;left:0;right:0;top:0;pointer-events:none}
+  .bbg-vis{position:absolute;left:0;right:0;top:0;font-family:'IBM Plex Sans',sans-serif}
+
+  /* Dense Bloomberg-style rows */
+  .n-row{
+    position:absolute;left:0;right:0;height:18px;
+    display:grid;grid-template-columns:54px 102px 1fr 86px 58px;
+    gap:6px;padding:1px 8px 0;align-items:center;
+    border-bottom:1px solid #181818;cursor:pointer;font-size:11px;line-height:1.1
+  }
+  .n-row:hover{background:#161616}
+  .n-row.sent-positive{box-shadow:inset 2px 0 0 #1f5e2e}
+  .n-row.sent-negative{box-shadow:inset 2px 0 0 #5e1f1f}
+  .n-row .t{font-family:'IBM Plex Mono',monospace;color:var(--muted);font-size:10px;white-space:nowrap}
+  .n-row .t .d{font-size:8.5px;color:var(--dim);margin-top:-1px}
+  .n-row .tks{display:flex;align-items:baseline;gap:3px;min-width:0}
+  .n-row .tk{font-family:'IBM Plex Mono',monospace;font-size:12px;font-weight:700;color:var(--amber);letter-spacing:.01em;cursor:pointer}
+  .n-row .tk:hover{text-shadow:0 0 5px rgba(255,155,0,.5)}
+  .n-row .px{font-family:'IBM Plex Mono',monospace;font-size:9.5px;font-weight:600;margin-left:3px}
+  .n-row .px.pos{color:#00ff7f}
+  .n-row .px.neg{color:#ff3b3b}
+  .n-row .tl{color:var(--bright);font-size:11px;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+  .n-row .tl a{color:inherit}
+  .n-row .tl a:hover{color:var(--amber);text-decoration:none}
+  .n-row .src{font-family:'IBM Plex Mono',monospace;font-size:9.5px;color:var(--muted);white-space:nowrap;text-align:right}
+  .n-row .typ{font-family:'IBM Plex Mono',monospace;font-size:9px;text-transform:uppercase;font-weight:700;letter-spacing:.04em;border:1px solid var(--border-bright);color:var(--muted);padding:0 3px;text-align:center}
+
+  /* Type colors (Bloomberg palette) */
+  .typ-upgrade{color:#00ff7f!important;border-color:#1f5e2e!important}
+  .typ-downgrade{color:#ff3b3b!important;border-color:#5e1f1f!important}
+  .typ-analyst{color:#00d4ff!important;border-color:#1f4d5e!important}
+  .typ-earnings{color:#ffd84d!important;border-color:#5e571f!important}
+  .typ-ma{color:#ff5cc8!important;border-color:#5e1f4d!important}
+  .typ-fda{color:#5fff9e!important;border-color:#1f5e3e!important}
+  .typ-legal{color:#ff7a45!important;border-color:#5e3e1f!important}
+  .typ-guidance{color:#ffd84d!important;border-color:#5e571f!important}
+  .typ-dividend{color:#00d4ff!important;border-color:#1f4d5e!important}
+  .typ-offering{color:#a78bfa!important;border-color:#3e1f5e!important}
+  .typ-8k{color:#fbbf24!important;border-color:#5e441f!important}
+  .typ-macro{color:#5fa8ff!important;border-color:#1f3e5e!important}
+  .typ-press{color:#a78bfa!important;border-color:#3e1f5e!important}
+  .typ-filings{color:#fbbf24!important;border-color:#5e441f!important}
+
+  .date-sep{
+    position:absolute;left:0;right:0;height:16px;background:#000;
+    color:var(--amber);font-family:'IBM Plex Mono',monospace;font-size:9px;letter-spacing:.1em;
+    padding:1px 8px;border-bottom:1px solid #222;display:flex;align-items:center
+  }
+
+  /* Empty states */
+  .empty{padding:40px 16px;text-align:center;color:var(--muted);font-size:11px}
+  .empty h3{color:var(--text);font-family:'IBM Plex Mono',monospace;font-size:12px;margin-bottom:4px;letter-spacing:.06em}
+
+  /* Holdings / Book panel (kept functional, restyled) */
+  .holdings-panel{padding:14px 12px;color:var(--text)}
+  .holdings-panel h2{font-family:'IBM Plex Mono',monospace;letter-spacing:.06em;font-size:12px;text-transform:uppercase;color:var(--amber);margin-bottom:4px}
+  .holdings-panel p.lead{color:var(--muted);font-size:11px;line-height:1.4;max-width:720px;margin-bottom:10px}
+  .drop-zone{border:1px dashed var(--border-bright);background:#0a0a0a;padding:22px;text-align:center;cursor:pointer}
+  .drop-zone:hover,.drop-zone.dragover{border-color:var(--amber);background:#0f0c05}
+  .drop-zone .big{font-family:'IBM Plex Mono',monospace;font-size:12px;color:var(--amber);letter-spacing:.06em;text-transform:uppercase;margin-bottom:2px}
+  .drop-zone .sml{color:var(--muted);font-size:10px}
+  .drop-zone input[type=file]{display:none}
+  .parse-actions{display:flex;gap:6px;margin-top:8px;flex-wrap:wrap}
+  .parse-actions button{background:#000;border:1px solid var(--border-bright);color:var(--text);padding:3px 9px;font-family:'IBM Plex Mono',monospace;font-size:10px;letter-spacing:.05em;text-transform:uppercase;cursor:pointer}
+  .parse-actions button.primary{background:var(--amber);color:#000;border-color:var(--amber);font-weight:700}
+  .parse-actions button:hover{border-color:var(--amber)}
+  textarea#hldPaste{width:100%;background:#0a0a0a;border:1px solid var(--border-bright);color:var(--text);padding:8px;font-family:'IBM Plex Mono',monospace;font-size:11px}
+
+  /* Book header above filtered stream */
+  .book-hdr{background:#0a0a0a;border-bottom:1px solid var(--border);padding:4px 8px;font-family:'IBM Plex Mono',monospace;font-size:10px;color:var(--muted);display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+  .book-hdr .b{font-weight:700;color:var(--amber)}
+
+  /* Footer status line */
+  .bbg-foot{
+    background:#000;border-top:1px solid var(--border);padding:2px 8px;
+    font-family:'IBM Plex Mono',monospace;font-size:9px;color:var(--dim);
+    display:flex;gap:10px;align-items:center
+  }
+  .bbg-foot .k{color:var(--muted)}
+
+  /* Tooltip (kept from original, refined) */
+  #nd-tip{
+    position:fixed;z-index:500;display:none;pointer-events:none;
+    background:#0a0a0a;border:1px solid var(--amber);
+    box-shadow:0 8px 24px rgba(0,0,0,.75),0 0 16px rgba(255,155,0,.16);
+    color:var(--text);padding:8px 10px;max-width:300px;
+    font-family:'IBM Plex Sans',sans-serif;font-size:11px;line-height:1.35;border-radius:1px
+  }
+
+  @media (max-width:900px){
+    .bbg-top{font-size:10px}
+    .bbg-cmd input{width:140px}
+    .bbg-list-header,.n-row{grid-template-columns:46px 84px 1fr 72px 52px;font-size:10px}
+  }
+</style>
+</head>
+<body>
+
+<div class="terminal">
+
+  <!-- Top Bloomberg status line -->
+  <div class="bbg-top">
+    <span class="brand">NUMICHART NEWS <small>v0.2 TERMINAL</small></span>
+    <span class="status"><span class="dot"></span>LIVE</span>
+    <span class="updated" id="updated">—</span>
+
+    <span class="data" title="Directly fetchable JSON — perfect for scripts, curl, other dashboards, or piping into tools">
+      <a id="json-headlines" href="data/headlines.json" target="_blank" rel="noopener">headlines.json</a>
+      <span class="copy" onclick="copyJsonUrl('headlines')">COPY</span>
+      <a id="json-stocks" href="data/stocks.json" target="_blank" rel="noopener">stocks.json</a>
+      <span class="copy" onclick="copyJsonUrl('stocks')">COPY</span>
+    </span>
+
+    <span class="times">
+      <span><span class="tz">ET</span><span id="clockET">—</span></span>
+      <span><span class="tz">UTC</span><span id="clock">—</span></span>
+    </span>
+  </div>
+
+  <!-- View tabs (function key style) -->
+  <div class="bbg-tabs">
+    <button class="bbg-tab active" data-view="news" onclick="switchView('news')">NEWS <span class="n" id="count-news">0</span></button>
+    <button class="bbg-tab" data-view="book" onclick="switchView('book')">MY BOOK <span class="n" id="count-book">0</span></button>
+  </div>
+
+  <!-- Command bar -->
+  <div class="bbg-cmd">
+    <span class="prompt">&gt;</span>
+    <input id="search" placeholder="SEARCH HEADLINE / TICKER / SOURCE" />
+    <span class="lbl">SRC</span>
+    <select id="srcFilter"><option value="">ALL</option></select>
+    <span class="lbl">TYPE</span>
+    <select id="typeFilter"><option value="">ALL</option></select>
+    <button onclick="clearFilters()">CLR</button>
+    <span class="spacer" id="counts">0 / 0</span>
+  </div>
+
+  <!-- Monitor ribbon (top tickers + prices) -->
+  <div id="monitor" class="bbg-monitor"></div>
+
+  <!-- Main content area (virtual list or book upload) -->
+  <div id="content" class="bbg-content" style="flex:1;min-height:0;display:flex;flex-direction:column"></div>
+
+  <!-- Bottom status / shortcuts -->
+  <div class="bbg-foot">
+    <span><span class="k">/</span> focus search &nbsp; <span class="k">1</span> NEWS &nbsp; <span class="k">2</span> BOOK &nbsp; <span class="k">ESC</span> clear</span>
+    <span style="margin-left:auto">JSON endpoints above are live &amp; public. Fetch directly from curl / Python / other terminals.</span>
+  </div>
+
+</div>
+
+<script>
+/* ====================== STATE & PERSISTENCE ====================== */
+const STATE = {
+  headlines: [],
+  generated: null,
+  stocks: {},
+  tickerNames: {},
+  view: 'news',
+  selectedTicker: null,
+  watchlist: [],
+  watchOnly: false,
+  holdingsSummary: null,
+};
+
+const LS_KEY = 'nd-prefs-v1';
+function _loadPrefs(){
+  try{
+    const raw = localStorage.getItem(LS_KEY);
+    if(!raw) return;
+    const p = JSON.parse(raw);
+    if(Array.isArray(p.watchlist)) STATE.watchlist = p.watchlist.map(s => String(s).toUpperCase());
+    if(typeof p.watchOnly === 'boolean') STATE.watchOnly = p.watchOnly;
+    if(p.holdingsSummary) STATE.holdingsSummary = p.holdingsSummary;
+  }catch(e){}
+}
+function _savePrefs(){
+  try{
+    localStorage.setItem(LS_KEY, JSON.stringify({
+      watchlist: STATE.watchlist,
+      watchOnly: STATE.watchOnly,
+      holdingsSummary: STATE.holdingsSummary,
+    }));
+  }catch(e){}
+}
+_loadPrefs();
+
+/* ====================== TIME & CLOCKS ====================== */
+function tick(){
+  const now = new Date();
+  const hh = String(now.getUTCHours()).padStart(2,'0');
+  const mm = String(now.getUTCMinutes()).padStart(2,'0');
+  const ss = String(now.getUTCSeconds()).padStart(2,'0');
+  const el = document.getElementById('clock');
+  if(el) el.textContent = `${hh}:${mm}:${ss}`;
+  const etEl = document.getElementById('clockET');
+  if(etEl){
+    const et = new Intl.DateTimeFormat('en-US',{timeZone:'America/New_York',hour:'2-digit',minute:'2-digit',second:'2-digit',hour12:false}).format(now);
+    etEl.textContent = et;
+  }
+}
+setInterval(tick, 1000);
+tick();
+
+function fmtUpdated(iso){
+  if(!iso) return 'NO DATA';
+  const d = new Date(iso);
+  const diff = (new Date() - d) / 1000;
+  if(diff < 60) return 'JUST NOW';
+  if(diff < 3600) return Math.floor(diff/60) + 'M AGO';
+  return d.toLocaleTimeString('en-US',{hour:'2-digit',minute:'2-digit',hour12:false,timeZone:'UTC'}) + ' UTC';
+}
+
+/* ====================== UTILS ====================== */
+function escapeHtml(s){
+  return (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+function groupLabel(iso){
+  if(!iso) return '';
+  const d = new Date(iso);
+  const today = new Date(); today.setUTCHours(0,0,0,0);
+  const yest = new Date(today); yest.setUTCDate(yest.getUTCDate()-1);
+  const d0 = new Date(d); d0.setUTCHours(0,0,0,0);
+  if(d0.getTime() === today.getTime()) return 'TODAY';
+  if(d0.getTime() === yest.getTime()) return 'YESTERDAY';
+  return d.toLocaleDateString('en-US',{weekday:'short',month:'short',day:'numeric',timeZone:'UTC'}).toUpperCase();
+}
+
+/* ====================== FILTERING ====================== */
+function applyFilters(list){
+  const q = (document.getElementById('search')?.value || '').trim().toLowerCase();
+  const src = document.getElementById('srcFilter')?.value || '';
+  const typ = document.getElementById('typeFilter')?.value || '';
+
+  let out = list.filter(h => (h.tickers||[]).length > 0); // only ticker-tagged (as before)
+
+  if(STATE.view === 'book' && STATE.watchlist.length){
+    out = out.filter(h => (h.tickers||[]).some(t => STATE.watchlist.includes(t)));
+  }
+  if(src && src !== 'ALL') out = out.filter(h => h.source === src);
+  if(typ && typ !== 'ALL') out = out.filter(h => h.type === typ);
+  if(STATE.selectedTicker){
+    out = out.filter(h => (h.tickers||[]).includes(STATE.selectedTicker));
+  }
+  if(q){
+    out = out.filter(h => {
+      const hay = (h.title + ' ' + (h.summary||'') + ' ' + (h.tickers||[]).join(' ') + ' ' + h.source).toLowerCase();
+      return hay.includes(q);
+    });
+  }
+  return out;
+}
+
+function computeTopTickers(list, n=22){
+  const map = {};
+  (list||[]).forEach(h => (h.tickers||[]).forEach(t => { map[t] = (map[t]||0) + 1; }));
+  return Object.entries(map).sort((a,b)=> b[1]-a[1]).slice(0,n);
+}
+
+/* ====================== VIRTUAL SCROLLER ====================== */
+const ROW_H = 18;           // dense Bloomberg row height
+let currentFiltered = [];
+let scrollRAF = null;
+
+function getViewport(){
+  return document.getElementById('viewport');
+}
+function getVisibles(){
+  return document.getElementById('visibles');
+}
+function getSpacer(){
+  return document.getElementById('spacer');
+}
+
+function setupVirtualList(container){
+  // container will receive the list-wrap
+  container.innerHTML = `
+    <div class="bbg-list-wrap">
+      <div class="bbg-list-header">
+        <div>TIME</div>
+        <div>TICKER</div>
+        <div>HEADLINE</div>
+        <div>SOURCE</div>
+        <div>TYPE</div>
+      </div>
+      <div id="viewport" class="bbg-viewport">
+        <div id="spacer" class="bbg-spacer"></div>
+        <div id="visibles" class="bbg-vis"></div>
+      </div>
+    </div>
+  `;
+  const vp = getViewport();
+  if(vp){
+    vp.addEventListener('scroll', () => {
+      if(scrollRAF) cancelAnimationFrame(scrollRAF);
+      scrollRAF = requestAnimationFrame(renderVisibleSlice);
+    }, {passive:true});
+  }
+}
+
+function updateVirtualHeight(){
+  const spacer = getSpacer();
+  if(spacer) spacer.style.height = (currentFiltered.length * ROW_H) + 'px';
+}
+
+function fmtTime(iso){
+  if(!iso) return {hh:'—', rel:''};
+  const d = new Date(iso);
+  if(isNaN(d)) return {hh:'—', rel:''};
+  const now = new Date();
+  const diffMin = (now - d) / 60000;
+  const hh = String(d.getUTCHours()).padStart(2,'0') + ':' + String(d.getUTCMinutes()).padStart(2,'0');
+  if(diffMin < 1) return {hh, rel:'NOW'};
+  if(diffMin < 60) return {hh, rel: Math.floor(diffMin)+'M'};
+  if(diffMin < 60*8) return {hh, rel: Math.floor(diffMin/60)+'H'};
+  return {hh, rel: d.toLocaleDateString('en-US',{month:'numeric',day:'numeric',timeZone:'UTC'})};
+}
+
+function buildRowHTML(h, top, prevH){
+  const t = fmtTime(h.published);
+  const tickers = h.tickers || [];
+  const primary = tickers[0] || '';
+  const others = tickers.slice(1);
+
+  const s = STATE.stocks && STATE.stocks[primary];
+  let priceHtml = '';
+  if(s){
+    const pos = s.change_pct >= 0;
+    priceHtml = `<span class="px ${pos?'pos':'neg'}">${pos?'+':''}${s.change_pct}%</span>`;
+  }
+
+  const tks = `<span class="tk" data-ticker="${primary}" onclick="event.stopPropagation();tickerClick(event,'${primary}')">${primary}</span>` +
+              (others.length ? others.map(tk => `<span class="tk" data-ticker="${tk}" onclick="event.stopPropagation();tickerClick(event,'${tk}')" style="font-size:9.5px;opacity:.75">${tk}</span>`).join('') : '') +
+              priceHtml;
+
+  const typ = (h.type||'news').toUpperCase();
+  const src = escapeHtml(h.source);
+  const title = escapeHtml(h.title);
+
+  // day separator hint inside the time cell for the first of a new day
+  let timeCell = `<div class="t">${t.hh}<br><span class="d">${t.rel||''}</span></div>`;
+  const thisDay = (h.published||'').slice(0,10);
+  const prevDay = prevH ? (prevH.published||'').slice(0,10) : null;
+  if(thisDay && thisDay !== prevDay){
+    timeCell = `<div class="t">${t.hh}<br><span class="d" style="color:var(--amber)">${groupLabel(h.published)}</span></div>`;
+  }
+
+  const row = `<div class="n-row sent-${h.sentiment||'neutral'}" style="top:${top}px" onclick="this.classList.toggle('expand');event.target.tagName==='A'||(window.open('${escapeHtml(h.link)}','_blank'))">
+    <div>${timeCell}</div>
+    <div class="tks">${tks}</div>
+    <div class="tl"><a href="${escapeHtml(h.link)}" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">${title}</a></div>
+    <div class="src">${src}</div>
+    <div><span class="typ typ-${h.type||'news'}">${typ}</span></div>
+  </div>`;
+  return row;
+}
+
+function renderVisibleSlice(){
+  const vp = getViewport();
+  const vis = getVisibles();
+  if(!vp || !vis) return;
+
+  const scrollTop = vp.scrollTop || 0;
+  const vh = vp.clientHeight || 800;
+
+  const start = Math.max(0, Math.floor(scrollTop / ROW_H) - 5);
+  const end = Math.min(currentFiltered.length, Math.ceil((scrollTop + vh) / ROW_H) + 8);
+
+  const slice = currentFiltered.slice(start, end);
+  let html = '';
+  let prev = start > 0 ? currentFiltered[start-1] : null;
+
+  slice.forEach((h, i) => {
+    const globalIdx = start + i;
+    const top = globalIdx * ROW_H;
+    html += buildRowHTML(h, top, prev);
+    prev = h;
+  });
+
+  vis.innerHTML = html;
+  vis.style.height = (currentFiltered.length * ROW_H) + 'px';
+}
+
+/* ====================== RENDER / UPDATE ====================== */
+function updateCountsAndMonitor(){
+  const tickerTagged = STATE.headlines.filter(h => (h.tickers||[]).length > 0);
+  const newsCount = tickerTagged.length;
+  document.getElementById('count-news').textContent = newsCount;
+
+  let bookCount = 0;
+  if(STATE.watchlist.length){
+    bookCount = tickerTagged.filter(h => (h.tickers||[]).some(t => STATE.watchlist.includes(t))).length;
+  }
+  document.getElementById('count-book').textContent = bookCount;
+
+  // counts in cmd bar
+  const shown = currentFiltered.length;
+  const total = (STATE.view === 'book' && STATE.watchlist.length) ? bookCount : newsCount;
+  const c = document.getElementById('counts');
+  if(c) c.textContent = `${shown} / ${total} SHOWN`;
+
+  // monitor ribbon
+  const mon = document.getElementById('monitor');
+  if(!mon) return;
+
+  let pool = tickerTagged;
+  if(STATE.view === 'book' && STATE.watchlist.length){
+    pool = tickerTagged.filter(h => (h.tickers||[]).some(t => STATE.watchlist.includes(t)));
+  }
+  const top = computeTopTickers(pool, 20);
+
+  let html = `<span class="lbl">${STATE.view==='book' && STATE.watchlist.length ? 'BOOK' : 'MOST ACTIVE'}</span>`;
+  if(!top.length){
+    html += `<span style="color:var(--dim)">— no tickers —</span>`;
+  }else{
+    top.forEach(([t,c]) => {
+      const s = STATE.stocks && STATE.stocks[t];
+      let px = '';
+      if(s){
+        const pos = s.change_pct >= 0;
+        px = `<span class="px ${pos?'':'neg'}">${pos?'+':''}${s.change_pct}%</span>`;
+      }
+      const active = STATE.selectedTicker === t ? 'active' : '';
+      html += `<span class="sym ${active}" data-ticker="${t}" onclick="pickTicker('${t}')">${t}${px}<span style="opacity:.55;font-size:9px;margin-left:2px">${c}</span></span>`;
+    });
+  }
+  if(STATE.selectedTicker){
+    html += `<button onclick="pickTicker(null)" style="margin-left:6px;border-color:var(--amber);color:var(--amber)">CLEAR ${STATE.selectedTicker}</button>`;
+  }
+  mon.innerHTML = html;
+}
+
+function render(){
+  const content = document.getElementById('content');
+  if(!content) return;
+
+  const tickerTagged = STATE.headlines.filter(h => (h.tickers||[]).length > 0);
+
+  if(STATE.view === 'book' && !STATE.watchlist.length){
+    // Upload UI
+    content.innerHTML = `
+      <div class="holdings-panel">
+        <h2>▸ MY BOOK</h2>
+        <p class="lead">Drop a holdings .xlsx (any file with a Symbol / Ticker / CUSIP column). Tickers become your book — the feed will then show only stories mentioning those names. Everything is parsed locally in your browser.</p>
+        <label class="drop-zone" id="hldDrop">
+          <div class="big">DROP .XLSX / .CSV HERE OR CLICK</div>
+          <div class="sml">Looks for Symbol / Ticker / CUSIP / ID columns</div>
+          <input type="file" id="hldFile" accept=".xlsx,.xls,.csv">
+        </label>
+        <p class="lead" style="margin-top:10px">Or paste tickers (space / comma / newline separated):</p>
+        <textarea id="hldPaste" rows="2" placeholder="AAPL MSFT NVDA GOOGL META TSLA"></textarea>
+        <div class="parse-actions">
+          <button onclick="_pasteWatchlist()" class="primary">LOAD TICKERS</button>
+        </div>
+      </div>`;
+    _wireHoldingsUI();
+    document.getElementById('counts').textContent = `0 / ${tickerTagged.length} SHOWN`;
+    document.getElementById('monitor').innerHTML = `<span class="lbl">BOOK</span><span style="color:var(--dim)">load a file or paste tickers above</span>`;
+    return;
+  }
+
+  // Stream view (NEWS or filtered BOOK)
+  currentFiltered = applyFilters(STATE.headlines);
+
+  // ensure virtual DOM exists
+  let listWrap = content.querySelector('.bbg-list-wrap');
+  if(!listWrap){
+    setupVirtualList(content);
+  }
+
+  // optional book header
+  const existingHdr = content.querySelector('.book-hdr');
+  if(STATE.view === 'book' && STATE.watchlist.length){
+    const s = STATE.holdingsSummary || {};
+    const label = s.filename ? `loaded · ${escapeHtml(s.filename)}` : 'pasted';
+    const hdrHTML = `<div class="book-hdr"><span><span class="b">${STATE.watchlist.length}</span> tickers in book · ${label}</span>
+      <button id="bookReload" style="background:#000;border:1px solid var(--border-bright);color:var(--text);padding:1px 6px;font-family:inherit;font-size:9px">RELOAD FILE</button>
+      <button id="bookClear" style="background:#000;border:1px solid var(--border-bright);color:var(--text);padding:1px 6px;font-family:inherit;font-size:9px">CLEAR BOOK</button>
+    </div>`;
+    if(existingHdr){
+      existingHdr.outerHTML = hdrHTML;
+    }else{
+      const vp = getViewport();
+      if(vp && vp.parentNode){
+        vp.parentNode.insertAdjacentHTML('afterbegin', hdrHTML);
+      }
+    }
+    _wireBookHeader();
+  }else if(existingHdr){
+    existingHdr.remove();
+  }
+
+  updateVirtualHeight();
+  renderVisibleSlice();
+  updateCountsAndMonitor();
+}
+
+/* ====================== ACTIONS ====================== */
+function pickTicker(t){
+  STATE.selectedTicker = (STATE.selectedTicker === t) ? null : t;
+  const vp = getViewport();
+  if(vp) vp.scrollTop = 0;
+  render();
+}
+
+function tickerClick(ev, t){
+  if(ev && (ev.shiftKey || ev.metaKey || ev.ctrlKey)){
+    window.open(`https://helioskozak-cloud.github.io/regime-desk/?pin=${encodeURIComponent(t)}#stocks`, '_blank', 'noopener,noreferrer');
+    return;
+  }
+  pickTicker(t);
+}
+
+function switchView(v){
+  STATE.view = v;
+  STATE.selectedTicker = null;
+  document.querySelectorAll('.bbg-tab').forEach(b => b.classList.toggle('active', b.dataset.view === v));
+  const vp = getViewport();
+  if(vp) vp.scrollTop = 0;
+  render();
+}
+
+function clearFilters(){
+  const s = document.getElementById('search');
+  const src = document.getElementById('srcFilter');
+  const typ = document.getElementById('typeFilter');
+  if(s) s.value = '';
+  if(src) src.value = '';
+  if(typ) typ.value = '';
+  STATE.selectedTicker = null;
+  const vp = getViewport();
+  if(vp) vp.scrollTop = 0;
+  render();
+}
+
+/* ====================== DATA LOADING ====================== */
+function reload(){
+  Promise.all([
+    fetch('data/headlines.json?_t=' + Date.now()).then(r => r.json()).catch(()=>null),
+    fetch('data/stocks.json?_t=' + Date.now()).then(r => r.ok ? r.json() : null).catch(()=>null),
+  ]).then(([doc, stocksDoc]) => {
+    if(stocksDoc) STATE.stocks = stocksDoc.stocks || {};
+    if(!doc){
+      const c = document.getElementById('content');
+      if(c) c.innerHTML = '<div class="empty"><h3>FEED ERROR</h3><div>Could not load headlines.json</div></div>';
+      return;
+    }
+    STATE.headlines = doc.headlines || [];
+    STATE.generated = doc.generated;
+    STATE.tickerNames = doc.ticker_names || {};
+
+    // populate filter dropdowns (only when data changes)
+    const sources = [...new Set(STATE.headlines.map(h=>h.source))].sort();
+    const types = [...new Set(STATE.headlines.map(h=>h.type).filter(Boolean))].sort();
+
+    const srcSel = document.getElementById('srcFilter');
+    const curSrc = srcSel ? srcSel.value : '';
+    if(srcSel){
+      srcSel.innerHTML = '<option value="">ALL</option>' + sources.map(s => `<option value="${escapeHtml(s)}"${s===curSrc?' selected':''}>${escapeHtml(s)}</option>`).join('');
+    }
+    const typSel = document.getElementById('typeFilter');
+    const curTyp = typSel ? typSel.value : '';
+    if(typSel){
+      typSel.innerHTML = '<option value="">ALL</option>' + types.map(t => `<option value="${escapeHtml(t)}"${t===curTyp?' selected':''}>${escapeHtml(t.toUpperCase())}</option>`).join('');
+    }
+
+    const up = document.getElementById('updated');
+    if(up) up.textContent = fmtUpdated(STATE.generated);
+
+    render();
+  });
+}
+
+/* ====================== KEYBOARD ====================== */
+function wireKeyboard(){
+  document.addEventListener('keydown', (e) => {
+    if(e.key === '/' && document.activeElement.tagName !== 'INPUT' && document.activeElement.tagName !== 'TEXTAREA'){
+      e.preventDefault();
+      const s = document.getElementById('search');
+      if(s){ s.focus(); s.select(); }
+    }
+    if(e.key.toLowerCase() === 'escape'){
+      clearFilters();
+    }
+    if(e.key === '1' && document.activeElement.tagName === 'BODY'){
+      switchView('news');
+    }
+    if(e.key === '2' && document.activeElement.tagName === 'BODY'){
+      switchView('book');
+    }
+  });
+
+  // debounce search
+  const s = document.getElementById('search');
+  if(s){
+    let t;
+    s.addEventListener('input', () => {
+      clearTimeout(t);
+      t = setTimeout(() => {
+        const vp = getViewport();
+        if(vp) vp.scrollTop = 0;
+        render();
+      }, 70);
+    });
+  }
+
+  const src = document.getElementById('srcFilter');
+  const typ = document.getElementById('typeFilter');
+  if(src) src.addEventListener('change', () => { const vp = getViewport(); if(vp) vp.scrollTop=0; render(); });
+  if(typ) typ.addEventListener('change', () => { const vp = getViewport(); if(vp) vp.scrollTop=0; render(); });
+}
+
+/* ====================== HOLDINGS / BOOK (ported) ====================== */
+const _HLD_SYM_HEADERS = ['symbol / cusip / id','symbol / cusip','symbol','ticker','security id','cusip'];
+const _TICKER_RE = /^[A-Z]{1,5}(?:\.[A-Z]{1,2})?$/;
+const _CASH_LIKE = new Set(['CASH','USD','MMF','SPAXX','VMFXX','SWVXX','FDRXX','FZFXX','VMRXX','SNSXX','MM','SWEEP','BANKDEP','INSURED','9999136']);
+
+function _findSymbolColumn(headers){
+  const norm = headers.map(h => String(h||'').trim().toLowerCase());
+  for(const want of _HLD_SYM_HEADERS){
+    for(let i=0;i<norm.length;i++){
+      if(norm[i] === want || norm[i].includes(want)) return {idx:i, label:headers[i]};
+    }
+  }
+  return null;
+}
+
+function _pasteWatchlist(){
+  const ta = document.getElementById('hldPaste');
+  if(!ta || !ta.value.trim()) return;
+  const tks = ta.value.split(/[\s,;]+/).map(s => s.trim().toUpperCase().replace(/[^A-Z0-9.]/g,'')).filter(s => s && _TICKER_RE.test(s));
+  if(!tks.length){ alert('No valid tickers found.'); return; }
+  STATE.watchlist = [...new Set(tks)].sort();
+  STATE.holdingsSummary = { filename: 'pasted (' + STATE.watchlist.length + ' tickers)' };
+  _savePrefs();
+  render();
+}
+window._pasteWatchlist = _pasteWatchlist;
+
+function _parseHoldings(file){
+  if(typeof XLSX === 'undefined'){ alert('SheetJS still loading...'); return; }
+  const reader = new FileReader();
+  reader.onload = ev => {
+    try{
+      const data = new Uint8Array(ev.target.result);
+      const wb = XLSX.read(data, {type:'array'});
+      const sheet = wb.Sheets[wb.SheetNames[0]];
+      const rows = XLSX.utils.sheet_to_json(sheet, {header:1, raw:true, defval:''});
+      let headerIdx = 0;
+      for(let i=0;i<Math.min(rows.length,6);i++){
+        if(rows[i].filter(v => String(v||'').trim().length > 0).length >= 4){ headerIdx = i; break; }
+      }
+      const headers = rows[headerIdx] || [];
+      const dataRows = rows.slice(headerIdx + 1);
+      const symCol = _findSymbolColumn(headers);
+      if(!symCol){
+        STATE.holdingsSummary = { filename:file.name, rowCount:dataRows.length, symCol:null, tickerCount:0, skipped:dataRows.length, error:'No Symbol-like column' };
+        render(); return;
+      }
+      const seen = new Set();
+      let skipped = 0;
+      for(const r of dataRows){
+        const raw = r[symCol.idx];
+        const tk = String(raw||'').trim().toUpperCase().replace(/\s+/g,'');
+        if(!tk) continue;
+        if(_CASH_LIKE.has(tk)){ skipped++; continue; }
+        if(!_TICKER_RE.test(tk)){ skipped++; continue; }
+        seen.add(tk);
+      }
+      STATE.watchlist = [...seen].sort();
+      STATE.watchOnly = STATE.watchlist.length > 0;
+      STATE.holdingsSummary = { filename:file.name, rowCount:dataRows.length, symCol:symCol.label, tickerCount:STATE.watchlist.length, skipped };
+      _savePrefs();
+      render();
+    }catch(err){
+      STATE.holdingsSummary = { filename:file.name, rowCount:0, error:String(err) };
+      render();
+    }
+  };
+  reader.readAsArrayBuffer(file);
+}
+
+function _wireHoldingsUI(){
+  const drop = document.getElementById('hldDrop');
+  const inp = document.getElementById('hldFile');
+  if(!drop || !inp) return;
+  inp.addEventListener('change', e => { if(e.target.files[0]) _parseHoldings(e.target.files[0]); });
+  ['dragover','dragenter'].forEach(ev => drop.addEventListener(ev, e => { e.preventDefault(); drop.classList.add('dragover'); }));
+  ['dragleave','drop'].forEach(ev => drop.addEventListener(ev, e => { e.preventDefault(); drop.classList.remove('dragover'); }));
+  drop.addEventListener('drop', e => {
+    e.preventDefault();
+    const f = e.dataTransfer.files[0];
+    if(f) _parseHoldings(f);
+  });
+}
+
+function _wireBookHeader(){
+  const r = document.getElementById('bookReload');
+  const c = document.getElementById('bookClear');
+  if(r) r.addEventListener('click', () => {
+    STATE.view = 'book';
+    STATE.holdingsSummary = null;
+    STATE.watchlist = [];
+    _savePrefs();
+    render();
+  });
+  if(c) c.addEventListener('click', () => {
+    STATE.watchlist = [];
+    STATE.watchOnly = false;
+    _savePrefs();
+    render();
+  });
+}
+
+function clearWatchlist(){
+  STATE.watchlist = [];
+  STATE.watchOnly = false;
+  _savePrefs();
+  render();
+}
+window.clearWatchlist = clearWatchlist;
+
+/* ====================== JSON URL HELPERS ====================== */
+function copyJsonUrl(which){
+  const base = location.href.replace(/index\.html.*$/,'').replace(/\/$/,'') + '/';
+  const url = which === 'stocks' ? base + 'data/stocks.json' : base + 'data/headlines.json';
+  navigator.clipboard.writeText(url).then(() => {
+    const orig = event.currentTarget;
+    // visual flash on the clicked copy
+    const copies = document.querySelectorAll('.bbg-top .copy');
+    copies.forEach(el => {
+      if(el.textContent === 'COPY') el.textContent = 'COPIED';
+    });
+    setTimeout(() => {
+      copies.forEach(el => el.textContent = 'COPY');
+    }, 1100);
+  }).catch(() => {
+    // fallback
+    prompt('Copy this URL:', url);
+  });
+}
+
+/* ====================== TOOLTIP (kept & refined) ====================== */
+(function initTooltip(){
+  const tip = document.createElement('div');
+  tip.id = 'nd-tip';
+  document.body.appendChild(tip);
+  let _cx=0, _cy=0;
+
+  function pos(cx,cy){
+    const tw = tip.offsetWidth || 260, th = tip.offsetHeight || 130;
+    let lx = cx + 12, ly = cy + 10;
+    if(lx + tw > window.innerWidth - 6) lx = cx - tw - 10;
+    if(ly + th > window.innerHeight - 6) ly = cy - th - 8;
+    tip.style.left = lx + 'px';
+    tip.style.top = ly + 'px';
+  }
+
+  function rel(iso){
+    if(!iso) return '';
+    const diff = (new Date() - new Date(iso)) / 60000;
+    if(diff < 1) return 'just now';
+    if(diff < 60) return Math.floor(diff) + 'm ago';
+    if(diff < 60*24) return Math.floor(diff/60) + 'h ago';
+    return Math.floor(diff/1440) + 'd ago';
+  }
+
+  function spark(closes){
+    if(!closes || closes.length < 2) return '';
+    const W=220, H=28, mn=Math.min(...closes), mx=Math.max(...closes), rng=(mx-mn)||1, n=closes.length;
+    const pts = closes.map((v,i) => `${((i/(n-1))*W).toFixed(1)},${(H-2-((v-mn)/rng)*(H-5)).toFixed(1)}`).join(' ');
+    const col = closes[closes.length-1] >= closes[0] ? '#3fb950' : '#f85149';
+    return `<svg width="${W}" height="${H}" style="display:block;margin-top:4px" viewBox="0 0 ${W} ${H}"><polyline points="${pts}" fill="none" stroke="${col}" stroke-width="1.5" stroke-linecap="round"/></svg>`;
+  }
+
+  function priceBlock(tk){
+    const s = STATE.stocks && STATE.stocks[tk];
+    if(!s) return '';
+    const pos = s.change_pct >= 0;
+    const sign = pos ? '+' : '';
+    return `<div style="border-top:1px solid #222;border-bottom:1px solid #222;margin:6px 0;padding:4px 0;font-family:'IBM Plex Mono',monospace">
+      <div style="display:flex;align-items:baseline;gap:6px">
+        <span style="color:#f0f6fc;font-size:15px;font-weight:700">$${s.price.toFixed(2)}</span>
+        <span style="color:${pos?'#00ff7f':'#ff3b3b'};font-weight:700">${sign}${s.change_pct.toFixed(2)}%</span>
+        <span style="color:#484f58;font-size:9px">TODAY</span>
+      </div>
+      ${spark(s.week_closes)}
+      <div style="font-size:8.5px;color:#6e7681;margin-top:2px">${s.wk_low.toFixed(2)} — ${s.wk_high.toFixed(2)} (7d)</div>
+    </div>`;
+  }
+
+  function show(tk, cx, cy){
+    _cx = cx; _cy = cy;
+    const heads = (STATE.headlines||[]).filter(h => (h.tickers||[]).includes(tk));
+    const name = (STATE.tickerNames||{})[tk] || '';
+    const recent = heads.slice(0,3);
+    const total = heads.length;
+    const typeCounts = {};
+    heads.forEach(h => { const t = h.type || 'news'; typeCounts[t] = (typeCounts[t]||0)+1; });
+    const topTypes = Object.entries(typeCounts).sort((a,b)=>b[1]-a[1]).slice(0,3);
+
+    let html = `<div style="display:flex;align-items:center;gap:6px;margin-bottom:2px">
+      <img src="https://assets.parqet.com/logos/symbol/${tk}?format=jpg" width="22" height="22" style="border-radius:2px;background:#fff;border:1px solid #222;object-fit:contain" onerror="this.style.display='none'">
+      <strong style="color:var(--amber);font-family:'IBM Plex Mono',monospace;font-size:15px;letter-spacing:.03em">${tk}</strong>
+    </div>`;
+    if(name) html += `<div style="color:var(--muted);font-size:10px;margin-bottom:2px">${escapeHtml(name)}</div>`;
+    html += priceBlock(tk);
+    html += `<div style="font-family:'IBM Plex Mono',monospace;font-size:10px"><span style="color:var(--amber)">${total}</span> headline${total===1?'':'s'} in feed</div>`;
+    if(topTypes.length){
+      html += '<div style="margin:3px 0;display:flex;gap:3px;flex-wrap:wrap">' +
+        topTypes.map(([t,c]) => `<span style="font-family:'IBM Plex Mono',monospace;font-size:8.5px;background:#111;border:1px solid #222;padding:0 3px">${t} ${c}</span>`).join('') + '</div>';
+    }
+    recent.forEach(h => {
+      html += `<div style="border-top:1px solid #222;padding-top:3px;margin-top:3px;font-size:10px">
+        <div style="color:var(--muted);font-size:9px">${escapeHtml(h.source)} · ${rel(h.published)}</div>
+        <div style="color:var(--text)">${escapeHtml(h.title.length>78?h.title.slice(0,78)+'…':h.title)}</div>
+      </div>`;
+    });
+    html += `<div style="margin-top:5px;color:var(--muted);font-size:9px;line-height:1.3">click ticker → filter &nbsp; shift-click → external desk</div>`;
+    tip.innerHTML = html;
+    pos(cx,cy);
+    tip.style.display = 'block';
+  }
+  function hide(){ tip.style.display = 'none'; }
+
+  document.addEventListener('mouseover', e => {
+    const el = e.target.closest && e.target.closest('[data-ticker]');
+    if(el && el.dataset.ticker) show(el.dataset.ticker, e.clientX, e.clientY);
+    else hide();
+  });
+  document.addEventListener('mousemove', e => {
+    _cx = e.clientX; _cy = e.clientY;
+    if(tip.style.display === 'block') pos(_cx, _cy);
+  });
+  document.addEventListener('mouseout', e => {
+    const el = e.target.closest && e.target.closest('[data-ticker]');
+    if(el && !el.contains(e.relatedTarget)) hide();
+  });
+})();
+
+/* ====================== INIT ====================== */
+function init(){
+  // wire selects + search debounce + keyboard
+  wireKeyboard();
+
+  // initial data load
+  reload();
+  setInterval(reload, 60000);
+  setInterval(() => {
+    const u = document.getElementById('updated');
+    if(u && STATE.generated) u.textContent = fmtUpdated(STATE.generated);
+  }, 15000);
+
+  // URL params support (watchlist, ticker, watchadd)
+  (function applyUrlParams(){
+    const p = new URLSearchParams(location.search);
+    const wl = p.get('watchlist');
+    const wa = p.get('watchadd');
+    const t = (p.get('ticker')||'').toUpperCase().trim();
+
+    if(wl !== null){
+      STATE.watchlist = wl.split(',').map(s=>s.trim().toUpperCase()).filter(Boolean);
+      STATE.holdingsSummary = { filename: 'URL (' + STATE.watchlist.length + ' tickers)' };
+      STATE.view = 'book';
+      _savePrefs();
+    }else if(wa){
+      const adds = wa.split(',').map(s=>s.trim().toUpperCase()).filter(Boolean);
+      adds.forEach(x => { if(!STATE.watchlist.includes(x)) STATE.watchlist.push(x); });
+      _savePrefs();
+    }
+
+    if(t || wl !== null || wa){
+      const tryIt = () => {
+        if(!STATE.headlines.length) return setTimeout(tryIt, 180);
+        if(t){
+          const inp = document.getElementById('search');
+          if(inp) inp.value = t;
+        }
+        document.querySelectorAll('.bbg-tab').forEach(b => b.classList.toggle('active', b.dataset.view===STATE.view));
+        render();
+        if(history.replaceState) history.replaceState(null, '', location.pathname + location.hash);
+      };
+      tryIt();
+    }
+  })();
+
+  // make sure JSON links are fully qualified for easy copy (they already use relative href which works)
+  // also update their title for clarity
+  const jh = document.getElementById('json-headlines');
+  const js = document.getElementById('json-stocks');
+  if(jh) jh.title = 'Direct JSON feed — fetch from scripts, curl, other tools';
+  if(js) js.title = 'Ticker price snapshots for currently tagged headlines';
+
+  // initial empty monitor hint
+  const mon0 = document.getElementById('monitor');
+  if(mon0) mon0.innerHTML = `<span class="lbl">MONITOR</span> <span style="color:var(--dim)">loading…</span>`;
+}
+
+// boot
+init();
+</script>
+
+</body>
+</html>
