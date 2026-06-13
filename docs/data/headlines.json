@@ -1,8 +1,1164 @@
 {
- "generated": "2026-06-13T20:23:45.581829+00:00",
+ "generated": "2026-06-13T22:15:02.340798+00:00",
  "feed_count": 29,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "9f689802ebbb",
+   "title": "Billionaires’ Billions Are Increasing Faster Than Ever",
+   "link": "https://www.nytimes.com/2026/06/09/business/economy/billionaires-musk-gabriel-zucman.html",
+   "summary": "Elon Musk’s potential new status as a trillionaire demonstrates in real time why there has been such a rapid rise in the concentration of wealth at the top.",
+   "source": "NYT Economy",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-06-13T22:10:01+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f2aa847ac819",
+   "title": "Anthropic had 90 minutes to take down Fable after Trump admin demand",
+   "link": "https://biztoc.com/x/243cc35bede20a04?ref=rss",
+   "summary": "The Trump administration gave Anthropic 90 minutes on Friday to pull down its most powerful models before imposing a licensing regime on the company, according to an Anthropic source. Why it matters: It illustrates the mad dash within the government to react to warnings from Amazon and others…",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-06-13T21:57:38+00:00",
+   "tickers": [
+    "AMZN"
+   ]
+  },
+  {
+   "id": "bc191e4b5f2e",
+   "title": "North Korea says 'denuclearisation' is a matter terminated irreversibly",
+   "link": "https://biztoc.com/x/6ac5b23b8d64fc0e?ref=rss",
+   "summary": "North Korea said on Sunday denuclearisation is a matter that is terminated irreversibly, as it condemned recent nuclear deterrence talks between the U.S. and South Korea. \"The U.S. and its vassal forces' meaningless rhetoric against the DPRK and cooperation in posing a nuclear threat to it can…",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-06-13T21:57:27+00:00",
+   "tickers": []
+  },
+  {
+   "id": "5d4d7da6b4ba",
+   "title": "Fuel Tax Changes Hit Six States As Energy Inflation Accelerates",
+   "link": "https://biztoc.com/x/4d6368ebb93f4e20?ref=rss",
+   "summary": "Oil markets extended their decline on Friday, with crude prices falling sharply after U.S. President Donald Trump said a peace agreement with Iran was close and canceled previously threatened military strikes. Brent crude slipped below $90 per barrel, trading around $88–$89, while WTI fell to…",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-06-13T21:57:13+00:00",
+   "tickers": []
+  },
+  {
+   "id": "d04657a71f83",
+   "title": "White House's export limits on Anthropic linked to concerns about Chinese access",
+   "link": "https://biztoc.com/x/275d213ca4330056?ref=rss",
+   "summary": "The Scoop The White House imposed export controls on Anthropic’s powerful Mythos AI model partly over suspicions that a China-linked group had accessed it, a person familiar with the matter said. The Trump administration on Friday directed Anthropic to limit access to Mythos, and its consumer…",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-06-13T21:56:18+00:00",
+   "tickers": []
+  },
+  {
+   "id": "9e4b8b09042a",
+   "title": "Beating the heat no problem for World Cup fans in sweltering Houston",
+   "link": "https://biztoc.com/x/a00b8f6f35aa068f?ref=rss",
+   "summary": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-06-13T21:56:06+00:00",
+   "tickers": []
+  },
+  {
+   "id": "620f27b8f327",
+   "title": "Even With U.S. Help, Little Oil Has Gone Through Strait of Hormuz",
+   "link": "https://biztoc.com/x/d3d8129636303263?ref=rss",
+   "summary": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-06-13T21:56:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "6e7b38d5798a",
+   "title": "Wheat Posting Mixed Midday Trade",
+   "link": "https://www.nasdaq.com/articles/wheat-posting-mixed-midday-trade",
+   "summary": "The wheat complex is showing mixed trade on Friday. Chicago SRW contracts are fractionally mixed on Friday. KC HRW futures are 2 to 3 cents higher at midday. MPLS spring wheat is showing mixed trade, fractionally higher to 2 cents lower. FAS released their weekly Export Sales data with new...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-06-13T21:51:39+00:00",
+   "tickers": [
+    "FAS"
+   ]
+  },
+  {
+   "id": "03704f2db81e",
+   "title": "Soccer-Beating the heat no problem for World Cup fans in sweltering Houston",
+   "link": "https://www.investing.com/news/general-news/soccerbeating-the-heat-no-problem-for-world-cup-fans-in-sweltering-houston-4741046",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-06-13T21:48:30+00:00",
+   "tickers": []
+  },
+  {
+   "id": "2d3cc12b9d40",
+   "title": "These Are the Only 2 Cryptocurrencies I'm Comfortable Buying Right Now",
+   "link": "https://finance.yahoo.com/markets/crypto/articles/only-2-cryptocurrencies-im-comfortable-214700297.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-13T21:47:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "45e76212c62c",
+   "title": "Hogs Trading with Friday Gains",
+   "link": "https://www.nasdaq.com/articles/hogs-trading-friday-gains",
+   "summary": "Lean hog futures are posting mixed trade on Friday, with June down 25 cents and July up 80 cents. USDA’s national base hog price was reported at $94.26 on Friday morning, down $3.34 from the day prior. The CME Lean Hog Index was down 2 cents on June 10 at...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-06-13T21:45:16+00:00",
+   "tickers": [
+    "CME"
+   ]
+  },
+  {
+   "id": "5ca449633d4a",
+   "title": "Stock Valuation After New YUTREPIA Data And PHA 2026 Conference Plans",
+   "link": "https://biztoc.com/x/5f90a6bd20281016?ref=rss",
+   "summary": "Get insights on thousands of stocks from the global community of over 7 million individual investors at Simply Wall St. Liquidia (LQDA) has drawn fresh attention after announcing four poster presentations at the PHA 2026 International PH Conference, centered on YUTREPIA data, caregiver mental…",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-06-13T21:42:15+00:00",
+   "tickers": [
+    "LQDA",
+    "PH"
+   ]
+  },
+  {
+   "id": "3709ba1c16d6",
+   "title": "Kratos Space Surveillance Win Ties Into SpaceX IPO Spending Story",
+   "link": "https://biztoc.com/x/47e2fc8172bf2b14?ref=rss",
+   "summary": "Make better investment decisions with Simply Wall St's easy, visual tools that give you a competitive edge. - Kratos Defense &amp; Security Solutions (NasdaqGS:KTOS) has secured a major U.S. government contract to build next generation space surveillance infrastructure. - The award expands the…",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "offering",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-06-13T21:42:05+00:00",
+   "tickers": [
+    "KTOS"
+   ]
+  },
+  {
+   "id": "b04b6f4eeefe",
+   "title": "Is CarMax’s (KMX) Finance-Accounting Power Shift a Vote of Confidence in Its Strategy?",
+   "link": "https://biztoc.com/x/6fd17b5b60bbb500?ref=rss",
+   "summary": "In early June 2026, CarMax announced that Vice President, Controller and Principal Accounting Officer Jill Livesay will retire on July 31, with current Executive Vice President and Chief Financial Officer Enrique N. Mayor-Mora assuming the principal accounting officer role without any change to…",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-06-13T21:42:02+00:00",
+   "tickers": [
+    "KMX",
+    "PFG",
+    "MSTR"
+   ]
+  },
+  {
+   "id": "62eaa4d38d16",
+   "title": "Stock After New US$10b Defense Awards Is The Undervaluation Case Intact",
+   "link": "https://biztoc.com/x/fbb6e59044fc64e4?ref=rss",
+   "summary": "Find winning stocks in any market cycle. Join 7 million investors using Simply Wall St's investing ideas for FREE. Lockheed Martin (LMT) stock is in focus after the company secured nearly US$10b in new defense awards, added large F-35 and helicopter support contracts, and opened a new missile…",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-06-13T21:41:54+00:00",
+   "tickers": [
+    "LMT"
+   ]
+  },
+  {
+   "id": "d26f1793db3b",
+   "title": "Adyen Seeks Deeper Merchant Ties With Orb AI Billing Acquisition",
+   "link": "https://biztoc.com/x/d5b6360efe57c98f?ref=rss",
+   "summary": "Find your next quality investment with Simply Wall St's easy and powerful screener, trusted by over 7 million individual investors worldwide. - Adyen (ENXTAM:ADYEN) has agreed to acquire Orb, a US based enterprise billing platform. - The deal will integrate Orb’s AI powered billing and usage…",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-06-13T21:41:47+00:00",
+   "tickers": []
+  },
+  {
+   "id": "31ccd720cf5f",
+   "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
+   "link": "https://biztoc.com/x/22ce2d9dc02404ef?ref=rss",
+   "summary": "According to the Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the White House. According to the report, the paper from…",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-06-13T21:41:05+00:00",
+   "tickers": [
+    "AMZN"
+   ]
+  },
+  {
+   "id": "894e29b2d0bd",
+   "title": "Employment &amp; Labor Lawyers, at Blumenthal Nordrehaug Bhowmik De Blouw LLP, File Suit Against Victoria's Secret Stores, LLC, Alleging Failure to Provide Meal Periods and Rest Breaks",
+   "link": "https://www.prnewswire.com/news-releases/employment--labor-lawyers-at-blumenthal-nordrehaug-bhowmik-de-blouw-llp-file-suit-against-victorias-secret-stores-llc-alleging-failure-to-provide-meal-periods-and-rest-breaks-302799409.html",
+   "summary": "Victoria's Secret Stores, LLC, allegedly failed to provide employees with accurate wages due to missed meal breaks. This allegedly resulted in violations of various California Labor codes. LOS ANGELES, June 13, 2026 /PRNewswire/ -- **THIS IS AN ATTORNEY ADVERTISEMENT** The Los Angeles...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-06-13T21:41:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "52acfc4f1a3f",
+   "title": "Attorney John Gomez Announces Whistleblower Retaliation Lawsuit on Behalf of Former Albert Einstein Academies Principal",
+   "link": "https://www.prnewswire.com/news-releases/attorney-john-gomez-announces-whistleblower-retaliation-lawsuit-on-behalf-of-former-albert-einstein-academies-principal-302799664.html",
+   "summary": "Former Principal Margaretta Boutserse alleges she was terminated after refusing to participate in efforts aimed at undermining teacher unionization. By Shane Harris, Director of Communications, Gomez Trial Attorneys SAN DIEGO, June 13, 2026 /PRNewswire/ -- National civil rights trial...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "prnewswire.com",
+   "published": "2026-06-13T21:41:00+00:00",
+   "tickers": [
+    "PFG"
+   ]
+  },
+  {
+   "id": "b741c29cae8d",
+   "title": "OpenAI under investigation by group of state attorneys general, source says",
+   "link": "https://biztoc.com/x/1c51b3cbe0c2fcd6?ref=rss",
+   "summary": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-06-13T21:41:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c0d8856e01c7",
+   "title": "OpenAI says it's 'committed to learning' as a coalition of states investigates ChatGPT's impact on young users",
+   "link": "https://biztoc.com/x/3d53797ac6a74c15?ref=rss",
+   "summary": "A group of state attorneys general is investigating OpenAI. Anadolu/Anadolu via Getty Images A group of states is now investigating OpenAI. New York State Attorney General Letitia James sent a subpoena to the company on Friday. OpenAI said it's taking the concerns \"seriously\" and is \"committed to…",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-06-13T21:40:46+00:00",
+   "tickers": []
+  },
+  {
+   "id": "9ff5c41471b7",
+   "title": "OpenAI hit with multistate probe into possible user harm, days after filing for a highly anticipated IPO",
+   "link": "https://biztoc.com/x/bf638a111104ec13?ref=rss",
+   "summary": "OpenAI received a subpoena from several states as part of a probe into the safety of users of its chatbot as it prepares to offer stock to the public for the first time. The company behind the popular chatbot, ChatGPT, said it will respond to the inquiry “constructively” and that it already has in…",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-06-13T21:40:39+00:00",
+   "tickers": []
+  },
+  {
+   "id": "6e7d66ab09c8",
+   "title": "Bitcoin & The Clash Of Two Inexorable Realities",
+   "link": "https://biztoc.com/x/48a3a11b3e949435?ref=rss",
+   "summary": "Bitcoin &amp; The Clash Of Two Inexorable Realities Authored by Mark Jeftovic via BombThrower.com, Two inexorable realities have come into sharpened focus over the last month or so. Both are themes we have been exploring and monitoring – one, since practically the very beginning of this service, the…",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-06-13T21:40:38+00:00",
+   "tickers": []
+  },
+  {
+   "id": "005bd5253dfe",
+   "title": "U.S. Interest Expense Just Hit $1.6 Trillion Annually. Peter Schiff Warns a Dollar Crisis Arrives When It Hits $2 Trillion",
+   "link": "https://biztoc.com/x/3e352330785ccc77?ref=rss",
+   "summary": "The post U.S. Interest Expense Just Hit $1.6 Trillion Annually. Peter Schiff Warns a Dollar Crisis Arrives When It Hits $2 Trillion. appeared first on 24/7 Wall St.. Peter Schiff warns that U.S. federal interest expense exploded 44% in one year to $1.6 trillion annually, matching the…",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-06-13T21:40:34+00:00",
+   "tickers": []
+  },
+  {
+   "id": "3216660c6f1f",
+   "title": "Crude Oil Prices Continue Sharply Lower on Iran Peace Hopes",
+   "link": "https://www.nasdaq.com/articles/crude-oil-prices-continue-sharply-lower-iran-peace-hopes",
+   "summary": "July WTI crude oil (CLN26 ) on Friday closed down -2.82 (-3.23%), and July RBOB gasoline (RBN26 ) closed down -0.0516 (-1.66%). July WTI crude oil prices on Friday fell by -3.23%, adding to Thursday’s decline of -2.58%. Crude oil prices fell as reports circulated that an interim US-Iran peace...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-06-13T21:28:12+00:00",
+   "tickers": []
+  },
+  {
+   "id": "63b9661f2871",
+   "title": "Sugar Prices Pressured by a Stronger Dollar and Possible US-Iran Peace Deal",
+   "link": "https://www.nasdaq.com/articles/sugar-prices-pressured-stronger-dollar-and-possible-us-iran-peace-deal-0",
+   "summary": "July NY world sugar #11 (SBN26 ) on Friday closed down -0.09 (-0.65%), and Aug London ICE white sugar #5 (SWQ26 ) closed down -1.70 (-0.38%). Sugar prices traded lower on Friday, with NY sugar falling to a 7-week low. Sugar prices were pressured by a slightly stronger dollar and...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-06-13T21:28:12+00:00",
+   "tickers": [
+    "ICE"
+   ]
+  },
+  {
+   "id": "503bf1fb7525",
+   "title": "‘Trump can’t rewrite history’: JFK’s grandson on removal of Trump’s name from Kennedy Center",
+   "link": "https://biztoc.com/x/8b4fb040f3d4d6c4?ref=rss",
+   "summary": "Workers finished removing President Trump's name from the Kennedy Center at the last minute after a judge ordered the branding ...",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-06-13T21:28:02+00:00",
+   "tickers": []
+  },
+  {
+   "id": "5b3134bfb0e4",
+   "title": "The Era of the jumbo IPOs #shorts #spacex #ipo #elonmusk",
+   "link": "https://biztoc.com/x/4e26b4ff74e6eab4?ref=rss",
+   "summary": "The long-awaited SpaceX IPO tested the limits of modern capital markets and is expected to be followed by OpenAI and Anthropic ...",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "offering",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-06-13T21:27:52+00:00",
+   "tickers": []
+  },
+  {
+   "id": "d36861db997d",
+   "title": "Why these high school students are protesting this AI data centre | ABC NEWS Loop",
+   "link": "https://biztoc.com/x/2a1f453ba0c07f5b?ref=rss",
+   "summary": "Australia has more than 250 data centres, but AI data centres are slightly different. The new SC2 Sunshine Coast Data Centre has ...",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-06-13T21:27:39+00:00",
+   "tickers": []
+  },
+  {
+   "id": "3258dbfad0a8",
+   "title": "Goldman Sachs quietly resets oil price forecast for 2027",
+   "link": "https://biztoc.com/x/c63ae35498e35b31?ref=rss",
+   "summary": "Oil’s war premium just got served a big haymaker on June 12, following reports that U.S. and Iranian officials had agreed on a peace-deal text, according to The Washington Post. Naturally, that raised hopes that the Strait of Hormuz could reopen, a major artery for global oil supplies. Traders…",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "guidance",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-06-13T21:26:40+00:00",
+   "tickers": [
+    "GS",
+    "POST"
+   ]
+  },
+  {
+   "id": "45d108634ae9",
+   "title": "USMNT Win Over Paraguay in World Cup Achieved Massive Viewership Records",
+   "link": "https://biztoc.com/x/b0340d32dbc5fb8e?ref=rss",
+   "summary": "The FIFA World Cup action for the United States got off to a massively successful start, with the host country recording an impressive 4-1 win over Paraguay to start their Group D play. After Paraguay recorded an unfortunate own goal to start things in favor of the USMNT, Folarin Balogun scored…",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-06-13T21:25:25+00:00",
+   "tickers": []
+  },
+  {
+   "id": "147a76a1a705",
+   "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+   "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4741045",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-06-13T21:20:03+00:00",
+   "tickers": []
+  },
+  {
+   "id": "2e7cdde3e529",
+   "title": "Here's How Much a $2,400 401(k) Match Could Be Worth by Retirement",
+   "link": "https://www.nasdaq.com/articles/heres-how-much-2400-401k-match-could-be-worth-retirement",
+   "summary": "Key PointsA single $2,400 match could be worth more than $52,000 by retirement.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-06-13T21:20:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b6db92b9f313",
+   "title": "Is Wave Life Sciences Ltd. (WVE) A Good Stock To Buy Now?",
+   "link": "https://biztoc.com/x/8c4afe449ecf4a57?ref=rss",
+   "summary": "Is WVE a good stock to buy? We came across a bullish thesis on Wave Life Sciences Ltd. on Biotech Distilled’s Substack. In this article, we will summarize the bulls’ thesis on WVE. Wave Life Sciences Ltd.'s share was trading at $5.70 as of June 8th. Tonhom1009/Shutterstock.com Wave Life Sciences…",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-06-13T21:11:48+00:00",
+   "tickers": [
+    "WVE"
+   ]
+  },
+  {
+   "id": "f7d9d1eb616a",
+   "title": "Is The AES Corporation (AES) A Good Stock To Buy Now?",
+   "link": "https://biztoc.com/x/0aa4298ac553216d?ref=rss",
+   "summary": "Is AES a good stock to buy? We came across a bullish thesis on The AES Corporation on The Mispricing Desk’s Substack. In this article, we will summarize the bulls’ thesis on AES. The AES Corporation's share was trading at $14.71 as of June 8th. AES’s trailing and forward P/E were 7.64 and 6.38…",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-06-13T21:11:42+00:00",
+   "tickers": [
+    "AES"
+   ]
+  },
+  {
+   "id": "30d0b75c0525",
+   "title": "Is Broadridge Financial Solutions, Inc. (BR) A Good Stock To Buy Now?",
+   "link": "https://biztoc.com/x/ad35e3e969ce1165?ref=rss",
+   "summary": "Is BR a good stock to buy? We came across a bullish thesis on Broadridge Financial Solutions, Inc. on Bob’s Payment Stock Substack by Bob Hammel. In this article, we will summarize the bulls’ thesis on BR. Broadridge Financial Solutions, Inc.'s share was trading at $148.98 as of June 8th. BR’s…",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-06-13T21:11:40+00:00",
+   "tickers": [
+    "BR"
+   ]
+  },
+  {
+   "id": "a8dbe8946ed6",
+   "title": "Is TransDigm Group Incorporated (TDG) A Good Stock To Buy Now?",
+   "link": "https://biztoc.com/x/605db44eb0d5c24e?ref=rss",
+   "summary": "Is TDG a good stock to buy? We came across a bullish thesis on TransDigm Group Incorporated on Compounding Quality’s Substack. In this article, we will summarize the bulls’ thesis on TDG. TransDigm Group Incorporated's share was trading at $1,206.28 as of June 8th. TDG’s trailing and forward P/E…",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-06-13T21:11:38+00:00",
+   "tickers": [
+    "TDG"
+   ]
+  },
+  {
+   "id": "fa88b376e818",
+   "title": "Is Bio-Techne Corporation (TECH) A Good Stock To Buy Now?",
+   "link": "https://biztoc.com/x/bb3cf5351406bf73?ref=rss",
+   "summary": "Is TECH a good stock to buy? We came across a bullish thesis on Bio-Techne Corporation on r/ValueInvesting by Dynaheir-be. In this article, we will summarize the bulls’ thesis on TECH. Bio-Techne Corporation's share was trading at $52.65 as of June 8th. TECH’s trailing and forward P/E were 74.27…",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-06-13T21:11:34+00:00",
+   "tickers": [
+    "TECH"
+   ]
+  },
+  {
+   "id": "2b89ad89fbfe",
+   "title": "Is Allied Gold Corporation (AAUC) A Good Stock To Buy Now?",
+   "link": "https://biztoc.com/x/5984acc59139961b?ref=rss",
+   "summary": "Is AAUC a good stock to buy? We came across a bullish thesis on Allied Gold Corporation on The Mispricing Desk’s Substack. In this article, we will summarize the bulls’ thesis on AAUC. Allied Gold Corporation's share was trading at $25.66 as of June 8th. AAUC’s forward P/E was 5.29 according to…",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-06-13T21:11:31+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ec6b2863bb14",
+   "title": "Is Travere Therapeutics, Inc. (TVTX) A Good Stock To Buy Now?",
+   "link": "https://biztoc.com/x/1839e65ec00210b6?ref=rss",
+   "summary": "Is TVTX a good stock to buy? We came across a bullish thesis on Travere Therapeutics, Inc. on Biotech Distilled’s Substack. In this article, we will summarize the bulls’ thesis on TVTX. Travere Therapeutics, Inc.'s share was trading at $47.08 as of June 8th. TVTX’s forward P/E was 63.29 according…",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-06-13T21:11:27+00:00",
+   "tickers": [
+    "TVTX"
+   ]
+  },
+  {
+   "id": "2853f73bf1a6",
+   "title": "Is Take-Two Interactive Software, Inc. (TTWO) A Good Stock To Buy Now?",
+   "link": "https://biztoc.com/x/13e4b794f11f745d?ref=rss",
+   "summary": "Is TTWO a good stock to buy? We came across a bullish thesis on Take-Two Interactive Software, Inc. on r/investing by Harmieh. In this article, we will summarize the bulls’ thesis on TTWO. Take-Two Interactive Software, Inc.'s share was trading at $212.55 as of June 8th. TTWO’s forward P/E was…",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-06-13T21:11:20+00:00",
+   "tickers": [
+    "TTWO"
+   ]
+  },
+  {
+   "id": "42851e1dcdca",
+   "title": "A Good Stock To Buy Now?",
+   "link": "https://biztoc.com/x/8328d69714320c3e?ref=rss",
+   "summary": "Is CLS a good stock to buy? We came across a bullish thesis on Celestica Inc. on r/ValueInvesting by Wooden_Fondant_703. In this article, we will summarize the bulls’ thesis on CLS. Celestica Inc.'s share was trading at $386.50 as of June 8th. CLS’s trailing and forward P/E were 45.06 and 36.76…",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-06-13T21:10:51+00:00",
+   "tickers": [
+    "CLS"
+   ]
+  },
+  {
+   "id": "c9b488928a3b",
+   "title": "World Cup Group B: Switzerland, Qatar draw 1-1",
+   "link": "https://biztoc.com/x/de77fa60866280e5?ref=rss",
+   "summary": "Switzerland and Qatar drew on Saturday in their first match of the 2026 FIFA World Cup, with a score of 1-1.The European team scored the first goal of the match in the 17th minute, with Breel Embolo a...",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-06-13T21:10:45+00:00",
+   "tickers": []
+  },
+  {
+   "id": "78d63ba75160",
+   "title": "Is Cadence Design Systems, Inc. (CDNS) A Good Stock To Buy Now?",
+   "link": "https://biztoc.com/x/25a6cbbef1e91d64?ref=rss",
+   "summary": "Is CDNS a good stock to buy? We came across a bullish thesis on Cadence Design Systems, Inc. on ARMR Report Be The Smart Money’s Substack by Bret Rosenthal. In this article, we will summarize the bulls’ thesis on CDNS. Cadence Design Systems, Inc.'s share was trading at $394.24 as of June 8th.…",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-06-13T21:10:44+00:00",
+   "tickers": [
+    "CDNS"
+   ]
+  },
+  {
+   "id": "3772a356c05a",
+   "title": "Tens of thousands march at Pride events in Romania and Bulgaria to demand equality",
+   "link": "https://biztoc.com/x/ebb97ca65ace6f77?ref=rss",
+   "summary": "Romania and Bulgaria do not recognize same-sex marriage or civil partnerships, despite the bloc prohibiting discrimination based on sexual orientation.",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-06-13T21:10:38+00:00",
+   "tickers": []
+  },
+  {
+   "id": "31f758e8a2dc",
+   "title": "Tens of Thousands Rally in Europe Over Migration Debate",
+   "link": "https://biztoc.com/x/c1c342b19081118c?ref=rss",
+   "summary": "Tens of thousands of demonstrators took to the streets in at least two European cities on Saturday, highlighting ongoing political divisions over immigration policies. In Rome, thousands of people joined rival demonstrations, with one rally drawing anti-immigration activists and the other…",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-06-13T21:10:27+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b087fc9555e3",
+   "title": "How U.S.-Iran draft agreement fails to meet Trump’s war goals",
+   "link": "https://biztoc.com/x/7c90ff458314c1ff?ref=rss",
+   "summary": "The emerging agreement with Iran that President Donald Trump is touting does not appear to achieve several of the key goals he stated at the outset of the military conflict over three months ago. For one, it’s unclear whether the president’s core objective of permanently preventing Iran from…",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-06-13T21:10:19+00:00",
+   "tickers": []
+  },
+  {
+   "id": "be04bcb98c43",
+   "title": "Debt-market defaults are starting up again. Here’s bond giant Pimco's game plan",
+   "link": "https://biztoc.com/x/ca8d69fb46b47f99?ref=rss",
+   "summary": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-06-13T21:10:17+00:00",
+   "tickers": []
+  },
+  {
+   "id": "fabbc4648c09",
+   "title": "70-Year-Old Couple With $1.8M Just Got a Stage 2 Cancer Diagnosis. Financial Decisions They Have 60 Days to Make",
+   "link": "https://biztoc.com/x/0044cf050afda202?ref=rss",
+   "summary": "The post 70-Year-Old Couple With $1.8M Just Got a Stage 2 Cancer Diagnosis. Financial Decisions They Have 60 Days to Make appeared first on 24/7 Wall St.. A stage 2 cancer diagnosis can turn your world upside down. While the first focus must be on health and treatment, retirees often need to make…",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-06-13T21:10:16+00:00",
+   "tickers": []
+  },
+  {
+   "id": "696da2f99b1d",
+   "title": "70-Year-Old Couple With $1.8M Just Got a Stage 2 Cancer Diagnosis. Financial Decisions They Have 60 Days to Make",
+   "link": "https://finance.yahoo.com/sectors/healthcare/articles/70-old-couple-1-8m-210505868.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-13T21:05:05+00:00",
+   "tickers": []
+  },
+  {
+   "id": "1f78449b39ec",
+   "title": "Goldman Sachs quietly resets oil price forecast for 2027",
+   "link": "https://finance.yahoo.com/sectors/energy/articles/goldman-sachs-quietly-resets-oil-210300495.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "guidance",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-13T21:03:00+00:00",
+   "tickers": [
+    "GS"
+   ]
+  },
+  {
+   "id": "97e62f40b137",
+   "title": "Fuel Tax Changes Hit Six States As Energy Inflation Accelerates",
+   "link": "https://finance.yahoo.com/sectors/energy/articles/fuel-tax-changes-hit-six-210000819.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-13T21:00:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "7429470d15fb",
+   "title": "Is Cadence Design Systems, Inc. (CDNS) A Good Stock To Buy Now?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/cadence-design-systems-inc-cdns-205647025.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-13T20:56:47+00:00",
+   "tickers": [
+    "CDNS"
+   ]
+  },
+  {
+   "id": "4a959da40fe3",
+   "title": "Is Celestica Inc. (CLS) A Good Stock To Buy Now?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/celestica-inc-cls-good-stock-205626381.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-13T20:56:26+00:00",
+   "tickers": [
+    "CLS"
+   ]
+  },
+  {
+   "id": "c3df57ad7178",
+   "title": "Is DLocal Limited (DLO) A Good Stock To Buy Now?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/dlocal-limited-dlo-good-stock-205611908.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-13T20:56:11+00:00",
+   "tickers": []
+  },
+  {
+   "id": "3717b36de0cf",
+   "title": "Is Harrow, Inc. (HROW) A Good Stock To Buy Now?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/harrow-inc-hrow-good-stock-205557543.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-13T20:55:57+00:00",
+   "tickers": []
+  },
+  {
+   "id": "147e17df65a1",
+   "title": "Is Adobe Inc. (ADBE) A Good Stock To Buy Now?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/adobe-inc-adbe-good-stock-205543314.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-13T20:55:43+00:00",
+   "tickers": [
+    "ADBE"
+   ]
+  },
+  {
+   "id": "c0c87707482d",
+   "title": "Is Broadridge Financial Solutions, Inc. (BR) A Good Stock To Buy Now?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/broadridge-financial-solutions-inc-br-205530356.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-13T20:55:30+00:00",
+   "tickers": [
+    "BR"
+   ]
+  },
+  {
+   "id": "09c68a763bd5",
+   "title": "Spain Issued Strong Warning Ahead of World Cup Opener vs Cape Verde",
+   "link": "https://biztoc.com/x/7d85fecd9c84d1d2?ref=rss",
+   "summary": "The 2026 FIFA World Cup kicked off on Thursday with a pair of Group A matches. Mexico walked out of Estadio Azteca in Mexico City with a commanding 2-0 victory over South Africa, while South Korea edged out Czechia 2-1 to close out the day in Guadalajara. Friday saw the other two co-hosts play.…",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-06-13T20:55:16+00:00",
+   "tickers": []
+  },
+  {
+   "id": "31e1b4580575",
+   "title": "Cruz breaks with Trump on key endorsements as 2028 looms",
+   "link": "https://biztoc.com/x/c27c120eea098079?ref=rss",
+   "summary": "Texas Sen. Ted Cruz is staking out his independence from President Trump ahead of a possible 2028 run for the White House, backing rivals to Trump-endorsed candidates in two high-profile Republican primaries. Why it matters: Cruz is testing whether there's room in the Republican Party for a 2028…",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-06-13T20:55:14+00:00",
+   "tickers": []
+  },
+  {
+   "id": "816e6cc768e8",
+   "title": "SA Asks: Space stocks sold off on Friday; should you buy the dip?",
+   "link": "https://seekingalpha.com/news/4603117-sa-asks-space-stocks-sold-off-on-friday-should-you-buy-the-dip?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-06-13T20:50:24+00:00",
+   "tickers": []
+  },
+  {
+   "id": "eb7c12c1ff66",
+   "title": "Is XPEL, Inc. (XPEL) A Good Stock To Buy Now?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/xpel-inc-xpel-good-stock-204606800.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-13T20:46:06+00:00",
+   "tickers": []
+  },
+  {
+   "id": "d4735537c31d",
+   "title": "Is Travere Therapeutics, Inc. (TVTX) A Good Stock To Buy Now?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/travere-therapeutics-inc-tvtx-good-204552138.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-13T20:45:52+00:00",
+   "tickers": [
+    "TVTX"
+   ]
+  },
+  {
+   "id": "68f774994664",
+   "title": "Is Wave Life Sciences Ltd. (WVE) A Good Stock To Buy Now?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/wave-life-sciences-ltd-wve-204539651.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-13T20:45:39+00:00",
+   "tickers": [
+    "WVE"
+   ]
+  },
+  {
+   "id": "463fb670bfb2",
+   "title": "Is The AES Corporation (AES) A Good Stock To Buy Now?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/aes-corporation-aes-good-stock-204525159.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-13T20:45:25+00:00",
+   "tickers": [
+    "AES"
+   ]
+  },
+  {
+   "id": "a9c213e60a90",
+   "title": "Is Allied Gold Corporation (AAUC) A Good Stock To Buy Now?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/allied-gold-corporation-aauc-good-204508594.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-13T20:45:08+00:00",
+   "tickers": []
+  },
+  {
+   "id": "d64602742e96",
+   "title": "Is Take-Two Interactive Software, Inc. (TTWO) A Good Stock To Buy Now?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/two-interactive-software-inc-ttwo-204402513.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-13T20:44:02+00:00",
+   "tickers": [
+    "TTWO"
+   ]
+  },
+  {
+   "id": "5beb79c6d9c8",
+   "title": "Is Bio-Techne Corporation (TECH) A Good Stock To Buy Now?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/bio-techne-corporation-tech-good-204345541.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-13T20:43:45+00:00",
+   "tickers": [
+    "TECH"
+   ]
+  },
+  {
+   "id": "d75f3e3d6b35",
+   "title": "Is TransDigm Group Incorporated (TDG) A Good Stock To Buy Now?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/transdigm-group-incorporated-tdg-good-204329985.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-13T20:43:29+00:00",
+   "tickers": [
+    "TDG"
+   ]
+  },
+  {
+   "id": "312a7e0901e4",
+   "title": "Is Sonida Senior Living, Inc. (SNDA) A Good Stock To Buy Now?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/sonida-senior-living-inc-snda-204301238.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-13T20:43:01+00:00",
+   "tickers": []
+  },
+  {
+   "id": "cab51211fb72",
+   "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+   "link": "https://finance.yahoo.com/sectors/technology/articles/kpmg-pulls-report-ai-usage-204231298.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-13T20:42:31+00:00",
+   "tickers": []
+  },
+  {
+   "id": "45a1396b87d3",
+   "title": "Is Prologis, Inc. (PLD) A Good Stock To Buy Now?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/prologis-inc-pld-good-stock-204231534.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-13T20:42:31+00:00",
+   "tickers": [
+    "PLD"
+   ]
+  },
+  {
+   "id": "e1f5f86b74f1",
+   "title": "Is Kosmos Energy Ltd. (KOS) A Good Stock To Buy Now?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/kosmos-energy-ltd-kos-good-204205888.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-13T20:42:05+00:00",
+   "tickers": []
+  },
+  {
+   "id": "5704e8bdf553",
+   "title": "Is Huntsman Corporation (HUN) A Good Stock To Buy Now?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/huntsman-corporation-hun-good-stock-204150362.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-13T20:41:50+00:00",
+   "tickers": []
+  },
+  {
+   "id": "181bb187d0e8",
+   "title": "Is Ballard Power Systems Inc. (BLDP) A Good Stock To Buy Now?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ballard-power-systems-inc-bldp-204135491.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-13T20:41:35+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a2823a80794f",
+   "title": "Is Brighthouse Financial, Inc. (BHF) A Good Stock To Buy Now?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/brighthouse-financial-inc-bhf-good-204121904.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-13T20:41:21+00:00",
+   "tickers": [
+    "BHF"
+   ]
+  },
+  {
+   "id": "142f330e82f6",
+   "title": "Is Apollo Commercial Real Estate Finance, Inc. (ARI) A Good Stock To Buy Now?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/apollo-commercial-real-estate-finance-204105990.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-13T20:41:05+00:00",
+   "tickers": [
+    "APO"
+   ]
+  },
+  {
+   "id": "efbc186d0a95",
+   "title": "Mexico investigates murder of mayor of town in Oaxaca state",
+   "link": "https://www.investing.com/news/world-news/mexico-investigates-murder-of-mayor-of-town-in-oaxaca-state-4741044",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-06-13T20:36:07+00:00",
+   "tickers": []
+  },
+  {
+   "id": "4e993bdb2e86",
+   "title": "SpaceX Is Worth $2.1 Trillion on Its First Day of Trading. Is That a Problem for Investors?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-worth-2-1-trillion-203500517.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-13T20:35:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "19256383d048",
+   "title": "SpaceX Is Worth $2.1 Trillion on Its First Day of Trading. Is That a Problem for Investors?",
+   "link": "https://www.nasdaq.com/articles/spacex-worth-21-trillion-its-first-day-trading-problem-investors",
+   "summary": "Key PointsThe newsflow around the SpaceX IPO was intense, given its size and Elon Musk's involvement.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-06-13T20:35:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "7bc6a93f140c",
+   "title": "The Knicks' 29-Point Miracle Comeback Let Retail Kalshi Traders Take $22M Off Market Makers",
+   "link": "https://finance.yahoo.com/markets/options/articles/knicks-29-point-miracle-comeback-203119081.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-13T20:31:19+00:00",
+   "tickers": []
+  },
+  {
+   "id": "23e40631ff08",
+   "title": "Fintech Stock Block Is Trying to Prove That the Ultimate Cryptocurrency Has a Real Use Case, But Will It Work?",
+   "link": "https://finance.yahoo.com/markets/crypto/articles/fintech-stock-block-trying-prove-202400059.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-13T20:24:00+00:00",
+   "tickers": [
+    "XYZ"
+   ]
+  },
+  {
+   "id": "58ca5a3b763b",
+   "title": "Fintech Stock Block Is Trying to Prove That the Ultimate Cryptocurrency Has a Real Use Case, But Will It Work?",
+   "link": "https://www.nasdaq.com/articles/fintech-stock-block-trying-prove-ultimate-cryptocurrency-has-real-use-case-will-it-work",
+   "summary": "Key PointsBlock's most recent innovation comes from its Square segment, as the business introduced a new payments acceptance mechanism.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-06-13T20:24:00+00:00",
+   "tickers": [
+    "SQ",
+    "XYZ"
+   ]
+  },
   {
    "id": "dc7f599a3754",
    "title": "Missing Minnesota woman found alive after 3 days trapped in mud",
@@ -31,6 +1187,19 @@
     "AMD",
     "C"
    ]
+  },
+  {
+   "id": "49b4abda24dd",
+   "title": "3 Things to Watch This Week That Could Heavily Impact How the S&P 500 Does From Here on Out",
+   "link": "https://www.nasdaq.com/articles/3-things-watch-week-could-heavily-impact-how-sp-500-does-here-out",
+   "summary": "Key PointsThe market has been doing well this year, but whether that continues may depend on what happens with interest rates and investor appetite for risk.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-06-13T20:10:31+00:00",
+   "tickers": []
   },
   {
    "id": "c5be1acca349",
@@ -666,6 +1835,21 @@
    ]
   },
   {
+   "id": "60ee38184b94",
+   "title": "Down 50% Over the Past Year, Is There Anything Adobe Can Do to Rebound?",
+   "link": "https://www.nasdaq.com/articles/down-50-over-past-year-there-anything-adobe-can-do-rebound",
+   "summary": "Key PointsAdobe continues to deliver solid growth.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-06-13T19:41:00+00:00",
+   "tickers": [
+    "ADBE"
+   ]
+  },
+  {
    "id": "21aa3c8fd4ca",
    "title": "If You Have $1.1 Million Saved at 60, Here Is the Monthly Income You Can Actually Count On",
    "link": "https://finance.yahoo.com/markets/articles/1-1-million-saved-60-194045961.html",
@@ -677,6 +1861,40 @@
    "domain": "finance.yahoo.com",
    "published": "2026-06-13T19:40:45+00:00",
    "tickers": []
+  },
+  {
+   "id": "389d83411d87",
+   "title": "Huge News for GM Stock, Tesla Stock, and Ford Stock Investors",
+   "link": "https://www.nasdaq.com/articles/huge-news-gm-stock-tesla-stock-and-ford-stock-investors",
+   "summary": "General Motors (NYSE: GM) is joining Ford (NYSE: F) in entering the battery storage business, increasing competition for Tesla (NASDAQ: TSLA).",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-06-13T19:40:29+00:00",
+   "tickers": [
+    "GM",
+    "TSLA",
+    "F",
+    "NWSA"
+   ]
+  },
+  {
+   "id": "443949e203d0",
+   "title": "Why Is Adobe Stock Crashing, and is it a Buying Opportunity?",
+   "link": "https://www.nasdaq.com/articles/why-adobe-stock-crashing-and-it-buying-opportunity",
+   "summary": "Adobe's (NASDAQ: ADBE) CFO is resigning to join Marvell Technologies.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-06-13T19:39:44+00:00",
+   "tickers": [
+    "ADBE",
+    "MRVL"
+   ]
   },
   {
    "id": "7ce971512bec",
@@ -736,6 +1954,66 @@
    "tickers": [
     "AMD",
     "C"
+   ]
+  },
+  {
+   "id": "6319a73034bd",
+   "title": "What's Going on With Marvell Stock?",
+   "link": "https://www.nasdaq.com/articles/whats-going-marvell-stock",
+   "summary": "Marvell (NASDAQ: MRVL) shares are pulling back after soaring for most of 2026.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-06-13T19:37:52+00:00",
+   "tickers": [
+    "MRVL"
+   ]
+  },
+  {
+   "id": "b309ef707bde",
+   "title": "Should You Buy Zeta Global Stock on the Dip?",
+   "link": "https://www.nasdaq.com/articles/should-you-buy-zeta-global-stock-dip",
+   "summary": "Shares are down 18% over the previous five days.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-06-13T19:37:07+00:00",
+   "tickers": [
+    "ZETA"
+   ]
+  },
+  {
+   "id": "e1388c687de6",
+   "title": "Why Is Oracle Stock Falling, and is it a Buying Opportunity?",
+   "link": "https://www.nasdaq.com/articles/why-oracle-stock-falling-and-it-buying-opportunity",
+   "summary": "Oracle (NYSE: ORCL) is spending aggressively to build its AI infrastructure.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-06-13T19:36:22+00:00",
+   "tickers": [
+    "ORCL"
+   ]
+  },
+  {
+   "id": "c332bfb4ff58",
+   "title": "With the Rivian R2 Starting Deliveries, Is it Time to Buy Rivian Stock?",
+   "link": "https://www.nasdaq.com/articles/rivian-r2-starting-deliveries-it-time-buy-rivian-stock",
+   "summary": "The lower-priced model could be the catalyst to lift demand for the EV company.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-06-13T19:35:54+00:00",
+   "tickers": [
+    "RIVN"
    ]
   },
   {
@@ -811,6 +2089,34 @@
    "published": "2026-06-13T19:35:01+00:00",
    "tickers": [
     "JKHY"
+   ]
+  },
+  {
+   "id": "8b5166191592",
+   "title": "Claiming Early or Claiming Late: Which Is the Bigger Social Security Timing Mistake?",
+   "link": "https://www.nasdaq.com/articles/claiming-early-or-claiming-late-which-bigger-social-security-timing-mistake",
+   "summary": "Key PointsClaiming Social Security early reduces your monthly benefits.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-06-13T19:35:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c28099ce088b",
+   "title": "I Found the Real Reason Why Broadcom Stock Crashed After Earnings",
+   "link": "https://www.nasdaq.com/articles/i-found-real-reason-why-broadcom-stock-crashed-after-earnings",
+   "summary": "The management team said something investors did not want to hear.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-06-13T19:34:55+00:00",
+   "tickers": [
+    "AVGO"
    ]
   },
   {
@@ -899,6 +2205,36 @@
    "published": "2026-06-13T19:34:28+00:00",
    "tickers": [
     "BMNR"
+   ]
+  },
+  {
+   "id": "2adfc7e0a176",
+   "title": "Apple Stock Analysis: Buy or Sell After WWDC?",
+   "link": "https://www.nasdaq.com/articles/apple-stock-analysis-buy-or-sell-after-wwdc",
+   "summary": "Apple's (NASDAQ: AAPL) ability to boost profitability without any major product innovation is encouraging to investors.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-06-13T19:34:12+00:00",
+   "tickers": [
+    "AAPL"
+   ]
+  },
+  {
+   "id": "ab356be7db40",
+   "title": "Is Pinterest an Undervalued Stock to Buy, or a Value Trap to Avoid?",
+   "link": "https://www.nasdaq.com/articles/pinterest-undervalued-stock-buy-or-value-trap-avoid",
+   "summary": "Pinterest (NYSE: PINS) shares are trading well below the high-water mark.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-06-13T19:33:41+00:00",
+   "tickers": [
+    "PINS"
    ]
   },
   {
@@ -1127,21 +2463,6 @@
    "tickers": [
     "INGR",
     "INCY"
-   ]
-  },
-  {
-   "id": "6e7b38d5798a",
-   "title": "Wheat Posting Mixed Midday Trade",
-   "link": "https://www.nasdaq.com/articles/wheat-posting-mixed-midday-trade",
-   "summary": "The wheat complex is showing mixed trade on Friday. Chicago SRW contracts are fractionally mixed on Friday. KC HRW futures are 2 to 3 cents higher at midday. MPLS spring wheat is showing mixed trade, fractionally higher to 2 cents lower. FAS released their weekly Export Sales data with new...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-06-13T19:13:28+00:00",
-   "tickers": [
-    "FAS"
    ]
   },
   {
@@ -2167,21 +3488,6 @@
    "domain": "finance.yahoo.com",
    "published": "2026-06-13T17:45:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "45e76212c62c",
-   "title": "Hogs Trading with Friday Gains",
-   "link": "https://www.nasdaq.com/articles/hogs-trading-friday-gains",
-   "summary": "Lean hog futures are posting mixed trade on Friday, with June down 25 cents and July up 80 cents. USDA’s national base hog price was reported at $94.26 on Friday morning, down $3.34 from the day prior. The CME Lean Hog Index was down 2 cents on June 10 at...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-06-13T17:42:24+00:00",
-   "tickers": [
-    "CME"
-   ]
   },
   {
    "id": "c7019798cd14",
@@ -7164,1292 +8470,6 @@
    "domain": "globenewswire.com",
    "published": "2026-06-13T12:34:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "acd04091b103",
-   "title": "I’m 55 and earn $100,000. Should I take a $2,900 monthly pension — or $2,200 with 3% annual hikes?",
-   "link": "https://www.marketwatch.com/story/im-55-and-earn-100-000-should-i-take-a-2-900-monthly-pension-or-2-200-with-3-annual-hikes-c02dc525?mod=mw_rss_topstories",
-   "summary": "“I plan to continue working until age 60.”",
-   "source": "MarketWatch",
-   "category": "markets",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "marketwatch.com",
-   "published": "2026-06-13T12:30:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "4a1350ca3e1e",
-   "title": "The rich keep spending money on ‘unapologetic luxury’ — and it’s raising prices on everyday goods for everyone",
-   "link": "https://www.marketwatch.com/story/the-rich-keep-spending-money-on-unapologetic-luxury-and-its-raising-prices-on-everyday-goods-for-everyone-cdc4546b?mod=mw_rss_topstories",
-   "summary": "The wealthy are unfazed by inflation, and that could complicate the Fed’s ability to fight it.",
-   "source": "MarketWatch",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "marketwatch.com",
-   "published": "2026-06-13T12:30:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "cdcf83661530",
-   "title": "June FOMC Preview: What To Watch In Warsh's Inaugural Fed Meeting",
-   "link": "https://seekingalpha.com/article/4914560-june-fomc-preview-what-to-watch-in-warshs-inaugural-fed-meeting?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-06-13T12:30:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "7606da463e5f",
-   "title": "This 'Looney Tunes' Market Calls For Second-Order Thinking: Here Are My Thoughts",
-   "link": "https://seekingalpha.com/article/4913849-this-looney-tunes-market-calls-for-second-order-thinking-here-are-my-thoughts?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-06-13T12:30:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "a51b70d32e96",
-   "title": "Hozpitality Celebrates Hospitality Excellence at the Middle East Chef Excellence Awards, F&amp;B Excellence Awards and Leaders Powerlist 2026",
-   "link": "https://www.prnewswire.com/news-releases/hozpitality-celebrates-hospitality-excellence-at-the-middle-east-chef-excellence-awards-fb-excellence-awards-and-leaders-powerlist-2026-302799613.html",
-   "summary": "DUBAI, UAE, June 13, 2026 /PRNewswire/ -- Hozpitality Group successfully hosted the 9th Middle East Chef Excellence Awards 2026 alongside the 4th Middle East F&amp;B Excellence Awards and the Chef Leaders & F&amp;B Leaders Powerlist Awards at Radisson Blu Hotel Dubai Deira Creek. The prestigious...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-06-13T12:30:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "7f617c0fb10b",
-   "title": "Who are the winners & losers in the quantum future",
-   "link": "https://www.investing.com/news/stock-market-news/who-are-the-winners--losers-in-the-quantum-future-4741033",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-06-13T12:29:56+00:00",
-   "tickers": []
-  },
-  {
-   "id": "a279d9277101",
-   "title": "Wages Are Falling. Wealth Is Surging. No Wonder Americans Are Unhappy.",
-   "link": "https://www.nytimes.com/2026/06/13/business/economy-trillionaire-wealth-wages.html",
-   "summary": "As Elon Musk became the world’s first trillionaire, workers are facing higher prices and fears of A.I.-driven job losses.",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "nytimes.com",
-   "published": "2026-06-13T12:28:36+00:00",
-   "tickers": []
-  },
-  {
-   "id": "8294c3541bbb",
-   "title": "SpaceX Just Went Public. These 5 Other Publicly Traded Companies Could Be the Biggest Winners.",
-   "link": "https://www.nasdaq.com/articles/spacex-just-went-public-these-5-other-publicly-traded-companies-could-be-biggest-winners",
-   "summary": "Key PointsSpaceX just raised $75 billion in new capital in the largest IPO ever.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-06-13T12:28:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "5f509eb74690",
-   "title": "Everyone Wants to Tax A.I. The Big Disagreement: How?",
-   "link": "https://www.nytimes.com/2026/06/13/business/dealbook/ai-tax-proposals.html",
-   "summary": "Bernie Sanders, President Trump and even A.I. companies say they would like the public to share the wealth. But their solutions are very different.",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "nytimes.com",
-   "published": "2026-06-13T12:27:49+00:00",
-   "tickers": []
-  },
-  {
-   "id": "dc1cbb6bb7f0",
-   "title": "Can Dogecoin Really Turn You Into a Millionaire?",
-   "link": "https://www.nasdaq.com/articles/can-dogecoin-really-turn-you-millionaire",
-   "summary": "Key PointsIf Dogecoin gets adopted as a payment method, especially with help from Elon Musk, then demand for the token could soar.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-06-13T12:22:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "4731a987e6f8",
-   "title": "AI Bubble Or Not, These Dividend ETFs Benefit From The Capex Waterfall",
-   "link": "https://seekingalpha.com/article/4914637-ai-bubble-or-not-these-dividend-etfs-benefit-from-capex-waterfall?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "dividend",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-06-13T12:15:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ca96db7b50ea",
-   "title": "Retire With $500,000 Using The Near-Perfect Portfolio Strategy",
-   "link": "https://seekingalpha.com/article/4913953-retire-with-500000-using-the-near-perfect-portfolio-strategy?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-06-13T12:14:00+00:00",
-   "tickers": [
-    "MSTR"
-   ]
-  },
-  {
-   "id": "69466d96fde8",
-   "title": "Novo Nordisk: Why The Wegovy Pill Doesn't Change My Thesis",
-   "link": "https://seekingalpha.com/article/4914770-novo-nordisk-why-the-wegovy-pill-doesnt-change-my-thesis?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-06-13T12:11:19+00:00",
-   "tickers": [
-    "NVO"
-   ]
-  },
-  {
-   "id": "8cd5e8adf14e",
-   "title": "Rhythm Pharmaceuticals reports phase 2 PWS trial results",
-   "link": "https://www.investing.com/news/company-news/rhythm-pharmaceuticals-reports-phase-2-pws-trial-results-93CH-4741032",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-06-13T12:05:31+00:00",
-   "tickers": [
-    "RYTM"
-   ]
-  },
-  {
-   "id": "8b25e73fbabe",
-   "title": "Here's What the Estimated 2027 Social Security COLA Could Do to Average Benefits in Your State",
-   "link": "https://www.nasdaq.com/articles/heres-what-estimated-2027-social-security-cola-could-do-average-benefits-your-state",
-   "summary": "Key PointsThe 2027 Social Security COLA is estimated to be 3.8%.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-06-13T12:05:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "95994d9b8358",
-   "title": "GOOD WORKS, GIVING, AND GLAMOUR SHINE AT NORTH SHORE ANIMAL LEAGUE AMERICA'S RESCUE GALA CELEBRATING ANIMAL RESCUE AND ADOPTION",
-   "link": "https://www.prnewswire.com/news-releases/good-works-giving-and-glamour-shine-at-north-shore-animal-league-americas-rescue-gala-celebrating-animal-rescue-and-adoption-302799611.html",
-   "summary": "Attendees Included Event Chairperson Beth Stern, Event Host Will Ganss, Event Entertainer Joshua Radin, Liz Gillies, The Dogist (Elias Weiss Friedman,) and Others. Proceeds to Fund Ongoing Mission to Rescue, Nurture, Adopt, and Educate. NEW YORK, June 13, 2026 /PRNewswire/ -- North Shore...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-06-13T12:05:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "82fa54638cc9",
-   "title": "The 'Problem' With Broadcom's Guidance",
-   "link": "https://seekingalpha.com/article/4914769-the-problem-with-broadcoms-guidance?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-06-13T12:02:53+00:00",
-   "tickers": [
-    "AVGO"
-   ]
-  },
-  {
-   "id": "58f10ba758fb",
-   "title": "Rhythm Pharmaceuticals Presents Positive Interim Six-month Data from Phase 2 Trial of Setmelanotide in Patients with Prader-Willi Syndrome (PWS) at ENDO 2026",
-   "link": "https://www.globenewswire.com/news-release/2026/06/13/3311380/0/en/Rhythm-Pharmaceuticals-Presents-Positive-Interim-Six-month-Data-from-Phase-2-Trial-of-Setmelanotide-in-Patients-with-Prader-Willi-Syndrome-PWS-at-ENDO-2026.html",
-   "summary": "-- Patients with PWS treated with setmelanotide therapy (N=17) achieved clinically meaningful BMI or BMI z-score reductions, reductions in fat mass with preservation of lean mass, and improvements in hyperphagia and anxiety measures -- -- Positive results reinforce rationale for Phase 3 development of MC4R agonism in PWS --",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "fda",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-06-13T12:01:00+00:00",
-   "tickers": [
-    "RYTM"
-   ]
-  },
-  {
-   "id": "5ddfefbc5b6b",
-   "title": "Drugmakers race to find a place in the next wave of obesity drugs",
-   "link": "https://www.cnbc.com/2026/06/13/glp-1s-lilly-novo-pfizer-look-to-new-weight-loss-drugs.html",
-   "summary": "Drugmakers are betting they can crack into the obesity drug market that Novo Nordisk and Eli Lilly currently dominate.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-06-13T12:00:01+00:00",
-   "tickers": [
-    "LLY",
-    "NVO"
-   ]
-  },
-  {
-   "id": "4db05d86dc02",
-   "title": "Rivian CEO taking different approach than Elon Musk for humanoid robotics company",
-   "link": "https://www.cnbc.com/2026/06/13/rivian-humanoid-robots.html",
-   "summary": "Rivian CEO RJ Scaringe started a robotics company late last year called Mind Robotics that he says has has raised more than $1 billion.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-06-13T12:00:01+00:00",
-   "tickers": [
-    "RIVN"
-   ]
-  },
-  {
-   "id": "de36db0f1be7",
-   "title": "Defaults in debt markets are starting again, warns Pimco. Here’s the bond giant’s game plan.",
-   "link": "https://www.marketwatch.com/story/defaults-in-debt-markets-are-starting-again-warns-pimco-heres-the-bond-giants-game-plan-16559c6d?mod=mw_rss_topstories",
-   "summary": "Investors should increasingly seek out fixed income to anchor portfolios as equity valuations look stretched, says Pimco.",
-   "source": "MarketWatch",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "negative",
-   "domain": "marketwatch.com",
-   "published": "2026-06-13T12:00:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6de564ab2d95",
-   "title": "MANGOS: Let's Follow The Big Money (Why I'm 30% Cash)",
-   "link": "https://seekingalpha.com/article/4914650-mangos-lets-follow-the-big-money-why-im-30-percent-cash?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-06-13T12:00:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "c9c672369bd1",
-   "title": "Weekly Indicators: Consumers Back Off - Slightly",
-   "link": "https://seekingalpha.com/article/4914677-weekly-indicators-consumers-back-off-slightly?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-06-13T12:00:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b86b0841eefa",
-   "title": "THIS IS A TEST RELEASE",
-   "link": "https://www.prnewswire.com/news-releases/this-is-a-test-release-302799610.html",
-   "summary": "HELIUM, Texas, June 13, 2026 /PRNewswire/ -- THIS IS A TEST THIS IS A TEST THIS IS A TEST THIS IS A TEST THIS IS A TEST THIS IS A TEST THIS IS A TEST THIS IS A TEST THIS IS A TEST THIS IS A TEST THIS IS A TEST THIS IS A TEST THIS IS A TEST THIS IS A TEST THIS IS A TEST THIS IS A TEST THIS...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-06-13T11:54:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b501aa1f4d54",
-   "title": "Social Security Retirees Just Got Bad News",
-   "link": "https://biztoc.com/x/16fc711ef436c1f2?ref=rss",
-   "summary": "It's no secret that the Social Security trust funds are just a few years away from being insolvent. Although this has been known for years, lawmakers continue to kick the can down the road, not wanting to touch the controversial issue affecting retirees, who vote at high rates. However, Congress…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T11:49:38+00:00",
-   "tickers": [
-    "NWSA"
-   ]
-  },
-  {
-   "id": "5453aed88e62",
-   "title": "Lumentum Nvidia Deal Highlights AI Optics Growth And Valuation Opportunity",
-   "link": "https://biztoc.com/x/308fda10c4e6074d?ref=rss",
-   "summary": "Make better investment decisions with Simply Wall St's easy, visual tools that give you a competitive edge. - Lumentum Holdings (NasdaqGS:LITE) has entered a new multi year partnership with Nvidia, backed by a US$2b commitment. - The agreement focuses on optical networking technology for AI data…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T11:49:32+00:00",
-   "tickers": [
-    "LITE"
-   ]
-  },
-  {
-   "id": "d563e012e367",
-   "title": "MGK vs. IWO: Which Growth ETF Is the Better Buy for Investors in 2026?",
-   "link": "https://biztoc.com/x/0a57a63bf7981b55?ref=rss",
-   "summary": "The Vanguard Mega Cap Growth ETF (NYSEMKT:MGK) provides lower-cost exposure to established company giants, while the iShares Russell 2000 Growth ETF (NYSEMKT:IWO) offers a more expensive path to high-potential small-cap firms. Growth-focused investors often debate whether to prioritize the…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T11:49:23+00:00",
-   "tickers": [
-    "MGK",
-    "IWM",
-    "VYMI",
-    "IAGG"
-   ]
-  },
-  {
-   "id": "8af50ded2667",
-   "title": "Premium Brands: The M&A Flywheel Is Spinning Again",
-   "link": "https://seekingalpha.com/article/4914766-premium-brands-the-m-and-a-flywheel-is-spinning-again?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-06-13T11:48:45+00:00",
-   "tickers": []
-  },
-  {
-   "id": "69baf2f844b1",
-   "title": "Zscaler CEO delivers a sharp take on AI agents",
-   "link": "https://biztoc.com/x/69e3e8200d059542?ref=rss",
-   "summary": "Most cybersecurity CEOs, if not every other, are talking about Artificial Intelligence (AI) agents right now. And we are seeing most of them often use the same vague language about \"securing the future of work.\" Well, Jay Chaudhry looks like he’s different. Speaking on CNBC's \"The Exchange\" on…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T11:48:06+00:00",
-   "tickers": [
-    "ZS"
-   ]
-  },
-  {
-   "id": "bcc3fdea923f",
-   "title": "Is WEC Energy Stock Underperforming the Nasdaq?",
-   "link": "https://biztoc.com/x/aa3fe434d4ebfaa4?ref=rss",
-   "summary": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T11:48:04+00:00",
-   "tickers": [
-    "NDAQ",
-    "WEC"
-   ]
-  },
-  {
-   "id": "69470ad377a8",
-   "title": "Romania Asks Ukraine To Add Self-Destruct Function To Stray Drones, After One Exploded At Its Port",
-   "link": "https://biztoc.com/x/2e59723591c9f969?ref=rss",
-   "summary": "Romania Asks Ukraine To Add Self-Destruct Function To Stray Drones, After One Exploded At Its Port Errant Ukrainian drones which wonder across borders and into neighboring Baltic and Eastern European countries are becoming enough of a problem to where some NATO allies pushing for a self-destruct…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T11:47:55+00:00",
-   "tickers": []
-  },
-  {
-   "id": "653af6c9bfb0",
-   "title": "The ‘Mag 7’ There Is An ETF To Profit",
-   "link": "https://biztoc.com/x/1c9222c51056c261?ref=rss",
-   "summary": "The post If You Hate (Or Love) The ‘Mag 7’ There Is An ETF To Profit appeared first on 24/7 Wall St.. If you own an ETF tracking the S&amp;P 500 or the Nasdaq-100, the Magnificent Seven are unavoidable. They’re a major part of both benchmarks, where a handful of technology giants continue to dominate…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T11:47:52+00:00",
-   "tickers": [
-    "NDAQ"
-   ]
-  },
-  {
-   "id": "eb9221981f6d",
-   "title": "Disney is pushing tech employees to move faster with AI — but avoid 'tokenmaxxing'",
-   "link": "https://biztoc.com/x/37223152cd7f9e6c?ref=rss",
-   "summary": "Under CEO Josh D'Amaro, Disney has empowered employees to use AI tools like Claude. Samuel Boivin/NurPhoto via Getty Images; Aurore Marechal/Getty Images Disney wants its tech employees to use AI more often to boost productivity and speed. However, employees shouldn't be wasting AI tokens, a…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T11:47:52+00:00",
-   "tickers": [
-    "DIS"
-   ]
-  },
-  {
-   "id": "9a4c957af6f9",
-   "title": "Now Trading at Its Lowest Level Since December 2023, Is Solana a Buy, Sell, or Hold?",
-   "link": "https://www.nasdaq.com/articles/now-trading-its-lowest-level-december-2023-solana-buy-sell-or-hold",
-   "summary": "Key PointsSentiment toward Solana is terrible right now, and its price has fallen a lot.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-06-13T11:47:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "97de551462b5",
-   "title": "Why an Iran deal might not be dovish for the Fed",
-   "link": "https://www.investing.com/news/economy-news/why-an-iran-deal-might-not-be-dovish-for--the-fed-4741030",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-06-13T11:46:22+00:00",
-   "tickers": []
-  },
-  {
-   "id": "99b4ed30f52c",
-   "title": "Prediction: SoFi Technologies Stock Will Double Within 1 Year",
-   "link": "https://www.nasdaq.com/articles/prediction-sofi-technologies-stock-will-double-within-1-year",
-   "summary": "Key PointsSoFi stock is down about 50% from its 52-week high.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-06-13T11:46:00+00:00",
-   "tickers": [
-    "SOFI"
-   ]
-  },
-  {
-   "id": "3492bf719a6d",
-   "title": "Nebius Just Grew Its Revenue 684%. There's More Growth Ahead, and the Stock Is a Genius Buy.",
-   "link": "https://www.nasdaq.com/articles/nebius-just-grew-its-revenue-684-theres-more-growth-ahead-and-stock-genius-buy",
-   "summary": "Key PointsNebius is rapidly building out its data center footprint.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-06-13T11:45:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "0f1d828e49ec",
-   "title": "PEJ: Leisure And Entertainment Portfolio Unlikely To Outperform IVV, A Hold",
-   "link": "https://seekingalpha.com/article/4914765-pej-leisure-and-entertainment-portfolio-unlikely-to-outperform-ivv-a-hold?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-06-13T11:44:58+00:00",
-   "tickers": [
-    "IVV"
-   ]
-  },
-  {
-   "id": "53c8c48d73e9",
-   "title": "Gold fever sends some vintage luxury watches to the melting furnace",
-   "link": "https://www.investing.com/news/stock-market-news/gold-fever-sends-some-vintage-luxury-watches-to-the-melting-furnace-4741014",
-   "summary": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-06-13T11:42:27+00:00",
-   "tickers": []
-  },
-  {
-   "id": "834e08ce089d",
-   "title": "Anthropic takes latest AI models offline after government directive",
-   "link": "https://seekingalpha.com/news/4603098-anthropic-takes-latest-ai-models-offline-us-order?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-06-13T11:38:16+00:00",
-   "tickers": []
-  },
-  {
-   "id": "5e641abb88b3",
-   "title": "Intellia presents Phase 3 results for HAE gene therapy lonvo-z",
-   "link": "https://www.investing.com/news/company-news/intellia-presents-phase-3-results-for-hae-gene-therapy-lonvoz-93CH-4741029",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-06-13T11:38:00+00:00",
-   "tickers": [
-    "NTLA",
-    "HAE"
-   ]
-  },
-  {
-   "id": "27c511a7cab5",
-   "title": "Ultra-rich Americans are moving cash out of the market and hoarding historic levels. Here’s where they’re putting it",
-   "link": "https://biztoc.com/x/7b9f93392c6273f7?ref=rss",
-   "summary": "This article adheres to strict editorial standards. Some or all links may be monetized. High net worth individuals — typically those with $1 million or more in investable assets — held large portions of their total portfolio in cash in 2024. According to a survey conducted by Goldman Sachs,…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T11:34:06+00:00",
-   "tickers": [
-    "GS"
-   ]
-  },
-  {
-   "id": "fb20d2121e36",
-   "title": "Nvidia CEO Jensen Huang Says This Will Be the Next $1 Trillion Company",
-   "link": "https://biztoc.com/x/d7caa2656bfbde1e?ref=rss",
-   "summary": "Nvidia (NASDAQ: NVDA) CEO Jensen Huang isn't shy about telling investors what stocks to buy. He is well-connected in the chip industry and knows which companies have great products and are destined for success. His recent prediction is that Marvell (NASDAQ: MRVL) will be the next $1 trillion…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T11:33:49+00:00",
-   "tickers": [
-    "MRVL",
-    "NVDA"
-   ]
-  },
-  {
-   "id": "5fcdcbd4458e",
-   "title": "Ripple wants AI agents to pay in XRP and RLUSD. The market is still mostly USDC",
-   "link": "https://biztoc.com/x/dcac445cf74d82b2?ref=rss",
-   "summary": "Ripple wants AI agents to pay in XRP and RLUSD. The market is still mostly USDC The XRPL AI Starter Kit gives developers tools for agent payments, but early x402 activity has clustered on Base and Solana. Ripple’s bet is that XRPL’s speed, low fees and RLUSD can win a piece of that flow. - Ripple…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T11:33:01+00:00",
-   "tickers": []
-  },
-  {
-   "id": "30673baa5596",
-   "title": "Pakistan: US-Iran deal likely to be done in 24 hrs",
-   "link": "https://biztoc.com/x/a4b57a0df23c3000?ref=rss",
-   "summary": "Pakistani Prime Minister Shehbaz Sharif said on Saturday that the United States and Iran are \"closer to a peace deal than ever before\" and that the memorandum of understanding is expected to be finali...",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T11:33:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "f91d242ba7f4",
-   "title": "Woman Arrives for Routine Operation—Then Pre-Surgery Tests Stop Everything",
-   "link": "https://biztoc.com/x/474628378376e743?ref=rss",
-   "summary": "A U.K. woman preparing to undergo routine surgery was left in complete shock when a standard hospital test revealed she was pregnant. Amy Christophers, 39, had checked into the Duchy Hospital in Cornwall, England, on New Year’s Eve for a planned procedure related to ongoing digestive issues. After…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T11:32:49+00:00",
-   "tickers": []
-  },
-  {
-   "id": "a7d4efc170ae",
-   "title": "Pakistan PM Expects US-Iran Deal to Be Finalized in 24 Hours",
-   "link": "https://biztoc.com/x/4b89fcff3efadbdf?ref=rss",
-   "summary": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T11:32:47+00:00",
-   "tickers": []
-  },
-  {
-   "id": "34fb753a4624",
-   "title": "French exit from tank project with Germany cannot be ruled out, Rheinmetall CEO says",
-   "link": "https://biztoc.com/x/dd197a7c9eb783de?ref=rss",
-   "summary": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T11:32:46+00:00",
-   "tickers": []
-  },
-  {
-   "id": "12c42ff49196",
-   "title": "UK sets out AI infrastructure push at London Tech Week – how does it stack up?",
-   "link": "https://biztoc.com/x/8112b5e2ef7c7363?ref=rss",
-   "summary": "Government announces plans to invest billions, but questions linger over how its proposals on chips, social media and more will work Ownership of the commanding heights of the AI economy is a political talking point around the world, as countries seek to assert some control of a technology…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T11:32:41+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ccac8f186641",
-   "title": "A top Ukrainian interceptor drone maker learned that faster isn't always better when hunting Russian Shaheds",
-   "link": "https://biztoc.com/x/34414f50a2e11590?ref=rss",
-   "summary": "The \"Sting\" is among Ukraine's most popular interceptor drones. Wild Hornets Ukrainian company Wild Hornets initially designed its interceptor drone for higher speeds. During development, engineers decided to trade the drone's speed for increased loitering time. The interceptor is now one of the…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T11:32:40+00:00",
-   "tickers": []
-  },
-  {
-   "id": "81fb10a6977b",
-   "title": "Sometimes it is hard to solve for the equilibrium",
-   "link": "https://biztoc.com/x/daf13d50d715327b?ref=rss",
-   "summary": "Probably you all know about this: The US government, citing national security authorities, has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any foreign national, whether inside or outside the United States, including foreign national Anthropic employees. The…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T11:32:30+00:00",
-   "tickers": []
-  },
-  {
-   "id": "7686da81deaa",
-   "title": "Sports Aren’t Just For Sports Fans This Summer",
-   "link": "https://biztoc.com/x/d42310e8f966155e?ref=rss",
-   "summary": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T11:32:25+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b9b8876e3ecd",
-   "title": "Beijing says it's 'strongly dissatisfied' with Pentagon move against top Chinese tech firms",
-   "link": "https://www.cnbc.com/2026/06/13/china-dissatisfied-with-us-move-against-chinese-tech-firms.html",
-   "summary": "The Pentagon added a slew of Chinese tech firms, including Alibaba, Baidu and BYD, to a list of entities it believes have aided China's military.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "cnbc.com",
-   "published": "2026-06-13T11:31:17+00:00",
-   "tickers": [
-    "BYD"
-   ]
-  },
-  {
-   "id": "5436ed065f08",
-   "title": "‘I feel like he may be taking advantage of us’: Our adviser pushes annuities after we already said no. Do we fire him?",
-   "link": "https://www.marketwatch.com/story/our-financial-adviser-keeps-pushing-annuities-even-after-we-said-no-should-we-fire-him-19188c98?mod=mw_rss_topstories",
-   "summary": "“I feel like he may be taking advantage of us.”",
-   "source": "MarketWatch",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "marketwatch.com",
-   "published": "2026-06-13T11:30:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "230d644f4f1a",
-   "title": "Intellia Therapeutics Reports Additional Positive Phase 3 Results for Lonvoguran Ziclumeran (lonvo-z) in Patients with Hereditary Angioedema",
-   "link": "https://www.globenewswire.com/news-release/2026/06/13/3311378/0/en/Intellia-Therapeutics-Reports-Additional-Positive-Phase-3-Results-for-Lonvoguran-Ziclumeran-lonvo-z-in-Patients-with-Hereditary-Angioedema.html",
-   "summary": "CAMBRIDGE, Mass., June 13, 2026 (GLOBE NEWSWIRE) -- Intellia Therapeutics, Inc. (Nasdaq: NTLA), a leading biopharmaceutical company focused on revolutionizing medicine leveraging CRISPR gene editing and other core technologies, today presented additional positive results from the global Phase 3 HAELO clinical trial of lonvo-z (formerly NTLA-2002) for hereditary angioedema (HAE) in a late-breaking oral presentation at the European Academy of Allergy &amp; Clinical Immunology (EAACI) Annual Congre",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-06-13T11:30:00+00:00",
-   "tickers": [
-    "NTLA",
-    "HAE",
-    "CRSP",
-    "NDAQ"
-   ]
-  },
-  {
-   "id": "d0e08a745c99",
-   "title": "LandBridge: The Landlord Quietly Cashing In On Oil, Water And Data Centers",
-   "link": "https://seekingalpha.com/article/4914764-landbridge-the-landlord-quietly-cashing-in-on-oil-water-and-data-centers?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-06-13T11:25:54+00:00",
-   "tickers": []
-  },
-  {
-   "id": "f796afdc3566",
-   "title": "Pakistan PM says US-Iran peace deal signing expected within 24 hours",
-   "link": "https://www.investing.com/news/world-news/pakistan-pm-says-usiran-peace-deal-signing-expected-within-24-hours-4741027",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-06-13T11:24:27+00:00",
-   "tickers": []
-  },
-  {
-   "id": "116038402b10",
-   "title": "U.S. opens its home World Cup with a dynamic 4-1 victory over Paraguay, sparked by Balogun's 2 goals",
-   "link": "https://www.cnbc.com/2026/06/13/us-wins-4-1-victory-over-paraguay-in-world-cup-opener.html",
-   "summary": "Balogun scored twice in the Americans' three-goal barrage before halftime in a dynamic 4-1 victory over Paraguay.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-06-13T11:23:08+00:00",
-   "tickers": []
-  },
-  {
-   "id": "7b393db27382",
-   "title": "Social Security Retirees Just Got Bad News",
-   "link": "https://www.nasdaq.com/articles/social-security-retirees-just-got-bad-news",
-   "summary": "Key PointsThe Social Security trust funds are at risk of being fully depleted in less than a decade.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-06-13T11:20:00+00:00",
-   "tickers": [
-    "NWSA"
-   ]
-  },
-  {
-   "id": "9abdb81bd3b4",
-   "title": "Bank of America warns stock market may face a 1994-style shock",
-   "link": "https://biztoc.com/x/eb35de4cdccbf56f?ref=rss",
-   "summary": "Wall Street was betting big on Fed relief, but Bank of America sees a quiet risk brewing. The bank sees an unsettling 1994-style market setup, where inflationary pressures, higher yields, and tighter Fed policy could hit stocks instead. The warning lands as headline CPI is running near 4.2%,…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T11:19:24+00:00",
-   "tickers": [
-    "BAC"
-   ]
-  },
-  {
-   "id": "997e341ae79c",
-   "title": "11 Things I Won't Do After Working As A Housecleaner",
-   "link": "https://biztoc.com/x/75cf8c6bbcf206db?ref=rss",
-   "summary": "If you’ve ever tried to deep clean your house, you know that housecleaning is a profession that takes specialized knowledge, attention to detail and physical strength to tackle high or difficult spots. It’s also a profession that does not get enough respect for how hard it can be. A significant…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T11:19:07+00:00",
-   "tickers": []
-  },
-  {
-   "id": "3aa4facf4bbb",
-   "title": "Zhihu: Has Much Potential Yet To Be Unlocked",
-   "link": "https://seekingalpha.com/article/4914763-zhihu-has-much-potential-yet-to-be-unlocked?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-06-13T11:18:38+00:00",
-   "tickers": []
-  },
-  {
-   "id": "50dad77c74ab",
-   "title": "BofA reveals $3 billion reason to watch DraftKings now",
-   "link": "https://biztoc.com/x/b71d30e1eaa5eb61?ref=rss",
-   "summary": "BofA Global Research spent this week quietly publishing something that matters a lot for sports betting investors. The firm’s June 11 gaming note argues that the FIFA World Cup, held on U.S. soil for the first time in over 30 years, is more than a seasonal payday for DraftKings (DKNG). It is a…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T11:17:53+00:00",
-   "tickers": [
-    "DKNG"
-   ]
-  },
-  {
-   "id": "cee994511b73",
-   "title": "Fuelling up with a canola cash crop: FP Video Explains",
-   "link": "https://biztoc.com/x/f59fd64d2b9b8905?ref=rss",
-   "summary": "This week, FP Video looks at why the Bank of Canada is in no hurry to save the real estate market, and how high oil prices are impacting the Canadian dollar. Video correspondent Daniel Trainer goes behind the scenes at the Global Energy Show in Calgary and explains how Prairie-grown canola seeds…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T11:17:53+00:00",
-   "tickers": []
-  },
-  {
-   "id": "06b936865d47",
-   "title": "Summer sticker shock: The 14% ‘burger tax’ hitting your backyard BBQ this weekend",
-   "link": "https://biztoc.com/x/f9f863fd1753bbfa?ref=rss",
-   "summary": "Hard-working Americans looking to fire up the grill this weekend are facing major sticker shock before they even light the charcoal. As inflation continues to squeeze household budgets, the newly released Wells Fargo summer BBQ food report reveals that hosting a standard summer barbecue for 10…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T11:17:49+00:00",
-   "tickers": [
-    "WFC"
-   ]
-  },
-  {
-   "id": "b914361130e4",
-   "title": "Ali Khamenei's burial set for July 9",
-   "link": "https://biztoc.com/x/444fbad9414de807?ref=rss",
-   "summary": "Former Iranian Supreme Leader Ali Khamenei will be buried on July 9, state media announced on Saturday. Khamenei was killed in airstrikes carried out by the United States and Israel on February 28. Th...",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T11:17:45+00:00",
-   "tickers": []
-  },
-  {
-   "id": "c976d0c6e7c0",
-   "title": "The After-Tax 401(k) Move That Lets High Earners Shelter $36,250 More in a Roth Every Year in 2026",
-   "link": "https://biztoc.com/x/8b7264a9810417a8?ref=rss",
-   "summary": "The post The After-Tax 401(k) Move That Lets High Earners Shelter $36,250 More in a Roth Every Year in 2026 appeared first on 24/7 Wall St.. Section 415(c) cap of $72,000 minus deferrals and match leaves $36,250 for after-tax Roth conversions. Verify plan document permits after-tax…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T11:17:37+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ae338bcc9dae",
-   "title": "5 Small Business Ideas Perfect for Gen Z Entrepreneurs",
-   "link": "https://biztoc.com/x/bf0750ed5ebc02f2?ref=rss",
-   "summary": "These small business ideas let aspiring Gen Z business owners monetize their creativity and technical skills.",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T11:17:36+00:00",
-   "tickers": []
-  },
-  {
-   "id": "c9efaf62946b",
-   "title": "Why I Will Drive My 2005 Pontiac Vibe Into the Ground",
-   "link": "https://biztoc.com/x/6df79fb599c2ae38?ref=rss",
-   "summary": "Americans are hanging on to their old cars longer than ever. Ryan Felton hopes his General Motors-Toyota hatchback lasts forever.",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T11:17:34+00:00",
-   "tickers": [
-    "GM"
-   ]
-  },
-  {
-   "id": "5396e1de6339",
-   "title": "Melinda French Gates Just Revealed the Health Crisis She Was Completely Blindsided By",
-   "link": "https://biztoc.com/x/9a67bbe087ef9381?ref=rss",
-   "summary": "The philanthropist recently announced that she will direct $215 million to women’s health initiatives.",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T11:17:30+00:00",
-   "tickers": []
-  },
-  {
-   "id": "8d27b777822d",
-   "title": "Why Hasan Piker thinks Democrats are moving in his direction",
-   "link": "https://biztoc.com/x/181ff548b661a122?ref=rss",
-   "summary": "Hasan Piker in Vancouver, Canada, on May 13, 2026. | Florencia Tan Jun/Web Summit via Sportsfile via Getty Images Here’s what’s undeniable: The Democratic electorate has dramatically shifted when it comes to the United States’ relationship with Israel. Earlier this year, a national poll from…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T11:17:28+00:00",
-   "tickers": []
-  },
-  {
-   "id": "c0890b8ad972",
-   "title": "Before you grab that jersey, here's how to dress in team spirit while also looking professional",
-   "link": "https://biztoc.com/x/3ef147d3ebd28077?ref=rss",
-   "summary": "Johnny Matzelle, 34, who works in digital media sales, recently sported a vintage Knicks cardigan to his office. Joi-Marie McKenzie This post originally appeared in the BI Today newsletter. You can sign up for Business Insider's daily newsletter here. When the dress code is team spirit It only…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T11:17:22+00:00",
-   "tickers": []
-  },
-  {
-   "id": "f85234db9276",
-   "title": "Global Capitalism Bets It All on AI Future That Alarms Voters",
-   "link": "https://biztoc.com/x/279cc9796d27bc3f?ref=rss",
-   "summary": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T11:17:22+00:00",
-   "tickers": []
-  },
-  {
-   "id": "7949e6c778e0",
-   "title": "The mystery of how China is keeping down the world’s oil prices",
-   "link": "https://biztoc.com/x/e6a46166ef57a61f?ref=rss",
-   "summary": "An ultra-large crude oil tanker at the Beihai shipyard in Qingdao City, Shandong Province, China on June 10, 2026. | ﻿CFOTO/Future Publishing via Getty Images Gas prices are high right now — an average of roughly a dollar more than they were last year for Americans. But considering that we’re not…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T11:17:17+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b2d5ec8b9b4e",
-   "title": "MGK vs. IWO: Which Growth ETF Is the Better Buy for Investors in 2026?",
-   "link": "https://www.nasdaq.com/articles/mgk-vs-iwo-which-growth-etf-better-buy-investors-2026",
-   "summary": "Key PointsVanguard Mega Cap Growth ETF (MGK) offers a significantly lower expense ratio than iShares Russell 2000 Growth ETF (IWO).",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-06-13T11:15:29+00:00",
-   "tickers": [
-    "MGK",
-    "IWO",
-    "IWM",
-    "IAGG"
-   ]
-  },
-  {
-   "id": "0afced6386a3",
-   "title": "Why I Put 75% Of My Portfoio In Real Assets",
-   "link": "https://seekingalpha.com/article/4913723-why-i-put-75-percent-of-my-portfoio-in-real-assets?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-06-13T11:15:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "f54556dfe716",
-   "title": "Teladoc stock surges 69% after Fair Value models spotted opportunity",
-   "link": "https://www.investing.com/news/investment-ideas/teladoc-stock-surges-69-after-fair-value-models-spotted-opportunity-93CH-4741026",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-06-13T11:10:27+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d85bcfabe71d",
-   "title": "Sea: Many Positive Offsets For The Shopee Profitability Problem",
-   "link": "https://seekingalpha.com/article/4914762-sea-many-positive-offsets-for-the-shopee-profitability-problem?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-06-13T11:07:50+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d10feb777655",
-   "title": "Nvidia CEO Jensen Huang Says This Will Be the Next $1 Trillion Company",
-   "link": "https://www.nasdaq.com/articles/nvidia-ceo-jensen-huang-says-will-be-next-1-trillion-company",
-   "summary": "Key PointsMarvell and Nvidia recently announced a new partnership.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-06-13T11:05:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "8f284e4cdd52",
-   "title": "I Married a Photograph. Then I Met My Husband For the First Time",
-   "link": "https://biztoc.com/x/da0d2a759aefee0e?ref=rss",
-   "summary": "So many brides are excited for June weddings. I was a summer bride myself—but I married a photograph. At the Holy Blessing ceremony of the Unification Church, I stood quietly with 3,000 other couples before Reverend Sun Myung Moon. But my betrothed couldn’t be there, so I was alone in my white…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T11:02:46+00:00",
-   "tickers": []
-  },
-  {
-   "id": "81313975b5f5",
-   "title": "There’s a Wave of Historic Landmarks Reopening Across the US—Here’s Why",
-   "link": "https://biztoc.com/x/469474c497a62b3e?ref=rss",
-   "summary": "A wave of historic landmarks, museums and restoration projects is reopening across the United States in 2026, as institutions race to complete long-running work ahead of the country’s 250th anniversary. From Washington, D.C., to Philadelphia and Virginia, projects years—sometimes decades—in the…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T11:02:38+00:00",
-   "tickers": []
-  },
-  {
-   "id": "0ccacf09d7e9",
-   "title": "'The Suicide Of Europe': Historic EU Migration Pact Goes Into Force Today As Fracture-Lines Grow",
-   "link": "https://biztoc.com/x/1632449ee7fa245c?ref=rss",
-   "summary": "'The Suicide Of Europe': Historic EU Migration Pact Goes Into Force Today As Fracture-Lines Grow Via Remix News, Six years ago, in 2020, French political leader Marine Le Pen described the Migrant Pact, which was then in the planning stages, as the “suicide of Europe.” She said it would bring 60…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T11:02:26+00:00",
-   "tickers": [
-    "NWSA"
-   ]
-  },
-  {
-   "id": "474926875d0b",
-   "title": "Why Politicians Lie—and How Easy Money Keeps the Boom Alive",
-   "link": "https://biztoc.com/x/2cc49e95b8034af8?ref=rss",
-   "summary": "Why Politicians Lie—and How Easy Money Keeps the Boom Alive On this episode of Minor Issues, Mark Thornton opens with a review of John Mearsheimer’s Why Do Politicians Lie?, focusing on strategic deception in international affairs, especially in the Middle East, Israel, Vietnam, Iraq, and…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T11:02:24+00:00",
-   "tickers": []
-  },
-  {
-   "id": "f2e433dfe35f",
-   "title": "How InvestingPro’s Fair Value warned of SoFi’s 49% decline",
-   "link": "https://www.investing.com/news/investment-ideas/how-investingpros-fair-value-warned-of-sofis-49-decline-93CH-4741025",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-06-13T11:02:23+00:00",
-   "tickers": [
-    "SOFI"
-   ]
-  },
-  {
-   "id": "529ee591b147",
-   "title": "The FBI built its own replica small town to simulate real-world cyberattacks",
-   "link": "https://biztoc.com/x/ca584882ea57a8f3?ref=rss",
-   "summary": "The Federal Bureau of Investigation is pulling back the curtain on a 22,000 square-foot replica town on its Huntsville, Alabama campus that it built to train law enforcement in simulating and investigating real-world cyberattacks. The aim is to teach investigators in a secure environment beyond…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T11:02:21+00:00",
-   "tickers": []
-  },
-  {
-   "id": "a88021ff1f29",
-   "title": "The future of Hollywood isn’t feeding prompts into vanilla gen AI models",
-   "link": "https://biztoc.com/x/786bb0558f9b3eae?ref=rss",
-   "summary": "For all the noise that’s been made about how generative AI is poised to revolutionize the filmmaking industry, there haven’t really been any projects created with the technology that felt like the sort of entertainment people would pay to see. Most AI firms’ video models are still only capable of…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T11:02:21+00:00",
-   "tickers": []
-  },
-  {
-   "id": "15c3963a7b75",
-   "title": "Sound Money, Artificial Intelligence, and the Pope",
-   "link": "https://biztoc.com/x/c4904bcf40af5ff0?ref=rss",
-   "summary": "How to safeguard the human person in the time of artificial intelligence? It is hardly a surprise that Pope Leo XIV in answering that question in his first encyclical does not include money as part of the solution. More is the pity. The present unsound money regime has abetted vast malinvestment…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T11:02:16+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6c4f6d3fbc28",
-   "title": "G Mining Ventures: The Market Is Still Pricing A Mine Builder Like A Miner",
-   "link": "https://seekingalpha.com/article/4914761-g-mining-ventures-the-market-is-still-pricing-a-mine-builder-like-a-miner?source=feed_all_articles",
-   "summary": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-06-13T11:00:40+00:00",
-   "tickers": []
-  },
-  {
-   "id": "677f00645462",
-   "title": "KFC vibes: Yum! Brands tests a new concept for Colonel Sanders",
-   "link": "https://seekingalpha.com/news/4602979-kfc-vibes-yum-brands-tests-a-new-concept-for-colonel-sanders?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-06-13T11:00:40+00:00",
-   "tickers": [
-    "YUM"
-   ]
-  },
-  {
-   "id": "8af25320db15",
-   "title": "Social Security's 2027 COLA Is on Pace to Be Historic and Devastating, Courtesy of President Donald Trump",
-   "link": "https://www.nasdaq.com/articles/social-securitys-2027-cola-pace-be-historic-and-devastating-courtesy-president-donald",
-   "summary": "Key PointsTwo of President Trump's decisions have boosted the U.S inflation rate and Social Security's 2027 cost-of-living adjustment (COLA) estimate.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-06-13T10:56:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6f695a84ff38",
-   "title": "AIFA 就涉及 HyalRoute Communication Group Limited 的股份收購交易正式作出澄清及反駁",
-   "link": "https://www.globenewswire.com/news-release/2026/06/13/3311377/0/zh-hant/AIFA-%E5%B0%B1%E6%B6%89%E5%8F%8A-HyalRoute-Communication-Group-Limited-%E7%9A%84%E8%82%A1%E4%BB%BD%E6%94%B6%E8%B3%BC%E4%BA%A4%E6%98%93%E6%AD%A3%E5%BC%8F%E4%BD%9C%E5%87%BA%E6%BE%84%E6%B8%85%E5%8F%8A%E5%8F%8D%E9%A7%81.html",
-   "summary": "紐約, June 13, 2026 (GLOBE NEWSWIRE) -- All In FutureTech Alliance Inc. (Nasdaq: AIFA)（「公司」或「AIFA」）近日發現，HyalRoute Communication Group Limited（「HyalRoute」）的現任管理團隊以 Dong 女士個人名義，並透過若干柬埔寨媒體及社交媒體渠道，發表或轉發言論，指公司於 2026 年 5 月 22 日有關收購 HyalRoute 控股權益的公告屬「虛假」或「捏造」。",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-06-13T10:56:00+00:00",
-   "tickers": [
-    "NDAQ"
-   ]
-  },
-  {
-   "id": "33be87337aad",
-   "title": "AIFA、ヒアルルート・コミュニケーション・グループに関連する株式取得取引について、正式な説明および反論を発表",
-   "link": "https://www.globenewswire.com/news-release/2026/06/13/3311377/0/ja/AIFA-%E3%83%92%E3%82%A2%E3%83%AB%E3%83%AB%E3%83%BC%E3%83%88-%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3-%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%AB%E9%96%A2%E9%80%A3%E3%81%99%E3%82%8B%E6%A0%AA%E5%BC%8F%E5%8F%96%E5%BE%97%E5%8F%96%E5%BC%95%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6-%E6%AD%A3%E5%BC%8F%E3%81%AA%E8%AA%AC%E6%98%8E%E3%81%8A%E3%82%88%E3%81%B3%E5%8F%8D%E8%AB%96%E3%82%92%E7%99%BA%E8%A1%A8.html",
-   "summary": "ニューヨーク, June 13, 2026 (GLOBE NEWSWIRE) -- オール・イン・フューチャーテック・アライアンス (All In FutureTech Alliance Inc.) (NASDAQ: AIFA) (以下、「当社」または「AIFA」) は最近、ヒアルルート・コミュニケーション・グループ (HyalRoute Communication Group Limited) (以下「ヒアルルート」) の現経営陣が、ドン (Dong) 氏の個人名義で、ヒアルルートの支配的持分取得に関する2026年5月22日の当社の発表が「虚偽」または「捏造」であるとする声明を特定のカンボジアのメディアやソーシャルメディアを通じて公表または流布していることを把握した。",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-06-13T10:56:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d7abe48d8afd",
-   "title": "Penjelasan Rasmi dan Penafian oleh AIFA Berhubung Transaksi Pemerolehan Saham yang melibatkan HyalRoute Communication Group Limited",
-   "link": "https://www.globenewswire.com/news-release/2026/06/13/3311377/0/ms/Penjelasan-Rasmi-dan-Penafian-oleh-AIFA-Berhubung-Transaksi-Pemerolehan-Saham-yang-melibatkan-HyalRoute-Communication-Group-Limited.html",
-   "summary": "NEW YORK, June 13, 2026 (GLOBE NEWSWIRE) -- All In FutureTech Alliance Inc. (Nasdaq: AIFA) (“Syarikat” atau “AIFA”) baru-baru ini dimaklumkan bahawa pasukan pengurusan semasa HyalRoute Communication Group Limited (“HyalRoute”), bertindak atas nama peribadi Cik Dong serta melalui beberapa saluran media di Kemboja dan platform media sosial, telah menerbitkan atau menyebarkan kenyataan yang mendakwa bahawa pengumuman Syarikat pada 22 Mei 2026 berhubung pemerolehan kepentingan ekuiti mengawal dalam ",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-06-13T10:56:00+00:00",
-   "tickers": [
-    "NDAQ"
-   ]
   }
  ],
  "ticker_names": {
@@ -8465,20 +8485,20 @@
   "BTC": "Grayscale Bitcoin Mini Trust (BTC)",
   "TSM": "Taiwan Semiconductor Manufacturing",
   "FAS": "Direxion Financial Bull 3X Shares",
-  "IWO": "iShares Russell 2000 Growth Fund",
   "SCHF": "Schwab International Equity ETF",
   "BMNR": "Bitmine Immersion Technologies",
-  "MGK": "Vanguard Mega Cap Growth ETF",
+  "BR": "Broadridge Financial Solutions",
+  "TTWO": "Take-Two Interactive Software",
   "IYW": "iShares U.S. Technology ETF",
   "QQQ": "Invesco QQQ Trust, Series 1",
   "HPE": "Hewlett Packard Enterprise",
   "ADP": "Automatic Data Processing",
   "ICE": "Intercontinental Exchange",
+  "PFG": "Principal Financial Group",
   "TD": "The Toronto-Dominion Bank",
   "VGK": "Vanguard FTSEEuropean ETF",
+  "APO": "Apollo Global Management",
   "CFG": "Citizens Financial Group",
-  "IVV": "iShares Core S&P 500 ETF",
-  "IWM": "iShares Russell 2000 ETF",
   "PTGX": "Protagonist Therapeutics",
   "AAOI": "Applied Optoelectronics",
   "ASST": "Strive Asset Management",
@@ -8486,19 +8506,19 @@
   "IYE": "iShares U.S. Energy ETF",
   "JKHY": "Jack Henry & Associates",
   "AMD": "Advanced Micro Devices",
+  "CDNS": "Cadence Design Systems",
   "CNR": "Core Natural Resources",
-  "CRSP": "CRISPR Therapeutics AG",
   "CRVS": "Corvus Pharmaceuticals",
-  "RYTM": "Rhythm Pharmaceuticals",
   "VZ": "Verizon Communications",
   "WBD": "Warner Bros. Discovery",
   "GRAB": "Grab Holdings Limited",
-  "NTLA": "Intellia Therapeutics",
   "OPEN": "Opendoor Technologies",
   "AMP": "Ameriprise Financial",
   "CRWD": "CrowdStrike Holdings",
   "MOD": "Modine Manufacturing",
   "RVMD": "Revolution Medicines",
+  "TVTX": "Travere Therapeutics",
+  "ZETA": "Zeta Global Holdings",
   "BIRK": "Birkenstock Holding",
   "FIX": "Comfort Systems USA",
   "PBR": "Petr?leo Brasileiro",
@@ -8509,11 +8529,11 @@
   "PANW": "Palo Alto Networks",
   "PSKY": "Paramount Skydance",
   "SPOT": "Spotify Technology",
+  "WVE": "Wave Life Sciences",
   "AMAT": "Applied Materials",
   "BSX": "Boston Scientific",
   "CAR": "Avis Budget Group",
   "JNJ": "Johnson & Johnson",
-  "LITE": "Lumentum Holdings",
   "MOH": "Molina Healthcare",
   "MU": "Micron Technology",
   "POET": "POET Technologies",
@@ -8524,17 +8544,18 @@
   "COST": "Costco Wholesale",
   "ENSG": "The Ensign Group",
   "J": "Jacobs Solutions",
-  "NVO": "Novo Nordisk A/S",
-  "WEC": "WEC Energy Group",
   "ASTS": "AST SpaceMobile",
   "BAC": "Bank of America",
   "DIS": "The Walt Disney",
   "FOUR": "Shift4 Payments",
+  "LMT": "Lockheed Martin",
   "ONTO": "Onto Innovation",
   "PGR": "The Progressive",
+  "PH": "Parker-Hannifin",
   "PL": "Planet Labs PBC",
   "PYPL": "PayPal Holdings",
   "RRC": "Range Resources",
+  "TDG": "TransDigm Group",
   "THO": "THOR Industries",
   "VRT": "Vertiv Holdings",
   "FLNC": "Fluence Energy",
@@ -8555,6 +8576,7 @@
   "SMR": "NuScale Power",
   "WFC": "Wells Fargo &",
   "MSTR": "MicroStrategy",
+  "PINS": "Pinterest Inc",
   "CYTK": "Cytokinetics",
   "EPAM": "EPAM Systems",
   "MIDD": "The Middleby",
@@ -8570,11 +8592,8 @@
   "TSLA": "Supercharger",
   "NVDA": "Grace Hopper",
   "SLB": "Schlumberger",
-  "BYD": "Boyd Gaming",
-  "HAE": "Haemonetics",
   "HAL": "Halliburton",
   "NU": "Nu Holdings",
-  "YUM": "Yum! Brands",
   "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
   "TGT": "Target Corp",
@@ -8585,11 +8604,13 @@
   "MA": "Mastercard",
   "PLUG": "Plug Power",
   "RKLB": "Rocket Lab",
+  "TECH": "Bio-Techne",
   "MSFT": "Office 365",
   "PARA": "Paramount+",
   "ACN": "Accenture",
   "C": "Citigroup",
   "CART": "Maplebear",
+  "CLS": "Celestica",
   "CME": "CME Group",
   "CRWV": "CoreWeave",
   "INGR": "Ingredion",
@@ -8605,11 +8626,15 @@
   "GOOG": "Alphabet",
   "INDV": "Indivior",
   "LMND": "Lemonade",
+  "LQDA": "Liquidia",
   "MCK": "McKesson",
   "NNN": "NNN REIT",
+  "PLD": "Prologis",
   "SYM": "Symbotic",
   "WULF": "TeraWulf",
+  "SQ": "Cash App",
   "FOX": "Fox Corp",
+  "AES": "The AES",
   "BLSH": "Bullish",
   "BPOP": "Popular",
   "CVX": "Chevron",
@@ -8620,11 +8645,11 @@
   "SNDK": "Sandisk",
   "WIX": "Wix.com",
   "WMT": "Walmart",
-  "ZS": "Zscaler",
   "EVRG": "Evergy",
   "HUM": "Humana",
   "INCY": "Incyte",
   "INTU": "Intuit",
+  "KMX": "CarMax",
   "MAT": "Mattel",
   "NDAQ": "Nasdaq",
   "NTRA": "Natera",
@@ -8640,6 +8665,7 @@
   "HUT": "Hut 8",
   "INTC": "Intel",
   "NUE": "Nucor",
+  "XYZ": "Block",
   "ETSY": "Etsy",
   "NKE": "NIKE",
   "V": "Visa"
