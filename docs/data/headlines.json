@@ -1,8 +1,1435 @@
 {
- "generated": "2026-06-14T14:25:24.827764+00:00",
+ "generated": "2026-06-14T16:44:48.139000+00:00",
  "feed_count": 29,
  "ticker_universe_size": 1752,
  "headlines": [
+  {
+   "id": "4b091bfe4707",
+   "title": "Swiss reject plan to cap its population at 10 million, avoiding EU clash and cheering business",
+   "link": "https://www.cnbc.com/2026/06/14/swiss-voters-set-to-reject-population-cap-in-referendum.html",
+   "summary": "The referendum had put businesses on edge due to concerns it could lead to the end of free movement of labor between Switzerland and the EU.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-06-14T16:41:07+00:00",
+   "tickers": []
+  },
+  {
+   "id": "1ed53fac5a0d",
+   "title": "Bank of America revisits Oracle stock price target after post-earnings selloff",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-revisits-oracle-stock-163300959.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "analyst",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-14T16:33:00+00:00",
+   "tickers": [
+    "BAC",
+    "ORCL"
+   ]
+  },
+  {
+   "id": "7e38a7bfd35a",
+   "title": "UK intercepts Russian shadow fleet oil tanker in English Channel",
+   "link": "https://www.ft.com/content/3fb01bb7-791f-449c-96c6-a75fd39220fd",
+   "summary": "Prime minister hails ‘yet another blow to Russia’ as part of effort to clamp down on those fuelling Ukraine war",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "ft.com",
+   "published": "2026-06-14T16:29:51+00:00",
+   "tickers": []
+  },
+  {
+   "id": "61f9f8f58b36",
+   "title": "Japan eyes Greenland rare earths as supply security concerns grow",
+   "link": "https://seekingalpha.com/news/4603132-japan-eyes-greenland-rare-earths-as-supply-security-concerns-grow?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-06-14T16:29:19+00:00",
+   "tickers": []
+  },
+  {
+   "id": "78405a995207",
+   "title": "Verizon Communications at $46 And AT&T at $23: Buy, Sell or Hold?",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/verizon-communications-46-t-23-162548449.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-14T16:25:48+00:00",
+   "tickers": [
+    "VZ",
+    "T"
+   ]
+  },
+  {
+   "id": "8af335ba5d5a",
+   "title": "The Lebanon Conflict Stands in the Way of an Iran Peace Deal",
+   "link": "https://biztoc.com/x/d61223d3b516abb8?ref=rss",
+   "summary": "Plus, the cage fight at the White House is happening, and the New York Knicks took down the San Antonio Spurs to conquer the basketball world—and bring joy to New York.",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-06-14T16:25:37+00:00",
+   "tickers": []
+  },
+  {
+   "id": "419ef8957c26",
+   "title": "Rivian CEO reveals a costly mistake EV rivals keep making",
+   "link": "https://biztoc.com/x/d1e0af8723db0132?ref=rss",
+   "summary": "is finally moving into the part of the electric vehicle market that could determine its future. The electric vehicle business is delivering its new R2 SUV, a more compact, affordable car that many investors view as Rivian’s greatest hope for breaking out of its niche as a builder of premium…",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-06-14T16:25:17+00:00",
+   "tickers": [
+    "RIVN"
+   ]
+  },
+  {
+   "id": "280792ebb112",
+   "title": "‘It can happen truly to anyone’: Chicago woman stopped to listen to a stranger’s story — then scammers stole $5,000 through a tap-to-pay scheme",
+   "link": "https://biztoc.com/x/b94e840b8b39d8e6?ref=rss",
+   "summary": "Maybe you want to donate to a good cause or support a local vendor. But beware — it might be an attempt at ghost tapping. Emilie Kostecka was approached by three men in the Logan Square neighborhood of Chicago, just outside a Target store. They were carrying a hefty binder with photos of a boy…",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-06-14T16:25:15+00:00",
+   "tickers": [
+    "SQ"
+   ]
+  },
+  {
+   "id": "e0c90ae89c33",
+   "title": "Google Is Paying $920 Million Per Month to SpaceX. Here's Why Nvidia Is the Quiet Winner Nobody's Talking About",
+   "link": "https://biztoc.com/x/32a7b23c75dcd6d2?ref=rss",
+   "summary": "Google Is Paying $920 Million Per Month to SpaceX. Here's Why Nvidia Is the Quiet Winner Nobody's Talking About. In the weeks ahead of its June 12 initial public offering, SpaceX racked up a couple of big deals to rent out parts of its data center capacity; one with artificial intelligence (AI)…",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-06-14T16:24:46+00:00",
+   "tickers": [
+    "GOOGL"
+   ]
+  },
+  {
+   "id": "c2d98aee4e1c",
+   "title": "Fire service told leadership needs to improve",
+   "link": "https://biztoc.com/x/c59bb3894b99a579?ref=rss",
+   "summary": "Cambridgeshire Fire and Rescue Service has been told leadership needs to improve following an inspection by His Majesty's Inspectorate of Constabulary and Fire &amp; Rescue Services (HMICFRS). Inspectors assessed the service between December 2025 and January 2026, examining its operational…",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-06-14T16:24:43+00:00",
+   "tickers": [
+    "SCI"
+   ]
+  },
+  {
+   "id": "ddba2c658fca",
+   "title": "Luxury retail chain wins court approval, exits bankruptcy",
+   "link": "https://biztoc.com/x/931f83d5326dd988?ref=rss",
+   "summary": "On January 14, the company behind some of the most recognizable names in American department stores filed for Chapter 11 bankruptcy protection. The filing followed months of delayed payments to vendors, the kind of slow-motion crisis that has ended plenty of legacy retailers for good. The filing…",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "fda",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-06-14T16:24:35+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c64762f5d0d2",
+   "title": "Dow Jones Futures Due With Market At Key Levels; Iran Deal In Focus, SpaceX's Next Test",
+   "link": "https://biztoc.com/x/b4c8908f4d4006f4?ref=rss",
+   "summary": "Dow Jones futures will open Sunday evening, along with S&amp;P 500 futures and Nasdaq futures. President Donald Trump said Saturday that a U.S.-Iran deal would \"get signed\" Sunday but it hasn't happened yet. The Federal Reserve will hold its first meeting under new Chairman Kevin Warsh on June 16-17.…",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-06-14T16:24:35+00:00",
+   "tickers": [
+    "NDAQ"
+   ]
+  },
+  {
+   "id": "d10a0deddad9",
+   "title": "A Chicago woman stopped to hear a stranger's story outside Target — then $5,000 vanished from her account",
+   "link": "https://biztoc.com/x/a68fb85e9344a39d?ref=rss",
+   "summary": "A Chicago woman stopped to hear a stranger's story outside Target — then $5,000 vanished from her account Maybe you want to donate to a good cause or support a local vendor. But beware — it might be an attempt at ghost tapping. Emilie Kostecka was approached by three men in the Logan Square…",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-06-14T16:24:31+00:00",
+   "tickers": [
+    "SQ"
+   ]
+  },
+  {
+   "id": "365106742c94",
+   "title": "Meet the E-Commerce Stock That's Up 25% in 2026. Is It a Better Buy Than Amazon?",
+   "link": "https://biztoc.com/x/2291785ed7ca4912?ref=rss",
+   "summary": "When you think of online shopping, Amazon (NASDAQ: AMZN) is most likely the first company that pops into your head. From only selling books to now offering cars and small homes, this behemoth of an organization dominates the world of commerce. The \"Magnificent Seven\" constituent has risen 5% in…",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-06-14T16:24:31+00:00",
+   "tickers": [
+    "AMZN"
+   ]
+  },
+  {
+   "id": "3e52990f145a",
+   "title": "Trump, Zelensky discuss Ukraine peace in call",
+   "link": "https://biztoc.com/x/b785aa4f7542e18e?ref=rss",
+   "summary": "United States President Donald Trump and his Ukrainian counterpart Volodymyr Zelensky held a telephone call on Sunday.\"I congratulated President Trump on his birthday, and we have had quite a detailed...",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-06-14T16:24:23+00:00",
+   "tickers": []
+  },
+  {
+   "id": "84e698766a69",
+   "title": "Interface's General Counsel Sold Company Stock Worth $1.3 Million. Here's a Deeper Look at the Transaction",
+   "link": "https://biztoc.com/x/8098d610a83b4853?ref=rss",
+   "summary": "Interface's General Counsel Sold Company Stock Worth $1.3 Million. Here's a Deeper Look at the Transaction. David B. Foshee, Vice President, General Counsel and Secretary of Interface, Inc. (NASDAQ:TILE), reported the open-market sale of 44,393 common shares for a total consideration of ~$1.29…",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-06-14T16:24:20+00:00",
+   "tickers": []
+  },
+  {
+   "id": "11c6e22bfe38",
+   "title": "Trump, Putin talk Ukraine in phone call",
+   "link": "https://biztoc.com/x/3fc7efc3d4f3b2ed?ref=rss",
+   "summary": "United States President Donald Trump and Russian President Vladimir Putin discussed Ukraine peace efforts in a phone call on Sunday, Putin's aide Yuriy Ushakov confirmed.\"The conversation was friendly...",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-06-14T16:24:18+00:00",
+   "tickers": []
+  },
+  {
+   "id": "55abd563cb80",
+   "title": "SpaceX Stock Began Trading. What’s Ahead for It This Week",
+   "link": "https://biztoc.com/x/1382a56274fc405d?ref=rss",
+   "summary": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-06-14T16:24:09+00:00",
+   "tickers": []
+  },
+  {
+   "id": "0e55300e24e5",
+   "title": "We spent 48 hours visiting Niagara Falls. Here's what was actually worth doing — and one big mistake I'm glad we avoided",
+   "link": "https://biztoc.com/x/1ebc9653676ecaa5?ref=rss",
+   "summary": "We spent 48 hours seeing Niagara Falls in New York and Canada, doing both touristy activities in the city and underrated ones nearby. Ash Jurberg My cousin and I spent 48 hours visiting Niagara Falls. We spent time in both New York and Canada. I'm glad we saw Niagara Falls from the air, from the…",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-06-14T16:24:08+00:00",
+   "tickers": []
+  },
+  {
+   "id": "371b44fad6d5",
+   "title": "Trump warns Israel and Iran not to ‘blow it’ after new strikes threaten ceasefire deal that he says will bring peace to Lebanon",
+   "link": "https://biztoc.com/x/e02d73220cf83cd2?ref=rss",
+   "summary": "U.S. President Donald Trump on Sunday urged no further attacks by anyone after Israel’s military said it launched strikes on Hezbollah targets in Beirut, potentially complicating efforts to finalize a deal to end the U.S.-Iran war. Smoke rose over the Lebanese capital, and the health ministry said…",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "ma",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-06-14T16:24:06+00:00",
+   "tickers": []
+  },
+  {
+   "id": "36893c744e28",
+   "title": "Merger Cleared, David Ellison to Join Trump at U.F.C. Bouts",
+   "link": "https://www.nytimes.com/2026/06/14/business/media/trump-ufc-david-ellison.html",
+   "summary": "A U.F.C. fight on President Trump’s birthday will now double as a capstone for Paramount’s successful effort to secure Justice Department approval for a mega media merger.",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-06-14T16:13:43+00:00",
+   "tickers": [
+    "PARA"
+   ]
+  },
+  {
+   "id": "ed300210538b",
+   "title": "Tech’s Next IPO Wave Promises a Charitable Windfall",
+   "link": "https://biztoc.com/x/2bf5cffb9938af14?ref=rss",
+   "summary": "The SpaceX IPO is the first in a string of AI public-market debuts that could deliver new riches to startup employees to donate to charity.",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "offering",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-06-14T16:11:25+00:00",
+   "tickers": []
+  },
+  {
+   "id": "de2164b5ff75",
+   "title": "U.S. peace deal with Iran in question as Israel strikes Lebanon, Trump warns not to 'blow it'",
+   "link": "https://www.cnbc.com/2026/06/14/iran-deal-teeters-israel-strikes-lebanon.html",
+   "summary": "An initial deal to end the war and open the Strait of Hormuz was expected to be signed this week.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "negative",
+   "domain": "cnbc.com",
+   "published": "2026-06-14T16:11:08+00:00",
+   "tickers": []
+  },
+  {
+   "id": "95456988f722",
+   "title": "When the AI Trade Collapses, These 3 S&P 500 Sectors Are Your Best Bet",
+   "link": "https://biztoc.com/x/87812a370f188d22?ref=rss",
+   "summary": "Technology accounts for more than one-third of the entire S&amp;P 500 Index ($SPX). That’s not normal, and it makes me very worried. So, it’s time to start looking at the other 10 sectors of the S&amp;P 500 to see what looks most likely to pick up the slack if and when the artificial intelligence (AI)…",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-06-14T16:09:39+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e40112c52982",
+   "title": "TechCrunch Mobility: SpaceX rockets past Tesla",
+   "link": "https://biztoc.com/x/37c8b86178d83f25?ref=rss",
+   "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part. To get this in your inbox, sign up here for free — just click TechCrunch Mobility! I won’t spend too much time rehashing the SpaceX IPO — every media outlet, including…",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-06-14T16:09:30+00:00",
+   "tickers": [
+    "TSLA"
+   ]
+  },
+  {
+   "id": "903b4b69e64e",
+   "title": "New Yorkers Celebrate Knicks’ First NBA Title in 53 Years",
+   "link": "https://biztoc.com/x/c67655483f7a2882?ref=rss",
+   "summary": "New Yorkers poured into the streets after the Knicks secured the #NBA championship, dancing and screaming as chants of “Let’s Go #Knicks” echoed throughout the city. ---------- Like this video? Subscribe Bloomberg News is the first word in business news. Visit bloomberg.com for the latest on…",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-06-14T16:09:28+00:00",
+   "tickers": [
+    "NWSA"
+   ]
+  },
+  {
+   "id": "25f44b2cabf5",
+   "title": "Sunday assorted links",
+   "link": "https://biztoc.com/x/e047b700ec9d13f5?ref=rss",
+   "summary": "1. Chinese overtake Dominicans as NYC’s most numerous foreign-born group. 2. David Hockney embraced tech (NYT). And do not forget his writings, not to mention his persona and also his role in gay history and liberation. He was truly one of the great Englishmen, as he had been doing first-rate work…",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-06-14T16:09:21+00:00",
+   "tickers": [
+    "NYT"
+   ]
+  },
+  {
+   "id": "bfdfc888c1fa",
+   "title": "Social Security’s $255 Death Benefit Hasn’t Changed Since the 1950s. Here’s What Survivors Actually Need",
+   "link": "https://biztoc.com/x/a0737d353640f451?ref=rss",
+   "summary": "The post Social Security’s $255 Death Benefit Hasn’t Changed Since the 1950s. Here’s What Survivors Actually Need. appeared first on 24/7 Wall St.. Social Security's $255 death benefit, frozen since the 1950s and not indexed to inflation, is nearly worthless against today's funeral costs…",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-06-14T16:09:12+00:00",
+   "tickers": []
+  },
+  {
+   "id": "dc1cf65b3175",
+   "title": "New York Mayor Mamdani on Knicks’ First NBA Title in 53 Years",
+   "link": "https://biztoc.com/x/046f4f8f3f69a857?ref=rss",
+   "summary": "The New York #Knicks ended one of the longest championship droughts in the #NBA, bringing relief to their long-suffering fans. New York Mayor Zohran #Mamdani discusses the \"incredible\" win and the upcoming ticker tape parade. -------- Subscribe to our YouTube channel: Subscribe to Bloomberg…",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-06-14T16:09:11+00:00",
+   "tickers": [
+    "GOOGL"
+   ]
+  },
+  {
+   "id": "0afad9776589",
+   "title": "How to watch most of the World Cup matches with free trials",
+   "link": "https://biztoc.com/x/6fc50e8af1a01a2d?ref=rss",
+   "summary": "GUADALAJARA, MEXICO - JUNE 11: In-Beom Hwang #6 of Korea Republic scores his team's first goal past Matej Kovar #1 of Czechia during the FIFA World Cup 2026 Group A match between Korea Republic and Czechia at Guadalajara Stadium on June 11, 2026 in Guadalajara, Mexico. (Photo by Lars Baron/Getty…",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-06-14T16:09:10+00:00",
+   "tickers": []
+  },
+  {
+   "id": "3130f281f280",
+   "title": "Ebola Travel Bans Are 'Overkill,' Scientist Says",
+   "link": "https://biztoc.com/x/7acf14617a70a26c?ref=rss",
+   "summary": "Pioneering Ebola scientist Peter Piot tells Mishal Husain that travel bans to fight the virus are \"overkill.\" #africa #congo #travel #health ---------- Like this video? Subscribe Bloomberg News is the first word in business news. Visit bloomberg.com for the latest on global business, markets and…",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-06-14T16:09:04+00:00",
+   "tickers": [
+    "NWSA"
+   ]
+  },
+  {
+   "id": "db89020764c3",
+   "title": "Trump says Israeli strike on Lebanon should not have happened, but Iran deal close",
+   "link": "https://www.investing.com/news/world-news/us-iran-inch-closer-to-deal-timing-remains-unclear-4741054",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-06-14T16:06:49+00:00",
+   "tickers": []
+  },
+  {
+   "id": "acfaf475f889",
+   "title": "AI spending boom is boosting profits now, but could pressure Big Tech returns later: Goldman Sachs",
+   "link": "https://seekingalpha.com/news/4603129-ai-spending-boom-is-boosting-profits-now-but-could-pressure-big-tech-returns-later-goldman?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-06-14T16:06:19+00:00",
+   "tickers": [
+    "GS"
+   ]
+  },
+  {
+   "id": "d4d40014bdc7",
+   "title": "Dow Jones Futures Due With Market At Key Levels; Iran Deal In Focus, SpaceX's Next Test",
+   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-deal-spacex/?src=A00220&yptr=yahoo",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "investors.com",
+   "published": "2026-06-14T16:05:57+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e4621e7c4976",
+   "title": "TechCrunch Mobility: SpaceX rockets past Tesla",
+   "link": "https://finance.yahoo.com/sectors/technology/articles/techcrunch-mobility-spacex-rockets-past-160500362.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-14T16:05:00+00:00",
+   "tickers": [
+    "TSLA"
+   ]
+  },
+  {
+   "id": "26c9f45b05ae",
+   "title": "The Medicare Question Millions of Americans Ask Every Year",
+   "link": "https://www.nasdaq.com/articles/medicare-question-millions-americans-ask-every-year",
+   "summary": "Key PointsMedicare is a critically important benefit program for seniors.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-06-14T16:05:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "44c5a6005992",
+   "title": "Google Is Paying $920 Million Per Month to SpaceX. Here's Why Nvidia Is the Quiet Winner Nobody's Talking About.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/google-paying-920-million-per-160100054.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-14T16:01:00+00:00",
+   "tickers": [
+    "GOOGL"
+   ]
+  },
+  {
+   "id": "49ad6bfff1a0",
+   "title": "Google Is Paying $920 Million Per Month to SpaceX. Here's Why Nvidia Is the Quiet Winner Nobody's Talking About.",
+   "link": "https://www.nasdaq.com/articles/google-paying-920-million-month-spacex-heres-why-nvidia-quiet-winner-nobodys-talking-about",
+   "summary": "Key Points Google and Anthropic are renting compute capacity from SpaceX.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-06-14T16:01:00+00:00",
+   "tickers": [
+    "GOOGL"
+   ]
+  },
+  {
+   "id": "65ba4ccf1771",
+   "title": "A Chicago woman stopped to hear a stranger's story outside Target — then $5,000 vanished from her account",
+   "link": "https://finance.yahoo.com/markets/crypto/articles/chicago-woman-stopped-hear-strangers-160000834.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-14T16:00:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "1c27561c4016",
+   "title": "Social Security’s $255 Death Benefit Hasn’t Changed Since the 1950s. Here’s What Survivors Actually Need.",
+   "link": "https://finance.yahoo.com/economy/policy/articles/social-security-255-death-benefit-155915695.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-14T15:59:15+00:00",
+   "tickers": []
+  },
+  {
+   "id": "2cd8f8776ddd",
+   "title": "Headwater Exploration: The Earnings Report May Announce A Strategy Change",
+   "link": "https://seekingalpha.com/article/4914877-headwater-exploration-earnings-report-may-announce-strategy-change?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-06-14T15:58:17+00:00",
+   "tickers": [
+    "MSTR"
+   ]
+  },
+  {
+   "id": "0a3252e77c2c",
+   "title": "Piper Sandler Says Tesla Has Cracked Self-Driving Technology Challenge (TSLA)",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/piper-sandler-says-tesla-cracked-155800582.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-14T15:58:00+00:00",
+   "tickers": [
+    "TSLA"
+   ]
+  },
+  {
+   "id": "0e3a5ac32466",
+   "title": "This Chinese consumer stock could double if its global industrial pivot succeeds, JPMorgan says",
+   "link": "https://biztoc.com/x/156e017ba929cce3?ref=rss",
+   "summary": "Hong Kong-listed home appliance company Midea has two options, J.P. Morgan analysts said last week. Either become an industrial giant like Siemens — and double in market cap by 2030 — or plod along \"the Panasonic path\" with gains of just 25%, the analysts said. Midea shares are already up more…",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-06-14T15:55:22+00:00",
+   "tickers": [
+    "JIRE"
+   ]
+  },
+  {
+   "id": "baa7b189ece8",
+   "title": "Gravity Falls Creator Bashes Paramount/Warner Bros Merger",
+   "link": "https://biztoc.com/x/89dc29b3cc556a2d?ref=rss",
+   "summary": "Earlier this week, the United States Justice Department approved the merger between Paramount/Skydance and Warner Bros Discovery. With the former defeating Netflix in acquiring the studio that houses the likes of the DC Universe, The Lord of the Rings, Game of Thrones, and The Looney Tunes, the…",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "ma",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-06-14T15:55:03+00:00",
+   "tickers": [
+    "WBD",
+    "PARA",
+    "NFLX"
+   ]
+  },
+  {
+   "id": "f571818e7224",
+   "title": "Donald Trump Posts Cringe Throwback Pics in Self-Promo Shocker",
+   "link": "https://biztoc.com/x/ba19eb7307aa6ca2?ref=rss",
+   "summary": "Donald Trump spent valuable time Saturday posting self-promoting Truth Social messages about what a capable, fearless, adventurous fellow he is. Despite the Iran war, skyrocketing gas prices, an inflation jump, depressed wages and mounting grocery costs, the president spent time on Saturday…",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-06-14T15:54:58+00:00",
+   "tickers": []
+  },
+  {
+   "id": "73381304f0a5",
+   "title": "Alfredo sauce recalled over potential salmonella contamination",
+   "link": "https://biztoc.com/x/d43de4e07c6f522d?ref=rss",
+   "summary": "Access Denied You don't have permission to access \"\" on this server. Reference #18.861c2117.1781452489.8ab040b4",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-06-14T15:54:50+00:00",
+   "tickers": []
+  },
+  {
+   "id": "36ebd5816d58",
+   "title": "Buffett’s $400 billion war chest stays on the sidelines",
+   "link": "https://biztoc.com/x/e32c73c935de3d2e?ref=rss",
+   "summary": "Despite sitting on a record cash reserve of nearly $400 billion, Berkshire Hathaway has opted to pull back from equity markets rather than deploy capital into stocks. The company ended the first quarter of 2026 with $397.4 billion in cash, cash equivalents, and short-term Treasury bills, a record…",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-06-14T15:54:21+00:00",
+   "tickers": [
+    "BRK-A"
+   ]
+  },
+  {
+   "id": "445790ede122",
+   "title": "Canadian Prime Minister Carney visits grandparents' Irish village on eve of G7",
+   "link": "https://biztoc.com/x/9b27f35eb979a032?ref=rss",
+   "summary": "By Graham Fahy AUGHAGOWER, Ireland, June 14 (Reuters) - Canadian Prime Minister Mark Carney on Sunday met distant cousins in his grandparents' home village in the west of Ireland on a visit to celebrate his Irish roots while urging closer cooperation in the wake of a global geopolitical…",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-06-14T15:54:08+00:00",
+   "tickers": []
+  },
+  {
+   "id": "3782c8174fd8",
+   "title": "America's Energy Future Is Being Decided In Obscure Utility Commission Races",
+   "link": "https://biztoc.com/x/2e90af7deab261b5?ref=rss",
+   "summary": "America's Energy Future Is Being Decided In Obscure Utility Commission Races Authored by Elizabeth Gianini via RealClearEnergy, Most Americans could not name a single member of their state Public Service or Utility Commission (PSC/PUC). Radical climate activists are counting on that. Across the…",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-06-14T15:54:06+00:00",
+   "tickers": [
+    "SCI"
+   ]
+  },
+  {
+   "id": "c801984d4343",
+   "title": "Knicks win first championship in 53 years, igniting celebrations and chaos in New York City",
+   "link": "https://biztoc.com/x/9cac714520d8d565?ref=rss",
+   "summary": "New York Knicks won their first NBA championship in 53 years on Saturday night, with exuberant celebrations marred by mayhem and violence, including a shooting in Times Square.",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-06-14T15:54:05+00:00",
+   "tickers": [
+    "SQ"
+   ]
+  },
+  {
+   "id": "fca24f032bf8",
+   "title": "Hegseth: Israel was 'very measured' in Beirut strikes",
+   "link": "https://biztoc.com/x/bfd59e16070b7f29?ref=rss",
+   "summary": "United States Defense Secretary Pete Hegseth claimed on Sunday that Israel was \"very measured\" in this morning's strikes on Beirut.\"We are attuned to what's happening with Hezbollah firing rockets int...",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-06-14T15:54:04+00:00",
+   "tickers": []
+  },
+  {
+   "id": "82883a4ccd6a",
+   "title": "Trump-backed World Liberty Financial to fund UFC fighter bonuses in USD1 stablecoin at White House event",
+   "link": "https://biztoc.com/x/d3671a93d7265044?ref=rss",
+   "summary": "The deal puts USD1 branding inside the Octagon at an event held on the White House South Lawn, on President Trump's 80th birthday.",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-06-14T15:54:03+00:00",
+   "tickers": []
+  },
+  {
+   "id": "7282cef518ad",
+   "title": "Palestinian death toll in Gaza tops 73,000, officials say, as Israel strikes despite ceasefire",
+   "link": "https://biztoc.com/x/965f373978fb13a3?ref=rss",
+   "summary": "Israel has continued to strike inside Gaza despite the ceasefire reached in October, saying it carries out strikes against Hamas and other militants who pose a threat, and in response to violations of the deal, including occasional attacks.",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-06-14T15:53:57+00:00",
+   "tickers": []
+  },
+  {
+   "id": "4c70124ae683",
+   "title": "JD Vance Predicts Trump Will Be ‘Very Supportive’ of Eventual 2028 Decision",
+   "link": "https://biztoc.com/x/3c7b3b4539944813?ref=rss",
+   "summary": "Vice President JD Vance has said he believes President Donald Trump would be “very supportive” of whatever decision he makes regarding a run for the presidency in 2028. Speaking to CBS Sunday Morning alongside his wife, second lady Usha Vance, the vice president said he had not yet decided whether…",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-06-14T15:53:53+00:00",
+   "tickers": [
+    "PARA"
+   ]
+  },
+  {
+   "id": "87b842bc3d58",
+   "title": "Why Claiming Social Security at 62 Locks In a 30 Percent Benefit Cut for the Rest of Your Life",
+   "link": "https://biztoc.com/x/d1c1324b64ea9b8a?ref=rss",
+   "summary": "The post Why Claiming Social Security at 62 Locks In a 30 Percent Benefit Cut for the Rest of Your Life appeared first on 24/7 Wall St.. You are 62, born in 1964, and the temptation is real. Maybe work feels heavier than it used to, the market has been jumpy, and a Social Security check would take…",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-06-14T15:53:44+00:00",
+   "tickers": []
+  },
+  {
+   "id": "7fcf2af74bec",
+   "title": "Interface's General Counsel Sold Company Stock Worth $1.3 Million. Here's a Deeper Look at the Transaction.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/interfaces-general-counsel-sold-company-155301047.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-14T15:53:01+00:00",
+   "tickers": []
+  },
+  {
+   "id": "81c6442864e6",
+   "title": "Interface's General Counsel Sold Company Stock Worth $1.3 Million. Here's a Deeper Look at the Transaction.",
+   "link": "https://www.nasdaq.com/articles/interfaces-general-counsel-sold-company-stock-worth-13-million-heres-deeper-look",
+   "summary": "Key PointsGeneral Counsel David Foshee sold 44,393 shares on May 18, 2026, generating proceeds of approximately $1.29 million at around $29 per share.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-06-14T15:53:01+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a9dc9547b140",
+   "title": "How SpaceX broke the space launch cost curve",
+   "link": "https://www.investing.com/news/stock-market-news/how-spacex-broke-the-space-launch-cost-curve-4741101",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-06-14T15:52:34+00:00",
+   "tickers": []
+  },
+  {
+   "id": "5b60324c05fd",
+   "title": "Why Claiming Social Security at 62 Locks In a 30 Percent Benefit Cut for the Rest of Your Life",
+   "link": "https://finance.yahoo.com/markets/options/articles/why-claiming-social-security-62-155046733.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-14T15:50:46+00:00",
+   "tickers": []
+  },
+  {
+   "id": "9a870423e94b",
+   "title": "Meet the E-Commerce Stock That's Up 25% in 2026. Is It a Better Buy Than Amazon?",
+   "link": "https://www.nasdaq.com/articles/meet-e-commerce-stock-thats-25-2026-it-better-buy-amazon",
+   "summary": "Key PointsAfter years of struggles, Etsy's niche marketplace has narrowed its focus, and growth is back on the table.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-06-14T15:50:00+00:00",
+   "tickers": [
+    "AMZN",
+    "ETSY"
+   ]
+  },
+  {
+   "id": "d88fed5b4169",
+   "title": "Stocks Rally on Hopes for a Near-term US-Iran Interim Peace Agreement",
+   "link": "https://www.nasdaq.com/articles/stocks-rally-hopes-near-term-us-iran-interim-peace-agreement",
+   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) on Friday rose +0.50%, the Dow Jones Industrial Average ($DOWI ) (DIA ) rose +0.70%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) rose +0.64%. June E-mini S&amp;P futures (ESM26 ) rose +0.65%, and June E-mini Nasdaq futures (NQM26 ) rose...",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-06-14T15:49:18+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
+  },
+  {
+   "id": "792ac5a36cad",
+   "title": "SpaceX: Wait For A Pullback",
+   "link": "https://seekingalpha.com/article/4914876-spacex-wait-for-a-pullback?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-06-14T15:49:01+00:00",
+   "tickers": []
+  },
+  {
+   "id": "fcf15858c6aa",
+   "title": "Lazard bids to replace Centerview as Venezuela financial advisor, Bloomberg News reports",
+   "link": "https://www.investing.com/news/stock-market-news/lazard-bids-to-replace-centerview-as-venezuela-financial-advisor-bloomberg-news-reports-4741100",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-06-14T15:48:30+00:00",
+   "tickers": [
+    "NWSA"
+   ]
+  },
+  {
+   "id": "f27714b820cf",
+   "title": "Protesters smash windows and set Tesla ablaze in anti-G7 march in Geneva",
+   "link": "https://www.investing.com/news/world-news/protesters-smash-windows-and-set-tesla-ablaze-in-antig7-march-in-geneva-4741099",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-06-14T15:43:01+00:00",
+   "tickers": [
+    "TSLA"
+   ]
+  },
+  {
+   "id": "6b2dde6abfb5",
+   "title": "Canadian Prime Minister Carney visits grandparents’ Irish village on eve of G7",
+   "link": "https://www.investing.com/news/world-news/canadian-prime-minister-carney-visits-grandparents-irish-village-on-eve-of-g7-4741098",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-06-14T15:42:34+00:00",
+   "tickers": []
+  },
+  {
+   "id": "3241e2ecb6f6",
+   "title": "Defaults in debt markets are starting again, warns Pimco. Here’s the bond giant’s game plan",
+   "link": "https://biztoc.com/x/1717ab97ba908091?ref=rss",
+   "summary": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-06-14T15:40:37+00:00",
+   "tickers": []
+  },
+  {
+   "id": "372f5ae5d643",
+   "title": "How much of Musk’s wealth comes from government help? Virtually all of it",
+   "link": "https://biztoc.com/x/698ed020325135ef?ref=rss",
+   "summary": "Elon Musk has many people to thank for becoming the world’s first trillionaire — his companies’ engineers who produced technological breakthroughs, Wall Street investors who were eager to shower him with their dollars despite questionable financials, but most of all, American taxpayers and…",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-06-14T15:40:29+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c3a6356f8567",
+   "title": "This stock is a better pick than SpaceX for disciplined investors",
+   "link": "https://biztoc.com/x/1a869edc5acfe6a5?ref=rss",
+   "summary": "This stock is a better pick than SpaceX for disciplined investors powered by Buy NOK. The thesis is that Nokia is now an AI/cloud infrastructure supplier (optical transport, IP routing, data-center interconnect) with real momentum: 49% YoY growth in AI/cloud net sales and ~€1B in AI/cloud orders,…",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-06-14T15:39:49+00:00",
+   "tickers": [
+    "IP"
+   ]
+  },
+  {
+   "id": "b40451e799a9",
+   "title": "3 Stocks to Load Up On Right Now",
+   "link": "https://www.nasdaq.com/articles/3-stocks-load-right-now",
+   "summary": "Key PointsUnited Parcel Service's management is telling investors that the inflection point in its turnaround effort is at hand.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-06-14T15:35:00+00:00",
+   "tickers": [
+    "SCI"
+   ]
+  },
+  {
+   "id": "a616a147dcd5",
+   "title": "5 AI Infrastructure Stocks You'll Wish You Bought Sooner",
+   "link": "https://www.nasdaq.com/articles/5-ai-infrastructure-stocks-youll-wish-you-bought-sooner",
+   "summary": "Arista Networks (NYSE: ANET), Micron (NASDAQ: MU), Broadcom (NASDAQ: AVGO), Eaton (NYSE: ETN), and Applied Digital (NASDAQ: APLD) give investors different ways to think about the AI build-out beyond Nvidia (NASDAQ: NVDA). The upside thesis is simple: as AI demand grows, the world",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-06-14T15:35:00+00:00",
+   "tickers": [
+    "ANET",
+    "MU",
+    "AVGO",
+    "ETN"
+   ]
+  },
+  {
+   "id": "b30c886c8e87",
+   "title": "Is UroGen Pharma a Stock to Sell After Its Chief Medical Officer Unloaded 5,222 Shares?",
+   "link": "https://www.nasdaq.com/articles/urogen-pharma-stock-sell-after-its-chief-medical-officer-unloaded-5222-shares",
+   "summary": "Key Points5,222 shares were sold on June 8, 2026 for a transaction value of approximately $143,000 at a weighted average price around $27.30 per share.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-06-14T15:34:38+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ce144862abac",
+   "title": "Basketball-Chaos and confetti settle as New York City prepares Knicks celebration",
+   "link": "https://www.investing.com/news/world-news/basketballchaos-and-confetti-settle-as-new-york-city-prepares-knicks-celebration-4741097",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-06-14T15:30:26+00:00",
+   "tickers": []
+  },
+  {
+   "id": "8d060adc265f",
+   "title": "Allianz nears deal for HSBC's Singapore insurance business",
+   "link": "https://seekingalpha.com/news/4603130-allianz-nears-deal-for-hsbcs-singapore-insurance-business?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-06-14T15:26:59+00:00",
+   "tickers": [
+    "HSBC"
+   ]
+  },
+  {
+   "id": "ef9084aa4322",
+   "title": "Rain sends Germany and Curacao fans on pre-match hunt for umbrellas and beer",
+   "link": "https://www.investing.com/news/world-news/rain-sends-germany-and-curacao-fans-on-prematch-hunt-for-umbrellas-and-beer-4741096",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-06-14T15:24:32+00:00",
+   "tickers": []
+  },
+  {
+   "id": "4b587c9b1d47",
+   "title": "NASA Hires Firefly Aerospace to Build a Drone Aircraft Carrier -- to the Moon",
+   "link": "https://www.nasdaq.com/articles/nasa-hires-firefly-aerospace-build-drone-aircraft-carrier-moon",
+   "summary": "Key PointsNASA has awarded Firefly $75 million to deliver four \"hopping\" drones to the Moon.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-06-14T15:20:00+00:00",
+   "tickers": [
+    "FLY"
+   ]
+  },
+  {
+   "id": "3898dbe743cc",
+   "title": "No more attacks in Lebanon, Trump tells Israel, as U.S. nears deal with Iran",
+   "link": "https://www.investing.com/news/economy-news/trump-says-iran-deal-could-be-signed-sunday-tehran-disputes-timing-4741061",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-06-14T15:18:12+00:00",
+   "tickers": []
+  },
+  {
+   "id": "af9cf9c2022b",
+   "title": "Trump urges Israel to halt Lebanon strikes as Iran deal talks continue",
+   "link": "https://seekingalpha.com/news/4603133-trump-urges-israel-to-halt-lebanon-strikes-as-iran-deal-talks-continue?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-06-14T15:12:14+00:00",
+   "tickers": []
+  },
+  {
+   "id": "fa70f6c64035",
+   "title": "Up 18% in 2026, Is Coca-Cola a Buy at an All-Time High?",
+   "link": "https://www.nasdaq.com/articles/18-2026-coca-cola-buy-all-time-high",
+   "summary": "Key PointsCoca-Cola hit an all-time high late last week.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-06-14T15:08:00+00:00",
+   "tickers": [
+    "KO"
+   ]
+  },
+  {
+   "id": "2ec05285043d",
+   "title": "What Happens to Social Security as More Workers Leave the U.S.?",
+   "link": "https://www.nasdaq.com/articles/what-happens-social-security-more-workers-leave-us",
+   "summary": "Key PointsBetween the number of Americans moving abroad and number of workers deported, it's natural that less is being paid in Social Security taxes.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-06-14T15:05:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "08ebffa6a7d1",
+   "title": "Touchstone Mid Cap Value Fund Q1 2026 Commentary",
+   "link": "https://seekingalpha.com/article/4914875-touchstone-mid-cap-value-fund-q1-2026-commentary?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-06-14T15:05:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "1a36b429d333",
+   "title": "AI finds critical flaw in Zcash, raising new security fears for crypto investors",
+   "link": "https://seekingalpha.com/news/4603126-ai-finds-critical-flaw-in-zcash-raising-new-security-fears-for-crypto-investors?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-06-14T15:04:46+00:00",
+   "tickers": []
+  },
+  {
+   "id": "314c84445426",
+   "title": "Is Borr Drilling a Buy Following This Insider Purchase of 1.06 Million Shares?",
+   "link": "https://www.nasdaq.com/articles/borr-drilling-buy-following-insider-purchase-106-million-shares",
+   "summary": "Key PointsTor Olav Troim acquired 1,063,000 shares on June 9, 2026, for a transaction value of approximately $5.0 million at around $4.70 per share.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-06-14T15:03:23+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e453a9f12034",
+   "title": "A year after Meta tapped Alexandr Wang to build a new AI model, Zuckerberg has to sell it",
+   "link": "https://www.cnbc.com/2026/06/14/meta-hired-alexandr-wang-to-build-ai-its-zuckerbergs-job-to-sell-it.html",
+   "summary": "Mark Zuckerberg's mega spending spree began a year ago, when he lured Alexandr Wang to oversee a new AI strategy. The results so far are underwhelming.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-06-14T15:02:35+00:00",
+   "tickers": [
+    "META"
+   ]
+  },
+  {
+   "id": "bb30f74fe712",
+   "title": "Modat adds Passive DNS to its Platform Magnify, Connecting Every Signal in a Single Investigation Graph",
+   "link": "https://markets.businessinsider.com/news/stocks/modat-adds-passive-dns-to-its-platform-magnify-connecting-every-signal-in-a-single-investigation-graph-1036247709",
+   "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;THE HAGUE, the Netherlands, June 14, 2026 (GLOBE NEWSWIRE) -- Modat today launched native Passive DNS intelligence in Magnify, its internet intelligence platform, unifying IP, device fingerprint, certificate, and passive DNS into a single...",
+   "source": "Markets Insider",
+   "category": "stocks",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "markets.businessinsider.com",
+   "published": "2026-06-14T15:00:00+00:00",
+   "tickers": [
+    "IP"
+   ]
+  },
+  {
+   "id": "d0e2df28e823",
+   "title": "Muscle Growth Supplements Featuring Magnesium, Ashwagandha and Omega-3s Are Highlighted by PureHealth Research",
+   "link": "https://www.prnewswire.com/news-releases/muscle-growth-supplements-featuring-magnesium-ashwagandha-and-omega-3s-are-highlighted-by-purehealth-research-302794157.html",
+   "summary": "MANASSAS, Va., June 14, 2026 /PRNewswire/ -- Strength, mobility, and recovery are getting more attention from people who want to stay active for the long haul, and PureHealth Research is highlighting that growing interest in proactive muscle wellness. The company's collection brings...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-06-14T15:00:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "2d4abcf4fabc",
+   "title": "Israeli fire kills six in Gaza despite new effort to salvage truce",
+   "link": "https://www.investing.com/news/world-news/israeli-fire-kills-six-in-gaza-despite-new-effort-to-salvage-truce-4741095",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-06-14T14:54:27+00:00",
+   "tickers": []
+  },
+  {
+   "id": "91a23e7ad083",
+   "title": "Swiss reject population cap in referendum, avoiding EU clash",
+   "link": "https://www.investing.com/news/world-news/switzerland-votes-on-proposal-to-cap-population-at-10-million-4741051",
+   "summary": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-06-14T14:54:26+00:00",
+   "tickers": []
+  },
+  {
+   "id": "58be24209b9e",
+   "title": "2 Best Stocks to Buy in the Market Right Now",
+   "link": "https://www.nasdaq.com/articles/2-best-stocks-buy-market-right-now",
+   "summary": "Key PointsBloom Energy is emerging as one of the companies helping resolve the power bottleneck at data centers.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-06-14T14:50:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "45b79664192a",
+   "title": "Venkata Pavan Kumar Gummadi Receives a 2026 Global Recognition Award for Technical Leadership and Enterprise Integration Architecture",
+   "link": "https://markets.businessinsider.com/news/stocks/venkata-pavan-kumar-gummadi-receives-a-2026-global-recognition-award-for-technical-leadership-and-enterprise-integration-architecture-1036247706",
+   "summary": "&lt;i&gt;Venkata Pavan Kumar Gummadi has earned a 2026 Global Recognition Award in the Leadership category, recognized for 18 years of high-impact contributions to enterprise integration architecture across financial services, insurance, and utility sectors, with documented results validated through the Rasch psychometric evaluation model.",
+   "source": "Markets Insider",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "markets.businessinsider.com",
+   "published": "2026-06-14T14:45:32+00:00",
+   "tickers": []
+  },
+  {
+   "id": "60caafeedc10",
+   "title": "Castle Rock Hormone Health Partners With SmartBug Media",
+   "link": "https://markets.businessinsider.com/news/stocks/castle-rock-hormone-health-partners-with-smartbug-media-1036247707",
+   "summary": "&lt;i&gt;Castle Rock Hormone Health has entered into a strategic partnership with SmartBug Media as the company prepares for national expansion, including franchise recruitment, patient acquisition, and multi-location marketing support.&lt;/i&gt;&lt;span class=&quot;byline&quot;&gt;United States, June 14, 2026 -- Castle Rock Hormone Health announced a strategic...",
+   "source": "Markets Insider",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "markets.businessinsider.com",
+   "published": "2026-06-14T14:44:49+00:00",
+   "tickers": []
+  },
+  {
+   "id": "61b6b02bb98a",
+   "title": "Rosen Law Firm Encourages FLOW Cryptocurrency Investors to Inquire About Securities Class Action Investigation",
+   "link": "https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-flow-cryptocurrency-investors-to-inquire-about-securities-class-action-investigation-302799481.html",
+   "summary": "NEW YORK, June 14, 2026 /PRNewswire/ -- Why: Rosen Law Firm, a global investor rights law firm, continues to investigate potential securities claims on behalf of investors in FLOW (FLOW-USD) cryptocurrency, resulting from allegations that Flow Foundation may have issued materially...",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "prnewswire.com",
+   "published": "2026-06-14T14:44:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "9e096f335dc4",
+   "title": "Wall Street Brunch: What Will Kevin Warsh Say?",
+   "link": "https://seekingalpha.com/article/4914874-wall-street-brunch-what-will-kevin-warsh-say?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-06-14T14:41:58+00:00",
+   "tickers": []
+  },
+  {
+   "id": "1d426dbd8be2",
+   "title": "Hoegh LNG Partners: I'm Still Long The 10.5% Yielding Preferred Shares",
+   "link": "https://seekingalpha.com/article/4914243-hoegh-lng-partners-i-am-still-long-10_5-percent-yielding-preferred-shares?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-06-14T14:40:00+00:00",
+   "tickers": [
+    "LNG"
+   ]
+  },
+  {
+   "id": "0a1c30aa81f9",
+   "title": "MileMark Advances AI-Driven Visibility Strategies for Law Firms Navigating the Next Search Era",
+   "link": "https://markets.businessinsider.com/news/stocks/milemark-advances-ai-driven-visibility-strategies-for-law-firms-navigating-the-next-search-era-1036247708",
+   "summary": "&lt;span class=&quot;byline&quot;&gt;Tampa, Florida, United States, June 14, 2026 -- &lt;u&gt;&lt;a href=&quot;https://www.milemarkmedia.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow&quot; target=&quot;_blank&quot;&gt;MileMark Legal Marketing&lt;/a&gt;&lt;/u&gt; is expanding its focus on AI-driven visibility as law firms adapt to new ways prospective clients search for legal help.",
+   "source": "Markets Insider",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "markets.businessinsider.com",
+   "published": "2026-06-14T14:39:30+00:00",
+   "tickers": []
+  },
+  {
+   "id": "8407df837b2b",
+   "title": "The Most Dangerous Dividend ETF Investors Keep Buying",
+   "link": "https://www.nasdaq.com/articles/most-dangerous-dividend-etf-investors-keep-buying",
+   "summary": "Key PointsThe JPMorgan Equity Premium Income ETF came to prominence during the 2022 bear market, when it beat the S&amp;P 500 by 15 percentage points.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-06-14T14:36:00+00:00",
+   "tickers": [
+    "JEPI",
+    "JIRE"
+   ]
+  },
+  {
+   "id": "c70225cde8ce",
+   "title": "Bargain Alert: This Tech Stock's Bold AI Strategy Could Unlock Explosive Upside",
+   "link": "https://www.nasdaq.com/articles/bargain-alert-tech-stocks-bold-ai-strategy-could-unlock-explosive-upside",
+   "summary": "Meta (NASDAQ: META) is spending aggressively on AI, but the real question is whether its MTIA chip program can turn rising infrastructure costs into a long-term efficiency advantage. If Meta gains more control over ranking, recommendations, advertising, and generative AI workload",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-06-14T14:35:00+00:00",
+   "tickers": [
+    "META",
+    "MSTR"
+   ]
+  },
+  {
+   "id": "5ef7891e2607",
+   "title": "WESCO International: The Easy Money Has Been Made (Rating Downgrade)",
+   "link": "https://seekingalpha.com/article/4914873-wesco-international-easy-money-has-been-made?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-06-14T14:33:02+00:00",
+   "tickers": [
+    "WCC"
+   ]
+  },
+  {
+   "id": "fd674c435934",
+   "title": "Another 3% S&P 500 drop may trigger more systematic selling: BofA",
+   "link": "https://www.investing.com/news/stock-market-news/another-3-sp-500-drop-may-trigger-more-systematic-selling-bofa-4741094",
+   "summary": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-06-14T14:31:06+00:00",
+   "tickers": []
+  },
+  {
+   "id": "515b105a0b53",
+   "title": "States press ahead with AI regulation despite Trump's push for federal control",
+   "link": "https://seekingalpha.com/news/4603128-states-press-ahead-with-ai-regulation-despite-trumps-push-for-federal-control?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-06-14T14:29:44+00:00",
+   "tickers": []
+  },
+  {
+   "id": "cb87d5ebf9d1",
+   "title": "BP's Valuation Says Buy, Yet The Balance Sheet Says Wait",
+   "link": "https://seekingalpha.com/article/4914872-bps-valuation-says-buy-yet-the-balance-sheet-says-wait?source=feed_all_articles",
+   "summary": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-06-14T14:26:13+00:00",
+   "tickers": [
+    "BP"
+   ]
+  },
+  {
+   "id": "ea788be1c862",
+   "title": "We thought we found the perfect luxury retirement community, but it’s millions of dollars in debt. Are we trapped?",
+   "link": "https://www.marketwatch.com/story/we-thought-we-found-the-perfect-luxury-retirement-community-but-its-millions-of-dollars-in-debt-are-we-trapped-cde2e8f5?mod=mw_rss_topstories",
+   "summary": "“If we were to leave, we would lose a portion of our buy-in — about $80,000.”",
+   "source": "MarketWatch",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "marketwatch.com",
+   "published": "2026-06-14T14:26:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "610074d39b94",
+   "title": "SpaceX IPO afterglow, Kevin Warsh's first Fed meeting, and a potential US-Iran deal: What to watch this week",
+   "link": "https://finance.yahoo.com/markets/article/spacex-ipo-afterglow-kevin-warshs-first-fed-meeting-and-a-potential-us-iran-deal-what-to-watch-this-week-142500418.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-14T14:25:00+00:00",
+   "tickers": []
+  },
   {
    "id": "f1df32c25fef",
    "title": "Most Executives Don’t Realize They’re Slowing Their Organizations Down",
@@ -82,6 +1509,19 @@
    "tickers": []
   },
   {
+   "id": "2f8fddd885a7",
+   "title": "Can this $125K robot be my friend?",
+   "link": "https://www.businessinsider.com/can-this-125k-robot-be-my-friend-2026-6",
+   "summary": "",
+   "source": "Markets Insider",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "businessinsider.com",
+   "published": "2026-06-14T14:22:00+00:00",
+   "tickers": []
+  },
+  {
    "id": "e3ed58a30352",
    "title": "Celldex Presents Long-Term Barzolvolimab Results Demonstrating Sustained Off-Treatment Improvement in Angioedema in Patients with CSU at the European Academy of Allergy and Clinical Immunology Annual Meeting",
    "link": "https://www.globenewswire.com/news-release/2026/06/14/3311449/24180/en/Celldex-Presents-Long-Term-Barzolvolimab-Results-Demonstrating-Sustained-Off-Treatment-Improvement-in-Angioedema-in-Patients-with-CSU-at-the-European-Academy-of-Allergy-and-Clinica.html",
@@ -92,6 +1532,32 @@
    "sentiment": "neutral",
    "domain": "globenewswire.com",
    "published": "2026-06-14T14:21:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e666ac9c044e",
+   "title": "Celldex Presents Long-Term Barzolvolimab Results Demonstrating Sustained Off-Treatment Improvement in Angioedema in Patients with CSU at the European Academy of Allergy and Clinical Immunology...",
+   "link": "https://markets.businessinsider.com/news/stocks/celldex-presents-long-term-barzolvolimab-results-demonstrating-sustained-off-treatment-improvement-in-angioedema-in-patients-with-csu-at-the-european-academy-of-allergy-and-clinical-immunology-1036247686",
+   "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;&lt;ul&gt;&lt;li&gt;&lt;em&gt;Treatment with barzolvolimab resulted in rapid, significant, and durable improvements in angioedema in patients with moderate to severe CSU&lt;/em&gt;&lt;/li&gt;&lt;li&gt;&lt;em&gt;Seven months after the completion of dosing (Week 76), up to 64% of patients...",
+   "source": "Markets Insider",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "markets.businessinsider.com",
+   "published": "2026-06-14T14:21:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "aa538299f3f5",
+   "title": "Prediction: This Will Be the Next $1 Trillion Artificial Intelligence (AI) Chip Stock, According to Jensen Huang",
+   "link": "https://www.nasdaq.com/articles/prediction-will-be-next-1-trillion-artificial-intelligence-ai-chip-stock-according-jensen",
+   "summary": "Key PointsMarvell is a rising star in the world of custom silicon and critical interconnects stitching AI GPUs together.",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-06-14T14:20:00+00:00",
    "tickers": []
   },
   {
@@ -119,6 +1585,19 @@
    "type": "stocks",
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
+   "published": "2026-06-14T14:15:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ff39c3a8e01b",
+   "title": "Charlie Munger: Finfluencers 'mislead you on purpose' — This is how the late billionaire recommends you build wealth",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/charlie-munger-finfluencers-mislead-purpose-141500769.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
    "published": "2026-06-14T14:15:00+00:00",
    "tickers": []
   },
@@ -554,6 +2033,32 @@
    "tickers": []
   },
   {
+   "id": "929f6c87053a",
+   "title": "Mineralys Therapeutics Presents Late-Breaking Data on Lorundrostat and Heart Failure Risk Biomarkers at The Endocrine Society Annual Meeting (ENDO 2026)",
+   "link": "https://markets.businessinsider.com/news/stocks/mineralys-therapeutics-presents-late-breaking-data-on-lorundrostat-and-heart-failure-risk-biomarkers-at-the-endocrine-society-annual-meeting-endo-2026-1036247683",
+   "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;&lt;p align=&quot;center&quot;&gt;&lt;em&gt;– Lorundrostat was associated with significant reductions in heart failure risk biomarkers in a proteomic analysis of data from participants with uncontrolled hypertension –&lt;/em&gt;&lt;p align=&quot;center&quot;&gt;&lt;em&gt;– Coordinated reductions in...",
+   "source": "Markets Insider",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "markets.businessinsider.com",
+   "published": "2026-06-14T14:00:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "533f6f04fbbf",
+   "title": "Upstream Bio Presents New Responder Analyses Demonstrating Clinically Meaningful Improvements in CRSwNP in Significant Majority of Participants Treated with Verekitug in the Phase 2 VIBRANT Trial...",
+   "link": "https://markets.businessinsider.com/news/stocks/upstream-bio-presents-new-responder-analyses-demonstrating-clinically-meaningful-improvements-in-crswnp-in-significant-majority-of-participants-treated-with-verekitug-in-the-phase-2-vibrant-trial-1036247684",
+   "summary": "&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://www.globenewswire.com/styles/gnw_nitf.css&quot; /&gt;&lt;p align=&quot;center&quot;&gt;&lt;em&gt;– Verekitug, administered once every three months, led to clinically meaningful improvements in nasal polyp score (NPS) in approximately 80% of participants –&lt;/em&gt;&lt;p align=&quot;center&quot;&gt;&lt;em&gt;– Majority of verekitug-treated...",
+   "source": "Markets Insider",
+   "category": "stocks",
+   "type": "fda",
+   "sentiment": "neutral",
+   "domain": "markets.businessinsider.com",
+   "published": "2026-06-14T14:00:00+00:00",
+   "tickers": []
+  },
+  {
    "id": "237d64a6f5dc",
    "title": "Wasatch International Opportunities Fund Q1 2026 Commentary",
    "link": "https://seekingalpha.com/article/4914870-wasatch-international-opportunities-fund-q1-2026-commentary?source=feed_all_articles",
@@ -579,24 +2084,6 @@
    "published": "2026-06-14T13:57:25+00:00",
    "tickers": [
     "SMCI"
-   ]
-  },
-  {
-   "id": "d88fed5b4169",
-   "title": "Stocks Rally on Hopes for a Near-term US-Iran Interim Peace Agreement",
-   "link": "https://www.nasdaq.com/articles/stocks-rally-hopes-near-term-us-iran-interim-peace-agreement",
-   "summary": "The S&amp;P 500 Index ($SPX ) (SPY ) on Friday rose +0.50%, the Dow Jones Industrial Average ($DOWI ) (DIA ) rose +0.70%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) rose +0.64%. June E-mini S&amp;P futures (ESM26 ) rose +0.65%, and June E-mini Nasdaq futures (NQM26 ) rose...",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-06-14T13:56:55+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
    ]
   },
   {
@@ -754,6 +2241,19 @@
    "tickers": []
   },
   {
+   "id": "620eb7e8a260",
+   "title": "Bill Ackman Likes This Indirect AI Play Everyone’s Ignoring",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/bill-ackman-likes-indirect-ai-134946464.html",
+   "summary": "",
+   "source": "Yahoo Finance",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "finance.yahoo.com",
+   "published": "2026-06-14T13:49:46+00:00",
+   "tickers": []
+  },
+  {
    "id": "0853cc3de433",
    "title": "EU Commission looking at practical consequences of Anthropic decision, spokesperson says",
    "link": "https://www.investing.com/news/stock-market-news/eu-commission-looking-at-practical-consequences-of-anthropic-decision-spokesperson-says-4741090",
@@ -791,6 +2291,22 @@
    "domain": "seekingalpha.com",
    "published": "2026-06-14T13:40:53+00:00",
    "tickers": []
+  },
+  {
+   "id": "0c7936d69833",
+   "title": "ZG and Z UPCOMING DEADLINE: Faruqi & Faruqi, LLP Reminds Zillow Group (ZG, Z) Investors of Securities Class Action Lawsuit Deadline on August 10, 2026",
+   "link": "https://markets.businessinsider.com/news/stocks/zg-and-z-upcoming-deadline-faruqi-faruqi-llp-reminds-zillow-group-zg-z-investors-of-securities-class-action-lawsuit-deadline-on-august-10-2026-1036247681",
+   "summary": "&lt;img src=&quot;https://api.newsfilecorp.com/newsinfo/301331/208&quot; id=&quot;208&quot; width=&quot;2&quot; height=&quot;2&quot; style=&quot;width: 1px; height: 1px;border: 0px solid;&quot;&gt;&lt;b&gt;Faruqi Faruqi, LLP Securities Litigation Partner &lt;/b&gt;&lt;a href=&quot;https://api.newsfilecorp.com/redirect/24gvZc5REp&quot; rel=&quot;noopener nofollow&quot; target=&quot;_blank&quot;&gt;&lt;b&gt;James (Josh) Wilson&lt;/b&gt;&lt;/a&gt;&lt;b&gt; Encourages...",
+   "source": "Markets Insider",
+   "category": "stocks",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "markets.businessinsider.com",
+   "published": "2026-06-14T13:40:00+00:00",
+   "tickers": [
+    "Z",
+    "ZG"
+   ]
   },
   {
    "id": "fe510657ecc8",
@@ -890,6 +2406,19 @@
    "sentiment": "neutral",
    "domain": "cnbc.com",
    "published": "2026-06-14T13:30:01+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ee838898d3c9",
+   "title": "VIA UPCOMING DEADLINE: Faruqi & Faruqi, LLP Reminds Via Transportation (VIA) Investors of Securities Class Action Lawsuit Deadline on August 10, 2026",
+   "link": "https://markets.businessinsider.com/news/stocks/via-upcoming-deadline-faruqi-faruqi-llp-reminds-via-transportation-via-investors-of-securities-class-action-lawsuit-deadline-on-august-10-2026-1036247682",
+   "summary": "&lt;img src=&quot;https://api.newsfilecorp.com/newsinfo/301330/208&quot; id=&quot;208&quot; width=&quot;2&quot; height=&quot;2&quot; style=&quot;width: 1px; height: 1px;border: 0px solid;&quot;&gt;&lt;b&gt;Faruqi Faruqi, LLP Securities Litigation Partner &lt;/b&gt;&lt;a href=&quot;https://api.newsfilecorp.com/redirect/Mq1jVTMKD4&quot; rel=&quot;noopener nofollow&quot; target=&quot;_blank&quot;&gt;&lt;b&gt;James (Josh) Wilson&lt;/b&gt;&lt;/a&gt;&lt;b&gt; Encourages...",
+   "source": "Markets Insider",
+   "category": "stocks",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "markets.businessinsider.com",
+   "published": "2026-06-14T13:30:00+00:00",
    "tickers": []
   },
   {
@@ -1092,19 +2621,6 @@
    ]
   },
   {
-   "id": "3898dbe743cc",
-   "title": "Iran reveals final draft deal includes nuclear restrictions, asset release",
-   "link": "https://www.investing.com/news/economy-news/trump-says-iran-deal-could-be-signed-sunday-tehran-disputes-timing-4741061",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-06-14T12:55:36+00:00",
-   "tickers": []
-  },
-  {
    "id": "ef67db196648",
    "title": "U.S., Iran edge toward deal as fighting continues and hardliners push back",
    "link": "https://seekingalpha.com/news/4603122-u-s-iran-edge-toward-deal-as-fighting-continues-and-hardliners-push-back?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -1115,19 +2631,6 @@
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
    "published": "2026-06-14T12:54:46+00:00",
-   "tickers": []
-  },
-  {
-   "id": "91a23e7ad083",
-   "title": "Swiss reject population cap in referendum, avoiding EU clash",
-   "link": "https://www.investing.com/news/world-news/switzerland-votes-on-proposal-to-cap-population-at-10-million-4741051",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-06-14T12:54:24+00:00",
    "tickers": []
   },
   {
@@ -1335,9 +2838,9 @@
   },
   {
    "id": "3cf88c15d19d",
-   "title": "Keir Starmer poised to weaken electric vehicle targets",
+   "title": "Starmer poised to weaken electric vehicle targets",
    "link": "https://www.ft.com/content/a38fc691-fa88-4636-b766-a0477fe80818",
-   "summary": "Prime minister to reduce all-electric cap from 80% to 50% by end of the decade amid fears of job losses",
+   "summary": "Prime minister to reduce all-electric cap from 80% to 50% by end of decade amid fears of job losses",
    "source": "FT Companies",
    "category": "stocks",
    "type": "stocks",
@@ -1524,21 +3027,6 @@
    "domain": "nasdaq.com",
    "published": "2026-06-14T12:03:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "e453a9f12034",
-   "title": "A year after Meta tapped Alexandr Wang to build a new AI model, Zuckerberg has to sell it",
-   "link": "https://www.cnbc.com/2026/06/14/meta-hired-alexandr-wang-to-build-ai-its-zuckerbergs-job-to-sell-it.html",
-   "summary": "Mark Zuckerberg's mega spending spree began a year ago, when he lured Alexandr Wang to oversee a new AI strategy. The results so far are underwhelming.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-06-14T12:00:02+00:00",
-   "tickers": [
-    "META"
-   ]
   },
   {
    "id": "46d84346ccf5",
@@ -2013,19 +3501,6 @@
    "tickers": []
   },
   {
-   "id": "4b091bfe4707",
-   "title": "Swiss voters set to reject population cap in referendum, avoiding EU clash",
-   "link": "https://www.cnbc.com/2026/06/14/swiss-voters-set-to-reject-population-cap-in-referendum.html",
-   "summary": "The referendum had put businesses on edge due to concerns it could lead to the end of free movement of labor between Switzerland and the EU.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-06-14T11:35:07+00:00",
-   "tickers": []
-  },
-  {
    "id": "d9bc116740d1",
    "title": "Strawberry Fields REIT: A Growth And Dividend Idea Among Skilled-Nursing REITs",
    "link": "https://seekingalpha.com/article/4914857-strawberry-fields-reit-stock-growth-and-dividend-idea-among-skilled-nursing-reits?source=feed_all_articles",
@@ -2092,19 +3567,6 @@
    "sentiment": "neutral",
    "domain": "marketwatch.com",
    "published": "2026-06-14T11:25:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "db89020764c3",
-   "title": "US and Iran inch closer to deal, Trump says Sunday but timing is unclear",
-   "link": "https://www.investing.com/news/world-news/us-iran-inch-closer-to-deal-timing-remains-unclear-4741054",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-06-14T11:24:24+00:00",
    "tickers": []
   },
   {
@@ -2583,19 +4045,6 @@
    "sentiment": "neutral",
    "domain": "nasdaq.com",
    "published": "2026-06-14T10:35:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "7e38a7bfd35a",
-   "title": "UK intercepts Russian shadow fleet oil tanker in English Channel",
-   "link": "https://www.ft.com/content/3fb01bb7-791f-449c-96c6-a75fd39220fd",
-   "summary": "Prime minister hails ‘yet another blow to Russia’ as part of effort to clamp down on those fuelling Ukraine war",
-   "source": "FT Companies",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "ft.com",
-   "published": "2026-06-14T10:32:40+00:00",
    "tickers": []
   },
   {
@@ -3508,21 +4957,6 @@
    "domain": "biztoc.com",
    "published": "2026-06-14T09:03:20+00:00",
    "tickers": []
-  },
-  {
-   "id": "36893c744e28",
-   "title": "Merger Cleared, David Ellison to Join Trump at U.F.C. Bout",
-   "link": "https://www.nytimes.com/2026/06/14/business/media/trump-ufc-david-ellison.html",
-   "summary": "A U.F.C. fight on President Trump’s birthday will now double as a capstone for Paramount’s successful effort to secure Justice Department approval for a mega media merger.",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "nytimes.com",
-   "published": "2026-06-14T09:01:45+00:00",
-   "tickers": [
-    "PARA"
-   ]
   },
   {
    "id": "8388d4cb374c",
@@ -5005,7 +6439,7 @@
    "title": "Eightco Holdings (NASDAQ: ORBS) dichiara un patrimonio complessivo di circa 406 milioni di dollari, tra cui OpenAI, Beast Industries, oltre 16.000 ETH e più di 283 milioni di token WLD",
    "link": "https://www.prnewswire.com/news-releases/eightco-holdings-nasdaq-orbs-dichiara-un-patrimonio-complessivo-di-circa-406-milioni-di-dollari-tra-cui-openai-beast-industries-oltre-16-000-eth-e-piu-di-283-milioni-di-token-wld-302799678.html",
    "summary": "Composizione della tesoreria di Eightco al 10 giugno 2026: 90 milioni di dollari di azioni OpenAI (indirette), 18 milioni di dollari di azioni Beast Industries, 16.278 ETH, 283 milioni di WLD e 142 milioni di dollari in contanti e mezzi equivalenti, per un totale di circa 406 milioni di...",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -6835,1475 +8269,6 @@
    "tickers": [
     "WVE"
    ]
-  },
-  {
-   "id": "f7d9d1eb616a",
-   "title": "Is The AES Corporation (AES) A Good Stock To Buy Now?",
-   "link": "https://biztoc.com/x/0aa4298ac553216d?ref=rss",
-   "summary": "Is AES a good stock to buy? We came across a bullish thesis on The AES Corporation on The Mispricing Desk’s Substack. In this article, we will summarize the bulls’ thesis on AES. The AES Corporation's share was trading at $14.71 as of June 8th. AES’s trailing and forward P/E were 7.64 and 6.38…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T21:11:42+00:00",
-   "tickers": [
-    "AES"
-   ]
-  },
-  {
-   "id": "30d0b75c0525",
-   "title": "Is Broadridge Financial Solutions, Inc. (BR) A Good Stock To Buy Now?",
-   "link": "https://biztoc.com/x/ad35e3e969ce1165?ref=rss",
-   "summary": "Is BR a good stock to buy? We came across a bullish thesis on Broadridge Financial Solutions, Inc. on Bob’s Payment Stock Substack by Bob Hammel. In this article, we will summarize the bulls’ thesis on BR. Broadridge Financial Solutions, Inc.'s share was trading at $148.98 as of June 8th. BR’s…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T21:11:40+00:00",
-   "tickers": [
-    "BR"
-   ]
-  },
-  {
-   "id": "a8dbe8946ed6",
-   "title": "Is TransDigm Group Incorporated (TDG) A Good Stock To Buy Now?",
-   "link": "https://biztoc.com/x/605db44eb0d5c24e?ref=rss",
-   "summary": "Is TDG a good stock to buy? We came across a bullish thesis on TransDigm Group Incorporated on Compounding Quality’s Substack. In this article, we will summarize the bulls’ thesis on TDG. TransDigm Group Incorporated's share was trading at $1,206.28 as of June 8th. TDG’s trailing and forward P/E…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T21:11:38+00:00",
-   "tickers": [
-    "TDG"
-   ]
-  },
-  {
-   "id": "fa88b376e818",
-   "title": "Is Bio-Techne Corporation (TECH) A Good Stock To Buy Now?",
-   "link": "https://biztoc.com/x/bb3cf5351406bf73?ref=rss",
-   "summary": "Is TECH a good stock to buy? We came across a bullish thesis on Bio-Techne Corporation on r/ValueInvesting by Dynaheir-be. In this article, we will summarize the bulls’ thesis on TECH. Bio-Techne Corporation's share was trading at $52.65 as of June 8th. TECH’s trailing and forward P/E were 74.27…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T21:11:34+00:00",
-   "tickers": [
-    "TECH"
-   ]
-  },
-  {
-   "id": "2b89ad89fbfe",
-   "title": "Is Allied Gold Corporation (AAUC) A Good Stock To Buy Now?",
-   "link": "https://biztoc.com/x/5984acc59139961b?ref=rss",
-   "summary": "Is AAUC a good stock to buy? We came across a bullish thesis on Allied Gold Corporation on The Mispricing Desk’s Substack. In this article, we will summarize the bulls’ thesis on AAUC. Allied Gold Corporation's share was trading at $25.66 as of June 8th. AAUC’s forward P/E was 5.29 according to…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T21:11:31+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ec6b2863bb14",
-   "title": "Is Travere Therapeutics, Inc. (TVTX) A Good Stock To Buy Now?",
-   "link": "https://biztoc.com/x/1839e65ec00210b6?ref=rss",
-   "summary": "Is TVTX a good stock to buy? We came across a bullish thesis on Travere Therapeutics, Inc. on Biotech Distilled’s Substack. In this article, we will summarize the bulls’ thesis on TVTX. Travere Therapeutics, Inc.'s share was trading at $47.08 as of June 8th. TVTX’s forward P/E was 63.29 according…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T21:11:27+00:00",
-   "tickers": [
-    "TVTX"
-   ]
-  },
-  {
-   "id": "2853f73bf1a6",
-   "title": "Is Take-Two Interactive Software, Inc. (TTWO) A Good Stock To Buy Now?",
-   "link": "https://biztoc.com/x/13e4b794f11f745d?ref=rss",
-   "summary": "Is TTWO a good stock to buy? We came across a bullish thesis on Take-Two Interactive Software, Inc. on r/investing by Harmieh. In this article, we will summarize the bulls’ thesis on TTWO. Take-Two Interactive Software, Inc.'s share was trading at $212.55 as of June 8th. TTWO’s forward P/E was…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T21:11:20+00:00",
-   "tickers": [
-    "TTWO"
-   ]
-  },
-  {
-   "id": "42851e1dcdca",
-   "title": "A Good Stock To Buy Now?",
-   "link": "https://biztoc.com/x/8328d69714320c3e?ref=rss",
-   "summary": "Is CLS a good stock to buy? We came across a bullish thesis on Celestica Inc. on r/ValueInvesting by Wooden_Fondant_703. In this article, we will summarize the bulls’ thesis on CLS. Celestica Inc.'s share was trading at $386.50 as of June 8th. CLS’s trailing and forward P/E were 45.06 and 36.76…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T21:10:51+00:00",
-   "tickers": [
-    "CLS"
-   ]
-  },
-  {
-   "id": "c9b488928a3b",
-   "title": "World Cup Group B: Switzerland, Qatar draw 1-1",
-   "link": "https://biztoc.com/x/de77fa60866280e5?ref=rss",
-   "summary": "Switzerland and Qatar drew on Saturday in their first match of the 2026 FIFA World Cup, with a score of 1-1.The European team scored the first goal of the match in the 17th minute, with Breel Embolo a...",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T21:10:45+00:00",
-   "tickers": []
-  },
-  {
-   "id": "78d63ba75160",
-   "title": "Is Cadence Design Systems, Inc. (CDNS) A Good Stock To Buy Now?",
-   "link": "https://biztoc.com/x/25a6cbbef1e91d64?ref=rss",
-   "summary": "Is CDNS a good stock to buy? We came across a bullish thesis on Cadence Design Systems, Inc. on ARMR Report Be The Smart Money’s Substack by Bret Rosenthal. In this article, we will summarize the bulls’ thesis on CDNS. Cadence Design Systems, Inc.'s share was trading at $394.24 as of June 8th.…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T21:10:44+00:00",
-   "tickers": [
-    "CDNS"
-   ]
-  },
-  {
-   "id": "3772a356c05a",
-   "title": "Tens of thousands march at Pride events in Romania and Bulgaria to demand equality",
-   "link": "https://biztoc.com/x/ebb97ca65ace6f77?ref=rss",
-   "summary": "Romania and Bulgaria do not recognize same-sex marriage or civil partnerships, despite the bloc prohibiting discrimination based on sexual orientation.",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T21:10:38+00:00",
-   "tickers": []
-  },
-  {
-   "id": "31f758e8a2dc",
-   "title": "Tens of Thousands Rally in Europe Over Migration Debate",
-   "link": "https://biztoc.com/x/c1c342b19081118c?ref=rss",
-   "summary": "Tens of thousands of demonstrators took to the streets in at least two European cities on Saturday, highlighting ongoing political divisions over immigration policies. In Rome, thousands of people joined rival demonstrations, with one rally drawing anti-immigration activists and the other…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T21:10:27+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b087fc9555e3",
-   "title": "How U.S.-Iran draft agreement fails to meet Trump’s war goals",
-   "link": "https://biztoc.com/x/7c90ff458314c1ff?ref=rss",
-   "summary": "The emerging agreement with Iran that President Donald Trump is touting does not appear to achieve several of the key goals he stated at the outset of the military conflict over three months ago. For one, it’s unclear whether the president’s core objective of permanently preventing Iran from…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T21:10:19+00:00",
-   "tickers": []
-  },
-  {
-   "id": "be04bcb98c43",
-   "title": "Debt-market defaults are starting up again. Here’s bond giant Pimco's game plan",
-   "link": "https://biztoc.com/x/ca8d69fb46b47f99?ref=rss",
-   "summary": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T21:10:17+00:00",
-   "tickers": []
-  },
-  {
-   "id": "fabbc4648c09",
-   "title": "70-Year-Old Couple With $1.8M Just Got a Stage 2 Cancer Diagnosis. Financial Decisions They Have 60 Days to Make",
-   "link": "https://biztoc.com/x/0044cf050afda202?ref=rss",
-   "summary": "The post 70-Year-Old Couple With $1.8M Just Got a Stage 2 Cancer Diagnosis. Financial Decisions They Have 60 Days to Make appeared first on 24/7 Wall St.. A stage 2 cancer diagnosis can turn your world upside down. While the first focus must be on health and treatment, retirees often need to make…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T21:10:16+00:00",
-   "tickers": []
-  },
-  {
-   "id": "696da2f99b1d",
-   "title": "70-Year-Old Couple With $1.8M Just Got a Stage 2 Cancer Diagnosis. Financial Decisions They Have 60 Days to Make",
-   "link": "https://finance.yahoo.com/sectors/healthcare/articles/70-old-couple-1-8m-210505868.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-13T21:05:05+00:00",
-   "tickers": []
-  },
-  {
-   "id": "1f78449b39ec",
-   "title": "Goldman Sachs quietly resets oil price forecast for 2027",
-   "link": "https://finance.yahoo.com/sectors/energy/articles/goldman-sachs-quietly-resets-oil-210300495.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "guidance",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-13T21:03:00+00:00",
-   "tickers": [
-    "GS"
-   ]
-  },
-  {
-   "id": "97e62f40b137",
-   "title": "Fuel Tax Changes Hit Six States As Energy Inflation Accelerates",
-   "link": "https://finance.yahoo.com/sectors/energy/articles/fuel-tax-changes-hit-six-210000819.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-13T21:00:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "7429470d15fb",
-   "title": "Is Cadence Design Systems, Inc. (CDNS) A Good Stock To Buy Now?",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/cadence-design-systems-inc-cdns-205647025.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-13T20:56:47+00:00",
-   "tickers": [
-    "CDNS"
-   ]
-  },
-  {
-   "id": "4a959da40fe3",
-   "title": "Is Celestica Inc. (CLS) A Good Stock To Buy Now?",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/celestica-inc-cls-good-stock-205626381.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-13T20:56:26+00:00",
-   "tickers": [
-    "CLS"
-   ]
-  },
-  {
-   "id": "c3df57ad7178",
-   "title": "Is DLocal Limited (DLO) A Good Stock To Buy Now?",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/dlocal-limited-dlo-good-stock-205611908.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-13T20:56:11+00:00",
-   "tickers": []
-  },
-  {
-   "id": "3717b36de0cf",
-   "title": "Is Harrow, Inc. (HROW) A Good Stock To Buy Now?",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/harrow-inc-hrow-good-stock-205557543.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-13T20:55:57+00:00",
-   "tickers": []
-  },
-  {
-   "id": "147e17df65a1",
-   "title": "Is Adobe Inc. (ADBE) A Good Stock To Buy Now?",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/adobe-inc-adbe-good-stock-205543314.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-13T20:55:43+00:00",
-   "tickers": [
-    "ADBE"
-   ]
-  },
-  {
-   "id": "c0c87707482d",
-   "title": "Is Broadridge Financial Solutions, Inc. (BR) A Good Stock To Buy Now?",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/broadridge-financial-solutions-inc-br-205530356.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-13T20:55:30+00:00",
-   "tickers": [
-    "BR"
-   ]
-  },
-  {
-   "id": "09c68a763bd5",
-   "title": "Spain Issued Strong Warning Ahead of World Cup Opener vs Cape Verde",
-   "link": "https://biztoc.com/x/7d85fecd9c84d1d2?ref=rss",
-   "summary": "The 2026 FIFA World Cup kicked off on Thursday with a pair of Group A matches. Mexico walked out of Estadio Azteca in Mexico City with a commanding 2-0 victory over South Africa, while South Korea edged out Czechia 2-1 to close out the day in Guadalajara. Friday saw the other two co-hosts play.…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T20:55:16+00:00",
-   "tickers": []
-  },
-  {
-   "id": "31e1b4580575",
-   "title": "Cruz breaks with Trump on key endorsements as 2028 looms",
-   "link": "https://biztoc.com/x/c27c120eea098079?ref=rss",
-   "summary": "Texas Sen. Ted Cruz is staking out his independence from President Trump ahead of a possible 2028 run for the White House, backing rivals to Trump-endorsed candidates in two high-profile Republican primaries. Why it matters: Cruz is testing whether there's room in the Republican Party for a 2028…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T20:55:14+00:00",
-   "tickers": []
-  },
-  {
-   "id": "816e6cc768e8",
-   "title": "SA Asks: Space stocks sold off on Friday; should you buy the dip?",
-   "link": "https://seekingalpha.com/news/4603117-sa-asks-space-stocks-sold-off-on-friday-should-you-buy-the-dip?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-06-13T20:50:24+00:00",
-   "tickers": []
-  },
-  {
-   "id": "eb7c12c1ff66",
-   "title": "Is XPEL, Inc. (XPEL) A Good Stock To Buy Now?",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/xpel-inc-xpel-good-stock-204606800.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-13T20:46:06+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d4735537c31d",
-   "title": "Is Travere Therapeutics, Inc. (TVTX) A Good Stock To Buy Now?",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/travere-therapeutics-inc-tvtx-good-204552138.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-13T20:45:52+00:00",
-   "tickers": [
-    "TVTX"
-   ]
-  },
-  {
-   "id": "68f774994664",
-   "title": "Is Wave Life Sciences Ltd. (WVE) A Good Stock To Buy Now?",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/wave-life-sciences-ltd-wve-204539651.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-13T20:45:39+00:00",
-   "tickers": [
-    "WVE"
-   ]
-  },
-  {
-   "id": "463fb670bfb2",
-   "title": "Is The AES Corporation (AES) A Good Stock To Buy Now?",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/aes-corporation-aes-good-stock-204525159.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-13T20:45:25+00:00",
-   "tickers": [
-    "AES"
-   ]
-  },
-  {
-   "id": "a9c213e60a90",
-   "title": "Is Allied Gold Corporation (AAUC) A Good Stock To Buy Now?",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/allied-gold-corporation-aauc-good-204508594.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-13T20:45:08+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d64602742e96",
-   "title": "Is Take-Two Interactive Software, Inc. (TTWO) A Good Stock To Buy Now?",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/two-interactive-software-inc-ttwo-204402513.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-13T20:44:02+00:00",
-   "tickers": [
-    "TTWO"
-   ]
-  },
-  {
-   "id": "5beb79c6d9c8",
-   "title": "Is Bio-Techne Corporation (TECH) A Good Stock To Buy Now?",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/bio-techne-corporation-tech-good-204345541.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-13T20:43:45+00:00",
-   "tickers": [
-    "TECH"
-   ]
-  },
-  {
-   "id": "d75f3e3d6b35",
-   "title": "Is TransDigm Group Incorporated (TDG) A Good Stock To Buy Now?",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/transdigm-group-incorporated-tdg-good-204329985.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-13T20:43:29+00:00",
-   "tickers": [
-    "TDG"
-   ]
-  },
-  {
-   "id": "312a7e0901e4",
-   "title": "Is Sonida Senior Living, Inc. (SNDA) A Good Stock To Buy Now?",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/sonida-senior-living-inc-snda-204301238.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-13T20:43:01+00:00",
-   "tickers": []
-  },
-  {
-   "id": "cab51211fb72",
-   "title": "KPMG pulls report on AI usage due to apparent hallucinations",
-   "link": "https://finance.yahoo.com/sectors/technology/articles/kpmg-pulls-report-ai-usage-204231298.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-13T20:42:31+00:00",
-   "tickers": []
-  },
-  {
-   "id": "45a1396b87d3",
-   "title": "Is Prologis, Inc. (PLD) A Good Stock To Buy Now?",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/prologis-inc-pld-good-stock-204231534.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-13T20:42:31+00:00",
-   "tickers": [
-    "PLD"
-   ]
-  },
-  {
-   "id": "e1f5f86b74f1",
-   "title": "Is Kosmos Energy Ltd. (KOS) A Good Stock To Buy Now?",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/kosmos-energy-ltd-kos-good-204205888.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-13T20:42:05+00:00",
-   "tickers": []
-  },
-  {
-   "id": "5704e8bdf553",
-   "title": "Is Huntsman Corporation (HUN) A Good Stock To Buy Now?",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/huntsman-corporation-hun-good-stock-204150362.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-13T20:41:50+00:00",
-   "tickers": []
-  },
-  {
-   "id": "181bb187d0e8",
-   "title": "Is Ballard Power Systems Inc. (BLDP) A Good Stock To Buy Now?",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ballard-power-systems-inc-bldp-204135491.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-13T20:41:35+00:00",
-   "tickers": []
-  },
-  {
-   "id": "a2823a80794f",
-   "title": "Is Brighthouse Financial, Inc. (BHF) A Good Stock To Buy Now?",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/brighthouse-financial-inc-bhf-good-204121904.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-13T20:41:21+00:00",
-   "tickers": [
-    "BHF"
-   ]
-  },
-  {
-   "id": "142f330e82f6",
-   "title": "Is Apollo Commercial Real Estate Finance, Inc. (ARI) A Good Stock To Buy Now?",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/apollo-commercial-real-estate-finance-204105990.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-13T20:41:05+00:00",
-   "tickers": [
-    "APO"
-   ]
-  },
-  {
-   "id": "efbc186d0a95",
-   "title": "Mexico investigates murder of mayor of town in Oaxaca state",
-   "link": "https://www.investing.com/news/world-news/mexico-investigates-murder-of-mayor-of-town-in-oaxaca-state-4741044",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-06-13T20:36:07+00:00",
-   "tickers": []
-  },
-  {
-   "id": "4e993bdb2e86",
-   "title": "SpaceX Is Worth $2.1 Trillion on Its First Day of Trading. Is That a Problem for Investors?",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-worth-2-1-trillion-203500517.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-13T20:35:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "19256383d048",
-   "title": "SpaceX Is Worth $2.1 Trillion on Its First Day of Trading. Is That a Problem for Investors?",
-   "link": "https://www.nasdaq.com/articles/spacex-worth-21-trillion-its-first-day-trading-problem-investors",
-   "summary": "Key PointsThe newsflow around the SpaceX IPO was intense, given its size and Elon Musk's involvement.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-06-13T20:35:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "7bc6a93f140c",
-   "title": "The Knicks' 29-Point Miracle Comeback Let Retail Kalshi Traders Take $22M Off Market Makers",
-   "link": "https://finance.yahoo.com/markets/options/articles/knicks-29-point-miracle-comeback-203119081.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-13T20:31:19+00:00",
-   "tickers": []
-  },
-  {
-   "id": "23e40631ff08",
-   "title": "Fintech Stock Block Is Trying to Prove That the Ultimate Cryptocurrency Has a Real Use Case, But Will It Work?",
-   "link": "https://finance.yahoo.com/markets/crypto/articles/fintech-stock-block-trying-prove-202400059.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-13T20:24:00+00:00",
-   "tickers": [
-    "XYZ"
-   ]
-  },
-  {
-   "id": "58ca5a3b763b",
-   "title": "Fintech Stock Block Is Trying to Prove That the Ultimate Cryptocurrency Has a Real Use Case, But Will It Work?",
-   "link": "https://www.nasdaq.com/articles/fintech-stock-block-trying-prove-ultimate-cryptocurrency-has-real-use-case-will-it-work",
-   "summary": "Key PointsBlock's most recent innovation comes from its Square segment, as the business introduced a new payments acceptance mechanism.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-06-13T20:24:00+00:00",
-   "tickers": [
-    "SQ",
-    "XYZ"
-   ]
-  },
-  {
-   "id": "dc7f599a3754",
-   "title": "Missing Minnesota woman found alive after 3 days trapped in mud",
-   "link": "https://biztoc.com/x/4aeffe0e92863a98?ref=rss",
-   "summary": "A Minnesota woman who had been missing for three days was found alive after becoming trapped in mud and nearly submerged beside her vehicle, according to authorities and the two men who rescued her. Kathryn Jane Woessner, 68, of Alexandria, Minnesota, was located Saturday, June 6, west of Backus,…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T20:11:26+00:00",
-   "tickers": []
-  },
-  {
-   "id": "f63d5389062a",
-   "title": "Citi resets AMD stock price target on key move",
-   "link": "https://biztoc.com/x/3945483533549b47?ref=rss",
-   "summary": "For months, one of Wall Street's most closely watched chip analysts held a skeptical line on AMD while the stock rode the broader AI rally. On June 12, that changed. Citi analyst Atif Malik upgraded AMD to Buy from Neutral and raised his price target to $575 from $460, and shares jumped 4.73% the…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "analyst",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T20:11:18+00:00",
-   "tickers": [
-    "AMD",
-    "C"
-   ]
-  },
-  {
-   "id": "49b4abda24dd",
-   "title": "3 Things to Watch This Week That Could Heavily Impact How the S&P 500 Does From Here on Out",
-   "link": "https://www.nasdaq.com/articles/3-things-watch-week-could-heavily-impact-how-sp-500-does-here-out",
-   "summary": "Key PointsThe market has been doing well this year, but whether that continues may depend on what happens with interest rates and investor appetite for risk.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-06-13T20:10:31+00:00",
-   "tickers": []
-  },
-  {
-   "id": "c5be1acca349",
-   "title": "Rivian CEO taking different approach than Elon Musk for humanoid robotics company",
-   "link": "https://biztoc.com/x/eb3d44581b89074d?ref=rss",
-   "summary": "PARK CITY, Utah — Rivian Automotive CEO RJ Scaringe envisions a day in the not-so-distant future when the electric vehicle maker's manufacturing employees will have a new type of colleague: humanoid robots. \"There's going to be thousands of people that are collaborating alongside these robots.…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T20:09:55+00:00",
-   "tickers": [
-    "RIVN"
-   ]
-  },
-  {
-   "id": "fcbcb7b0bd54",
-   "title": "Trump said to promise Israel nuclear issue will be resolved",
-   "link": "https://biztoc.com/x/d799dd068ca8cea0?ref=rss",
-   "summary": "United States President Donald Trump assured Israel's Prime Minister Benjamin Netanyahu that the Iran nuclear issue would be resolved completely, adding that without that, an agreement between the two...",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T20:09:54+00:00",
-   "tickers": []
-  },
-  {
-   "id": "9de12c721fbd",
-   "title": "How Amazon and the White House ended Anthropic's Fable",
-   "link": "https://biztoc.com/x/5512497cd130b32d?ref=rss",
-   "summary": "Anthropic's much-anticipated, powerful Fable 5 AI model lasted just days in the public's hands, after an urgent report from Amazon triggered a scramble inside the White House that ended in a dramatic Friday night takedown. Why it matters: The episode highlights the administration and industry's…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T20:09:54+00:00",
-   "tickers": [
-    "AMZN"
-   ]
-  },
-  {
-   "id": "4fed135094d0",
-   "title": "Shaka Hislop Delivers Bold USMNT Verdict After 4-1 Win Over Paraguay",
-   "link": "https://biztoc.com/x/4aed76d795ccb12f?ref=rss",
-   "summary": "Team USA couldn't have asked for a better start to the 2026 FIFA World Cup. The Americans demolished Paraguay 4-1 on Friday night at SoFi Stadium, racing out to a 3-0 lead by halftime in what's already being viewed as arguably the USMNT's best win in years. The U.S. took an early 1-0 lead after an…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T20:09:53+00:00",
-   "tickers": [
-    "SOFI"
-   ]
-  },
-  {
-   "id": "b1d2a03f17f7",
-   "title": "What if AI really does disrupt 50% of all entry-level white-collar jobs?",
-   "link": "https://biztoc.com/x/a343ce8a28ae3d18?ref=rss",
-   "summary": "Trump says Iran deal to be signed on Sunday, Strait of Hormuz to reopen Investing.com -- Barclays upgraded Oscar Health Inc. to “overweight” and raised its price target to $35 from $30, arguing that artificial intelligence-driven displacement of entry-level white-collar workers could make the…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T20:09:48+00:00",
-   "tickers": [
-    "OSCR",
-    "BCS"
-   ]
-  },
-  {
-   "id": "d77227225caa",
-   "title": "X-Men ’97 has what Master of the Universe is missing",
-   "link": "https://biztoc.com/x/b730c23b458438e8?ref=rss",
-   "summary": "In 2026, Marvel and Mattel are both releasing projects designed to capitalize on people’s love for iconic animated heroes from their childhoods. Masters of the Universe has put a live-action He-Man on the big screen, and the second season of X-Men ’97 is about to fling some of Charles Xavier’s…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T20:09:47+00:00",
-   "tickers": [
-    "MAT",
-    "DIS"
-   ]
-  },
-  {
-   "id": "43545321ca12",
-   "title": "The data center boom is colliding with the midterms",
-   "link": "https://biztoc.com/x/8f31f9025674d0de?ref=rss",
-   "summary": "Data center proposals have spurred scores of bills in state legislatures and ballot measure campaigns to ban their construction. Will Waldron/Albany Times Union via Getty Images The majority of competitive House districts have data centers either planned or under construction. Neither party knows…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T20:09:46+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b560d6fe437e",
-   "title": "Ukrainian drone strike kills 1 and injures 3 in southern Russia",
-   "link": "https://biztoc.com/x/fd033ebaf3d20349?ref=rss",
-   "summary": "A Ukrainian drone attack killed one person and injured three in Russia's southern Krasnodar region, local officials said Saturday. Drone debris also sparked a fire at a sea terminal, local Gov. Veniamin Kondratyev said.",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T20:09:39+00:00",
-   "tickers": []
-  },
-  {
-   "id": "4a75df40deeb",
-   "title": "Тематическая RGB-площадка Hisense представляет новую достопримечательность Чемпионата мира по футболу FIFA World Cup 2026™",
-   "link": "https://www.prnewswire.com/news-releases/-rgb--hisense--------fifa-world-cup-2026-302799658.html",
-   "summary": "НЬЮ-ЙОРК, 13 июня 2026 г. /PRNewswire/ -- Компания Hisense, официальный спонсор Чемпионата мира по футболу FIFA World Cup 2026TM, 9 июня открыла нью-йоркском комплексе Hudson Yards тематическую интерактивную площадку, посвященную технологии RGB. Мероприятие объединило официальные ресурсы...",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-06-13T20:06:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "c4affb01c95d",
-   "title": "Phase 3 Data Show TransCon® PTH Replicated Systemic Actions of Endogenous PTH Through Week 182 in Adults with Hypoparathyroidism",
-   "link": "https://www.globenewswire.com/news-release/2026/06/13/3311416/0/en/Phase-3-Data-Show-TransCon-PTH-Replicated-Systemic-Actions-of-Endogenous-PTH-Through-Week-182-in-Adults-with-Hypoparathyroidism.html",
-   "summary": "COPENHAGEN, Denmark, June 13, 2026 (GLOBE NEWSWIRE) -- Ascendis Pharma A/S (Nasdaq: ASND) today announced Week 182 data from its completed Phase 3 PaTHway Trial showing that long-term treatment with TransCon PTH (palopegteriparatide) demonstrated sustained efficacy and safety in adults with hypoparathyroidism. Over the three-and-a-half-year duration of the trial, TransCon PTH replicated the systemic actions of endogenous PTH, with a balanced, beneficial impact on the main target organ systems – ",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "fda",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-06-13T20:00:00+00:00",
-   "tickers": [
-    "NDAQ"
-   ]
-  },
-  {
-   "id": "978f4c4baa93",
-   "title": "Trump says Iran deal to be signed on Sunday, Strait of Hormuz to reopen",
-   "link": "https://www.investing.com/news/economy-news/us-iran-signal-peace-deal-is-near-as-strait-of-hormuz-tensions-persist-4740892",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-06-13T19:57:21+00:00",
-   "tickers": []
-  },
-  {
-   "id": "806b312c041f",
-   "title": "Invests $15M to Expand Advanced Production in Ohio",
-   "link": "https://biztoc.com/x/e16872a105f3ccc6?ref=rss",
-   "summary": "AeroVironment Inc. (NASDAQ:AVAV) is one of the most promising mid-cap stocks to buy according to analysts. On June 2, AeroVironment announced plans to invest $15 million to expand its advanced production capabilities in Greene County near Dayton, Ohio. The expansion includes new facilities in…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T19:56:40+00:00",
-   "tickers": [
-    "AVAV"
-   ]
-  },
-  {
-   "id": "30b73ea80f53",
-   "title": "is One of the Most Promising Mid-Cap Stocks to Buy According to Analysts",
-   "link": "https://biztoc.com/x/57602c06dd41fe13?ref=rss",
-   "summary": "Viasat Inc. (NASDAQ:VSAT) is one of the most promising mid-cap stocks to buy according to analysts. On May 28, Viasat reported record financial performance for its Q4 and full-year 2026, including $4.9 billion in awards and a $4.1 billion backlog, alongside record revenue of $4.6 billion and…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T19:56:35+00:00",
-   "tickers": [
-    "VSAT"
-   ]
-  },
-  {
-   "id": "12c580c1ea7b",
-   "title": "Launches MYQORZO in Germany for Obstructive HCM Treatment",
-   "link": "https://biztoc.com/x/e82271cd72cbfe04?ref=rss",
-   "summary": "Cytokinetics (NASDAQ:CYTK) is one of the most promising mid-cap stocks to buy according to analysts. On June 1, Cytokinetics announced the first commercial European launch of MYQORZO (aficamten) in Germany for the treatment of symptomatic obstructive hypertrophic cardiomyopathy/oHCM. The launch…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T19:56:32+00:00",
-   "tickers": [
-    "CYTK"
-   ]
-  },
-  {
-   "id": "376f06690b26",
-   "title": "A Hot Stock to Buy That JPMorgan is Bullish On",
-   "link": "https://biztoc.com/x/dcd5e56817d0ed02?ref=rss",
-   "summary": "Venture Global Inc. (NYSE:VG) is one of the best hot stocks to buy for June. On June 4, JPMorgan upgraded Venture Global Inc. (NYSE:VG) to an Overweight from a Neutral and raised the price target to $17 from $16. The investment bank expects the company to be one of the beneficiaries of a spike in…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T19:56:31+00:00",
-   "tickers": [
-    "VG",
-    "JIRE",
-    "BLSH"
-   ]
-  },
-  {
-   "id": "74cad2cd9a66",
-   "title": "Is Hewlett Packard Enterprise Company (HPE) One of the Best Hot Stocks to Buy?",
-   "link": "https://biztoc.com/x/33260637ee4ade3c?ref=rss",
-   "summary": "Hewlett Packard Enterprise Company (NYSE:HPE) is one of the best hot stocks to buy for June. On June 3, Argus reiterated a Buy rating on Hewlett Packard Enterprise Company (NYSE:HPE) and raised the price target to $70 from $30. The significant price target increase is in response to the company’s…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T19:56:28+00:00",
-   "tickers": [
-    "HPE"
-   ]
-  },
-  {
-   "id": "ce64224b406d",
-   "title": "Petróleo Brasileiro S.A. – Petrobras (PBR) Inks Deal with SBM Offshore for Oil and Gas Production Vessels",
-   "link": "https://biztoc.com/x/02c068f031c78bf9?ref=rss",
-   "summary": "Petróleo Brasileiro S.A. – Petrobras (PBR) Inks Deal with SBM Offshore for Oil and Gas Production Vessels Petróleo Brasileiro S.A. – Petrobras (NYSE:PBR) is one of the best hot stocks to buy for June. On May 28, Petróleo Brasileiro S.A. – Petrobras (NYSE:PBR) entered into an agreement with SBM…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T19:56:24+00:00",
-   "tickers": [
-    "PBR"
-   ]
-  },
-  {
-   "id": "09d3447f3d57",
-   "title": "Secures US DHS Nationwide Infrastructure Modernization Contract",
-   "link": "https://biztoc.com/x/83371efba26411fd?ref=rss",
-   "summary": "AECOM (NYSE:ACM) is one of the most promising mid-cap stocks to buy according to analysts. On June 8, AECOM announced it had been awarded a nationwide contract by the US Department of Homeland Security to continue providing architecture and engineering services for critical infrastructure…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T19:56:22+00:00",
-   "tickers": [
-    "ACM"
-   ]
-  },
-  {
-   "id": "7e5ab80b9723",
-   "title": "Jack Henry & Associates (JKHY) Expands Stock Buyback Authorization by 5M Shares",
-   "link": "https://biztoc.com/x/d07727869a597ec1?ref=rss",
-   "summary": "Jack Henry &amp; Associates Inc. (NASDAQ:JKHY) is one of the most promising mid-cap stocks to buy according to analysts. On May 12, Jack Henry &amp; Associates announced that its Board of Directors has increased the company’s stock repurchase authorization by 5 million shares, expanding the total…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "dividend",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T19:56:18+00:00",
-   "tickers": [
-    "JKHY"
-   ]
-  },
-  {
-   "id": "de4e8e9a6f0e",
-   "title": "Onto Innovation Inc. (ONTO): A Hot Stock to Buy Amid Robust Inspection Technology Adoption",
-   "link": "https://biztoc.com/x/84059e5db437f5f9?ref=rss",
-   "summary": "Onto Innovation Inc. (NYSE:ONTO) is one of the best hot stocks to buy for June. On June 4, Stifel reiterated Onto Innovation Inc. (NYSE:ONTO) as a Buy with a $350 price target. The research firm remains bullish on the company, impressed by the accelerated adoption of its inspection technology by…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T19:56:14+00:00",
-   "tickers": [
-    "ONTO"
-   ]
-  },
-  {
-   "id": "7f608aa49be6",
-   "title": "One of the Most Promising Mid-Cap Stocks to Buy According to Analysts?",
-   "link": "https://biztoc.com/x/6bc520b8efb7336b?ref=rss",
-   "summary": "Chewy Inc. (NYSE:CHWY) is one of the most promising mid-cap stocks to buy according to analysts. On June 10, Chewy reported its FQ1 2026 financial results, highlighting continued growth in revenue and profitability. The company posted net sales of $3.36 billion, representing a 7.7% year-over-year…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T19:56:12+00:00",
-   "tickers": [
-    "CHWY"
-   ]
-  },
-  {
-   "id": "5032f2b8944c",
-   "title": "Reports $9.6B Crypto and Cash Holdings, Led by Ethereum Treasury",
-   "link": "https://biztoc.com/x/8ec1b2c839119eaf?ref=rss",
-   "summary": "BitMine Immersion Technologies Inc. (NYSE:BMNR) is one of the most promising mid-cap stocks to buy according to analysts. On June 8, BitMine Immersion reported that its total crypto and cash holdings reached $9.6 billion, driven primarily by a large Ethereum/ETH treasury position. The company…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T19:56:12+00:00",
-   "tickers": [
-    "BMNR",
-    "ETH"
-   ]
-  },
-  {
-   "id": "d0e4cfacb25a",
-   "title": "A Hot Stock to Buy in June on Data Center Growth Opportunities",
-   "link": "https://biztoc.com/x/e720920225b357aa?ref=rss",
-   "summary": "Semtech Corporation (NASDAQ:SMTC) is one of the best hot stocks to buy for June. On May 27, UBS reiterated its Buy rating on Semtech Corp. (NASDAQ:SMTC) and raised its price target to $225 from $165. The price target hike is in response to the company delivering impressive first-quarter results…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T19:56:11+00:00",
-   "tickers": [
-    "SMTC",
-    "UBS"
-   ]
-  },
-  {
-   "id": "5e017e56133d",
-   "title": "Acquires Iowa Skilled Nursing Facility and Real Estate",
-   "link": "https://biztoc.com/x/fd841b0097f75b4d?ref=rss",
-   "summary": "The Ensign Group Inc. (NASDAQ:ENSG) is one of the most promising mid-cap stocks to buy according to analysts. On June 2, Ensign announced the acquisition of real estate and operations for Woodland Health and Rehabilitation, a 62-bed skilled nursing facility in Mount Pleasant, Iowa. The transaction…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T19:56:10+00:00",
-   "tickers": [
-    "ENSG"
-   ]
-  },
-  {
-   "id": "64b4c0b82928",
-   "title": "Eyes Leveraged Loans to Accelerate AI Infrastructure Expansion",
-   "link": "https://biztoc.com/x/316de8e06ee946bf?ref=rss",
-   "summary": "Terawulf Inc. (NASDAQ:WULF) is one of the best hot stocks to buy for June. On June 5, reports emerged indicating that Terawulf Inc. (NASDAQ:WULF) is exploring leveraged loan opportunities following successful bond sales. The company is reportedly eyeing a leveraged loan to finance its AI…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T19:56:09+00:00",
-   "tickers": [
-    "WULF"
-   ]
-  },
-  {
-   "id": "53855bae839b",
-   "title": ", Jacobs (J) Win Melbourne Water Infrastructure Program Contract",
-   "link": "https://biztoc.com/x/9200e7fc9ece9da4?ref=rss",
-   "summary": "Stantec Inc. (NYSE:STN) is one of the most promising mid-cap stocks to buy according to analysts. On May 26, Stantec, in a joint venture with Jacobs Solutions (NYSE:J), announced it has been selected to deliver Greater Western Water’s five-year infrastructure planning and delivery program in…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T19:56:06+00:00",
-   "tickers": [
-    "J"
-   ]
-  },
-  {
-   "id": "49dccc90dfb6",
-   "title": "Modine Manufacturing Company (MOD): A Hot Stock to Buy Amid Solid Growth Metrics",
-   "link": "https://biztoc.com/x/66947618c35506d7?ref=rss",
-   "summary": "Modine Manufacturing Company (NYSE:MOD) is one of the best hot stocks to buy for June. On June 1, GLJ Research reiterated a Buy rating on Modine Manufacturing (NYSE:MOD) and raised its price target to $428. Kokliang/Shutterstock.com The price target hike comes on the heels of the company raising…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T19:56:06+00:00",
-   "tickers": [
-    "MOD"
-   ]
-  },
-  {
-   "id": "6a281de8f81b",
-   "title": "Down 50% Over the Past Year, Is There Anything Adobe Can Do to Rebound?",
-   "link": "https://biztoc.com/x/28f1b008384319a1?ref=rss",
-   "summary": "No matter what Adobe (NASDAQ: ADBE) does, it seemingly isn't good enough for investors. The stock slid yet again after posting another nice quarter, cutting its shares in half over the past year. Let's take a closer look at the software-as-a-service (SaaS) company's results and prospects to see…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T19:56:00+00:00",
-   "tickers": [
-    "ADBE"
-   ]
-  },
-  {
-   "id": "0ea8f2be71b3",
-   "title": "10 Most Promising Mid-Cap Stocks to Buy According to Analysts",
-   "link": "https://biztoc.com/x/8190dec35f8c12a1?ref=rss",
-   "summary": "MP Materials Corp. (NYSE:MP) is one of the most promising mid-cap stocks to buy according to analysts. On May 7, MP Materials reported its Q1 2026 financial and operational results, highlighting record production and sales of neodymium-praseodymium/NdPr and continued growth across its rare earth…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T19:55:52+00:00",
-   "tickers": [
-    "MP"
-   ]
-  },
-  {
-   "id": "50cff22cf8e8",
-   "title": "OpenAI hit with multistate probe into possible user harm as its IPO looms",
-   "link": "https://biztoc.com/x/56715f42c0e287ce?ref=rss",
-   "summary": "The company behind the popular chatbot ChatGPT said it will respond to the inquiry \"constructively\" and that it already has in place measures to protect its customers.",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T19:54:59+00:00",
-   "tickers": []
-  },
-  {
-   "id": "0a31d25a8cc2",
-   "title": "Cathie Wood sells $16.2 million of tumbling megacap stock",
-   "link": "https://biztoc.com/x/e26586df017a78bf?ref=rss",
-   "summary": "Cathie Wood, chief of Ark Investment Management, has built a reputation for backing disruptive tech companies. Yet Wood recently reduced one of her highest-conviction investments, Tesla, after the stock fell roughly 6.23% over the past month and is down more than 9% year to date. In 2025, the…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T19:54:59+00:00",
-   "tickers": [
-    "TSLA"
-   ]
-  },
-  {
-   "id": "554c57a012aa",
-   "title": "UK doctors' union calls off planned strikes, set to hold referendum",
-   "link": "https://biztoc.com/x/0d2a365671c8c725?ref=rss",
-   "summary": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T19:54:58+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d07566429dcb",
-   "title": "Watch: Humanoid Warbot Live-Fires Mortars At Vegas Test Range",
-   "link": "https://biztoc.com/x/fc524bd4dd960d5a?ref=rss",
-   "summary": "Watch: Humanoid Warbot Live-Fires Mortars At Vegas Test Range It is not just one-way attack drones (read JPMorgan report) operating on AI-enabled kill chains that human soldiers have to worry about on the modern battlefield. We have been laying out this story and were among the first to point…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T19:54:57+00:00",
-   "tickers": [
-    "JIRE",
-    "RRC"
-   ]
-  },
-  {
-   "id": "051bc028fddb",
-   "title": "If You Have $1.1 Million Saved at 60, Here Is the Monthly Income You Can Actually Count On",
-   "link": "https://biztoc.com/x/93fbd61211fb997d?ref=rss",
-   "summary": "The post If You Have $1.1 Million Saved at 60, Here Is the Monthly Income You Can Actually Count On appeared first on 24/7 Wall St.. You are 60, you have built up roughly $1.1 million across retirement accounts, and you want to stop working before Social Security kicks in. The question is simple:…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T19:54:54+00:00",
-   "tickers": []
-  },
-  {
-   "id": "35eb51e6e334",
-   "title": "Giants: 3 WRs on Bubble to Make 53-Man Roster",
-   "link": "https://biztoc.com/x/49557266fefc230d?ref=rss",
-   "summary": "The New York Giants upgraded their receiver corps this offseason for second-year quarterback Jaxson Dart. Malik Nabers is the clear WR1, though he's still recovering from the ACL injury and meniscus tear he suffered last season. New York added Darnell Mooney and Calvin Austin III in free agency…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T19:54:48+00:00",
-   "tickers": []
-  },
-  {
-   "id": "be4c973c6566",
-   "title": "Vinícius Jr. Sends Warning Before Brazil's World Cup Opener vs Morocco",
-   "link": "https://biztoc.com/x/0ee2744a52ea12c8?ref=rss",
-   "summary": "The 2026 FIFA World Cup has gotten off to a fast start. On Thursday, Mexico kicked things off by beating South Africa 2-0 in front of a roaring home crowd at Estadio Azteca. Hours later, South Korea came back to beat Czechia 2-1 in Guadalajara. And early Friday, co-hosts Canada tied it up 1-1 with…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T19:54:45+00:00",
-   "tickers": []
-  },
-  {
-   "id": "189740edcd8a",
-   "title": "Rich people's ‘unapologetic luxury’ spending is raising prices for everyone else",
-   "link": "https://biztoc.com/x/fa335515343ef899?ref=rss",
-   "summary": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T19:54:44+00:00",
-   "tickers": []
-  },
-  {
-   "id": "22d7fb3f360e",
-   "title": "Zelensky: Russia building long-term anti-Europe strategy",
-   "link": "https://biztoc.com/x/651f8682bdfc2e80?ref=rss",
-   "summary": "Ukrainian President Volodymyr Zelensky said in a video message on Saturday that the security threats coming from Russia will not be there only for a short period of time.\"Russia has chosen a long-term...",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T19:54:43+00:00",
-   "tickers": []
-  },
-  {
-   "id": "03e9cd5d7466",
-   "title": "64-Year-Old Tech Exec Holds $1.6 Million in One Stock. The Wrong Move Could Cost $400,000",
-   "link": "https://biztoc.com/x/2f34a6243d72248e?ref=rss",
-   "summary": "The post 64-Year-Old Tech Exec Holds $1.6 Million in One Stock. The Wrong Move Could Cost $400,000. appeared first on 24/7 Wall St.. A 64-year-old software executive walks out of the office on her last day with $1.6 million sitting in a single employer stock. Her cost basis is $240,000, meaning…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T19:54:34+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ab9a4cdccf28",
-   "title": "What if AI really does disrupt 50% of all entry-level white-collar jobs?",
-   "link": "https://www.investing.com/news/economy-news/what-if-ai-really-does-disrupt-50-of-all-entrylevel-whitecollar-jobs-4741043",
-   "summary": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-06-13T19:45:32+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e57558891ab9",
-   "title": "64-Year-Old Tech Exec Holds $1.6 Million in One Stock. The Wrong Move Could Cost $400,000.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/64-old-tech-exec-holds-194408312.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-13T19:44:08+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e719b507bc89",
-   "title": "Down 50% Over the Past Year, Is There Anything Adobe Can Do to Rebound?",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/down-50-over-past-anything-194100466.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-13T19:41:00+00:00",
-   "tickers": [
-    "ADBE"
-   ]
-  },
-  {
-   "id": "60ee38184b94",
-   "title": "Down 50% Over the Past Year, Is There Anything Adobe Can Do to Rebound?",
-   "link": "https://www.nasdaq.com/articles/down-50-over-past-year-there-anything-adobe-can-do-rebound",
-   "summary": "Key PointsAdobe continues to deliver solid growth.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-06-13T19:41:00+00:00",
-   "tickers": [
-    "ADBE"
-   ]
-  },
-  {
-   "id": "21aa3c8fd4ca",
-   "title": "If You Have $1.1 Million Saved at 60, Here Is the Monthly Income You Can Actually Count On",
-   "link": "https://finance.yahoo.com/markets/articles/1-1-million-saved-60-194045961.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-13T19:40:45+00:00",
-   "tickers": []
-  },
-  {
-   "id": "389d83411d87",
-   "title": "Huge News for GM Stock, Tesla Stock, and Ford Stock Investors",
-   "link": "https://www.nasdaq.com/articles/huge-news-gm-stock-tesla-stock-and-ford-stock-investors",
-   "summary": "General Motors (NYSE: GM) is joining Ford (NYSE: F) in entering the battery storage business, increasing competition for Tesla (NASDAQ: TSLA).",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-06-13T19:40:29+00:00",
-   "tickers": [
-    "GM",
-    "TSLA",
-    "F",
-    "NWSA"
-   ]
-  },
-  {
-   "id": "443949e203d0",
-   "title": "Why Is Adobe Stock Crashing, and is it a Buying Opportunity?",
-   "link": "https://www.nasdaq.com/articles/why-adobe-stock-crashing-and-it-buying-opportunity",
-   "summary": "Adobe's (NASDAQ: ADBE) CFO is resigning to join Marvell Technologies.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-06-13T19:39:44+00:00",
-   "tickers": [
-    "ADBE",
-    "MRVL"
-   ]
-  },
-  {
-   "id": "7ce971512bec",
-   "title": "If CLARITY Clears the Senate by August, Where Does XRP Trade by Q4?",
-   "link": "https://biztoc.com/x/6bb67b373eede4e4?ref=rss",
-   "summary": "The post If CLARITY Clears the Senate by August, Where Does XRP Trade by Q4? appeared first on 24/7 Wall St.. The CLARITY Act is one vote away from giving XRP (CRYPTO:XRP) the thing its holders have wanted for years: a federal law that settles XRP’s legal status for good. But the catch is the…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T19:39:25+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d2f15352e272",
-   "title": "Beijing blasts Pentagon’s latest Chinese military company list",
-   "link": "https://biztoc.com/x/a0a3f153a279302d?ref=rss",
-   "summary": "Beijing blasts Pentagon’s latest Chinese military company list China’s Commerce Ministry is threatening “forceful countermeasures” unless the Defense Department walks back its latest listing of alleged Chinese military companies. The company logo is pictured during a tour at the Alibaba office in…",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-06-13T19:39:21+00:00",
-   "tickers": []
-  },
-  {
-   "id": "26e4f5cc4771",
-   "title": "Citi resets AMD stock price target on key move",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/citi-resets-amd-stock-price-193800799.html",
-   "summary": "",
-   "source": "Yahoo Finance",
-   "category": "markets",
-   "type": "analyst",
-   "sentiment": "neutral",
-   "domain": "finance.yahoo.com",
-   "published": "2026-06-13T19:38:00+00:00",
-   "tickers": [
-    "AMD",
-    "C"
-   ]
-  },
-  {
-   "id": "6319a73034bd",
-   "title": "What's Going on With Marvell Stock?",
-   "link": "https://www.nasdaq.com/articles/whats-going-marvell-stock",
-   "summary": "Marvell (NASDAQ: MRVL) shares are pulling back after soaring for most of 2026.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-06-13T19:37:52+00:00",
-   "tickers": [
-    "MRVL"
-   ]
-  },
-  {
-   "id": "b309ef707bde",
-   "title": "Should You Buy Zeta Global Stock on the Dip?",
-   "link": "https://www.nasdaq.com/articles/should-you-buy-zeta-global-stock-dip",
-   "summary": "Shares are down 18% over the previous five days.",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-06-13T19:37:07+00:00",
-   "tickers": [
-    "ZETA"
-   ]
   }
  ],
  "ticker_names": {
@@ -8316,6 +8281,7 @@
   "FENI": "Fidelity Enhanced International ETF",
   "KTOS": "Kratos Defense & Security Solutions",
   "CCC": "CCC Intelligent Solutions Holdings",
+  "JEPI": "JPMorgan Equity Premium Income ETF",
   "TLT": "iShares 20+ Year Treasury Bond ETF",
   "TSM": "Taiwan Semiconductor Manufacturing",
   "FAS": "Direxion Financial Bull 3X Shares",
@@ -8324,47 +8290,41 @@
   "VTI": "Vanguard Total Stock Market ETF",
   "BMNR": "Bitmine Immersion Technologies",
   "BND": "Vanguard Total Bond Market ETF",
-  "BR": "Broadridge Financial Solutions",
   "MUB": "iShares National Muni Bond ETF",
-  "TTWO": "Take-Two Interactive Software",
   "WST": "West Pharmaceutical Services",
   "QQQ": "Invesco QQQ Trust, Series 1",
   "EL": "The Est?e Lauder Companies",
   "FBIN": "Fortune Brands Innovations",
-  "HPE": "Hewlett Packard Enterprise",
   "ORI": "Old Republic International",
   "ICE": "Intercontinental Exchange",
   "MLM": "Martin Marietta Materials",
   "PFG": "Principal Financial Group",
   "TD": "The Toronto-Dominion Bank",
-  "APO": "Apollo Global Management",
   "CFG": "Citizens Financial Group",
   "GS": "The Goldman Sachs Group",
-  "JKHY": "Jack Henry & Associates",
-  "AMD": "Advanced Micro Devices",
-  "CDNS": "Cadence Design Systems",
   "CF": "CF Industries Holdings",
+  "VZ": "Verizon Communications",
   "WBD": "Warner Bros. Discovery",
   "LSCC": "Lattice Semiconductor",
   "OPEN": "Opendoor Technologies",
   "PLTR": "Palantir Technologies",
   "BMY": "Bristol-Myers Squibb",
-  "MOD": "Modine Manufacturing",
   "OEF": "iShares S&P 100 Fund",
   "PG": "The Procter & Gamble",
   "SMCI": "Super Micro Computer",
-  "TVTX": "Travere Therapeutics",
-  "ZETA": "Zeta Global Holdings",
   "FITB": "Fifth Third Bancorp",
-  "PBR": "Petr?leo Brasileiro",
+  "IP": "International Paper",
+  "WCC": "WESCO International",
   "BRK-A": "Berkshire Hathaway",
   "COGT": "Cogent Biosciences",
   "MRVL": "Marvell Technology",
+  "NYT": "The New York Times",
   "ROP": "Roper Technologies",
   "VTV": "Vanguard Value ETF",
   "WVE": "Wave Life Sciences",
   "CAR": "Avis Budget Group",
   "DELL": "Dell Technologies",
+  "FLY": "Firefly Aerospace",
   "MU": "Micron Technology",
   "POET": "POET Technologies",
   "POWL": "Powell Industries",
@@ -8375,46 +8335,37 @@
   "SOFI": "SoFi Technologies",
   "UBER": "Uber Technologies",
   "BKNG": "Booking Holdings",
-  "ENSG": "The Ensign Group",
-  "J": "Jacobs Solutions",
   "NVO": "Novo Nordisk A/S",
   "OWL": "Blue Owl Capital",
   "RKT": "Rocket Companies",
   "SBET": "SharpLink Gaming",
+  "ANET": "Arista Networks",
   "ASTS": "AST SpaceMobile",
+  "BAC": "Bank of America",
   "CHD": "Church & Dwight",
   "COIN": "Coinbase Global",
-  "DIS": "The Walt Disney",
   "GFS": "GLOBALFOUNDRIES",
   "LMT": "Lockheed Martin",
   "LNG": "Cheniere Energy",
-  "ONTO": "Onto Innovation",
   "PH": "Parker-Hannifin",
   "PYPL": "PayPal Holdings",
-  "RRC": "Range Resources",
-  "TDG": "TransDigm Group",
   "TXRH": "Texas Roadhouse",
   "VIK": "Viking Holdings",
-  "GM": "General Motors",
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
-  "VG": "Venture Global",
-  "AVAV": "AeroVironment",
   "CB": "Chubb Limited",
   "CSCO": "Cisco Systems",
+  "HSBC": "HSBC Holdings",
   "KO": "The Coca-Cola",
   "LLY": "Eli Lilly and",
   "POST": "Post Holdings",
   "SOUN": "SoundHound AI",
   "WFC": "Wells Fargo &",
   "MSTR": "MicroStrategy",
-  "CYTK": "Cytokinetics",
   "MP": "MP Materials",
-  "OSCR": "Oscar Health",
   "RBC": "RBC Bearings",
   "SPY": "SPDR S&P 500",
   "UAA": "Under Armour",
-  "UBS": "UBS Group AG",
   "Z": "Zillow Group",
   "GOOGL": "Google Cloud",
   "TSLA": "Supercharger",
@@ -8423,58 +8374,50 @@
   "BN": "Brookfield",
   "CRM": "Salesforce",
   "F": "Ford Motor",
-  "TECH": "Bio-Techne",
   "MSFT": "Office 365",
   "QCOM": "Snapdragon",
   "DE": "John Deere",
   "PARA": "Paramount+",
   "AL": "Air Lease",
   "ALB": "Albemarle",
-  "C": "Citigroup",
-  "CLS": "Celestica",
   "CME": "CME Group",
-  "ADBE": "Photoshop",
   "NWSA": "News Corp",
   "AVGO": "Broadcom",
   "BCS": "Barclays",
+  "BP": "BP p.l.c",
   "EVR": "Evercore",
   "GOOG": "Alphabet",
   "INDV": "Indivior",
   "LQDA": "Liquidia",
-  "PLD": "Prologis",
-  "WULF": "TeraWulf",
   "SQ": "Cash App",
   "SNAP": "Snapchat",
   "FOX": "Fox Corp",
-  "AES": "The AES",
   "BLSH": "Bullish",
   "BPOP": "Popular",
   "CMCSA": "Comcast",
   "PEP": "PepsiCo",
   "RDW": "Redwire",
   "SCI": "Service",
-  "SMTC": "Semtech",
   "SNDK": "Sandisk",
   "WMT": "Walmart",
+  "NFLX": "Netflix",
   "KMX": "CarMax",
   "LEN": "Lennar",
-  "MAT": "Mattel",
   "NDAQ": "Nasdaq",
   "ORCL": "Oracle",
   "PFE": "Pfizer",
   "RDDT": "Reddit",
-  "VSAT": "Viasat",
-  "ACM": "AECOM",
   "ALC": "Alcon",
   "AMGN": "Amgen",
-  "CHWY": "Chewy",
+  "ETN": "Eaton",
   "FDX": "FedEx",
   "INTC": "Intel",
-  "XYZ": "Block",
   "DAVE": "Dave",
+  "ETSY": "Etsy",
   "IONQ": "IonQ",
   "MSCI": "MSCI",
   "NVMI": "Nova",
-  "ROKU": "Roku"
+  "ROKU": "Roku",
+  "T": "AT&T"
  }
 }
