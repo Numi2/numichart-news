@@ -983,7 +983,7 @@ function init(){
 
   // initial data load
   reload();
-  setInterval(reload, 60000);
+  setInterval(reload, 60000); // client polls every 60s for a snappy/live feel (quickly picks up any new backend publishes)
   setInterval(() => {
     const u = document.getElementById('updated');
     if(u && STATE.generated) u.textContent = fmtUpdated(STATE.generated);

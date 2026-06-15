@@ -1,12 +1,23 @@
 name: Refresh news feed
 
 on:
-  # Primary trigger is cron-job.org → POST workflow_dispatch every 5 min.
-  # The schedule below is a once-per-hour safety net if that pinger ever
-  # falls over or its PAT expires. GH Actions cron is best-effort and
-  # unreliable on free tier, which is why we don't depend on it.
+  # 5-minute backend refresh cadence, self-contained in this workflow.
+  #
+  # Primary trigger: GitHub's schedule (cron) set to every 5 minutes.
+  # This makes the repo publish fresh headlines.json + stocks.json ~every 5 min
+  # when the scheduled run actually executes.
+  #
+  # Important: GitHub scheduled workflows are best-effort. On the free tier they
+  # can occasionally be delayed (sometimes 10-30+ min). For a news ticker this is
+  # usually acceptable.
+  #
+  # Additional triggers supported:
+  # - workflow_dispatch: manual runs from the GitHub UI (Actions tab) or CLI,
+  #   and optional external callers if you ever want stricter timing later.
+  #
+  # The concurrency group prevents overlapping runs.
   schedule:
-    - cron: "7 * * * *"
+    - cron: "*/5 * * * *"
   workflow_dispatch:
 
 concurrency:

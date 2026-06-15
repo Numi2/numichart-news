@@ -30,7 +30,7 @@ Visit the dashboard:
 
 → **[https://Numi2.github.io/numichart-news/](https://Numi2.github.io/numichart-news/)**
 
-The page auto-refreshes the feed every 60 seconds. Keyboard-driven (press `/` to search, `1`/`2` to switch views, `ESC` to clear).
+The page auto-refreshes the feed every 60 seconds (client-side poll). New content is published by the backend every ~5 minutes during market hours. Keyboard-driven (press `/` to search, `1`/`2` to switch views, `ESC` to clear).
 
 ## Features
 
@@ -45,13 +45,13 @@ The page auto-refreshes the feed every 60 seconds. Keyboard-driven (press `/` to
 ## How it works (self-updating)
 
 ```
-RSS feeds → GitHub Action (every ~5–10 min market hours) → 
+RSS feeds → GitHub Action (target: every ~5 min market hours) → 
   scan/fetch_news.py + fetch_stocks.py → 
   commit docs/data/headlines.json + stocks.json → 
   GitHub Pages serves the static site instantly
 ```
 
-The Action also runs hourly as a safety net. Data is committed back to the `main` branch under `docs/data/`.
+The workflow is triggered on a 5-minute schedule defined in `.github/workflows/refresh.yml` (GitHub's scheduler is best-effort on the free tier). Data is committed back to the `main` branch under `docs/data/`.
 
 ## Direct JSON access (great for automation)
 
@@ -90,7 +90,7 @@ Then open `docs/index.html` directly in a browser (file:// works for the static 
 | Ticker universe | `scan/universe_tickers.csv` | One ticker per line |
 | Company name / alias matching | `scan/universe_names.csv` + `universe_aliases.csv` | `TICKER,Name` |
 | Blocklist (words that look like tickers) | `TICKER_BLOCKLIST` in `fetch_news.py` | Prevents false positives |
-| Refresh schedule | `.github/workflows/refresh.yml` | Cron + `workflow_dispatch` |
+| Refresh schedule | `.github/workflows/refresh.yml` | GitHub Actions `schedule` every 5 min (`*/5`, best-effort) + `workflow_dispatch` (manual + optional automation) |
 
 ## Architecture
 
@@ -123,7 +123,7 @@ If you fork:
    - Folder: `/docs`
 3. Save. The site will be available at `https://YOURNAME.github.io/numichart-news/`
 
-The included workflow (`refresh.yml`) will continue to update the data on its own schedule (or you can trigger `workflow_dispatch` manually / from an external cron).
+The 5-minute cadence is defined by the `schedule` trigger in `.github/workflows/refresh.yml`. You can also run it on demand from the Actions tab ("Run workflow") or via the GitHub CLI (`gh workflow run refresh.yml`). `workflow_dispatch` is enabled if you ever want to add an external caller later.
 
 ## Not investment advice
 
