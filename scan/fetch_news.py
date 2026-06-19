@@ -11,9 +11,13 @@ import re
 import sys
 import time
 import hashlib
+import html
+from html.parser import HTMLParser
 import warnings
 from datetime import datetime, timezone
 from pathlib import Path
+from urllib.error import HTTPError, URLError
+from urllib.request import Request, urlopen
 from urllib.parse import urlparse
 
 import socket
@@ -32,6 +36,25 @@ HEADLINES_PATH = DATA / "headlines.json"
 
 MAX_KEEP = 600
 USER_AGENT = "numichart-news/0.2"
+SUMMARY_TEXT_LIMIT = 1000
+ARTICLE_TEXT_LIMIT = 8000
+ARTICLE_FETCH_LIMIT = 35
+ARTICLE_FETCH_TIMEOUT = 5
+ARTICLE_MIN_CHARS = 280
+ARTICLE_SKIP_DOMAINS = {
+    "ft.com",
+    "wsj.com",
+    "nytimes.com",
+}
+BIZTOC_EXTERNAL_SKIP_DOMAINS = {
+    "biztoc.com",
+    "alltoc.com",
+    "chat.openai.com",
+    "x.com",
+    "bsky.app",
+    "facebook.com",
+    "t.betteruptime.com",
+}
 
 # ── Feed list ────────────────────────────────────────────────────────────────
 # (display_name, category, url)
@@ -39,7 +62,6 @@ FEEDS = [
     # General market news
     ("MarketWatch",       "markets",   "http://feeds.marketwatch.com/marketwatch/topstories/"),
     ("MarketWatch RT",    "markets",   "http://feeds.marketwatch.com/marketwatch/marketpulse/"),
-    ("Yahoo Finance",     "markets",   "https://finance.yahoo.com/news/rssindex"),
     ("CNBC Top",          "markets",   "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114"),
     ("CNBC Earnings",     "earnings",  "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=15839135"),
     ("CNBC Economy",      "macro",     "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=20910258"),
@@ -270,6 +292,85 @@ def _clean_title(title: str) -> str:
     return title
 
 
+def _soft_limit(text: str, limit: int) -> str:
+    if len(text) <= limit:
+        return text
+    shortened = text[:limit].rstrip()
+    return shortened.rsplit(" ", 1)[0] or shortened
+
+
+def _looks_truncated(text: str) -> bool:
+    stripped = html.unescape(text or "").strip()
+    return stripped.endswith("…") or stripped.endswith("...")
+
+
+def _clean_summary(summary: str) -> str:
+    return _soft_limit(_clean_title(html.unescape(summary or "")), SUMMARY_TEXT_LIMIT)
+
+
+class _ArticleTextParser(HTMLParser):
+    def __init__(self):
+        super().__init__(convert_charrefs=True)
+        self._skip = 0
+        self._capture_depth = 0
+        self._parts: list[str] = []
+        self._json_ld: list[str] = []
+        self._in_json_ld = False
+
+    def handle_starttag(self, tag, attrs):
+        attrs_dict = {k.lower(): (v or "") for k, v in attrs}
+        if tag in ("script", "style", "noscript", "svg", "iframe", "form", "nav", "footer", "header", "aside"):
+            if tag == "script" and "ld+json" in attrs_dict.get("type", ""):
+                self._in_json_ld = True
+            else:
+                self._skip += 1
+            return
+        if self._skip:
+            return
+        attr_text = " ".join(attrs_dict.values()).lower()
+        if tag in ("article", "main") or any(x in attr_text for x in ("article", "story-body", "entry-content", "post-content")):
+            self._capture_depth += 1
+        if tag in ("p", "h2", "li", "blockquote") and self._capture_depth:
+            self._parts.append("\n")
+
+    def handle_endtag(self, tag):
+        if self._in_json_ld and tag == "script":
+            self._in_json_ld = False
+            return
+        if self._skip and tag in ("script", "style", "noscript", "svg", "iframe", "form", "nav", "footer", "header", "aside"):
+            self._skip -= 1
+            return
+        if tag in ("article", "main") and self._capture_depth:
+            self._capture_depth -= 1
+        if tag in ("p", "h2", "li", "blockquote") and self._capture_depth:
+            self._parts.append("\n")
+
+    def handle_data(self, data):
+        if self._in_json_ld:
+            self._json_ld.append(data)
+            return
+        if self._skip or not self._capture_depth:
+            return
+        text = data.strip()
+        if text:
+            self._parts.append(text)
+
+    def text(self) -> str:
+        body = _normalize_article_text(" ".join(self._parts))
+        if len(body) >= ARTICLE_MIN_CHARS:
+            return body
+        for raw in self._json_ld:
+            found = _article_body_from_json_ld(raw)
+            if found:
+                return found
+        return body
+
+
+def _keep_headline(title: str) -> bool:
+    title = (title or "").strip()
+    return not (title.startswith("Is ") or title.endswith("?"))
+
+
 def _domain(url: str) -> str:
     try:
         return urlparse(url).netloc.replace("www.", "")
@@ -277,7 +378,96 @@ def _domain(url: str) -> str:
         return ""
 
 
-def fetch_feed(name: str, category: str, url: str) -> list[dict]:
+def _normalize_article_text(text: str) -> str:
+    text = html.unescape(re.sub(r"<[^>]+>", " ", text or ""))
+    text = re.sub(r"\s+", " ", text).strip()
+    return _soft_limit(text, ARTICLE_TEXT_LIMIT)
+
+
+def _article_body_from_json_ld(raw: str) -> str:
+    try:
+        data = json.loads(raw)
+    except Exception:
+        return ""
+    stack = data if isinstance(data, list) else [data]
+    while stack:
+        item = stack.pop(0)
+        if not isinstance(item, dict):
+            continue
+        body = item.get("articleBody")
+        if isinstance(body, str):
+            return _normalize_article_text(body)
+        graph = item.get("@graph")
+        if isinstance(graph, list):
+            stack.extend(graph)
+    return ""
+
+
+def _entry_article_text(entry) -> str:
+    candidates = []
+    for key in ("content", "content_detail"):
+        value = entry.get(key)
+        if isinstance(value, list):
+            candidates.extend(v.get("value", "") for v in value if isinstance(v, dict))
+        elif isinstance(value, dict):
+            candidates.append(value.get("value", ""))
+    best = max((_normalize_article_text(c) for c in candidates), key=len, default="")
+    if len(best) < ARTICLE_MIN_CHARS or _looks_truncated(best):
+        return ""
+    return best
+
+
+def _fetch_html(url: str) -> str:
+    try:
+        req = Request(url, headers={"User-Agent": USER_AGENT, "Accept": "text/html,application/xhtml+xml"})
+        with urlopen(req, timeout=ARTICLE_FETCH_TIMEOUT) as resp:
+            ctype = resp.headers.get("content-type", "")
+            if "html" not in ctype:
+                return ""
+            return resp.read(700_000).decode(resp.headers.get_content_charset() or "utf-8", errors="ignore")
+    except (HTTPError, URLError, TimeoutError, OSError):
+        return ""
+
+
+def _resolve_biztoc_source_url(url: str) -> str:
+    raw = _fetch_html(url)
+    if not raw:
+        return ""
+
+    canonical = re.search(r'<!--\s*<link\s+rel=["\']canonical["\']\s+href=["\']([^"\']+)["\']', raw, re.I)
+    if canonical:
+        candidate = html.unescape(canonical.group(1))
+        if candidate and _domain(candidate) not in BIZTOC_EXTERNAL_SKIP_DOMAINS:
+            return candidate
+
+    for candidate in re.findall(r'href=["\'](https?://[^"\']+)["\']', raw, re.I):
+        candidate = html.unescape(candidate)
+        domain = _domain(candidate)
+        if domain and domain not in BIZTOC_EXTERNAL_SKIP_DOMAINS and not domain.endswith("biztoc.com"):
+            return candidate
+    return ""
+
+
+def _fetch_article_text(url: str) -> str:
+    domain = _domain(url)
+    if domain == "biztoc.com":
+        source_url = _resolve_biztoc_source_url(url)
+        return _fetch_article_text(source_url) if source_url else ""
+    if domain in ARTICLE_SKIP_DOMAINS:
+        return ""
+    raw = _fetch_html(url)
+    if not raw:
+        return ""
+    parser = _ArticleTextParser()
+    try:
+        parser.feed(raw)
+    except Exception:
+        return ""
+    text = parser.text()
+    return text if len(text) >= ARTICLE_MIN_CHARS else ""
+
+
+def fetch_feed(name: str, category: str, url: str, fetch_budget: list[int]) -> list[dict]:
     items: list[dict] = []
     try:
         parsed = feedparser.parse(url, agent=USER_AGENT)
@@ -294,15 +484,23 @@ def fetch_feed(name: str, category: str, url: str) -> list[dict]:
         link = entry.get("link", "")
         if not title or not link:
             continue
-        summary = _clean_title(entry.get("summary", ""))[:500]
-        published = _parse_published(entry) or datetime.now(timezone.utc).isoformat()
-        text_for_tickers = f"{title} {summary}"
+        if not _keep_headline(title):
+            continue
+        summary = _clean_summary(entry.get("summary", ""))
+        article_text = _entry_article_text(entry)
+        text_for_tickers = f"{title} {summary} {article_text[:1000]}"
         tickers = extract_tickers(text_for_tickers)
+        should_fetch_article = tickers or _looks_truncated(summary)
+        if should_fetch_article and not article_text and fetch_budget[0] > 0:
+            fetch_budget[0] -= 1
+            article_text = _fetch_article_text(link)
+        published = _parse_published(entry) or datetime.now(timezone.utc).isoformat()
         items.append({
             "id":        _hash_url(link),
             "title":     title,
             "link":      link,
             "summary":   summary if summary != title else "",
+            "article_text": article_text,
             "source":    name,
             "category":  category,
             "type":      classify(title, category),
@@ -333,11 +531,15 @@ def main():
     print(f"Fetching {len(FEEDS)} feeds...", flush=True)
 
     fresh: list[dict] = []
+    fetch_budget = [ARTICLE_FETCH_LIMIT]
     for name, category, url in FEEDS:
-        fresh.extend(fetch_feed(name, category, url))
+        fresh.extend(fetch_feed(name, category, url, fetch_budget))
         time.sleep(0.25)
 
-    existing = load_existing()
+    existing = [
+        h for h in load_existing()
+        if h.get("source") != "Yahoo Finance" and _keep_headline(h.get("title", ""))
+    ]
     seen_ids = {h["id"] for h in existing}
     new_items = [h for h in fresh if h["id"] not in seen_ids]
     print(f"\nFetched {len(fresh)} total ({len(new_items)} new since last run)", flush=True)
@@ -348,6 +550,10 @@ def main():
             h["type"] = classify(h.get("title", ""), h.get("category", ""))
         if not h.get("sentiment"):
             h["sentiment"] = sentiment(h.get("title", ""), h.get("type", "news"))
+        if "article_text" not in h:
+            h["article_text"] = ""
+        elif h.get("article_text", "").strip() == _normalize_article_text(h.get("summary", "")).strip():
+            h["article_text"] = ""
 
     by_id: dict[str, dict] = {h["id"]: h for h in existing}
     for h in fresh:
