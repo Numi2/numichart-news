@@ -3,7 +3,9 @@ name: Refresh news feed
 on:
   # 5-minute backend refresh cadence, self-contained in this workflow.
   #
-  # Primary trigger: GitHub's schedule (cron) set to every 5 minutes.
+  # Primary trigger: GitHub's schedule (cron) set to every 5 minutes, offset
+  # from :00/:05/... because GitHub can delay/drop scheduled runs during
+  # high-load minute boundaries.
   # This makes the repo publish fresh headlines.json + stocks.json ~every 5 min
   # when the scheduled run actually executes.
   #
@@ -17,7 +19,7 @@ on:
   #
   # The concurrency group prevents overlapping runs.
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "2,7,12,17,22,27,32,37,42,47,52,57 * * * *"
   workflow_dispatch:
 
 concurrency:
@@ -51,7 +53,10 @@ jobs:
           git config user.name "numichart-news-bot"
           git config user.email "bot@numichart-news"
           git add docs/data/headlines.json docs/data/stocks.json
-          git diff --cached --quiet && echo "No new headlines" || \
-            git commit -m "chore: refresh feed $(date -u +%Y-%m-%dT%H:%MZ)"
-          git pull --rebase origin main || true
-          git push || true
+          if git diff --cached --quiet; then
+            echo "No data changes"
+            exit 0
+          fi
+          git commit -m "chore: refresh feed $(date -u +%Y-%m-%dT%H:%MZ)"
+          git pull --rebase origin main
+          git push

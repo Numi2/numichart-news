@@ -16,7 +16,7 @@ Bloomberg-style dense UI. Headlines from 29+ free RSS feeds, auto-tagged with ti
 
 A single-page, high-density news dashboard that:
 
-- Pulls from curated financial RSS feeds (MarketWatch, Yahoo Finance, CNBC, WSJ, FT, Seeking Alpha, PR Newswire, GlobeNewswire, BizToc, SEC EDGAR 8-Ks, etc.)
+- Pulls from curated financial RSS feeds (MarketWatch, CNBC, WSJ, FT, Seeking Alpha, PR Newswire, GlobeNewswire, BizToc, SEC EDGAR 8-Ks, etc.)
 - Extracts and tags relevant stock tickers using a 1,700+ ticker universe + name/alias matching
 - Classifies stories (earnings, M&A, upgrades, FDA, legal, macro…)
 - Shows live prices + 7-day sparklines for tickers currently in the feed

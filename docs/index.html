@@ -14,6 +14,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="NUMICHART NEWS — Live Financial News Terminal">
 <meta name="twitter:description" content="Self-updating terminal-style news feed with ticker tagging and live prices.">
+<link rel="icon" href="data:,">
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -226,10 +227,28 @@
     font-family:'Inter',sans-serif;font-size:11px;line-height:1.35;border-radius:2px
   }
 
+  .reader{
+    position:fixed;right:12px;top:112px;bottom:26px;width:min(560px,calc(100vw - 24px));
+    z-index:420;display:none;background:var(--panel);border:1px solid var(--accent);
+    box-shadow:0 18px 50px rgba(0,0,0,.75),0 0 18px rgba(34,211,238,.16);
+    color:var(--text);flex-direction:column
+  }
+  .reader.open{display:flex}
+  .reader-head{border-bottom:1px solid var(--border-bright);padding:8px 10px;display:grid;grid-template-columns:1fr auto;gap:8px;background:#0b0e16}
+  .reader-title{color:var(--bright);font-weight:700;font-size:13px;line-height:1.25}
+  .reader-meta{font-family:'JetBrains Mono',monospace;color:var(--muted);font-size:9.5px;margin-top:4px;text-transform:uppercase}
+  .reader-actions{display:flex;gap:5px;align-items:start}
+  .reader-actions button,.reader-actions a{background:#000;border:1px solid var(--border-bright);color:var(--text);padding:3px 7px;font-family:'JetBrains Mono',monospace;font-size:10px;text-decoration:none;cursor:pointer}
+  .reader-actions button:hover,.reader-actions a:hover{border-color:var(--accent);color:var(--accent);text-decoration:none}
+  .reader-body{padding:10px;overflow:auto;font-size:12px;line-height:1.55;white-space:pre-wrap}
+  .reader-empty{color:var(--muted);font-family:'JetBrains Mono',monospace;font-size:10px;text-transform:uppercase}
+  .n-row .read-dot{color:var(--accent);font-family:'JetBrains Mono',monospace;font-size:9px;margin-left:4px}
+
   @media (max-width:900px){
     .bbg-top{font-size:10px}
     .bbg-cmd input{width:140px}
     .bbg-list-header,.n-row{grid-template-columns:46px 84px 1fr 72px 52px;font-size:10px}
+    .reader{top:96px;right:6px;left:6px;bottom:22px;width:auto}
   }
 </style>
 </head>
@@ -264,7 +283,7 @@
   <!-- Command bar -->
   <div class="bbg-cmd">
     <span class="prompt">&gt;</span>
-    <input id="search" placeholder="SEARCH HEADLINE / TICKER / SOURCE" />
+    <input id="search" placeholder="SEARCH HEADLINE / ARTICLE / TICKER / SOURCE" />
     <span class="lbl">SRC</span>
     <select id="srcFilter"><option value="">ALL</option></select>
     <span class="lbl">TYPE</span>
@@ -286,6 +305,8 @@
   </div>
 
 </div>
+
+<aside id="reader" class="reader" aria-live="polite"></aside>
 
 <script>
 /* ====================== STATE & PERSISTENCE ====================== */
@@ -353,6 +374,9 @@ function fmtUpdated(iso){
 function escapeHtml(s){
   return (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
 }
+function escapeJs(s){
+  return String(s||'').replace(/\\/g,'\\\\').replace(/'/g,"\\'").replace(/\n/g,'\\n').replace(/\r/g,'');
+}
 function groupLabel(iso){
   if(!iso) return '';
   const d = new Date(iso);
@@ -382,7 +406,7 @@ function applyFilters(list){
   }
   if(q){
     out = out.filter(h => {
-      const hay = (h.title + ' ' + (h.summary||'') + ' ' + (h.tickers||[]).join(' ') + ' ' + h.source).toLowerCase();
+      const hay = (h.title + ' ' + (h.summary||'') + ' ' + (h.article_text||'') + ' ' + (h.tickers||[]).join(' ') + ' ' + h.source).toLowerCase();
       return hay.includes(q);
     });
   }
@@ -474,6 +498,8 @@ function buildRowHTML(h, top, prevH){
   const typ = (h.type||'news').toUpperCase();
   const src = escapeHtml(h.source);
   const title = escapeHtml(h.title);
+  const hasArticle = !!((h.article_text || h.summary || '').trim());
+  const readDot = hasArticle ? '<span class="read-dot">TXT</span>' : '';
 
   // day separator hint inside the time cell for the first of a new day
   let timeCell = `<div class="t">${t.hh}<br><span class="d">${t.rel||''}</span></div>`;
@@ -483,14 +509,40 @@ function buildRowHTML(h, top, prevH){
     timeCell = `<div class="t">${t.hh}<br><span class="d" style="color:var(--accent)">${groupLabel(h.published)}</span></div>`;
   }
 
-  const row = `<div class="n-row sent-${h.sentiment||'neutral'}" style="top:${top}px" onclick="this.classList.toggle('expand');event.target.tagName==='A'||(window.open('${escapeHtml(h.link)}','_blank'))">
+  const row = `<div class="n-row sent-${h.sentiment||'neutral'}" style="top:${top}px" onclick="showArticle('${escapeJs(h.id)}')">
     <div>${timeCell}</div>
     <div class="tks">${tks}</div>
-    <div class="tl"><a href="${escapeHtml(h.link)}" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">${title}</a></div>
+    <div class="tl"><a href="${escapeHtml(h.link)}" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">${title}</a>${readDot}</div>
     <div class="src">${src}</div>
     <div><span class="typ typ-${h.type||'news'}">${typ}</span></div>
   </div>`;
   return row;
+}
+
+function showArticle(id){
+  const h = (STATE.headlines || []).find(x => x.id === id);
+  const panel = document.getElementById('reader');
+  if(!h || !panel) return;
+  const body = (h.article_text || h.summary || '').trim();
+  const tickers = (h.tickers || []).map(t => `<span class="tk">${escapeHtml(t)}</span>`).join(' ');
+  panel.innerHTML = `
+    <div class="reader-head">
+      <div>
+        <div class="reader-title">${escapeHtml(h.title)}</div>
+        <div class="reader-meta">${escapeHtml(h.source)} · ${escapeHtml((h.type||'news').toUpperCase())} · ${escapeHtml(fmtTime(h.published).rel || fmtTime(h.published).hh)} ${tickers ? ' · ' + tickers : ''}</div>
+      </div>
+      <div class="reader-actions">
+        <a href="${escapeHtml(h.link)}" target="_blank" rel="noopener noreferrer">SOURCE</a>
+        <button onclick="hideArticle()">CLOSE</button>
+      </div>
+    </div>
+    <div class="reader-body">${body ? escapeHtml(body) : '<span class="reader-empty">No article text available for this item yet.</span>'}</div>`;
+  panel.classList.add('open');
+}
+
+function hideArticle(){
+  const panel = document.getElementById('reader');
+  if(panel) panel.classList.remove('open');
 }
 
 function renderVisibleSlice(){
@@ -718,6 +770,7 @@ function wireKeyboard(){
       if(s){ s.focus(); s.select(); }
     }
     if(e.key.toLowerCase() === 'escape'){
+      hideArticle();
       clearFilters();
     }
     if(e.key === '1' && document.activeElement.tagName === 'BODY'){
