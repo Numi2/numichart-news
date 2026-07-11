@@ -1,8 +1,329 @@
 {
- "generated": "2026-07-11T14:56:01.877145+00:00",
+ "generated": "2026-07-11T15:21:04.985547+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "b3fd1919c0b1",
+   "title": "US Democrat Ro Khanna detained by Israeli settlers during West Bank visit",
+   "link": "https://www.investing.com/news/world-news/us-democrat-ro-khanna-detained-by-israeli-settlers-during-west-bank-visit-4787240",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-07-11T15:06:25+00:00",
+   "tickers": [
+    "WST"
+   ]
+  },
+  {
+   "id": "7022671e3326",
+   "title": "Atlanta Braves Q2 2026 Earnings Preview: Battery Atlanta Drives Growth",
+   "link": "https://seekingalpha.com/article/4921378-atlanta-braves-2q26-earnings-preview-battery-atlanta-drives-growth?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-11T15:04:01+00:00",
+   "tickers": []
+  },
+  {
+   "id": "4104c4fb515b",
+   "title": "Insider trades: Palo Alto Networks, Taiwan Semiconductor, and Sony among major names",
+   "link": "https://seekingalpha.com/news/4612995-insider-trades-palo-alto-networks-taiwan-semiconductor-sony-among-major-names?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-11T15:03:34+00:00",
+   "tickers": [
+    "PANW",
+    "TSM"
+   ]
+  },
+  {
+   "id": "686e56ae7f18",
+   "title": "Stock Indexes Settle Higher as Geopolitical Risks Ease",
+   "link": "https://www.nasdaq.com/articles/stock-indexes-settle-higher-geopolitical-risks-ease",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) on Friday closed up +0.42%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.29%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +0.33%. September E-mini S&P futures (ESU26 ) rose +0.43%, and September E-mini Nasdaq futures...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-07-11T15:02:37+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
+  },
+  {
+   "id": "59d48028ae0f",
+   "title": "Prediction: Carvana's New-Car Business Will Work. Early Numbers Are Stunning",
+   "link": "https://biztoc.com/x/80fd1e47d5f7ac48?ref=rss",
+   "summary": "It's a shame that Carvana (NYSE: CVNA) doesn't have its headquarters in Las Vegas, because it's been quite a magic show. Years ago, there were legitimate questions about whether the company was heading into bankruptcy. Then, through a series of moves, management turned everything around and began…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-11T15:01:33+00:00",
+   "tickers": [
+    "CVNA"
+   ]
+  },
+  {
+   "id": "2cf84838956b",
+   "title": "Berkshire Hathaway's $8.5 Billion Housing Bet Faces a Shareholder Vote on July 22. Here's What's at Stake",
+   "link": "https://biztoc.com/x/e4a85dd79490a05f?ref=rss",
+   "summary": "Berkshire Hathaway's $8.5 Billion Housing Bet Faces a Shareholder Vote on July 22. Here's What's at Stake. Berkshire Hathaway (NYSE: BRKA)(NYSE: BRKB) has gone through an important leadership transition, with Greg Abel taking over as CEO from Warren Buffett. The big question is how Abel will…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-11T15:01:17+00:00",
+   "tickers": [
+    "BRK-A"
+   ]
+  },
+  {
+   "id": "7f15c0fbeb7e",
+   "title": "Elon Musk says he was wrong about Anthropic",
+   "link": "https://biztoc.com/x/9527803c3569fe56?ref=rss",
+   "summary": "Anthropic runs some of the most powerful AI models in the world on computing hardware it doesn't own. The company signed a deal in May to lease the full capacity of SpaceX's Colossus 1 supercomputing facility in Memphis, paying roughly $1.25 billion a month through 2029. That arrangement gives…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-11T15:00:20+00:00",
+   "tickers": [
+    "SPCX"
+   ]
+  },
+  {
+   "id": "3e953a9c828c",
+   "title": "Global oil demand is falling, and crude prices are down. But here’s why gasoline, diesel and other refined products are still costly",
+   "link": "https://biztoc.com/x/63ea444793db884a?ref=rss",
+   "summary": "Global oil demand is set to decline this year for the first time since the height of the COVID-19 pandemic in 2020, according to a report from the International Energy Agency. The drop, which the agency expects to amount to about 1 million barrels per day in 2026, is due to higher oil prices and…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-11T15:00:14+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b068e598616c",
+   "title": "A man was partly sucked out of a broken window on a Ryanair plane shortly after takeoff, but fellow passengers pulled him back",
+   "link": "https://biztoc.com/x/95f8c39b3470152b?ref=rss",
+   "summary": "Fellow passengers pulled back a man who was partially sucked out of a dislodged airplane window on Friday, a few minutes after takeoff on a flight from northern Greece to Germany. The plane subsequently returned to the airport in Greece. The incident happened on a morning flight from the northern…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-11T15:00:06+00:00",
+   "tickers": []
+  },
+  {
+   "id": "41c27c0e8512",
+   "title": "These underperforming trades could yield big returns over next six months",
+   "link": "https://www.cnbc.com/2026/07/11/mag-7-and-software-could-boost-portfolio-in-second-half-etf-action.html",
+   "summary": "ETF Action's Mike Akins is encouraging investors to boost exposure to groups that underperformed compared with major artificial intelligence stocks.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-07-11T15:00:01+00:00",
+   "tickers": []
+  },
+  {
+   "id": "cd5c3e709c08",
+   "title": "Banking Heavyweights To Kick Off Earnings Next Week",
+   "link": "https://seekingalpha.com/article/4921238-banking-heavyweights-to-kick-off-earnings-next-week?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-11T15:00:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "06ca02ec89fe",
+   "title": "Barbie Can Be Anything… Even A Stamp!",
+   "link": "https://www.prnewswire.com/news-releases/barbie-can-be-anything-even-a-stamp-302822554.html",
+   "summary": "Postal Service honors the limitless possibilities of beloved doll AUSTIN, Texas, July 11, 2026 /PRNewswire/ -- The U.S. Postal Service honored the possibilities and hope of Mattel's Inc.'s iconic Barbie® — played with, enjoyed and collected by countless fans of all ages — with a new...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-07-11T15:00:00+00:00",
+   "tickers": [
+    "SCI",
+    "MAT"
+   ]
+  },
+  {
+   "id": "0f5b23443233",
+   "title": "PureHealth Research Peptide Supplements Expand with New Morikol® Tripeptide Formula for Faster Cellular Absorption",
+   "link": "https://www.prnewswire.com/news-releases/purehealth-research-peptide-supplements-expand-with-new-morikol-tripeptide-formula-for-faster-cellular-absorption-302822769.html",
+   "summary": "MANASSAS, Va., July 11, 2026 /PRNewswire/ -- Collagen has become one of the most talked-about ingredients in wellness circles – and peptides are a big part of why. PureHealth Research peptide supplements, built around premium Morikol® Tripeptides, are drawing attention from consumers...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "positive",
+   "domain": "prnewswire.com",
+   "published": "2026-07-11T15:00:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "670ba855caba",
+   "title": "FDA Recalls 2.5M Bottles of Eyedrops Over 'Foreign Material'",
+   "link": "https://biztoc.com/x/002af99d7451841a?ref=rss",
+   "summary": "A widely used steroid eye drop has been hit with a large recall involving more than 2.5 million bottles. Lupin Pharmaceuticals pulled multiple lots of its prescription prednisolone acetate 1% eye drops after foreign material was found in some bottles, per an FDA enforcement notice. The agency…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "fda",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-07-11T14:59:58+00:00",
+   "tickers": []
+  },
+  {
+   "id": "709b9f98ed59",
+   "title": "Israeli settlers detained for attacking CNN crew",
+   "link": "https://biztoc.com/x/2649d364f92781a4?ref=rss",
+   "summary": "Four Israeli settlers were detained for attacking a CNN press crew in the West Bank town of Sinjil, the Times of Israel reported on Saturday, citing Israeli police.The crew reported car damage to the ...",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-11T14:59:58+00:00",
+   "tickers": [
+    "WST"
+   ]
+  },
+  {
+   "id": "b089c14edcd4",
+   "title": "Ukraine Building Patriots Is in Lockheed’s Interest, McCaul Says",
+   "link": "https://biztoc.com/x/bbf469db2ac89da4?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-11T14:59:50+00:00",
+   "tickers": [
+    "LMT"
+   ]
+  },
+  {
+   "id": "c629729ed848",
+   "title": "Couple’s Income Jumped From $125K to $275K, but Their Money Problems Got Worse. Dave Ramsey Says, “I Tried to Out-Earn My Stupidity”",
+   "link": "https://biztoc.com/x/3197bf9c5ccd0e39?ref=rss",
+   "summary": "The post Couple’s Income Jumped From $125K to $275K, but Their Money Problems Got Worse. Dave Ramsey Says, “I Tried to Out-Earn My Stupidity” appeared first on 24/7 Wall St.. A $95,000 annual take-home bump clears $50,000 consumer debt in 7 months if aligned, but funds lifestyle upgrades…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-07-11T14:59:49+00:00",
+   "tickers": [
+    "DAVE"
+   ]
+  },
+  {
+   "id": "52a5210ce735",
+   "title": "China halts helium exports as renewed Middle East tensions threaten chip supplies",
+   "link": "https://www.investing.com/news/stock-market-news/china-halts-helium-exports-as-renewed-middle-east-tensions-threaten-chip-supplies-4787283",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-07-11T14:58:52+00:00",
+   "tickers": []
+  },
+  {
+   "id": "2197e288ba2a",
+   "title": "De 26e CIFIT promoot de septemberbeurs tijdens roadshows in Hongkong en Macau",
+   "link": "https://www.prnewswire.com/news-releases/de-26e-cifit-promoot-de-septemberbeurs-tijdens-roadshows-in-hongkong-en-macau-302823236.html",
+   "summary": "Promotie-evenementen zetten de investeringsbeurs in Xiamen en de toenemende internationale deelname in de kijker HONGKONG en MACAU, 11 juli 2026 /PRNewswire/ -- De 26e China International Fair for Investment & Trade (CIFIT) organiseerde op 8 en 9 juli promotionele roadshows in Hongkong en...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-07-11T14:55:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "6faefcc20498",
+   "title": "Six dead, dozens wounded as Russia strikes Ukraine with missiles, drones",
+   "link": "https://www.investing.com/news/world-news/two-dead-19-wounded-as-russia-strikes-ukraine-with-missiles-drones-4787226",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-07-11T14:54:26+00:00",
+   "tickers": []
+  },
+  {
+   "id": "fc2fa9d54d18",
+   "title": "Prediction: Carvana's New-Car Business Will Work. Early Numbers Are Stunning.",
+   "link": "https://www.nasdaq.com/articles/prediction-carvanas-new-car-business-will-work-early-numbers-are-stunning",
+   "summary": "Key PointsCarvana's dealership purchases give it an entry into selling more than used cars.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-07-11T14:50:00+00:00",
+   "tickers": [
+    "CVNA"
+   ]
+  },
   {
    "id": "ececff68d83e",
    "title": "Barclays, Morgan Stanley boost Robinhood price target by up to 50%",
@@ -368,25 +689,6 @@
    "domain": "marketwatch.com",
    "published": "2026-07-11T14:39:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "686e56ae7f18",
-   "title": "Stock Indexes Settle Higher as Geopolitical Risks Ease",
-   "link": "https://www.nasdaq.com/articles/stock-indexes-settle-higher-geopolitical-risks-ease",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) on Friday closed up +0.42%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.29%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +0.33%. September E-mini S&P futures (ESU26 ) rose +0.43%, and September E-mini Nasdaq futures...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-07-11T14:36:06+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
-   ]
   },
   {
    "id": "19a97286eac2",
@@ -1704,6 +2006,22 @@
    ]
   },
   {
+   "id": "de0276f33206",
+   "title": "Kaplan Fox & Kilsheimer LLP Alerts Lucid Group, Inc. (LCID) Investors to the Lead Plaintiff Deadline on July 28, 2026",
+   "link": "https://markets.businessinsider.com/news/stocks/kaplan-fox-kilsheimer-llp-alerts-lucid-group-inc.-lcid-investors-to-the-lead-plaintiff-deadline-on-july-28-2026-1036316384",
+   "summary": "New York, New York--(Newsfile Corp. - July 11, 2026) - Kaplan Fox Kilsheimer LLP announces that a...",
+   "article_text": "",
+   "source": "Markets Insider",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "markets.businessinsider.com",
+   "published": "2026-07-11T13:30:00+00:00",
+   "tickers": [
+    "LCID"
+   ]
+  },
+  {
    "id": "72dd7ece738f",
    "title": "Cerebras Stock Sends Massive Expansion Signal at Paris Summit",
    "link": "https://biztoc.com/x/a02af815eb5cbb73?ref=rss",
@@ -2292,6 +2610,22 @@
    ]
   },
   {
+   "id": "9e23094cd8cc",
+   "title": "ROSEN, NATIONAL TRIAL LAWYERS, Encourages Microsoft Investors to Secure Counsel Before Important Deadline in Securities Class Action - MSFT",
+   "link": "https://markets.businessinsider.com/news/stocks/rosen-national-trial-lawyers-encourages-microsoft-investors-to-secure-counsel-before-important-deadline-in-securities-class-action-msft-1036316372",
+   "summary": "New York, New York--(Newsfile Corp. - July 11, 2026) - WHY: Rosen Law Firm, a global investor rights law firm, reminds purchasers of common stock of Microsoft Corporation (NASDAQ: MSFT) between May...",
+   "article_text": "",
+   "source": "Markets Insider",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "markets.businessinsider.com",
+   "published": "2026-07-11T13:08:00+00:00",
+   "tickers": [
+    "MSFT"
+   ]
+  },
+  {
    "id": "674a04a735b4",
    "title": "Berkshire Hathaway gains ground, but still trails the S&P 500 as '26 enters second half",
    "link": "https://www.cnbc.com/2026/07/11/berkshire-hathaway-gains-ground-but-still-trails-the-sp-500-as-26-enters-second-half.html",
@@ -2406,6 +2740,50 @@
    "type": "dividend",
    "sentiment": "positive",
    "domain": "seekingalpha.com",
+   "published": "2026-07-11T13:00:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "8448076b4cc5",
+   "title": "LCID DEADLINE ALERT: ROSEN, A LEADING NATIONAL FIRM, Encourages Lucid Group, Inc. Investors with Losses in Excess of $100K to Secure Counsel Before Important Deadline in Securities Class Action - LCID",
+   "link": "https://markets.businessinsider.com/news/stocks/lcid-deadline-alert-rosen-a-leading-national-firm-encourages-lucid-group-inc.-investors-with-losses-in-excess-of-100k-to-secure-counsel-before-important-deadline-in-securities-class-action-lcid-1036316373",
+   "summary": "New York, New York--(Newsfile Corp. - July 11, 2026) - WHY: Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities of Lucid Group, Inc. (NASDAQ: LCID) between February...",
+   "article_text": "",
+   "source": "Markets Insider",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "markets.businessinsider.com",
+   "published": "2026-07-11T13:00:00+00:00",
+   "tickers": [
+    "LCID"
+   ]
+  },
+  {
+   "id": "38bede02fdeb",
+   "title": "Kaplan Fox & Kilsheimer LLP Encourages PicS N.V. (PICS) Investors to Contact the Firm Before August 4, 2026",
+   "link": "https://markets.businessinsider.com/news/stocks/kaplan-fox-kilsheimer-llp-encourages-pics-n.v.-pics-investors-to-contact-the-firm-before-august-4-2026-1036316374",
+   "summary": "New York, New York--(Newsfile Corp. - July 11, 2026) - <a href=\"https://www.kaplanfox.com/?utm_source=NewsFileutm_medium=Press+Releaseutm_campaign=PICS+NFutm_id=PicS+NV\" rel=\"noopener nofollow\"...",
+   "article_text": "",
+   "source": "Markets Insider",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "markets.businessinsider.com",
+   "published": "2026-07-11T13:00:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "86fd85568534",
+   "title": "Kalshi's 'unusual' management style has more than 100 employees report to both founders, CEO says",
+   "link": "https://www.businessinsider.com/kalshi-ceo-tarek-mansour-org-structure-employees-report-to-founders-2026-7",
+   "summary": "",
+   "article_text": "",
+   "source": "Markets Insider",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "businessinsider.com",
    "published": "2026-07-11T13:00:00+00:00",
    "tickers": []
   },
@@ -2566,6 +2944,20 @@
    "tickers": [
     "TWLO"
    ]
+  },
+  {
+   "id": "b94886c09f08",
+   "title": "ROSEN, TOP RANKED GLOBAL COUNSEL, Encourages Nano-X Imaging Ltd. Investors to Secure Counsel Before Important Deadline in Securities Class Action - NNOX",
+   "link": "https://markets.businessinsider.com/news/stocks/rosen-top-ranked-global-counsel-encourages-nanox-imaging-ltd.-investors-to-secure-counsel-before-important-deadline-in-securities-class-action-nnox-1036316369",
+   "summary": "New York, New York--(Newsfile Corp. - July 11, 2026) - WHY: Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities of Nano-X Imaging Ltd. (NASDAQ: NNOX) between March...",
+   "article_text": "",
+   "source": "Markets Insider",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "markets.businessinsider.com",
+   "published": "2026-07-11T12:49:00+00:00",
+   "tickers": []
   },
   {
    "id": "8f3ad6a5990f",
@@ -3142,6 +3534,20 @@
    "tickers": []
   },
   {
+   "id": "878edf151550",
+   "title": "PHREESIA DEADLINE: ROSEN, NATIONAL INVESTOR COUNSEL, Encourages Phreesia, Inc. Investors with Losses in Excess of $100K to Secure Counsel Before Important July 13 Deadline in Securities Class...",
+   "link": "https://markets.businessinsider.com/news/stocks/phreesia-deadline-rosen-national-investor-counsel-encourages-phreesia-inc.-investors-with-losses-in-excess-of-100k-to-secure-counsel-before-important-july-13-deadline-in-securities-class-action-phr-1036316367",
+   "summary": "New York, New York--(Newsfile Corp. - July 11, 2026) - WHY: Rosen Law Firm, a global investor rights law firm, reminds purchasers of common stock of Phreesia, Inc. (NYSE: PHR) between May 8, 2025...",
+   "article_text": "",
+   "source": "Markets Insider",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "markets.businessinsider.com",
+   "published": "2026-07-11T12:15:00+00:00",
+   "tickers": []
+  },
+  {
    "id": "aadfd6d75f81",
    "title": "Suze Orman told a woman she’d get a ‘D-minus’ on retiring at 55 — then showed her how to turn it into an ‘A’",
    "link": "https://biztoc.com/x/c6c1c73d2b8bca98?ref=rss",
@@ -3525,6 +3931,20 @@
    "tickers": [
     "NVO"
    ]
+  },
+  {
+   "id": "c75b97d65375",
+   "title": "My colleague wanted a nerdy, niche tool for his MacBook. Codex whipped it up in minutes.",
+   "link": "https://www.businessinsider.com/openai-codex-niche-macbook-idea-five-minutes-vide-coding-2026-7",
+   "summary": "",
+   "article_text": "",
+   "source": "Markets Insider",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "businessinsider.com",
+   "published": "2026-07-11T12:04:00+00:00",
+   "tickers": []
   },
   {
    "id": "126ef06fd97e",
@@ -4062,6 +4482,20 @@
    ]
   },
   {
+   "id": "cf4025db6217",
+   "title": "Discovery Announces Details of Second Quarter 2026 Results Conference Call and Webcast",
+   "link": "https://markets.businessinsider.com/news/stocks/discovery-announces-details-of-second-quarter-2026-results-conference-call-and-webcast-1036316365",
+   "summary": "TORONTO, July 11, 2026 (GLOBE NEWSWIRE) -- Discovery Mining Ltd. (TSX: DSV, OTCQX: DSVSF) (\"Discovery \" or the \"Company \") today announced that the Company will release its financial and operating results for the second quarter...",
+   "article_text": "",
+   "source": "Markets Insider",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "markets.businessinsider.com",
+   "published": "2026-07-11T11:37:36+00:00",
+   "tickers": []
+  },
+  {
    "id": "f39a762eca7c",
    "title": "Discovery Announces Details of Second Quarter 2026 Results Conference Call and Webcast",
    "link": "https://www.globenewswire.com/news-release/2026/07/11/3325795/0/en/Discovery-Announces-Details-of-Second-Quarter-2026-Results-Conference-Call-and-Webcast.html",
@@ -4104,6 +4538,20 @@
    "tickers": [
     "MU"
    ]
+  },
+  {
+   "id": "7981355353cf",
+   "title": "Earnings Scoreboard: Early S&P 500 reports post perfect revenue growth record despite mixed EPS",
+   "link": "https://seekingalpha.com/news/4612823-earnings-scoreboard-early-sp-500-reports-post-perfect-revenue-growth-record-despite-mixed-eps?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Markets Insider",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-11T11:35:48+00:00",
+   "tickers": []
   },
   {
    "id": "ac460715d233",
@@ -4343,22 +4791,6 @@
    "tickers": [
     "AVGO",
     "AAPL"
-   ]
-  },
-  {
-   "id": "b3fd1919c0b1",
-   "title": "US Democrat Ro Khanna detained by Israeli settlers during West Bank visit",
-   "link": "https://www.investing.com/news/world-news/us-democrat-ro-khanna-detained-by-israeli-settlers-during-west-bank-visit-4787240",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-11T11:24:33+00:00",
-   "tickers": [
-    "WST"
    ]
   },
   {
@@ -5747,20 +6179,6 @@
    "sentiment": "neutral",
    "domain": "biztoc.com",
    "published": "2026-07-11T10:11:40+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6faefcc20498",
-   "title": "Two dead, 19 wounded as Russia strikes Ukraine with missiles, drones",
-   "link": "https://www.investing.com/news/world-news/two-dead-19-wounded-as-russia-strikes-ukraine-with-missiles-drones-4787226",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-11T10:06:26+00:00",
    "tickers": []
   },
   {
@@ -8484,414 +8902,6 @@
    "domain": "biztoc.com",
    "published": "2026-07-11T05:39:11+00:00",
    "tickers": []
-  },
-  {
-   "id": "c1ff75ed9d1c",
-   "title": "Growth Broadens As Markets Look Beyond Geopolitics",
-   "link": "https://seekingalpha.com/article/4921315-growth-broadens-markets-look-beyond-geopolitics?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-11T05:35:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "30ca5c6f1207",
-   "title": "4 2027 Social Security COLA Dates You Need to Know",
-   "link": "https://www.nasdaq.com/articles/4-2027-social-security-cola-dates-you-need-know",
-   "summary": "Key PointsThe Social Security Administration will announce the cost-of-living adjustment (COLA) in mid-October.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-07-11T05:35:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "315d27e686cf",
-   "title": "BlackRock lists top 10 geopolitical risks",
-   "link": "https://biztoc.com/x/af014fa6eb2ce62d?ref=rss",
-   "summary": "Investing.com -- BlackRock has raised energy security to a high-risk category in its latest geopolitical outlook, warning that the conflict involving Iran has exposed the global economy's dependence on energy flows through the Strait of Hormuz and could reshape national economic and investment…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-07-11T05:25:34+00:00",
-   "tickers": [
-    "BLK"
-   ]
-  },
-  {
-   "id": "82bcb5f1a57a",
-   "title": "After oat milk, Europe turns to pea milk: the Greek scientist leading the way",
-   "link": "https://biztoc.com/x/abbfdc1cfe288736?ref=rss",
-   "summary": "How will the planet be fed in the coming decades, as the global population keeps growing and natural resources become scarcer? The answer to that question lies at the heart of European research into next-generation foods. The goal is not simply to develop more plant-based substitutes, but to…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-07-11T05:25:29+00:00",
-   "tickers": []
-  },
-  {
-   "id": "a8f9a153a637",
-   "title": "Typhoon Bavi Tracks Toward China With Heavy, Widespread Rains",
-   "link": "https://biztoc.com/x/f25e101c3927bcda?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-07-11T05:24:27+00:00",
-   "tickers": []
-  },
-  {
-   "id": "81c09d1a7eac",
-   "title": "Why the chips are down despite the AI boom",
-   "link": "https://biztoc.com/x/b1d7e96c374c0f41?ref=rss",
-   "summary": "Some believe the boom-bust cycle in memory chips has ended — the market thinks otherwise",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-07-11T05:24:23+00:00",
-   "tickers": []
-  },
-  {
-   "id": "7743d347a88b",
-   "title": "Prepare for a perilous summer in markets",
-   "link": "https://biztoc.com/x/ead4f00a6574a89d?ref=rss",
-   "summary": "Potential hotspots include a reformist new Fed chair, weak Japanese yen and high-stakes earnings season",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-07-11T05:24:12+00:00",
-   "tickers": []
-  },
-  {
-   "id": "0e42db5b4733",
-   "title": "Europe’s slow electrification is a ‘major mistake’, warns IEA chief",
-   "link": "https://biztoc.com/x/f9eaad5d5084a689?ref=rss",
-   "summary": "Fatih Birol says EU should have moved faster to achieve energy independence after 2022 gas crisis",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-07-11T05:24:09+00:00",
-   "tickers": []
-  },
-  {
-   "id": "fad795ba8dae",
-   "title": "Jersey Mike’s IPO tries to sprinkle SpaceX magic on a sandwich",
-   "link": "https://biztoc.com/x/cfd8a80229534bf1?ref=rss",
-   "summary": "Sandwich chain’s float a test of appetite for a sector pinched by concerns over consumer spending",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "offering",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-07-11T05:24:07+00:00",
-   "tickers": [
-    "SPCX"
-   ]
-  },
-  {
-   "id": "974c2687cc67",
-   "title": "Whale's Insight: RWAs +930%, From Gold To SpaceX, Crypto's Biggest Catalyst Is Here",
-   "link": "https://seekingalpha.com/article/4921312-rwas-plus-930-percent-from-gold-to-spacex-cryptos-biggest-catalyst-is-here?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-11T05:15:00+00:00",
-   "tickers": [
-    "SPCX"
-   ]
-  },
-  {
-   "id": "6cfef7775d8b",
-   "title": "XRP Price Outlook: Where This Crypto Could Stand in 3 Years",
-   "link": "https://biztoc.com/x/c12e82a6ff897162?ref=rss",
-   "summary": "For more than a decade, crypto investors have talked up XRP (CRYPTO: XRP) as an explosive, high-upside cryptocurrency. Yet here we are in 2026, and XRP is still trading for just $1. So what happens to XRP over the next three years? Will it finally fulfill its promise, or will it fade into…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "guidance",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-07-11T05:10:40+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e70dce192497",
-   "title": "Small plane crash in Bahamas kills 10 people",
-   "link": "https://biztoc.com/x/14fb0cebeb2582c0?ref=rss",
-   "summary": "Nine passengers and a pilot have died in a small plane crash in the Bahamas, officials said. The light aircraft was making a short trip from Lynden Pindling International Airport, near capital Nassau, San Andros Airport when it \"reportedly encountered difficulties\" and crashed into bushes prior to…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-07-11T05:10:35+00:00",
-   "tickers": []
-  },
-  {
-   "id": "05a3e54f0b67",
-   "title": "The 2 Magnificent Seven Stocks With the Most Upside Potential, According to Wall Street",
-   "link": "https://biztoc.com/x/4597da800d4b9d34?ref=rss",
-   "summary": "The Magnificent Seven stocks are tech-adjacent corporations so named because they are leaders in their respective industries and have posted exceptional returns over the long run. The group includes Alphabet (NASDAQ: GOOG) (NASDAQ: GOOGL), Amazon (NASDAQ: AMZN), Apple (NASDAQ: AAPL), Meta…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-07-11T05:10:18+00:00",
-   "tickers": [
-    "GOOG",
-    "AMZN",
-    "AAPL",
-    "GOOGL"
-   ]
-  },
-  {
-   "id": "fb461931357c",
-   "title": "Baghaei stresses surveillance of enemy moves",
-   "link": "https://biztoc.com/x/a9c1ebfe50146aea?ref=rss",
-   "summary": "Iranian Foreign Ministry spokesperson Esmail Baghaei praised Iran's armed forces for maintaining surveillance of enemy activity.He said troops stationed on coasts, islands and borders are safeguarding...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-07-11T05:09:34+00:00",
-   "tickers": []
-  },
-  {
-   "id": "a97a06cbfc22",
-   "title": "Progress against dementia",
-   "link": "https://biztoc.com/x/9f9bb668fd1f62e9?ref=rss",
-   "summary": "Mr Stallard has been working for a decade to corroborate this revelation. His findings have, if anything, become even more striking. Last year he and some colleagues published research in the Journal of the American Medical Association showing that, whereas 40 years ago three in every ten…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-07-11T05:09:23+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d34ff4c4c306",
-   "title": "VW CEO Under Pressure as Labor Unions Torpedo Turnaround Plan",
-   "link": "https://biztoc.com/x/6789fcb3b70da5cb?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-07-11T05:09:09+00:00",
-   "tickers": []
-  },
-  {
-   "id": "afea4c0c01b1",
-   "title": "RIV: A Good Diversifier For A Portfolio",
-   "link": "https://seekingalpha.com/article/4921307-riv-good-diversifier-for-portfolio?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-11T05:07:13+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e882515b0540",
-   "title": "China temporarily bans helium exports as US-Iran tensions flare again",
-   "link": "https://www.investing.com/news/commodities-news/china-temporarily-bans-helium-exports-as-usiran-tensions-flare-again-4785887",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-11T05:06:08+00:00",
-   "tickers": []
-  },
-  {
-   "id": "4ba58d750fbd",
-   "title": "Sodexo: Upgrade To Buy As Q3 Sales Beat Supports A Turnaround Re-Rating",
-   "link": "https://seekingalpha.com/article/4921306-sodexo-upgradeto-buy-as-q3-sales-beat-supports-a-turnaround-re-rating?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-11T05:02:48+00:00",
-   "tickers": []
-  },
-  {
-   "id": "1e05d2c7a980",
-   "title": "Trump hails new deal opening US-Canada border bridge",
-   "link": "https://biztoc.com/x/5819d3ad12965c3c?ref=rss",
-   "summary": "United States President Donald Trump hailed the new agreement with Canada to allow the Gordie Howe International Bridge, which connects Detroit and Windsor, Ontario, to open on July 27, as planned.Tru...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-07-11T04:54:16+00:00",
-   "tickers": []
-  },
-  {
-   "id": "1af686febe3b",
-   "title": "Trump Vows to Decimate Iran If It Carries Out Assassination Plot",
-   "link": "https://biztoc.com/x/19cd275674ecf25e?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-07-11T04:53:59+00:00",
-   "tickers": []
-  },
-  {
-   "id": "61b4df3c95cd",
-   "title": "XRP Price Outlook: Where This Crypto Could Stand in 3 Years",
-   "link": "https://www.nasdaq.com/articles/xrp-price-outlook-where-crypto-could-stand-3-years",
-   "summary": "Key PointsDespite launching more than a decade ago, XRP still trades for just $1.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "guidance",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-07-11T04:50:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "4a84b47d753a",
-   "title": "Trump says US, Iran agree to continue talks but ceasefire over",
-   "link": "https://www.investing.com/news/commodities-news/trump-says-us-iran-agree-to-continue-talks-but-ceasefire-over-4787214",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-11T04:48:28+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e0c05f1fb8ac",
-   "title": "Why Both Institutional And Retail Traders Are Eyeing Single Stock Futures",
-   "link": "https://seekingalpha.com/article/4921310-institutional-retail-traders-eyeing-single-stock-futures?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-11T04:45:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b7e4c479ef60",
-   "title": "Stock Looks Overvalued On Cash Flow And Sales",
-   "link": "https://biztoc.com/x/54d7ee22539302ad?ref=rss",
-   "summary": "Track your investments for FREE with Simply Wall St, the portfolio command center trusted by over 7 million individual investors worldwide. C3.ai's share price has fallen sharply over the past five years, yet both the Discounted Cash Flow (DCF) intrinsic value estimate and traditional market…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-07-11T04:40:09+00:00",
-   "tickers": []
-  },
-  {
-   "id": "c6d29e077c59",
-   "title": "WD-40 (WDFC) Is Up 7.8% After Raising Guidance And Authorizing New Buyback Program",
-   "link": "https://biztoc.com/x/2a927e7e993c1f4b?ref=rss",
-   "summary": "In its fiscal third quarter ended May 31, 2026, WD-40 Company reported sales of US$195.12 million and net income of US$30.22 million, with earnings per share from continuing operations rising to US$2.24 from US$1.54 a year earlier, and raised its full-year revenue and profit guidance while…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-07-11T04:40:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e29d4be22ed9",
-   "title": "Stock Has Strong Earnings But Cash Flow Looks Rich",
-   "link": "https://biztoc.com/x/624e41dcd75c20b6?ref=rss",
-   "summary": "Find your next quality investment with Simply Wall St's easy and powerful screener, trusted by over 7 million individual investors worldwide. AMETEK stock has delivered a 77.4% return over the past five years, yet both the Discounted Cash Flow (DCF) intrinsic value estimate and the market multiple…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-07-11T04:40:00+00:00",
-   "tickers": [
-    "AME"
-   ]
-  },
-  {
-   "id": "a2eda67d2b48",
-   "title": "Says XPS Eyesafe Study Improved Sleep Eye Comfort And Productivity",
-   "link": "https://biztoc.com/x/f016f0c7bd3e3aca?ref=rss",
-   "summary": "Get insights on thousands of stocks from the global community of over 7 million individual investors at Simply Wall St. - Dell Technologies' XPS laptops with Eyesafe IQ and Eyesafe Display features were evaluated in a 9 week independent in home study. - The research, presented at a major…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-07-11T04:39:58+00:00",
-   "tickers": [
-    "DELL",
-    "FIX"
-   ]
   }
  ],
  "ticker_names": {
@@ -8935,7 +8945,6 @@
   "PANW": "Palo Alto Networks",
   "TYL": "Tyler Technologies",
   "AMAT": "Applied Materials",
-  "DELL": "Dell Technologies",
   "FLY": "Firefly Aerospace",
   "HOOD": "Robinhood Markets",
   "JNJ": "Johnson & Johnson",
@@ -8956,6 +8965,7 @@
   "D": "Dominion Energy",
   "DIS": "The Walt Disney",
   "ELV": "Elevance Health",
+  "LMT": "Lockheed Martin",
   "RIO": "Rio Tinto Group",
   "CCK": "Crown Holdings",
   "GM": "General Motors",
@@ -8982,6 +8992,7 @@
   "BKH": "Black Hills",
   "BYD": "Boyd Gaming",
   "DLTR": "Dollar Tree",
+  "LCID": "Lucid Group",
   "S": "SentinelOne",
   "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
@@ -9006,20 +9017,21 @@
   "AVGO": "Broadcom",
   "BBY": "Best Buy",
   "BCS": "Barclays",
-  "GOOG": "Alphabet",
   "SYM": "Symbotic",
   "SQ": "Cash App",
   "SNAP": "Snapchat",
   "FOX": "Fox Corp",
   "BLSH": "Bullish",
+  "CVNA": "Carvana",
   "GLW": "Corning",
   "PEP": "PepsiCo",
   "ROL": "Rollins",
+  "SCI": "Service",
   "SNDK": "Sandisk",
   "WMT": "Walmart",
   "ABNB": "Airbnb",
-  "AME": "AMETEK",
   "INTU": "Intuit",
+  "MAT": "Mattel",
   "NDAQ": "Nasdaq",
   "ORCL": "Oracle",
   "PFE": "Pfizer",
