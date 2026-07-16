@@ -1,8 +1,624 @@
 {
- "generated": "2026-07-16T23:24:10.176654+00:00",
+ "generated": "2026-07-16T23:46:03.705347+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "ab847f66219d",
+   "title": "Microsoft's Nadella criticizes Anthropic's Fable for being 'editorially controlled'",
+   "link": "https://www.cnbc.com/2026/07/16/microsoft-ceo-says-anthropic-fable-request-policy-doesnt-make-sense.html",
+   "summary": "Microsoft enjoys close ties to Anthropic, but it's also working to help companies refine models that keep their data private.",
+   "article_text": "Microsoft CEO says Anthropic Fable is being 'editorially controlled' Skip Navigation Markets Business Investing Tech Politics Video Watchlist Investing Club PRO Livestream Menu Key Points In a meeting with engineers, Microsoft CEO Satya Nadella called out limits Anthropic is imposing on the use of its top-tier Fable generative artificial intelligence model. The comments come as executives become more open to using cost-efficient models, rather than relying exclusively on the top frontier labs. Nadella said it wouldn't be right for just two companies sitting on meaningful value in artificial intelligence tokens, which measure computing usage. The unification of Microsoft's Copilot AI assistant for consumers and corporate workers is something the company arguably should have done from the start, Nadella said. In this article AMZN Follow your favorite stocks CREATE FREE ACCOUNT Microsoft CEO Satya Nadella speaks at the Microsoft AI Tour event in Munich, Germany, on Feb. 25, 2026. Sven Hoppe | Picture Alliance | Getty Images Microsoft CEO Satya Nadella told employees Wednesday that Anthropic's limits on requests that users submit to the startup's high-end Fable artificial intelligence model don't make sense. The comments come as executives express interest in cost-efficient models that don't come from the most well funded labs but can handle software development and other tasks inside companies. On Thursday Chinese startup Moonshot AI announced an open-source model that it said surpasses recent releases from Anthropic and OpenAI. \"If you use Fable, when it refuses for any random thing, it just is like, when was the last time you had a creation tool that was so editorially controlled?\" Nadella told engineers working on Microsoft's Copilot AI software, according to a copy of his remarks that was provided to CNBC. \"It doesn't make sense.\" Microsoft declined to comment. An Anthropic spokesperson did not immediately respond to a request for comment. When end users ask Fable about some aspects of creating large-scale models, among other topics, Anthropic might send responses from an older version, according to a support page . Some people have called out the rejections on social media. Anthropic said when it announced Fable 5 in early June that it was attempting to reduce false positives for blocked requests. Three days after the introduction, Anthropic cut off Fable access to comply with a U.S. government export control directive, and on July 1 the company restored the model, saying \"the new safeguards will flag a slightly higher fraction of harmless requests than the previous Fable safeguards.\" The Microsoft chief's remarks represent criticism of a valued partner and client. Anthropic's Claude Code software development tool has become popular among programmers and people with less technical talent. In November Microsoft said it was making a $5 billion investment in Anthropic, as the startup agreed to spend $30 billion on Microsoft's Azure cloud. This year Microsoft unveiled Copilot Cowork , a business productivity assistant that draws on the startup's models. Investors have worried that Microsoft could face disruption from models that quickly write software, as the company allocates tens of billions per quarter to data center expansion. Shares have fallen 17% so far this year, while the Nasdaq Composite index has gained 11%. Lately Nadella has argued that companies should be able to cost-efficiently develop custom models and draw on internal data, without letting it flow out to other entities, such as companies in the business of building models. In a Sunday blog post , he invoked Palantir CEO Alex Karp, who said on CNBC that technical organizations \"want to know they own the means of production.\" Microsoft offers the Foundry service where developers can adopt over 11,000 models, including some from Anthropic and OpenAI. \"It can't be that there are only two companies in the world with token capital, and everybody else is renting it,\" Nadella told the engineers. \"It makes no economic sense.\" Tokens measure computing usage of AI models. Microsoft tied itself tightly to OpenAI through a series of investments, but the two companies drifted and became competing with each other after the abrupt 2023 ousting and reinstatement of OpenAI's CEO, Sam Altman, with little notice to Nadella. OpenAI said in April it would bring its models beyond Azure to cloud infrastructure leader Amazon Web Services. Microsoft, for its part, announced a series of in-house models , including one for coding, in June. Its stake in OpenAI's for-profit business was worth $135 billion as of October. Nadella also said it's good Microsoft is merging products for consumer and corporate workers. In March, he announced that former Snap executive Jacob Andreou would take charge of Copilot across both categories. The unification is something \"we should have done maybe day one,\" he said. In April Microsoft said it had over 20 million paid seats for the work-centric Copilot, or 4% of the cloud-based Office customer base. WATCH: We see Microsoft accelerating growth in next few years, says Wolfe's Zukin watch now VIDEO 3:51 03:51 We see Microsoft accelerating growth in next few years, says Wolfe's Zukin Closing Bell: Overtime Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-07-16T23:41:18+00:00",
+   "tickers": [
+    "MSFT"
+   ]
+  },
+  {
+   "id": "2fd8c8dcb81f",
+   "title": "Stocks Settle Lower as Chipmakers and AI Stocks Slump",
+   "link": "https://www.nasdaq.com/articles/stocks-settle-lower-chipmakers-and-ai-stocks-slump",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) on Thursday closed down -0.51%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -0.20%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -1.62%. September E-mini S&P futures (ESU26 ) fell -0.50%, and September E-mini Nasdaq futures...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-07-16T23:38:23+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
+  },
+  {
+   "id": "1e6df431b77a",
+   "title": "Stocks Mixed as Weakness in Chipmakers Weighs",
+   "link": "https://www.nasdaq.com/articles/stocks-mixed-weakness-chipmakers-weighs",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) today is down -0.14%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.21%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -0.96%. September E-mini S&P futures (ESU26 ) are down -0.18%, and September E-mini Nasdaq futures...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-07-16T23:38:22+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
+  },
+  {
+   "id": "7be85cf80a47",
+   "title": "Palo Alto Networks’ stock has been on a tear — and it could go even higher, according to these bulls",
+   "link": "https://www.marketwatch.com/story/palo-alto-networks-stock-has-been-on-a-tear-and-it-could-go-even-higher-according-to-these-bulls-1ddde6f4?mod=mw_rss_topstories",
+   "summary": "The company’s shares have roughly doubled over the past three months, as investors have warmed to the idea that AI is increasing the need for cybersecurity products.",
+   "article_text": "",
+   "source": "MarketWatch",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "marketwatch.com",
+   "published": "2026-07-16T23:38:00+00:00",
+   "tickers": [
+    "PANW"
+   ]
+  },
+  {
+   "id": "b95617bdfa7f",
+   "title": "Rubio calls for global crackdown on far-left extremism",
+   "link": "https://biztoc.com/x/6fd7b428e9386a5e?ref=rss",
+   "summary": "US Secretary of State Marco Rubio has called on countries to collaborate against what he called a growing threat of left-wing terrorism. The Trump administration hosted representatives from more than 60 countries in Washington, where it argued left-wing political violence was the result of a…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-16T23:37:11+00:00",
+   "tickers": []
+  },
+  {
+   "id": "6571202b4f65",
+   "title": "Ligand Pharmaceuticals (LGND) Stock Looks Undervalued On Cash Flow Yet Overvalued On Earnings",
+   "link": "https://biztoc.com/x/bf2e024845327314?ref=rss",
+   "summary": "Make better investment decisions with Simply Wall St's easy, visual tools that give you a competitive edge. Ligand Pharmaceuticals stock has delivered a very large 338.7% return over the past three years, yet its valuation signals are split, with an intrinsic value estimate from a Discounted Cash…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-16T23:37:07+00:00",
+   "tickers": []
+  },
+  {
+   "id": "9f591aef768f",
+   "title": "BCE (TSX:BCE) Tests Its AI Narrative After Recent Weakness As Fair Value Stays Higher",
+   "link": "https://biztoc.com/x/0d76878b7c9e080e?ref=rss",
+   "summary": "Track your investments for FREE with Simply Wall St, the portfolio command center trusted by over 7 million individual investors worldwide. BCE (TSX:BCE) has drawn investor attention after its recent share performance, with the stock down about 7% over the past month and around 6% over the past 3…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-16T23:37:02+00:00",
+   "tickers": [
+    "BCE"
+   ]
+  },
+  {
+   "id": "0d29ed7c86b4",
+   "title": "Stock May Be Above Fair Value After Note Offering",
+   "link": "https://biztoc.com/x/93cede9ac064eb6d?ref=rss",
+   "summary": "Get insights on thousands of stocks from the global community of over 7 million individual investors at Simply Wall St. Fermi stock has fallen sharply year to date, yet the current checks still point to a relatively expensive profile rather than a clear bargain, which puts recent price weakness…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "offering",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-16T23:37:01+00:00",
+   "tickers": [
+    "FRMI"
+   ]
+  },
+  {
+   "id": "0e9d91980998",
+   "title": "SpaceX Just Fell Below Its IPO Price. Here's What Happens Next, According to History",
+   "link": "https://biztoc.com/x/345ec211f614b50f?ref=rss",
+   "summary": "All eyes have been on Space Exploration Technologies (NASDAQ: SPCX) since its explosive initial public offering. The technology and industrial giant may have stirred up so much excitement due to its exciting mix of businesses, the leadership of the ambitious Elon Musk, and the sheer size of the…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "offering",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-07-16T23:36:56+00:00",
+   "tickers": [
+    "SPCX"
+   ]
+  },
+  {
+   "id": "211734ddb5e8",
+   "title": "What This Credo Insider's $12.6 Million Sale Means With Shares Up 121%",
+   "link": "https://biztoc.com/x/e09513b7413c24cb?ref=rss",
+   "summary": "Lam Yat Tung, the chief operating officer of Credo Technology Group Holding Ltd (NASDAQ:CRDO), reported a sale of 55,998 Ordinary Shares on July 15, 2026, for a total value of $12.6 million, according to an SEC Form 4 filing. Transaction summary Transaction value based on SEC Form 4 weighted…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-16T23:36:24+00:00",
+   "tickers": [
+    "CRDO"
+   ]
+  },
+  {
+   "id": "53cd1c774b58",
+   "title": "Diploma PLC (DPMAY) Q3 2026 Sales/Trading Call Transcript",
+   "link": "https://seekingalpha.com/article/4922810-diploma-plc-dpmay-q3-2026-sales-trading-call-transcript?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-16T23:36:17+00:00",
+   "tickers": []
+  },
+  {
+   "id": "9ac5d624f8fd",
+   "title": "Picklesburgh proves Pittsburgh can put a pickle in anything",
+   "link": "https://biztoc.com/x/ed834ef0b747d7ee?ref=rss",
+   "summary": "Picklesburgh has a way of turning even the most skeptical visitor into a believer in all things brined. This year's trip through downtown Pittsburgh's Picklesburgh became a progressive snack tour, starting with the simplest classic: a crunchy pickle on a stick, the kind of grab‑and‑go bite you can…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-16T23:36:17+00:00",
+   "tickers": []
+  },
+  {
+   "id": "801c422dbd8e",
+   "title": "As SpaceX’s stock notches first close below IPO price, the company is gearing up for a crucial launch",
+   "link": "https://www.marketwatch.com/story/spacexs-starship-is-set-for-takeoff-and-its-floundering-stock-could-use-the-lift-ec5629d5?mod=mw_rss_topstories",
+   "summary": "The megarocket’s success is SpaceX’s “single most important watch item,” one analyst says.",
+   "article_text": "",
+   "source": "MarketWatch",
+   "category": "markets",
+   "type": "offering",
+   "sentiment": "neutral",
+   "domain": "marketwatch.com",
+   "published": "2026-07-16T23:36:00+00:00",
+   "tickers": [
+    "SPCX"
+   ]
+  },
+  {
+   "id": "e54ea823826e",
+   "title": "Quiet U.S. pullback in Eastern Europe sparks wider allied worries",
+   "link": "https://biztoc.com/x/52083e502eff7d13?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-16T23:35:24+00:00",
+   "tickers": []
+  },
+  {
+   "id": "903a43ad9dcc",
+   "title": "New Zealand, Switzerland to begin talks in September on trade deal",
+   "link": "https://biztoc.com/x/73e65a683836d938?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-16T23:35:12+00:00",
+   "tickers": []
+  },
+  {
+   "id": "831ed1945fbb",
+   "title": "China bets on faster state-backed projects to shore up growth, avoid broad stimulus",
+   "link": "https://biztoc.com/x/2135e70134bc0608?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-16T23:35:12+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c80e7d32b74f",
+   "title": "Permanent Daylight Saving Could Put Some Pets at Risk, Vet Warns",
+   "link": "https://biztoc.com/x/5396e0dfab5ef06f?ref=rss",
+   "summary": "A proposal to make daylight saving time permanent awaits a Senate vote after passing in the House of Representatives on Tuesday, but the final clock change could affect more than just people’s schedules—it could disrupt pets’ routines. Known as the Sunshine Protection Act, the proposal would…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-07-16T23:35:10+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c949e206026b",
+   "title": "The Labour Party is insulting",
+   "link": "https://biztoc.com/x/8d02f2e452e77c82?ref=rss",
+   "summary": "In politics as in football, play is paused to allow the injured to leave the field. During Starmer’s final PMQs on Wednesday, Kemi Badenoch desisted from attacking, delivering a warm and twinkly-eyed tribute to the leader on his way to the back benches instead. Starmer said some nice things in…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-16T23:35:05+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b296217342e6",
+   "title": "WH teleprompter operator on leave for alleged insider trading on Trump's speeches",
+   "link": "https://biztoc.com/x/3622d12f29376303?ref=rss",
+   "summary": "A longtime White House teleprompter operator has been placed on administrative leave for allegedly making prediction market bets on President Trump speeches. Gabriel Perez is in talks to settle with the Commodity Futures Trading Commission, according to a source familiar with the matter.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-16T23:35:03+00:00",
+   "tickers": [
+    "WH"
+   ]
+  },
+  {
+   "id": "32829d25b5b7",
+   "title": "U.S. designates 2 more Mexican cartels as foreign terrorist organizations",
+   "link": "https://biztoc.com/x/f7019a0f5bf4c4fd?ref=rss",
+   "summary": "President Donald Trump began to extend the terrorist label to Latin American cartels in February 2025 to allow U.S. authorities to take more aggressive action against them or against anyone who the U.S. sees as aiding the groups.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-16T23:35:02+00:00",
+   "tickers": []
+  },
+  {
+   "id": "4a65b113e3a3",
+   "title": "Cathie Wood buys $36.1 million of tumbling tech stock",
+   "link": "https://biztoc.com/x/af029107c01faad1?ref=rss",
+   "summary": "Cathie Wood, CEO of Ark Investment Management, is known for buying high-growth stocks soon after they go public, especially when share prices pull back after an early rally. That's exactly what she's doing with SpaceX this week, adding more than $36 million worth of the newly public stock as it…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-16T23:34:59+00:00",
+   "tickers": [
+    "SPCX"
+   ]
+  },
+  {
+   "id": "1afe87fa9959",
+   "title": "San Francisco mayor pushes for tougher rules after the Waymo traffic fiasco",
+   "link": "https://biztoc.com/x/d49e616c73c29415?ref=rss",
+   "summary": "It turns out that even San Francisco Mayor Daniel Lurie, who once declared that the city should be a testbed for emerging tech, has his limits. Especially when that emerging tech creates a massive hours-long traffic jam that leaves thousands at a standstill. Mayor Lurie has asked state regulators…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-16T23:34:58+00:00",
+   "tickers": [
+    "GOOGL"
+   ]
+  },
+  {
+   "id": "75fe68cc42e3",
+   "title": "The 5% CDs Everyone Bought in 2024 Are Quietly Raising 2026 Medicare Premiums",
+   "link": "https://biztoc.com/x/8770511f35f620e2?ref=rss",
+   "summary": "The post The 5% CDs Everyone Bought in 2024 Are Quietly Raising 2026 Medicare Premiums appeared first on 24/7 Wall St.. A married couple, both 72, parked $400,000 in a one-year CD at 5% in early 2024. The interest hit their 2024 tax return, sat on top of Social Security and a pension, and then…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-16T23:34:55+00:00",
+   "tickers": []
+  },
+  {
+   "id": "33b3a18d671b",
+   "title": "Northern Ontario wildfires disrupt rail, forestry operations",
+   "link": "https://biztoc.com/x/a004423fffa63190?ref=rss",
+   "summary": "Wildfires in Northern Ontario have prompted evacuations, blocked rail traffic and halted forestry operations, as smoke blanketed much of the province and parts of the United States this week. There are 177 active wildland blazes in Ontario, according to the Ministry of Natural Resources, prompting…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-16T23:34:51+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f6f74133cc29",
+   "title": "Why the British hate their councils",
+   "link": "https://biztoc.com/x/365b26707ef838a2?ref=rss",
+   "summary": "“Growth in every corner of the country”, “more money in people’s pockets”, and “people taking back control of what matters to them”: these three phrases could summarize Andy Burnham’s big idea of devolving power away from Westminster, but they are actually taken from Labour’s 2024 local election…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-16T23:34:51+00:00",
+   "tickers": []
+  },
+  {
+   "id": "8bb53f099f22",
+   "title": "SpaceX aborts Starship test flight, sending stock lower",
+   "link": "https://biztoc.com/x/b4f8218442ad0558?ref=rss",
+   "summary": "SpaceX scrubbed the launch of its Starship mega rocket on Thursday, with CEO Elon Musk pledging to make another attempt \"hopefully in a few days.\" A 90-minute launch window opened at 6:45 p.m. ET, and within minutes, the reusable rocket maker announced on a livestream that it was standing down for…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-07-16T23:34:47+00:00",
+   "tickers": [
+    "SPCX"
+   ]
+  },
+  {
+   "id": "9885066a201c",
+   "title": "Scientists Design Particle That Makes Cancer Cells Self-Destruct",
+   "link": "https://biztoc.com/x/ab8f55be956e0caf?ref=rss",
+   "summary": "Researchers have developed a new nanoparticle-based strategy that could advance a promising cancer treatment approach by using tumors’ own copper supply to trigger cancer cell death. The study, led by researchers at Guizhou Medical University and published in Biomedical Analysis, focuses on…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-16T23:34:46+00:00",
+   "tickers": []
+  },
+  {
+   "id": "7ce2ed1cd1f5",
+   "title": "Analysis-China bets on faster state-backed projects to shore up growth, avoid broad stimulus",
+   "link": "https://biztoc.com/x/e01acc196cd0afcb?ref=rss",
+   "summary": "Stocks end lower as tech bleeds, Fed policymaker calls for ’modestly higher’ rates July 17 (Reuters) - China can stabilise economic growth this year by accelerating already-budgeted national infrastructure investment projects, economists and one government adviser said, reducing the likelihood of…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-16T23:34:44+00:00",
+   "tickers": []
+  },
+  {
+   "id": "596a113bc23b",
+   "title": "Blanche Testifies Of Hopes To ‘Keep America Safe’ While Democrats Hammer Him Over Trump Loyalty",
+   "link": "https://biztoc.com/x/912584c6f20d9271?ref=rss",
+   "summary": "By Pedro Rodriguez, The Daily Signal | July 15, 2026 While the acting attorney general, Todd Blanche, championed the progress the Department of Justice has made in recent months during his Senate confirmation hearing, such as the prosecution of drug dealers, illegal aliens, foreign terrorist…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-16T23:34:43+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a5bcb7fae559",
+   "title": "Byron Donalds' Chances of Losing Florida Race to Democrat David Jolly—Poll",
+   "link": "https://biztoc.com/x/bb9cd1283812a935?ref=rss",
+   "summary": "A new poll suggests Representative Byron Donalds' path to Florida's governor's mansion may be more competitive than earlier surveys indicated, with Democrat David Jolly now holding a slightly larger edge in a hypothetical general election matchup. The latest Change Research survey, a…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-16T23:34:43+00:00",
+   "tickers": []
+  },
+  {
+   "id": "47a674a79752",
+   "title": "Fed may need to hike rates if inflation does not ease soon, Jefferson says",
+   "link": "https://biztoc.com/x/fe47c23da513c6ac?ref=rss",
+   "summary": "Stocks end lower as tech bleeds, Fed policymaker calls for ’modestly higher’ rates By Ann Saphir STANFORD, California, July 16 (Reuters) - Federal Reserve Vice Chair Philip Jefferson on Thursday suggested he would be open to raising interest rates if there is no near-term improvement in inflation,…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-07-16T23:34:34+00:00",
+   "tickers": []
+  },
+  {
+   "id": "fdd28ec55735",
+   "title": "Cocoa Prices Slump as European Cocoa Demand Plunges",
+   "link": "https://www.nasdaq.com/articles/cocoa-prices-slump-european-cocoa-demand-plunges",
+   "summary": "September ICE NY cocoa (CCU26 ) today is down -532 (-9.04%), and September ICE London cocoa #7 (CAU26 ) is down -405 (-9.28%). Cocoa prices plummeted today to 1.5-week lows. Signs of weak global demand are undercutting cocoa prices today after the European Cocoa Association reported that Q2 European cocoa...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-07-16T23:34:02+00:00",
+   "tickers": [
+    "ICE"
+   ]
+  },
+  {
+   "id": "bd966a0d9030",
+   "title": "SpaceX aborts Starship test flight, sending stock lower",
+   "link": "https://www.cnbc.com/2026/07/16/spacex-spcx-stock-starship-test-flight.html",
+   "summary": "Elon Musk said it would make another attempt \"hopefully in a few days.\" SpaceX completed the maiden test flight of its Starship V3 rocket in May.",
+   "article_text": "SpaceX aborts Starship test flight, sending stock lower Skip Navigation Markets Business Investing Tech Politics Video Watchlist Investing Club PRO Livestream Menu Key Points SpaceX scrubbed a planned test flight of its Starship mega rocket from its Starbase complex in South Texas. It would've been the second time SpaceX flew its upgraded Starship V3 rocket, following a May launch where the vehicle's booster had a mishap. After a record-setting June IPO, SpaceX shares soared then fell, plunging below their $135 offering price for the first time this week. In this article SPCX Follow your favorite stocks CREATE FREE ACCOUNT A general view of a SpaceX building and Starship rocket ahead of the SpaceX initial public offering (IPO), in Starbase, Texas, U.S., June 11, 2026. Gabriel V. Cardenas | Reuters SpaceX scrubbed the launch of its Starship mega rocket on Thursday, with CEO Elon Musk pledging to make another attempt \"hopefully in a few days.\" A 90-minute launch window opened at 6:45 p.m. ET, and within minutes, the reusable rocket maker announced on a livestream that it was standing down for the day. \"Some of the engines didn't start, triggering an automatic launch abort,\" Musk wrote in a post on X . Shares of SpaceX fell more than 3% in extended trading, sinking further beneath its IPO price of $135. The stock is on a five-day losing streak. The rocket was poised for takeoff from SpaceX's Starbase complex in South Texas when a hold was triggered on the booster, which \"shut down the engines right as they were starting to ignite,\" a SpaceX employee said on the livestream. It would've been the first test flight of Starship V3, an upgraded version of its roughly 400-foot-tall rocket, since SpaceX's blockbuster initial public offering last month. An earlier V3 test launch in May did not go perfectly. After a successful liftoff, several engines in the bottom stage of the rocket failed to reignite to help guide it to a soft landing, causing it to plummet into the Gulf of Mexico. Read more CNBC tech news Nvidia-backed Fireworks hits $17.5 billion valuation as companies pursue cheaper AI models TSMC to invest additional $100 billion in Arizona after second-quarter profit soars 77% Trump blasts New York AI data center moratorium, says state should change policy 'immediately' Anthropic moves closer to mega-IPO as bankers line up investor meetings The Federal Aviation Administration ordered SpaceX to investigate the anomaly, and on Monday, the agency cleared Starship to fly again. \"The final mishap report cites two most probable root causes for the loss of the Super Heavy booster as heat effects on propulsion system components during the ascent and erroneous engine alarm system settings,\" the FAA said in a statement. SpaceX identified four corrective actions, including vehicle hardware and software updates, \"to prevent a reoccurrence of the event,\" the agency said. As part of Thursday's mission, Starship planned to ferry 20 functioning, next-generation Starlink satellites, which were expected to extend their solar arrays and antennas, then attempt to connect with the broader Starlink constellation, SpaceX said . The satellites are expected to \"demise upon reentry approximately 20 minutes after deployment,\" the company noted. Investors are closely watching the 13th Starship test flight as the giant rocket is key to SpaceX ambitions to scale its Starlink satellite internet service, and to complete Artemis test flights with NASA as it aims for the U.S. space agency's next moon landing. Since they hit the public markets last month, SpaceX shares have skyrocketed, then fallen, and briefly dipped below their $135 IPO price on Wednesday. The stock continued to fall on Thursday, sliding more than 3% to close at $131.11. With the IPO, SpaceX raised a total of $85.7 billion, including the underwriters' option , making it the largest IPO on record. — CNBC's Lora Kolodny contributed reporting to this article. watch now VIDEO 4:30 04:30 Elon Musk: SpaceX is about taking the fiction out of science fiction Squawk on the Street Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "cnbc.com",
+   "published": "2026-07-16T23:31:34+00:00",
+   "tickers": [
+    "SPCX"
+   ]
+  },
+  {
+   "id": "92f5886cf4c2",
+   "title": "Huawei stellt auf der „The smarter E 2026\" seine neueste Strategie zur Netzbildung für künftige Stromversorgungssysteme vor",
+   "link": "https://www.prnewswire.com/news-releases/huawei-stellt-auf-der-the-smarter-e-2026-seine-neueste-strategie-zur-netzbildung-fur-kunftige-stromversorgungssysteme-vor-302828091.html",
+   "summary": "MÜNCHEN, 17. Juli 2026 /PRNewswire/ -- In seiner Rede auf der Branchenveranstaltung in München erklärte Steven Zhou, Präsident der Produktlinie Smart PV & ESS bei Huawei Digital Power, das Unternehmen konzentriere sich strategisch auf netzbildende, integrierte Lösungen, um die...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-07-16T23:31:00+00:00",
+   "tickers": [
+    "ESS"
+   ]
+  },
+  {
+   "id": "d5ff47549719",
+   "title": "Malaysia Stock Market May Tick Lower On Friday",
+   "link": "https://www.nasdaq.com/articles/malaysia-stock-market-may-tick-lower-friday",
+   "summary": "(RTTNews) - The Malaysia stock market bounced higher again on Thursday, one day after ending the three-day winning streak in which it had collected more than 40 points or 2.5 percent. The Kuala Lumpur Composite Index now sits just above the 1,720-point plateau although it's likel",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-07-16T23:30:22+00:00",
+   "tickers": []
+  },
+  {
+   "id": "bf8c05db2931",
+   "title": "Spoločnosť Huawei na veľtrhu The Smarter E 2026 predstavuje najnovšiu stratégiu vytvárania sietí pre budúce energetické systémy",
+   "link": "https://www.prnewswire.com/news-releases/spolonos-huawei-na-vetrhu-the-smarter-e-2026-predstavuje-najnoviu-strategiu-vytvarania-sieti-pre-buduce-energeticke-systemy-302828088.html",
+   "summary": "MNÍCHOV, 17. júla 2026 /PRNewswire/ -- Vo svojom prejave na odvetvovom veľtrhu v Mníchove prezident produktového radu Smart PV a ESS spoločnosti Huawei Digital Power, Steven Zhou, uviedol, že spoločnosť sa strategicky zameriava na integrované riešenia vytvárania sietí, ktoré posilňujú...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-07-16T23:27:00+00:00",
+   "tickers": [
+    "ESS"
+   ]
+  },
+  {
+   "id": "ce2a634213e6",
+   "title": "DBV Technologies S.A. (DBVT) Q2 2026 Earnings Call Transcript",
+   "link": "https://seekingalpha.com/article/4922808-dbv-technologies-s-a-dbvt-q2-2026-earnings-call-transcript?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-16T23:26:16+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b20ffb9fb574",
+   "title": "Hog Bulls Look for Follow-Up as Pork Firms, Mostly Higher at Midday",
+   "link": "https://www.nasdaq.com/articles/hog-bulls-look-follow-pork-firms-mostly-higher-midday",
+   "summary": "Lean hog futures are mostly higher at midday on Thursday, with nearby August down a nickel as this is writer. Other contracts are up 47 to 87 cents. Lean hog futures posted gains of $1.05 to $2.35 across most contracts on Wednesday, with July up 7 cents on expiration day....",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-07-16T23:23:07+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a1ca0111e3a8",
+   "title": "Cattle Hit Hard by Bears on Thursday",
+   "link": "https://www.nasdaq.com/articles/cattle-hit-hard-bears-thursday",
+   "summary": "Live cattle futures are trading sharply lower at midday on Thursday, with a number of contract months down $3 per cwt or more. They posted $1.30 to $2.82 losses on Wednesday. Open interest was down 3,922 contracts, suggesting additional long liquidation. Cash trade started to pick up, with a few...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-07-16T23:23:06+00:00",
+   "tickers": []
+  },
+  {
+   "id": "adf21e4a1821",
+   "title": "Cotton Sharply Lower on Thursday, Rejecting 80 Cent Mark",
+   "link": "https://www.nasdaq.com/articles/cotton-sharply-lower-thursday-rejecting-80-cent-mark",
+   "summary": "At midday on Thursday, cotton futures prices are back down 260 to 396 points from the Wednesday close. Futures closed the Wednesday session with contracts up 24 to 96 points. Crude oil is was up a modest 10 to 15 cents per barrel late morning, with the US dollar index...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-07-16T23:23:06+00:00",
+   "tickers": []
+  },
+  {
+   "id": "58cc4e2b3c28",
+   "title": "Why Verizon Stock Topped the Market on Thursday",
+   "link": "https://www.nasdaq.com/articles/why-verizon-stock-topped-market-thursday",
+   "summary": "Key PointsThe company is leaning more heavily on the franchise model with its retail outlets.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-07-16T23:22:54+00:00",
+   "tickers": [
+    "VZ"
+   ]
+  },
   {
    "id": "33a9d68cfba9",
    "title": "Specialty candy company files for Chapter 11 bankruptcy",
@@ -397,9 +1013,9 @@
    "link": "https://www.investing.com/news/stock-market-news/spacex-starship-rocket-aborts-before-liftoff-in-13th-flight-test-attempt-4797258",
    "summary": "",
    "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
    "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-07-16T23:12:49+00:00",
@@ -487,6 +1103,22 @@
    ]
   },
   {
+   "id": "ba038b4dd6ba",
+   "title": "US to take lead in probe into Ryanair Boeing 737 engine failure over Greece",
+   "link": "https://www.investing.com/news/stock-market-news/us-to-take-lead-in-probe-into-ryanair-boeing-737-engine-failure-over-greece-4797253",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-07-16T23:07:45+00:00",
+   "tickers": [
+    "BA"
+   ]
+  },
+  {
    "id": "9476f266772c",
    "title": "Chamber of Commerce, Industries and Agriculture of Panama Launches 2027 Trade Expo Platform to Drive Foreign Investment and Regional Growth",
    "link": "https://www.prnewswire.com/news-releases/chamber-of-commerce-industries-and-agriculture-of-panama-launches-2027-trade-expo-platform-to-drive-foreign-investment-and-regional-growth-302828076.html",
@@ -512,53 +1144,6 @@
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
    "published": "2026-07-16T23:06:47+00:00",
-   "tickers": []
-  },
-  {
-   "id": "2fd8c8dcb81f",
-   "title": "Stocks Settle Lower as Chipmakers and AI Stocks Slump",
-   "link": "https://www.nasdaq.com/articles/stocks-settle-lower-chipmakers-and-ai-stocks-slump",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) on Thursday closed down -0.51%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -0.20%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -1.62%. September E-mini S&P futures (ESU26 ) fell -0.50%, and September E-mini Nasdaq futures...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-07-16T23:06:33+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
-   ]
-  },
-  {
-   "id": "a1ca0111e3a8",
-   "title": "Cattle Hit Hard by Bears on Thursday",
-   "link": "https://www.nasdaq.com/articles/cattle-hit-hard-bears-thursday",
-   "summary": "Live cattle futures are trading sharply lower at midday on Thursday, with a number of contract months down $3 per cwt or more. They posted $1.30 to $2.82 losses on Wednesday. Open interest was down 3,922 contracts, suggesting additional long liquidation. Cash trade started to pick up, with a few...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-07-16T23:06:33+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b20ffb9fb574",
-   "title": "Hog Bulls Look for Follow-Up as Pork Firms, Mostly Higher at Midday",
-   "link": "https://www.nasdaq.com/articles/hog-bulls-look-follow-pork-firms-mostly-higher-midday",
-   "summary": "Lean hog futures are mostly higher at midday on Thursday, with nearby August down a nickel as this is writer. Other contracts are up 47 to 87 cents. Lean hog futures posted gains of $1.05 to $2.35 across most contracts on Wednesday, with July up 7 cents on expiration day....",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-07-16T23:06:33+00:00",
    "tickers": []
   },
   {
@@ -1010,22 +1595,6 @@
    "tickers": []
   },
   {
-   "id": "801c422dbd8e",
-   "title": "As SpaceX’s stock notches first close below IPO price, the company is gearing up for a crucial launch",
-   "link": "https://www.marketwatch.com/story/spacexs-starship-is-set-for-takeoff-and-its-floundering-stock-could-use-the-lift-ec5629d5?mod=mw_rss_topstories",
-   "summary": "The megarocket’s success is SpaceX’s “single most important watch item,” one analyst says.",
-   "article_text": "",
-   "source": "MarketWatch",
-   "category": "markets",
-   "type": "offering",
-   "sentiment": "neutral",
-   "domain": "marketwatch.com",
-   "published": "2026-07-16T22:59:00+00:00",
-   "tickers": [
-    "SPCX"
-   ]
-  },
-  {
    "id": "ec6de1e12ba1",
    "title": "Dollar Boosted by US Economic Strength and Hawkish Fed Comments",
    "link": "https://www.nasdaq.com/articles/dollar-boosted-us-economic-strength-and-hawkish-fed-comments",
@@ -1115,22 +1684,6 @@
    "published": "2026-07-16T22:51:35+00:00",
    "tickers": [
     "CRDO"
-   ]
-  },
-  {
-   "id": "ab847f66219d",
-   "title": "Microsoft's Nadella rips Anthropic's Fable restrictions in staff meeting: 'Doesn't make sense'",
-   "link": "https://www.cnbc.com/2026/07/16/microsoft-ceo-says-anthropic-fable-request-policy-doesnt-make-sense.html",
-   "summary": "Microsoft enjoys close ties to Anthropic, but it's also working to help companies refine models that keep their data private.",
-   "article_text": "Microsoft CEO says Anthropic Fable request policy 'doesn't make sense' Skip Navigation Markets Business Investing Tech Politics Video Watchlist Investing Club PRO Livestream Menu Key Points In a meeting with engineers, Microsoft CEO Satya Nadella called out limits Anthropic is imposing on the use of its top-tier Fable generative artificial intelligence model. The comments come as executives become more open to using cost-efficient models, rather than relying exclusively on the top frontier labs. Nadella said it wouldn't be right for just two companies sitting on meaningful value in artificial intelligence tokens, which measure computing usage. The unification of Microsoft's Copilot AI assistant for consumers and corporate workers is something the company arguably should have done from the start, Nadella said. In this article AMZN Follow your favorite stocks CREATE FREE ACCOUNT Microsoft CEO Satya Nadella speaks at the Microsoft AI Tour event in Munich, Germany, on Feb. 25, 2026. Sven Hoppe | Picture Alliance | Getty Images Microsoft CEO Satya Nadella told employees Wednesday that Anthropic's limits on requests that users submit to the startup's high-end Fable artificial intelligence model don't make sense. The comments come as executives express interest in cost-efficient models that don't come from the most well funded labs can handle software development and other tasks inside companies. On Thursday Chinese startup Moonshot AI announced an open-source model that it said surpasses recent releases from Anthropic and OpenAI. \"If you use Fable, when it refuses for any random thing, it just is like, when was the last time you had a creation tool that was so editorially controlled?\" Nadella told engineers working on Microsoft's Copilot AI software, according to a copy of his remarks that was provided to CNBC. \"It doesn't make sense.\" Microsoft declined to comment. An Anthropic spokesperson did not immediately respond to a request for comment. When end users ask Fable about some aspects of creating large-scale models, among other topics, Anthropic might send responses from an older version, according to a support page . Some people have called out the rejections on social media. Anthropic said when it announced Fable 5 in early June that it was attempting to reduce false positives for blocked requests. Three days after the introduction, Anthropic cut off Fable access to comply with a U.S. government export control directive, and on July 1 the company restored the model, saying \"the new safeguards will flag a slightly higher fraction of harmless requests than the previous Fable safeguards.\" The Microsoft chief's remarks represent criticism of a valued partner and client. Anthropic's Claude Code software development tool has become popular among programmers and people with less technical talent. In November Microsoft said it was making a $5 billion investment in Anthropic, as the startup agreed to spend $30 billion on Microsoft's Azure cloud. This year Microsoft unveiled Copilot Cowork , a business productivity assistant that draws on the startup's models. Investors have worried that Microsoft could face disruption from models that quickly write software, as the company allocates tens of billions per quarter to data center expansion. Shares have fallen 17% so far this year, while the Nasdaq Composite index has gained 11%. Lately Nadella has argued that companies should be able to cost-efficiently develop custom models and draw on internal data, without letting it flow out to other entities, such as companies in the business of building models. In a Sunday blog post , he invoked Palantir CEO Alex Karp, who said on CNBC that technical organizations \"want to know they own the means of production.\" Microsoft offers the Foundry service where developers can adopt over 11,000 models, including some from Anthropic and OpenAI. \"It can't be that there are only two companies in the world with token capital, and everybody else is renting it,\" Nadella told the engineers. \"It makes no economic sense.\" Tokens measure computing usage of AI models. Microsoft tied itself tightly to OpenAI through a series of investments, but the two companies drifted and became competing with each other after the abrupt 2023 ousting and reinstatement of OpenAI's CEO, Sam Altman, with little notice to Nadella. OpenAI said in April it would bring its models beyond Azure to cloud infrastructure leader Amazon Web Services. Microsoft, for its part, announced a series of in-house models , including one for coding, in June. Its stake in OpenAI's for-profit business was worth $135 billion as of October. Nadella also said it's good Microsoft is merging products for consumer and corporate workers. In March, he announced that former Snap executive Jacob Andreou would take charge of Copilot across both categories. The unification is something \"we should have done maybe day one,\" he said. In April Microsoft said it had over 20 million paid seats for the work-centric Copilot, or 4% of the cloud-based Office customer base. WATCH: We see Microsoft accelerating growth in next few years, says Wolfe's Zukin watch now VIDEO 3:51 03:51 We see Microsoft accelerating growth in next few years, says Wolfe's Zukin Closing Bell: Overtime Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-07-16T22:51:12+00:00",
-   "tickers": [
-    "MSFT"
    ]
   },
   {
@@ -1382,36 +1935,6 @@
    ]
   },
   {
-   "id": "adf21e4a1821",
-   "title": "Cotton Sharply Lower on Thursday, Rejecting 80 Cent Mark",
-   "link": "https://www.nasdaq.com/articles/cotton-sharply-lower-thursday-rejecting-80-cent-mark",
-   "summary": "At midday on Thursday, cotton futures prices are back down 260 to 396 points from the Wednesday close. Futures closed the Wednesday session with contracts up 24 to 96 points. Crude oil is was up a modest 10 to 15 cents per barrel late morning, with the US dollar index...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-07-16T22:45:10+00:00",
-   "tickers": []
-  },
-  {
-   "id": "fdd28ec55735",
-   "title": "Cocoa Prices Slump as European Cocoa Demand Plunges",
-   "link": "https://www.nasdaq.com/articles/cocoa-prices-slump-european-cocoa-demand-plunges",
-   "summary": "September ICE NY cocoa (CCU26 ) today is down -532 (-9.04%), and September ICE London cocoa #7 (CAU26 ) is down -405 (-9.28%). Cocoa prices plummeted today to 1.5-week lows. Signs of weak global demand are undercutting cocoa prices today after the European Cocoa Association reported that Q2 European cocoa...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-07-16T22:45:09+00:00",
-   "tickers": [
-    "ICE"
-   ]
-  },
-  {
    "id": "034703e8d065",
    "title": "Netflix is getting stingier about its viewing data, and Wall Street isn’t happy",
    "link": "https://www.marketwatch.com/story/netflix-is-getting-stingier-about-its-viewing-data-and-wall-street-isnt-happy-15033db1?mod=mw_rss_topstories",
@@ -1588,25 +2111,6 @@
    "published": "2026-07-16T22:36:00+00:00",
    "tickers": [
     "UBS"
-   ]
-  },
-  {
-   "id": "1e6df431b77a",
-   "title": "Stocks Mixed as Weakness in Chipmakers Weighs",
-   "link": "https://www.nasdaq.com/articles/stocks-mixed-weakness-chipmakers-weighs",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) today is down -0.14%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.21%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -0.96%. September E-mini S&P futures (ESU26 ) are down -0.18%, and September E-mini Nasdaq futures...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-07-16T22:35:25+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
    ]
   },
   {
@@ -2344,6 +2848,82 @@
    "tickers": [
     "RGLD"
    ]
+  },
+  {
+   "id": "bfb2f1895102",
+   "title": "Why Cleveland-Cliffs (CLF) Dipped More Than Broader Market Today",
+   "link": "https://www.nasdaq.com/articles/why-cleveland-cliffs-clf-dipped-more-broader-market-today-0",
+   "summary": "In the latest trading session, Cleveland-Cliffs (CLF) closed at $9.53, marking a -3.25% move from the previous day.",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-07-16T22:15:05+00:00",
+   "tickers": [
+    "CLF"
+   ]
+  },
+  {
+   "id": "d50ed321748e",
+   "title": "HCI Group (HCI) Increases Despite Market Slip: Here's What You Need to Know",
+   "link": "https://www.nasdaq.com/articles/hci-group-hci-increases-despite-market-slip-heres-what-you-need-know",
+   "summary": "In the latest trading session, HCI Group (HCI) closed at $178.32, marking a +2.37% move from the previous day.",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-07-16T22:15:05+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b32b5ea03ab9",
+   "title": "Cipher Digital Inc. (CIFR) Declines More Than Market: Some Information for Investors",
+   "link": "https://www.nasdaq.com/articles/cipher-digital-inc-cifr-declines-more-market-some-information-investors",
+   "summary": "Cipher Digital Inc. (CIFR) concluded the recent trading session at $17.72, signifying a -10.82% move from its prior day's close.",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-07-16T22:15:05+00:00",
+   "tickers": [
+    "CIFR"
+   ]
+  },
+  {
+   "id": "ae2856cb4671",
+   "title": "BigBear.ai Holdings, Inc. (BBAI) Falls More Steeply Than Broader Market: What Investors Need to Know",
+   "link": "https://www.nasdaq.com/articles/bigbearai-holdings-inc-bbai-falls-more-steeply-broader-market-what-investors-need-know",
+   "summary": "BigBear.ai Holdings, Inc. (BBAI) reached $2.92 at the closing of the latest trading day, reflecting a -7.01% change compared to its last close.",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-07-16T22:15:05+00:00",
+   "tickers": [
+    "BBAI"
+   ]
+  },
+  {
+   "id": "9d4fdeae1f77",
+   "title": "VALE S.A. (VALE) Declines More Than Market: Some Information for Investors",
+   "link": "https://www.nasdaq.com/articles/vale-sa-vale-declines-more-market-some-information-investors",
+   "summary": "The latest trading day saw VALE S.A. (VALE) settling at $14.22, representing a -3.07% change from its previous close.",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-07-16T22:15:05+00:00",
+   "tickers": []
   },
   {
    "id": "cc56ae0d8f10",
@@ -8386,586 +8966,6 @@
    "domain": "globenewswire.com",
    "published": "2026-07-16T20:30:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "78b5db743f6d",
-   "title": "Home Federal Bancorp, Inc. of Louisiana Increases Quarterly Cash Dividend for 13th Consecutive Year",
-   "link": "https://www.globenewswire.com/news-release/2026/07/16/3328825/12251/en/Home-Federal-Bancorp-Inc-of-Louisiana-Increases-Quarterly-Cash-Dividend-for-13th-Consecutive-Year.html",
-   "summary": "SHREVEPORT, La., July 16, 2026 (GLOBE NEWSWIRE) -- Home Federal Bancorp, Inc. of Louisiana (the “Company”) (NASDAQ: HFBL), the holding company for Home Federal Bank, announced today that on July 16, 2026, its Board of Directors declared a quarterly cash dividend of $0.15 per share on the Company’s common stock. The dividend is payable on August 10, 2026, to the shareholders of record at the close of business on July 27, 2026.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-07-16T20:30:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "a6e2239bc55f",
-   "title": "Kayne Anderson Energy Infrastructure Fund Prices Private Placement of Notes and Mandatory Redeemable Preferred Shares",
-   "link": "https://www.globenewswire.com/news-release/2026/07/16/3328826/0/en/Kayne-Anderson-Energy-Infrastructure-Fund-Prices-Private-Placement-of-Notes-and-Mandatory-Redeemable-Preferred-Shares.html",
-   "summary": "HOUSTON, July 16, 2026 (GLOBE NEWSWIRE) -- Kayne Anderson Energy Infrastructure Fund, Inc. (the “Company”) (NYSE: KYN) announced today that it reached an agreement with institutional investors relating to a private placement of $50 million of senior unsecured notes (“Notes”) and $15 million of mandatory redeemable preferred shares (“MRP Shares”). The private placement is expected to close on or about July 30, 2026. The Notes are expected to fund at closing, and the MRP Shares are expected to fund on a delayed basis on October 30, 2026.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-07-16T20:30:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "4511d4734e91",
-   "title": "MDU Resources to Webcast Second Quarter 2026 Earnings Conference Call",
-   "link": "https://www.prnewswire.com/news-releases/mdu-resources-to-webcast-second-quarter-2026-earnings-conference-call-302827815.html",
-   "summary": "BISMARCK, N.D., July 16, 2026 /PRNewswire/ -- MDU Resources Group, Inc. (NYSE: MDU) will webcast its second quarter 2026 earnings conference call at 2 p.m. ET Aug. 6. The company will release its second quarter results before U.S. financial markets open that day. The webcast can be...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-07-16T20:30:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "3e9c9882735d",
-   "title": "Vanda Pharmaceuticals Announces EMA Positive Opinion for Orphan Drug Designation of Imsidolimab for Generalized Pustular Psoriasis - A Milestone Recognition of GPP as a Distinct Rare Disease in Europe",
-   "link": "https://www.prnewswire.com/news-releases/vanda-pharmaceuticals-announces-ema-positive-opinion-for-orphan-drug-designation-of-imsidolimab-for-generalized-pustular-psoriasis--a-milestone-recognition-of-gpp-as-a-distinct-rare-disease-in-europe-302827934.html",
-   "summary": "WASHINGTON, July 16, 2026 /PRNewswire/ -- Vanda Pharmaceuticals Inc. (Vanda) (Nasdaq: VNDA) today announced that the Committee for Orphan Medicinal Products at the European Medicines Agency (EMA) has adopted a positive opinion recommending orphan drug designation for imsidolimab, the...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-07-16T20:30:00+00:00",
-   "tickers": [
-    "NDAQ"
-   ]
-  },
-  {
-   "id": "358b9fc739a6",
-   "title": "Quaker Houghton Announces Second Quarter 2026 Earnings and Investor Call",
-   "link": "https://www.prnewswire.com/news-releases/quaker-houghton-announces-second-quarter-2026-earnings-and-investor-call-302827793.html",
-   "summary": "CONSHOHOCKEN, Pa., July 16, 2026 /PRNewswire/ -- Quaker Houghton (NYSE: KWR) today announced the following schedule and contact information for its second quarter 2026 earnings release and investor call. Earnings Release: Thursday, July 30, 2026 (after market close) Visit the investor...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-07-16T20:30:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "91d9c74a846c",
-   "title": "Goodyear to Announce Second Quarter 2026 Financial Results",
-   "link": "https://www.prnewswire.com/news-releases/goodyear-to-announce-second-quarter-2026-financial-results-302827837.html",
-   "summary": "AKRON, Ohio, July 16, 2026 /PRNewswire/ -- The Goodyear Tire & Rubber Company (NASDAQ: GT) will report second quarter 2026 financial results after market close on Wednesday, August 5, followed by a conference call at 8:30 a.m. Eastern time on Thursday, August 6. The Company will publish...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-07-16T20:30:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "4c592666ec3b",
-   "title": "Avient Announces Quarterly Dividend",
-   "link": "https://www.prnewswire.com/news-releases/avient-announces-quarterly-dividend-302827974.html",
-   "summary": "CLEVELAND, July 16, 2026 /PRNewswire/ -- The Board of Directors of Avient Corporation (NYSE: AVNT), an innovator of materials solutions, has declared a quarterly cash dividend of twenty-seven and a half cents ($0.275) per share on the common stock outstanding, to be paid on October 7,...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-07-16T20:30:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "4e33c9f8164a",
-   "title": "Ohmyhome Ltd Announces Receipt of Nasdaq Notification Regarding Minimum Bid Price Deficiency",
-   "link": "https://www.prnewswire.com/news-releases/ohmyhome-ltd-announces-receipt-of-nasdaq-notification-regarding-minimum-bid-price-deficiency-302826234.html",
-   "summary": "SINGAPORE, July 16, 2026 /PRNewswire/ -- Ohmyhome Ltd. (NASDAQ: OMH, \"Ohmyhome\" or \"the Company\"), a data- and technology-driven digital marketing company delivering multi-channel marketing and content solutions for advertisers, today announced that on July 13, 2026, the Company received...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-07-16T20:30:00+00:00",
-   "tickers": [
-    "NDAQ"
-   ]
-  },
-  {
-   "id": "b52a7f452e2b",
-   "title": "BJ’s Restaurants, Inc. Announces Date for Second Quarter 2026 Earnings Release and Conference Call",
-   "link": "https://www.globenewswire.com/news-release/2026/07/16/3328830/12013/en/BJ-s-Restaurants-Inc-Announces-Date-for-Second-Quarter-2026-Earnings-Release-and-Conference-Call.html",
-   "summary": "HUNTINGTON BEACH, Calif., July 16, 2026 (GLOBE NEWSWIRE) -- BJ’s Restaurants, Inc. (Nasdaq: BJRI) today announced that it will release its second quarter 2026 results after the market closes on Thursday, July 30, 2026. The Company will host an investor conference call at 2:00 p.m. (Pacific) that same day. The conference call will be broadcast live over the Internet. To listen to the conference call, please visit the “Investors” page of the Company’s website located at http://www.bjsrestaurants.com several minutes prior to the start of the call to register and download any necessary audio software. An archive of the presentation will be available for 30 days following the call.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-07-16T20:30:00+00:00",
-   "tickers": [
-    "NDAQ",
-    "BJ"
-   ]
-  },
-  {
-   "id": "979324a88356",
-   "title": "Clearway Energy, Inc. to Report Second Quarter 2026 Financial Results on August 5, 2026",
-   "link": "https://www.globenewswire.com/news-release/2026/07/16/3328828/0/en/Clearway-Energy-Inc-to-Report-Second-Quarter-2026-Financial-Results-on-August-5-2026.html",
-   "summary": "PRINCETON, N.J., July 16, 2026 (GLOBE NEWSWIRE) -- Clearway Energy, Inc. (NYSE: CWEN) plans to report Second Quarter 2026 financial results on Wednesday, August 5, 2026. Management will present the results during a conference call and webcast at 5:00 p.m. Eastern.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-07-16T20:30:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d7b34b520737",
-   "title": "Profound Medical to Release Second Quarter 2026 Financial Results on August 6th – Conference Call to Follow",
-   "link": "https://www.globenewswire.com/news-release/2026/07/16/3328829/33471/en/Profound-Medical-to-Release-Second-Quarter-2026-Financial-Results-on-August-6th-Conference-Call-to-Follow.html",
-   "summary": "TORONTO, July 16, 2026 (GLOBE NEWSWIRE) -- Profound Medical Corp. (NASDAQ:PROF; TSX:PRN) (“Profound” or the “Company”), a commercial-stage medical device company that develops and markets innovative interventional MRI (iMRI) procedures, will announce its second quarter 2026 financial results after market close on Thursday, August 6, 2026.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-07-16T20:30:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "61a0b08efc56",
-   "title": "8-K - Plum Acquisition Corp, IV (0002030482) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/2030482/000121390026078728/0001213900-26-078728-index.htm",
-   "summary": "Filed: 2026-07-16 AccNo: 0001213900-26-078728 Size: 326 KB Item 5.03: Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year Item 5.07: Submission of Matters to a Vote of Security Holders Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-07-16T20:28:54+00:00",
-   "tickers": []
-  },
-  {
-   "id": "5ce6d6f24314",
-   "title": "A Sea Limited Insider Keeps Selling. The Stock Is Down 30% but the Business Grew 47%",
-   "link": "https://www.nasdaq.com/articles/sea-limited-insider-keeps-selling-stock-down-30-business-grew-47",
-   "summary": "Key PointsThe disposal of 3,000 shares realized an estimated $332,000 based on a weighted average execution price of $110.77 per share.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-07-16T20:28:47+00:00",
-   "tickers": [
-    "SE"
-   ]
-  },
-  {
-   "id": "a621a71cea41",
-   "title": "‘The market is getting real alternatives as growth is broadening’ – analyst",
-   "link": "https://seekingalpha.com/news/4614690-the-market-is-getting-real-alternatives-as-growth-is-broadening-analyst?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-16T20:28:35+00:00",
-   "tickers": []
-  },
-  {
-   "id": "76767111ac28",
-   "title": "AST SpaceMobile’s stock is sinking as the SpaceX rival looks to raise more cash",
-   "link": "https://www.marketwatch.com/story/ast-spacemobiles-stock-is-sinking-as-the-spacex-rival-looks-to-raise-more-cash-e358cae1?mod=mw_rss_topstories",
-   "summary": "AST SpaceMobile also pushed back a satellite-launch target.",
-   "article_text": "",
-   "source": "MarketWatch",
-   "category": "markets",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "marketwatch.com",
-   "published": "2026-07-16T20:28:00+00:00",
-   "tickers": [
-    "ASTS",
-    "SPCX"
-   ]
-  },
-  {
-   "id": "ef7718515b9e",
-   "title": "Insmed Incorporated (INSM) Discusses 12-Month Results From Ongoing TPIP Open-Label Extension Study in PAH Patients - Slideshow",
-   "link": "https://seekingalpha.com/article/4922780-insmed-incorporated-insm-discusses-12-month-results-from-ongoing-tpip-open-label-extension?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-16T20:27:11+00:00",
-   "tickers": [
-    "INSM"
-   ]
-  },
-  {
-   "id": "5646164da721",
-   "title": "8-K - FEDERAL AGRICULTURAL MORTGAGE CORP (0000845877) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/845877/000084587726000118/0000845877-26-000118-index.htm",
-   "summary": "Filed: 2026-07-16 AccNo: 0000845877-26-000118 Size: 319 KB Item 7.01: Regulation FD Disclosure Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-07-16T20:27:05+00:00",
-   "tickers": []
-  },
-  {
-   "id": "1a59677bdd3f",
-   "title": "Sodexo S.A. (SDXAY) Discusses Strategic Roadmap and Medium-Term Ambitions for Growth and Competitiveness Transcript",
-   "link": "https://seekingalpha.com/article/4922779-sodexo-s-a-sdxay-discusses-strategic-roadmap-and-medium-term-ambitions-for-growth-and?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-16T20:26:36+00:00",
-   "tickers": []
-  },
-  {
-   "id": "fbb2c7890733",
-   "title": "Insmed Incorporated (INSM) Discusses 12-Month Results From Ongoing TPIP Open-Label Extension Study in PAH Patients Transcript",
-   "link": "https://seekingalpha.com/article/4922778-insmed-incorporated-insm-discusses-12-month-results-from-ongoing-tpip-open-label-extension?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-16T20:26:35+00:00",
-   "tickers": [
-    "INSM"
-   ]
-  },
-  {
-   "id": "39cf4bd89d68",
-   "title": "Big banks and the capital markets upcycle",
-   "link": "https://seekingalpha.com/news/4614538-big-banks-and-the-capital-markets-upcycle?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-16T20:26:18+00:00",
-   "tickers": []
-  },
-  {
-   "id": "400058797b0d",
-   "title": "KKR Real Estate Finance Trust declares $0.4063 dividend",
-   "link": "https://seekingalpha.com/news/4614689-kkr-real-estate-finance-trust-declares-0_4063-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "dividend",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-16T20:26:04+00:00",
-   "tickers": [
-    "KKR"
-   ]
-  },
-  {
-   "id": "3eae4292a33c",
-   "title": "REGENXBIO Announces Proposed Public Offering of Common Stock",
-   "link": "https://www.prnewswire.com/news-releases/regenxbio-announces-proposed-public-offering-of-common-stock-302827988.html",
-   "summary": "ROCKVILLE, Md., July 16, 2026 /PRNewswire/ -- REGENXBIO Inc. (Nasdaq: RGNX) today announced that it intends to offer and sell, subject to market conditions, $100 million of its common stock in an underwritten public offering. The offering is subject to market and other conditions, and...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "offering",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-07-16T20:26:00+00:00",
-   "tickers": [
-    "NDAQ"
-   ]
-  },
-  {
-   "id": "03eff7453b59",
-   "title": "Form 4 Castle Biosciences Inc For: 16 July",
-   "link": "https://www.investing.com/news/filings/form-4-castle-biosciences-inc-for-16-july-93CH-4796800",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-16T20:25:54+00:00",
-   "tickers": []
-  },
-  {
-   "id": "34c024790bd8",
-   "title": "Form 4 Samsara Inc For: 16 July",
-   "link": "https://www.investing.com/news/filings/form-4-samsara-inc-for-16-july-93CH-4796799",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-16T20:25:52+00:00",
-   "tickers": [
-    "IOT"
-   ]
-  },
-  {
-   "id": "c1964b620967",
-   "title": "Intuitive Surgical Inc. Profit Climbs In Q2",
-   "link": "https://www.nasdaq.com/articles/intuitive-surgical-inc-profit-climbs-q2",
-   "summary": "(RTTNews) - Intuitive Surgical Inc. (ISRG) announced earnings for its second quarter that Increases, from the same period last year",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-07-16T20:25:40+00:00",
-   "tickers": [
-    "ISRG"
-   ]
-  },
-  {
-   "id": "d7120577b458",
-   "title": "Form 4 Progyny Inc For: 16 July",
-   "link": "https://www.investing.com/news/filings/form-4-progyny-inc-for-16-july-93CH-4796798",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-16T20:25:33+00:00",
-   "tickers": []
-  },
-  {
-   "id": "afae943a624c",
-   "title": "8-K - Arhaus, Inc. (0001875444) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1875444/000187544426000025/0001875444-26-000025-index.htm",
-   "summary": "Filed: 2026-07-16 AccNo: 0001875444-26-000025 Size: 141 KB Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-07-16T20:25:30+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b3e74c26db2f",
-   "title": "Blanche to meet with Epstein survivors after Tillis demand",
-   "link": "https://www.investing.com/news/politics-news/key-republican-says-he-wont-vote-for-blanche-unless-he-meets-with-epstein-survivors-4796489",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-16T20:25:11+00:00",
-   "tickers": []
-  },
-  {
-   "id": "cbf92cc10801",
-   "title": "8-K - Arcutis Biotherapeutics, Inc. (0001787306) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1787306/000162828026048469/0001628280-26-048469-index.htm",
-   "summary": "Filed: 2026-07-16 AccNo: 0001628280-26-048469 Size: 1 MB Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers Item 7.01: Regulation FD Disclosure Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-07-16T20:25:02+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6201fb70d4fe",
-   "title": "8-K - Compass Diversified Holdings (0001345126) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1345126/000134512626000057/0001345126-26-000057-index.htm",
-   "summary": "Filed: 2026-07-16 AccNo: 0001345126-26-000057 Size: 245 KB Item 4.01: Changes in Registrant's Certifying Accountant Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-07-16T20:25:00+00:00",
-   "tickers": [
-    "COMP"
-   ]
-  },
-  {
-   "id": "01a91fa17ab2",
-   "title": "8-K - Compass Group Diversified Holdings LLC (0001345122) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1345122/000134512626000057/0001345126-26-000057-index.htm",
-   "summary": "Filed: 2026-07-16 AccNo: 0001345126-26-000057 Size: 245 KB Item 4.01: Changes in Registrant's Certifying Accountant Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-07-16T20:25:00+00:00",
-   "tickers": [
-    "COMP"
-   ]
-  },
-  {
-   "id": "71fed304ab2a",
-   "title": "USA TODAY director Louis John Jeffry sells $78,805 in TDAy stock",
-   "link": "https://www.investing.com/news/insider-trading-news/usa-today-director-louis-john-jeffry-sells-78805-in-tday-stock-93CH-4796797",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-16T20:24:57+00:00",
-   "tickers": []
-  },
-  {
-   "id": "89fe2cd27d85",
-   "title": "Marqeta director Martha Cummings sells $11,564 in stock",
-   "link": "https://www.investing.com/news/insider-trading-news/marqeta-director-martha-cummings-sells-11564-in-stock-93CH-4796796",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-16T20:24:54+00:00",
-   "tickers": []
-  },
-  {
-   "id": "4b2764353df4",
-   "title": "US tariffs on Brazil are a bitter pill for sugar and ethanol makers",
-   "link": "https://www.investing.com/news/commodities-news/us-tariffs-on-brazil-are-abitter-pill-for-sugar-and-ethanol-makers-4796757",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-16T20:24:53+00:00",
-   "tickers": []
-  },
-  {
-   "id": "954c314f1afa",
-   "title": "Stocks to watch on Thursday after hours: NFLX, ISRG, and AA",
-   "link": "https://seekingalpha.com/news/4614655-stocks-to-watch-on-thursday-after-hours-nflx-isrg-and-aa?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-16T20:24:20+00:00",
-   "tickers": [
-    "NFLX",
-    "ISRG",
-    "AA"
-   ]
-  },
-  {
-   "id": "2fe6eb6c78d2",
-   "title": "MaxLinear slumped 16%, extending a two-week slide",
-   "link": "https://seekingalpha.com/news/4614665-maxlinear-slumped-16-extending-two-week-slide?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "negative",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-16T20:24:12+00:00",
-   "tickers": []
-  },
-  {
-   "id": "fa5c05f3f6d6",
-   "title": "Form 4 Quidel Corporation For: 16 July",
-   "link": "https://www.investing.com/news/filings/form-4-quidel-corporation-for-16-july-93CH-4796795",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-16T20:24:07+00:00",
-   "tickers": []
-  },
-  {
-   "id": "bba8f93a1c42",
-   "title": "Earnings Snapshot: Netflix posts mixed Q2 print, guidance misses estimates",
-   "link": "https://seekingalpha.com/news/4614688-earnings-snapshot-netflix-posts-mixed-q2-print-guidance-misses-estimates?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "earnings",
-   "sentiment": "negative",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-16T20:24:07+00:00",
-   "tickers": [
-    "NFLX"
-   ]
-  },
-  {
-   "id": "ec7242153d5b",
-   "title": "Form 4 HB Fuller Comp For: 16 July",
-   "link": "https://www.investing.com/news/filings/form-4-hb-fuller-comp-for-16-july-93CH-4796794",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-16T20:24:06+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8981,7 +8981,6 @@
   "CRDO": "Credo Technology Group Holding",
   "DJT": "Trump Media & Technology Group",
   "VIG": "Vanguard Div Appreciation ETF",
-  "BJ": "BJ's Wholesale Club Holdings",
   "QQQ": "Invesco QQQ Trust, Series 1",
   "STX": "Seagate Technology Holdings",
   "VOOG": "Vanguard S&P 500 Growth ETF",
@@ -9005,6 +9004,7 @@
   "PG": "The Procter & Gamble",
   "STZ": "Constellation Brands",
   "ABT": "Abbott Laboratories",
+  "BBAI": "BigBear.ai Holdings",
   "DAR": "Darling Ingredients",
   "ED": "Consolidated Edison",
   "ITW": "Illinois Tool Works",
@@ -9015,6 +9015,7 @@
   "ISRG": "Intuitive Surgical",
   "LUV": "Southwest Airlines",
   "MLI": "Mueller Industries",
+  "PANW": "Palo Alto Networks",
   "TYL": "Tyler Technologies",
   "BSX": "Boston Scientific",
   "CG": "The Carlyle Group",
@@ -9024,6 +9025,7 @@
   "RIVN": "Rivian Automotive",
   "TXN": "Texas Instruments",
   "UBER": "Uber Technologies",
+  "CLF": "Cleveland-Cliffs",
   "COST": "Costco Wholesale",
   "METC": "Ramaco Resources",
   "TFC": "Truist Financial",
@@ -9044,6 +9046,7 @@
   "META": "Meta Platforms",
   "QBTS": "D-Wave Quantum",
   "USAR": "USA Rare Earth",
+  "CIFR": "Cipher Mining",
   "GIS": "General Mills",
   "JOBY": "Joby Aviation",
   "KO": "The Coca-Cola",
@@ -9093,8 +9096,6 @@
   "SNPS": "Synopsys",
   "FOX": "Fox Corp",
   "BPOP": "Popular",
-  "COMP": "Compass",
-  "IOT": "Samsara",
   "MDB": "MongoDB",
   "MRK": "Merck &",
   "PNR": "Pentair",
@@ -9103,7 +9104,6 @@
   "WMT": "Walmart",
   "NFLX": "Netflix",
   "FISV": "Fiserv",
-  "INSM": "Insmed",
   "NDAQ": "Nasdaq",
   "ORCL": "Oracle",
   "PFE": "Pfizer",
@@ -9112,8 +9112,8 @@
   "AA": "Alcoa",
   "BRZE": "Braze",
   "FNB": "F.N.B",
+  "FRMI": "Fermi",
   "HEI": "HEICO",
-  "KKR": "KKR &",
   "DAVE": "Dave",
   "PCG": "PG&E",
   "V": "Visa"
