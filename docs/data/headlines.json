@@ -1,8 +1,531 @@
 {
- "generated": "2026-07-20T23:30:58.531635+00:00",
+ "generated": "2026-07-20T23:54:08.721752+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "825f5de655a9",
+   "title": "Rosen Law Firm Encourages Wise Group plc Investors to Inquire About Securities Class Action Investigation - WSE",
+   "link": "https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-wise-group-plc-investors-to-inquire-about-securities-class-action-investigation--wse-302830087.html",
+   "summary": "NEW YORK, July 20, 2026 /PRNewswire/ -- Why: Rosen Law Firm, a global investor rights law firm, continues to investigate potential securities claims on behalf of shareholders of Wise Group plc (NASDAQ: WSE) resulting from allegations that Wise Group plc may have issued materially...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "prnewswire.com",
+   "published": "2026-07-20T23:46:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "abd83b6b3365",
+   "title": "Rosen Law Firm Encourages UP Fintech Holding Limited Investors to Inquire About Securities Class Action Investigation - TIGR",
+   "link": "https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-up-fintech-holding-limited-investors-to-inquire-about-securities-class-action-investigation--tigr-302830081.html",
+   "summary": "NEW YORK, July 20, 2026 /PRNewswire/ -- Why: Rosen Law Firm, a global investor rights law firm, continues to investigate potential securities claims on behalf of shareholders of UP Fintech Holding Limited. (NASDAQ: TIGR) resulting from allegations that UP Fintech may have issued...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "prnewswire.com",
+   "published": "2026-07-20T23:42:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "464ee9b45b99",
+   "title": "Sugar Prices Consolidate Recent Losses",
+   "link": "https://www.nasdaq.com/articles/sugar-prices-consolidate-recent-losses-0",
+   "summary": "October NY world sugar #11 (SBV26 ) on Monday closed down -0.01 (-0.13%), and October London ICE white sugar #5 (SWV26 ) closed down -2.70 (-0.57%). Sugar prices posted modest losses on Monday as they consolidated above last Thursday’s 3-week low. Prices fell to that 3-week low amid an improvement...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-07-20T23:39:48+00:00",
+   "tickers": [
+    "ICE"
+   ]
+  },
+  {
+   "id": "a1d110467b2c",
+   "title": "Delays to Brazil’s Harvest Push Coffee Prices Higher",
+   "link": "https://www.nasdaq.com/articles/delays-brazils-harvest-push-coffee-prices-higher",
+   "summary": "September arabica coffee (KCU26 ) on Monday closed up +4.25 (+1.33%), and September ICE robusta coffee (RMU26 ) closed up +7 (+0.18%). Coffee prices moved higher on Monday amid a delay in Brazil’s coffee harvest. Last Friday, Safras & Mercado reported that Brazil’s 2026/27 coffee harvest is 64% complete as...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-07-20T23:39:47+00:00",
+   "tickers": [
+    "ICE"
+   ]
+  },
+  {
+   "id": "11d778856eaf",
+   "title": "Broader Market Boosted by Chipmaker Strength",
+   "link": "https://www.nasdaq.com/articles/broader-market-boosted-chipmaker-strength",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) today is up +0.17%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.34%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +0.51%. September E-mini S&P futures (ESU26 ) are up +0.20%, and September E-mini Nasdaq futures...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-07-20T23:39:47+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
+  },
+  {
+   "id": "e4d17f0e4790",
+   "title": "Cocoa Prices Pressured by Dollar Strength and Rising ICE Inventories",
+   "link": "https://www.nasdaq.com/articles/cocoa-prices-pressured-dollar-strength-and-rising-ice-inventories",
+   "summary": "September ICE NY cocoa (CCU26 ) on Monday closed down -13 (-0.23%), and September ICE London cocoa #7 (CAU26 ) closed up +1 (+0.02%). Cocoa prices were under modest pressure on Monday amid a stronger dollar, which weighed on most commodities. Also, rising cocoa inventories are bearish for prices after...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-07-20T23:39:47+00:00",
+   "tickers": [
+    "ICE"
+   ]
+  },
+  {
+   "id": "79e0acc32d54",
+   "title": "Stocks Edge Higher as Chipmakers Rebound",
+   "link": "https://www.nasdaq.com/articles/stocks-edge-higher-chipmakers-rebound-0",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) today is up +0.46%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.14%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +0.86%. September E-mini S&P futures (ESU26 ) are up +0.43%, and September E-mini Nasdaq futures...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-07-20T23:39:47+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
+  },
+  {
+   "id": "9d5579d9ca04",
+   "title": "Surges 17% Ahead of Q2 Earnings; Hedge Fund Participation Jumps",
+   "link": "https://biztoc.com/x/6df584bf41eb1d79?ref=rss",
+   "summary": "Cipher Digital climbed by 16.97 percent on Monday to end at $20.54 apiece, as investors resorted to bargain-hunting after five days of declines, while starting to position portfolios ahead of its earnings release. The rally followed Friday's fall to a three-month low of $16.13—a level it last…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-07-20T23:39:23+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e4c246f68b6c",
+   "title": "Why This MannKind Insider Stock Sale Matters Less Than a 9% Royalty at Risk",
+   "link": "https://biztoc.com/x/50b1af61429852d8?ref=rss",
+   "summary": "Stuart A. Tross, chief people & workplace officer of MannKind Corporation (NASDAQ:MNKD), reported the disposition of 65,808 shares at $4.09 per share on July 15, 2026, according to an SEC Form 4 filing. Transaction summary Key questions - Is this transaction indicative of a change in executive…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-20T23:39:18+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a3696bc02ee5",
+   "title": "Why Mara Holdings Stock Crushed the Market on Monday",
+   "link": "https://biztoc.com/x/287c68332f5ae3f3?ref=rss",
+   "summary": "One white-hot segment at the intersection of the tech and cryptocurrency sectors did very well for investors as the trading week kicked off. Crypto miners, which as a group have pushed harder into the lucrative field of data center operations, saw their stocks rise sharply on Monday. This rally,…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-20T23:39:13+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e8164fb47424",
+   "title": "More Costco members are paying double for one reason",
+   "link": "https://biztoc.com/x/060dfe71c5afb2c9?ref=rss",
+   "summary": "Costco shoppers are increasingly paying twice as much for membership, and the warehouse giant says it's because the extra perks now offer enough value to justify the higher price. The warehouse club's members are driven by value and data shows that the chain delivers, according to a study…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-20T23:39:09+00:00",
+   "tickers": [
+    "COST"
+   ]
+  },
+  {
+   "id": "28a7866f49b7",
+   "title": "California's New Insurance Bill Will Let Your Car Snitch on You — This Time With Paperwork",
+   "link": "https://biztoc.com/x/e4b08c4edabcb9c7?ref=rss",
+   "summary": "For twenty years, California has been the one state in the country where your auto insurer wasn't legally allowed to care how you actually drive. Not the smooth highway merges. Not the death-grip braking in stop-and-go traffic. None of it. That was never a technology problem. What AB 311 Actually…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-20T23:39:09+00:00",
+   "tickers": []
+  },
+  {
+   "id": "bd2aad9b5a4b",
+   "title": "Rosen Law Firm Encourages BlackRock, Inc. Mutual Fund Investors to Inquire About Securities Class Action Investigation",
+   "link": "https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-blackrock-inc-mutual-fund-investors-to-inquire-about-securities-class-action-investigation-302830072.html",
+   "summary": "NEW YORK, July 20, 2026 /PRNewswire/ -- Why: Rosen Law Firm, a global investor rights law firm, announces an investigation of potential securities claims on behalf of investors in BlackRock, Inc. mutual funds, resulting from allegations that BlackRock may have issued materially misleading...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "prnewswire.com",
+   "published": "2026-07-20T23:39:00+00:00",
+   "tickers": [
+    "BLK"
+   ]
+  },
+  {
+   "id": "892946f8205a",
+   "title": "Oh Dear, Condo Prices Fell by 15% to 33% in 30 Bigger Cities Already. Some Dropped Back to 2006 Levels",
+   "link": "https://biztoc.com/x/837d44758b36b3f7?ref=rss",
+   "summary": "In another 39 bigger cities, condo prices fell by 8% to 14%. A massive hangover after a historic Condo Bubble. By Wolf Richter for WOLF STREET. Condos have, let’s say, some issues after the breath-taking price explosions from mid-2020 to mid-2022 of 50%, 60%, or even 70% in some cities. In the 10…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-07-20T23:38:15+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ada73c616094",
+   "title": "This Dividend King Could Be One of the Safest Stocks to Own Right Now",
+   "link": "https://biztoc.com/x/7d51bc16d2211339?ref=rss",
+   "summary": "Choosing the right dividend stock isn’t just about chasing the highest yields. The best dividend stocks are often the ones that quietly raise their payouts year after year while continuing to grow the underlying business. This is precisely why Abbott Laboratories (ABT) has been a favorite among…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-07-20T23:38:06+00:00",
+   "tickers": [
+    "ABT"
+   ]
+  },
+  {
+   "id": "acaef6c3b047",
+   "title": "MAGA mouthpieces are taking issue with Trump’s self-dealing",
+   "link": "https://biztoc.com/x/f26163127362a2ab?ref=rss",
+   "summary": "Democrats appear to have new partners in calling out President Donald Trump’s alleged self-dealing in office: onetime MAGA mouthpieces. In recent weeks, key members of the MAGA media ecosystem have criticized the president and his family members for using the office of the presidency to enrich…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-20T23:38:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "8f1773dbe419",
+   "title": "Student Loan Defaults Hit Record High—What Struggling Borrowers Can Do",
+   "link": "https://biztoc.com/x/12a9f31051837649?ref=rss",
+   "summary": "A record number of federal student loan borrowers have fallen into default as pandemic-era protections fade and the Trump administration has moved away from Biden-era student loan forgiveness options. According to an AP analysis, roughly 9.5 million borrowers are now in default, up from 5.3…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-07-20T23:37:56+00:00",
+   "tickers": []
+  },
+  {
+   "id": "9e8b4a473a3e",
+   "title": "GOP Senator recites Declaration of Independence — next to a Confederate flag",
+   "link": "https://biztoc.com/x/acf16afdf3eecb5c?ref=rss",
+   "summary": "When Sen. Dan Sullivan, R-Alaska, took the stage during the recent July Fourth weekend to recite the Declaration of Independence, there was one notable image just steps away: the Confederate battle flag. Sullivan’s Senate campaign posted pictures on Facebook from the “America Comes Alive” event,…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-20T23:37:53+00:00",
+   "tickers": [
+    "META"
+   ]
+  },
+  {
+   "id": "690b99f84c41",
+   "title": "Americans are leaving their jobs for unexpected income stream",
+   "link": "https://biztoc.com/x/d9b4bc1d6883b44a?ref=rss",
+   "summary": "The usual path from paycheck to real estate income is easy to describe. Buy rentals, let the rent stack up month after month, and wait for the checks to grow big enough to walk away from the office. The math, while tantalizing on paper, often runs slower in practice. After the mortgage, taxes,…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-20T23:37:52+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b3785855b25e",
+   "title": "White House sends Congress stopgap exception wishlist",
+   "link": "https://biztoc.com/x/8093b8b7eeb99d5d?ref=rss",
+   "summary": "The White House sent Congress a list Monday of programs it wants lawmakers to fund at boosted levels under any stopgap funding patch enacted before the Sept. 30 government shutdown deadline. The list of requests for special exceptions, referred to as \"anomalies,\" calls on Congress to increase…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-20T23:37:50+00:00",
+   "tickers": []
+  },
+  {
+   "id": "579a15bd1c1c",
+   "title": "Airbus H1 deliveries up 15%, on track to meet FY goal- CEO to CNBC",
+   "link": "https://www.investing.com/news/stock-market-news/airbus-h1-deliveries-up-15-on-track-to-meet-fy-goal-ceo-to-cnbc-93CH-4801792",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-07-20T23:36:08+00:00",
+   "tickers": []
+  },
+  {
+   "id": "dc02c70e9eb1",
+   "title": "Diplomatic efforts seek to avert Trump split with UN refugee agency, sources say",
+   "link": "https://www.investing.com/news/world-news/diplomatic-efforts-seek-to-avert-trump-split-with-un-refugee-agency-sources-say-4801791",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-07-20T23:36:07+00:00",
+   "tickers": []
+  },
+  {
+   "id": "0ffaf423ed83",
+   "title": "Cotton Holding Higher at Monday’s Midday",
+   "link": "https://www.nasdaq.com/articles/cotton-holding-higher-mondays-midday",
+   "summary": "Cotton futures are up 34 to 63 points so at Monday’s midday. Crude oil is up another 24 cents per barrel, with the US dollar index up 0.239. Friday afternoon’s Commitment of Traders report showed managed money spec funds in cotton futures and options adding another 10,578 contracts to their...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-07-20T23:34:25+00:00",
+   "tickers": []
+  },
+  {
+   "id": "91910173cbe7",
+   "title": "Steel Dynamics: Tariff-Driven Boom Gains Momentum In Q2",
+   "link": "https://seekingalpha.com/article/4923583-steel-dynamics-tariff-driven-boom-gains-momentum-in-q2?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-20T23:32:21+00:00",
+   "tickers": [
+    "STLD"
+   ]
+  },
+  {
+   "id": "0a3ce592ffa3",
+   "title": "Telix Q2 Revenue US$247M, Strong Momentum and Pipeline Progress",
+   "link": "https://markets.businessinsider.com/news/stocks/telix-q2-revenue-us-247m-strong-momentum-and-pipeline-progress-1036343402",
+   "summary": "MELBOURNE, Australia and INDIANAPOLIS, July 21, 2026 (GLOBE NEWSWIRE) -- Telix Pharmaceuticals Limited (ASX: TLX, NASDAQ: TLX, \"Telix\") provides a market update on its commercial and operational performance for the quarter ended...",
+   "article_text": "",
+   "source": "Markets Insider",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "markets.businessinsider.com",
+   "published": "2026-07-20T23:31:42+00:00",
+   "tickers": []
+  },
+  {
+   "id": "eece51f6939e",
+   "title": "Icahn Enterprises to sell Pep Boys to Mavis in $700M deal: WSJ",
+   "link": "https://seekingalpha.com/news/4615645-icahn-enterprises-to-sell-pep-boys-to-mavis-in-700m-deal-wsj?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-20T23:31:04+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ae03d5be9458",
+   "title": "Trump says he had ’very good conversation’ with new British PM Burnham",
+   "link": "https://www.investing.com/news/world-news/trump-says-he-had-very-good-conversation-with-new-british-pm-burnham-4801790",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-07-20T23:31:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f40ef02c4e3a",
+   "title": "Telix Q2 Revenue US$247M, Strong Momentum and Pipeline Progress",
+   "link": "https://www.globenewswire.com/news-release/2026/07/20/3330166/0/en/Telix-Q2-Revenue-US-247M-Strong-Momentum-and-Pipeline-Progress.html",
+   "summary": "MELBOURNE, Australia and INDIANAPOLIS, July 21, 2026 (GLOBE NEWSWIRE) -- Telix Pharmaceuticals Limited (ASX: TLX, NASDAQ: TLX, “Telix”) provides a market update on its commercial and operational performance for the quarter ended June 30, 2026 (Q2 2026).",
+   "article_text": "",
+   "source": "GlobeNewswire",
+   "category": "press",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "globenewswire.com",
+   "published": "2026-07-20T23:31:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "3432a11aa195",
+   "title": "Monday 7/20 Insider Buying Report: ELV, FCEL",
+   "link": "https://www.nasdaq.com/articles/monday-7-20-insider-buying-report-elv-fcel",
+   "summary": "As the saying goes, there are many possible reasons for an insider to sell a stock, but only one reason to buy -- they expect to make money. So let's look at two noteworthy recent insider buys. At Elevance Health, a filing with the SEC revealed that on Friday, CEO Gail Boudrea",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-07-20T23:30:53+00:00",
+   "tickers": [
+    "ELV"
+   ]
+  },
+  {
+   "id": "3409d30c4fc3",
+   "title": "US DOJ says it is probing Harvard over financial aid programs",
+   "link": "https://www.investing.com/news/general-news/us-doj-says-it-is-probing-harvard-over-financial-aid-programs-4801694",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-07-20T23:30:45+00:00",
+   "tickers": []
+  },
+  {
+   "id": "3f68f75198fe",
+   "title": "US judge approves Anthropic’s $1.5 billion settlement of copyright lawsuit",
+   "link": "https://www.investing.com/news/stock-market-news/us-judge-approves-anthropics-15-billion-settlement-of-copyright-lawsuit-4801706",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-07-20T23:30:26+00:00",
+   "tickers": []
+  },
+  {
+   "id": "572209e847a3",
+   "title": "New Zealand Q2 inflation rises more than expected at 4.1%",
+   "link": "https://www.investing.com/news/stock-market-news/new-zealand-q2-inflation-rises-more-than-expected-at-41-93CH-4801789",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-07-20T23:30:06+00:00",
+   "tickers": []
+  },
+  {
+   "id": "0545213323ea",
+   "title": "Sequel Brands Launches MOVE Powered by SEQUELai, the Company's Sixth Brand and First Digital Wellness Platform",
+   "link": "https://www.prnewswire.com/news-releases/sequel-brands-launches-move-powered-by-sequelai-the-companys-sixth-brand-and-first-digital-wellness-platform-302830078.html",
+   "summary": "MOVE closes the gap between knowing what to do and actually doing it with an AI coach designed for everyone – not just people who already exercise. NEWPORT BEACH, Calif., July 20, 2026 /PRNewswire/ -- Sequel Brands today announced the launch of MOVE powered by SEQUELai, the company's...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "positive",
+   "domain": "prnewswire.com",
+   "published": "2026-07-20T23:30:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "aef06b261892",
+   "title": "Stocks Pressured as Middle East Hostilities Boost Inflation Risks",
+   "link": "https://www.nasdaq.com/articles/stocks-pressured-middle-east-hostilities-boost-inflation-risks",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) on Monday closed down -0.19%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -0.59%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +0.04%. September E-mini S&P futures (ESU26 ) fell -0.20%, and September E-mini Nasdaq futures...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-07-20T23:29:05+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
+  },
+  {
+   "id": "33bfe0d7e29f",
+   "title": "Wheat Facing Mixed Action at Midday",
+   "link": "https://www.nasdaq.com/articles/wheat-facing-mixed-action-midday",
+   "summary": "The wheat complex is mixed on Monday, with winter wheat facing weakness. Chicago SRW contracts are 4 to 5 cents in the red. KC HRW futures are down 4 to 5 cents. MPLS spring wheat is the stronger point of the complex, up 1 to 2 cents. USDA’s FGIS tallied...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-07-20T23:29:04+00:00",
+   "tickers": []
+  },
   {
    "id": "397e1cd1114d",
    "title": "Rosen Law Firm Encourages Alarum Technologies Ltd. Investors to Inquire About Securities Class Action Investigation - ALAR",
@@ -15,6 +538,34 @@
    "sentiment": "negative",
    "domain": "prnewswire.com",
    "published": "2026-07-20T23:27:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "3f2cb6b1f667",
+   "title": "What This MannKind Sale Signals With Tyvaso Royalties at $32.7 Million",
+   "link": "https://www.nasdaq.com/articles/what-mannkind-sale-signals-tyvaso-royalties-327-million",
+   "summary": "Key PointsDavid Thomson disposed of 123,000 shares at $4.08 per share, representing a total transaction value of about $500,000.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-07-20T23:25:19+00:00",
+   "tickers": []
+  },
+  {
+   "id": "971986c73219",
+   "title": "Columbia Financial completes conversion, Northfield merger",
+   "link": "https://www.investing.com/news/company-news/columbia-financial-completes-conversion-northfield-merger-93CH-4801788",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-07-20T23:25:01+00:00",
    "tickers": []
   },
   {
@@ -60,6 +611,23 @@
    "domain": "biztoc.com",
    "published": "2026-07-20T23:24:21+00:00",
    "tickers": []
+  },
+  {
+   "id": "1c3896346ae3",
+   "title": "See Which Recent 13F Filers Hold IVV But Koa Wealth Management Exited",
+   "link": "https://www.nasdaq.com/articles/see-which-recent-13f-filers-hold-ivv-koa-wealth-management-exited",
+   "summary": "At Holdings Channel, we have reviewed the latest batch of the 58 most recent 13F filings for the 06/30/2026 reporting period, and noticed that iShares Trust - Core S&P 500 Exchange Traded Fund (Symbol: IVV) was held by 39 of these funds. When hedge fund managers appear to be",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-07-20T23:24:16+00:00",
+   "tickers": [
+    "IAGG",
+    "IVV"
+   ]
   },
   {
    "id": "8b79d90e061b",
@@ -253,6 +821,22 @@
    "tickers": []
   },
   {
+   "id": "1b903752b48c",
+   "title": "Columbia Financial, Inc. Announces Completion of Second Step Conversion and $1.7 Billion Stock Offering and Acquisition of Northfield Bancorp, Inc.",
+   "link": "https://markets.businessinsider.com/news/stocks/columbia-financial-inc-announces-completion-of-second-step-conversion-and-1-7-billion-stock-offering-and-acquisition-of-northfield-bancorp-inc-1036343386",
+   "summary": "FAIR LAWN, N.J., July 20, 2026 (GLOBE NEWSWIRE) -- Columbia Financial, Inc., (Nasdaq Global Select Market: CLBK), (the \"Company\" or \"Columbia\"), a Maryland corporation and the successor to Columbia Financial, Inc., a Delaware corporation (the...",
+   "article_text": "",
+   "source": "Markets Insider",
+   "category": "stocks",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "markets.businessinsider.com",
+   "published": "2026-07-20T23:21:13+00:00",
+   "tickers": [
+    "NDAQ"
+   ]
+  },
+  {
    "id": "ba8ba2fd40d6",
    "title": "Columbia Financial, Inc. Announces Completion of Second Step Conversion and $1.7 Billion Stock Offering and Acquisition of Northfield Bancorp, Inc.",
    "link": "https://www.globenewswire.com/news-release/2026/07/20/3330165/0/en/Columbia-Financial-Inc-Announces-Completion-of-Second-Step-Conversion-and-1-7-Billion-Stock-Offering-and-Acquisition-of-Northfield-Bancorp-Inc.html",
@@ -266,6 +850,112 @@
    "published": "2026-07-20T23:21:00+00:00",
    "tickers": [
     "NDAQ"
+   ]
+  },
+  {
+   "id": "f9c6ff2a80c5",
+   "title": "Innodata: A Potential High-Risk, High-Reward Play in AI",
+   "link": "https://www.nasdaq.com/articles/innodata-potential-high-risk-high-reward-play-ai",
+   "summary": "Explore the exciting world of Innodata (NASDAQ: INOD) with our contributing expert analysts in this Motley Fool Scoreboard episode. Check out the video below to gain valuable insights into market trends and potential investment opportunities!*Stock prices used were the prices of",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-07-20T23:20:00+00:00",
+   "tickers": [
+    "INOD"
+   ]
+  },
+  {
+   "id": "4b1f01b72687",
+   "title": "Hogs Trading Mixed on Monday",
+   "link": "https://www.nasdaq.com/articles/hogs-trading-mixed-monday",
+   "summary": "Lean hog futures are mixed at midday, with most contracts within 35 cents of unchanged. USDA’s national base hog price was not reported on Monday morning due to low volume. The CME Lean Hog Index was 50 cents higher on July 15 at $95.10. The weekly CFTC Commitment of Traders...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-07-20T23:18:54+00:00",
+   "tickers": [
+    "CME"
+   ]
+  },
+  {
+   "id": "f493fb45836d",
+   "title": "Dollar Strength Weighs on Cocoa Prices",
+   "link": "https://www.nasdaq.com/articles/dollar-strength-weighs-cocoa-prices-0",
+   "summary": "September ICE NY cocoa (CCU26 ) is down -14 (-0.25%), and September ICE London cocoa #7 (CAU26 ) is down -1 (-0.02%). Cocoa prices are under slight pressure today amid a stronger dollar, which is weighing on most commodities. settled sharply higher on Friday as short covering emerged after North...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-07-20T23:18:54+00:00",
+   "tickers": [
+    "ICE"
+   ]
+  },
+  {
+   "id": "c9938014f539",
+   "title": "Trump says he had ’very good conversation’ with new UK Prime Minister",
+   "link": "https://www.investing.com/news/stock-market-news/trump-says-he-had-very-good-conversation-with-new-uk-prime-minister-93CH-4801786",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-07-20T23:18:41+00:00",
+   "tickers": []
+  },
+  {
+   "id": "3fe4ccfd3dc7",
+   "title": "Steady Start Called For Japan Stock Market",
+   "link": "https://www.nasdaq.com/articles/steady-start-called-japan-stock-market",
+   "summary": "(RTTNews) - Ahead of Monday's market holiday for Marine day, the Japanese stock market had moved lower in two straight sessions, plummeting more than 4,600 points or 7 percent along the way. The Nikkei 225 now sits just above the 64,140-point plateau although it may find traction",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-07-20T23:18:10+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c0a67b0a0b2e",
+   "title": "Why Mara Holdings Stock Crushed the Market on Monday",
+   "link": "https://www.nasdaq.com/articles/why-mara-holdings-stock-crushed-market-monday",
+   "summary": "Key PointsThis had almost nothing to do with traditional business, however.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-07-20T23:17:23+00:00",
+   "tickers": []
+  },
+  {
+   "id": "41438a8cb8f1",
+   "title": "ROSEN, NATIONAL INVESTOR COUNSEL, Encourages Peabody Energy Corporation Investors to Secure Counsel Before Important Deadline in Securities Class Action - BTU",
+   "link": "https://markets.businessinsider.com/news/stocks/rosen-national-investor-counsel-encourages-peabody-energy-corporation-investors-to-secure-counsel-before-important-deadline-in-securities-class-action-btu-1036343385",
+   "summary": "New York, New York--(Newsfile Corp. - July 20, 2026) - WHY: Rosen Law Firm, a global investor rights law firm, reminds purchasers of common stock of Peabody Energy Corporation (NYSE: BTU) between...",
+   "article_text": "",
+   "source": "Markets Insider",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "markets.businessinsider.com",
+   "published": "2026-07-20T23:16:00+00:00",
+   "tickers": [
+    "BTU"
    ]
   },
   {
@@ -285,6 +975,20 @@
    ]
   },
   {
+   "id": "654a592beaf3",
+   "title": "Why This MannKind Insider Stock Sale Matters Less Than a 9% Royalty at Risk",
+   "link": "https://www.nasdaq.com/articles/why-mannkind-insider-stock-sale-matters-less-9-royalty-risk",
+   "summary": "Key PointsThis filing reported an insider's total disposition of 65,808 shares for an estimated value of $269,000 based on the July 15, 2026 market close.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-07-20T23:15:12+00:00",
+   "tickers": []
+  },
+  {
    "id": "71420270eb44",
    "title": "Rosen Law Firm Encourages Putnam Investment Management, LLC Mutual Fund Investors to Inquire About Securities Class Action Investigation",
    "link": "https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-putnam-investment-management-llc-mutual-fund-investors-to-inquire-about-securities-class-action-investigation-302830056.html",
@@ -297,6 +1001,22 @@
    "domain": "prnewswire.com",
    "published": "2026-07-20T23:15:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "eb2939fc01b1",
+   "title": "Coffee Prices Supported by Delay of Brazil’s Coffee Harvest",
+   "link": "https://www.nasdaq.com/articles/coffee-prices-supported-delay-brazils-coffee-harvest",
+   "summary": "September arabica coffee (KCU26 ) today is up +3.90 (+1.22%), and September ICE robusta coffee (RMU26 ) is up +4 (+0.10%). Coffee prices are moving higher today amid a delay in Brazil’s coffee harvest. Last Friday, Safras & Mercado reported that Brazil’s 2026/27 coffee harvest is 64% complete as of...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-07-20T23:15:00+00:00",
+   "tickers": [
+    "ICE"
+   ]
   },
   {
    "id": "2c6b0797949c",
@@ -365,22 +1085,6 @@
    ]
   },
   {
-   "id": "a1d110467b2c",
-   "title": "Delays to Brazil’s Harvest Push Coffee Prices Higher",
-   "link": "https://www.nasdaq.com/articles/delays-brazils-harvest-push-coffee-prices-higher",
-   "summary": "September arabica coffee (KCU26 ) on Monday closed up +4.25 (+1.33%), and September ICE robusta coffee (RMU26 ) closed up +7 (+0.18%). Coffee prices moved higher on Monday amid a delay in Brazil’s coffee harvest. Last Friday, Safras & Mercado reported that Brazil’s 2026/27 coffee harvest is 64% complete as...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-07-20T23:09:12+00:00",
-   "tickers": [
-    "ICE"
-   ]
-  },
-  {
    "id": "f86a6c4ad02b",
    "title": "Dollar Supported by Higher T-Note Yields and Crude Prices",
    "link": "https://www.nasdaq.com/articles/dollar-supported-higher-t-note-yields-and-crude-prices",
@@ -393,25 +1097,6 @@
    "domain": "nasdaq.com",
    "published": "2026-07-20T23:09:12+00:00",
    "tickers": []
-  },
-  {
-   "id": "aef06b261892",
-   "title": "Stocks Pressured as Middle East Hostilities Boost Inflation Risks",
-   "link": "https://www.nasdaq.com/articles/stocks-pressured-middle-east-hostilities-boost-inflation-risks",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) on Monday closed down -0.19%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -0.59%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +0.04%. September E-mini S&P futures (ESU26 ) fell -0.20%, and September E-mini Nasdaq futures...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-07-20T23:09:12+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
-   ]
   },
   {
    "id": "6db3f87d9b30",
@@ -690,6 +1375,34 @@
    "tickers": []
   },
   {
+   "id": "207300af9996",
+   "title": "UPDATE: Conceivable Life Sciences Strengthens Senior Leadership Team to Support IVI RMA Partnership and U.S. Launch",
+   "link": "https://markets.businessinsider.com/news/stocks/update-conceivable-life-sciences-strengthens-senior-leadership-team-to-support-ivi-rma-partnership-and-u-s-launch-1036343375",
+   "summary": "NEW YORK, July 20, 2026 (GLOBE NEWSWIRE) -- Conceivable Life Sciences, the company behind the world's first automation-assisted IVF lab, AURA, today announced two senior leadership appointments: Julie O'Shaughnessy as President and Vincent Payet...",
+   "article_text": "",
+   "source": "Markets Insider",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "markets.businessinsider.com",
+   "published": "2026-07-20T23:06:55+00:00",
+   "tickers": []
+  },
+  {
+   "id": "539601e31165",
+   "title": "Viriora Integrates Conversational AI Into Its Platform, Giving Clients Scenario Analysis and Risk Modelling",
+   "link": "https://markets.businessinsider.com/news/stocks/viriora-integrates-conversational-ai-into-its-platform-giving-clients-scenario-analysis-and-risk-modelling-1036343374",
+   "summary": "<img alt=\"Viriora_17845563202fmKYeLy2U-915x513\" height=\"336\" src=\"https://ml.globenewswire.com/Resource/Download/1b2bccc7-5a0e-4547-afd8-39a354445860/viriora-17845563202fmkyely2u-915x513.jpeg\" width=\"600\" data-dpi=\"96\"...",
+   "article_text": "",
+   "source": "Markets Insider",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "markets.businessinsider.com",
+   "published": "2026-07-20T23:06:42+00:00",
+   "tickers": []
+  },
+  {
    "id": "167fafa4b793",
    "title": "William R. Timmons IV invests in SpaceX, transaction valued up to $100,000",
    "link": "https://www.investing.com/news/company-news/william-r-timmons-iv-invests-in-spacex-transaction-valued-up-to-100000-93CH-4801785",
@@ -720,25 +1433,6 @@
    "tickers": []
   },
   {
-   "id": "11d778856eaf",
-   "title": "Broader Market Boosted by Chipmaker Strength",
-   "link": "https://www.nasdaq.com/articles/broader-market-boosted-chipmaker-strength",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) today is up +0.17%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.34%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +0.51%. September E-mini S&P futures (ESU26 ) are up +0.20%, and September E-mini Nasdaq futures...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-07-20T23:04:28+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
-   ]
-  },
-  {
    "id": "8bdb12978754",
    "title": "ICOHS College VET TEC 2.0 Approval, Opening a Faster, Simpler Path to IT Careers",
    "link": "https://www.prnewswire.com/news-releases/icohs-college-vet-tec-2-0-approval-opening-a-faster-simpler-path-to-it-careers-302830057.html",
@@ -750,6 +1444,20 @@
    "sentiment": "neutral",
    "domain": "prnewswire.com",
    "published": "2026-07-20T23:04:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "00ede8094348",
+   "title": "Bargain Hunting May Boost South Korea Shares",
+   "link": "https://www.nasdaq.com/articles/bargain-hunting-may-boost-south-korea-shares",
+   "summary": "(RTTNews) - The South Korea stock market has moved lower in back-to-back sessions, crashing more than 750 points or 11 percent in that span. The KOSPI now sits just above the 6,515-point plateau although it's likely to see at least a technical rebound on Tuesday.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-07-20T23:03:10+00:00",
    "tickers": []
   },
   {
@@ -958,6 +1666,36 @@
    "tickers": []
   },
   {
+   "id": "8fe697ef268e",
+   "title": "Quantum BioPharma Announces Intention to Settle Debt",
+   "link": "https://markets.businessinsider.com/news/stocks/quantum-biopharma-announces-intention-to-settle-debt-1036343371",
+   "summary": "THIS NEWS RELEASE IS INTENDED FOR DISTRIBUTION IN CANADA ONLY AND IS NOT INTENDED FOR DISTRIBUTION TO UNITED STATES NEWSWIRE SERVICES OR DISSEMINATION IN THE UNITED STATES.TORONTO, July 20, 2026 (GLOBE...",
+   "article_text": "",
+   "source": "Markets Insider",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "markets.businessinsider.com",
+   "published": "2026-07-20T23:00:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "51a7739a8f36",
+   "title": "FY26 Group production guidance delivered, record cashflow and maiden dividend proposed",
+   "link": "https://markets.businessinsider.com/news/stocks/fy26-group-production-guidance-delivered-record-cashflow-and-maiden-dividend-proposed-1036343372",
+   "summary": "PERTH, Australia, July 20, 2026 (GLOBE NEWSWIRE) -- Alkane Resources Limited (ASX:ALK; TSX:ALK; OTCQX:ALKRY) (‘Alkane’ or ‘the Company’) is pleased to present its Quarterly Activities Report for the period ending 30 June 2026...",
+   "article_text": "",
+   "source": "Markets Insider",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "markets.businessinsider.com",
+   "published": "2026-07-20T22:59:54+00:00",
+   "tickers": [
+    "ALK"
+   ]
+  },
+  {
    "id": "168496e6caa5",
    "title": "What This Paychex Insider Sale Signals With Shares Down 20% in a Year — But Up 20% Since Earnings",
    "link": "https://www.nasdaq.com/articles/what-paychex-insider-sale-signals-shares-down-20-year-20-earnings",
@@ -986,22 +1724,6 @@
    "domain": "globenewswire.com",
    "published": "2026-07-20T22:59:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "e4d17f0e4790",
-   "title": "Cocoa Prices Pressured by Dollar Strength and Rising ICE Inventories",
-   "link": "https://www.nasdaq.com/articles/cocoa-prices-pressured-dollar-strength-and-rising-ice-inventories",
-   "summary": "September ICE NY cocoa (CCU26 ) on Monday closed down -13 (-0.23%), and September ICE London cocoa #7 (CAU26 ) closed up +1 (+0.02%). Cocoa prices were under modest pressure on Monday amid a stronger dollar, which weighed on most commodities. Also, rising cocoa inventories are bearish for prices after...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-07-20T22:58:57+00:00",
-   "tickers": [
-    "ICE"
-   ]
   },
   {
    "id": "78c945d7d969",
@@ -1106,38 +1828,6 @@
    "domain": "marketwatch.com",
    "published": "2026-07-20T22:55:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "4b1f01b72687",
-   "title": "Hogs Trading Mixed on Monday",
-   "link": "https://www.nasdaq.com/articles/hogs-trading-mixed-monday",
-   "summary": "Lean hog futures are mixed at midday, with most contracts within 35 cents of unchanged. USDA’s national base hog price was not reported on Monday morning due to low volume. The CME Lean Hog Index was 50 cents higher on July 15 at $95.10. The weekly CFTC Commitment of Traders...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-07-20T22:53:54+00:00",
-   "tickers": [
-    "CME"
-   ]
-  },
-  {
-   "id": "f493fb45836d",
-   "title": "Dollar Strength Weighs on Cocoa Prices",
-   "link": "https://www.nasdaq.com/articles/dollar-strength-weighs-cocoa-prices-0",
-   "summary": "September ICE NY cocoa (CCU26 ) is down -14 (-0.25%), and September ICE London cocoa #7 (CAU26 ) is down -1 (-0.02%). Cocoa prices are under slight pressure today amid a stronger dollar, which is weighing on most commodities. settled sharply higher on Friday as short covering emerged after North...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-07-20T22:53:54+00:00",
-   "tickers": [
-    "ICE"
-   ]
   },
   {
    "id": "7ea48d2f42e5",
@@ -1443,7 +2133,7 @@
    "link": "https://www.prnewswire.com/news-releases/mountain-and-off-grid-living-explained-in-hellonation-featuring-real-estate-expert-shawna-norry-302750920.html",
    "summary": "The article outlines how power systems, water access, and seasonal conditions shape daily life in homes across northwest Montana. LIBBY, Mont., July 20, 2026 /PRNewswire/ -- What should buyers understand before choosing a home in Montana's mountain and off-grid regions? HelloNation has...",
    "article_text": "",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -1596,6 +2286,20 @@
    "tickers": []
   },
   {
+   "id": "a13296c520c2",
+   "title": "Monarch Casino (MCRI) Q2 Earnings and Revenues Top Estimates",
+   "link": "https://www.nasdaq.com/articles/monarch-casino-mcri-q2-earnings-and-revenues-top-estimates",
+   "summary": "Monarch Casino (MCRI) delivered earnings and revenue surprises of +1.71% and +2.07%, respectively, for the quarter ended June 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-07-20T22:35:02+00:00",
+   "tickers": []
+  },
+  {
    "id": "23b22f51a2ea",
    "title": "Yerba Madre Appoints Steve Lesnard as Chief Executive Officer",
    "link": "https://www.prnewswire.com/news-releases/yerba-madre-appoints-steve-lesnard-as-chief-executive-officer-302830047.html",
@@ -1607,6 +2311,36 @@
    "sentiment": "neutral",
    "domain": "prnewswire.com",
    "published": "2026-07-20T22:35:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "7d9bec5f01ef",
+   "title": "Namibia Critical Metals Launches Next Phase of Lofdal Definitive Feasibility Study Including Further Value Addition in Namibia",
+   "link": "https://markets.businessinsider.com/news/stocks/namibia-critical-metals-launches-next-phase-of-lofdal-definitive-feasibility-study-including-further-value-addition-in-namibia-1036343343",
+   "summary": "Joint Management Committee approves approximately C$11 million in additional funding as Lofdal enters major metallurgical execution phase supporting downstream rare earth processing...",
+   "article_text": "",
+   "source": "Markets Insider",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "markets.businessinsider.com",
+   "published": "2026-07-20T22:33:00+00:00",
+   "tickers": [
+    "CRML"
+   ]
+  },
+  {
+   "id": "3fa447aafbdc",
+   "title": "ROSEN, HIGHLY RECOGNIZED INVESTOR COUNSEL, Encourages Black Rock Coffee Bar, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - BRCB",
+   "link": "https://markets.businessinsider.com/news/stocks/rosen-highly-recognized-investor-counsel-encourages-black-rock-coffee-bar-inc.-investors-to-secure-counsel-before-important-deadline-in-securities-class-action-brcb-1036343344",
+   "summary": "New York, New York--(Newsfile Corp. - July 20, 2026) - WHY: Rosen Law Firm, a global investor rights law firm, reminds purchasers of Black Rock Coffee Bar, Inc. (NASDAQ: BRCB): (i) Class A common...",
+   "article_text": "",
+   "source": "Markets Insider",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "markets.businessinsider.com",
+   "published": "2026-07-20T22:33:00+00:00",
    "tickers": []
   },
   {
@@ -1657,7 +2391,7 @@
    "link": "https://www.prnewswire.com/news-releases/new-real-estate-platform-montrealhomeappraisalcom-challenges-speculative-valuations-as-average-montreal-home-prices-top-1m-302830044.html",
    "summary": "MONTREAL, July 20, 2026 /PRNewswire/ -- As the Montreal housing market enters a pivotal spring season with average sold prices reaching $1,008,234 (CTV News), a new platform is launching to bridge the gap between market speculation and household reality. Co name has released a new suite...",
    "article_text": "",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "positive",
@@ -1726,38 +2460,6 @@
    "published": "2026-07-20T22:28:00+00:00",
    "tickers": [
     "MSFT"
-   ]
-  },
-  {
-   "id": "464ee9b45b99",
-   "title": "Sugar Prices Consolidate Recent Losses",
-   "link": "https://www.nasdaq.com/articles/sugar-prices-consolidate-recent-losses-0",
-   "summary": "October NY world sugar #11 (SBV26 ) on Monday closed down -0.01 (-0.13%), and October London ICE white sugar #5 (SWV26 ) closed down -2.70 (-0.57%). Sugar prices posted modest losses on Monday as they consolidated above last Thursday’s 3-week low. Prices fell to that 3-week low amid an improvement...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-07-20T22:27:30+00:00",
-   "tickers": [
-    "ICE"
-   ]
-  },
-  {
-   "id": "eb2939fc01b1",
-   "title": "Coffee Prices Supported by Delay of Brazil’s Coffee Harvest",
-   "link": "https://www.nasdaq.com/articles/coffee-prices-supported-delay-brazils-coffee-harvest",
-   "summary": "September arabica coffee (KCU26 ) today is up +3.90 (+1.22%), and September ICE robusta coffee (RMU26 ) is up +4 (+0.10%). Coffee prices are moving higher today amid a delay in Brazil’s coffee harvest. Last Friday, Safras & Mercado reported that Brazil’s 2026/27 coffee harvest is 64% complete as of...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-07-20T22:27:29+00:00",
-   "tickers": [
-    "ICE"
    ]
   },
   {
@@ -2740,23 +3442,18 @@
    "tickers": []
   },
   {
-   "id": "79e0acc32d54",
-   "title": "Stocks Edge Higher as Chipmakers Rebound",
-   "link": "https://www.nasdaq.com/articles/stocks-edge-higher-chipmakers-rebound-0",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) today is up +0.46%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.14%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +0.86%. September E-mini S&P futures (ESU26 ) are up +0.43%, and September E-mini Nasdaq futures...",
+   "id": "7fe73aadecfa",
+   "title": "ROSEN, TRUSTED INVESTOR COUNSEL, Encourages Embecta Corp. Investors to Secure Counsel Before Important Deadline in Securities Class Action - EMBC",
+   "link": "https://markets.businessinsider.com/news/stocks/rosen-trusted-investor-counsel-encourages-embecta-corp.-investors-to-secure-counsel-before-important-deadline-in-securities-class-action-embc-1036323966",
+   "summary": "New York, New York--(Newsfile Corp. - July 20, 2026) - WHY: Rosen Law Firm, a global investor rights law firm, reminds purchasers of common stock of Embecta Corp. (NASDAQ: EMBC) between November 25,...",
    "article_text": "",
-   "source": "NASDAQ Stocks",
+   "source": "Markets Insider",
    "category": "stocks",
    "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-07-20T22:03:51+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
-   ]
+   "sentiment": "positive",
+   "domain": "markets.businessinsider.com",
+   "published": "2026-07-20T22:05:00+00:00",
+   "tickers": []
   },
   {
    "id": "7a7e2b5efa58",
@@ -2803,20 +3500,6 @@
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
    "published": "2026-07-20T22:00:42+00:00",
-   "tickers": []
-  },
-  {
-   "id": "3409d30c4fc3",
-   "title": "US DOJ says it is probing Harvard over financial aid programs",
-   "link": "https://www.investing.com/news/general-news/us-doj-says-it-is-probing-harvard-over-financial-aid-programs-4801694",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-20T22:00:28+00:00",
    "tickers": []
   },
   {
@@ -3417,20 +4100,6 @@
    "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-07-20T21:49:11+00:00",
-   "tickers": []
-  },
-  {
-   "id": "3f68f75198fe",
-   "title": "US judge approves Anthropic’s $1.5 billion settlement of copyright lawsuit",
-   "link": "https://www.investing.com/news/stock-market-news/us-judge-approves-anthropics-15-billion-settlement-of-copyright-lawsuit-4801706",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-07-20T21:48:33+00:00",
    "tickers": []
   },
   {
@@ -8077,20 +8746,6 @@
    ]
   },
   {
-   "id": "33bfe0d7e29f",
-   "title": "Wheat Facing Mixed Action at Midday",
-   "link": "https://www.nasdaq.com/articles/wheat-facing-mixed-action-midday",
-   "summary": "The wheat complex is mixed on Monday, with winter wheat facing weakness. Chicago SRW contracts are 4 to 5 cents in the red. KC HRW futures are down 4 to 5 cents. MPLS spring wheat is the stronger point of the complex, up 1 to 2 cents. USDA’s FGIS tallied...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-07-20T20:27:10+00:00",
-   "tickers": []
-  },
-  {
    "id": "8c74b798a32e",
    "title": "JetZero explores up to $3 billion in EXIM financing for North Carolina factory",
    "link": "https://seekingalpha.com/news/4615578-jetzero-explores-up-to-3-billion-in-exim-financing-for-north-carolina-factory?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -8227,719 +8882,37 @@
    "tickers": [
     "SPCX"
    ]
-  },
-  {
-   "id": "bcff6f2a7ff2",
-   "title": "Baytex Energy: Reverse Luck",
-   "link": "https://seekingalpha.com/article/4923562-baytex-energy-reverse-luck?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-20T20:23:01+00:00",
-   "tickers": [
-    "BTE"
-   ]
-  },
-  {
-   "id": "1f906f5181fe",
-   "title": "ROYAL CARIBBEAN GROUP APPOINTS TARA BUNCH TO BOARD OF DIRECTORS",
-   "link": "https://www.prnewswire.com/news-releases/royal-caribbean-group-appoints-tara-bunch-to-board-of-directors-302829968.html",
-   "summary": "MIAMI, July 20, 2026 /PRNewswire/ -- Royal Caribbean Group (NYSE: RCL) today announced the appointment of Tara Bunch, former Senior Vice President and Global Head of Operations at Airbnb, to its Board of Directors. Bunch brings more than three decades of experience scaling global...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-07-20T20:23:00+00:00",
-   "tickers": [
-    "RCL",
-    "ABNB"
-   ]
-  },
-  {
-   "id": "1348ea6cefcd",
-   "title": "Apple Faces Margin Test Before Earnings",
-   "link": "https://biztoc.com/x/6dd4ae8adaa69f3f?ref=rss",
-   "summary": "This article first appeared on GuruFocus. Apple (NASDAQ:AAPL) heads into fiscal third-quarter earnings with Bank of America expecting a modest beat, even as weaker product margins and a staggered iPhone launch create some near-term pressure. BofA reiterated its Buy rating and $380 price target.…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-07-20T20:22:49+00:00",
-   "tickers": [
-    "AAPL",
-    "BAC"
-   ]
-  },
-  {
-   "id": "bb72b27b82ee",
-   "title": "Bristol Myers Expands NVIDIA Partnership to Build Top Life Sciences AI Supercomputer",
-   "link": "https://biztoc.com/x/d9993fa24e9e4c13?ref=rss",
-   "summary": "This article first appeared on GuruFocus. Bristol Myers Squibb (NYSE:BMY), a drugmaker focused on creating new medicines, is expanding its three-year partnership with Nvidia, a chipmaker providing artificial intelligence computing technology, to increase the power of its AI factory. Bristol Myers…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-07-20T20:22:45+00:00",
-   "tickers": [
-    "BMY",
-    "NVDA"
-   ]
-  },
-  {
-   "id": "e46920eca36e",
-   "title": "Boeing, Airbus Delivery Delays May Persist Another Five Years, BA Warns",
-   "link": "https://biztoc.com/x/4721da36efb09092?ref=rss",
-   "summary": "This article first appeared on GuruFocus. British Airways, the UK flagship carrier owned by airline group IAG, expects aircraft delivery delays from Boeing (NYSE:BA), a commercial aircraft manufacturer, and Airbus (EADSY), a European aircraft manufacturer, to continue affecting its fleet plans for…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-07-20T20:22:41+00:00",
-   "tickers": [
-    "BA",
-    "IAG"
-   ]
-  },
-  {
-   "id": "9b0e8b3d24dd",
-   "title": "8-K - CROWN HOLDINGS, INC. (0001219601) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1219601/000162828026048820/0001628280-26-048820-index.htm",
-   "summary": "Filed: 2026-07-20 AccNo: 0001628280-26-048820 Size: 525 KB Item 2.02: Results of Operations and Financial Condition Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-07-20T20:22:23+00:00",
-   "tickers": []
-  },
-  {
-   "id": "1c1247a0c125",
-   "title": "Lumentum Just Scored a New Upgrade. Here's What to Know",
-   "link": "https://biztoc.com/x/46d9eefb2e804436?ref=rss",
-   "summary": "stock is extending gains on Monday after a senior Barclays analyst issued a bullish note in favor of the semiconductor equipment specialist. In a research note on July 20, Tom O’Malley upgraded LITE to “Overweight” and maintained a bold $1,000 price target, indicating potential upside of nearly…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-07-20T20:22:07+00:00",
-   "tickers": [
-    "LITE",
-    "BCS"
-   ]
-  },
-  {
-   "id": "afdbf7bbe905",
-   "title": "8-K - Blue Owl Real Estate Net Lease Trust (0001944366) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1944366/000194436626000058/0001944366-26-000058-index.htm",
-   "summary": "Filed: 2026-07-20 AccNo: 0001944366-26-000058 Size: 175 KB Item 3.02: Unregistered Sales of Equity Securities Item 8.01: Other Events",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-07-20T20:22:05+00:00",
-   "tickers": [
-    "OWL"
-   ]
-  },
-  {
-   "id": "c9e5fe16a7b0",
-   "title": "Sharon AI Sends Massive Market Signal With $1.32 Billion Deal. How to Play SHAZ Stock Here",
-   "link": "https://biztoc.com/x/bd6a5a11c8b86e44?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-07-20T20:22:04+00:00",
-   "tickers": []
-  },
-  {
-   "id": "de73137e7433",
-   "title": "Csquare: Debt-Loaded Datacenter IPO Encounters Market Resistance",
-   "link": "https://seekingalpha.com/article/4923561-csquare-debt-loaded-datacenter-ipo-encounters-market-resistance?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "offering",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-20T20:21:52+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6f0f42408c7f",
-   "title": "MGX Resources Limited (MTGRY) Q4 2026 Earnings Call Transcript",
-   "link": "https://seekingalpha.com/article/4923569-mgx-resources-limited-mtgry-q4-2026-earnings-call-transcript?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-20T20:21:41+00:00",
-   "tickers": []
-  },
-  {
-   "id": "24b847e559a6",
-   "title": "8-K - FIRST UNITED CORP/MD/ (0000763907) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/763907/000110465926085078/0001104659-26-085078-index.htm",
-   "summary": "Filed: 2026-07-20 AccNo: 0001104659-26-085078 Size: 11 MB Item 2.02: Results of Operations and Financial Condition Item 7.01: Regulation FD Disclosure Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-07-20T20:21:35+00:00",
-   "tickers": []
-  },
-  {
-   "id": "94643375b13f",
-   "title": "Judge halts Paramount-Warner’s $81 billion merger for two weeks after states warn it would ‘extinguish competition’",
-   "link": "https://biztoc.com/x/78edf5cfb74d9e6c?ref=rss",
-   "summary": "A federal judge on Monday ordered Paramount and Warner Bros. Discovery to halt their $81 billion merger for at least two weeks, allowing states that are challenging the deal more time to see their case through in court. Twelve states, led by California, sued to block Paramount’s pending buyout of…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "ma",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-07-20T20:21:03+00:00",
-   "tickers": [
-    "WBD",
-    "PARA"
-   ]
-  },
-  {
-   "id": "beac7368112b",
-   "title": "‘When Should I Claim Social Security?’ 4 Factors to Consider",
-   "link": "https://biztoc.com/x/d8ca5ca52ae720c2?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-07-20T20:20:59+00:00",
-   "tickers": []
-  },
-  {
-   "id": "00b5e584dca7",
-   "title": "8-K - Public Storage (0001393311) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1393311/000119312526308951/0001193125-26-308951-index.htm",
-   "summary": "Filed: 2026-07-20 AccNo: 0001193125-26-308951 Size: 617 KB Item 1.01: Entry into a Material Definitive Agreement Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-07-20T20:20:56+00:00",
-   "tickers": [
-    "PSA"
-   ]
-  },
-  {
-   "id": "22409036151a",
-   "title": "Thune withholds a South Carolina Senate endorsement while complimenting Graham",
-   "link": "https://biztoc.com/x/5d466a867644dee1?ref=rss",
-   "summary": "Senate Majority Leader John Thune said Monday he is not endorsing a candidate in the South Carolina race to succeed the late Sen. Lindsey Graham, but believes his sister, Sen. Darline Graham, would be a “strong candidate.” “She obviously carries on Lindsey’s legacy. But I think she's a very…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-07-20T20:20:54+00:00",
-   "tickers": []
-  },
-  {
-   "id": "db28f920964f",
-   "title": "Bull Market for Stocks Puts Wind in Charles Schwab’s Sails. How That Will Impact Earnings",
-   "link": "https://biztoc.com/x/6594a7706bc2eafa?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-07-20T20:20:53+00:00",
-   "tickers": [
-    "SCHW",
-    "SCHF"
-   ]
-  },
-  {
-   "id": "b20af70548d4",
-   "title": "Get Borderlands 3, Risk of Rain 2 and 13 other great PC games for $15",
-   "link": "https://biztoc.com/x/30574ffa8d98635a?ref=rss",
-   "summary": "The aptly-named “2K Megahits 2026 Bundle” from Humble includes 15 Steam games for $15. It’s a smattering of the publisher 2K’s biggest games of the 2010s, including BioShock Infinite, Risk of Rain 2, Borderlands 3, and XCOM: Enemy Unknown. The bundle will be available until August 7th, though the…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-07-20T20:20:51+00:00",
-   "tickers": []
-  },
-  {
-   "id": "adbfb2e234ea",
-   "title": "Kentucky's Will Stein Delivers Bold Message Before Debut Season",
-   "link": "https://biztoc.com/x/3ef1c185249989a6?ref=rss",
-   "summary": "The Kentucky Wildcats fired head football coach Mark Stoops following their 5-7 finish in 2025, capped off by an embarrassing 41-0 loss to the rival Louisville Cardinals. Former Oregon Ducks offensive coordinator Will Stein was hired as the program's next head coach, beginning a new era in…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-07-20T20:20:43+00:00",
-   "tickers": []
-  },
-  {
-   "id": "4bf89afd8701",
-   "title": "Still 'No Timetable' for LeBron James' Free Agency Decision: Report",
-   "link": "https://biztoc.com/x/e7e1afbefc334d45?ref=rss",
-   "summary": "The NBA world is eagerly awaiting LeBron James' free agency decision. A couple weeks ago, James informed the Los Angeles Lakers that he intends to play his historic 24th NBA season elsewhere — opening up a highly-publicized free-agent process. And now with the NBA Summer League over and the NBA…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-07-20T20:20:37+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6c7f45dcc123",
-   "title": "The PlayStation replica ornament is an homage to a great, yet fragile console",
-   "link": "https://biztoc.com/x/0c7b719ca2d172bf?ref=rss",
-   "summary": "You probably know the signature PlayStation boot sound. Did you know that it’s technically a multi-part chime? There’s the synthy section where “Sony Computer Entertainment” shows onscreen with a white background. You only get to the next screen with the echo-y chimes and the color-filled…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-07-20T20:20:35+00:00",
-   "tickers": []
-  },
-  {
-   "id": "08f947378ade",
-   "title": "What Moon Skyscrapers and Underground Cities Could Look Like",
-   "link": "https://biztoc.com/x/799bf3e57ef9ad85?ref=rss",
-   "summary": "NASA's vision for establishing an enduring human presence on the moon is moving from science fiction toward reality. But what could entire cities look like on the moon? In May, the space agency unveiled a detailed plan for a Moon Base near the lunar South Pole, with the third and final phase…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-07-20T20:20:34+00:00",
-   "tickers": []
-  },
-  {
-   "id": "5aebc7186956",
-   "title": "More Costco members are paying double for one reason",
-   "link": "https://biztoc.com/x/9f01dcdb6fa9af7f?ref=rss",
-   "summary": "Costco shoppers are increasingly paying twice as much for membership, and the warehouse giant says it's because the extra perks now offer enough value to justify the higher price. The warehouse club's members are driven by value and data shows that the chain delivers, according to a study…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-07-20T20:20:28+00:00",
-   "tickers": [
-    "COST"
-   ]
-  },
-  {
-   "id": "77ad37bdf3b8",
-   "title": "Netflix's top product exec says all employees should have an 'aspiration for AI fluency'",
-   "link": "https://biztoc.com/x/62c0bc7b661c02c0?ref=rss",
-   "summary": "Elizabeth Stone is Netflix's chief product and technology officer. Kimberly White/Getty Images for TechCrunch Netflix is encouraging \"AI fluency\" for employees across the company, a top exec said. \"The most useful thing,\" Netflix exec Elizabeth Stone told Lenny's Podcast, is encouraging \"the…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-07-20T20:20:26+00:00",
-   "tickers": [
-    "NFLX"
-   ]
-  },
-  {
-   "id": "6c365a43d6fc",
-   "title": "What Microsoft Is Offering Laid-off Employees in Severance",
-   "link": "https://biztoc.com/x/0b7ac54dccfdfb4d?ref=rss",
-   "summary": "The company is providing up to 39 weeks of base pay to U.S. employees after cutting 4,800 jobs.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "offering",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-07-20T20:20:26+00:00",
-   "tickers": [
-    "MSFT"
-   ]
-  },
-  {
-   "id": "b642769cf462",
-   "title": "Natural Raises $30 Million to Build Payment Rails for AI Agents",
-   "link": "https://biztoc.com/x/c57af1937d5cf42e?ref=rss",
-   "summary": "Natural, a year-old company that is building a foundational payment stack for artificial intelligence agents, raised $30 million in a Series A funding round. The round brings Natural’s total funding to more than $40 million, the company said in a Monday (July 20) press release. The firm announced…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-07-20T20:20:26+00:00",
-   "tickers": []
-  },
-  {
-   "id": "33db3c4601fb",
-   "title": "U.S. Markets Closed Down Monday; Bloom Energy Fell Furthest",
-   "link": "https://biztoc.com/x/aab3c7fff72afe47?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-07-20T20:20:24+00:00",
-   "tickers": []
-  },
-  {
-   "id": "cf840c7290c0",
-   "title": "Cruz and Blackburn meet Trump to discuss tech policy",
-   "link": "https://biztoc.com/x/b78468bd256ed2f2?ref=rss",
-   "summary": "President Donald Trump is meeting with Sens. Ted Cruz and Marsha Blackburn on Monday to discuss tech policy, according to two people familiar with the meeting who were granted anonymity to discuss a private event. The huddle comes as Cruz, chair of the Senate Commerce Committee, is expected to…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-07-20T20:20:23+00:00",
-   "tickers": []
-  },
-  {
-   "id": "8ac0c82b2ae0",
-   "title": "These Were the World Cup’s 5 Biggest Marketing Fails, According to Fans",
-   "link": "https://biztoc.com/x/3ef3a3dfce0d8c81?ref=rss",
-   "summary": "These corporate attempts to charm at the FIFA World Cup fell flat.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-07-20T20:20:20+00:00",
-   "tickers": []
-  },
-  {
-   "id": "43b90eb64ebf",
-   "title": "Democrats Dismiss Our Constitutional Traditions As 'Nostalgia'",
-   "link": "https://biztoc.com/x/8e5bf07b55765939?ref=rss",
-   "summary": "Democrats Dismiss Our Constitutional Traditions As 'Nostalgia' Authored by Jonathan Turley, Below is my column in The Hill on the latest spin from the left to convince Americans to abandon core constitutional institutions and values as part of a radical agenda in the upcoming elections. Those…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-07-20T20:20:08+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e85e0a2458d5",
-   "title": "Why ‘The Odyssey’ Box Office Success Isn’t Lifting Comcast Stock",
-   "link": "https://biztoc.com/x/d03906a926e7344f?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-07-20T20:20:07+00:00",
-   "tickers": [
-    "CMCSA"
-   ]
-  },
-  {
-   "id": "d264c84322c5",
-   "title": "Villa Sandi Turns Its Vineyards Into An Intelligent Ecosystem For Precision Viticulture",
-   "link": "https://www.prnewswire.com/news-releases/villa-sandi-turns-its-vineyards-into-an-intelligent-ecosystem-for-precision-viticulture-302829846.html",
-   "summary": "Agronomic data, climate sensors and artificial intelligence are being deployed across all of the Group's estates in the Veneto and Friuli Venezia Giulia regions of Italy, driving a new approach to vineyard management that reduces resource consumption while enhancing grape quality....",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-07-20T20:20:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "0c10d51bebff",
-   "title": "America's Nuclear Tech Hub, Powered by the Idaho Advanced Energy Consortium, Awarded Millions to Drive Economic Growth in the Intermountain West",
-   "link": "https://www.prnewswire.com/news-releases/americas-nuclear-tech-hub-powered-by-the-idaho-advanced-energy-consortium-awarded-millions-to-drive-economic-growth-in-the-intermountain-west-302829971.html",
-   "summary": "INEC Tech Hub to Lead National Effort in Next Generation Energy Innovation IDAHO FALLS, Idaho, July 20, 2026 /PRNewswire/ -- The Idaho Advanced Energy Consortium (IAEC) announced today that the U.S. Department of Commerce's Economic Development Administration (EDA) has awarded the...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-07-20T20:20:00+00:00",
-   "tickers": [
-    "AEIS",
-    "WST"
-   ]
-  },
-  {
-   "id": "7ca5e29bbc16",
-   "title": "Park Aerospace Corp. Announces Climb In Q1 Profit",
-   "link": "https://www.nasdaq.com/articles/park-aerospace-corp-announces-climb-q1-profit",
-   "summary": "(RTTNews) - Park Aerospace Corp. (PKE) reported a profit for its first quarter that Increased, from the same period last year",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-07-20T20:19:36+00:00",
-   "tickers": []
-  },
-  {
-   "id": "8b0603a6b529",
-   "title": "Global Leaders, Fortune 500 CEOs and Tech Visionaries Convene in Chicago for Second Annual Global Quantum Forum",
-   "link": "https://www.prnewswire.com/news-releases/global-leaders-fortune-500-ceos-and-tech-visionaries-convene-in-chicago-for-second-annual-global-quantum-forum-302829970.html",
-   "summary": "Presented by Ernst & Young, LLP, with Illinois Governor JB Pritzker, Penny Pritzker, Microsoft's Jason Zander, Cognizant's Ravi Kumar, Exelon's Calvin Butler, Kara Swisher, WNBA HOF Candace Parker, and more than 60 other prominent speakers to explore how quantum will influence the world...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-07-20T20:19:00+00:00",
-   "tickers": [
-    "CTSH",
-    "MSFT",
-    "FBIN",
-    "EXC"
-   ]
-  },
-  {
-   "id": "ec1734bb875a",
-   "title": "GBank Financial Holdings Inc. Announces Second Quarter 2026 Quarterly Earnings Call Scheduled for Wednesday, July 29th, at 2:00 P.M., Pacific Time",
-   "link": "https://www.globenewswire.com/news-release/2026/07/20/3330114/0/en/GBank-Financial-Holdings-Inc-Announces-Second-Quarter-2026-Quarterly-Earnings-Call-Scheduled-for-Wednesday-July-29th-at-2-00-P-M-Pacific-Time.html",
-   "summary": "LAS VEGAS, July 20, 2026 (GLOBE NEWSWIRE) -- GBank Financial Holdings Inc. (the \"Company\") (Nasdaq: GBFH), the parent company for GBank (the \"Bank\"), today announced it plans to release its second quarter 2026 financial results on Wednesday, July 29, 2026 at approximately 1:15 p.m. PST, and will host its quarterly earnings call on Wednesday, July 29, 2026, at 2:00 p.m. PST. Interested parties can participate remotely via Internet connectivity. There will be no physical location for attendance.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-07-20T20:19:00+00:00",
-   "tickers": [
-    "NDAQ"
-   ]
-  },
-  {
-   "id": "c17da8312fe7",
-   "title": "Quanta Services: Pullback Offers Another Opportunity Ahead Of Q2",
-   "link": "https://seekingalpha.com/article/4923560-quanta-services-pullback-offers-another-opportunity-ahead-of-q2?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-20T20:18:49+00:00",
-   "tickers": [
-    "PWR"
-   ]
-  },
-  {
-   "id": "0a7b5acd90ae",
-   "title": "8-K - GBank Financial Holdings Inc. (0001791145) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1791145/000119312526308942/0001193125-26-308942-index.htm",
-   "summary": "Filed: 2026-07-20 AccNo: 0001193125-26-308942 Size: 235 KB Item 7.01: Regulation FD Disclosure Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-07-20T20:18:21+00:00",
-   "tickers": []
-  },
-  {
-   "id": "77daa00d3d11",
-   "title": "Attorney John Gomez Celebrates Historic Opening of Gomez Trial Attorneys' First Office in Mexico",
-   "link": "https://www.prnewswire.com/news-releases/attorney-john-gomez-celebrates-historic-opening-of-gomez-trial-attorneys-first-office-in-mexico-302829969.html",
-   "summary": "New Tijuana location strengthens the firm's commitment to the Cali-Baja region and expands access to legal services for clients with cases in the United States. By Shane Harris, Director of Communications, Gomez Trial Attorneys TIJUANA, Mexico, July 20, 2026 /PRNewswire/ -- Gomez Trial...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-07-20T20:18:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d0b6b84ee840",
-   "title": "Sempra to Report Second-Quarter 2026 Earnings on August 6",
-   "link": "https://www.prnewswire.com/news-releases/sempra-to-report-second-quarter-2026-earnings-on-august-6-302829967.html",
-   "summary": "SAN DIEGO, July 20, 2026 /PRNewswire/ -- Sempra (NYSE: SRE) plans to release its second-quarter 2026 earnings results by 8 a.m. ET on Thursday, August 6. Senior leaders from across the company will host a conference call with a slide presentation at 12 p.m. ET on Thursday, August 6....",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-07-20T20:17:00+00:00",
-   "tickers": [
-    "SRE"
-   ]
-  },
-  {
-   "id": "4e6158bd054d",
-   "title": "8-K - COLUMBUS MCKINNON CORP (0001005229) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1005229/000100522926000036/0001005229-26-000036-index.htm",
-   "summary": "Filed: 2026-07-20 AccNo: 0001005229-26-000036 Size: 211 KB Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-07-20T20:16:55+00:00",
-   "tickers": []
-  },
-  {
-   "id": "54c8e9ad9797",
-   "title": "8-K - VOC Energy Trust (0001505413) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1505413/000110465926085076/0001104659-26-085076-index.htm",
-   "summary": "Filed: 2026-07-20 AccNo: 0001104659-26-085076 Size: 40 KB Item 2.02: Results of Operations and Financial Condition Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-07-20T20:16:32+00:00",
-   "tickers": []
-  },
-  {
-   "id": "335e21c39b36",
-   "title": "S&P 500 closes slightly lower on Monday, weighed down by rising oil prices: Live updates",
-   "link": "https://www.cnbc.com/2026/07/19/stock-market-today-live-updates.html",
-   "summary": "The S&P 500 fell on Monday as oil prices advanced in response to the latest bout of military exchanges between the U.S. and Iran.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "cnbc.com",
-   "published": "2026-07-20T20:16:24+00:00",
-   "tickers": []
-  },
-  {
-   "id": "bce645e8c030",
-   "title": "8-K - Finwise Bancorp (0001856365) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1856365/000185636526000090/0001856365-26-000090-index.htm",
-   "summary": "Filed: 2026-07-20 AccNo: 0001856365-26-000090 Size: 206 KB Item 7.01: Regulation FD Disclosure Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-07-20T20:16:23+00:00",
-   "tickers": []
-  },
-  {
-   "id": "100cb1918560",
-   "title": "FIRST UNITED CORPORATION ANNOUNCES SECOND QUARTER 2026 FINANCIAL RESULTS",
-   "link": "https://www.prnewswire.com/news-releases/first-united-corporation-announces-second-quarter-2026-financial-results-302829966.html",
-   "summary": "OAKLAND, Md., July 20, 2026 /PRNewswire/ -- First United Corporation (the \"Corporation\", \"we\", \"us\", and \"our\") (NASDAQ: FUNC), a bank holding company and the parent company of First United Bank & Trust (the \"Bank\"), today announced financial results for the three- and six-month periods...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-07-20T20:16:00+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
   "JIRE": "JPMorgan International Research Enhanced Equity ETF",
+  "IAGG": "iShares International Aggregate Bond Fund",
   "DIA": "SPDR Dow Jones Industrial Average ETF",
   "BTC": "Grayscale Bitcoin Mini Trust (BTC)",
   "EWH": "iShares MSCI Hong Kong Index Fund",
   "QSR": "Restaurant Brands International",
-  "SCHF": "Schwab International Equity ETF",
   "WAL": "Western Alliance Bancorporation",
-  "CTSH": "Cognizant Technology Solutions",
   "AMR": "Alpha Metallurgical Resources",
   "EWY": "iShares MSCI South Korea ETF",
   "WST": "West Pharmaceutical Services",
   "BAM": "Brookfield Asset Management",
   "PFSI": "PennyMac Financial Services",
   "QQQ": "Invesco QQQ Trust, Series 1",
-  "AEIS": "Advanced Energy Industries",
   "AMC": "AMC Entertainment Holdings",
-  "FBIN": "Fortune Brands Innovations",
   "ICE": "Intercontinental Exchange",
   "JEF": "Jefferies Financial Group",
   "TD": "The Toronto-Dominion Bank",
+  "IVV": "iShares Core S&P 500 ETF",
   "AEP": "American Electric Power",
-  "RCL": "Royal Caribbean Cruises",
   "AMD": "Advanced Micro Devices",
   "CMG": "Chipotle Mexican Grill",
   "VRTX": "Vertex Pharmaceuticals",
   "WBD": "Warner Bros. Discovery",
   "COF": "Capital One Financial",
   "DOG": "ProShares Short Dow30",
-  "BMY": "Bristol-Myers Squibb",
   "JAZZ": "Jazz Pharmaceuticals",
   "TMHC": "Taylor Morrison Home",
+  "ABT": "Abbott Laboratories",
   "IP": "International Paper",
   "RNA": "Avidity Biosciences",
   "DRI": "Darden Restaurants",
@@ -8947,7 +8920,6 @@
   "MGY": "Magnolia Oil & Gas",
   "NYT": "The New York Times",
   "PSKY": "Paramount Skydance",
-  "SCHW": "The Charles Schwab",
   "TYL": "Tyler Technologies",
   "BURL": "Burlington Stores",
   "EWBC": "East West Bancorp",
@@ -8956,6 +8928,7 @@
   "MU": "Micron Technology",
   "POWL": "Powell Industries",
   "SOFI": "SoFi Technologies",
+  "ALK": "Alaska Air Group",
   "CENX": "Century Aluminum",
   "COST": "Costco Wholesale",
   "JPM": "JPMorgan Chase &",
@@ -8966,11 +8939,12 @@
   "AER": "AerCap Holdings",
   "BAC": "Bank of America",
   "CAH": "Cardinal Health",
+  "CRML": "Critical Metals",
+  "ELV": "Elevance Health",
   "GILD": "Gilead Sciences",
   "JBLU": "JetBlue Airways",
   "KRYS": "Krystal Biotech",
   "LNG": "Cheniere Energy",
-  "PWR": "Quanta Services",
   "WSM": "Williams-Sonoma",
   "ALLY": "Ally Financial",
   "BTU": "Peabody Energy",
@@ -8979,10 +8953,8 @@
   "ENPH": "Enphase Energy",
   "META": "Meta Platforms",
   "PLNT": "Planet Fitness",
-  "PSA": "Public Storage",
   "STLD": "Steel Dynamics",
   "AVAV": "AeroVironment",
-  "BTE": "Baytex Energy",
   "CLH": "Clean Harbors",
   "DX": "Dynex Capital",
   "EGO": "Eldorado Gold",
@@ -9015,6 +8987,7 @@
   "MCD": "McDonald's",
   "MSFT": "Office 365",
   "PARA": "Paramount+",
+  "BLK": "BlackRock",
   "CME": "CME Group",
   "CRWV": "CoreWeave",
   "DT": "Dynatrace",
@@ -9023,19 +8996,15 @@
   "BCS": "Barclays",
   "GME": "GameStop",
   "GOOG": "Alphabet",
+  "INOD": "Innodata",
   "SQ": "Cash App",
   "SNAP": "Snapchat",
   "RTX": "Raytheon",
-  "CMCSA": "Comcast",
   "COMP": "Compass",
-  "IAG": "IAMGOLD",
   "IVZ": "Invesco",
   "PAYX": "Paychex",
   "SCI": "Service",
   "WMT": "Walmart",
-  "NFLX": "Netflix",
-  "ABNB": "Airbnb",
-  "EXC": "Exelon",
   "NDAQ": "Nasdaq",
   "ORCL": "Oracle",
   "RBRK": "Rubrik",
