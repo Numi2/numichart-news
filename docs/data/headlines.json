@@ -1,8 +1,815 @@
 {
- "generated": "2026-07-22T22:23:47.820784+00:00",
+ "generated": "2026-07-22T22:46:24.886428+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "b7439114ba81",
+   "title": "INVESTOR ALERT: Robbins Geller Rudman &amp; Dowd LLP Files Class Action Lawsuit Against GPGI, Inc. and Announces Opportunity for Investors with Substantial Losses to Lead Class Action Lawsuit - GPGI",
+   "link": "https://www.prnewswire.com/news-releases/investor-alert-robbins-geller-rudman--dowd-llp-files-class-action-lawsuit-against-gpgi-inc-and-announces-opportunity-for-investors-with-substantial-losses-to-lead-class-action-lawsuit---gpgi-302831740.html",
+   "summary": "SAN DIEGO, July 22, 2026 /PRNewswire/ -- Robbins Geller Rudman & Dowd LLP announces that purchasers of GPGI, Inc. f/k/a CompoSecure, Inc. (NYSE: GPGI; CMPO) Class A common stock between November 3, 2025 and May 6, 2026, both dates inclusive (the \"Class Period\"), have until September 14,...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "prnewswire.com",
+   "published": "2026-07-22T22:45:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "21ae998968c2",
+   "title": "ERAS Investors Have Opportunity to Lead Erasca, Inc. Securities Fraud Lawsuit",
+   "link": "https://www.prnewswire.com/news-releases/eras-investors-have-opportunity-to-lead-erasca-inc-securities-fraud-lawsuit-302832602.html",
+   "summary": "NEW YORK, July 22, 2026 /PRNewswire/ -- Why: Rosen Law Firm, a global investor rights law firm, reminds purchasers of common stock of Erasca, Inc. (NASDAQ: ERAS) between January 14, 2025 and April 26, 2026, inclusive (the \"Class Period\"), of the important August 10, 2026 lead plaintiff...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "prnewswire.com",
+   "published": "2026-07-22T22:45:00+00:00",
+   "tickers": [
+    "ERAS"
+   ]
+  },
+  {
+   "id": "e0f13ea15ab5",
+   "title": "Dollar General: This Re-Rating Story Still Has Room To Shine",
+   "link": "https://seekingalpha.com/article/4924425-dollar-general-this-re-rating-story-still-has-room-to-shine?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-22T22:42:26+00:00",
+   "tickers": [
+    "DG"
+   ]
+  },
+  {
+   "id": "952251e486d6",
+   "title": "Google reports $6bn cash burn last quarter as it raises AI spending again",
+   "link": "https://www.ft.com/content/b02f972c-c764-4006-9377-42563d9d5530?syn-25a6b1a6=1",
+   "summary": "Search giant says it will commit up to $205bn to AI investments in 2026",
+   "article_text": "",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "ft.com",
+   "published": "2026-07-22T22:39:24+00:00",
+   "tickers": [
+    "GOOGL"
+   ]
+  },
+  {
+   "id": "929b88a0156e",
+   "title": "Tesla Profit Falls Even as Car Sales Rebound",
+   "link": "https://www.nytimes.com/2026/07/22/business/tesla-earnings-elon-musk.html",
+   "summary": "The company is selling more cars, but the company’s profit was down because of price cuts and higher expenses.",
+   "article_text": "",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-07-22T22:38:39+00:00",
+   "tickers": [
+    "TSLA"
+   ]
+  },
+  {
+   "id": "5186f0423b65",
+   "title": "Rogers Communications: I See More Value Than The Market Does",
+   "link": "https://seekingalpha.com/article/4924423-rogers-communications-i-see-more-value-than-the-market-does?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-22T22:38:15+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b4d8c98f805d",
+   "title": "US and Saudi Arabia agree landmark nuclear energy pact",
+   "link": "https://www.ft.com/content/2707aeb6-dba0-4640-877b-4839d268c820?syn-25a6b1a6=1",
+   "summary": "Critics warn agreement lacks safeguards to prevent future uranium enrichment and reprocessing",
+   "article_text": "",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "ft.com",
+   "published": "2026-07-22T22:37:55+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c343de8c4ab3",
+   "title": "IBM lowers full-year forecast after earnings warning",
+   "link": "https://www.cnbc.com/2026/07/22/ibm-q2-earnings-report-2026.html",
+   "summary": "IBM is now looking to improve productivity with artificial intelligence, including with a new coding tool called Bob.",
+   "article_text": "IBM Q2 earnings report 2026 Skip Navigation Markets Business Investing Tech Politics Video Watchlist Investing Club PRO Livestream Menu Key Points IBM's results trailed estimates, even after analysts lowered projections to reflect an earnings warning. The revenue and adjusted earnings per share were in line with the figures released a week ago. IBM also reduced its full-year growth forecast. In this article IBM Follow your favorite stocks CREATE FREE ACCOUNT IBM CEO Arvind Krishna attends a Rose Garden Club event on the Rose Garden of the White House in Washington on July 6, 2026. Mandel Ngan | Afp | Getty Images IBM lowered its 2026 forecast and delivered weaker earnings than analysts had projected on Wednesday, even after the company issued an earnings warning last week. IBM said it aims to widen its full-year pre-tax margin by about 1 percentage point through higher productivity. Here's how the company did relative to LSEG consensus: Earnings per share: $2.93 adjusted vs. $2.97 expected Revenue: $17.16 billion vs. $17.58 billion expected IBM's revenue grew 1% year over year in the quarter, according to a statement . Net income of $2.17 billion, or $2.30 per share, decreased from $2.19 billion, or $2.36 per share, a year ago. Adjusted earnings exclude acquisition-related adjustments. Management called for 4% to 5% revenue growth in constant currency for 2026. As recently as April , IBM had been looking for over 5% growth at constant currency. The company reiterated expectations for $1 billion in higher free cash flow for the year. Analysts cut their estimates after IBM announced preliminary second-quarter results. In a letter to investors, CEO Arvind Krishna cited worse-than-planned performance in sales of Z mainframe computers and transaction processing software as organizations rushed to buy hardware ahead of expected price increases. The stock dropped 25%, marking its sharpest single-day decline on record. The revenue and adjusted earnings per share figures IBM disclosed on Wednesday were in line with the figures released a week ago. Read more CNBC tech news Google expands Gemini lineup with cheaper models and new Mythos rival Bessent says U.S. could sanction China over AI model 'theft' Nvidia details its next-generation Vera CPU for AI, setting up challenge to AMD and Intel Intel's foundry lands first named customer under CEO Lip-Bu Tan, as Fortinet signs on for security chips As of Wednesday's close, IBM shares were down 30% so far in 2026, while the S&P 500 index was up about 10%. IBM said its high-margin software segment produced $7.76 billion in second-quarter revenue, up 5%. Consulting revenue, at $5.33 billion, was flat. Revenue from infrastructure, at $3.84 billion, declined 7%, with Z mainframe revenue falling 42%. During the quarter, IBM said it signed a letter of intent to build a U.S. quantum chip foundry . It also introduced the Bob artificial intelligence coding tool that relies on a mixture of generative models, with adoption from over 80,000 employees. \"IBM is accelerating productivity by scaling software development leveraging AI, increasing the effectiveness of its sales and marketing organization, and optimizing its supply chain, the company said in Wednesday's statement. \"These efforts help enhance margin and free cash flow, and strengthen the company's ability to capture significant growth opportunities.\" WATCH: Melius’ Ben Reitzes on what's next for IBM watch now VIDEO 4:55 04:55 Melius’ Ben Reitzes on what's next for IBM Squawk on the Street Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
+   "source": "CNBC Earnings",
+   "category": "earnings",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "cnbc.com",
+   "published": "2026-07-22T22:37:42+00:00",
+   "tickers": [
+    "IBM"
+   ]
+  },
+  {
+   "id": "32c9837c15bd",
+   "title": "Kinder Morgan beats profit estimates on strong gas flows, raises outlook",
+   "link": "https://www.investing.com/news/stock-market-news/kinder-morgan-tops-secondquarter-profit-estimates-on-higher-natural-gas-volumes-4806947",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-07-22T22:37:18+00:00",
+   "tickers": [
+    "KMI"
+   ]
+  },
+  {
+   "id": "1cfdfed8f4c3",
+   "title": "IBM cuts annual revenue growth forecast as customers prioritize AI infrastructure spending",
+   "link": "https://www.investing.com/news/stock-market-news/ibm-cuts-yearly-revenue-growth-forecast-as-customers-prioritize-ai-infrastructure-spending-4806875",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-07-22T22:37:02+00:00",
+   "tickers": [
+    "IBM"
+   ]
+  },
+  {
+   "id": "d1d7864bd315",
+   "title": "Rosen Law Firm Encourages Gildan Activewear Inc. Investors to Inquire About Securities Class Action Investigation - GIL",
+   "link": "https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-gildan-activewear-inc-investors-to-inquire-about-securities-class-action-investigation--gil-302832542.html",
+   "summary": "NEW YORK, July 22, 2026 /PRNewswire/ -- Why: Rosen Law Firm, a global investor rights law firm, continues to investigate potential securities claims on behalf of shareholders of Gildan Activewear Inc. (NYSE: GIL) resulting from allegations that Gildan Activewear may have issued materially...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "prnewswire.com",
+   "published": "2026-07-22T22:37:00+00:00",
+   "tickers": [
+    "GIL"
+   ]
+  },
+  {
+   "id": "560c8decbcf3",
+   "title": "Massive disconnect of power roiled largest US electric grid",
+   "link": "https://www.investing.com/news/stock-market-news/massive-disconnect-of-power-roiled-largest-us-electric-grid-4807202",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-07-22T22:36:46+00:00",
+   "tickers": []
+  },
+  {
+   "id": "82973d2d2ae7",
+   "title": "ServiceNow raises annual subscription revenue forecast again on AI-driven demand",
+   "link": "https://www.investing.com/news/stock-market-news/servicenow-raises-annual-subscription-revenue-forecast-again-on-aidriven-demand-4806945",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-07-22T22:36:28+00:00",
+   "tickers": []
+  },
+  {
+   "id": "0820f3efb9cf",
+   "title": "The Fed Follows Interest Rates, It's Not A Leader",
+   "link": "https://seekingalpha.com/article/4924422-the-fed-follows-interest-rates-its-not-a-leader?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-22T22:36:23+00:00",
+   "tickers": []
+  },
+  {
+   "id": "0e7cd462ad03",
+   "title": "ServiceNow Q2 2026 slides: revenue beats, margins face AI pressure",
+   "link": "https://www.investing.com/news/company-news/servicenow-q2-2026-slides-revenue-beats-margins-face-ai-pressure-93CH-4807204",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-07-22T22:35:17+00:00",
+   "tickers": []
+  },
+  {
+   "id": "03b9bea12e04",
+   "title": "Uber founder Travis Kalanick raises $1.7bn for new start-up",
+   "link": "https://www.ft.com/content/149b3a6e-b004-4e27-a9de-52e41b47404e?syn-25a6b1a6=1",
+   "summary": "Andreessen Horowitz and the riding hailing group join funding round",
+   "article_text": "",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "ft.com",
+   "published": "2026-07-22T22:35:09+00:00",
+   "tickers": [
+    "UBER"
+   ]
+  },
+  {
+   "id": "e2ef444864a7",
+   "title": "CPSC Exercises Section 12 Imminent Hazard Authority for First Time in Nearly 40 Years, Warns Consumers to Stop Using Lakkzoom Immersion Water Heaters",
+   "link": "https://www.prnewswire.com/news-releases/cpsc-exercises-section-12-imminent-hazard-authority-for-first-time-in-nearly-40-years-warns-consumers-to-stop-using-lakkzoom-immersion-water-heaters-302832671.html",
+   "summary": "A Historic Milestone for CPSC Enforcement WASHINGTON, July 22, 2026 /PRNewswire/ -- The U.S. Consumer Product Safety Commission (CPSC), through the Department of Justice on behalf of the United States, today filed an imminent hazard action under Section 12 of the Consumer Product Safety...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "negative",
+   "domain": "prnewswire.com",
+   "published": "2026-07-22T22:35:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "35fed900c1d1",
+   "title": "House GOP Advances $95 Billion Budget Package",
+   "link": "https://biztoc.com/x/e965bbf0d1838dc8?ref=rss",
+   "summary": "House Republicans have approved a budget framework that clears the way for a $95 billion reconciliation package focused on military operations involving Iran and other domestic priorities. The measure passed despite unified Democratic opposition and resistance from some Republican lawmakers,…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-22T22:33:51+00:00",
+   "tickers": []
+  },
+  {
+   "id": "8c22fde43e17",
+   "title": "US Stock Futures Slip on Alphabet, Oil Advances: Markets Wrap",
+   "link": "https://biztoc.com/x/f5793d0fcc328f09?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-22T22:33:46+00:00",
+   "tickers": [
+    "GOOG"
+   ]
+  },
+  {
+   "id": "8954e049c63b",
+   "title": "Chasing Yield Is a Trap. These 3 Dividend ETFs Pay You Without the Risk",
+   "link": "https://biztoc.com/x/de405e1c929370d7?ref=rss",
+   "summary": "The post Chasing Yield Is a Trap. These 3 Dividend ETFs Pay You Without the Risk appeared first on 24/7 Wall St.. As investors search for reliable sources of passive income, many are naturally drawn to the highest-yielding dividend-paying funds. While chasing yield can be tempting, it is important…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-07-22T22:33:42+00:00",
+   "tickers": []
+  },
+  {
+   "id": "5c66c342171c",
+   "title": "Biden Bucks: Climate Change Funds A Bonanza For State Outfits",
+   "link": "https://biztoc.com/x/9e2e3d20c1a34be3?ref=rss",
+   "summary": "Biden Bucks: Climate Change Funds A Bonanza For State Outfits Authored by James Varney via RealClearInvestigations, For much of its five-decade history, the Colorado Energy Office was a small department with a handful of employees who supported practical, cost-saving energy conservation…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-22T22:33:40+00:00",
+   "tickers": []
+  },
+  {
+   "id": "bb444ee6c129",
+   "title": "ICE Arrests 5-Time Deported Illegal Alien Caught Trying To Bed A 14-Year-Old",
+   "link": "https://biztoc.com/x/2f309decf160b471?ref=rss",
+   "summary": "By Tyler O’Neil, The Daily Signal | July 21, 2026 Immigration and Customs Enforcement arrested an illegal alien who had been deported five times and who had sent sexual text messages to someone he believed was a 14-year-old girl. “This sicko was arrested after repeatedly sending sexual texts to…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-22T22:33:33+00:00",
+   "tickers": [
+    "TYL",
+    "ICE"
+   ]
+  },
+  {
+   "id": "2f9499182e39",
+   "title": "New Zealand Brain Drain, Australia Inflation Concern, New Macquarie Boss",
+   "link": "https://biztoc.com/x/4b558db4266ded86?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-22T22:33:29+00:00",
+   "tickers": []
+  },
+  {
+   "id": "20a1d1030bb7",
+   "title": "Trump Says Iran 'Not Ready' to Make a Deal Yet",
+   "link": "https://biztoc.com/x/e44e637e248b7d80?ref=rss",
+   "summary": "President Donald Trump said Wednesday that Iran is \"not ready\" to make a deal, telling a crowd in Georgia: \"They'll be ready very soon.\" #trump #iran #politics #world #usa The US and Iran signaled they aren’t ready to return to the negotiating table after both countries escalated attacks deep…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-22T22:33:28+00:00",
+   "tickers": []
+  },
+  {
+   "id": "cddcea158c2b",
+   "title": "ADMA Deadline: ADMA Investors Have Opportunity to Lead ADMA Biologics, Inc. Securities Fraud Lawsuit Filed by The Rosen Law Firm",
+   "link": "https://www.prnewswire.com/news-releases/adma-deadline-adma-investors-have-opportunity-to-lead-adma-biologics-inc-securities-fraud-lawsuit-filed-by-the-rosen-law-firm-302832571.html",
+   "summary": "NEW YORK, July 22, 2026 /PRNewswire/ -- Why: Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities of ADMA Biologics, Inc. (NASDAQ: ADMA) between August 9, 2024 and March 25, 2026, both dates inclusive (the \"Class Period\"), of the important August 10, 2026...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "prnewswire.com",
+   "published": "2026-07-22T22:33:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "5d8619817764",
+   "title": "U.S. signs landmark nuclear cooperation pact with Saudi Arabia",
+   "link": "https://seekingalpha.com/news/4617095-us-signs-landmark-nuclear-cooperation-pact-with-saudi-arabia?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-22T22:32:19+00:00",
+   "tickers": []
+  },
+  {
+   "id": "148d7c211a47",
+   "title": "China is said to seek new Boeing order terms, raising doubts on Trump-Xi deal",
+   "link": "https://seekingalpha.com/news/4617098-china-is-said-to-seek-new-boeing-order-terms-raising-doubts-on-trump-xi-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-22T22:32:05+00:00",
+   "tickers": [
+    "BA"
+   ]
+  },
+  {
+   "id": "a794c40100e7",
+   "title": "Intel's Foundry Just Landed Its First Named Outside Customer Under Lip-Bu Tan. The Stock Jumped More Than 8% -- 2 Days Before Earnings",
+   "link": "https://biztoc.com/x/031473f82b83ab7d?ref=rss",
+   "summary": "Intel's Foundry Just Landed Its First Named Outside Customer Under Lip-Bu Tan. The Stock Jumped More Than 8% -- 2 Days Before Earnings. Intel (NASDAQ: INTC) CEO Lip-Bu Tan told CNBC in May that \"multiple customers\" were working with the company's foundry business, but that it was his personal…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-07-22T22:31:51+00:00",
+   "tickers": [
+    "INTC"
+   ]
+  },
+  {
+   "id": "55e29fdd0587",
+   "title": "Century Communities Q2 Earnings Call Highlights",
+   "link": "https://biztoc.com/x/d6edd2b5f72f5cfc?ref=rss",
+   "summary": "Key Points - Century Communities beat second-quarter expectations, reporting EPS of $1.26 and delivering 2,506 homes, both aided by stronger order activity and improved absorption rates despite weak consumer sentiment and broader macro headwinds. - Margins improved as lower incentives and…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-22T22:31:51+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f9270da69c82",
+   "title": "Stock Market Today, July 22: Nasdaq Slides Prior to Tesla and Alphabet's Earnings After Market Close",
+   "link": "https://biztoc.com/x/c193fc6e31ba9d30?ref=rss",
+   "summary": "Stock Market Today, July 22: Nasdaq Slides Prior to Tesla and Alphabet's Earnings After Market Close Falling 0.57% to 25,691, the Nasdaq Composite (NASDAQINDEX:^IXIC) led the market lower as rising oil prices pressured growth stocks, while the S&P 500 (SNPINDEX:^GSPC) slipped 0.13% to 7,499 and…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-07-22T22:31:48+00:00",
+   "tickers": [
+    "GOOG",
+    "NDAQ",
+    "TSLA"
+   ]
+  },
+  {
+   "id": "1a0495997bd1",
+   "title": "WEX (NYSE:WEX) Exceeds Q2 CY2026 Expectations",
+   "link": "https://biztoc.com/x/ee18cb31f9334510?ref=rss",
+   "summary": "Payment solutions provider WEX (NYSE:WEX) reported Q2 CY2026 results topping the market's revenue expectations , with sales up 14.2% year on year to $753.5 million. The company's full-year revenue guidance of $2.88 billion at the midpoint came in 0.8% above analysts' estimates. Its non-GAAP profit…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-07-22T22:31:47+00:00",
+   "tickers": []
+  },
+  {
+   "id": "84ecd88c1c45",
+   "title": "OpenAI says AI agent went rogue, hacked website",
+   "link": "https://biztoc.com/x/97da56064babb18a?ref=rss",
+   "summary": "OpenAI said this week that an autonomous agent powered by its advanced artificial intelligence models went rogue during a security test and triggered a hack that compromised the infrastructure of AI startup Hugging Face last week. The ChatGPT creator was testing capabilities of some of its most…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-22T22:31:45+00:00",
+   "tickers": []
+  },
+  {
+   "id": "7d81e40bc153",
+   "title": "Google increases capex forecast again after cloud-driven earnings beat",
+   "link": "https://www.investing.com/news/stock-market-news/google-quarterly-cloud-revenue-growth-beats-expectations-4806844",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-07-22T22:30:48+00:00",
+   "tickers": [
+    "GOOGL"
+   ]
+  },
+  {
+   "id": "e4c997a213cc",
+   "title": "Tesla misses on earnings, as free cash flow turns negative and margins slide",
+   "link": "https://www.cnbc.com/2026/07/22/tesla-tsla-q2-2026-earnings-report.html",
+   "summary": "Tesla's earnings report lands in the midst of a slide in the company's stock price even as its core auto business is rebounding.",
+   "article_text": "Tesla (TSLA) Q2 2026 earnings report Skip Navigation Markets Business Investing Tech Politics Video Watchlist Investing Club PRO Livestream Menu Key Points Tesla reported weaker-than-expected earnings for the quarter, but beat on revenue. The company's stock price is down 17% this year, while the Nasdaq is up. Earlier this month, Tesla reported a 25% increase in year-over-year auto deliveries for the second quarter, following consecutive annual declines. In this article TSLA Follow your favorite stocks CREATE FREE ACCOUNT watch now VIDEO 1:27 01:27 Tesla shares slide on mixed Q2 results Closing Bell: Overtime Tesla reported weaker-than-expected earnings for the second quarter even as revenue topped estimates. The stock slid about 4% in extended trading on Wednesday. Here's how the company did compared to Wall Street expectations, according to estimates from analysts polled by LSEG Earnings per share : 33 cents adjusted vs. 51 cents expected Revenue : $28.24 billion vs. $25.71 billion expected Tesla's earnings report lands in the midst of a steep decline in its stock price, which is down about 11% this month and 17% for the year as of Wednesday's close. That slide has coincided with a drop in SpaceX , Elon Musk's other trillion-dollar company, which held a record market debut in June and has lost more than 40% of its value since its peak close. Revenue at Tesla jumped jumped 26% in the period from $22.5 billion a year earlier, the company said in a statement. Net income fell 5% to $1.11 billion, or 32 cents a share, from $1.17 billion, or 33 cents per share, a year earlier. Tesla's core automotive segment generated $20.52 billion in revenue, up 23% from a year ago. Revenue in the energy business, which consists of solar and battery energy storage systems, increased 13% to $3.14 billion. In its services and other business, which includes fees for repairing vehicles out of warranty, revenue jumped 50% to $4.58 billion. Despite better-than-expected revenue in its auto business, the company's gross margin dropped and missed estimates as average selling price per vehicle fell and regulatory credit revenue declined. Gross margin, or the profit left after accounting for the cost of goods sold, slid to 16.8% from 17.2% a year earlier. Analysts expected 19.4%, according to StreetAccount. During the quarter, Tesla sold lower-cost version of its popular Model 3 and Y vehicles after retiring its more expensive, flagship Model S and X vehicles. Tesla Model 3 electric vehicles (EV) on a vehicle transport truck at the company's store in Colma, California, US, on Friday, Jan. 23, 2026. David Paul Morris | Bloomberg | Getty Images Operating expenses climbed much faster than revenue, as the company poured money into artificial intelligence and other research and development projects. The 47% increase in operating expenses brought the total to $4.35 billion in the second quarter. Tesla's operating margin plunged to 1.4% from 4.1% a year ago. Musk has shifted the focus of the company away from vehicle sales and toward its driverless Robotaxi service, ramping production of the company's driverless Cybercab, and remaking older factory lines in Fremont, California, to start manufacturing Optimus humanoid robots. He's promised shareholders and fans an AI-powered robot that will be able to step in as a babysitter, factory worker or world-class surgeon. Skyrocketing costs Free cash flow at Tesla turned negative in the quarter. The deficit of $1.1 billion comes after the company generated $146 million in free cash flow a year ago and $1.44 billion in the first quarter of 2026. Tesla said in its shareholder deck that it \"will manage the business such that we ensure a strong balance sheet, maintaining sufficient liquidity to fund our product roadmap, long-term capacity expansion plans – including further vertical integration – and other expenses.\" Capital expenditures, meanwhile, soared 142% to $5.79 billion from $2.39 billion in the same quarter last year. CFO Vaibhav Taneja told shareholders during the company's last earnings call in April that capex would top $25 billion this year. \"Capacity build out and ramp related to our multi-year infrastructure initiatives, including AI compute, solar, battery material and semiconductor manufacturing are underway,\" the company said in the earnings deck. Tesla is trying to recover from consecutive years of declining deliveries, largely due to competition from Chinese automakers, including BYD, Nio and Xiaomi, that are offering affordable but high-tech EVs in markets beyond the U.S. Some car buyers have boycotted Tesla in response to Musk's incendiary political rhetoric and work with the Trump administration. Rising gas prices resulting from the U.S. war in Iran boosted Tesla sales in the first half of the year, with European car buyers purchasing more EVs . Taneja told investors on Wednesday that operating expenditures will \"grow in 2026 and beyond.\" He also said, \"commodity price increases and interest rate changes\" will all continue to add to Tesla's costs. watch now VIDEO 4:02 04:02 Tesla stock likely sliding on EPS miss, says Morningstar's Seth Goldstein Closing Bell: Overtime Musk said on the earnings call that Tesla would soon disclose more details about the chip plant and had already ordered equipment for a \"development fab,\" but declined to discuss other details for the \"high-risk, high-payoff bets\" the company is making around AI chips. The company said in its earnings presentation that it's \"installing the first-generation lines for Optimus,\" and will \"start production soon.\" Tesla also said its initial Optimus robots will be used for \"training data collection and further functionality development,\" not deployed to customers. \"This is going to be the hardest product to scale manufacturing that we've ever made at Tesla, because everything on the robot is new,\" Musk said on the call. He added that there is \"no existing supply chain\" for it. Tesla said \"active FSD subscriptions\" rose 56% in the quarter, and the company now has 1.48 million subscribers total to that product. The full name for FSD in the U.S. is Full Self-Driving (Supervised), and in every market, it requires a human driver ready to steer or brake at all times. Tesla is lagging far behind driverless ride-hailing companies including Alphabet's Waymo, and Baidu's Apollo Go, but the company is now \"ramping unsupervised\" Robotaxi rides in several U.S. markets. The company has started production of a two-seater driverless vehicle called Cybercab, but it's not clear when it will be deemed safe and available for use by individuals. \"We need to be cautious about causing any accidents or causing any harm to anyone,\" Musk said. \"If we injure even one person, it will be worldwide headline news, and regulators will immediately clamp down on our activities.\" Ashok Elluswamy, Tesla's vice president of Autopilot, added during the call that Tesla's Robotaxi fleet is now running with the \"v. 15\" build of its FSD software. The forthcoming Cybercab will use the same version of the FSD software used in its Robotaxi fleet, he said. Musk was asked on the call if Tesla and SpaceX would ever merge. \"There more and more overlap especially with Terafab. That's really going to be a gigantic project,\" he said. \"But obviously, we can't talk about combining companies and that kind of thing on an earnings call.\" Musk and other Tesla execs noted that Grok, an AI chatbot available in Tesla vehicles, is made by SpaceXAI (formerly known as xAI). Cybercab will rely on SpaceX's Starlink for connectivity, Musk noted. And SpaceXAI is also developing an AI model intended to serve as a \"manager\" of Optimus. WATCH: Chinese EVs push into UK market watch now VIDEO 6:06 06:06 Chinese EVs push into the UK market Autos Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
+   "source": "CNBC Earnings",
+   "category": "earnings",
+   "type": "earnings",
+   "sentiment": "negative",
+   "domain": "cnbc.com",
+   "published": "2026-07-22T22:30:40+00:00",
+   "tickers": [
+    "TSLA"
+   ]
+  },
+  {
+   "id": "1bead7f04007",
+   "title": "Adam Weitsman Backs Unserious in their Acquisition of Creepz and Psychrome homecoming",
+   "link": "https://www.investing.com/news/cryptocurrency-news/adam-weitsman-backs-unserious-in-their-acquisition-of-creepz-and-psychrome-homecoming-4807203",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-07-22T22:30:33+00:00",
+   "tickers": []
+  },
+  {
+   "id": "5e847d6d5811",
+   "title": "Alphabet Inc. 2026 Q2 - Results - Earnings Call Presentation",
+   "link": "https://seekingalpha.com/article/4924439-alphabet-inc-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-22T22:30:31+00:00",
+   "tickers": [
+    "GOOG"
+   ]
+  },
+  {
+   "id": "adba7eddb1a1",
+   "title": "Form 424B5 Dyne Therapeutics Inc For: 22 July",
+   "link": "https://www.investing.com/news/filings/form-424b5-dyne-therapeuticsinc-for-22-july-93CH-4807201",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-07-22T22:30:19+00:00",
+   "tickers": []
+  },
+  {
+   "id": "8f65ffed8d97",
+   "title": "Form 4 National Storage Affiliates Trust For: 22 July",
+   "link": "https://www.investing.com/news/filings/form-4-national-storage-affiliates-trust-for-22-july-93CH-4807200",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-07-22T22:30:17+00:00",
+   "tickers": []
+  },
+  {
+   "id": "24d48b797e1b",
+   "title": "Form 144 StoneX Group Inc. For: 22 July",
+   "link": "https://www.investing.com/news/filings/form-144-stonex-group-inc-for-22-july-93CH-4807199",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-07-22T22:30:15+00:00",
+   "tickers": []
+  },
+  {
+   "id": "01421b5c717d",
+   "title": "WesternU names Dr. Michael Marinello as founding CGN-Northwest Site Dean",
+   "link": "https://www.prnewswire.com/news-releases/westernu-names-dr-michael-marinello-as-founding-cgn-northwest-site-dean-302832567.html",
+   "summary": "LEBANON, Ore., July 22, 2026 /PRNewswire/ -- Western University of Health Sciences has selected Michael Marinello, DNP, MSN, RN, as the founding Site Dean for the College of Graduate Nursing-Northwest (CGN-Northwest), effective Aug. 3, 2026. \"The appointment of Dr. Marinello as Site Dean...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-07-22T22:30:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "46aa53d0a638",
+   "title": "Social media addiction lawsuit against Meta is dropped",
+   "link": "https://biztoc.com/x/5f424e3cfac3853f?ref=rss",
+   "summary": "A day after Snap tentatively settled with the plaintiff in a social media addiction lawsuit, leaving Meta as the only remaining defendant, the case has been dropped. In a statement, Meta said the plaintiff chose to drop his case against Meta without receiving any payment. TikTok and Google’s…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-07-22T22:29:52+00:00",
+   "tickers": [
+    "GOOGL",
+    "SNAP",
+    "META"
+   ]
+  },
+  {
+   "id": "6f1f38f691c3",
+   "title": "Samsung’s Galaxy Ecosystem Is Becoming More Like Apple’s - but With Gemini at the Centre",
+   "link": "https://biztoc.com/x/7ddc96f2f604ed94?ref=rss",
+   "summary": "For years, the knock on Samsung was that it made brilliant hardware and then surrounded it with a fragmented software experience that never quite cohered. What came out of Galaxy Unpacked 2026 in London today suggests that era is ending - not because Samsung suddenly built its own AI stack, but…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-22T22:29:49+00:00",
+   "tickers": [
+    "AAPL"
+   ]
+  },
+  {
+   "id": "459736cd584b",
+   "title": "Senate panel advances China auto bill that could bar Mercedes-Benz from U.S",
+   "link": "https://biztoc.com/x/9dcc96d7b999d21c?ref=rss",
+   "summary": "The Senate Commerce Committee advanced bipartisan legislation Wednesday aimed at toughening a ban on Chinese automakers from the U.S. market, even as Chairman Ted Cruz, R-Texas, warned that it could unintentionally bar Mercedes-Benz from selling vehicles in the country. Cruz said during the…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-22T22:29:42+00:00",
+   "tickers": []
+  },
+  {
+   "id": "07183f4847a9",
+   "title": "Key Democratic lawmakers say crypto Clarity Act 'falls short' on ethics, other issues",
+   "link": "https://biztoc.com/x/9739ca001c26ce35?ref=rss",
+   "summary": "Key Democratic lawmakers say crypto Clarity Act 'falls short' on ethics, other issues Several of the Democrats most likely to vote for the crypto market structure bill said they had issues with the new draft published by Republicans earlier in the day. The newest draft of the crypto market…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-07-22T22:29:36+00:00",
+   "tickers": []
+  },
+  {
+   "id": "64aead7e40c3",
+   "title": "Houthi blockade adds pressure to oil markets",
+   "link": "https://biztoc.com/x/710b162de6856019?ref=rss",
+   "summary": "The Houthis’ declared blockade of the Red Sea is raising fears of a “two-chokepoint problem,” Standard Chartered analysts wrote, as oil markets contend with simultaneous disruptions to both of the region’s main oil arteries. Tankers are shunning the Bab el-Mandeb Strait, threatening a lifeline for…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-22T22:29:32+00:00",
+   "tickers": []
+  },
+  {
+   "id": "062d45fe0209",
+   "title": "GPIQ: Nasdaq Growth With A 10% Yield Comes With A Tradeoff",
+   "link": "https://seekingalpha.com/article/4924416-gpiq-nasdaq-growth-with-a-10-percent-yield-comes-with-a-tradeoff?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-22T22:29:28+00:00",
+   "tickers": [
+    "NDAQ",
+    "GPIQ"
+   ]
+  },
+  {
+   "id": "f45dcb257374",
+   "title": "Quantinuum nomme sa directrice juridique et son directeur des ressources humaines",
+   "link": "https://www.prnewswire.com/news-releases/quantinuum-nomme-sa-directrice-juridique-et-son-directeur-des-ressources-humaines-302832665.html",
+   "summary": "BROOMFIELD, Colorado, 22 juillet 2026 /PRNewswire/ -- Quantinuum, Inc. (NASDAQ : QNT), une entreprise de premier plan dans le domaine de l'informatique quantique, annonce aujourd'hui la nomination récente de Robin Schulman au poste de directrice juridique et de secrétaire générale, à...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-07-22T22:29:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "1e5d317084d2",
+   "title": "CPSC Posts Product Safety Warning to its Web Site",
+   "link": "https://www.prnewswire.com/news-releases/cpsc-posts-product-safety-warning-to-its-web-site-302832662.html",
+   "summary": "WASHINGTON, July 22, 2026 /PRNewswire/ -- The CPSC announces today the following product safety warning is posted and can be viewed at www.cpsc.gov. CPSC Urges Consumers to Stop Using Lakkzoom Immersion Water Heaters Immediately Due to Risk of Serious Injury and Death from Fire Hazard |...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "negative",
+   "domain": "prnewswire.com",
+   "published": "2026-07-22T22:28:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c3951f5f74d4",
+   "title": "Leslie's sinks on the report it's considering Chapter 11 bankruptcy",
+   "link": "https://seekingalpha.com/news/4617097-leslies-sinks-on-the-report-its-considering-chapter-11-bankruptcy?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-22T22:27:07+00:00",
+   "tickers": []
+  },
+  {
+   "id": "fb17d0e24e6b",
+   "title": "Materialise: Maturing Transition Should Lead To Stronger Performance Going Forward",
+   "link": "https://seekingalpha.com/article/4924415-materialise-maturing-transition-should-lead-to-stronger-performance-going-forward?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-22T22:26:37+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b1782dec12d6",
+   "title": "Vincere Portfolios Expands Its Commitment to Rules-Based Investing During Volatile Market Conditions",
+   "link": "https://www.prnewswire.com/news-releases/vincere-portfolios-expands-its-commitment-to-rules-based-investing-during-volatile-market-conditions-302832661.html",
+   "summary": "Company highlights how systematic investing frameworks are helping investors prioritize consistency, discipline, and structured execution amid changing market environments. NEW YORK, July 22, 2026 /PRNewswire/ -- Vincere Portfolios announced today that it is highlighting the growing...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "positive",
+   "domain": "prnewswire.com",
+   "published": "2026-07-22T22:26:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ab16db120a69",
+   "title": "Alphabet earnings updates: Stock sinks during analyst call as company hikes 2026 capex",
+   "link": "https://www.cnbc.com/2026/07/22/google-earnings-q2-goog-live-updates.html",
+   "summary": "Google parent Alphabet reported second-quarter earnings after the bell on Wednesday.",
+   "article_text": "Google (GOOG) Q2 2026 earnings report: Live updates Skip Navigation Markets Business Investing Tech Politics Video Watchlist Investing Club PRO Livestream Menu watch now VIDEO 0:41 00:41 Alphabet beats on Q2 revenue, posts 82% year-over-year jump in Google cloud revenue Closing Bell: Overtime Google parent Alphabet reported better-than-expected revenue for the second quarter on Wednesday, driven by growth of 82% in its cloud business. Here are the numbers. Shares declined about 3%. Earnings per share : $2.85 adj. vs $2.89 expected by LSEG Revenue : $119.80 billion vs $116.93 billion expected by LSEG Here's what you need to know: The company boosted its expected capex spend in 2026 to as high as $205 billion. Google's Antigravity AI coding tool now has 2.4 million weekly active users Pichai touts FIFA 2026 World Cup boost The company's \" other income \" that includes stakes in Anthropic and SpaceX added $99 billion Alphabet's capex grew 100% year-over-year to $44.9 billion in Q2 Search revenue grew 17%, in-line with expectations Google's cloud revenue jumped 82% to $24.8 billion Google again hiked its capital expenditures guidance for the year as it builds infrastructure to keep pace with booming artificial intelligence demand. The company expects spending of $195 billion to $205 billion in 2026, up from the $180 billion to $190 billion forecast provided last quarter. \"We're still in a supply-constrained environment,\" finance chief Anat Ashkenazi told analysts on the company's earnings call. \"I think we've said this now for multiple quarters in a row, and we are seeing very strong demand both from external cloud customers as well as across the business.\" As AI competition heats up, Google said its Gemini App now has 950 million monthly active users and can process 22 billion tokens per minute. Meanwhile, Google is seeing intensifying pressure from Chinese open-weight tools as businesses crack down on rising token costs. Google, which debuted three cheaper Gemini models this week, faced blowback earlier in the month after reportedly delaying the launch of its Gemini 3.5 Pro model CEO Sundar Pichai said that model is undergoing testing, and the company is already investing compute into Gemini 4 to compete with frontier model makers like Anthropic and OpenAI. Alphabet GOOGL stock chart CNBC's reporters are covering Alphabet earnings from bureaus in San Francisco and Englewood Cliffs, New Jersey. 1 Hour Ago Pichai weighs in on Waymo bet A Waymo autonomous taxi outside the Google headquarters in Mountain View, California, Feb. 3, 2026. David Paul Morris | Bloomberg | Getty Images \"We're really focused on scaling the business right now and executing to that extraordinary potential,\" Pichai said on Google's Waymo bet. — Samantha Subin 1 Hour Ago Pichai talks AI model competition, calls Gemini 4 'very ambitious effort' Josh Woodward, vice president of Google Labs and Gemini, during the Google I/O Developers Conference in Mountain View, California, US, on Tuesday, May 19, 2026. David Paul Morris | Bloomberg | Getty Images Google is already dedicating resources to its Gemini 4 model as AI competition heats up, Pichai told analysts on Wednesday. \"It's a very ambitious effort,\" he said. \"We wanted to compete at the frontier level of where the frontier will be when Gemini 4 comes out, so we are applying a lot of our compute and effort in that direction.\" As Gemini scales, Pichai said the company plans to release new models almost every month. —Samantha Subin 1 Hour Ago Google hikes 2026 spending forecast to as much as $205 billion Google lifted its full-year spending guide, expecting capital expenditures to range between $195 billion and $205 billion on strong AI demand. \"The increase in the range is primarily due to an acceleration in the delivery of capacity to meet growing demand,\" finance chief Anat Ashkenazi told analysts. Analysts polled by Visible Alpha had been looking for about $188 billion in 2026 capital spending. Last quarter, the company boosted capex guidance to as much as $190 billion and said it's planning for a significant increase in spending. Ashkenazi reiterated those comments and said Google will continue investing as long as the return looks attractive. \"We're still in a supply-constrained environment,\" she said. \"I think we've said this now for multiple quarters in a row, and we are seeing very strong demand both from external cloud customers as well as across the business.\" — Samantha Subin 1 Hour Ago CoreWeave and Nebius shares jump on Alphabet plan to consume more outside computing power Vcg | Visual China Group | Getty Images Alphabet plans to call on third-party cloud providers to meet feverish computing demand. \"Given the supply constraints environment, we plan to expand the use of third-party capacity in Q3 as a bridging strategy while we build up more internal capacity,\" Anat Ashkenazi, the company's finance chief, said on Wednesday's earnings call. \"The strategy allows us to keep growing our customer base and capture greater overall value. However, it will create modest margin pressure in the near term as we utilize this capacity.\" The effort builds on Alphabet's deal with SpaceX to rent Nvidia graphics processing units for running artificial intelligence models for $920 million per month. Google's cloud rival Microsoft has been more active in leasing capacity from a series of outside clouds, including CoreWeave, Iren, Lambda Labs, Nebius and Nscale. CoreWeave and Nebius shares leapt 4% and 5% in extended trading, respectively, after Ashkenazi's comments. \"There are very, very large customers of ours on cloud, who we are trying to support them through this extraordinary moment, and the incremental opportunity they are bringing to us, while a short-term cost over a few months may be very high, in the lifetime of the deal, as we bring more capacity on, is highly ROI positive,\" Alphabet CEO Sundar Pichai said. — Jordan Novet 2 Hours Ago Third-quarter search slow down? FILE PHOTO: Nick Fox, VP of Product for Search and Assistant, speaks at a Google event on September 23, 2018 in San Francisco, California. Amy Osborne | Afp | Getty Images Google's finance chief Anat Ashkenazi told analysts during the earnings call to brace for some tougher comparisons when it comes to the company's search business. Ashkenazi noted that while Google continues \"to benefit from innovation in search by improving the user and advertiser experience with AI,\" the third quarter might be a bit different. \"At the same time, in Q3, we will begin lapping an acceleration in search performance that began in the third quarter last year,\" Ashkenazi said. Considering Google's search revenue for the second quarter came in at $63.3 billion, slightly behind Wall Street's expectations of $63.4 billion, and investors will likely be scrutinizing the business in the third quarter. —Jonathan Vanian 2 Hours Ago Most of Google's $44.9 billion capex supported AI infrastructure Most of Google's $44.9 billion capital expenditures went to technical infrastructure to support the AI buildout, finance chief Anat Ashkenazi told analysts on an earnings call. About 60% of infrastructure investments went to servers and 40% toward data centers and networking equipment. —Samantha Subin 2 Hours Ago Pichai touts user growth in Antigravity AI coding tool Google CEO Sundar Pichai speaks during a keynote address at Google I/O on May 19, 2026 in Mountain View, California. Benjamin Fanjoy | Getty Images Developers are increasingly adopting Google's artificial intelligence coding tool Antigravity. It now has over 2.4 million weekly active users, Alphabet CEO Sundar Pichai said on the Google parent's earnings call. The company provides an Antigravity free tier, and it comes with the $19.99 monthly Google AI Pro and $99.99 Google AI Ultra subscriptions. Enterprise pricing is also available. Pichai did not say how many of the 2.4 million were paying. In Antigravity, people can select models from",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "cnbc.com",
+   "published": "2026-07-22T22:24:18+00:00",
+   "tickers": [
+    "GOOG",
+    "GOOGL"
+   ]
+  },
+  {
+   "id": "d124d60224a0",
+   "title": "BlackBerry: Great Story, But Getting Ahead Of Itself",
+   "link": "https://seekingalpha.com/article/4924414-blackberry-great-story-but-getting-ahead-of-itself?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-22T22:23:10+00:00",
+   "tickers": []
+  },
+  {
+   "id": "33a8a7e99fd8",
+   "title": "EMIRATES ADDS LIKE NASTYA TO ITS AWARD-WINNING ICE INFLIGHT ENTERTAINMENT SYSTEM",
+   "link": "https://www.prnewswire.com/news-releases/emirates-adds-like-nastya-to-its-award-winning-ice-inflight-entertainment-system-302832658.html",
+   "summary": "Families travelling with Emirates can now enjoy a specially curated collection of content from one of the world's most popular children's entertainment brands DUBAI, UAE, July 22, 2026 /PRNewswire/ -- Emirates, the world's largest international airline, and Like Nastya, one of the world's...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-07-22T22:23:00+00:00",
+   "tickers": [
+    "ICE"
+   ]
+  },
   {
    "id": "daca0ab1f84b",
    "title": "When summer blew up our family's routine, I turned to a business system from Toyota. It helped curb the chaos",
@@ -166,21 +973,18 @@
    ]
   },
   {
-   "id": "ab16db120a69",
-   "title": "Alphabet earnings updates: Stock sinks during analyst call as company hikes 2026 capex",
-   "link": "https://www.cnbc.com/2026/07/22/google-earnings-q2-goog-live-updates.html",
-   "summary": "Google parent Alphabet reported second-quarter earnings after the bell on Wednesday.",
-   "article_text": "Google (GOOG) Q2 2026 earnings report: Live updates Skip Navigation Markets Business Investing Tech Politics Video Watchlist Investing Club PRO Livestream Menu watch now VIDEO 0:41 00:41 Alphabet beats on Q2 revenue, posts 82% year-over-year jump in Google cloud revenue Closing Bell: Overtime Google parent Alphabet reported better-than-expected revenue for the second quarter on Wednesday, driven by growth of 82% in its cloud business. Here are the numbers. Earnings per share : $2.85 adj. vs $2.89 expected by LSEG Revenue : $119.80 billion vs $116.93 billion expected by LSEG Here's what you need to know: The company boosted its expected capex spend in 2026 to as high as $205 billion. Google's Antigravity AI coding tool now has 2.4 million weekly active users Pichai touts FIFA 2026 World Cup boost The company's \" other income \" that includes stakes in Anthropic and SpaceX added $99 billion Alphabet's capex grew 100% year-over-year to $44.9 billion in Q2 Search revenue grew 17%, in-line with expectations Google's cloud revenue jumped 82% to $24.8 billion Google again hiked its capital expenditures guidance for the year as it builds infrastructure to keep pace with booming artificial intelligence demand. The company expects spending of $195 billion to $205 billion in 2026, up from the $180 billion to $190 billion forecast provided last quarter. \"We're still in a supply-constrained environment,\" finance chief Anat Ashkenazi told analysts on the company's earnings call. \"I think we've said this now for multiple quarters in a row, and we are seeing very strong demand both from external cloud customers as well as across the business.\" As AI competition heats up, Google said its Gemini App now has 950 million active users and can process 22 billion API tokens per minute. Meanwhile, Google is seeing intensifying pressure from Chinese open-weight tools as businesses crack down on rising token costs. Google, which debuted three cheaper Gemini models this week, faced blowback earlier in the month after reportedly delaying the launch of its Pemini 3.5 Pro model CEO Sundar Pichai said that model is undergoing testing, and the company is already investing compute into Gemini 4 to compete with frontier model makers like Anthropic and OpenAI. Alphabet GOOGL stock chart CNBC's reporters are covering Alphabet earnings from bureaus in San Francisco and Englewood Cliffs, New Jersey. 46 Min Ago Pichai weighs in on Waymo bet A Waymo autonomous taxi outside the Google headquarters in Mountain View, California, Feb. 3, 2026. David Paul Morris | Bloomberg | Getty Images \"We're really focused on scaling the business right now and executing to that extraordinary potential,\" Pichai said on Google's Waymo bet. — Samantha Subin 54 Min Ago Pichai talks AI model competition, calls Gemini 4 'very ambitious effort' Josh Woodward, vice president of Google Labs and Gemini, during the Google I/O Developers Conference in Mountain View, California, US, on Tuesday, May 19, 2026. David Paul Morris | Bloomberg | Getty Images Google is already dedicating resources to its Gemini 4 model as AI competition heats up, Pichai told analysts on Wednesday. \"It's a very ambitious effort,\" he said. \"We wanted to compete at the frontier level of where the frontier will be when Gemini 4 comes out, so we are applying a lot of our compute and effort in that direction.\" As Gemini scales, Pichai said the company plans to release new models almost every month. —Samantha Subin 1 Hour Ago Google hikes 2026 spending forecast to as much as $205 billion Google lifted its full-year spending guide, expecting capital expenditures to range between $195 billion and $205 billion on strong AI demand. \"The increase in the range is primarily due to an acceleration in the delivery of capacity to meet growing demand,\" finance chief Anat Ashkenazi told analysts. Analysts polled by Visible Alpha had been looking for about $188 billion in 2026 capital spending. Last quarter, the company boosted capex guidance to as much as $190 billion and said it's planning for a significant increase in spending. Ashkenazi reiterated those comments and said Google will continue investing as long as the return looks attractive. \"We're still in a supply-constrained environment,\" she said. \"I think we've said this now for multiple quarters in a row, and we are seeing very strong demand both from external cloud customers as well as across the business.\" — Samantha Subin 1 Hour Ago CoreWeave and Nebius shares jump on Alphabet plan to consume more outside computing power Vcg | Visual China Group | Getty Images Alphabet plans to call on third-party cloud providers to meet feverish computing demand. \"Given the supply constraints environment, we plan to expand the use of third-party capacity in Q3 as a bridging strategy while we build up more internal capacity,\" Anat Ashkenazi, the company's finance chief, said on Wednesday's earnings call. \"The strategy allows us to keep growing our customer base and capture greater overall value. However, it will create modest margin pressure in the near term as we utilize this capacity.\" The effort builds on Alphabet's deal with SpaceX to rent Nvidia graphics processing units for running artificial intelligence models for $920 million per month. Google's cloud rival Microsoft has been more active in leasing capacity from a series of outside clouds, including CoreWeave, Iren, Lambda Labs, Nebius and Nscale. CoreWeave and Nebius shares leapt 4% and 5% in extended trading, respectively, after Ashkenazi's comments. \"There are very, very large customers of ours on cloud, who we are trying to support them through this extraordinary moment, and the incremental opportunity they are bringing to us, while a short-term cost over a few months may be very high, in the lifetime of the deal, as we bring more capacity on, is highly ROI positive,\" Alphabet CEO Sundar Pichai said. — Jordan Novet 1 Hour Ago Third-quarter search slow down? FILE PHOTO: Nick Fox, VP of Product for Search and Assistant, speaks at a Google event on September 23, 2018 in San Francisco, California. Amy Osborne | Afp | Getty Images Google's finance chief Anat Ashkenazi told analysts during the earnings call to brace for some tougher comparisons when it comes to the company's search business. Ashkenazi noted that while Google continues \"to benefit from innovation in search by improving the user and advertiser experience with AI,\" the third quarter might be a bit different. \"At the same time, in Q3, we will begin lapping an acceleration in search performance that began in the third quarter last year,\" Ashkenazi said. Considering Google's search revenue for the second quarter came in at $63.3 billion, slightly behind Wall Street's expectations of $63.4 billion, and investors will likely be scrutinizing the business in the third quarter. —Jonathan Vanian 1 Hour Ago Most of Google's $44.9 billion capex supported AI infrastructure Most of Google's $44.9 billion capital expenditures went to technical infrastructure to support the AI buildout, finance chief Anat Ashkenazi told analysts on an earnings call. About 60% of infrastructure investments went to servers and 40% toward data centers and networking equipment. —Samantha Subin 1 Hour Ago Pichai touts user growth in Antigravity AI coding tool Google CEO Sundar Pichai speaks during a keynote address at Google I/O on May 19, 2026 in Mountain View, California. Benjamin Fanjoy | Getty Images Developers are increasingly adopting Google's artificial intelligence coding tool Antigravity. It now has over 2.4 million weekly active users, Alphabet CEO Sundar Pichai said on the Google parent's earnings call. The company provides an Antigravity free tier, and it comes with the $19.99 monthly Google AI Pro and $99.99 Google AI Ultra subscriptions. Enterprise pricing is also available. Pichai did not say how many of the 2.4 million were paying. In Antigravity, people can select models from Google and from Anthropic, along with",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "cnbc.com",
-   "published": "2026-07-22T22:15:12+00:00",
-   "tickers": [
-    "GOOG",
-    "GOOGL"
-   ]
+   "id": "9092b9ad1c38",
+   "title": "OpenAI hacking incident exposes mounting risks in AI arms race",
+   "link": "https://www.ft.com/content/7e558951-0c69-459b-8bc8-2c6021d4402d?syn-25a6b1a6=1",
+   "summary": "Increasing use of aggressive training techniques sharpens threat of bad behaviour by leading models",
+   "article_text": "",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "ft.com",
+   "published": "2026-07-22T22:15:35+00:00",
+   "tickers": []
   },
   {
    "id": "7954511be609",
@@ -369,6 +1173,20 @@
    "sentiment": "neutral",
    "domain": "prnewswire.com",
    "published": "2026-07-22T22:07:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f1344c32237b",
+   "title": "Analysis-After tackling discounts in China, Nike still needs to win back shoppers",
+   "link": "https://www.investing.com/news/stock-market-news/analysisafter-tackling-discounts-in-china-nike-still-needs-to-win-back-shoppers-4807168",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-07-22T22:06:57+00:00",
    "tickers": []
   },
   {
@@ -903,6 +1721,22 @@
    ]
   },
   {
+   "id": "fe1efcf1551d",
+   "title": "Why Sandisk Stock Was a Winner on Wednesday",
+   "link": "https://www.nasdaq.com/articles/why-sandisk-stock-was-winner-wednesday",
+   "summary": "Key PointsDespite that, he left his equivalent of a hold recommendation unchanged.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-07-22T21:59:30+00:00",
+   "tickers": [
+    "SNDK"
+   ]
+  },
+  {
    "id": "a97070abb649",
    "title": "Packaging Non-GAAP EPS of $2.35 beats by $0.04, revenue of $2.49B misses by $10M",
    "link": "https://seekingalpha.com/news/4617094-packaging-non-gaap-eps-of-2_35-beats-by-0_04-revenue-of-2_49b-misses-by-10m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -947,6 +1781,20 @@
    "tickers": [
     "TSLA"
    ]
+  },
+  {
+   "id": "e43b4ecbdb3c",
+   "title": "New York City mayor taps ex-FTC Chair Khan for key economic post, separately faces suit over rent freeze",
+   "link": "https://www.investing.com/news/stock-market-news/new-york-mayor-taps-exftc-chair-khan-for-key-economic-post-separately-faces-suit-over-rent-freeze-4807121",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-07-22T21:54:54+00:00",
+   "tickers": []
   },
   {
    "id": "976a11f6afe7",
@@ -1625,6 +2473,22 @@
    "tickers": []
   },
   {
+   "id": "50b12abdbb0e",
+   "title": "FirstFT: Google burned through cash last quarter amid AI infrastructure splurge",
+   "link": "https://www.ft.com/content/874d9482-dedd-4c53-a6c1-af6f9148bd06?syn-25a6b1a6=1",
+   "summary": "Also in today’s newsletter: OpenAI ‘agent’ hacks into start-up and India’s Gen Z takes on Modi",
+   "article_text": "",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "ft.com",
+   "published": "2026-07-22T21:40:59+00:00",
+   "tickers": [
+    "GOOGL"
+   ]
+  },
+  {
    "id": "13df20e48bac",
    "title": "Penske Automotive Group: Go-Private Deal Appears Likely",
    "link": "https://seekingalpha.com/article/4924408-penske-automotive-group-go-private-deal-appears-likely?source=feed_all_articles",
@@ -1742,22 +2606,6 @@
    "published": "2026-07-22T21:39:00+00:00",
    "tickers": [
     "RKLB"
-   ]
-  },
-  {
-   "id": "c343de8c4ab3",
-   "title": "IBM lowers full-year forecast after earnings warning",
-   "link": "https://www.cnbc.com/2026/07/22/ibm-q2-earnings-report-2026.html",
-   "summary": "IBM is now looking to improve productivity with artificial intelligence, including with a new coding tool called Bob.",
-   "article_text": "IBM Q2 earnings report 2026 Skip Navigation Markets Business Investing Tech Politics Video Watchlist Investing Club PRO Livestream Menu Key Points IBM's results trailed consensus, even after analysts lowered estimates to reflect an earnings warning. The revenue and adjusted earnings per share were in line with the figures released a week ago. IBM also reduced its full-year growth forecast. The technology company said it's speeding up productivity through artificial intelligence. In this article IBM Follow your favorite stocks CREATE FREE ACCOUNT IBM CEO Arvind Krishna attends a Rose Garden Club event on the Rose Garden of the White House in Washington on July 6, 2026. Mandel Ngan | Afp | Getty Images IBM on Wednesday lowered its 2026 forecast and delivered thinner quarterly profits than analysts had projected, even after the technology vendor issued an earnings warning last week. IBM said it aims to widen its full-year pre-tax margin by about 1 percentage point through higher productivity. Here's how the company did relative to LSEG consensus: Earnings per share: $2.93 adjusted vs. $2.97 expected Revenue: $17.16 billion vs. $17.58 billion expected IBM's revenue grew 1% year over year in the quarter, according to a statement . Net income of $2.17 billion, or $2.30 per share, decreased from $2.19 billion, or $2.36 per share, a year ago. Adjusted earnings exclude acquisition-related adjustments. Management called for 4% to 5% in constant-currency revenue growth for 2026. As recently as April , IBM had been looking for over 5% at constant currency. The company reiterated expectations for $1 billion in higher free cash flow for the year. Analysts cut their estimates after IBM announced preliminary second-quarter results, a rare move in technology. In a letter to investors, CEO Arvind Krishna cited worse-than-planned performance in sales of Z mainframe computers and transaction processing software as organizations rushed to buy hardware ahead of expected price increases. The stock dropped 25%, marking its sharpest single-day decline on record. The revenue and adjusted earnings per share figures IBM disclosed on Wednesday were in line with the figures released a week ago. Read more CNBC tech news Google expands Gemini lineup with cheaper models and new Mythos rival Bessent says U.S. could sanction China over AI model 'theft' Nvidia details its next-generation Vera CPU for AI, setting up challenge to AMD and Intel Intel's foundry lands first named customer under CEO Lip-Bu Tan, as Fortinet signs on for security chips As of Wednesday's close, IBM shares have come down 30% so far in 2026, while the S&P 500 index is up about 10%. IBM said its high-margin software segment produced $7.76 billion in second-quarter revenue, up 5%. Consulting revenue, at $5.33 billion, was flat. Revenue from infrastructure, at $3.84 billion, declined 7%, with Z mainframe revenue falling 42%. During the quarter, IBM said it signed a letter of intent to build a U.S. quantum chip foundry . It also introduced the Bob artificial intelligence coding tool that relies on a mixture of generative models, with adoption from over 80,000 employees. \"IBM is accelerating productivity by scaling software development leveraging AI, increasing the effectiveness of its sales and marketing organization, and optimizing its supply chain, the company said in Wednesday's statement. \"These efforts help enhance margin and free cash flow, and strengthen the company's ability to capture significant growth opportunities.\" Executives will discuss the results on a conference call with analysts starting at 5 p.m. ET. WATCH: Melius’ Ben Reitzes on what's next for IBM watch now VIDEO 4:55 04:55 Melius’ Ben Reitzes on what's next for IBM Squawk on the Street Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
-   "source": "CNBC Earnings",
-   "category": "earnings",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "cnbc.com",
-   "published": "2026-07-22T21:38:52+00:00",
-   "tickers": [
-    "IBM"
    ]
   },
   {
@@ -1992,8 +2840,8 @@
    "link": "https://www.ft.com/content/3a40d574-41fe-4e04-a958-1173bb07f064?syn-25a6b1a6=1",
    "summary": "Groups such as Greece’s Dynagas will be allowed to continue carrying Russian LNG",
    "article_text": "",
-   "source": "FT Markets",
-   "category": "markets",
+   "source": "FT Companies",
+   "category": "stocks",
    "type": "ma",
    "sentiment": "neutral",
    "domain": "ft.com",
@@ -2225,20 +3073,6 @@
    "sentiment": "neutral",
    "domain": "sec.gov",
    "published": "2026-07-22T21:30:37+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e43b4ecbdb3c",
-   "title": "New York mayor taps ex-FTC Chair Khan for key economic post, separately faces suit over rent freeze",
-   "link": "https://www.investing.com/news/stock-market-news/new-york-mayor-taps-exftc-chair-khan-for-key-economic-post-separately-faces-suit-over-rent-freeze-4807121",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-22T21:30:36+00:00",
    "tickers": []
   },
   {
@@ -2625,22 +3459,6 @@
    "domain": "sec.gov",
    "published": "2026-07-22T21:25:23+00:00",
    "tickers": []
-  },
-  {
-   "id": "7d81e40bc153",
-   "title": "Google increases capex forecast again after cloud-driven earnings beat",
-   "link": "https://www.investing.com/news/stock-market-news/google-quarterly-cloud-revenue-growth-beats-expectations-4806844",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-07-22T21:25:19+00:00",
-   "tickers": [
-    "GOOGL"
-   ]
   },
   {
    "id": "f01bc77e3347",
@@ -3508,22 +4326,6 @@
    "tickers": []
   },
   {
-   "id": "952251e486d6",
-   "title": "Google reports $6bn cash burn last quarter as it raises AI spending again",
-   "link": "https://www.ft.com/content/b02f972c-c764-4006-9377-42563d9d5530?syn-25a6b1a6=1",
-   "summary": "Search giant says it will commit up to $205bn on AI investments in 2026",
-   "article_text": "",
-   "source": "FT Companies",
-   "category": "stocks",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "ft.com",
-   "published": "2026-07-22T21:15:11+00:00",
-   "tickers": [
-    "GOOGL"
-   ]
-  },
-  {
    "id": "fe6c1ee31b87",
    "title": "8-K - American Clean Resources Group, Inc. (0000773717) (Filer)",
    "link": "https://www.sec.gov/Archives/edgar/data/773717/000121390026080460/0001213900-26-080460-index.htm",
@@ -4321,20 +5123,6 @@
    ]
   },
   {
-   "id": "b4d8c98f805d",
-   "title": "US and Saudi Arabia agree landmark nuclear energy pact",
-   "link": "https://www.ft.com/content/2707aeb6-dba0-4640-877b-4839d268c820?syn-25a6b1a6=1",
-   "summary": "Washington says deal would pave the way for ‘decades-long, multibillion-dollar partnership’",
-   "article_text": "",
-   "source": "FT Companies",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "ft.com",
-   "published": "2026-07-22T21:02:34+00:00",
-   "tickers": []
-  },
-  {
    "id": "639b824408a3",
    "title": "Why EQT Corporation Rallied Today",
    "link": "https://www.nasdaq.com/articles/why-eqt-corporation-rallied-today",
@@ -4363,38 +5151,6 @@
    "domain": "sec.gov",
    "published": "2026-07-22T21:01:50+00:00",
    "tickers": []
-  },
-  {
-   "id": "32c9837c15bd",
-   "title": "Kinder Morgan tops second-quarter profit estimates on higher gas volumes, power demand",
-   "link": "https://www.investing.com/news/stock-market-news/kinder-morgan-tops-secondquarter-profit-estimates-on-higher-natural-gas-volumes-4806947",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-07-22T21:01:49+00:00",
-   "tickers": [
-    "KMI"
-   ]
-  },
-  {
-   "id": "1cfdfed8f4c3",
-   "title": "IBM cuts yearly revenue growth forecast as customers prioritize AI infrastructure spending",
-   "link": "https://www.investing.com/news/stock-market-news/ibm-cuts-yearly-revenue-growth-forecast-as-customers-prioritize-ai-infrastructure-spending-4806875",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-07-22T21:01:11+00:00",
-   "tickers": [
-    "IBM"
-   ]
   },
   {
    "id": "26b8ae27cb64",
@@ -5052,22 +5808,6 @@
    ]
   },
   {
-   "id": "e4c997a213cc",
-   "title": "Tesla misses on earnings, as free cash flow turns negative and margins slide",
-   "link": "https://www.cnbc.com/2026/07/22/tesla-tsla-q2-2026-earnings-report.html",
-   "summary": "Tesla's earnings report lands in the midst of a slide in the company's stock price even as its core auto business is rebounding.",
-   "article_text": "Tesla (TSLA) Q2 2026 earnings report Skip Navigation Markets Business Investing Tech Politics Video Watchlist Investing Club PRO Livestream Menu Key Points Tesla reported weaker-than-expected earnings for the quarter, but beat on revenue. The company's stock price is down 17% this year, while the Nasdaq is up. Earlier this month, Tesla reported a 25% increase in year-over-year auto deliveries for the second quarter, following consecutive annual declines. In this article TSLA Follow your favorite stocks CREATE FREE ACCOUNT Elon Musk is interviewed on CNBC from the Tesla headquarters in Texas. CNBC Tesla reported weaker-than-expected earnings for the second quarter even as revenue topped estimates. The stock slid almost 3% in extended trading on Wednesday. Here's how the company did compared to Wall Street expectations, according to estimates from analysts polled by LSEG Earnings per share : 33 cents adjusted vs. 51 cents expected Revenue : $28.24 billion vs. $25.71 billion expected Tesla's earnings report lands in the midst of a steep decline in its stock price, which is down about 11% this month and 17% for the year. That slide has coincided with a drop in SpaceX , Elon Musk's other trillion-dollar company, which held a record market debut in June and has lost more than 40% of its value since its peak close. Revenue in the period jumped 26% from $22.5 billion a year earlier, the company said in a statement. Net income fell 5% to $1.11 billion, or 32 cents a share, from $1.17 billion, or 33 cents per share, a year earlier. Tesla's core automotive segment generated $20.52 billion in revenue, up 23% from a year ago. Revenue in the energy business, which consists of solar and battery energy storage systems, increased 13% to $3.14 billion. In its services and other business, which includes fees for repairing vehicles out of warranty, revenue jumped 50% to $4.58 billion. Despite better-than-expected revenue in its auto business, the company's gross margin dropped and missed estimates as average selling price per vehicle fell and regulatory credit revenue declined. Gross margin, or the profit left after accounting for the cost of goods sold, slid to 16.8% from 17.2% a year earlier. Analysts expected 19.4%, according to StreetAccount. During the quarter, Tesla sold lower-cost version of its popular Model 3 and Y vehicles after retiring its more expensive, flagship Model S and X vehicles. Operating expenses climbed much faster than revenue, as the company poured money into artificial intelligence and other research and development projects. The 47% increase in operating expenses brought the total to $4.35 billion in the second quarter. Tesla's operating margin plunged to 1.4% from 4.1% a year ago. Musk has shifted the focus of the company away from vehicle sales and toward its driverless Robotaxi service, ramping production of the company's driverless Cybercab, and remaking older factory lines in Fremont, California, to start manufacturing Optimus humanoid robots. He's promised shareholders and fans an AI-powered robot that will be able to step in as a babysitter, factory worker or world-class surgeon. Free cash flow Tesla turned negative in the quarter. The deficit of $1.1 billion comes after the company generated $146 million in free cash flow a year ago and $1.44 billion in the first quarter of 2026. Tesla said in its shareholder deck that it \"will manage the business such that we ensure a strong balance sheet, maintaining sufficient liquidity to fund our product roadmap, long-term capacity expansion plans – including further vertical integration – and other expenses.\" Capital expenditures, meanwhile, soared 142% to $5.79 billion from $2.39 billion in the same quarter last year. CFO Vaibhav Taneja told shareholders during the company's last earnings call in April that capex would top $25 billion this year. \"Capacity build out and ramp related to our multi-year infrastructure initiatives, including AI compute, solar, battery material and semiconductor manufacturing are underway,\" the company said in the earnings deck. Tesla is trying to recover from consecutive years of declining deliveries, largely due to competition from Chinese automakers, including BYD, Nio and Xiaomi, that are offering affordable but high-tech EVs in markets beyond the U.S. Some car buyers have boycotted Tesla in response to Musk's incendiary political rhetoric and work with the Trump administration. Soaring gas prices resulting from the U.S. war in Iran boosted Tesla sales in the first half of the year, with European car buyers purchasing more EVs . Tesla's earnings call starts at 5:30 p.m. Eastern time. On the call, investors will be looking for updates on robotics and driverless technology, and how Musk expects Tesla and SpaceX to work together, including on Terafab, a massive chip factory the companies plan to jointly build and run with Intel in Texas. The company said in its earnings presentation that it's \"installing the first-generation lines for Optimus,\" and will \"start production soon.\" Tesla also said its initial Optimus robots will be used for \"training data collection and further functionality development,\" not deployed to customers. Tesla said \"active FSD subscriptions\" rose 56% in the quarter, and the company now has 1.48 million subscribers to its premium, driver assistance system. The full name for FSD in the U.S. is Full Self-Driving (Supervised), which requires a human driver ready to steer or brake at all times. WATCH: Chinese EVs push into UK market watch now VIDEO 6:06 06:06 Chinese EVs push into the UK market Autos Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
-   "source": "CNBC Earnings",
-   "category": "earnings",
-   "type": "earnings",
-   "sentiment": "negative",
-   "domain": "cnbc.com",
-   "published": "2026-07-22T20:55:53+00:00",
-   "tickers": [
-    "TSLA"
-   ]
-  },
-  {
    "id": "8987911e4083",
    "title": "Vale shareholders elect new chair following governance dispute",
    "link": "https://www.ft.com/content/f20ecb6c-efc8-43ca-b65b-48a27c343fe9?syn-25a6b1a6=1",
@@ -5129,7 +5869,7 @@
    "link": "https://www.prnewswire.com/news-releases/shareholder-alert-purcell--lefkowitz-llp-announces-shareholder-investigation-of-sidus-space-inc-nasdaq-sidu-302832491.html",
    "summary": "NEW YORK, July 22, 2026 /PRNewswire/ -- Purcell & Lefkowitz LLP announces that it is investigating Sidus Space, Inc. (NASDAQ: SIDU) on behalf of the company's shareholders. The investigation seeks to determine whether Sidus Space's directors breached their fiduciary duties in connection...",
    "article_text": "",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "legal",
    "sentiment": "negative",
@@ -5784,7 +6524,7 @@
    "link": "https://www.prnewswire.com/news-releases/building-markets-to-ring-nasdaq-closing-bell-celebrating-the-power-of-small-businesses-and-campaign-to-transform-lives-302832611.html",
    "summary": "\"Global Nonprofit Connects Small Businesses in Vulnerable Communities to Buyers, Financing, and Markets \" NEW YORK, July 22, 2026 /PRNewswire/ -- Building Markets, a global nonprofit that empowers small businesses in vulnerable communities, will ring the Nasdaq Closing Bell in Times...",
    "article_text": "",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -5943,22 +6683,6 @@
    "domain": "sec.gov",
    "published": "2026-07-22T20:44:59+00:00",
    "tickers": []
-  },
-  {
-   "id": "929b88a0156e",
-   "title": "Tesla Profit Falls Even as Car Sales Rebound",
-   "link": "https://www.nytimes.com/2026/07/22/business/tesla-earnings-elon-musk.html",
-   "summary": "The company is selling more cars, but the company’s profit was down because of price cuts and higher expenses.",
-   "article_text": "",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "nytimes.com",
-   "published": "2026-07-22T20:44:42+00:00",
-   "tickers": [
-    "TSLA"
-   ]
   },
   {
    "id": "ec2fd10bfea7",
@@ -6215,7 +6939,7 @@
    "link": "https://www.prnewswire.com/news-releases/ici-welcomes-bipartisan-sponsors-of-bill-to-stop-states-from-seizing-long-term-investors-savings-302832606.html",
    "summary": "WASHINGTON, July 22, 2026 /PRNewswire/ -- The Investment Company Institute released the following Viewpoints blog. To learn more about why this issue matters and how the SAFER Act would help protect American investors, watch our video on LinkedIn. Millions of American investors have...",
    "article_text": "",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -7779,7 +8503,7 @@
    "title": "Ex-Google recruiter: Ask this 'insightful' question in an interview and I'll want to hire you 'on the spot'",
    "link": "https://www.cnbc.com/2026/07/22/ex-google-recruiter-the-no-1-question-that-makes-me-want-to-hire-someone-on-the-spot.html",
    "summary": "Former Google recruiter Farah Sharghi reveals the question that makes job candidates stand out to her the most.",
-   "article_text": "Ex-Google recruiter: Ask this 'insightful' question in an interview and I'll want to hire you 'on the spot' Skip Navigation Related Stories Get Ahead If someone does these 5 things, you've probably made a great first impression, research says How to Talk to People Highly successful people use 5 phrases to disagree with their bosses: You’ll ‘earn their respect and trust,’ says expert How to Talk to People Psychology expert: 5 'sneaky' phrases manipulators use—how shut them down on the spot Land the Job How to answer this tricky interview question, says career expert: It shows you have skills that 'cannot be replaced' by AI Leadership CEO coach: Ask these 3 questions before sending an email or talking in a meeting Amnajkhetsamtip | Istock | Getty Images For the last 10 years, I've worked as a recruiter at Google, Uber and The New York Times. At the end of an interview, when I ask \"What questions do you have for me?\" I have already decided how I feel about your skills. At this point, I want to understand how you think. Most people waste this opportunity. They ask predictable and safe questions about growth, culture and day-to-day tasks. The most successful job candidates ask about the problem the company is trying to solve by hiring for this position. Companies are not creating roles for fun. Someone has an issue that they need handled, and they want someone who can take care of it without a lot of oversight. If you show me that you're already thinking this way, it transforms you from one applicant in a sea of many to someone I want to hire on the spot. If you walk into an interview and ask \"What's broken?\" with a genuine curiosity and willingness to help, that's what will make you stand out the most. Here are four ways to ask this question — and what each one teaches me about you when I hear it. 1. 'What's actually broken right now that you want this person to fix?' This question makes me lean in. But you have to ask it with humility, not as a \"gotcha\" question. I would open with a line like, \"To make sure I'm focusing my energy in the right direction...\" and then ask. The framing tells me you're not shopping for a fancy title. You want, and are excited about, the hardest part of the work. This inquiry also hands you something no amount of prep can. Once you learn the real reason the job exists, straight from the source, you can speak directly to the issue at hand — and why you're the right person to help them solve it. 2. 'A year from now, what will make you say that this hire worked out?' In interviews, many job candidates make the mistake of trying to prove that they deserve the job, when they should be trying to figure out how their success will be measured. This question shows me that you are already inhabiting the role. I am not interested in hiring someone who wants any old job offer. I want to make sure that you're capable and are already planning to deliver targeted results. When your interviewer answers this question, don't just nod. Synthesize it back to them. Say, \"So if I'm hearing you right, success looks like X. Let me tell you how I've done that before...\" 3. 'Who is the person on your team you wish you could clone?' This question shows me that you want to know what success looks like here , specific to the texture of this team, not in theory. People who ask this tend to find their footing quickly, because they've already started studying what works. If you leave an interview with a very clear understanding of who has done well and how they made an impact, that will help as you move on to the next round. 4. 'What's the part of this job people underestimate?' This is a disarming question. It provides a great opening for the interviewer to tell you what keeps them up at night with this job. And it's an opportunity for you to share how you can help reduce that stress. The question also shows me that you're insightful. You would rather learn the truth and work through complicated issues than stay on the surface. Interviews often feel like auditions where the goal is to be chosen. The people I've wanted to hire on the spot never played it that way. They treated it like the first day of work and they spent that hour trying to understand what they were there to fix. Farah Sharghi is an HR and technical recruiter, career coach, public speaker and content creator. She has worked as a talent acquisition specialist for Google, Lyft, Uber, TikTok and The New York Times . She posts about job hunting, interview prep, and salary negotiations on YouTube , Instagram and TikTok . Want to get ahead at work? Then you need to learn how to make effective small talk. In CNBC's new online course, How To Talk To People At Work , expert instructors share practical strategies to help you use everyday conversations to gain visibility, build meaningful relationships and accelerate your career growth. Sign up today! Take control of your money with CNBC Select CNBC Select is editorially independent and may earn a commission from affiliate partners on links. Should you use a home equity loan or HELOC to supplement your income? Here are 3 better alternatives More Americans are taking out personal loans. Here’s how to know if you should CNBC Points Pro: With so many limited-time credit card bonuses available, which is right for me? Best travel insurance for parents visiting their children in U.S. These banks are offering cash bonuses of up to $5,000. Here’s how to apply",
+   "article_text": "Ex-Google recruiter: Ask this 'insightful' question in an interview and I'll want to hire you 'on the spot' Skip Navigation Related Stories Leadership CEO coach: Ask these 3 questions before sending an email or talking in a meeting Get Ahead If someone does these 5 things, you've probably made a great first impression, research says How to Talk to People The most charismatic people use 5 simple phrases to get people to like them: Public speaking expert How to Talk to People Highly successful people use 5 phrases to disagree with their bosses: You’ll ‘earn their respect and trust,’ says expert How to Talk to People Harvard and MIT negotiation experts: How to say 'no' without making things awkward Amnajkhetsamtip | Istock | Getty Images For the last 10 years, I've worked as a recruiter at Google, Uber and The New York Times. At the end of an interview, when I ask \"What questions do you have for me?\" I have already decided how I feel about your skills. At this point, I want to understand how you think. Most people waste this opportunity. They ask predictable and safe questions about growth, culture and day-to-day tasks. The most successful job candidates ask about the problem the company is trying to solve by hiring for this position. Companies are not creating roles for fun. Someone has an issue that they need handled, and they want someone who can take care of it without a lot of oversight. If you show me that you're already thinking this way, it transforms you from one applicant in a sea of many to someone I want to hire on the spot. If you walk into an interview and ask \"What's broken?\" with a genuine curiosity and willingness to help, that's what will make you stand out the most. Here are four ways to ask this question — and what each one teaches me about you when I hear it. 1. 'What's actually broken right now that you want this person to fix?' This question makes me lean in. But you have to ask it with humility, not as a \"gotcha\" question. I would open with a line like, \"To make sure I'm focusing my energy in the right direction...\" and then ask. The framing tells me you're not shopping for a fancy title. You want, and are excited about, the hardest part of the work. This inquiry also hands you something no amount of prep can. Once you learn the real reason the job exists, straight from the source, you can speak directly to the issue at hand — and why you're the right person to help them solve it. 2. 'A year from now, what will make you say that this hire worked out?' In interviews, many job candidates make the mistake of trying to prove that they deserve the job, when they should be trying to figure out how their success will be measured. This question shows me that you are already inhabiting the role. I am not interested in hiring someone who wants any old job offer. I want to make sure that you're capable and are already planning to deliver targeted results. When your interviewer answers this question, don't just nod. Synthesize it back to them. Say, \"So if I'm hearing you right, success looks like X. Let me tell you how I've done that before...\" 3. 'Who is the person on your team you wish you could clone?' This question shows me that you want to know what success looks like here , specific to the texture of this team, not in theory. People who ask this tend to find their footing quickly, because they've already started studying what works. If you leave an interview with a very clear understanding of who has done well and how they made an impact, that will help as you move on to the next round. 4. 'What's the part of this job people underestimate?' This is a disarming question. It provides a great opening for the interviewer to tell you what keeps them up at night with this job. And it's an opportunity for you to share how you can help reduce that stress. The question also shows me that you're insightful. You would rather learn the truth and work through complicated issues than stay on the surface. Interviews often feel like auditions where the goal is to be chosen. The people I've wanted to hire on the spot never played it that way. They treated it like the first day of work and they spent that hour trying to understand what they were there to fix. Farah Sharghi is an HR and technical recruiter, career coach, public speaker and content creator. She has worked as a talent acquisition specialist for Google, Lyft, Uber, TikTok and The New York Times . She posts about job hunting, interview prep, and salary negotiations on YouTube , Instagram and TikTok . Want to get ahead at work? Then you need to learn how to make effective small talk. In CNBC's new online course, How To Talk To People At Work , expert instructors share practical strategies to help you use everyday conversations to gain visibility, build meaningful relationships and accelerate your career growth. Sign up today! Take control of your money with CNBC Select CNBC Select is editorially independent and may earn a commission from affiliate partners on links. Should you use a home equity loan or HELOC to supplement your income? Here are 3 better alternatives More Americans are taking out personal loans. Here’s how to know if you should CNBC Points Pro: With so many limited-time credit card bonuses available, which is right for me? Best travel insurance for parents visiting their children in U.S. These banks are offering cash bonuses of up to $5,000. Here’s how to apply",
    "source": "CNBC Top",
    "category": "markets",
    "type": "markets",
@@ -7964,20 +8688,6 @@
    "sentiment": "negative",
    "domain": "biztoc.com",
    "published": "2026-07-22T20:25:04+00:00",
-   "tickers": []
-  },
-  {
-   "id": "82973d2d2ae7",
-   "title": "ServiceNow raises annual subscription revenue forecast again on AI-driven demand",
-   "link": "https://www.investing.com/news/stock-market-news/servicenow-raises-annual-subscription-revenue-forecast-again-on-aidriven-demand-4806945",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-07-22T20:25:02+00:00",
    "tickers": []
   },
   {
@@ -8207,751 +8917,21 @@
    "domain": "sec.gov",
    "published": "2026-07-22T20:23:52+00:00",
    "tickers": []
-  },
-  {
-   "id": "4c08fb023d4b",
-   "title": "8-K - Wells Fargo Commercial Mortgage Trust 2015-C26 (0001630513) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1630513/000188852426012984/0001888524-26-012984-index.htm",
-   "summary": "Filed: 2026-07-22 AccNo: 0001888524-26-012984 Size: 18 KB Item 6.04: Failure to Make a Required Distribution",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-07-22T20:23:44+00:00",
-   "tickers": [
-    "WFC"
-   ]
-  },
-  {
-   "id": "7a6b09252eb8",
-   "title": "8-K - UNITED RENTALS, INC. (0001067701) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1067701/000106770126000028/0001067701-26-000028-index.htm",
-   "summary": "Filed: 2026-07-22 AccNo: 0001067701-26-000028 Size: 683 KB Item 2.02: Results of Operations and Financial Condition Item 7.01: Regulation FD Disclosure Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-07-22T20:23:15+00:00",
-   "tickers": []
-  },
-  {
-   "id": "3f9b097a730f",
-   "title": "8-K - UNITED RENTALS NORTH AMERICA INC (0001047166) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1047166/000106770126000028/0001067701-26-000028-index.htm",
-   "summary": "Filed: 2026-07-22 AccNo: 0001067701-26-000028 Size: 683 KB Item 2.02: Results of Operations and Financial Condition Item 7.01: Regulation FD Disclosure Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-07-22T20:23:15+00:00",
-   "tickers": []
-  },
-  {
-   "id": "29e524016afe",
-   "title": "Globe Life earnings missed by $0.06, revenue topped estimates",
-   "link": "https://www.investing.com/news/earnings/globe-life-earnings-missed-by-006-revenue-topped-estimates-4806944",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-22T20:23:12+00:00",
-   "tickers": [
-    "GL"
-   ]
-  },
-  {
-   "id": "5cf0ba32e0d9",
-   "title": "Pathward Financial earnings missed by $0.58, revenue fell short of estimates",
-   "link": "https://www.investing.com/news/earnings/pathward-financial-earnings-missed-by-058-revenue-fell-short-of-estimates-4806943",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-07-22T20:23:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "25a37f5fb6a9",
-   "title": "AbraSilver Announces C$45 Million “Bought Deal” Public Offering of Common Shares",
-   "link": "https://www.globenewswire.com/news-release/2026/07/22/3331748/0/en/AbraSilver-Announces-C-45-Million-Bought-Deal-Public-Offering-of-Common-Shares.html",
-   "summary": "NOT FOR DISTRIBUTION TO U.S. NEWS WIRE SERVICES OR FOR DISSEMINATION IN THE UNITED STATES",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-07-22T20:23:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "74371684e39b",
-   "title": "8-K - SLM Student Loan Trust 2006-5 (0001358239) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1358239/000114036126029263/0001140361-26-029263-index.htm",
-   "summary": "Filed: 2026-07-22 AccNo: 0001140361-26-029263 Size: 145 KB Item 8.01: Other Events",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-07-22T20:22:53+00:00",
-   "tickers": [
-    "SLM"
-   ]
-  },
-  {
-   "id": "1f87aa1e343f",
-   "title": "8-K - SLM Student Loan Trust 2005-7 (0001331696) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1331696/000114036126029264/0001140361-26-029264-index.htm",
-   "summary": "Filed: 2026-07-22 AccNo: 0001140361-26-029264 Size: 144 KB Item 8.01: Other Events",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-07-22T20:22:31+00:00",
-   "tickers": [
-    "SLM"
-   ]
-  },
-  {
-   "id": "933043d9d15f",
-   "title": "Southwest Airlines earnings beat by $0.43, revenue fell short of estimates",
-   "link": "https://www.investing.com/news/earnings/southwest-airlines-earnings-beat-by-043-revenue-fell-short-of-estimates-4806941",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-22T20:22:12+00:00",
-   "tickers": [
-    "LUV"
-   ]
-  },
-  {
-   "id": "6fe5c6463c45",
-   "title": "Knight-Swift beats Q2 estimates on truckload pricing gains",
-   "link": "https://www.investing.com/news/earnings/knightswift-beats-q2-estimates-on-truckload-pricing-gains-93CH-4806940",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-07-22T20:22:06+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d06be24d66ac",
-   "title": "Graco earnings beat by $0.10, revenue fell short of estimates",
-   "link": "https://www.investing.com/news/earnings/graco-earnings-beat-by-010-revenue-fell-short-of-estimates-4806939",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-22T20:21:34+00:00",
-   "tickers": [
-    "GGG"
-   ]
-  },
-  {
-   "id": "a1b7d70830ec",
-   "title": "8-K - PROGRESS SOFTWARE CORP /MA (0000876167) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/876167/000155278126000390/0001552781-26-000390-index.htm",
-   "summary": "Filed: 2026-07-22 AccNo: 0001552781-26-000390 Size: 3 MB Item 1.01: Entry into a Material Definitive Agreement Item 2.02: Results of Operations and Financial Condition Item 7.01: Regulation FD Disclosure Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-07-22T20:21:29+00:00",
-   "tickers": [
-    "MA"
-   ]
-  },
-  {
-   "id": "076c70314966",
-   "title": "Molina Healthcare earnings beat by $0.12, revenue topped estimates",
-   "link": "https://www.investing.com/news/earnings/molina-healthcare-earnings-beat-by-012-revenue-topped-estimates-4806938",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-07-22T20:21:11+00:00",
-   "tickers": [
-    "MOH"
-   ]
-  },
-  {
-   "id": "7b7595eb3a2f",
-   "title": "8-K - WM TECHNOLOGY, INC. (0001779474) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1779474/000177947426000028/0001779474-26-000028-index.htm",
-   "summary": "Filed: 2026-07-22 AccNo: 0001779474-26-000028 Size: 192 KB Item 5.07: Submission of Matters to a Vote of Security Holders",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-07-22T20:20:47+00:00",
-   "tickers": [
-    "WM"
-   ]
-  },
-  {
-   "id": "8f07bf71dcf9",
-   "title": "AvalonBay earnings missed by $0.12, revenue fell short of estimates",
-   "link": "https://www.investing.com/news/earnings/avalonbay-earnings-missed-by-012-revenue-fell-short-of-estimates-4806937",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-07-22T20:20:41+00:00",
-   "tickers": []
-  },
-  {
-   "id": "c6328af1250b",
-   "title": "8-K - MOLINA HEALTHCARE, INC. (0001179929) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1179929/000117992926000036/0001179929-26-000036-index.htm",
-   "summary": "Filed: 2026-07-22 AccNo: 0001179929-26-000036 Size: 625 KB Item 2.02: Results of Operations and Financial Condition Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-07-22T20:20:41+00:00",
-   "tickers": []
-  },
-  {
-   "id": "8e5e991de8ad",
-   "title": "Progress Software to acquire Domo’s business for $400 million",
-   "link": "https://www.investing.com/news/company-news/progress-software-to-acquire-domos-business-for-400-million-93CH-4806936",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-22T20:20:37+00:00",
-   "tickers": []
-  },
-  {
-   "id": "4b7a79d34cb1",
-   "title": "8-K - ENCORE CAPITAL GROUP INC (0001084961) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1084961/000108496126000052/0001084961-26-000052-index.htm",
-   "summary": "Filed: 2026-07-22 AccNo: 0001084961-26-000052 Size: 1 MB Item 7.01: Regulation FD Disclosure Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-07-22T20:20:29+00:00",
-   "tickers": []
-  },
-  {
-   "id": "05dae8dc94a5",
-   "title": "Western Alliance Bancorporation (WAL) Q2 2026 Earnings Call Transcript",
-   "link": "https://seekingalpha.com/article/4924355-western-alliance-bancorporation-wal-q2-2026-earnings-call-transcript?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-22T20:20:26+00:00",
-   "tickers": [
-    "WAL"
-   ]
-  },
-  {
-   "id": "05d248c42ede",
-   "title": "Stewart Reports Second Quarter 2026 Results",
-   "link": "https://www.prnewswire.com/news-releases/stewart-reports-second-quarter-2026-results-302832461.html",
-   "summary": "Total revenues of $899.2 million ($895.8 million on an adjusted basis) compared to $722.2 million ($721.5 million on an adjusted basis) in the prior year quarter Net income of $37.2 million ($42.9 million on an adjusted basis) compared to net income of $31.9 million ($38.0 million on an...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-07-22T20:20:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d609aebf7bfc",
-   "title": "Hyde Park Capital Advises Five Points Roofing Company on its Partnership with HighPoint Exterior Home Services, a Platform Backed by Lake Street Capital Partners",
-   "link": "https://www.prnewswire.com/news-releases/hyde-park-capital-advises-five-points-roofing-company-on-its-partnership-with-highpoint-exterior-home-services-a-platform-backed-by-lake-street-capital-partners-302832583.html",
-   "summary": "NASHVILLE, Tenn., July 22, 2026 /PRNewswire/ -- Hyde Park Capital announced today that its client, Five Points Construction, LLC (\"Five Points Roofing,\" \"Five Points,\" or the \"Company\"), a full-service roofing contractor headquartered in Franklin, Tennessee, has partnered with HighPoint...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-07-22T20:20:00+00:00",
-   "tickers": [
-    "BEN"
-   ]
-  },
-  {
-   "id": "afc0495ed996",
-   "title": "Suburban Propane Partners, L.P. to Hold Fiscal 2026 Third Quarter Results Conference Call",
-   "link": "https://www.prnewswire.com/news-releases/suburban-propane-partners-lp-to-hold-fiscal-2026-third-quarter-results-conference-call-302832425.html",
-   "summary": "WHIPPANY, N.J., July 22, 2026 /PRNewswire/ -- Suburban Propane Partners, L.P. (NYSE:SPH), announced today that it has scheduled its Fiscal 2026 Third Quarter Results Conference Call for Thursday, August 6, 2026 at 9:00 AM Eastern Time. Analysts, investors and other interested parties are...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-07-22T20:20:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d376bf22e2ff",
-   "title": "FirstEnergy Corp. Declares Common Stock Dividend of 46.5 Cents Per Share",
-   "link": "https://www.prnewswire.com/news-releases/firstenergy-corp-declares-common-stock-dividend-of-46-5-cents-per-share-302832459.html",
-   "summary": "AKRON, Ohio, July 22, 2026 /PRNewswire/ -- The Board of Directors of FirstEnergy Corp. (NYSE: FE) today declared a quarterly dividend of 46.5 cents per share of outstanding common stock payable September 1, 2026, to shareholders of record at the close of business on August 7, 2026....",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "dividend",
-   "sentiment": "positive",
-   "domain": "prnewswire.com",
-   "published": "2026-07-22T20:20:00+00:00",
-   "tickers": [
-    "FE"
-   ]
-  },
-  {
-   "id": "3eceb62fc3f0",
-   "title": "Prediction: The Fed Hikes Rates Once in 2026. Here's What It Means for Bond ETFs.",
-   "link": "https://www.nasdaq.com/articles/prediction-fed-hikes-rates-once-2026-heres-what-it-means-bond-etfs",
-   "summary": "Key PointsNew Fed Chair Kevin Warsh recently said that committee members \"have no tolerance for persistently elevated inflation.\"",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-07-22T20:20:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "af20dd89b29f",
-   "title": "IBM shares spike on full-year revenue growth forecast",
-   "link": "https://www.cnbc.com/video/2026/07/22/ibm-shares-spike-on-full-year-revenue-growth-forecast.html",
-   "summary": "CNBC's Jon Fortt joins 'Closing Bell Overtime' with IBM quarterly results.",
-   "article_text": "",
-   "source": "CNBC Investing",
-   "category": "markets",
-   "type": "guidance",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-07-22T20:19:48+00:00",
-   "tickers": [
-    "IBM"
-   ]
-  },
-  {
-   "id": "43a022eebf02",
-   "title": "iShares California Muni Bond Getting Very Oversold",
-   "link": "https://www.nasdaq.com/articles/ishares-california-muni-bond-getting-very-oversold",
-   "summary": "In trading on Wednesday, shares of the iShares California Muni Bond ETF (Symbol: CMF) entered into oversold territory, changing hands as low as $56.8002 per share. We define oversold territory using the Relative Strength Index, or RSI, which is a technical analysis indicator us",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-07-22T20:19:41+00:00",
-   "tickers": [
-    "IAGG"
-   ]
-  },
-  {
-   "id": "3524241685d9",
-   "title": "CGMU Crosses Critical Technical Indicator",
-   "link": "https://www.nasdaq.com/articles/cgmu-crosses-critical-technical-indicator",
-   "summary": "In trading on Wednesday, shares of the Capital Group Municipal Income ETF (Symbol: CGMU) entered into oversold territory, changing hands as low as $27.18 per share. We define oversold territory using the Relative Strength Index, or RSI, which is a technical analysis indicator u",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-07-22T20:19:38+00:00",
-   "tickers": []
-  },
-  {
-   "id": "5291fab5b3e0",
-   "title": "CNH Industrial (CNH) Shares Cross Above 200 DMA",
-   "link": "https://www.nasdaq.com/articles/cnh-industrial-cnh-shares-cross-above-200-dma",
-   "summary": "In trading on Wednesday, shares of CNH Industrial NV (Symbol: CNH) crossed above their 200 day moving average of $10.61, changing hands as high as $10.85 per share. CNH Industrial NV shares are currently trading up about 3.8% on the day. The chart below shows the one year perf",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-07-22T20:19:26+00:00",
-   "tickers": [
-    "CNH"
-   ]
-  },
-  {
-   "id": "3eb1716fc770",
-   "title": "Tesla shares slide on mixed Q2 results",
-   "link": "https://www.cnbc.com/video/2026/07/22/tesla-shares-slide-on-mixed-q2-results.html",
-   "summary": "CNBC's Phil LeBeau joins 'Closing Bell Overtime' with Tesla results.",
-   "article_text": "",
-   "source": "CNBC Investing",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "negative",
-   "domain": "cnbc.com",
-   "published": "2026-07-22T20:19:13+00:00",
-   "tickers": [
-    "TSLA"
-   ]
-  },
-  {
-   "id": "adc3cd3dcb9d",
-   "title": "CSX Corp Reports Climb In Q2 Profit",
-   "link": "https://www.nasdaq.com/articles/csx-corp-reports-climb-q2-profit",
-   "summary": "(RTTNews) - CSX Corp (CSX) reported earnings for its second quarter that Increased, from the same period last year",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-07-22T20:19:11+00:00",
-   "tickers": [
-    "CSX"
-   ]
-  },
-  {
-   "id": "540597c9c57f",
-   "title": "ServiceNow’s stock rises as earnings show momentum in cybersecurity",
-   "link": "https://www.marketwatch.com/story/servicenows-stock-gains-as-earnings-show-momentum-in-cybersecurity-86e7a038?mod=mw_rss_topstories",
-   "summary": "Against a gloomy backdrop for software sentiment, ServiceNow just topped revenue expectations.",
-   "article_text": "",
-   "source": "MarketWatch",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "marketwatch.com",
-   "published": "2026-07-22T20:19:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "11ad760d6ba5",
-   "title": "I Couldn't Be More Bullish On These 2 Undervalued Dividend Growth Powerhouses",
-   "link": "https://seekingalpha.com/article/4924384-i-couldnt-be-more-bullish-2-undervalued-dividend-growth-powerhouses?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "dividend",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-22T20:18:43+00:00",
-   "tickers": [
-    "BLSH"
-   ]
-  },
-  {
-   "id": "83a587ee422b",
-   "title": "EVIM Crosses Critical Technical Indicator",
-   "link": "https://www.nasdaq.com/articles/evim-crosses-critical-technical-indicator",
-   "summary": "In trading on Wednesday, shares of the Eaton Vance Intermediate Municipal Income ETF (Symbol: EVIM) entered into oversold territory, changing hands as low as $52.65 per share. We define oversold territory using the Relative Strength Index, or RSI, which is a technical analysis",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-07-22T20:18:40+00:00",
-   "tickers": [
-    "ETN"
-   ]
-  },
-  {
-   "id": "547b4b82668b",
-   "title": "TDC Makes Notable Cross Below Critical Moving Average",
-   "link": "https://www.nasdaq.com/articles/tdc-makes-notable-cross-below-critical-moving-average",
-   "summary": "In trading on Wednesday, shares of Teradata Corp (Symbol: TDC) crossed below their 200 day moving average of $28.92, changing hands as low as $28.28 per share. Teradata Corp shares are currently trading off about 3.6% on the day. The chart below shows the one year performance",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-07-22T20:17:55+00:00",
-   "tickers": []
-  },
-  {
-   "id": "8998bf385706",
-   "title": "Shares of CATF Now Oversold",
-   "link": "https://www.nasdaq.com/articles/shares-catf-now-oversold",
-   "summary": "In trading on Wednesday, shares of the American Century California Municipal Bond ETF (Symbol: CATF) entered into oversold territory, changing hands as low as $49.5324 per share. We define oversold territory using the Relative Strength Index, or RSI, which is a technical analys",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-07-22T20:17:48+00:00",
-   "tickers": []
-  },
-  {
-   "id": "406a0151d7df",
-   "title": "Franklin Dynamic Municipal Bond (FLMI) Enters Oversold Territory",
-   "link": "https://www.nasdaq.com/articles/franklin-dynamic-municipal-bond-flmi-enters-oversold-territory",
-   "summary": "In trading on Wednesday, shares of the Franklin Dynamic Municipal Bond ETF (Symbol: FLMI) entered into oversold territory, changing hands as low as $24.755 per share. We define oversold territory using the Relative Strength Index, or RSI, which is a technical analysis indicator",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-07-22T20:17:46+00:00",
-   "tickers": [
-    "BEN"
-   ]
-  },
-  {
-   "id": "e5d871b5dc2e",
-   "title": "IBM shares rise 3% post-Q2 earnings miss as investors eye prior profit warning",
-   "link": "https://www.investing.com/news/stock-market-news/ibm-shares-rise-3-postq2-earnings-miss-as-investors-eye-prior-profit-warning-4806913",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-22T20:17:22+00:00",
-   "tickers": [
-    "IBM"
-   ]
-  },
-  {
-   "id": "89c9c7afdb26",
-   "title": "Raymond James Financial Reports Fiscal Third Quarter of 2026 Results",
-   "link": "https://www.globenewswire.com/news-release/2026/07/22/3331747/0/en/Raymond-James-Financial-Reports-Fiscal-Third-Quarter-of-2026-Results.html",
-   "summary": "ST. PETERSBURG, Fla., July 22, 2026 (GLOBE NEWSWIRE) --",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-07-22T20:17:00+00:00",
-   "tickers": [
-    "RJF"
-   ]
-  },
-  {
-   "id": "6da70c797c62",
-   "title": "Texas Instruments dips despite strong beat as investors sell the news",
-   "link": "https://www.investing.com/news/stock-market-news/texas-instruments-dips-despite-strong-beat-as-investors-sell-the-news-4806893",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-07-22T20:16:00+00:00",
-   "tickers": [
-    "TXN"
-   ]
-  },
-  {
-   "id": "2fdf18c22863",
-   "title": "ELS Reports Second Quarter Results",
-   "link": "https://www.prnewswire.com/news-releases/els-reports-second-quarter-results-302832574.html",
-   "summary": "Continued Strong Performance CHICAGO, July 22, 2026 /PRNewswire/ -- Equity LifeStyle Properties, Inc. (NYSE: ELS) (referred to herein as \"we,\" \"us,\" and \"our\") today announced results for the quarter and six months ended June 30, 2026. All per share results are reported on a fully diluted...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-07-22T20:16:00+00:00",
-   "tickers": [
-    "ELS"
-   ]
-  },
-  {
-   "id": "affdb11ae919",
-   "title": "Natural Resource Partners L.P. Schedules Second Quarter 2026 Earnings Conference Call",
-   "link": "https://www.globenewswire.com/news-release/2026/07/22/3331745/0/en/Natural-Resource-Partners-L-P-Schedules-Second-Quarter-2026-Earnings-Conference-Call.html",
-   "summary": "",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-07-22T20:16:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "fd16e9709534",
-   "title": "First Reliance Bancshares Reports Second Quarter 2026 Results",
-   "link": "https://www.prnewswire.com/news-releases/first-reliance-bancshares-reports-second-quarter-2026-results-302832396.html",
-   "summary": "FLORENCE, S.C., July 22, 2026 /PRNewswire/ -- First Reliance Bancshares, Inc. (OTCQX:FSRL), the holding company for First Reliance Bank (collectively, \"First Reliance\" or the \"Company\"), today announced its financial results for the second quarter of 2026. Second Quarter 2026 Highlights...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-07-22T20:15:00+00:00",
-   "tickers": [
-    "RS"
-   ]
-  },
-  {
-   "id": "bcffad4dee10",
-   "title": "F&amp;G Annuities &amp; Life Announces Second Quarter 2026 Earnings Release and Conference Call",
-   "link": "https://www.prnewswire.com/news-releases/fg-annuities--life-announces-second-quarter-2026-earnings-release-and-conference-call-302832176.html",
-   "summary": "DES MOINES, Iowa, July 22, 2026 /PRNewswire/ -- F&G Annuities & Life, Inc. (NYSE: FG) (F&G), a leading provider of insurance solutions serving retail annuity and life customers and institutional clients, will release second quarter 2026 earnings after the close of regular market trading...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-07-22T20:15:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "c9f67233e785",
-   "title": "Lazard Global Total Return and Income Fund Declares Monthly Distribution and Issues Estimated Sources of the Distribution Announced in June",
-   "link": "https://www.prnewswire.com/news-releases/lazard-global-total-return-and-income-fund-declares-monthly-distribution-and-issues-estimated-sources-of-the-distribution-announced-in-june-302832558.html",
-   "summary": "NEW YORK, July 22, 2026 /PRNewswire/ -- Lazard Global Total Return and Income Fund, Inc. (the \"Fund\") (NYSE:LGI) is confirming today, pursuant to its Managed Distribution Policy, as previously authorized by its Board of Directors, a monthly distribution of $0.15340 per share on the Fund's...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-07-22T20:15:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "85f2442048b3",
-   "title": "Hagerty to Report Second Quarter 2026 Results and Host Conference Call on Wednesday, August 5, 2026",
-   "link": "https://www.prnewswire.com/news-releases/hagerty-to-report-second-quarter-2026-results-and-host-conference-call-on-wednesday-august-5-2026-302831416.html",
-   "summary": "TRAVERSE CITY, Mich., July 22, 2026 /PRNewswire/ -- Hagerty, Inc. (NYSE: HGTY), a business that makes it easier and more enjoyable to be a driving enthusiast, today announced it will report its second quarter 2026 financial results before the market opens on Wednesday, August 5, 2026....",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-07-22T20:15:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "85b66340225b",
-   "title": "NB Bancorp, Inc. Reports Second Quarter 2026 Financial Results, Declares Quarterly Cash Dividend",
-   "link": "https://www.prnewswire.com/news-releases/nb-bancorp-inc-reports-second-quarter-2026-financial-results-declares-quarterly-cash-dividend-302832578.html",
-   "summary": "NEEDHAM, Mass., July 22, 2026 /PRNewswire/ -- NB Bancorp, Inc. (the \"Company\") (Nasdaq Capital Market: NBBK), the holding company of Needham Bank (the \"Bank\"), today announced its second quarter 2026 financial results. Net income for the second quarter of 2026 amounted to $21.1 million,...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-07-22T20:15:00+00:00",
-   "tickers": [
-    "NDAQ"
-   ]
-  },
-  {
-   "id": "8ce260ea627e",
-   "title": "Fidelity National Financial Announces Second Quarter 2026 Earnings Release and Conference Call",
-   "link": "https://www.prnewswire.com/news-releases/fidelity-national-financial-announces-second-quarter-2026-earnings-release-and-conference-call-302832166.html",
-   "summary": "JACKSONVILLE, Fla., July 22, 2026 /PRNewswire/ -- Fidelity National Financial, Inc. (NYSE: FNF) (FNF), a leading provider of title insurance and transaction services to the real estate and mortgage industries and a leading provider of insurance solutions serving retail annuity and life...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-07-22T20:15:00+00:00",
-   "tickers": [
-    "FNF"
-   ]
-  },
-  {
-   "id": "79e96a021ff5",
-   "title": "PROSPERITY BANCSHARES, INC.® ANNOUNCES COMMON STOCK DIVIDEND",
-   "link": "https://www.prnewswire.com/news-releases/prosperity-bancshares-inc-announces-common-stock-dividend-302831714.html",
-   "summary": "HOUSTON, July 22, 2026 /PRNewswire/ -- Prosperity Bancshares, Inc.® (NYSE: PB) today announced that its Board of Directors declared a quarterly common stock dividend of $0.60 per share for the third quarter of 2026, payable October 1, 2026, to shareholders of record as of September 15,...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "dividend",
-   "sentiment": "positive",
-   "domain": "prnewswire.com",
-   "published": "2026-07-22T20:15:00+00:00",
-   "tickers": [
-    "PB"
-   ]
   }
  ],
  "ticker_names": {
   "VYMI": "Vanguard International High Dividend Yield ETF",
+  "GPIQ": "Goldman Sachs Nasdaq-100 Premium Income ETF",
   "ETH": "Grayscale Ethereum Staking Mini ETF Shares",
   "IAGG": "iShares International Aggregate Bond Fund",
   "DIA": "SPDR Dow Jones Industrial Average ETF",
   "BTC": "Grayscale Bitcoin Mini Trust (BTC)",
   "TECL": "Direxion Technology Bull 3X Shares",
   "IBM": "International Business Machines",
-  "WAL": "Western Alliance Bancorporation",
   "SEI": "Solaris Energy Infrastructure",
   "WST": "West Pharmaceutical Services",
   "CHH": "Choice Hotels International",
   "DVY": "iShares Select Dividend ETF",
-  "ELS": "Equity LifeStyle Properties",
-  "FNF": "Fidelity National Financial",
   "PNFP": "Pinnacle Financial Partners",
   "QQQ": "Invesco QQQ Trust, Series 1",
   "PRAX": "Praxis Precision Medicines",
@@ -8965,12 +8945,10 @@
   "RJF": "Raymond James Financial",
   "VLY": "Valley National Bancorp",
   "WBD": "Warner Bros. Discovery",
-  "PB": "Prosperity Bancshares",
   "SMCI": "Super Micro Computer",
   "TMHC": "Taylor Morrison Home",
   "ABT": "Abbott Laboratories",
   "VUG": "Vanguard Growth ETF",
-  "BEN": "Franklin Resources",
   "EQR": "Equity Residential",
   "ISRG": "Intuitive Surgical",
   "LUV": "Southwest Airlines",
@@ -8978,7 +8956,9 @@
   "PANW": "Palo Alto Networks",
   "SIRI": "Sirius XM Holdings",
   "TT": "Trane Technologies",
+  "TYL": "Tyler Technologies",
   "ES": "Eversource Energy",
+  "GIL": "Gildan Activewear",
   "JNJ": "Johnson & Johnson",
   "MOH": "Molina Healthcare",
   "MU": "Micron Technology",
@@ -8988,6 +8968,7 @@
   "RIVN": "Rivian Automotive",
   "RPM": "RPM International",
   "TXN": "Texas Instruments",
+  "UBER": "Uber Technologies",
   "ALK": "Alaska Air Group",
   "BBIO": "BridgeBio Pharma",
   "COST": "Costco Wholesale",
@@ -8995,7 +8976,6 @@
   "NOC": "Northrop Grumman",
   "NVO": "Novo Nordisk A/S",
   "TW": "Tradeweb Markets",
-  "WM": "Waste Management",
   "GE": "General Electric",
   "ARES": "Ares Management",
   "CI": "The Cigna Group",
@@ -9007,8 +8987,8 @@
   "SCCO": "Southern Copper",
   "WGS": "GeneDx Holdings",
   "CCK": "Crown Holdings",
-  "CNH": "CNH Industrial",
   "CVE": "Cenovus Energy",
+  "DG": "Dollar General",
   "GM": "General Motors",
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
@@ -9028,17 +9008,15 @@
   "GOOGL": "Google Cloud",
   "TSLA": "Supercharger",
   "NVDA": "Grace Hopper",
-  "FE": "FirstEnergy",
   "SIDU": "Sidus Space",
   "YUM": "Yum! Brands",
   "AAPL": "Apple Watch",
+  "BA": "The Boeing",
   "BN": "Brookfield",
   "BX": "Blackstone",
   "CMS": "CMS Energy",
   "FIVE": "Five Below",
   "GEV": "GE Vernova",
-  "GL": "Globe Life",
-  "MA": "Mastercard",
   "MNDY": "monday.com",
   "PHM": "PulteGroup",
   "RKLB": "Rocket Lab",
@@ -9064,13 +9042,14 @@
   "IVZ": "Invesco",
   "PAYX": "Paychex",
   "SCI": "Service",
+  "SNDK": "Sandisk",
   "NFLX": "Netflix",
+  "ERAS": "Erasca",
   "NDAQ": "Nasdaq",
   "ORCL": "Oracle",
   "PFE": "Pfizer",
   "RDDT": "Reddit",
   "SPCX": "SpaceX",
-  "ETN": "Eaton",
   "GGG": "Graco",
   "INTC": "Intel",
   "KKR": "KKR &",
