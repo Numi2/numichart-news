@@ -1,8 +1,1123 @@
 {
- "generated": "2026-07-30T22:36:17.012711+00:00",
+ "generated": "2026-07-30T23:01:43.662487+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "5388f3258b62",
+   "title": "Microsoft jumps 8% as it boosts capital spending plans, citing demand",
+   "link": "https://www.cnbc.com/2026/07/29/microsoft-msft-q4-earnings-report-2026.html",
+   "summary": "Microsoft sees positive free cash flow for the new fiscal year as it changes accounting for data centers and office buildings.",
+   "article_text": "",
+   "source": "CNBC Earnings",
+   "category": "earnings",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "cnbc.com",
+   "published": "2026-07-30T22:59:44+00:00",
+   "tickers": [
+    "MSFT"
+   ]
+  },
+  {
+   "id": "53b7df2f7fcd",
+   "title": "Breaking down the GDP report as U.S. economy slows in 2nd quarter",
+   "link": "https://biztoc.com/x/c33a8b65d23eeb0e?ref=rss",
+   "summary": "In a sign that the war in Iran may be weighing on economic growth, the U.S. economy saw a slowdown in the second quarter. That's according to a new report today from the Commerce Department. It all comes after the Federal Reserve kept interest rates unchanged, despite three dissents arguing in…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-30T22:57:48+00:00",
+   "tickers": []
+  },
+  {
+   "id": "d7094878f433",
+   "title": "Schumer unveils anti-corruption agency aimed squarely at Trump",
+   "link": "https://biztoc.com/x/5c2a1c6ac85a15b2?ref=rss",
+   "summary": "Democrats are stepping up their midterm elections messaging against President Donald Trump and his alleged self-dealing, with Senate Minority Leader Chuck Schumer unveiling legislation Thursday to create a new federal agency dedicated to investigating corruption in the executive branch. The New…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-30T22:57:32+00:00",
+   "tickers": []
+  },
+  {
+   "id": "6c21b6cd9b3b",
+   "title": "Walmart’s stock buybacks: How its massive new repurchase program could affect shareholder returns",
+   "link": "https://biztoc.com/x/4c291f60b72e8f2c?ref=rss",
+   "summary": "In his autobiography, Sam Walton: Made In America, Walmart (WMT) founder Sam Walton said that “the more you share profits with your associates — whether it's in salaries or incentives or bonuses or stock discounts — the more profit will accrue to the company.” Decades later, Walmart is still…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-07-30T22:57:31+00:00",
+   "tickers": [
+    "WMT"
+   ]
+  },
+  {
+   "id": "b80273e7bb8b",
+   "title": "News Wrap: Russian drone and missile attack kills 10 in Ukraine",
+   "link": "https://biztoc.com/x/1b9a69bc1d2a5350?ref=rss",
+   "summary": "In our news wrap Thursday, an overnight barrage of Russian drones and missiles killed at least 10 people in Ukraine, the Georgia father whose teenage son killed four people in a 2024 school shooting was sentenced to 15 years in prison and two of soccer's regional governing bodies threatened to…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-30T22:57:30+00:00",
+   "tickers": [
+    "NWSA"
+   ]
+  },
+  {
+   "id": "0044e63b25dc",
+   "title": "Missouri couple murdered in Guatemala after husband was deported",
+   "link": "https://biztoc.com/x/e1cdd11b43e3dd40?ref=rss",
+   "summary": "Acting Attorney General Todd Blanche's nomination to lead the Department of Justice full-time is in limbo. Two Republican senators, John Cornyn of Texas and Thom Tillis of North Carolina, say they will oppose Blanche's nomination unless the DOJ kills a $1.8 billion fund to provide payments to…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-30T22:57:23+00:00",
+   "tickers": []
+  },
+  {
+   "id": "27ceadf7efbf",
+   "title": "Apple forecasts slower growth as AI build-out strains tech supply chains",
+   "link": "https://biztoc.com/x/289b2a7e8a1e9ce3?ref=rss",
+   "summary": "Security Verification For help please visit help.ft.com. We apologise for any inconvenience. The following information can help our support team to resolve this issue. - Reason - Challenge - Request ID - a237f5be0e20a40c - Status Code - 403 For help please visit help.ft.com. We apologise for any…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-30T22:57:22+00:00",
+   "tickers": [
+    "AAPL"
+   ]
+  },
+  {
+   "id": "dd32112126f4",
+   "title": "Rare Alien Terrorist Removal Court Used In New Deportation Case",
+   "link": "https://biztoc.com/x/fc546c074c7502ba?ref=rss",
+   "summary": "The U.S. Justice Department has moved to deport Nazira Haji Zada of Fort Worth, Texas, through the Alien Terrorist Removal Court, marking the first known use of the rarely invoked tribunal in three decades. According to court filings, federal authorities allege Haji Zada supported an ISIS-inspired…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-30T22:57:17+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b62e55652a21",
+   "title": "Alliant Energy beats quarterly profit estimates on higher rates, data center demand",
+   "link": "https://biztoc.com/x/532049d43117b75d?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-07-30T22:57:17+00:00",
+   "tickers": [
+    "LNT"
+   ]
+  },
+  {
+   "id": "2034c1210d55",
+   "title": "Senate Rejects Resolution To Limit US Military Action Against Iran",
+   "link": "https://biztoc.com/x/24bdd1fa14a0be8c?ref=rss",
+   "summary": "The U.S. Senate narrowly rejected a war powers resolution that sought to limit President Donald Trump's military operations against Iran. The measure failed by a 50-49 vote after three Republicans joined Democrats in support, while Senate Republican leader Mitch McConnell was absent because of…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-30T22:57:15+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a5549477baa4",
+   "title": "Democratic Socialists Reveal Their Plan To Reshape America",
+   "link": "https://biztoc.com/x/6b8ae6bc65ba1f07?ref=rss",
+   "summary": "By Virginia Grace McKinnon, The Daily Signal | July 27, 2026 The Democratic Socialists of America are not hiding their plan to reshape America. On Sunday, their co-chair joined Fox News and openly confirmed that their long-term goals ahead of the midterm elections include abolishing parts of the…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-30T22:57:11+00:00",
+   "tickers": [
+    "FOX",
+    "NWSA"
+   ]
+  },
+  {
+   "id": "9e0154e2996c",
+   "title": "Wildfires near Bordeaux threaten to squeeze France's struggling wine industry",
+   "link": "https://biztoc.com/x/aa6948bb274e96f6?ref=rss",
+   "summary": "Bordeaux's legendary wine has seen consumption plunge as young people turn to other beverages and competition from vineyards abroad has grown, while Trump's tariffs have given winemakers an added hangover.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-30T22:57:08+00:00",
+   "tickers": []
+  },
+  {
+   "id": "0f21746f1dd1",
+   "title": "Apple's stock could see its worst post-earnings drop in over a decade",
+   "link": "https://biztoc.com/x/fecefbdada930a7b?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-07-30T22:57:07+00:00",
+   "tickers": [
+    "AAPL"
+   ]
+  },
+  {
+   "id": "6cfaf2264a31",
+   "title": "Brazil Court Authorizes Police Probe Into Lula's Son, Folha Says",
+   "link": "https://biztoc.com/x/326cb5fedbd96bd5?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-07-30T22:57:06+00:00",
+   "tickers": []
+  },
+  {
+   "id": "60031bced263",
+   "title": "Microsoft's Xbox chief lays out plan to pass rivals on margin by 2030 in memo to employees",
+   "link": "https://biztoc.com/x/d78bce21d974b688?ref=rss",
+   "summary": "Microsoft's new Xbox chief is looking to push the gaming unit's margin back in line with its rivals by next year and beat them on profitability by mid-2030. \"We will not live on past successes or be trapped by past failures,\" CEO Asha Sharma wrote in a Thursday message to staff members that CNBC…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-30T22:56:59+00:00",
+   "tickers": [
+    "MSFT"
+   ]
+  },
+  {
+   "id": "d5dda038d0e9",
+   "title": "OpenAI and Anthropic staffers sign call for US to pace AI development",
+   "link": "https://biztoc.com/x/3774ba19e500a5e1?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-30T22:56:55+00:00",
+   "tickers": []
+  },
+  {
+   "id": "80f793ce830c",
+   "title": "Biden's Pardon Can't Protect Fauci From Legal Consequences",
+   "link": "https://biztoc.com/x/a508fce3c29bdf25?ref=rss",
+   "summary": "Biden's Pardon Can't Protect Fauci From Legal Consequences Dr. Anthony Fauci may have believed his Fifth Amendment marathon at the Senate Homeland Security & Governmental Affairs Committee hearing on Wednesday would shield him from prosecution, but he miscalculated. Before he refused to answer…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-30T22:56:53+00:00",
+   "tickers": []
+  },
+  {
+   "id": "3a22d539b3d8",
+   "title": "Trane outlines 2026 organic revenue growth of ~9% and adjusted EPS of $15.20-$15.30 as record backlog reaches $12.1B",
+   "link": "https://seekingalpha.com/news/4622285-trane-outlines-2026-organic-revenue-growth-of-9-percent-and-adjusted-eps-of-15_20-15_30-as?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-30T22:56:33+00:00",
+   "tickers": [
+    "TT"
+   ]
+  },
+  {
+   "id": "b1495b69e25f",
+   "title": "Socket Mobile anticipates industrial scanning growing from about 10% of Q2 revenue over the next few quarters",
+   "link": "https://seekingalpha.com/news/4622284-socket-mobile-anticipates-industrial-scanning-growing-from-about-10-percent-of-q2-revenue?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-30T22:54:44+00:00",
+   "tickers": []
+  },
+  {
+   "id": "d4e7013661d4",
+   "title": "Trump says ’Board of Peace’ reaches Gaza disarmament deal",
+   "link": "https://www.investing.com/news/world-news/trump-says-board-of-peace-reaches-gaza-disarmament-deal-4826504",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-07-30T22:54:32+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b91f5e443bf9",
+   "title": "Meritage outlines Q3 2026 EPS of $1.10-$1.30 while upping full-year closings and revenue outlook to ~5% below 2025",
+   "link": "https://seekingalpha.com/news/4622283-meritage-outlines-q3-2026-eps-of-1_10-1_30-while-upping-full-year-closings-and-revenue?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-30T22:54:27+00:00",
+   "tickers": []
+  },
+  {
+   "id": "12ef2c803878",
+   "title": "FCPT outlines $17.4M annualized rent contribution from Mission Pet Health portfolio as monthly dividend starts in August",
+   "link": "https://seekingalpha.com/news/4622282-fcpt-outlines-17_4m-annualized-rent-contribution-from-mission-pet-health-portfolio-as-monthly?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-30T22:54:20+00:00",
+   "tickers": []
+  },
+  {
+   "id": "38513ba6411c",
+   "title": "Trane Technologies plc (TT) Q2 2026 Earnings Call Transcript",
+   "link": "https://seekingalpha.com/article/4927896-trane-technologies-plc-tt-q2-2026-earnings-call-transcript?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-30T22:53:35+00:00",
+   "tickers": [
+    "TT"
+   ]
+  },
+  {
+   "id": "8a9a6eb66140",
+   "title": "Socket Mobile, Inc. (SCKT) Q2 2026 Earnings Call Transcript",
+   "link": "https://seekingalpha.com/article/4928292-socket-mobile-inc-sckt-q2-2026-earnings-call-transcript?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-30T22:53:32+00:00",
+   "tickers": []
+  },
+  {
+   "id": "1472edf01b67",
+   "title": "Meritage Homes Corporation (MTH) Q2 2026 Earnings Call Transcript",
+   "link": "https://seekingalpha.com/article/4928289-meritage-homes-corporation-mth-q2-2026-earnings-call-transcript?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-30T22:53:25+00:00",
+   "tickers": [
+    "MTH"
+   ]
+  },
+  {
+   "id": "4c7bb0d6b65c",
+   "title": "Four Corners Property Trust, Inc. (FCPT) Q2 2026 Earnings Call Transcript",
+   "link": "https://seekingalpha.com/article/4928288-four-corners-property-trust-inc-fcpt-q2-2026-earnings-call-transcript?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-30T22:53:23+00:00",
+   "tickers": []
+  },
+  {
+   "id": "3f03b582af4e",
+   "title": "COFACE SA (CFACY) Q2 2026 Earnings Call Transcript",
+   "link": "https://seekingalpha.com/article/4928284-coface-sa-cfacy-q2-2026-earnings-call-transcript?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-30T22:53:19+00:00",
+   "tickers": []
+  },
+  {
+   "id": "7be35e993e5b",
+   "title": "SCOTUS Tariff Ruling And Iran War Grind Down GDP And Increase Risk",
+   "link": "https://seekingalpha.com/article/4928236-scotus-tariff-ruling-and-iran-war-grind-down-gdp-and-increase-risk?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-30T22:53:01+00:00",
+   "tickers": []
+  },
+  {
+   "id": "3f8829e1bce4",
+   "title": "Amazon increases AI infrastructure spending to $220bn this year",
+   "link": "https://www.ft.com/content/fddc42a9-4c57-4689-abde-75bbe79622e9?syn-25a6b1a6=1",
+   "summary": "Seattle-based group had in April expected to spend $200bn in 2026",
+   "article_text": "",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "ft.com",
+   "published": "2026-07-30T22:52:46+00:00",
+   "tickers": [
+    "AMZN"
+   ]
+  },
+  {
+   "id": "2295987c692c",
+   "title": "Earnings call transcript: Axos beats Q4 2026 estimates as shares rise after hours",
+   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-axos-beats-q4-2026-estimates-as-shares-rise-after-hours-93CH-4826506",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-07-30T22:51:46+00:00",
+   "tickers": []
+  },
+  {
+   "id": "1b4e931a5c28",
+   "title": "Gallagher Q2 2026 slides show 6% organic growth, margin expansion",
+   "link": "https://www.investing.com/news/company-news/gallagher-q2-2026-slides-show-6-organic-growth-margin-expansion-93CH-4826505",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-07-30T22:51:26+00:00",
+   "tickers": []
+  },
+  {
+   "id": "85b78eb98f96",
+   "title": "Form 4 Globe Life Inc For: 30 July",
+   "link": "https://www.investing.com/news/filings/form-4-globe-life-inc-for-30-july-93CH-4826503",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-07-30T22:49:10+00:00",
+   "tickers": [
+    "GL"
+   ]
+  },
+  {
+   "id": "61ec1815e2e4",
+   "title": "Apple's stock drops 6% as supply constraints lead to weak revenue guidance: Live updates",
+   "link": "https://www.cnbc.com/2026/07/30/apple-earnings-live-updates.html",
+   "summary": "Apple reported third-quarter earnings on Thursday after the closing bell.",
+   "article_text": "Apple (AAPL) Q3 2026 earnings report: Live updates Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu watch now VIDEO 2:36 02:36 Apple shares slip in extended trading despite earnings beat Closing Bell: Overtime Apple reported stronger-than-expected earnings and revenue for the fiscal third quarter, driven by a 22% increase in iPhone sales. But the company issued weak guidance for the current period, citing \"supply constraints.\" The stock slid 6% in extended trading. Here's how the company did versus LSEG consensus estimates: EPS : $2.02, which isn't comparable to analyst estimates of $1.89. Revenue : $109.42 billion, versus $108.65 billion estimated. Here's how Apple did in other key areas: iPhone revenue : $54.25 billion vs. $53.86 billion estimated. Mac revenue : $10.35 billion vs. $8.74 billion estimated. iPad revenue : $6.19 billion vs. $6.92 billion estimated. Wearables revenue : $7.88 billion vs. $7.82 billion estimated. Services revenue : $30.74 billion vs. $31.22 billion estimated. Gross margin : 50.1%. That's not comparable to analyst estimates of 47.9% due to tariff rebates. Cash : $146.52 billion Net income climbed to $29.79 billion, or $2.02 per share, from $23.43 billion, or $1.57 per share, a year ago. Apple said earnings included 11 cents per share from tariff rebates. Apple is reckoning with a global memory crunch, or what Cook recently called a \" hundred-year flood ,\" and a rush for chip manufacturing capacity that's already forced the company to lift prices on Macs and iPads. Apple hasn't said it will raise prices on iPhones, but many analysts are expecting hikes as soon as this year. Meanwhile, Apple is gearing up for a launch of a redesigned Siri using Google technology alongside new iPhone hardware in September, a critical test for the company as investors worry that it's fallen behind in artificial intelligence. Still, revenue growth topped 15% for a third straight quarter. It's CEO Tim Cook's last call before handing leadership over to John Ternus, a 25-year Apple veteran and the current head of hardware. Ternus said little on the conference call . Apple stock chart for Thursday, July 30, 2 CNBC's reporters are covering Apple earnings from bureaus in San Francisco and Englewood Cliffs, New Jersey. Correction: A prior version of this story had an incorrect figure for year-ago earnings. 1 Hour Ago What Apple is doing about component shortages After offering soft guidance related to \"supply constraints\" for parts, Cook explained how Apple is grappling with rising memory costs. It's paying more, and has done so for each of the past three quarters. \"We expect to pay even higher memory costs,\" Cook said. Some of that will be offset by the inventory Apple has been holding and by expected savings on non-memory components. But Cook doesn't see an end in sight, and said the market should expand beyond its three primary suppliers. \"If you look beyond September, we see the market pricing for memory continuing to increase, which could drive an increasing impact on our business,\" Cook said. — Kif Leswing 1 Hour Ago Incoming CEO John Ternus says little on Cook's last call John Ternus, senior vice president of hardware engineering at Apple Inc., during an Apple event in New York, US, on Wednesday, March 4, 2026. Adam Gray | Bloomberg | Getty Images Incoming CEO John Ternus didn't intitially speak on Cook's last earnings call. \"The transition is going seamlessly, and I am beyond excited for John to step into his new role and lead Apple into its next era,\" Cook said on call. \"John will lead these calls going forward,\" Cook added. Ternus is set to take over on Sept. 1, with Cook becoming executive chairman. When asked question later on the call, Ternus said, \"There is so much opportunity for us with everything that's happening in this space, and we're just really focused on on our plans and very excited about it.\" — Kif Leswing 1 Hour Ago Apple's guidance for the quarter misses expectations Apple said revenue growth in the current quarter will be between 9% and 11%, missing analysts' expectations for expansion of 12%, according to LSEG. CFO Kevan Parekh said the company continues to see \"high levels of demand\" for iPhones, with expected sales up in the mid-teens on an annual basis. \"However, we do expect iPhone revenue to be impacted by these foreign exchange headwinds and supply constraints,\" Parekh said. Apple said it's expecting the foreign exchange piece to hurt growth by 2.5 percentage points in the fiscal fourth quarter. The company said its gross margin will be between 47% and 48%. — Kif Leswing 2 Hours Ago Mac boosted by low-cost laptop Apple MacBook Neo laptop computers during an Apple event in New York, US, on Wednesday, March 4, 2026. Adam Gray | Bloomberg | Getty Images Mac sales surged nearly 29% to $10.35 billion, which Cook attributed to strong performance for the MacBook Neo, the low-cost laptop based around an iPhone chip that was introduced in March, before the quarter started. Apple also said strong MacBook Pro sales contributed to the surge. Apple hiked prices on the Mac at the end of the quarter, including the MacBook Neo, due to a supply crunch for memory and other parts including processor manufacturing capacity. Cook said that he would talk about the supply crunch on a call with analysts, but he said it was a \"difficult situation.\" — Kif Leswing 2 Hours Ago Apple still grappling with components shortages Apple hiked Mac and iPad prices in June, but hasn't done the same yet with iPhones in most markets. Cook told CNBC the situation is \"difficult\" and \"not good for the consumer.\" \"Obviously, the memory prices are choking, and so we'll have to look at alternatives,\" Cook said. — Kif Leswing 2 Hours Ago Tariff rebate boosts gross margin over 50% Apple CEO Tim Cook speaks as U.S. President Donald Trump (L) looks on during an event in the Oval Office of the White House on August 6, 2025 in Washington, DC. Win Mcnamee | Getty Images Apple said tariff refunds added 11 cents to earnings per share, a nice boost for a company that was hit particularly hard by President Donald Trump's levies. Rebates from U.S. tariffs accounted for two percentage points of additional gross margin, bringing the total margin to a record 50.06%. Some of Trump's tariffs were struck down by the Supreme Court earlier this year, allowing companies to seek refunds. Apple was originally hit by higher import fees on finished products and components stemming from the emergency powers act. Without the rebates, Apple's margin was about in line with estimates. — Kif Leswing 2 Hours Ago China sales surge 22% Two young women walk out of an Apple Store with a brightly illuminated Apple logo and a wall of colorful phone cases visible behind them, on June 4, 2025 in Chongqing, China. Cheng Xin | Getty Images Revenue in the China region, Apple's third-biggest market, climbed 22% to $18.82 billion. For Apple, the area includes China, Hong Kong and Taiwan. \"That was driven by iPhone, which had a June quarter record in Greater China, and the Mac, which has had our best quarter in the history of the company in Greater China during the quarter,\" Cook told CNBC. Apple's top market is the Americas, followed by Europe. — Kif Leswing 2 Hours Ago Declining iPad sales, muted wearables growth The newly released iPad Air is displayed during the \"Special Apple Experience\" launch event at the Apple Store in the Manhattan borough of New York City, on March 4, 2026. Timothy A. Clary | AFP | Getty Images Apple's iPad sales declined 6% on an annual basis. The company blamed the weakness on a difficult comparison to last year's quarter, when sales of the devices surged due to a new low-cost iPad. Revenue in the company's wearables and home category increased 6% on an annual basis to $4.9 billion, topping estimates. — Kif Leswing 2 Hours Ago Apple hits 1.5 billion subscriptions Apple Podcasts on App Store displayed on a",
+   "source": "CNBC Earnings",
+   "category": "earnings",
+   "type": "earnings",
+   "sentiment": "negative",
+   "domain": "cnbc.com",
+   "published": "2026-07-30T22:48:58+00:00",
+   "tickers": [
+    "AAPL"
+   ]
+  },
+  {
+   "id": "6df70b9d63b7",
+   "title": "Nonprofit groups sue US Agriculture Department over rules on grants",
+   "link": "https://www.investing.com/news/commodities-news/nonprofit-groups-sue-us-agriculture-department-over-rules-on-grants-4826502",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-07-30T22:48:35+00:00",
+   "tickers": []
+  },
+  {
+   "id": "d1221b81a760",
+   "title": "Microsoft's Xbox chief lays out plan to pass rivals on margin by 2030 in memo to employees",
+   "link": "https://www.cnbc.com/2026/07/30/microsoft-xbox-asha-sharma-2030-plans.html",
+   "summary": "Microsoft's gaming unit wants to invest in its Minecraft franchise and expand through partnerships, including in China.",
+   "article_text": "Microsoft's Xbox chief lays out plan to pass rivals on margin by 2030 Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Key Points Microsoft's new Xbox gaming chief, Asha Sharma, set out a goal of widening margins past peers by mid-2030. The business wants to invest in the Minecraft franchise and expand through partnerships, including in China, Sharma said. Sharma is aiming for Xbox to gain share in casual games, partly through Activision Blizzard's King, which puts out Candy Crush Saga. In this article MSFT Follow your favorite stocks CREATE FREE ACCOUNT Asha Sharma, CEO of Xbox at Microsoft, speaks at the Bloomberg Tech conference in San Francisco on June 4, 2026. David Paul Morris | Bloomberg | Getty Images Microsoft's new Xbox chief is looking to push the gaming unit's margin back in line with its rivals by next year and beat them on profitability by mid-2030. \"We will not live on past successes or be trapped by past failures,\" CEO Asha Sharma wrote in a Thursday message to staff members that CNBC viewed. \"We will learn from both and put our energy into creating what players will love for decades.\" Sharma, a former Instacart and Meta executive, replaced Phil Spencer as Xbox CEO in February. She has since appointed new leaders , lowered Game Pass subscription prices and announced layoffs and divestitures of four development studios. Sharma has put more emphasis on exclusive titles for the Xbox console, delighting gamers who have seen the subsidiary bring franchises to Sony's PlayStation. On Wednesday, Xbox turned in a 10% quarterly revenue decline — the most sluggish performance since 2022 — even as its parent surpassed consensus in cloud infrastructure and productivity software. Microsoft stock spiked almost 16% on Thursday in its strongest session since 2008. Sharma and Matt Booty, Xbox's chief content officer, said last month that they anticipated a 3% internal margin. Sony reported a 9.9% operating margin from game and network services in the latest fiscal year, while Nintendo's approached 16% . The Xbox Series X and Series S consoles have lagged behind the Nintendo Switch and Sony PlayStation 5 in terms of shipments. Sharma wrote in her Thursday memo that Xbox will make every function and studio responsible for the gaming group getting back to growth in terms of number of players and revenue in the new fiscal year that ends in June 2027. \"We will build long-term plans for our biggest franchises across film, television, consumer products, sponsorship, live experiences, and form new partnerships globally, including China,\" she wrote. Read more CNBC tech news Amazon posts 'booming' cloud growth, hikes 2026 capex to $220 billion Apple earnings: Revenue tops estimates, but supply constraints weigh on guidance China's open-weight model lead exposes America's AI blind spot New details in the OpenAI Hugging Face hack show how far agents will go: 'It's now remarkably easy' Sharma also said she wants to see Xbox gain share in casual games, partly through Activision Blizzard's King, which puts out Candy Crush Saga games. Microsoft placed a giant bet on gaming with the $75.4 billion acquisition of Call of Duty publisher Activision Blizzard in 2023. The deal boosted revenue, but the subsidiary became overextended. Consumers got to try new high-value Call of Duty releases for short periods through Game Pass for a small fee and leave without paying full price. Game Pass now excludes the first-person shooter titles. Microsoft CEO Satya Nadella told analysts on the software maker's Wednesday earnings call that in gaming, the company is \"making the necessary decisions required across our content portfolio, platform and operations to reset the business for long-term growth.\" In 2014, Microsoft acquired Mojang, the developer of block-building game Minecraft, for $2.5 billion. It surpassed Tetris as the world's best-selling game five years later. Sharma told employees in her note that the company would \"invest in Minecraft more than ever before, strengthening the experiences players love while expanding the tools that help people create, share, build audiences, and earn.\" Sharma wrote that revenue growth must speed up in the 2028 and 2029 fiscal years. \"By FY30, our ambition is to be halfway to our long-term daily-player goal with sustained double-digit growth in players and engagement and industry leading margins,\" she wrote. WATCH: D.A. Davidson's Gil Luria on Microsoft layoffs: Gaming business has become 'almost irrelevant' watch now VIDEO 3:42 03:42 D.A. Davidson's Gil Luria on Microsoft layoffs: Gaming business has become 'almost irrelevant' Squawk on the Street Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-07-30T22:48:30+00:00",
+   "tickers": [
+    "MSFT"
+   ]
+  },
+  {
+   "id": "f8cfe37cc960",
+   "title": "NUKZ: This Nuclear Power ETF Isn't A Buy Yet",
+   "link": "https://seekingalpha.com/article/4928235-nukz-this-nuclear-power-etf-isnt-a-buy-yet?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-30T22:47:47+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a63521a0df5b",
+   "title": "Globe Life EVP & CFO Kalmbach sells $3.78m in company stock",
+   "link": "https://www.investing.com/news/insider-trading-news/globe-life-evp--cfo-kalmbach-sells-378m-in-company-stock-93CH-4826501",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-07-30T22:46:00+00:00",
+   "tickers": [
+    "GL"
+   ]
+  },
+  {
+   "id": "b26bb0aad554",
+   "title": "Form 4 Blink Charging Co For: 30 July",
+   "link": "https://www.investing.com/news/filings/form-4-blink-charging-co-for-30-july-93CH-4826500",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-07-30T22:45:14+00:00",
+   "tickers": []
+  },
+  {
+   "id": "22c19dc3c7cf",
+   "title": "Form 4 Cintas Corporation For: 30 July",
+   "link": "https://www.investing.com/news/filings/form-4-cintas-corporation-for-30-july-93CH-4826499",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-07-30T22:45:07+00:00",
+   "tickers": [
+    "CTAS"
+   ]
+  },
+  {
+   "id": "d8251db1b2e5",
+   "title": "Form 4 Cintas Corporation For: 30 July",
+   "link": "https://www.investing.com/news/filings/form-4-cintas-corporation-for-30-july-93CH-4826498",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-07-30T22:45:07+00:00",
+   "tickers": [
+    "CTAS"
+   ]
+  },
+  {
+   "id": "09c5a6fdee14",
+   "title": "Form 4 Cintas Corporation For: 30 July",
+   "link": "https://www.investing.com/news/filings/form-4-cintas-corporation-for-30-july-93CH-4826497",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-07-30T22:45:07+00:00",
+   "tickers": [
+    "CTAS"
+   ]
+  },
+  {
+   "id": "1345a66aaff6",
+   "title": "NPK International raises 2026 adjusted EBITDA outlook to $97M-$103M while keeping mid-2027 Louisiana expansion start-up date",
+   "link": "https://seekingalpha.com/news/4622281-npk-international-raises-2026-adjusted-ebitda-outlook-to-97m-103m-while-keeping-midminus-2027?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-30T22:45:07+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a0664bc9144d",
+   "title": "Enbridge pipeline must be moved from Wisconsin tribal land, U.S. appeals court rules",
+   "link": "https://seekingalpha.com/news/4622275-enbridge-pipeline-must-be-moved-from-wisconsin-tribal-land-u-s-appeals-court-rules?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-30T22:45:05+00:00",
+   "tickers": [
+    "ENB"
+   ]
+  },
+  {
+   "id": "5d513a0e4149",
+   "title": "GSI outlines Q2 revenue of $5.7M-$6.5M while targeting Plato tape-out in March 2027",
+   "link": "https://seekingalpha.com/news/4622280-gsi-outlines-q2-revenue-of-5_7m-6_5m-while-targeting-plato-tape-out-in-march-2027?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-30T22:45:03+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b2deac1947ea",
+   "title": "Shares Soaring Today",
+   "link": "https://biztoc.com/x/7886f5e5ba7feb1b?ref=rss",
+   "summary": "What Happened? Shares of medical tech company CONMED (NYSE:CNMD) jumped 10.5% in the afternoon session after the company reported second-quarter adjusted earnings that beat analyst expectations and raised its full-year guidance. The company's adjusted earnings for the quarter came in at $1.38 per…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-30T22:44:38+00:00",
+   "tickers": []
+  },
+  {
+   "id": "57c581d27e8b",
+   "title": "NPK International Inc. (NPKI) Q2 2026 Earnings Call Transcript",
+   "link": "https://seekingalpha.com/article/4928283-npk-international-inc-npki-q2-2026-earnings-call-transcript?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-30T22:43:38+00:00",
+   "tickers": []
+  },
+  {
+   "id": "23990f02a1ca",
+   "title": "BGC Group, Inc. (BGC) Q2 2026 Earnings Call Transcript",
+   "link": "https://seekingalpha.com/article/4928282-bgc-group-inc-bgc-q2-2026-earnings-call-transcript?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-30T22:43:37+00:00",
+   "tickers": []
+  },
+  {
+   "id": "61c4d8d8e5c8",
+   "title": "Coinbase Global, Inc. (COIN) Q2 2026 Earnings Call Transcript",
+   "link": "https://seekingalpha.com/article/4928280-coinbase-global-inc-coin-q2-2026-earnings-call-transcript?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-30T22:43:33+00:00",
+   "tickers": [
+    "COIN"
+   ]
+  },
+  {
+   "id": "90159b3dc44a",
+   "title": "ICON Public Limited Company (ICLR) Q2 2026 Earnings Call Transcript",
+   "link": "https://seekingalpha.com/article/4928150-icon-public-limited-company-iclr-q2-2026-earnings-call-transcript?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-30T22:43:30+00:00",
+   "tickers": [
+    "ICLR"
+   ]
+  },
+  {
+   "id": "56ca8829102d",
+   "title": "GSI Technology, Inc. (GSIT) Q1 2027 Earnings Call Transcript",
+   "link": "https://seekingalpha.com/article/4928228-gsi-technology-inc-gsit-q1-2027-earnings-call-transcript?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-30T22:43:28+00:00",
+   "tickers": []
+  },
+  {
+   "id": "d4367df8a49c",
+   "title": "Ag Growth International Inc. (AFN:CA) Q2 2026 Earnings Call Transcript",
+   "link": "https://seekingalpha.com/article/4928120-ag-growth-international-inc-afn-ca-q2-2026-earnings-call-transcript?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-30T22:43:25+00:00",
+   "tickers": []
+  },
+  {
+   "id": "8978d7f9feb2",
+   "title": "Trump says Hamas disarmament deal reached",
+   "link": "https://biztoc.com/x/fc8f59b8beef92d9?ref=rss",
+   "summary": "United States President Donald Trump said that the Board of Peace reached an agreement for the \"complete disarmament\" of Hamas and all other armed groups in the Gaza Strip.More to come......",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-30T22:42:30+00:00",
+   "tickers": []
+  },
+  {
+   "id": "8e584038c546",
+   "title": "Investors love AI, as long as you’re a cloud host",
+   "link": "https://biztoc.com/x/de8e49afef2d2e73?ref=rss",
+   "summary": "Amazon reported better-than-expected second-quarter earnings on Thursday, and investors loved what they saw. Net sales rose 20%, and cloud revenue stood out as a particular bright spot. This combination of positive results was enough to send Amazon’s stock up nearly 10% in after-hours…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-30T22:42:22+00:00",
+   "tickers": [
+    "AMZN"
+   ]
+  },
+  {
+   "id": "f8c3586050c2",
+   "title": "Cook says goodbye on final Apple earnings call",
+   "link": "https://biztoc.com/x/7c9e5dac19a75190?ref=rss",
+   "summary": "Apple Inc. CEO Tim Cook thanked shareholders and analysts during his final quarterly earnings call. He said incoming Apple CEO John Ternus will lead future calls as the company continues its leadershi...",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-30T22:42:21+00:00",
+   "tickers": [
+    "AAPL"
+   ]
+  },
+  {
+   "id": "94c3dd79812b",
+   "title": "Tim Cook hints at iCloud Plus tier for AI power users",
+   "link": "https://biztoc.com/x/6a72d486209adb0a?ref=rss",
+   "summary": "Apple may allow users to pay to increase their AI usage limits. During an earnings call on Thursday, Apple CEO Tim Cook said that he believes people will want to use Apple Intelligence and the upcoming Siri AI “a lot,” adding that “we will have some kind of upgrade possibilities on iCloud Plus…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-30T22:42:19+00:00",
+   "tickers": [
+    "AAPL"
+   ]
+  },
+  {
+   "id": "9021b86c648b",
+   "title": "IBM study: AI-enabled cyber attacks cost 20% extra",
+   "link": "https://biztoc.com/x/4ae087c0c63399c8?ref=rss",
+   "summary": "AI isn't just making security breaches more common. It's making them more expensive. A report from IBM published last week found that the average cost of an AI-enabled malicious security breach for e...",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-30T22:42:15+00:00",
+   "tickers": [
+    "IBM"
+   ]
+  },
+  {
+   "id": "979d6bc898da",
+   "title": "Max Miller's Ex-Wife Files New Restraining Order—List of Reasons Why",
+   "link": "https://biztoc.com/x/0fa3727ab93710f2?ref=rss",
+   "summary": "The ex-wife of embattled Ohio Representative Max Miller filed a restraining order against the lawmaker Thursday, alleging the Republican will \"continue to harass, threaten and communicate\" with her attorney directly, court filings show. Emily Moreno, Miller's former spouse and daughter of…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-30T22:42:12+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b72ec9d46049",
+   "title": "Domain registrar GoDaddy narrows annual revenue forecast",
+   "link": "https://biztoc.com/x/9ee51c08cbe84616?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "guidance",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-30T22:42:12+00:00",
+   "tickers": [
+    "GDDY"
+   ]
+  },
+  {
+   "id": "c9502efe67db",
+   "title": "OpenAI cuts prices on smaller models as businesses scrutinize AI spend",
+   "link": "https://biztoc.com/x/a93212497c7405a3?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-07-30T22:42:05+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ba5ae60fc2f6",
+   "title": "Apple says gaming slowdown and App Store changes hurt services growth",
+   "link": "https://biztoc.com/x/5203fa5b3156fcff?ref=rss",
+   "summary": "Apple says it has now topped 1.5 billion subscribers for its services business, up from 1 billion in January 2025. However, this segment of Apple’s business, which includes the Apple Store, AppleCare, music, video, and cloud services, was the only miss in what was otherwise a record-breaking…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-30T22:42:05+00:00",
+   "tickers": [
+    "AAPL"
+   ]
+  },
+  {
+   "id": "95d0a426f83d",
+   "title": "Boy George Exits 'Jesus Christ Superstar' Amid Pro-Israel Song Backlash",
+   "link": "https://biztoc.com/x/fb817605c358ad42?ref=rss",
+   "summary": "Boy George, the iconic frontman of Culture Club and veteran pop star, has officially withdrawn from his upcoming engagement in the West End revival of Jesus Christ Superstar amid furious backlash over his new AI-assisted pro-Israel track. The 65-year-old musician was scheduled to take the stage as…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-30T22:42:00+00:00",
+   "tickers": [
+    "WST"
+   ]
+  },
+  {
+   "id": "1e26ea4bf38f",
+   "title": "Asia Stocks to Gain After US Rally, Yen Holds Jump: Markets Wrap",
+   "link": "https://biztoc.com/x/1022991a9935bd0d?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-07-30T22:41:54+00:00",
+   "tickers": []
+  },
+  {
+   "id": "bb4e6e19b9e0",
+   "title": "Apple Dropped The Ball Big Time",
+   "link": "https://seekingalpha.com/article/4928230-apple-dropped-the-ball-big-time?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-30T22:41:19+00:00",
+   "tickers": [
+    "AAPL",
+    "BALL"
+   ]
+  },
+  {
+   "id": "bd29f517e6a1",
+   "title": "Amazon lifts capex plan after strong cloud sales; shares jump",
+   "link": "https://www.investing.com/news/stock-market-news/amazon-beats-estimates-for-quarterly-cloud-revenue-growth-4826048",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-07-30T22:37:41+00:00",
+   "tickers": [
+    "AMZN"
+   ]
+  },
+  {
+   "id": "bfcaf8b9f589",
+   "title": "ZIONS BANCORPORATION'S BOARD ANNOUNCES APPROVAL OF SHARE REPURCHASE AND DECLARES DIVIDENDS ON COMMON AND PREFERRED STOCK",
+   "link": "https://www.prnewswire.com/news-releases/zions-bancorporations-board-announces-approval-of-share-repurchase-and-declares-dividends-on-common-and-preferred-stock-302839563.html",
+   "summary": "SALT LAKE CITY, July 30, 2026 /PRNewswire/ -- Zions Bancorporation, N.A. (NASDAQ: ZION) announced today that its board of directors has authorized share repurchases of up to $75 million of the company's common stock for the third quarter of 2026 as part of the company's previously...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "fda",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-07-30T22:37:00+00:00",
+   "tickers": [
+    "ZION"
+   ]
+  },
+  {
+   "id": "51b64fbfbcc5",
+   "title": "Telix H1 2026 Results: Investor Webcast Notification",
+   "link": "https://www.globenewswire.com/news-release/2026/07/30/3336543/0/en/Telix-H1-2026-Results-Investor-Webcast-Notification.html",
+   "summary": "MELBOURNE, Australia and INDIANAPOLIS, July 31, 2026 (GLOBE NEWSWIRE) -- Telix Pharmaceuticals Limited (ASX: TLX, NASDAQ: TLX, “Telix”) today advises that it will release its financial results for the half-year ended June 30, 2026 on Thursday August 20, 2026.",
+   "article_text": "",
+   "source": "GlobeNewswire",
+   "category": "press",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "globenewswire.com",
+   "published": "2026-07-30T22:37:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "17f4cc28d82d",
+   "title": "The Marcus Corporation (MCS) Q2 2026 Earnings Call Transcript",
+   "link": "https://seekingalpha.com/article/4928143-the-marcus-corporation-mcs-q2-2026-earnings-call-transcript?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-30T22:33:22+00:00",
+   "tickers": []
+  },
+  {
+   "id": "372a41dcda57",
+   "title": "Tempus AI, Inc. (TEM) Q2 2026 Earnings Call Transcript",
+   "link": "https://seekingalpha.com/article/4928247-tempus-ai-inc-tem-q2-2026-earnings-call-transcript?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-30T22:33:20+00:00",
+   "tickers": [
+    "TEM"
+   ]
+  },
+  {
+   "id": "a09e94fe92be",
+   "title": "Stocks Settle Sharply Higher as Microsoft Leads a Surge in Tech Stocks",
+   "link": "https://www.nasdaq.com/articles/stocks-settle-sharply-higher-microsoft-leads-surge-tech-stocks",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) on Thursday closed up +1.66%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +1.19%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +3.36%. September E-mini S&P futures (ESU26 ) rose +1.65%, and September E-mini Nasdaq futures...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-07-30T22:33:12+00:00",
+   "tickers": [
+    "QQQ",
+    "MSFT",
+    "NDAQ",
+    "SPY"
+   ]
+  },
+  {
+   "id": "9b23bc92e4bf",
+   "title": "Arabica Coffee Prices Slide on Dry Weather Forecasts for Brazil",
+   "link": "https://www.nasdaq.com/articles/arabica-coffee-prices-slide-dry-weather-forecasts-brazil",
+   "summary": "September arabica coffee (KCU26 ) closed down -2.75 (-0.84%) on Thursday, and September ICE robusta coffee (RMU26 ) closed up +7 (+0.19%). Coffee prices settled mixed on Thursday. Arabica coffee retreated on Thursday amid forecasts for mostly dry weather in Brazil’s coffee-growing regions over the next week, which should allow...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-07-30T22:33:12+00:00",
+   "tickers": [
+    "ICE"
+   ]
+  },
+  {
+   "id": "af61dbe49f10",
+   "title": "Aperam S.A. 2026 Q2 - Results - Earnings Call Presentation",
+   "link": "https://seekingalpha.com/article/4928270-aperam-s-a-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-07-30T22:32:21+00:00",
+   "tickers": []
+  },
+  {
+   "id": "8e8a55ab8dae",
+   "title": "The 2026 Intern’s Guide to Options",
+   "link": "https://www.nasdaq.com/articles/2026-interns-guide-options",
+   "summary": "Options trading has become increasingly popular in recent years, and so we updated our guide for U.S. options to help you understand options and how options markets work.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-07-30T22:30:52+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ddbf25f5f024",
+   "title": "Corteva raises full-year profit forecast, shares fall after revenue miss",
+   "link": "https://www.investing.com/news/stock-market-news/corteva-beats-quarterly-profit-estimates-4826229",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-07-30T22:30:49+00:00",
+   "tickers": [
+    "CTVA"
+   ]
+  },
+  {
+   "id": "e7ea9a671de9",
+   "title": "Domain registrar GoDaddy narrows annual revenue forecast",
+   "link": "https://www.investing.com/news/stock-market-news/domain-registrar-godaddy-narrows-annual-revenue-forecast-4826492",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "guidance",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-07-30T22:30:32+00:00",
+   "tickers": [
+    "GDDY"
+   ]
+  },
   {
    "id": "4bfcaeeb1dc2",
    "title": "Inno Holdings Inc. Updates Trading Time for the Resumption of Trading on Nasdaq",
@@ -17,6 +1132,23 @@
    "published": "2026-07-30T22:30:00+00:00",
    "tickers": [
     "NDAQ"
+   ]
+  },
+  {
+   "id": "628199b2253c",
+   "title": "Vertiv vs. BWX Technologies: What Revenue Trends Tell Investors About the Impact of Artificial Intelligence on These Companies",
+   "link": "https://biztoc.com/x/59ce77371b4daf9f?ref=rss",
+   "summary": "Vertiv vs. BWX Technologies: What Revenue Trends Tell Investors About the Impact of Artificial Intelligence on These Companies Vertiv: Scaling Digital Infrastructure Revenue Vertiv (NYSE:VRT) primarily generates revenue by designing, manufacturing, and servicing critical power and thermal…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-30T22:29:50+00:00",
+   "tickers": [
+    "VRT",
+    "BWXT"
    ]
   },
   {
@@ -67,6 +1199,108 @@
    ]
   },
   {
+   "id": "500e6328fa2b",
+   "title": "Coinbase Q2 Loss Widens",
+   "link": "https://www.nasdaq.com/articles/coinbase-q2-loss-widens",
+   "summary": "(RTTNews) - Coinbase Global Inc. (COIN) on Thursday reported a wider second-quarter loss as softer crypto market conditions weighed on trading activity.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-07-30T22:27:21+00:00",
+   "tickers": [
+    "COIN"
+   ]
+  },
+  {
+   "id": "74628b1b6bf1",
+   "title": "Hope dwindles for rescue after southwestern Japan earthquake as death toll climbs to 25",
+   "link": "https://biztoc.com/x/257a4849b120a014?ref=rss",
+   "summary": "Time was running out to find survivors, as rescuers continued to work in the Kumamoto area on Japan's southern main island of Kyushu, where the magnitude 7.1 earthquake hit Tuesday. The number of people missing was unclear.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-07-30T22:27:10+00:00",
+   "tickers": []
+  },
+  {
+   "id": "1bf08e27e146",
+   "title": "Apple posts record June quarter, powered by iPhone sales and tariff refunds",
+   "link": "https://biztoc.com/x/dec8ae7db323d0a6?ref=rss",
+   "summary": "Apple delivered its strongest June quarter on record, reporting $109.4 billion in revenue and beating analysts' estimates of $108.65 billion in the company's final earnings report before CEO Tim Cook steps down. A 22% jump in iPhone sales, combined with record spring-quarter Mac revenue, helped…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-30T22:27:10+00:00",
+   "tickers": [
+    "AAPL"
+   ]
+  },
+  {
+   "id": "a16c5c4493f2",
+   "title": "Ghalibaf: US will 'pay the price' after Qeshm strike",
+   "link": "https://biztoc.com/x/a6838384c9054641?ref=rss",
+   "summary": "Iranian Parliament Speaker Mohammad Bagher Ghalibaf strongly condemned a recent United States military strike that hit residential areas on Qeshm Island.Ghalibaf described the aggression on his X acco...",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-30T22:27:09+00:00",
+   "tickers": []
+  },
+  {
+   "id": "7b6a97eda3f2",
+   "title": "Cocaine Valued At Roughly $20 Million Seized From Truck At US Border",
+   "link": "https://biztoc.com/x/df1d35021fb76a25?ref=rss",
+   "summary": "Cocaine Valued At Roughly $20 Million Seized From Truck At US Border Authored by Naveen Athrappully via The Epoch Times, Federal authorities have seized more than 1,000 pounds of cocaine from a commercial truck at a southern border entry point, estimated to be worth at least $20 million,…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-30T22:27:08+00:00",
+   "tickers": []
+  },
+  {
+   "id": "951941b8d457",
+   "title": "Herbalism Isn't Alternative Medicine—It's the Original Medicine | Opinion",
+   "link": "https://biztoc.com/x/c83ca399c9f7e00c?ref=rss",
+   "summary": "I am often asked why I practice herbalism in a world dominated by modern pharmaceuticals. The question itself reveals how far we have drifted from the truth. Herbalism is often framed as “alternative” medicine, something peripheral or optional. In reality, it is one of the original medicines. Long…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-30T22:27:07+00:00",
+   "tickers": []
+  },
+  {
+   "id": "60cd321612af",
+   "title": "Todd Blanche and John Cornyn meet as confirmation standoff enters new phase",
+   "link": "https://biztoc.com/x/95fc304a66f0cb59?ref=rss",
+   "summary": "As the White House ratchets up the pressure to confirm acting Attorney General Todd Blanche to the position permanently, the embattled nominee and Sen. John Cornyn, a key Republican holdout, met behind closed-doors on Thursday to discuss what it would take to win over the Texas Republican. Cornyn…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-30T22:27:05+00:00",
+   "tickers": []
+  },
+  {
    "id": "026759379613",
    "title": "Illinois American Water Supports Water Utility Workforce Development to Build the Next Generation of Water Professionals",
    "link": "https://www.prnewswire.com/news-releases/illinois-american-water-supports-water-utility-workforce-development-to-build-the-next-generation-of-water-professionals-302839557.html",
@@ -79,6 +1313,22 @@
    "domain": "prnewswire.com",
    "published": "2026-07-30T22:27:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "a8bcb03003ce",
+   "title": "Bank of America Buys Cybersecurity Firm as Lenders Guard Against Digital Risks",
+   "link": "https://biztoc.com/x/cbca4192609bd660?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-30T22:26:59+00:00",
+   "tickers": [
+    "BAC"
+   ]
   },
   {
    "id": "36244fabfb4f",
@@ -94,6 +1344,52 @@
    "published": "2026-07-30T22:26:56+00:00",
    "tickers": [
     "SYK"
+   ]
+  },
+  {
+   "id": "c3ee8d23a4b0",
+   "title": "Amazon’s Zoox wins first U.S. approval for paid robotaxis without human controls",
+   "link": "https://biztoc.com/x/4dbe74eff35c934d?ref=rss",
+   "summary": "Amazon‘s Zoox unit has won U.S. approval for limited commercial deployment of its novel steering-wheel-free robotaxis, a first for the autonomous ride industry, the U.S. auto safety agency said on Thursday. Zoox said that the National Highway Traffic Safety Administration’s decision gives the…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "fda",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-07-30T22:26:55+00:00",
+   "tickers": [
+    "AMZN"
+   ]
+  },
+  {
+   "id": "7e049b34b16b",
+   "title": "WestJet flight attendants threaten to strike during long August weekend in Canada",
+   "link": "https://biztoc.com/x/b9b14e635766c478?ref=rss",
+   "summary": "WestJet flight attendants threaten to strike during long August weekend in Canada Flight attendants at WestJet, Canada's second-largest airline, have threatened to strike over unpaid work VANCOUVER, British Columbia -- Flight attendants at WestJet, Canada's second-largest airline, threatened…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-07-30T22:26:52+00:00",
+   "tickers": []
+  },
+  {
+   "id": "5f0d8cd7b594",
+   "title": "Amazon's stock rises 9% as investors cheer AI growth",
+   "link": "https://biztoc.com/x/40afa276c1a1cbb0?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-07-30T22:26:50+00:00",
+   "tickers": [
+    "AMZN"
    ]
   },
   {
@@ -137,6 +1433,22 @@
    "domain": "seekingalpha.com",
    "published": "2026-07-30T22:25:40+00:00",
    "tickers": []
+  },
+  {
+   "id": "494c2d07e0e3",
+   "title": "Apple revenue forecast lags Wall Street targets as iPhone maker struggles with supply chain",
+   "link": "https://www.investing.com/news/stock-market-news/apple-revenue-profits-beat-expectations-on-iphone-mac-sales-4826219",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "guidance",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-07-30T22:24:48+00:00",
+   "tickers": [
+    "AAPL"
+   ]
   },
   {
    "id": "cbd460db7c08",
@@ -193,6 +1505,73 @@
    "domain": "seekingalpha.com",
    "published": "2026-07-30T22:23:26+00:00",
    "tickers": []
+  },
+  {
+   "id": "4b11ef207d2e",
+   "title": "Stocks Rally on Stellar Microsoft Earnings and Chip Stock Strength",
+   "link": "https://www.nasdaq.com/articles/stocks-rally-stellar-microsoft-earnings-and-chip-stock-strength",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) today is up +0.86%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.29%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +2.65%. September E-mini S&P futures (ESU26 ) are up +0.84%, and September E-mini Nasdaq futures...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-07-30T22:23:06+00:00",
+   "tickers": [
+    "QQQ",
+    "MSFT",
+    "NDAQ",
+    "SPY"
+   ]
+  },
+  {
+   "id": "cec3cadec799",
+   "title": "Cocoa Prices Pressured as Supply Concerns Ease",
+   "link": "https://www.nasdaq.com/articles/cocoa-prices-pressured-supply-concerns-ease-0",
+   "summary": "September ICE NY cocoa (CCU26 ) closed down -73 (-1.41%) on Thursday, and September ICE London cocoa #7 (CAU26 ) closed down -92 (-2.33%). Cocoa prices settled lower on Thursday and are just above Tuesday’s 3.5-week lows. Cocoa prices have been under pressure over the past two weeks and posted...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-07-30T22:23:06+00:00",
+   "tickers": [
+    "ICE"
+   ]
+  },
+  {
+   "id": "55c3d27e4a72",
+   "title": "Hog Retreat Extending to Thursday",
+   "link": "https://www.nasdaq.com/articles/hog-retreat-extending-thursday",
+   "summary": "Lean hog futures are posting $1.87 to $2.87 losses across most contracts at midday. USDA’s national base hog price was reported at $100.52 on Thursday morning, down $1.13 from the day prior. The CME Lean Hog Index was another 10 cents higher on July 28 at $98.45. Weekly Export Sales...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-07-30T22:23:06+00:00",
+   "tickers": [
+    "CME"
+   ]
+  },
+  {
+   "id": "79c88a0c5ef5",
+   "title": "Reddit Q2 Profit More Than Doubles; Revenue Surges 61%",
+   "link": "https://www.nasdaq.com/articles/reddit-q2-profit-more-doubles-revenue-surges-61",
+   "summary": "(RTTNews) - Reddit Inc. (RDDT) on Thursday reported second-quarter earnings that more than doubled from a year earlier as revenue surged 61%, driven by strong advertising growth and higher user engagement.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-07-30T22:18:20+00:00",
+   "tickers": [
+    "RDDT"
+   ]
   },
   {
    "id": "eaed018207c9",
@@ -282,6 +1661,23 @@
    "published": "2026-07-30T22:16:17+00:00",
    "tickers": [
     "AMZN"
+   ]
+  },
+  {
+   "id": "44ffc12beb47",
+   "title": "Vertiv vs. BWX Technologies: What Revenue Trends Tell Investors About the Impact of Artificial Intelligence on These Companies",
+   "link": "https://www.nasdaq.com/articles/vertiv-vs-bwx-technologies-what-revenue-trends-tell-investors-about-impact-artificial",
+   "summary": "Key PointsVertiv currently generates significantly more revenue than BWX Technologies.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-07-30T22:16:01+00:00",
+   "tickers": [
+    "BWXT",
+    "VRT"
    ]
   },
   {
@@ -517,6 +1913,41 @@
    "tickers": []
   },
   {
+   "id": "959596b74e11",
+   "title": "Stronger Monsoon Rains in India Weigh on Sugar Prices",
+   "link": "https://www.nasdaq.com/articles/stronger-monsoon-rains-india-weigh-sugar-prices",
+   "summary": "October NY world sugar #11 (SBV26 ) on Thursday closed down -0.07 (-0.48%), and October London ICE white sugar #5 (SWV26 ) closed down -1.70 (-0.37%). Sugar prices moved lower on Thursday, with NY sugar matching a 1-month low posted earlier this month. Sugar prices are under pressure amid the...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-07-30T22:13:37+00:00",
+   "tickers": [
+    "ICE"
+   ]
+  },
+  {
+   "id": "ebb502adcce0",
+   "title": "Stocks Rebound as Microsoft Earnings Ease AI Spending Concerns",
+   "link": "https://www.nasdaq.com/articles/stocks-rebound-microsoft-earnings-ease-ai-spending-concerns",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) today is up +1.12%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.64%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +2.69%. September E-mini S&P futures (ESU26 ) are up +1.09%, and September E-mini Nasdaq futures...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-07-30T22:13:37+00:00",
+   "tickers": [
+    "QQQ",
+    "MSFT",
+    "NDAQ",
+    "SPY"
+   ]
+  },
+  {
    "id": "15803af8728b",
    "title": "Sonic Automotive, Inc. (SAH) Q2 2026 Earnings Call Transcript",
    "link": "https://seekingalpha.com/article/4928261-sonic-automotive-inc-sah-q2-2026-earnings-call-transcript?source=feed_all_articles",
@@ -571,22 +2002,6 @@
    "domain": "prnewswire.com",
    "published": "2026-07-30T22:13:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "494c2d07e0e3",
-   "title": "Apple revenue, profits beat expectations on iPhone sales but services miss targets",
-   "link": "https://www.investing.com/news/stock-market-news/apple-revenue-profits-beat-expectations-on-iphone-mac-sales-4826219",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-07-30T22:12:29+00:00",
-   "tickers": [
-    "AAPL"
-   ]
   },
   {
    "id": "d5c7d995311d",
@@ -798,6 +2213,20 @@
    "tickers": []
   },
   {
+   "id": "d67bf7f026b8",
+   "title": "Quaker Houghton Swings To Q2 Profit",
+   "link": "https://www.nasdaq.com/articles/quaker-houghton-swings-q2-profit",
+   "summary": "(RTTNews) - Quaker Houghton (KWR) on Thursday reported a second-quarter profit, compared with a loss a year earlier, driven by higher revenues.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-07-30T22:10:46+00:00",
+   "tickers": []
+  },
+  {
    "id": "42b34cfa25b4",
    "title": "Japan’s yen jumps 3% as speculation over intervention swirls",
    "link": "https://www.ft.com/content/8455ec94-0182-46a6-b5dd-2bb5b0a75a6c?syn-25a6b1a6=1",
@@ -810,60 +2239,6 @@
    "domain": "ft.com",
    "published": "2026-07-30T22:09:32+00:00",
    "tickers": []
-  },
-  {
-   "id": "61ec1815e2e4",
-   "title": "Apple's stock drops 8% as supply constraints lead to weak revenue guidance: Live updates",
-   "link": "https://www.cnbc.com/2026/07/30/apple-earnings-live-updates.html",
-   "summary": "Apple reported third-quarter earnings on Thursday after the closing bell. The conference call with analysts began at 5 p.m. ET.",
-   "article_text": "Apple (AAPL) Q3 2026 earnings report: Live updates Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu watch now VIDEO 2:36 02:36 Apple shares slip in extended trading despite earnings beat Closing Bell: Overtime Apple reported stronger-than-expected earnings and revenue for the fiscal third quarter, driven by a 22% increase in iPhone sales. But the company issued weak guidance for the current period, citing \"supply constraints.\" The stock slid 8% in extended trading. Here's how the company did versus LSEG consensus estimates: EPS : $2.02, which isn't comparable to analyst estimates of $1.89. Revenue : $109.42 billion, versus $108.65 billion estimated. Here's how Apple did in other key areas: iPhone revenue : $54.25 billion vs. $53.86 billion estimated. Mac revenue : $10.35 billion vs. $8.74 billion estimated. iPad revenue : $6.19 billion vs. $6.92 billion estimated. Wearables revenue : $7.88 billion vs. $7.82 billion estimated. Services revenue : $30.74 billion vs. $31.22 billion estimated. Gross margin : 50.1%. That's not comparable to analyst estimates of 47.9% due to tariff rebates. Cash : $146.52 billion Net income climbed to $29.79 billion, or $2.02 per share, from $23.43 billion, or $1.57 per share, a year ago. Apple said earnings included 11 cents per share from tariff rebates. Apple is reckoning with a global memory crunch, or what Cook recently called a \" hundred-year flood ,\" and a rush for chip manufacturing capacity that's already forced the company to lift prices on Macs and iPads. Apple hasn't said it will raise prices on iPhones, but many analysts are expecting hikes as soon as this year. Meanwhile, Apple is gearing up for a launch of a redesigned Siri using Google technology alongside new iPhone hardware in September, a critical test for the company as investors worry that it's fallen behind in artificial intelligence. Still, revenue growth topped 15% for a third straight quarter. It's CEO Tim Cook's last call before handing leadership over to John Ternus, a 25-year Apple veteran and the current head of hardware. Ternus said little on the conference call . Apple stock chart for Thursday, July 30, 2 CNBC's reporters are covering Apple earnings from bureaus in San Francisco and Englewood Cliffs, New Jersey. Correction: A prior version of this story had an incorrect figure for year-ago EPS. 42 Min Ago What Apple is doing about component shortages After offering soft guidance related to \"supply constraints\" for parts, Cook explained how Apple is grappling with rising memory costs. It's paying more, and has done so for each of the past three quarters. \"We expect to pay even higher memory costs,\" Cook said. Some of that will be offset by the inventory Apple has been holding and by expected savings on non-memory components. But Cook doesn't see an end in sight, and said the market should expand beyond its three primary suppliers. \"If you look beyond September, we see the market pricing for memory continuing to increase, which could drive an increasing impact on our business,\" Cook said. — Kif Leswing 47 Min Ago Incoming CEO John Ternus says little on Cook's last call John Ternus, senior vice president of hardware engineering at Apple Inc., during an Apple event in New York, US, on Wednesday, March 4, 2026. Adam Gray | Bloomberg | Getty Images Incoming CEO John Ternus didn't intitially speak on Cook's last earnings call. \"The transition is going seamlessly, and I am beyond excited for John to step into his new role and lead Apple into its next era,\" Cook said on call. \"John will lead these calls going forward,\" Cook added. Ternus is set to take over on Sept. 1, with Cook becoming executive chairman. When asked question later on the call, Ternus said, \"There is so much opportunity for us with everything that's happening in this space, and we're just really focused on on our plans and very excited about it.\" — Kif Leswing 51 Min Ago Apple's guidance for the quarter misses expectations Apple said revenue growth in the current quarter will be between 9% and 11%, missing analysts' expectations for expansion of 12%, according to LSEG. CFO Kevan Parekh said the company continues to see \"high levels of demand\" for iPhones, with expected sales up in the mid-teens on an annual basis. \"However, we do expect iPhone revenue to be impacted by these foreign exchange headwinds and supply constraints,\" Parekh said. Apple said it's expecting the foreign exchange piece to hurt growth by 2.5 percentage points in the fiscal fourth quarter. The company said its gross margin will be between 47% and 48%. — Kif Leswing 1 Hour Ago Mac boosted by low-cost laptop Apple MacBook Neo laptop computers during an Apple event in New York, US, on Wednesday, March 4, 2026. Adam Gray | Bloomberg | Getty Images Mac sales surged nearly 29% to $10.35 billion, which Cook attributed to strong performance for the MacBook Neo, the low-cost laptop based around an iPhone chip that was introduced in March, before the quarter started. Apple also said strong MacBook Pro sales contributed to the surge. Apple hiked prices on the Mac at the end of the quarter, including the MacBook Neo, due to a supply crunch for memory and other parts including processor manufacturing capacity. Cook said that he would talk about the supply crunch on a call with analysts, but he said it was a \"difficult situation.\" — Kif Leswing 2 Hours Ago Apple still grappling with components shortages Apple hiked Mac and iPad prices in June, but hasn't done the same yet with iPhones in most markets. Cook told CNBC the situation is \"difficult\" and \"not good for the consumer.\" \"Obviously, the memory prices are choking, and so we'll have to look at alternatives,\" Cook said. — Kif Leswing 2 Hours Ago Tariff rebate boosts gross margin over 50% Apple CEO Tim Cook speaks as U.S. President Donald Trump (L) looks on during an event in the Oval Office of the White House on August 6, 2025 in Washington, DC. Win Mcnamee | Getty Images Apple said tariff refunds added 11 cents to earnings per share, a nice boost for a company that was hit particularly hard by President Donald Trump's levies. Rebates from U.S. tariffs accounted for two percentage points of additional gross margin, bringing the total margin to a record 50.06%. Some of Trump's tariffs were struck down by the Supreme Court earlier this year, allowing companies to seek refunds. Apple was originally hit by higher import fees on finished products and components stemming from the emergency powers act. Without the rebates, Apple's margin was about in line with estimates. — Kif Leswing 2 Hours Ago China sales surge 22% Two young women walk out of an Apple Store with a brightly illuminated Apple logo and a wall of colorful phone cases visible behind them, on June 4, 2025 in Chongqing, China. Cheng Xin | Getty Images Revenue in the China region, Apple's third-biggest market, climbed 22% to $18.82 billion. For Apple, the area includes China, Hong Kong and Taiwan. \"That was driven by iPhone, which had a June quarter record in Greater China, and the Mac, which has had our best quarter in the history of the company in Greater China during the quarter,\" Cook told CNBC. Apple's top market is the Americas, followed by Europe. — Kif Leswing 2 Hours Ago Declining iPad sales, muted wearables growth The newly released iPad Air is displayed during the \"Special Apple Experience\" launch event at the Apple Store in the Manhattan borough of New York City, on March 4, 2026. Timothy A. Clary | AFP | Getty Images Apple's iPad sales declined 6% on an annual basis. The company blamed the weakness on a difficult comparison to last year's quarter, when sales of the devices surged due to a new low-cost iPad. Revenue in the company's wearables and home category increased 6% on an annual basis to $4.9 billion, topping estimates. — Kif Leswing 2 Hours Ago Apple hits 1.5 billion subscriptions Apple Podcasts on App Store displayed on a phone",
-   "source": "CNBC Earnings",
-   "category": "earnings",
-   "type": "earnings",
-   "sentiment": "negative",
-   "domain": "cnbc.com",
-   "published": "2026-07-30T22:09:07+00:00",
-   "tickers": [
-    "AAPL"
-   ]
-  },
-  {
-   "id": "4b11ef207d2e",
-   "title": "Stocks Rally on Stellar Microsoft Earnings and Chip Stock Strength",
-   "link": "https://www.nasdaq.com/articles/stocks-rally-stellar-microsoft-earnings-and-chip-stock-strength",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) today is up +0.86%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.29%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +2.65%. September E-mini S&P futures (ESU26 ) are up +0.84%, and September E-mini Nasdaq futures...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-07-30T22:09:03+00:00",
-   "tickers": [
-    "QQQ",
-    "MSFT",
-    "NDAQ",
-    "SPY"
-   ]
-  },
-  {
-   "id": "a09e94fe92be",
-   "title": "Stocks Settle Sharply Higher as Microsoft Leads a Surge in Tech Stocks",
-   "link": "https://www.nasdaq.com/articles/stocks-settle-sharply-higher-microsoft-leads-surge-tech-stocks",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) on Thursday closed up +1.66%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +1.19%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +3.36%. September E-mini S&P futures (ESU26 ) rose +1.65%, and September E-mini Nasdaq futures...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-07-30T22:09:03+00:00",
-   "tickers": [
-    "QQQ",
-    "MSFT",
-    "NDAQ",
-    "SPY"
-   ]
   },
   {
    "id": "440700374d51",
@@ -884,7 +2259,7 @@
    "title": "Nasdaq futures rise after strong rebound on Wall Street, Amazon surges after earnings: Live updates",
    "link": "https://www.cnbc.com/2026/07/30/stock-market-today-live-updates.html",
    "summary": "The after-hours moves followed a powerful rally during Thursday's regular session, led by Microsoft.",
-   "article_text": "Stock market today: Live updates Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Traders work on the floor of the New York Stock Exchange during morning trading on July 30, 2026 in New York City. Michael M. Santiago | Getty Images Nasdaq futures edged higher in overnight trading Thursday after Wall Street staged a sharp rebound. Upbeat earnings from Amazon added to optimism. Nasdaq 100 futures gained 0.4%. Futures on the Dow Jones Industrial Average traded flat, while S&P 500 futures inched up 0.1% In extended trading, Amazon surged more than 9% after reporting better-than-expected second-quarter revenue. The results, which were aided by the strength of its cloud-computing business, reinforced investor confidence in artificial intelligence spending. Apple's fiscal third-quarter revenue topped expectations , helped by a 22% jump in iPhone sales. However, a shortfall in service revenue led to a 3% decline in its stock. The after-hours moves followed a powerful rally during Thursday's regular session, led by Microsoft, which jumped 16% after the software giant posted stronger-than-expected Azure cloud growth. The results sparked a broad advance across AI-linked chipmakers, with the iShares Semiconductor ETF (SOXX) climbing more than 8%. The recovery came after a bruising session on Wednesday, when the Dow plunged more than 1,100 points , its worst one-day decline since April 2025. Selling accelerated late in the session after the Federal Reserve held interest rates steady, fueling concerns that policymakers were falling behind in the fight against inflation. Those worries rippled through the Treasury market. The 30-year Treasury yield climbed 6 basis points Wednesday to above 5.2%, hovering near its highest level since 2007. \"Investors are recalibrating expectations for Fed rate cuts, reducing the excess liquidity that has fueled speculative, momentum-driven markets,\" Richard Bernstein, global head of macro and customized investing​ at Janus Henderson Investors, said. \"Market leadership is expanding beyond the 'Magnificent 7' as investors increasingly reward improving fundamentals rather than hype-driven momentum.\" Despite the week's sharp swings, the major averages remained on track to finish higher. The Dow was up about 0.5% for the week heading into Friday's session, while the S&P 500 had gained roughly 0.4% and the Nasdaq Composite was ahead about 0.6%. 29 Min Ago Stocks making moves after hours Here are a number of stocks making big moves in extended trading : Coinbase — Shares of the crypto exchange slid more than 5% after posting its third straight quarterly loss. Rivian Automotive — The electric vehicle maker's shares rose nearly 2% after the firm reduced its 2026 spending plans and slightly narrowed its previously forecasted losses this year. Reddit — The social media platform's shares sank over 7% in after-hours trading, as investors grew concerned about the company's search-referral traffic from Google. First Solar — Shares of First Solar rose more than 3% after the company reported second-quarter earnings that topped Wall Street expectations, even as revenue was roughly in line with estimates. — Yun Li 25 Min Ago Individual investors stay uncharacteristically bearish for a 25th week Main Street investors polled by the American Association of Individual Investors remained uncharacteristically gloomy for a 25th straight week. The number of mom-and-pop investors who described themselves as bearish about the outlook for stocks over the coming six months dipped to 42.1% in the week ended Wednesday, down from 42.3% last week and against an historical average of 31.0%, the AAII said. The last time fewer than 31.0% of individual investors said they were pessimistic was in early February, before the start of the war with Iran later that month. Bullish investors rose to 31.0% from 29.6% last week, the second week in a row that the percentage of optimists was below the historical average of 37.5%. Neutral investors fell to 26.9% from 28.1%. The percentage of investors who are agnostic on stocks has been below the historical average of 31.5% every week since mid-January 2025, shortly before the start of President Trump's second term. — Scott Schnipper 25 Min Ago Strong crack spreads send four refining stocks to all-time highs Thursday The Iran war has been great for America's publicly-traded oil refineries. Crack spreads — the gross profit margin an oil refinery makes by turning a barrel of crude into gasoline and other products — are strong and four refining stocks closed at all-time highs on Thursday: PBF Energy , Delek US Holdings, Par Pacific Holdings and HF Sinclair . Three other refiners, the largest in the group — Valero Energy , Marathon Petroleum and Phillips 66 — are close to the all-time highs they reached just last week. PBF, up 170% in 2026, reported blowout second-quarter earnings excluding one-time items of $6.22 per share premarket Thursday. Analysts had estimated $4.15 per share, according to FactSet data. Revenue of $11.7 billion also beat the $9.6 billion Street consensus. — Scott Schnipper Dow drops 1,100 points for worst day since April 2025 on fear the Fed is falling behind on inflation: Live updates Sarah Min",
+   "article_text": "Stock market today: Live updates Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Traders work on the floor of the New York Stock Exchange during morning trading on July 30, 2026 in New York City. Michael M. Santiago | Getty Images Nasdaq futures edged higher in overnight trading Thursday after Wall Street staged a sharp rebound. Upbeat earnings from Amazon added to optimism. Nasdaq 100 futures gained 0.4%. Futures on the Dow Jones Industrial Average traded flat, while S&P 500 futures inched up 0.1% In extended trading, Amazon surged more than 9% after reporting better-than-expected second-quarter revenue. The results, which were aided by the strength of its cloud-computing business, reinforced investor confidence in artificial intelligence spending. Apple's fiscal third-quarter revenue topped expectations , helped by a 22% jump in iPhone sales. However, a shortfall in service revenue led to a 3% decline in its stock. The after-hours moves followed a powerful rally during Thursday's regular session, led by Microsoft, which jumped 16% after the software giant posted stronger-than-expected Azure cloud growth. The results sparked a broad advance across AI-linked chipmakers, with the iShares Semiconductor ETF (SOXX) climbing more than 8%. The recovery came after a bruising session on Wednesday, when the Dow plunged more than 1,100 points , its worst one-day decline since April 2025. Selling accelerated late in the session after the Federal Reserve held interest rates steady, fueling concerns that policymakers were falling behind in the fight against inflation. Those worries rippled through the Treasury market. The 30-year Treasury yield climbed 6 basis points Wednesday to above 5.2%, hovering near its highest level since 2007. \"Investors are recalibrating expectations for Fed rate cuts, reducing the excess liquidity that has fueled speculative, momentum-driven markets,\" Richard Bernstein, global head of macro and customized investing​ at Janus Henderson Investors, said. \"Market leadership is expanding beyond the 'Magnificent 7' as investors increasingly reward improving fundamentals rather than hype-driven momentum.\" Despite the week's sharp swings, the major averages remained on track to finish higher. The Dow was up about 0.5% for the week heading into Friday's session, while the S&P 500 had gained roughly 0.4% and the Nasdaq Composite was ahead about 0.6%. 55 Min Ago Stocks making moves after hours Here are a number of stocks making big moves in extended trading : Coinbase — Shares of the crypto exchange slid more than 5% after posting its third straight quarterly loss. Rivian Automotive — The electric vehicle maker's shares rose nearly 2% after the firm reduced its 2026 spending plans and slightly narrowed its previously forecasted losses this year. Reddit — The social media platform's shares sank over 7% in after-hours trading, as investors grew concerned about the company's search-referral traffic from Google. First Solar — Shares of First Solar rose more than 3% after the company reported second-quarter earnings that topped Wall Street expectations, even as revenue was roughly in line with estimates. — Yun Li 51 Min Ago Individual investors stay uncharacteristically bearish for a 25th week Main Street investors polled by the American Association of Individual Investors remained uncharacteristically gloomy for a 25th straight week. The number of mom-and-pop investors who described themselves as bearish about the outlook for stocks over the coming six months dipped to 42.1% in the week ended Wednesday, down from 42.3% last week and against an historical average of 31.0%, the AAII said. The last time fewer than 31.0% of individual investors said they were pessimistic was in early February, before the start of the war with Iran later that month. Bullish investors rose to 31.0% from 29.6% last week, the second week in a row that the percentage of optimists was below the historical average of 37.5%. Neutral investors fell to 26.9% from 28.1%. The percentage of investors who are agnostic on stocks has been below the historical average of 31.5% every week since mid-January 2025, shortly before the start of President Trump's second term. — Scott Schnipper 51 Min Ago Strong crack spreads send four refining stocks to all-time highs Thursday The Iran war has been great for America's publicly-traded oil refineries. Crack spreads — the gross profit margin an oil refinery makes by turning a barrel of crude into gasoline and other products — are strong and four refining stocks closed at all-time highs on Thursday: PBF Energy , Delek US Holdings, Par Pacific Holdings and HF Sinclair . Three other refiners, the largest in the group — Valero Energy , Marathon Petroleum and Phillips 66 — are close to the all-time highs they reached just last week. PBF, up 170% in 2026, reported blowout second-quarter earnings excluding one-time items of $6.22 per share premarket Thursday. Analysts had estimated $4.15 per share, according to FactSet data. Revenue of $11.7 billion also beat the $9.6 billion Street consensus. — Scott Schnipper Dow drops 1,100 points for worst day since April 2025 on fear the Fed is falling behind on inflation: Live updates Sarah Min",
    "source": "CNBC Top",
    "category": "markets",
    "type": "markets",
@@ -942,6 +2317,54 @@
    ]
   },
   {
+   "id": "f5175c9cb2ce",
+   "title": "Gaming And Leisure Properties Reports Higher Q2 Revenue And Earnings",
+   "link": "https://www.nasdaq.com/articles/gaming-and-leisure-properties-reports-higher-q2-revenue-and-earnings",
+   "summary": "(RTTNews) - Gaming and Leisure Properties Inc. (GLPI) on Thursday reported second-quarter 2026 total income from real estate of $430.5 million, up from $394.9 million in the same period last year.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-07-30T22:06:02+00:00",
+   "tickers": [
+    "GLPI"
+   ]
+  },
+  {
+   "id": "6e4584552fa5",
+   "title": "Camden Property Trust Reports Lower Q2 Revenue And Earnings",
+   "link": "https://www.nasdaq.com/articles/camden-property-trust-reports-lower-q2-revenue-and-earnings",
+   "summary": "(RTTNews) - Camden Property Trust (CPT) on Thursday, reported lower second-quarter revenue and profit.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-07-30T22:05:26+00:00",
+   "tickers": [
+    "CPT"
+   ]
+  },
+  {
+   "id": "742b47ce3bd1",
+   "title": "Mettler-Toledo Q2 Profit Rises",
+   "link": "https://www.nasdaq.com/articles/mettler-toledo-q2-profit-rises",
+   "summary": "(RTTNews) - Mettler-Toledo International Inc. (MTD) on Thursday reported higher second-quarter earnings and revenue, driven by better-than-expected organic sales growth across its portfolio, particularly in China and emerging markets. The precision instruments maker also raised i",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-07-30T22:04:27+00:00",
+   "tickers": [
+    "MTD"
+   ]
+  },
+  {
    "id": "cd68c2fb40b8",
    "title": "Continuity Biosciences beruft Vicky Papoutsis in den Vorstand",
    "link": "https://www.prnewswire.com/news-releases/continuity-biosciences-beruft-vicky-papoutsis-in-den-vorstand-302839547.html",
@@ -954,22 +2377,6 @@
    "domain": "prnewswire.com",
    "published": "2026-07-30T22:04:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "959596b74e11",
-   "title": "Stronger Monsoon Rains in India Weigh on Sugar Prices",
-   "link": "https://www.nasdaq.com/articles/stronger-monsoon-rains-india-weigh-sugar-prices",
-   "summary": "October NY world sugar #11 (SBV26 ) on Thursday closed down -0.07 (-0.48%), and October London ICE white sugar #5 (SWV26 ) closed down -1.70 (-0.37%). Sugar prices moved lower on Thursday, with NY sugar matching a 1-month low posted earlier this month. Sugar prices are under pressure amid the...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-07-30T22:03:50+00:00",
-   "tickers": [
-    "ICE"
-   ]
   },
   {
    "id": "98a4627df4c0",
@@ -1207,25 +2614,6 @@
    "domain": "nasdaq.com",
    "published": "2026-07-30T21:59:54+00:00",
    "tickers": []
-  },
-  {
-   "id": "ebb502adcce0",
-   "title": "Stocks Rebound as Microsoft Earnings Ease AI Spending Concerns",
-   "link": "https://www.nasdaq.com/articles/stocks-rebound-microsoft-earnings-ease-ai-spending-concerns",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) today is up +1.12%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.64%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +2.69%. September E-mini S&P futures (ESU26 ) are up +1.09%, and September E-mini Nasdaq futures...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-07-30T21:59:54+00:00",
-   "tickers": [
-    "QQQ",
-    "MSFT",
-    "NDAQ",
-    "SPY"
-   ]
   },
   {
    "id": "2f0110a944f5",
@@ -1759,22 +3147,6 @@
    ]
   },
   {
-   "id": "bd29f517e6a1",
-   "title": "Amazon beats cloud sales growth estimates; shares jump",
-   "link": "https://www.investing.com/news/stock-market-news/amazon-beats-estimates-for-quarterly-cloud-revenue-growth-4826048",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-07-30T21:54:53+00:00",
-   "tickers": [
-    "AMZN"
-   ]
-  },
-  {
    "id": "f7b69806775c",
    "title": "Dexcom Q2 2026 slides: strong beat drives guidance raise, margins expand",
    "link": "https://www.investing.com/news/company-news/dexcom-q2-2026-slides-strong-beat-drives-guidance-raise-margins-expand-93CH-4826408",
@@ -1845,22 +3217,6 @@
    "domain": "nasdaq.com",
    "published": "2026-07-30T21:53:53+00:00",
    "tickers": []
-  },
-  {
-   "id": "5388f3258b62",
-   "title": "Microsoft jumps 8% as it boosts capital spending plans, citing demand",
-   "link": "https://www.cnbc.com/2026/07/29/microsoft-msft-q4-earnings-report-2026.html",
-   "summary": "Microsoft sees positive free cash flow for the new fiscal year as it changes accounting for data centers and office buildings.",
-   "article_text": "",
-   "source": "CNBC Earnings",
-   "category": "earnings",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "cnbc.com",
-   "published": "2026-07-30T21:53:40+00:00",
-   "tickers": [
-    "MSFT"
-   ]
   },
   {
    "id": "3d785c5fb4a6",
@@ -3066,22 +4422,6 @@
    "tickers": []
   },
   {
-   "id": "3f8829e1bce4",
-   "title": "Amazon increases AI infrastructure spending to $220bn this year",
-   "link": "https://www.ft.com/content/fddc42a9-4c57-4689-abde-75bbe79622e9?syn-25a6b1a6=1",
-   "summary": "Seattle-based group had in April expected to spend $200bn in 2026",
-   "article_text": "",
-   "source": "FT Companies",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "ft.com",
-   "published": "2026-07-30T21:27:17+00:00",
-   "tickers": [
-    "AMZN"
-   ]
-  },
-  {
    "id": "2ed13b1fb879",
    "title": "SpaceX wins $1.6 billion in launch orders for military satellite networks",
    "link": "https://biztoc.com/x/e2efa65630af63f1?ref=rss",
@@ -3503,6 +4843,83 @@
    "tickers": []
   },
   {
+   "id": "de25059f8092",
+   "title": "Tempus AI (TEM) Reports Q2 Loss, Beats Revenue Estimates",
+   "link": "https://www.nasdaq.com/articles/tempus-ai-tem-reports-q2-loss-beats-revenue-estimates",
+   "summary": "Tempus (TEM) delivered earnings and revenue surprises of +69.23% and +0.40%, respectively, for the quarter ended June 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-07-30T21:25:05+00:00",
+   "tickers": [
+    "TEM"
+   ]
+  },
+  {
+   "id": "77c7924f5e8b",
+   "title": "NMI Holdings (NMIH) Q2 Earnings and Revenues Surpass Estimates",
+   "link": "https://www.nasdaq.com/articles/nmi-holdings-nmih-q2-earnings-and-revenues-surpass-estimates",
+   "summary": "NMI Holdings (NMIH) delivered earnings and revenue surprises of +7.81% and +1.73%, respectively, for the quarter ended June 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-07-30T21:25:04+00:00",
+   "tickers": []
+  },
+  {
+   "id": "d2b2c4d535e1",
+   "title": "Stryker (SYK) Q2 Earnings and Revenues Beat Estimates",
+   "link": "https://www.nasdaq.com/articles/stryker-syk-q2-earnings-and-revenues-beat-estimates",
+   "summary": "Stryker (SYK) delivered earnings and revenue surprises of +6.65% and +0.48%, respectively, for the quarter ended June 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-07-30T21:25:04+00:00",
+   "tickers": [
+    "SYK"
+   ]
+  },
+  {
+   "id": "4431a0277f52",
+   "title": "Silvercrest (SAMG) Q2 Earnings and Revenues Miss Estimates",
+   "link": "https://www.nasdaq.com/articles/silvercrest-samg-q2-earnings-and-revenues-miss-estimates",
+   "summary": "Silvercrest (SAMG) delivered earnings and revenue surprises of -23.08% and -0.38%, respectively, for the quarter ended June 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-07-30T21:25:04+00:00",
+   "tickers": []
+  },
+  {
+   "id": "3d619bbfbaa6",
+   "title": "PTC Therapeutics (PTCT) Beats Q2 Earnings and Revenue Estimates",
+   "link": "https://www.nasdaq.com/articles/ptc-therapeutics-ptct-beats-q2-earnings-and-revenue-estimates",
+   "summary": "PTC Therapeutics (PTCT) delivered earnings and revenue surprises of +641.18% and +22.24%, respectively, for the quarter ended June 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-07-30T21:25:04+00:00",
+   "tickers": [
+    "PTCT",
+    "PTC"
+   ]
+  },
+  {
    "id": "b96e27d933c2",
    "title": "Colombia stocks higher at close of trade; COLCAP up 1.64%",
    "link": "https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-164-4826316",
@@ -3513,6 +4930,36 @@
    "type": "stocks",
    "sentiment": "neutral",
    "domain": "investing.com",
+   "published": "2026-07-30T21:25:03+00:00",
+   "tickers": []
+  },
+  {
+   "id": "7f8051acca65",
+   "title": "Edison International (EIX) Beats Q2 Earnings Estimates",
+   "link": "https://www.nasdaq.com/articles/edison-international-eix-beats-q2-earnings-estimates",
+   "summary": "Edison International (EIX) delivered earnings and revenue surprises of +50.98% and -7.65%, respectively, for the quarter ended June 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-07-30T21:25:03+00:00",
+   "tickers": [
+    "EIX"
+   ]
+  },
+  {
+   "id": "271a7690ba32",
+   "title": "Meridian Bank (MRBK) Lags Q2 Earnings and Revenue Estimates",
+   "link": "https://www.nasdaq.com/articles/meridian-bank-mrbk-lags-q2-earnings-and-revenue-estimates",
+   "summary": "Meridian Bank (MRBK) delivered earnings and revenue surprises of -5.88% and -5.87%, respectively, for the quarter ended June 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
    "published": "2026-07-30T21:25:03+00:00",
    "tickers": []
   },
@@ -4348,38 +5795,6 @@
    "published": "2026-07-30T21:11:40+00:00",
    "tickers": [
     "AAPL"
-   ]
-  },
-  {
-   "id": "cec3cadec799",
-   "title": "Cocoa Prices Pressured as Supply Concerns Ease",
-   "link": "https://www.nasdaq.com/articles/cocoa-prices-pressured-supply-concerns-ease-0",
-   "summary": "September ICE NY cocoa (CCU26 ) closed down -73 (-1.41%) on Thursday, and September ICE London cocoa #7 (CAU26 ) closed down -92 (-2.33%). Cocoa prices settled lower on Thursday and are just above Tuesday’s 3.5-week lows. Cocoa prices have been under pressure over the past two weeks and posted...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-07-30T21:11:38+00:00",
-   "tickers": [
-    "ICE"
-   ]
-  },
-  {
-   "id": "9b23bc92e4bf",
-   "title": "Arabica Coffee Prices Slide on Dry Weather Forecasts for Brazil",
-   "link": "https://www.nasdaq.com/articles/arabica-coffee-prices-slide-dry-weather-forecasts-brazil",
-   "summary": "September arabica coffee (KCU26 ) closed down -2.75 (-0.84%) on Thursday, and September ICE robusta coffee (RMU26 ) closed up +7 (+0.19%). Coffee prices settled mixed on Thursday. Arabica coffee retreated on Thursday amid forecasts for mostly dry weather in Brazil’s coffee-growing regions over the next week, which should allow...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-07-30T21:11:38+00:00",
-   "tickers": [
-    "ICE"
    ]
   },
   {
@@ -6390,22 +7805,6 @@
    "tickers": []
   },
   {
-   "id": "ddbf25f5f024",
-   "title": "Corteva beats quarterly profit estimates",
-   "link": "https://www.investing.com/news/stock-market-news/corteva-beats-quarterly-profit-estimates-4826229",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-07-30T20:44:10+00:00",
-   "tickers": [
-    "CTVA"
-   ]
-  },
-  {
    "id": "fc5103ff5bb3",
    "title": "8-K - Corteva, Inc. (0001755672) (Filer)",
    "link": "https://www.sec.gov/Archives/edgar/data/1755672/000175567226000022/0001755672-26-000022-index.htm",
@@ -6735,22 +8134,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-07-30T20:41:42+00:00",
    "tickers": []
-  },
-  {
-   "id": "55c3d27e4a72",
-   "title": "Hog Retreat Extending to Thursday",
-   "link": "https://www.nasdaq.com/articles/hog-retreat-extending-thursday",
-   "summary": "Lean hog futures are posting $1.87 to $2.87 losses across most contracts at midday. USDA’s national base hog price was reported at $100.52 on Thursday morning, down $1.13 from the day prior. The CME Lean Hog Index was another 10 cents higher on July 28 at $98.45. Weekly Export Sales...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-07-30T20:41:30+00:00",
-   "tickers": [
-    "CME"
-   ]
   },
   {
    "id": "8c62805f215b",
@@ -7568,1403 +8951,16 @@
    "domain": "sec.gov",
    "published": "2026-07-30T20:30:31+00:00",
    "tickers": []
-  },
-  {
-   "id": "b1b43bb4945a",
-   "title": "8-K - Apple Inc. (0000320193) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000018/0000320193-26-000018-index.htm",
-   "summary": "Filed: 2026-07-30 AccNo: 0000320193-26-000018 Size: 417 KB Item 2.02: Results of Operations and Financial Condition Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-07-30T20:30:28+00:00",
-   "tickers": [
-    "AAPL"
-   ]
-  },
-  {
-   "id": "da7ffa675058",
-   "title": "8-K - Equitable Holdings, Inc. (0001333986) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1333986/000095014226002207/0000950142-26-002207-index.htm",
-   "summary": "Filed: 2026-07-30 AccNo: 0000950142-26-002207 Size: 316 KB Item 5.07: Submission of Matters to a Vote of Security Holders Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-07-30T20:30:27+00:00",
-   "tickers": [
-    "EQH"
-   ]
-  },
-  {
-   "id": "65d9aa0cced8",
-   "title": "8-K - Bit Digital, Inc (0001710350) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1710350/000121390026083352/0001213900-26-083352-index.htm",
-   "summary": "Filed: 2026-07-30 AccNo: 0001213900-26-083352 Size: 664 KB Item 5.03: Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year Item 5.07: Submission of Matters to a Vote of Security Holders Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-07-30T20:30:25+00:00",
-   "tickers": [
-    "BTBT"
-   ]
-  },
-  {
-   "id": "f06bf13ecca8",
-   "title": "8-K - Hercules Capital, Inc. (0001280784) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1280784/000128078426000043/0001280784-26-000043-index.htm",
-   "summary": "Filed: 2026-07-30 AccNo: 0001280784-26-000043 Size: 892 KB Item 2.02: Results of Operations and Financial Condition Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-07-30T20:30:21+00:00",
-   "tickers": []
-  },
-  {
-   "id": "303f327379dc",
-   "title": "8-K - OFS Capital Corp (0001487918) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1487918/000148791826000077/0001487918-26-000077-index.htm",
-   "summary": "Filed: 2026-07-30 AccNo: 0001487918-26-000077 Size: 651 KB Item 2.02: Results of Operations and Financial Condition Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-07-30T20:30:15+00:00",
-   "tickers": []
-  },
-  {
-   "id": "a20598d6e176",
-   "title": "8-K - Esquire Financial Holdings, Inc. (0001531031) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1531031/000110465926088725/0001104659-26-088725-index.htm",
-   "summary": "Filed: 2026-07-30 AccNo: 0001104659-26-088725 Size: 190 KB Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-07-30T20:30:10+00:00",
-   "tickers": []
-  },
-  {
-   "id": "9c8f488bdf29",
-   "title": "8-K - Clear Secure, Inc. (0001856314) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1856314/000185631426000033/0001856314-26-000033-index.htm",
-   "summary": "Filed: 2026-07-30 AccNo: 0001856314-26-000033 Size: 150 KB Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "positive",
-   "domain": "sec.gov",
-   "published": "2026-07-30T20:30:07+00:00",
-   "tickers": []
-  },
-  {
-   "id": "58bc31ac5549",
-   "title": "Brazil stocks higher at close of trade; Bovespa up 1.88%",
-   "link": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-188-4826163",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-07-30T20:30:04+00:00",
-   "tickers": []
-  },
-  {
-   "id": "a5994faf339d",
-   "title": "MSA Safety Announces Second Quarter 2026 Results",
-   "link": "https://www.prnewswire.com/news-releases/msa-safety-announces-second-quarter-2026-results-302839487.html",
-   "summary": "Second Quarter 2026 Highlights Achieved quarterly net sales of $503 million, a 6% GAAP increase and a 3% organic increase year-over-year Generated GAAP operating income of $112 million, or 22.2% of sales, and adjusted operating income of $121 million, or 24.1% of sales Recorded GAAP net...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-07-30T20:30:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "c7631f94d485",
-   "title": "Bloomberg Expands Electronic Trading for Onshore-Listed Australian ETFs, Options and Futures",
-   "link": "https://www.prnewswire.com/news-releases/bloomberg-expands-electronic-trading-for-onshore-listed-australian-etfs-options-and-futures-302839438.html",
-   "summary": "SYDNEY, July 30, 2026 /PRNewswire/ -- Bloomberg today announced an expansion of its electronic trading capabilities for the Australian markets, enabling eligible onshore participants to electronically negotiate Australian-listed exchange-traded funds (ETFs) using Bloomberg's...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "press",
-   "sentiment": "positive",
-   "domain": "prnewswire.com",
-   "published": "2026-07-30T20:30:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "48f621ca02ae",
-   "title": "NORTH EUROPEAN OIL ROYALTY TRUST ANNOUNCES THE DISTRIBUTION FOR THE THIRD QUARTER OF FISCAL 2026",
-   "link": "https://www.prnewswire.com/news-releases/north-european-oil-royalty-trust-announces-the-distribution-for-the-third-quarter-of-fiscal-2026-302838814.html",
-   "summary": "EAST SCHODACK, N.Y., July 30, 2026 /PRNewswire/ -- The Trustees of North European Oil Royalty Trust (NYSE: NRT) announced today a distribution of $0.26 per unit for the third quarter of fiscal 2026, the same level as the third quarter of fiscal 2025. This compares to a $0.22 for the...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-07-30T20:30:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e0c4fb33190d",
-   "title": "Lument Finance Trust Receives NYSE Continued Listing Standard Notice",
-   "link": "https://www.prnewswire.com/news-releases/lument-finance-trust-receives-nyse-continued-listing-standard-notice-302839473.html",
-   "summary": "NEW YORK, July 30, 2026 /PRNewswire/ -- Lument Finance Trust, Inc. (NYSE: LFT) (\"LFT\" or the \"Company\") today announced that it received notice from the New York Stock Exchange (the \"NYSE\") that the Company is not in compliance with Section 802.01C of the NYSE Listed Company Manual...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-07-30T20:30:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "eb405a154df4",
-   "title": "Esquire Financial Holdings, Inc. Declares Regular Quarterly Dividend For Common Stockholders",
-   "link": "https://www.prnewswire.com/news-releases/esquire-financial-holdings-inc-declares-regular-quarterly-dividend-for-common-stockholders-302839464.html",
-   "summary": "JERICHO, N.Y., July 30, 2026 /PRNewswire/ -- Esquire Financial Holdings, Inc. (NASDAQ: ESQ) (the \"Company\"), the financial holding company for Esquire Bank, National Association (\"Esquire Bank\" or the \"Bank\"), today announced its regular quarterly dividend of $0.20 per share of common...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-07-30T20:30:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "cfcc8611eddc",
-   "title": "Bristow Group Declares Cash Dividend",
-   "link": "https://www.prnewswire.com/news-releases/bristow-group-declares-cash-dividend-302839483.html",
-   "summary": "HOUSTON, July 30, 2026 /PRNewswire/ -- Bristow Group Inc. (NYSE: VTOL, the \"Company\"), the leading global provider of innovative and sustainable vertical flight solutions, today declared a cash dividend of $0.125 per share of common stock. The quarterly cash dividend announced today is...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "dividend",
-   "sentiment": "positive",
-   "domain": "prnewswire.com",
-   "published": "2026-07-30T20:30:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "1e9198cfdda7",
-   "title": "Corteva Delivers Strong 1H 2026, Raises FY 2026 Outlook, On-Track for October 1 Separation",
-   "link": "https://www.prnewswire.com/news-releases/corteva-delivers-strong-1h-2026-raises-fy-2026-outlook-on-track-for-october-1-separation-302839417.html",
-   "summary": "Seed 1H results reflect continued value capture on latest in-demand germplasm and trait technologies, including licensing growth Crop Protection 1H demand for new products and focus on operational excellence helped offset competitive pricing dynamics Full-year 2026 guidance3 increased to...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "prnewswire.com",
-   "published": "2026-07-30T20:30:00+00:00",
-   "tickers": [
-    "CTVA"
-   ]
-  },
-  {
-   "id": "9c135e92c29c",
-   "title": "Ameren Announces Second Quarter 2026 Results",
-   "link": "https://www.prnewswire.com/news-releases/ameren-announces-second-quarter-2026-results-302839461.html",
-   "summary": "Second Quarter Diluted Earnings Per Share (EPS) were $1.13 in 2026 vs. $1.01 in 2025 Reaffirmed 2026 Earnings Guidance Range of $5.25 to $5.45 per Diluted Share ST. LOUIS, July 30, 2026 /PRNewswire/ -- Ameren Corporation (NYSE: AEE) today announced second quarter 2026 net income...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-07-30T20:30:00+00:00",
-   "tickers": [
-    "AEE",
-    "RRC"
-   ]
-  },
-  {
-   "id": "659965c934b8",
-   "title": "INTEGRA FILES FEASIBILITY STUDY AND UPDATED LIFE OF MINE PLAN TECHNICAL REPORT FOR THE PRODUCING FLORIDA CANYON MINE",
-   "link": "https://www.prnewswire.com/news-releases/integra-files-feasibility-study-and-updated-life-of-mine-plan-technical-report-for-the-producing-florida-canyon-mine-302839433.html",
-   "summary": "TSXV: ITR; NYSE American: ITRG www.integraresources.com VANCOUVER, BC, July 30, 2026 /PRNewswire/ -- Integra Resources Corp. (\"Integra\" or the \"Company\") (TSXV: ITR) (NYSE American: ITRG) is pleased to announce that, further to its news release dated June 25, 2026, it has filed a...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-07-30T20:30:00+00:00",
-   "tickers": [
-    "BC"
-   ]
-  },
-  {
-   "id": "173213a4c069",
-   "title": "CleanSpark Executives to Discuss Q3 2026 Financial Results Via Webcast",
-   "link": "https://www.prnewswire.com/news-releases/cleanspark-executives-to-discuss-q3-2026-financial-results-via-webcast-302839455.html",
-   "summary": "LAS VEGAS, July 30, 2026 /PRNewswire/ -- CleanSpark, Inc. (Nasdaq: CLSK) (\"CleanSpark\" or the \"Company\"), a market leading data center developer, will discuss its fiscal third quarter 2026 financial results via a live webcast beginning at 4:30 p.m. ET / 1:30 p.m. PT on Thursday, August 6,...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-07-30T20:30:00+00:00",
-   "tickers": [
-    "CLSK",
-    "NDAQ"
-   ]
-  },
-  {
-   "id": "3a1f22a12f9b",
-   "title": "QUAKER HOUGHTON ANNOUNCES SECOND QUARTER 2026 RESULTS",
-   "link": "https://www.prnewswire.com/news-releases/quaker-houghton-announces-second-quarter-2026-results-302839185.html",
-   "summary": "Q2'26 net sales of $532.6 million, an increase of 10% Y/Y Q2'26 net income of $26.8 million and earnings per diluted share of $1.55 Sales volumes increased 7% Y/Y primarily driven by new business wins across all segments Q2'26 non-GAAP net income of $37.9 million and non-GAAP earnings per...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-07-30T20:30:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "a46be521e303",
-   "title": "Smallest.ai gets $21 Million in Funding to Build Voice 4.0, the Next Generation of Enterprise Voice AI",
-   "link": "https://www.prnewswire.com/news-releases/smallestai-gets-21-million-in-funding-to-build-voice-4-0--the-next-generation-of-enterprise-voice-ai-302839266.html",
-   "summary": "Raises $13 million Series A led by Seligman Ventures, bringing total funding to more than $21 million Introduces Voice 4.0 and Hydra, an asynchronous AI architecture designed to make AI conversations as natural, responsive and scalable as human dialogue Pulse STT and Lightning TTS rank...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-07-30T20:30:00+00:00",
-   "tickers": [
-    "STT"
-   ]
-  },
-  {
-   "id": "631e80f46d65",
-   "title": "Xos, Inc. Announces Second Quarter 2026 Earnings Release Date and Conference Call",
-   "link": "https://www.globenewswire.com/news-release/2026/07/30/3336463/0/en/Xos-Inc-Announces-Second-Quarter-2026-Earnings-Release-Date-and-Conference-Call.html",
-   "summary": "",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-07-30T20:30:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "697af8f4f4cd",
-   "title": "Cellectis to Report Second Quarter Financial Results on August 6, 2026",
-   "link": "https://www.globenewswire.com/news-release/2026/07/30/3336464/0/en/Cellectis-to-Report-Second-Quarter-Financial-Results-on-August-6-2026.html",
-   "summary": "NEW YORK, July 30, 2026 (GLOBE NEWSWIRE) -- Cellectis (the “Company”) (Euronext Growth: ALCLS- NASDAQ: CLLS), a clinical-stage biotechnology company using its pioneering gene-editing platform to develop life-saving cell and gene therapies, today announced that it will report financial results for the second quarter 2026 ending June 30, 2026 on Thursday, August 6, 2026 after the close of the US market.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-07-30T20:30:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "989c687e5952",
-   "title": "Cellectis publiera ses résultats financiers du deuxième trimestre jeudi 6 août 2026",
-   "link": "https://www.globenewswire.com/news-release/2026/07/30/3336464/0/fr/Cellectis-publiera-ses-r%C3%A9sultats-financiers-du-deuxi%C3%A8me-trimestre-jeudi-6-ao%C3%BBt-2026.html",
-   "summary": "NEW YORK, 30 juill. 2026 (GLOBE NEWSWIRE) -- Cellectis (Euronext Growth: ALCLS - Nasdaq: CLLS), société de biotechnologie de stade clinique qui utilise sa technologie pionnière d’édition du génome pour développer des thérapies cellulaires et géniques, publiera ses résultats financiers pour le deuxième trimestre clos au 30 juin 2026, le jeudi 6 août 2026, après la clôture du marché aux États-Unis.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-07-30T20:30:00+00:00",
-   "tickers": [
-    "NDAQ"
-   ]
-  },
-  {
-   "id": "e906ed8153be",
-   "title": "SunCar Technology Group Announces Receipt of Nasdaq Notification Regarding Minimum Bid Price Compliance Deficiency",
-   "link": "https://www.globenewswire.com/news-release/2026/07/30/3336465/0/en/SunCar-Technology-Group-Announces-Receipt-of-Nasdaq-Notification-Regarding-Minimum-Bid-Price-Compliance-Deficiency.html",
-   "summary": "",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-07-30T20:30:00+00:00",
-   "tickers": [
-    "NDAQ"
-   ]
-  },
-  {
-   "id": "cebe25933f8b",
-   "title": "General Fusion to Participate in Canaccord Genuity Growth Conference",
-   "link": "https://www.globenewswire.com/news-release/2026/07/30/3336466/0/en/General-Fusion-to-Participate-in-Canaccord-Genuity-Growth-Conference.html",
-   "summary": "VANCOUVER, British Columbia, July 30, 2026 (GLOBE NEWSWIRE) -- General Fusion Group Ltd. (“General Fusion” or the “Company”) (NASDAQ: GFUZ), a leader in the global race to commercialize fusion energy, today announced that members of its leadership team will participate in Canaccord Genuity’s 46th Annual Growth Conference in Boston.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-07-30T20:30:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "071160b613b8",
-   "title": "Waldencast Announces Completion of the Sale of Obagi Medical to Bridgepoint",
-   "link": "https://www.globenewswire.com/news-release/2026/07/30/3336467/0/en/Waldencast-Announces-Completion-of-the-Sale-of-Obagi-Medical-to-Bridgepoint.html",
-   "summary": "LONDON, July 30, 2026 (GLOBE NEWSWIRE) -- Waldencast plc (NASDAQ: WALD) (“Waldencast” or “the Company”) today announced that it completed the previously announced sale of its Obagi Medical dermatological skincare and aesthetics business (“Obagi Medical”) to Bridgepoint, one of the world's leading mid-market investors, in a transaction valued at up to $460 million (subject to negotiated deductions and customary adjustments based on closing cash, closing indebtedness, net working capital and transaction expenses), marking a significant step in Waldencast’s strategy to strengthen its balance sheet and focus on accelerating the global growth of Milk Makeup.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-07-30T20:30:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "85835ab10aa3",
-   "title": "Alpine Banks of Colorado announces financial results for second quarter 2026",
-   "link": "https://www.globenewswire.com/news-release/2026/07/30/3336468/0/en/Alpine-Banks-of-Colorado-announces-financial-results-for-second-quarter-2026.html",
-   "summary": "GLENWOOD SPRINGS, Colo., July 30, 2026 (GLOBE NEWSWIRE) -- Alpine Banks of Colorado (OTCQX: ALPIB) (“Alpine” or the “Company”), the holding company for Alpine Bank (the “Bank”), today announced results (unaudited) for the quarter ended June 30, 2026. The Company reported net income of $19.9 million for the second quarter of 2026 which reflects an increase of 13% from net income of $17.6 million for the second quarter of 2025, primarily due to increased loans.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-07-30T20:30:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "726e31f9d969",
-   "title": "QUAINT OAK BANCORP, INC. ANNOUNCES SECOND QUARTER EARNINGS",
-   "link": "https://www.globenewswire.com/news-release/2026/07/30/3336469/9909/en/QUAINT-OAK-BANCORP-INC-ANNOUNCES-SECOND-QUARTER-EARNINGS.html",
-   "summary": "Southampton, PA, July 30, 2026 (GLOBE NEWSWIRE) -- Quaint Oak Bancorp, Inc. (the “Company”) (OTCQB: QNTO), the holding company for Quaint Oak Bank (the “Bank”), announced today net income for the quarter ended June 30, 2026 of $481,000, or $0.18 per basic and diluted share, compared to net income of $272,000, or $0.10 per basic and diluted share, for the same period in 2025. Net income for the six months ended June 30, 2026 was $647,000, or $0.24 per basic and diluted share, compared to net income of $189,000, or $0.07 per basic and diluted share, for the same period in 2025.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-07-30T20:30:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "18a7e80294a4",
-   "title": "HOME FEDERAL BANCORP, INC. OF LOUISIANA REPORTS RECORD ANNUAL EARNINGS AND RESULTS OF OPERATIONS FOR THE THREE MONTHS AND YEAR ENDED JUNE 30, 2026",
-   "link": "https://www.globenewswire.com/news-release/2026/07/30/3336470/12251/en/HOME-FEDERAL-BANCORP-INC-OF-LOUISIANA-REPORTS-RECORD-ANNUAL-EARNINGS-AND-RESULTS-OF-OPERATIONS-FOR-THE-THREE-MONTHS-AND-YEAR-ENDED-JUNE-30-2026.html",
-   "summary": "Shreveport, Louisiana , July 30, 2026 (GLOBE NEWSWIRE) -- Home Federal Bancorp, Inc. of Louisiana (the “Company”) (Nasdaq: HFBL), the holding company of Home Federal Bank, reported the highest annual earnings in the Company’s history. The Company reported net income for the three months ended June 30, 2026, of $1.428 million compared to net income of $1.181 million reported for the three months ended June 30, 2025. The Company’s basic and diluted earnings per share were $0.48 and $0.46, respectively, for the three months ended June 30, 2026, compared to $0.39 and $0.38, respectively, for the three months ended June 30, 2025. The Company reported net income of $6.174 million for the year ended June 30, 2026, compared to $3.888 million for the year ended June 30, 2025. The Company’s basic and diluted earnings per share were $2.05 and $2.02, respectively, for the year ended June 30, 2026, compared to $1.27 and $1.26, respectively, for the year ended June 30, 2025.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-07-30T20:30:00+00:00",
-   "tickers": [
-    "NDAQ"
-   ]
-  },
-  {
-   "id": "bfe7a1f6e2fa",
-   "title": "JIADE LIMITED Announces Resumption of Trading on Nasdaq",
-   "link": "https://www.globenewswire.com/news-release/2026/07/30/3336471/0/en/JIADE-LIMITED-Announces-Resumption-of-Trading-on-Nasdaq.html",
-   "summary": "CHENGDU, China, July 30, 2026 (GLOBE NEWSWIRE) -- JIADE LIMITED (Nasdaq: JDZG) (the “Company”) today announced that The Nasdaq Stock Market LLC (“Nasdaq”) has advised the Company that trading in its Class A ordinary shares, which was halted on June 4, 2026, under halt code “T12 — Additional Information Requested by Nasdaq,” will resume at 12:00 p.m. (Eastern Time) on July 31, 2026. The halt was imposed by the Nasdaq Listing Qualifications Department (the “Staff”) under Nasdaq Listing Rule 5250(a), pending the Company’s response to information requests relating to recent trading activity in the Company’s Class A ordinary shares, the Company’s shelf takedown registered direct offering completed in two tranches on May 7, 2026, and June 1, 2026, respectively (the “2026 Registered Direct Offering”), the Company’s 25-for-1 share consolidation effected on March 23, 2026 (the “March Share Consolidation”), the Company’s 10-for-1 share consolidation effected on June 1, 2026 (the “June Share",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-07-30T20:30:00+00:00",
-   "tickers": [
-    "NDAQ"
-   ]
-  },
-  {
-   "id": "fbd86c6b8fec",
-   "title": "STERIS Raises Dividend to $0.69 per share",
-   "link": "https://www.globenewswire.com/news-release/2026/07/30/3336472/0/en/STERIS-Raises-Dividend-to-0-69-per-share.html",
-   "summary": "DUBLIN, IRELAND, July 30, 2026 (GLOBE NEWSWIRE) -- STERIS plc (NYSE: STE) (“STERIS” or the “Company”) announced today that the Company will distribute a quarterly interim dividend of $0.69 per share. This represents a $0.06 increase in the dividend and the Company’s 21st consecutive year of dividend growth. The dividend is payable on September 25, 2026, to shareholders of record at the close of business on September 4, 2026.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "globenewswire.com",
-   "published": "2026-07-30T20:30:00+00:00",
-   "tickers": [
-    "STE"
-   ]
-  },
-  {
-   "id": "4763ab090a7e",
-   "title": "Provident Financial Services, Inc. Declares Quarterly Cash Dividend",
-   "link": "https://www.globenewswire.com/news-release/2026/07/30/3336473/25661/en/Provident-Financial-Services-Inc-Declares-Quarterly-Cash-Dividend.html",
-   "summary": "ISELIN, N.J., July 30, 2026 (GLOBE NEWSWIRE) -- Provident Financial Services, Inc. (NYSE:PFS) (the “Company”) Board of Directors declared a quarterly cash dividend of $0.24 per common share payable on August 28, 2026 to stockholders of record as of the close of business on August 14, 2026.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-07-30T20:30:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "778ed2b367a4",
-   "title": "Canadian Stocks Advance Amid Surge In Gold Prices, Ongoing U.S.-Iran Conflict",
-   "link": "https://www.nasdaq.com/articles/canadian-stocks-advance-amid-surge-gold-prices-ongoing-us-iran-conflict",
-   "summary": "(RTTNews) - Partially rebounding from yesterday's slump, Canadian stocks edged higher on Thursday, supported by a surge in gold prices pushing the gold-linked materials sector sharply higher while U.S. forces concluded a wave of strikes on Iran.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-07-30T20:29:55+00:00",
-   "tickers": []
-  },
-  {
-   "id": "31928b4c61a6",
-   "title": "8-K - NCS Multistage Holdings, Inc. (0001692427) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1692427/000143774926025071/0001437749-26-025071-index.htm",
-   "summary": "Filed: 2026-07-30 AccNo: 0001437749-26-025071 Size: 621 KB Item 2.02: Results of Operations and Financial Condition Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-07-30T20:29:14+00:00",
-   "tickers": []
-  },
-  {
-   "id": "06233ab08f2b",
-   "title": "First Solar, Inc. Bottom Line Rises In Q2",
-   "link": "https://www.nasdaq.com/articles/first-solar-inc-bottom-line-rises-q2",
-   "summary": "(RTTNews) - First Solar, Inc. (FSLR) announced a profit for its second quarter that Increased, from last year",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-07-30T20:29:14+00:00",
-   "tickers": [
-    "FSLR"
-   ]
-  },
-  {
-   "id": "2bb8ec9bb637",
-   "title": "Nvidia-Backed Stock Opens Door to Classified AI Work",
-   "link": "https://biztoc.com/x/9d3f09c611fd91fe?ref=rss",
-   "summary": "This article first appeared on GuruFocus. CoreWeave (NASDAQ:CRWV) surged more than 10% in premarket trading Thursday after partnering with Leidos to pursue secure AI-cloud work for U.S. intelligence and defense agencies, opening a potentially durable government revenue channel while raising a…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-07-30T20:28:31+00:00",
-   "tickers": [
-    "CRWV",
-    "LDOS"
-   ]
-  },
-  {
-   "id": "6b6e31ee178f",
-   "title": "Meta Stock Plunges 9.1% as Free Cash Flow Collapses 91%",
-   "link": "https://biztoc.com/x/65164a71cffc3ee1?ref=rss",
-   "summary": "This article first appeared on GuruFocus. Meta Platforms (NASDAQ:META), a social-media and digital-advertising company, plunged approximately 9.1% in Thursday's regular-session trading as investors assessed an earnings miss and sharply weaker free cash flow. Quarterly free cash flow declined…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-07-30T20:28:28+00:00",
-   "tickers": [
-    "META"
-   ]
-  },
-  {
-   "id": "0b2435a51fb3",
-   "title": "8-K - MASTEC INC (0000015615) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/15615/000001561526000095/0000015615-26-000095-index.htm",
-   "summary": "Filed: 2026-07-30 AccNo: 0000015615-26-000095 Size: 785 KB Item 2.02: Results of Operations and Financial Condition Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers Item 7.01: Regulation FD Disclosure Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-07-30T20:28:22+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e4092cc5b98f",
-   "title": "Mortgage rates rise to one-year high",
-   "link": "https://biztoc.com/x/008c17c07a9f5804?ref=rss",
-   "summary": "Mortgage rates rose this week to the highest level in a year, mortgage buyer Freddie Mac said Thursday. Freddie Mac's latest Primary Mortgage Market Survey, released Thursday, showed the average rate on the benchmark 30-year fixed mortgage climbed to 6.66% from last week's reading of 6.58%. The…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "macro",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-07-30T20:27:26+00:00",
-   "tickers": [
-    "AAPL"
-   ]
-  },
-  {
-   "id": "5ba47133a0b0",
-   "title": "Jersey Mike’s Stock Slides Below IPO Price in Market Debut",
-   "link": "https://biztoc.com/x/15cf6bfec9a044e4?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "offering",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-07-30T20:27:19+00:00",
-   "tickers": []
-  },
-  {
-   "id": "8ddaab528da9",
-   "title": "Amazon beats estimates for cloud revenue growth on back of surging enterprise AI spending",
-   "link": "https://biztoc.com/x/52c963e90efe4b50?ref=rss",
-   "summary": "Amazon.com AMZN-Q topped market expectations for quarterly cloud revenue growth on Thursday on the back of surging enterprise AI spending, signaling the company’s hefty investments were bearing fruit. Revenue at its cloud computing unit, Amazon Web Services, jumped 37 per cent to US$42.2-billion…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-07-30T20:27:11+00:00",
-   "tickers": [
-    "AMZN"
-   ]
-  },
-  {
-   "id": "a08ac09eb4e4",
-   "title": "DexCom Inc. Reveals Advance In Q2 Income",
-   "link": "https://www.nasdaq.com/articles/dexcom-inc-reveals-advance-q2-income",
-   "summary": "(RTTNews) - DexCom Inc. (DXCM) reported a profit for its second quarter that Increases, from last year",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-07-30T20:26:57+00:00",
-   "tickers": [
-    "DXCM"
-   ]
-  },
-  {
-   "id": "81d29f0a0ab6",
-   "title": "Trump unveils $22.5 billion plan to overhaul Dulles International Airport - ABC News",
-   "link": "https://biztoc.com/x/4b94ceb9c7490010?ref=rss",
-   "summary": "Trump unveils $22.5 billion plan to overhaul Dulles International Airport Part of the plan would replace the \"people movers\" which shuttle passengers. President Donald Trump on Wednesday unveiled his $22.5 billion vision to rebuild Washington Dulles International Airport over the next 10 years in…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-07-30T20:26:55+00:00",
-   "tickers": [
-    "NWSA"
-   ]
-  },
-  {
-   "id": "118413f29533",
-   "title": "CVNA Stock Is Dropping After a Record Quarter. Here's Why",
-   "link": "https://biztoc.com/x/c495495fd48e4164?ref=rss",
-   "summary": "shares are taking a meaningful hit on Thursday as management’s muted future guidance overshadows an otherwise record-breaking Q2 financial release. CVNA posted a 52% year-over-year increase in revenue to $7.38 billion on a record 197,325 retail units sold and $513 million in net income. Still, the…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-07-30T20:26:49+00:00",
-   "tickers": [
-    "CVNA"
-   ]
-  },
-  {
-   "id": "222996cb413a",
-   "title": "8-K - CAMDEN PROPERTY TRUST (0000906345) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/906345/000162828026051083/0001628280-26-051083-index.htm",
-   "summary": "Filed: 2026-07-30 AccNo: 0001628280-26-051083 Size: 5 MB Item 2.02: Results of Operations and Financial Condition Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-07-30T20:26:21+00:00",
-   "tickers": []
-  },
-  {
-   "id": "33d523ebea68",
-   "title": "Live Nation beats quarterly revenue estimates on resilient concert demand",
-   "link": "https://biztoc.com/x/aab8d9a71a9583be?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-07-30T20:26:20+00:00",
-   "tickers": []
-  },
-  {
-   "id": "a2c291664cc9",
-   "title": "Reddit expects revenue above estimates as AI tools attract advertisers",
-   "link": "https://biztoc.com/x/0e915741a80334f7?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-07-30T20:26:18+00:00",
-   "tickers": [
-    "RDDT"
-   ]
-  },
-  {
-   "id": "4ead62fcd8b7",
-   "title": "Young M.A Returns With Kween, Clarity and Control",
-   "link": "https://biztoc.com/x/3dbc925be10fc6eb?ref=rss",
-   "summary": "Young M.A describes her new chapter with the calm of someone who has already done the hard work off-camera. After years marked by health concerns, public speculation and private reflection, Kween arrives as both a return to form and a record of what it took to get back. “It was always music in my…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-07-30T20:26:16+00:00",
-   "tickers": []
-  },
-  {
-   "id": "eb1c35ce0aa8",
-   "title": "ABC condemns Trump administration over FCC’s review of TV licenses",
-   "link": "https://biztoc.com/x/fd7eef3e43b55ff1?ref=rss",
-   "summary": "ABC accused the Federal Communications Commission on Thursday of “attempted censorship” over the agency’s unprecedented demand for early license renewals for the network’s local TV stations. “The retaliation against ABC is a signal to every media company in the country: Accommodate the…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-07-30T20:26:15+00:00",
-   "tickers": []
-  },
-  {
-   "id": "c6966445a21a",
-   "title": "Reddit crushes revenue and earnings estimates, issues strong guidance",
-   "link": "https://biztoc.com/x/27513938221c2267?ref=rss",
-   "summary": "Reddit reported second-quarter earnings on Thursday that beat on the top and the bottom lines, and the company issued guidance that sailed past expectations. Here's how the company did compared with LSEG estimates: - Earnings per share: $1.25 vs. 95 cents expected - Revenue: $805 million vs. $730…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-07-30T20:26:11+00:00",
-   "tickers": [
-    "RDDT"
-   ]
-  },
-  {
-   "id": "f40d660ffb66",
-   "title": "Reddit Stock Falls After Stellar Earnings Report",
-   "link": "https://biztoc.com/x/7e5a1fd6ed2b8f9d?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "earnings",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-07-30T20:26:11+00:00",
-   "tickers": [
-    "RDDT"
-   ]
-  },
-  {
-   "id": "051df7c45c1d",
-   "title": "Crypto exchange Coinbase reports third straight quarterly loss on trading slowdown",
-   "link": "https://biztoc.com/x/64ae25c05f3564b6?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "earnings",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-07-30T20:26:10+00:00",
-   "tickers": [
-    "COIN"
-   ]
-  },
-  {
-   "id": "8cdfab2ac79c",
-   "title": "Amazon Stock Jumps After Q2 Earnings Beat, Strong Cloud Growth",
-   "link": "https://biztoc.com/x/6a21e45aa44a4123?ref=rss",
-   "summary": "Amazon stock was in focus as the tech giant reported second-quarter earning results on Thursday. The post Amazon Stock Jumps After Q2 Earnings Beat, Strong Cloud Growth appeared first on Investor's Business Daily.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-07-30T20:26:08+00:00",
-   "tickers": [
-    "AMZN"
-   ]
-  },
-  {
-   "id": "0f4caaffffd6",
-   "title": "How views on Trump's handling of Iran have shifted, according to this poll",
-   "link": "https://biztoc.com/x/fd8fddcb6fdb7b00?ref=rss",
-   "summary": "Most Americans say the war in Iran has not been worth fighting, and President Donald Trump's approval rating on Iran has fallen slightly since last month, according to a new AP-NORC poll.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-07-30T20:26:07+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ea455e05515d",
-   "title": "Micron, Sandisk and other chip stocks get major boosts in the wake of Microsoft’s earnings",
-   "link": "https://www.marketwatch.com/story/micron-sandisk-and-other-chip-stocks-get-major-boosts-in-the-wake-of-microsofts-earnings-25460e61?mod=mw_rss_topstories",
-   "summary": "Microsoft is spending heavily on AI but is also taking a “responsible” approach to its financials, an analyst said.",
-   "article_text": "",
-   "source": "MarketWatch",
-   "category": "markets",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "marketwatch.com",
-   "published": "2026-07-30T20:26:00+00:00",
-   "tickers": [
-    "MSFT",
-    "SNDK",
-    "MU"
-   ]
-  },
-  {
-   "id": "d1801d75a6f2",
-   "title": "US Intel Chiefs Back Trump's Claim China Interfered In American Elections",
-   "link": "https://biztoc.com/x/c133dde284520fec?ref=rss",
-   "summary": "US Intel Chiefs Back Trump's Claim China Interfered In American Elections Authored by Tom Ozimek via The Epoch Times, The heads of four U.S. intelligence and national security agencies have backed key elements of President Donald Trump’s claim that China engaged in election interference by…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-07-30T20:25:59+00:00",
-   "tickers": [
-    "INTC"
-   ]
-  },
-  {
-   "id": "c56645b5281e",
-   "title": "Giants' Jaxson Dart Gets Honest on OBJ Return",
-   "link": "https://biztoc.com/x/4a376d4173ef3664?ref=rss",
-   "summary": "New York Giants quarterback Jaxson Dart has a new target in wide receiver Odell Beckham Jr., who is very familiar to Giants fans. A former No. 12 pick in 2014, Beckham became a star with the Giants from 2014 to 2018 before his career turned journeyman. He has three Pro Bowl appearances, two…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-07-30T20:25:59+00:00",
-   "tickers": []
-  },
-  {
-   "id": "496cef18f6d9",
-   "title": "The Marketing Stunt That Helped Chipotle Score Its Best Sales Day Ever",
-   "link": "https://biztoc.com/x/cc5a06420b05ff5f?ref=rss",
-   "summary": "How the chain got a record-level of customers in the door, ordering bowls and burritos, last month.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-07-30T20:25:59+00:00",
-   "tickers": [
-    "CMG"
-   ]
-  },
-  {
-   "id": "bf37aa13c664",
-   "title": "Raiders' Fernando Mendoza Reacts to Being Named Kirk Cousins' Backup",
-   "link": "https://biztoc.com/x/b8b9371ce8055b8f?ref=rss",
-   "summary": "The Las Vegas Raiders used the first overall pick in the 2026 NFL Draft to finally land their franchise quarterback, Fernando Mendoza. But unlike other No. 1 overall quarterbacks, like Cam Ward and Caleb Williams, Mendoza isn't guaranteed to open the season as the Raiders' starter. Head coach…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-07-30T20:25:58+00:00",
-   "tickers": []
-  },
-  {
-   "id": "f7b4468313f2",
-   "title": "Quinyon Mitchell Praises Eagles WR DeVonta Smith",
-   "link": "https://biztoc.com/x/1cb9997d3eef911b?ref=rss",
-   "summary": "Quinyon Mitchell and DeVonta Smith are getting the best out of each other at training camp practice before the Philadelphia Eagles' 2026 NFL season. Mitchell, who's fresh off his first career All-Pro season in 2025, loves what he's seeing from Smith as the regular-season quickly approaches. \"Just…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-07-30T20:25:56+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ab755176ab79",
-   "title": "CareCloud begins to notify hundreds of thousands after hackers stole medical records",
-   "link": "https://biztoc.com/x/c4e95dd2a0e82516?ref=rss",
-   "summary": "Hundreds of thousands of people are receiving letters notifying them that their medical records were stolen in a cyberattack at U.S. health tech giant CareCloud earlier this year, as new details about the data breach come to light. The company has said little about the breach since March, when it…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-07-30T20:25:56+00:00",
-   "tickers": []
-  },
-  {
-   "id": "77837cf5c2bb",
-   "title": "Coinbase's Q2 revenue misses estimates at $1.2B",
-   "link": "https://biztoc.com/x/364c54da84216305?ref=rss",
-   "summary": "Coinbase Global, Inc. announced on Thursday that its revenue in the second quarter of its fiscal 2026 reached $1.2 billion, dipping by 19% year-on-year and coming in below market expectations.The cryp...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "earnings",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-07-30T20:25:54+00:00",
-   "tickers": [
-    "COIN"
-   ]
-  },
-  {
-   "id": "4f47807f4278",
-   "title": "Minnesota's PJ Fleck Declares Big Ten 'Greatest Conference in the Country'",
-   "link": "https://biztoc.com/x/b6a2259cde3744df?ref=rss",
-   "summary": "Coaches from the SEC and Big Ten have been sending shots back and forth heading into the 2026 college football season, fueling the debate over the nation's best conference. Minnesota Golden Gophers head coach P.J. Fleck weighed in with his thoughts on the debate at Big Ten Media Days on…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-07-30T20:25:52+00:00",
-   "tickers": []
-  },
-  {
-   "id": "4b87c6a30754",
-   "title": "U.S. Markets Closed Up Thursday; IREN Climbed Highest",
-   "link": "https://biztoc.com/x/3f4beac74c4e4141?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-07-30T20:25:52+00:00",
-   "tickers": [
-    "IREN"
-   ]
-  },
-  {
-   "id": "16bf41b5cfe3",
-   "title": "Reddit Profit Rises on Growth in Advertising Revenue",
-   "link": "https://biztoc.com/x/0f1473ce977e01d5?ref=rss",
-   "summary": "The company posted a higher second-quarter profit of $253 million as growth in the platform’s users continued to boost advertising revenue.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-07-30T20:25:51+00:00",
-   "tickers": [
-    "RDDT"
-   ]
-  },
-  {
-   "id": "8ae62e780d68",
-   "title": "Could Increased Supply From the UAE Move Oil Markets? | Presented by CME Group",
-   "link": "https://biztoc.com/x/bc4c5d2818a792b9?ref=rss",
-   "summary": "The UAE’s departure from OPEC in May has focused oil markets on the possibility of a big shift in regional supply. With output already rising and export constraints easing, could full utilization of the UAE’s production capacity be enough to move the global market? Presented by @cmegroup…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-07-30T20:25:49+00:00",
-   "tickers": [
-    "CME"
-   ]
-  },
-  {
-   "id": "916cfdc82718",
-   "title": "Reddit Projects Strong Third-Quarter Sales Growth",
-   "link": "https://biztoc.com/x/7123eb2ddc865850?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-07-30T20:25:46+00:00",
-   "tickers": [
-    "RDDT"
-   ]
-  },
-  {
-   "id": "30f77ee3669a",
-   "title": "Roblox Users Miss Estimates Reflecting Impact of Safety Measures",
-   "link": "https://biztoc.com/x/28a1cc5f279dd8d9?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-07-30T20:25:45+00:00",
-   "tickers": [
-    "RBLX"
-   ]
-  },
-  {
-   "id": "f530f6a7eb0d",
-   "title": "Amazon's Zoox Wins First US Approval For Paid Robotaxis",
-   "link": "https://biztoc.com/x/204016c63ae46529?ref=rss",
-   "summary": "Amazon-owned Zoox has become the first autonomous vehicle company to receive U.S. approval to operate paid robotaxis without traditional driving controls. According to federal regulators, the approval allows Zoox to deploy up to 2,500 steering-wheel-free vehicles annually over the next two…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "fda",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-07-30T20:25:37+00:00",
-   "tickers": [
-    "AMZN"
-   ]
-  },
-  {
-   "id": "bc44b30c6a52",
-   "title": "8-K - InPoint Commercial Real Estate Income, Inc. (0001690012) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1690012/000119312526326203/0001193125-26-326203-index.htm",
-   "summary": "Filed: 2026-07-30 AccNo: 0001193125-26-326203 Size: 692 KB Item 7.01: Regulation FD Disclosure Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-07-30T20:25:37+00:00",
-   "tickers": []
-  },
-  {
-   "id": "26b24076b153",
-   "title": "Amazon Reports Fifth Straight Quarter of Cloud Sales Growth",
-   "link": "https://biztoc.com/x/51c2290555f43ad9?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-07-30T20:25:36+00:00",
-   "tickers": [
-    "AMZN"
-   ]
-  },
-  {
-   "id": "8e5046ea92b0",
-   "title": "Amazon.com Inc. Bottom Line Climbs In Q2",
-   "link": "https://www.nasdaq.com/articles/amazoncom-inc-bottom-line-climbs-q2",
-   "summary": "(RTTNews) - Amazon.com Inc. (AMZN) revealed a profit for its second quarter that Increased, from the same period last year",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-07-30T20:25:28+00:00",
-   "tickers": [
-    "AMZN"
-   ]
-  },
-  {
-   "id": "3e00e2e3c001",
-   "title": "8-K - VAIL RESORTS INC (0000812011) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/812011/000081201126000032/0000812011-26-000032-index.htm",
-   "summary": "Filed: 2026-07-30 AccNo: 0000812011-26-000032 Size: 275 KB Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-07-30T20:25:24+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e52fd512f072",
-   "title": "General Dynamics Has Run Its Course (Downgrade)",
-   "link": "https://seekingalpha.com/article/4928124-general-dynamics-has-run-its-course-downgrade?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-30T20:25:16+00:00",
-   "tickers": [
-    "GD"
-   ]
-  },
-  {
-   "id": "d7d97ac77db6",
-   "title": "8-K - Annexon, Inc. (0001528115) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1528115/000119312526326199/0001193125-26-326199-index.htm",
-   "summary": "Filed: 2026-07-30 AccNo: 0001193125-26-326199 Size: 536 KB Item 1.01: Entry into a Material Definitive Agreement Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-07-30T20:25:02+00:00",
-   "tickers": []
-  },
-  {
-   "id": "0eebcb87451b",
-   "title": "SpaceX Is Down Nearly 50% From Its All-Time High -- That's Great News for Long-Term Investors",
-   "link": "https://www.nasdaq.com/articles/spacex-down-nearly-50-its-all-time-high-thats-great-news-long-term-investors",
-   "summary": "Key PointsSpace Exploration Technologies has an extraordinary vision for its business, but investors should be careful not to equate vision with business fundamentals.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-07-30T20:25:00+00:00",
-   "tickers": [
-    "SPCX",
-    "NWSA"
-   ]
-  },
-  {
-   "id": "2f1cb51b1778",
-   "title": "Reliance Global Group Reports Second Quarter 2026 Results and Accelerates AI-Driven Transformation",
-   "link": "https://www.globenewswire.com/news-release/2026/07/30/3336462/0/en/Reliance-Global-Group-Reports-Second-Quarter-2026-Results-and-Accelerates-AI-Driven-Transformation.html",
-   "summary": "Proprietary AI Platform Enhances Insurance Operations and Positions Company for Long-Term Growth",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-07-30T20:25:00+00:00",
-   "tickers": [
-    "RS"
-   ]
-  },
-  {
-   "id": "430681b195d1",
-   "title": "Trump’s Tariff Exemptions Include Diamonds, Oil and Gas, Copper and Other Items",
-   "link": "https://www.nytimes.com/2026/07/30/business/economy/trump-tariffs-exemptions.html",
-   "summary": "A new round of tariff carve-outs has raised familiar questions about who should receive the lucrative exceptions, and why.",
-   "article_text": "",
-   "source": "NYT Economy",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "nytimes.com",
-   "published": "2026-07-30T20:24:36+00:00",
-   "tickers": []
-  },
-  {
-   "id": "5130c7a2a373",
-   "title": "Rivian Q2 Loss Narrows; Revenue Jumps 27%",
-   "link": "https://www.nasdaq.com/articles/rivian-q2-loss-narrows-revenue-jumps-27",
-   "summary": "(RTTNews) - Rivian Automotive, Inc. (RIVN) on Thursday reported a narrower loss for the second quarter as revenue increased 27%, driven by higher vehicle deliveries, regulatory credit sales and growth in its software and services business. The electric vehicle maker also raised i",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-07-30T20:24:15+00:00",
-   "tickers": [
-    "RIVN"
-   ]
-  },
-  {
-   "id": "da1b5d3ac05c",
-   "title": "8-K - ASURE SOFTWARE INC (0000884144) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/884144/000162828026051077/0001628280-26-051077-index.htm",
-   "summary": "Filed: 2026-07-30 AccNo: 0001628280-26-051077 Size: 845 KB Item 2.02: Results of Operations and Financial Condition Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-07-30T20:23:58+00:00",
-   "tickers": []
-  },
-  {
-   "id": "3ad8079c07cb",
-   "title": "8-K - Lumentum Holdings Inc. (0001633978) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1633978/000162828026051078/0001628280-26-051078-index.htm",
-   "summary": "Filed: 2026-07-30 AccNo: 0001628280-26-051078 Size: 140 KB Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-07-30T20:23:56+00:00",
-   "tickers": [
-    "LITE"
-   ]
-  },
-  {
-   "id": "a172c4a36193",
-   "title": "Tetra Tech, Inc. (TTEK) Q3 2026 Earnings Call Transcript",
-   "link": "https://seekingalpha.com/article/4927940-tetra-tech-inc-ttek-q3-2026-earnings-call-transcript?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-30T20:23:39+00:00",
-   "tickers": [
-    "TTEK"
-   ]
-  },
-  {
-   "id": "ee39f1b380fe",
-   "title": "Essex Property Trust, Inc. (ESS) Q2 2026 Earnings Call Transcript",
-   "link": "https://seekingalpha.com/article/4928134-essex-property-trust-inc-ess-q2-2026-earnings-call-transcript?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-30T20:23:35+00:00",
-   "tickers": [
-    "ESS"
-   ]
-  },
-  {
-   "id": "170553e0f78e",
-   "title": "SCOR SE (SCRYY) Q2 2026 Earnings Call Transcript",
-   "link": "https://seekingalpha.com/article/4928181-scor-se-scryy-q2-2026-earnings-call-transcript?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-30T20:23:33+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b1584ba4a588",
-   "title": "A. O. Smith Corporation (AOS) Q2 2026 Earnings Call Transcript",
-   "link": "https://seekingalpha.com/article/4927887-a-o-smith-corporation-aos-q2-2026-earnings-call-transcript?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-30T20:23:30+00:00",
-   "tickers": [
-    "AOS"
-   ]
-  },
-  {
-   "id": "2fdf63be9189",
-   "title": "8-K - Sky Quarry Inc. (0001812447) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1812447/000109690626001147/0001096906-26-001147-index.htm",
-   "summary": "Filed: 2026-07-30 AccNo: 0001096906-26-001147 Size: 146 KB Item 7.01: Regulation FD Disclosure",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-07-30T20:23:27+00:00",
-   "tickers": []
-  },
-  {
-   "id": "afb7da01194b",
-   "title": "Butterfly Network, Inc. (BFLY) Q2 2026 Earnings Call Transcript",
-   "link": "https://seekingalpha.com/article/4928179-butterfly-network-inc-bfly-q2-2026-earnings-call-transcript?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-07-30T20:23:26+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b92c56287491",
-   "title": "Bill Hornbuckle Appointed to Vail Resorts Board of Directors",
-   "link": "https://www.prnewswire.com/news-releases/bill-hornbuckle-appointed-to-vail-resorts-board-of-directors-302839497.html",
-   "summary": "BROOMFIELD, Colo., July 30, 2026 /PRNewswire/ -- Vail Resorts, Inc. (NYSE: MTN) today announced that Bill Hornbuckle has been appointed to the company's board of directors. Hornbuckle is Chief Executive Officer and President of MGM Resorts International (\"MGM\"), a global hospitality and...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-07-30T20:23:00+00:00",
-   "tickers": [
-    "MTN",
-    "MGM"
-   ]
-  },
-  {
-   "id": "bfe93c921788",
-   "title": "Skirts and sandwiches fail to excite cautious IPO investors",
-   "link": "https://www.ft.com/content/aa292d6f-3b12-4b7a-b558-7306e8d03b9e",
-   "summary": "Reformation and Jersey Mike’s test market appetite for consumer sector that has faced twin pressures",
-   "article_text": "",
-   "source": "FT Companies",
-   "category": "stocks",
-   "type": "offering",
-   "sentiment": "neutral",
-   "domain": "ft.com",
-   "published": "2026-07-30T20:22:59+00:00",
-   "tickers": []
-  },
-  {
-   "id": "0cc3e3f7b04f",
-   "title": "8-K - CARPENTER TECHNOLOGY CORP (0000017843) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/17843/000001784326000030/0000017843-26-000030-index.htm",
-   "summary": "Filed: 2026-07-30 AccNo: 0000017843-26-000030 Size: 633 KB Item 2.02: Results of Operations and Financial Condition Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-07-30T20:22:41+00:00",
-   "tickers": []
-  },
-  {
-   "id": "80e5ce139c5f",
-   "title": "Aecon reports second quarter 2026 results",
-   "link": "https://www.globenewswire.com/news-release/2026/07/30/3336460/0/en/Aecon-reports-second-quarter-2026-results.html",
-   "summary": "TORONTO, July 30, 2026 (GLOBE NEWSWIRE) -- Aecon Group Inc. (TSX: ARE) (“Aecon” or the “Company”) today reported results for the second quarter of 2026.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-07-30T20:22:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ae4b73e63642",
-   "title": "8-K - 8X8 INC /DE/ (0001023731) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1023731/000102373126000100/0001023731-26-000100-index.htm",
-   "summary": "Filed: 2026-07-30 AccNo: 0001023731-26-000100 Size: 1 MB Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-07-30T20:21:56+00:00",
-   "tickers": [
-    "DE"
-   ]
   }
  ],
  "ticker_names": {
   "IGM": "iShares Expanded Tech Sector ETF",
+  "IBM": "International Business Machines",
   "BTI": "British American Tobacco p.l.c",
   "NCLH": "Norwegian Cruise Line Holdings",
+  "GLPI": "Gaming and Leisure Properties",
+  "MTD": "Mettler-Toledo International",
+  "WST": "West Pharmaceutical Services",
   "QQQ": "Invesco QQQ Trust, Series 1",
   "AEM": "Agnico Eagle Mines Limited",
   "GEHC": "GE HealthCare Technologies",
@@ -8984,42 +8980,43 @@
   "QTUM": "Defiance Quantum ETF",
   "TGB": "Taseko Mines Limited",
   "BBAI": "BigBear.ai Holdings",
+  "ICLR": "ICON Public Limited",
   "IP": "International Paper",
   "VSNT": "Versant Media Group",
   "BEN": "Franklin Resources",
   "DRI": "Darden Restaurants",
-  "EQH": "Equitable Holdings",
   "HIMS": "Hims & Hers Health",
   "TKO": "TKO Group Holdings",
+  "TT": "Trane Technologies",
   "RBLX": "Roblox Corporation",
   "ES": "Eversource Energy",
   "HOOD": "Robinhood Markets",
   "JNJ": "Johnson & Johnson",
-  "LITE": "Lumentum Holdings",
   "MHK": "Mohawk Industries",
   "MU": "Micron Technology",
   "RIVN": "Rivian Automotive",
   "SOFI": "SoFi Technologies",
   "WBS": "Webster Financial",
   "AR": "Antero Resources",
+  "BWXT": "BWX Technologies",
   "EXK": "Endeavour Silver",
-  "GD": "General Dynamics",
   "INVH": "Invitation Homes",
   "LH": "Labcorp Holdings",
+  "PTCT": "PTC Therapeutics",
   "GE": "General Electric",
   "ARES": "Ares Management",
   "BAC": "Bank of America",
   "CHDN": "Churchill Downs",
   "COIN": "Coinbase Global",
   "EXP": "Eagle Materials",
-  "LDOS": "Leidos Holdings",
-  "RRC": "Range Resources",
+  "VRT": "Vertiv Holdings",
   "AVY": "Avery Dennison",
   "GM": "General Motors",
   "KMB": "Kimberly-Clark",
   "LNT": "Alliant Energy",
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
+  "MTH": "Meritage Homes",
   "PSA": "Public Storage",
   "TTD": "The Trade Desk",
   "VOYA": "Voya Financial",
@@ -9028,37 +9025,32 @@
   "KO": "The Coca-Cola",
   "VLO": "Valero Energy",
   "MSTR": "MicroStrategy",
-  "IREN": "IREN Limited",
   "MO": "Altria Group",
   "MP": "MP Materials",
   "SPY": "SPDR S&P 500",
-  "STT": "State Street",
   "WY": "Weyerhaeuser",
   "GOOGL": "Google Cloud",
   "TSLA": "Supercharger",
-  "AOS": "A. O. Smith",
-  "BTBT": "Bit Digital",
   "FSLR": "First Solar",
   "YUM": "Yum! Brands",
   "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
   "BN": "Brookfield",
   "BX": "Blackstone",
-  "CLSK": "CleanSpark",
   "CRM": "Salesforce",
   "CVS": "CVS Health",
   "F": "Ford Motor",
+  "GL": "Globe Life",
   "MA": "Mastercard",
-  "TTEK": "Tetra Tech",
   "MSFT": "Office 365",
   "DE": "John Deere",
   "AL": "Air Lease",
-  "BC": "Brunswick",
   "CLS": "Celestica",
   "CME": "CME Group",
   "CRWV": "CoreWeave",
   "DT": "Dynatrace",
   "SBUX": "Starbucks",
+  "TEM": "Tempus AI",
   "NWSA": "News Corp",
   "ENB": "Enbridge",
   "EVR": "Evercore",
@@ -9085,16 +9077,16 @@
   "WMT": "Walmart",
   "NFLX": "Netflix",
   "AEE": "Ameren",
-  "DXCM": "DexCom",
+  "CTAS": "Cintas",
   "NDAQ": "Nasdaq",
   "RDDT": "Reddit",
   "SPCX": "SpaceX",
-  "STE": "STERIS",
   "VTR": "Ventas",
   "APTV": "Aptiv",
   "INTC": "Intel",
   "TEX": "Terex",
   "AGCO": "AGCO",
+  "BALL": "Ball",
   "OLN": "Olin"
  }
 }
