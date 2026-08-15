@@ -1,8 +1,22 @@
 {
- "generated": "2026-08-15T19:03:49.759025+00:00",
+ "generated": "2026-08-15T19:14:18.834066+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "d62aad084314",
+   "title": "At least 1 student among 5 people shot at Virginia State University as police investigate",
+   "link": "https://www.cnbc.com/2026/08/15/multiple-shooters-and-people-shot-at-virginia-state-university.html",
+   "summary": "A shooting involving several suspects and multiple people shot at Virginia State University prompted a campus lockdown early Saturday.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-08-15T19:05:10+00:00",
+   "tickers": []
+  },
   {
    "id": "1aa630cf317c",
    "title": "Think interest rates are high now? These charts offer a different perspective.",
@@ -230,6 +244,25 @@
    "domain": "cnbc.com",
    "published": "2026-08-15T18:49:19+00:00",
    "tickers": []
+  },
+  {
+   "id": "640bf239b098",
+   "title": "Stocks Close Lower on Worries About US Economy",
+   "link": "https://www.nasdaq.com/articles/stocks-close-lower-worries-about-us-economy",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) on Friday fell by -0.17%, the Dow Jones Industrial Average ($DOWI ) (DIA ) fell by -0.20%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) fell by -0.13%. E-mini S&P futures (ESU26 ) fell -0.27%, and September E-mini Nasdaq futures (NQU26...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-08-15T18:49:05+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
   },
   {
    "id": "6f92b5069b21",
@@ -1049,25 +1082,6 @@
    "published": "2026-08-15T17:52:54+00:00",
    "tickers": [
     "MSTR"
-   ]
-  },
-  {
-   "id": "640bf239b098",
-   "title": "Stocks Close Lower on Worries About US Economy",
-   "link": "https://www.nasdaq.com/articles/stocks-close-lower-worries-about-us-economy",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) on Friday fell by -0.17%, the Dow Jones Industrial Average ($DOWI ) (DIA ) fell by -0.20%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) fell by -0.13%. E-mini S&P futures (ESU26 ) fell -0.27%, and September E-mini Nasdaq futures (NQU26...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-08-15T17:51:39+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
    ]
   },
   {
@@ -3430,20 +3444,6 @@
    "tickers": [
     "GOOG"
    ]
-  },
-  {
-   "id": "d62aad084314",
-   "title": "5 people shot at Virginia State University as police investigate multiple suspects",
-   "link": "https://www.cnbc.com/2026/08/15/multiple-shooters-and-people-shot-at-virginia-state-university.html",
-   "summary": "A shooting involving several suspects and multiple people shot at Virginia State University prompted a campus lockdown early Saturday.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-08-15T15:47:08+00:00",
-   "tickers": []
   },
   {
    "id": "5bf1f82b5340",
