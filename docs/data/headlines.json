@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-15T11:45:32.569603+00:00",
+ "generated": "2026-08-15T11:54:55.185140+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -115,6 +115,36 @@
    "sentiment": "neutral",
    "domain": "biztoc.com",
    "published": "2026-08-15T11:34:39+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ce5920e1b831",
+   "title": "Clean Harbors co-CEO Gerstenberg sells $699,650 in stock",
+   "link": "https://www.investing.com/news/insider-trading-news/clean-harbors-coceo-gerstenberg-sells-699650-in-stock-93CH-4861774",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-08-15T11:31:08+00:00",
+   "tickers": [
+    "CLH"
+   ]
+  },
+  {
+   "id": "d31206f84f0b",
+   "title": "Winnebago president & CEO Happe sells $393,630 in WGO shares",
+   "link": "https://www.investing.com/news/insider-trading-news/winnebago-president--ceo-happe-sells-393630-in-wgo-shares-93CH-4861773",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-08-15T11:31:05+00:00",
    "tickers": []
   },
   {
@@ -8725,34 +8755,6 @@
    "domain": "biztoc.com",
    "published": "2026-08-15T01:15:05+00:00",
    "tickers": []
-  },
-  {
-   "id": "4c9849abeb84",
-   "title": "How China’s young managers grappled with billion-yuan mandates as AI shocks hit portfolios",
-   "link": "https://biztoc.com/x/d57eb41f50f8effb?ref=rss",
-   "summary": "As Leopold Aschenbrenner’s US hedge fund saw assets wiped off by more than two-thirds in a single month, some of China’s new portfolio managers also felt the shock across the Pacific, learning bitter lessons early in their careers. The 50-day market turmoil, sparked by a global correction in…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-08-15T01:13:39+00:00",
-   "tickers": []
-  },
-  {
-   "id": "5bf992c7d7be",
-   "title": "Putin says Russia, North Korea coordinating on regional security",
-   "link": "https://biztoc.com/x/d5666ec23e460448?ref=rss",
-   "summary": "S&P 500 rises for the week, helped by reduction in rate hike bets; oil caps gains Investing.com -- Russian President Vladimir Putin told North Korean leader Kim Jong Un that Moscow and Pyongyang were actively cooperating across all areas and coordinating efforts to support regional security and…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-08-15T01:13:16+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8808,6 +8810,7 @@
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
   "AVAV": "AeroVironment",
+  "CLH": "Clean Harbors",
   "CSCO": "Cisco Systems",
   "KO": "The Coca-Cola",
   "LLY": "Eli Lilly and",
