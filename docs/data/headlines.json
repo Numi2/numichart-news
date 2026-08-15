@@ -1,8 +1,22 @@
 {
- "generated": "2026-08-15T19:37:26.360814+00:00",
+ "generated": "2026-08-15T19:47:28.037361+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "06c05b577da5",
+   "title": "How Cyclospora Evaded the U.S. Food Safety System to Sicken Thousands",
+   "link": "https://www.nytimes.com/2026/08/15/health/cyclospora-invesigation-fda.html",
+   "summary": "The Trump administration delayed a rule last year that could have sped up the effort to pinpoint the source of the contamination. Critics charge that food safety oversight has eroded overall.",
+   "article_text": "",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-08-15T19:38:20+00:00",
+   "tickers": []
+  },
   {
    "id": "1221278fd7f5",
    "title": "Credicorp Ltd. 2026 Q2 - Results - Earnings Call Presentation",
@@ -73,20 +87,6 @@
    "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-08-15T19:30:57+00:00",
-   "tickers": []
-  },
-  {
-   "id": "06c05b577da5",
-   "title": "How Cyclospora Evaded the U.S. Food Safety System to Sicken Thousands",
-   "link": "https://www.nytimes.com/2026/08/15/health/cyclospora-invesigation-fda.html",
-   "summary": "The Trump administration delayed a rule last year that could have sped up the effort to pinpoint the source of the contamination. Critics charge that food safety oversight has eroded overall.",
-   "article_text": "",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "nytimes.com",
-   "published": "2026-08-15T19:27:18+00:00",
    "tickers": []
   },
   {
@@ -363,6 +363,25 @@
    ]
   },
   {
+   "id": "8e0551767647",
+   "title": "Elon Musk Says SpaceX Has a Massive Competitive Advantage in AI That Amazon, Google, and Microsoft Can't Touch",
+   "link": "https://www.nasdaq.com/articles/elon-musk-says-spacex-has-massive-competitive-advantage-ai-amazon-google-and-microsoft",
+   "summary": "Key PointsElon Musk thinks Space Exploration Technologies can produce better returns on capital than the biggest cloud platforms.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-08-15T19:23:00+00:00",
+   "tickers": [
+    "MSFT",
+    "SPCX",
+    "GOOGL",
+    "AMZN"
+   ]
+  },
+  {
    "id": "978b8a3d69a7",
    "title": "Wheat Rallying as Russia Rejects Ukraine’s Proposal",
    "link": "https://www.nasdaq.com/articles/wheat-rallying-russia-rejects-ukraines-proposal",
@@ -387,6 +406,20 @@
    "type": "press",
    "sentiment": "neutral",
    "domain": "prnewswire.com",
+   "published": "2026-08-15T19:17:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a5901af72d17",
+   "title": "The AI Problem at Law Firms Isn't Hallucination. It's Honesty.",
+   "link": "https://www.nasdaq.com/articles/ai-problem-law-firms-isnt-hallucination-its-honesty",
+   "summary": "Key PointsIntapp bootstrapped for two decades without venture capital, and its first salesperson was a law firm CIO who quit his job to sell the product.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
    "published": "2026-08-15T19:17:00+00:00",
    "tickers": []
   },
@@ -8883,36 +8916,6 @@
    "domain": "nasdaq.com",
    "published": "2026-08-15T12:05:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "dd61bf5dc3f1",
-   "title": "Hasan Piker isn’t retreating",
-   "link": "https://biztoc.com/x/0f5cc0fcc9601e78?ref=rss",
-   "summary": "Rep. Ilhan Omar (D-MN) and Hasan Piker stand with Wisconsin gubernatorial candidate Francesca Hong during a campaign rally for Hong on August 2, 2026, in Milwaukee, Wisconsin. | Joshua Lott/Getty Images Hasan Piker has for years now been both an asset and a liability for Democrats. The Twitch…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-08-15T12:04:46+00:00",
-   "tickers": []
-  },
-  {
-   "id": "642130b7e20c",
-   "title": "Prosperity Bancshares director Holmes sells $81,550 in stock",
-   "link": "https://www.investing.com/news/insider-trading-news/prosperity-bancshares-director-holmes-sells-81550-in-stock-93CH-4861778",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-08-15T12:01:09+00:00",
-   "tickers": [
-    "PB"
-   ]
   }
  ],
  "ticker_names": {
@@ -8946,7 +8949,6 @@
   "COF": "Capital One Financial",
   "CWST": "Casella Waste Systems",
   "EAT": "Brinker International",
-  "PB": "Prosperity Bancshares",
   "PLTR": "Palantir Technologies",
   "AMP": "Ameriprise Financial",
   "CORT": "Corcept Therapeutics",
