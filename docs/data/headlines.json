@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-15T09:26:34.903241+00:00",
+ "generated": "2026-08-15T09:40:29.573863+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -517,6 +517,22 @@
    "domain": "prnewswire.com",
    "published": "2026-08-15T09:00:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "f551ef4bbb3c",
+   "title": "US presses Apple to avoid Chinese memory chips amid shortage - WSJ reports",
+   "link": "https://www.investing.com/news/economy-news/us-presses-apple-to-avoid-chinese-memory-chips-amid-shortage--wsj-reports-4861759",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-08-15T08:55:22+00:00",
+   "tickers": [
+    "AAPL"
+   ]
   },
   {
    "id": "0e2ee1413ebd",
@@ -4017,7 +4033,7 @@
    "link": "https://www.prnewswire.com/news-releases/the-wealth-company-launches-gift-city-fund-to-give-nris-a-single-dollar-denominated-route-into-indias-mutual-fund-market-302851983.html",
    "summary": "New Category III AIF brings India's 50+ AMCs and 1,600+ mutual fund schemes within one professionally managed investment structure MUMBAI, India, Aug. 15, 2026 /PRNewswire/ -- The Wealth Company, the asset management arm of Pantomath Group, has launched The Wealth Company IFSC Fund of...",
    "article_text": "",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "positive",
@@ -8724,20 +8740,6 @@
    "title": "Texans Fear QB Suffered Season-Ending ACL Injury",
    "link": "https://biztoc.com/x/08ebf06859a29977?ref=rss",
    "summary": "The Houston Texans have one of the better backup quarterback situations in the NFL with former starter Davis Mills the team’s QB2 behind starter C.J. Stroud. However, their depth at the position took a major hit in the team’s 27-7 defeat to the Los Angeles Chargers on Thursday in the team’s…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-08-14T23:27:45+00:00",
-   "tickers": []
-  },
-  {
-   "id": "704bb674fa6a",
-   "title": "7.7-magnitude earthquake hits Indonesia",
-   "link": "https://biztoc.com/x/256bc9e64969dc4c?ref=rss",
-   "summary": "A magnitude 7.7 earthquake struck 68 kilometers north-northwest of Ende, Indonesia, at a depth of 10 kilometers, the United States Geological Survey said.USGS subsequently recorded several strong eart...",
    "article_text": "",
    "source": "BizToc",
    "category": "aggregator",
