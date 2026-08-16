@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-16T09:08:30.208044+00:00",
+ "generated": "2026-08-16T09:20:23.928477+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -397,6 +397,25 @@
    "domain": "biztoc.com",
    "published": "2026-08-16T08:46:43+00:00",
    "tickers": []
+  },
+  {
+   "id": "640bf239b098",
+   "title": "Stocks Close Lower on Worries About US Economy",
+   "link": "https://www.nasdaq.com/articles/stocks-close-lower-worries-about-us-economy",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) on Friday fell by -0.17%, the Dow Jones Industrial Average ($DOWI ) (DIA ) fell by -0.20%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) fell by -0.13%. E-mini S&P futures (ESU26 ) fell -0.27%, and September E-mini Nasdaq futures (NQU26...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-08-16T08:44:31+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
   },
   {
    "id": "adb3fa364953",
@@ -4558,7 +4577,7 @@
   },
   {
    "id": "514655e562d4",
-   "title": "Singapore Inc’s AI ace card in rivalry with Hong Kong",
+   "title": "Singapore Inc hopes AI access will stop finance high-flyers moving to Hong Kong",
    "link": "https://www.ft.com/content/7d2969fd-85aa-43fb-ae04-97d1d0ee2463?syn-25a6b1a6=1",
    "summary": "Close relations with both US and China mean the latest AI models are easily accessible in the city-state",
    "article_text": "",
@@ -4815,25 +4834,6 @@
    "domain": "biztoc.com",
    "published": "2026-08-16T01:20:04+00:00",
    "tickers": []
-  },
-  {
-   "id": "640bf239b098",
-   "title": "Stocks Close Lower on Worries About US Economy",
-   "link": "https://www.nasdaq.com/articles/stocks-close-lower-worries-about-us-economy",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) on Friday fell by -0.17%, the Dow Jones Industrial Average ($DOWI ) (DIA ) fell by -0.20%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) fell by -0.13%. E-mini S&P futures (ESU26 ) fell -0.27%, and September E-mini Nasdaq futures (NQU26...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-08-16T01:19:27+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
-   ]
   },
   {
    "id": "3a90bb26d729",
