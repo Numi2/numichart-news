@@ -1,8 +1,22 @@
 {
- "generated": "2026-08-16T17:40:16.690062+00:00",
+ "generated": "2026-08-16T17:50:06.351255+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "e99b48931e7c",
+   "title": "Top global stories last week: JD.com, SK Hynix among notable names",
+   "link": "https://seekingalpha.com/news/4633611-top-global-stories-last-week-jdcom-sk-hynix-among-notable-names?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-16T17:46:28+00:00",
+   "tickers": []
+  },
   {
    "id": "54bb70af10b7",
    "title": "Netflix Stock Is Cheap and It Has More Than 70% Upside Potential Here",
@@ -48,6 +62,25 @@
    "published": "2026-08-16T17:37:20+00:00",
    "tickers": [
     "AMZN"
+   ]
+  },
+  {
+   "id": "640bf239b098",
+   "title": "Stocks Close Lower on Worries About US Economy",
+   "link": "https://www.nasdaq.com/articles/stocks-close-lower-worries-about-us-economy",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) on Friday fell by -0.17%, the Dow Jones Industrial Average ($DOWI ) (DIA ) fell by -0.20%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) fell by -0.13%. E-mini S&P futures (ESU26 ) fell -0.27%, and September E-mini Nasdaq futures (NQU26...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-08-16T17:27:17+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
    ]
   },
   {
@@ -1630,25 +1663,6 @@
    "domain": "nasdaq.com",
    "published": "2026-08-16T15:57:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "640bf239b098",
-   "title": "Stocks Close Lower on Worries About US Economy",
-   "link": "https://www.nasdaq.com/articles/stocks-close-lower-worries-about-us-economy",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) on Friday fell by -0.17%, the Dow Jones Industrial Average ($DOWI ) (DIA ) fell by -0.20%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) fell by -0.13%. E-mini S&P futures (ESU26 ) fell -0.27%, and September E-mini Nasdaq futures (NQU26...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-08-16T15:54:26+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
-   ]
   },
   {
    "id": "a333f39dc7c6",
@@ -8805,20 +8819,6 @@
    "sentiment": "neutral",
    "domain": "biztoc.com",
    "published": "2026-08-16T09:02:16+00:00",
-   "tickers": []
-  },
-  {
-   "id": "39c7226f70f2",
-   "title": "There isn’t just one AI bubble, strategist says — there’s a ‘rolling sequence of bubbles’ instead",
-   "link": "https://biztoc.com/x/b70194b75ebba8b5?ref=rss",
-   "summary": "The question of whether AI is a bubble is the wrong one, Dhaval Joshi argues. The right question is: which AI bubble is popping today? Joshi, until recently the chief strategist for Counterpoint at London’s BCA Research, has been building a reputation for contrarian, structurally minded calls on…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-08-16T09:02:15+00:00",
    "tickers": []
   }
  ],
