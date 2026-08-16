@@ -1,8 +1,56 @@
 {
- "generated": "2026-08-16T10:55:02.346696+00:00",
+ "generated": "2026-08-16T11:03:37.120314+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "74abaa6fff66",
+   "title": "Walmart and Target are about to reveal the health of the U.S. consumer",
+   "link": "https://www.marketwatch.com/story/walmart-and-target-are-about-to-reveal-the-health-of-the-u-s-consumer-d5b89491?mod=mw_rss_topstories",
+   "summary": "Earnings reports from the two major retailers will show how shoppers are holding up in an era of persistent inflation.",
+   "article_text": "",
+   "source": "MarketWatch",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "marketwatch.com",
+   "published": "2026-08-16T11:00:00+00:00",
+   "tickers": [
+    "WMT"
+   ]
+  },
+  {
+   "id": "3e2c34eb0360",
+   "title": "Broadcom: VMware-Driven Sell-Off Is A Buying Opportunity",
+   "link": "https://seekingalpha.com/article/4937112-broadcom-vmware-driven-sell-off-buying-opportunity?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-16T11:00:00+00:00",
+   "tickers": [
+    "AVGO"
+   ]
+  },
+  {
+   "id": "6fe859053697",
+   "title": "Keep An Eye On Firefly Aerospace",
+   "link": "https://seekingalpha.com/article/4937123-keep-an-eye-on-firefly-aerospace-stock?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-16T10:50:57+00:00",
+   "tickers": [
+    "FLY"
+   ]
+  },
   {
    "id": "5da22261b72f",
    "title": "3 Financials Stocks We Steer Clear Of",
@@ -8805,53 +8853,6 @@
    "tickers": [
     "NWSA"
    ]
-  },
-  {
-   "id": "60d80db7b429",
-   "title": "Tracking Berkshire Hathaway Portfolio – Q2 2026 Update (NYSE:BRK.A)",
-   "link": "https://biztoc.com/x/b6352e6f50f5bf4a?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-08-15T22:25:06+00:00",
-   "tickers": [
-    "BRK-A"
-   ]
-  },
-  {
-   "id": "ce1548f1e257",
-   "title": "Panthers' Newest Additions Made an Impact in Preseason Debut",
-   "link": "https://biztoc.com/x/e0c1fb3b6b46a8fc?ref=rss",
-   "summary": "The Panthers got their first look at several new additions in the preseason, and there was lots to like from the group in their debut against the Bills. Jaelan Phillips made his presence felt quickly. The edge rusher recorded a sack and followed it with back-to-back pressures on Buffalo's opening…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-08-15T22:25:04+00:00",
-   "tickers": []
-  },
-  {
-   "id": "61e17b98de0a",
-   "title": "Dara Khosrowshahi Just Delivered Fantastic News for Uber Stock Investors",
-   "link": "https://www.nasdaq.com/articles/dara-khosrowshahi-just-delivered-fantastic-news-uber-stock-investors",
-   "summary": "Key PointsUber operates the world's largest ride-hailing platform, and it's betting big on autonomous vehicles to eliminate the enormous cost of human drivers.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-08-15T22:20:00+00:00",
-   "tickers": [
-    "NWSA",
-    "UBER"
-   ]
   }
  ],
  "ticker_names": {
@@ -8954,6 +8955,7 @@
   "PKG": "Packaging",
   "NWSA": "News Corp",
   "APP": "AppLovin",
+  "AVGO": "Broadcom",
   "CCL": "Carnival",
   "COHR": "Coherent",
   "DOCS": "Doximity",
