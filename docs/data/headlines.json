@@ -1,8 +1,742 @@
 {
- "generated": "2026-08-19T17:36:11.473922+00:00",
+ "generated": "2026-08-19T17:47:35.613369+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "36e7e61cc459",
+   "title": "Estée Lauder forecasts fiscal 2027 EPS of $3.10 to $3.35 as it raises operating margin outlook to 12.7% to 13.5%",
+   "link": "https://seekingalpha.com/news/4635063-estee-lauder-forecasts-fiscal-2027-eps-of-3_10-to-3_35-as-it-raises-operating-margin-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-19T17:42:42+00:00",
+   "tickers": []
+  },
+  {
+   "id": "1877e73d8262",
+   "title": "Marti Technologies, Inc. (MRT) Q2 2026 Earnings Call Transcript",
+   "link": "https://seekingalpha.com/article/4938303-marti-technologies-inc-mrt-q2-2026-earnings-call-transcript?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-19T17:41:49+00:00",
+   "tickers": []
+  },
+  {
+   "id": "2220811d545a",
+   "title": "The Estée Lauder Companies Inc. (EL) Q4 2026 Earnings Call Transcript",
+   "link": "https://seekingalpha.com/article/4938325-the-estee-lauder-companies-inc-el-q4-2026-earnings-call-transcript?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-19T17:41:47+00:00",
+   "tickers": [
+    "EL"
+   ]
+  },
+  {
+   "id": "d0a10d5ef21c",
+   "title": "Stripe Buys A.I. Start-Up OpenRouter for $7.5 Billion",
+   "link": "https://www.nytimes.com/2026/08/19/business/stripe-openrouter-ai.html",
+   "summary": "The deal is significant for the artificial intelligence industry, uniting Stripe’s payments business with OpenRouter’s helping businesses direct their spending on A.I. models.",
+   "article_text": "",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-08-19T17:39:30+00:00",
+   "tickers": []
+  },
+  {
+   "id": "1939c5f5943a",
+   "title": "Apple’s stock could be the savviest buy within Big Tech, according to this analysis",
+   "link": "https://www.marketwatch.com/story/apples-stock-could-be-the-savviest-buy-within-big-tech-according-to-this-analysis-84d67c92?mod=mw_rss_topstories",
+   "summary": "While other “Magnificent Seven” companies spend big on AI, Apple’s more conservative strategy has turned the stock into a valuable portfolio hedge against volatility.",
+   "article_text": "",
+   "source": "MarketWatch",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "marketwatch.com",
+   "published": "2026-08-19T17:39:00+00:00",
+   "tickers": [
+    "AAPL"
+   ]
+  },
+  {
+   "id": "d927b8c0f2dd",
+   "title": "MSD and Moderna eye cancer vaccine market debut on Phase III melanoma score",
+   "link": "https://biztoc.com/x/17f2ab521bddc09d?ref=rss",
+   "summary": "MSD and Moderna are vying for the approval of their jointly developed personalised cancer vaccine, intismeran autogene, after the therapy became the first to demonstrate additive benefit over Keytruda (pembrolizumab) monotherapy in the adjuvant melanoma setting. The pair will seek approval for the…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-08-19T17:38:35+00:00",
+   "tickers": [
+    "MRNA"
+   ]
+  },
+  {
+   "id": "132466d8342d",
+   "title": "Why Nebius Group Stock Got Crushed on Wednesday",
+   "link": "https://biztoc.com/x/b027ffb10613d24c?ref=rss",
+   "summary": "Nebius Group (NASDAQ: NBIS) stock turned sharply lower today, falling as much as 14%. As of 12:49 p.m. ET, the stock was still down 7.6%. The catalyst that sent the artificial intelligence (AI) and neocloud specialist lower was news that the company is raising capital. Show me the money In a press…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-08-19T17:38:34+00:00",
+   "tickers": [
+    "NBIS"
+   ]
+  },
+  {
+   "id": "7cf8007d3f59",
+   "title": "Moderna Stock Surges on Stunning Cancer Update",
+   "link": "https://biztoc.com/x/df2029e285cc2851?ref=rss",
+   "summary": "This article first appeared on GuruFocus. Moderna (NASDAQ:MRNA) and Merck (NYSE:MRK) shares surged Wednesday after their personalized mRNA cancer therapy delivered a pivotal Phase 3 win in melanoma, providing Moderna with one of its strongest validations yet outside vaccines while giving Merck a…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-08-19T17:38:31+00:00",
+   "tickers": [
+    "MRNA",
+    "MRK"
+   ]
+  },
+  {
+   "id": "8bb407ae1570",
+   "title": "Mysterious trader buys millions ahead of Trump's 2:30 PM meeting",
+   "link": "https://biztoc.com/x/18c0b415dc8b1928?ref=rss",
+   "summary": "The White House will host a meeting with executives from cryptocurrency and prediction market companies on Aug. 19, Politico reported on Aug. 13. President Donald Trump and Commodity Futures Trading Commission (CFTC) Chair Mike Selig will make remarks at the meeting, Semafor reported on Aug.…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-08-19T17:38:26+00:00",
+   "tickers": []
+  },
+  {
+   "id": "9c548a942f35",
+   "title": "Q1 Earnings Outperformers: Nordson (NASDAQ:NDSN) And The Rest Of The Professional Tools and Equipment Stocks",
+   "link": "https://biztoc.com/x/21726b4489ff5e74?ref=rss",
+   "summary": "Q1 Earnings Outperformers: Nordson (NASDAQ:NDSN) And The Rest Of The Professional Tools and Equipment Stocks The end of the earnings season is always a good time to take a step back and see who shined (and who didn't). Let's take a look at how professional tools and equipment stocks fared in Q1,…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-08-19T17:38:25+00:00",
+   "tickers": [
+    "NDSN"
+   ]
+  },
+  {
+   "id": "e0c85829ccb1",
+   "title": "Another state just banned a controversial retail pricing practice",
+   "link": "https://biztoc.com/x/9c9560653a280858?ref=rss",
+   "summary": "Retailers have spent years collecting information about their customers. They know what shoppers buy, how frequently they shop, where they live, what they browse online and, in many cases, how they respond to promotions. That data can be enormously valuable. It can help retailers stock stores,…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-08-19T17:38:17+00:00",
+   "tickers": []
+  },
+  {
+   "id": "0d6830e56726",
+   "title": "Why United States Antimony Stock Is Rocketing Higher Today",
+   "link": "https://biztoc.com/x/eb08cff5a2e683a0?ref=rss",
+   "summary": "After tumbling 8% lower yesterday from where they ended Monday's trading session, United States Antimony (NYSE: UAMY) stock is soaring today. Management sees a bargain opportunity to buy back shares of the mining stock, and investors are celebrating the decision. As of 12:02 p.m. ET, shares of…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-08-19T17:38:16+00:00",
+   "tickers": []
+  },
+  {
+   "id": "178985a07473",
+   "title": "Obama-Appointed Judge Says Monitor Needed for ICE Family Detention Center",
+   "link": "https://biztoc.com/x/a25ed97a110c5ef5?ref=rss",
+   "summary": "The Trump administration was ordered Monday to pay for independent monitoring of conditions in immigrant detention centers housing children, after mounting concerns about one center in particular in Dilley, Texas. Chief U.S. District Judge Dolly M. Gee, an appointee of former President Barack…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-08-19T17:37:01+00:00",
+   "tickers": [
+    "ICE"
+   ]
+  },
+  {
+   "id": "ebb234688261",
+   "title": "Texas Gets Encouraging Injury Update on Projected Top 2027 NFL Draft Pick",
+   "link": "https://biztoc.com/x/cc228bac3a14b40b?ref=rss",
+   "summary": "Texas Longhorns fans can breathe a sigh of relief. They and the UT coaching staff got quite the scare on Monday night when start left tackle Trevor Goosby, who’s projected to be a top-10 pick in the 2027 NFL draft, exited practice early after suffering an apparent knee injury. MRI results showed…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-08-19T17:36:53+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ea5f0710c6d9",
+   "title": "NNS erwirbt Anteile an OCI",
+   "link": "https://www.prnewswire.com/news-releases/nns-erwirbt-anteile-an-oci-302855555.html",
+   "summary": "LIMASSOL, Zypern, 19. August 2026 /PRNewswire/ -- Es wird auf die Pressemitteilung vom 24. Juni 2026 von NNS bezüglich der öffentlichen Bekanntgabe des Angebots verwiesen. Gemäß den Bestimmungen von § 5 Abs. 4 der Verordnung gibt NNS hiermit bekannt, dass es Transaktionen mit Aktien von...",
+   "article_text": "",
+   "source": "PR Newswire Fin",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-08-19T17:36:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "22bca08a0b78",
+   "title": "Hagar hf.: Niðurstaða víxlaútboðs 19. ágúst 2026",
+   "link": "https://www.globenewswire.com/news-release/2026/08/19/3347907/0/is/hagar-hf-ni%C3%B0ursta%C3%B0a-v%C3%ADxla%C3%BAtbo%C3%B0s-19-%C3%A1g%C3%BAst-2026.html",
+   "summary": "Hagar hf. luku í dag útboði á nýjum 6 mánaða víxlaflokki HAGA270224.",
+   "article_text": "",
+   "source": "GlobeNewswire",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "globenewswire.com",
+   "published": "2026-08-19T17:36:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "3b53a1770017",
+   "title": "SQM rises as Q2 routs expectations while lithium sales hit quarterly record",
+   "link": "https://seekingalpha.com/news/4635059-sqm-rises-as-q2-routs-expectations-while-lithium-sales-hit-quarterly-record?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-19T17:35:03+00:00",
+   "tickers": [
+    "SQM"
+   ]
+  },
+  {
+   "id": "2ead9a469804",
+   "title": "UNO is still dealing Mattel a winning hand",
+   "link": "https://seekingalpha.com/news/4634938-uno-is-still-dealing-mattel-a-winning-hand?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-19T17:34:45+00:00",
+   "tickers": [
+    "MAT"
+   ]
+  },
+  {
+   "id": "18cd8ee26e32",
+   "title": "Opera falls after mixed Q2; raises FY26 outlook but softer sales guidance",
+   "link": "https://seekingalpha.com/news/4634846-opera-dips-after-mixed-q2-raises-fy26-outlook-but-softer-sales-guidance?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-19T17:34:45+00:00",
+   "tickers": []
+  },
+  {
+   "id": "860e7bd6dbd5",
+   "title": "Movado: Plenty To Like, Not Enough To Chase",
+   "link": "https://seekingalpha.com/article/4938203-movado-plenty-to-like-not-enough-to-chase?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-19T17:34:44+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e3dcfc98e8af",
+   "title": "Billionaire Peter Thiel Bought a 1% Stake in Vista Energy. What This Means for VIST Stock",
+   "link": "https://biztoc.com/x/ea3d056e310854f9?ref=rss",
+   "summary": "Shares of Vista Energy (VIST) climbed after Peter Thiel, co-founder and chair of Palantir Technologies (PLTR), disclosed a roughly 1% stake in the Argentine oil and gas producer. Thiel Macro LLC spent about $76 million to acquire roughly 1.2 million American depositary shares, making Vista Energy…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-08-19T17:34:37+00:00",
+   "tickers": [
+    "PLTR"
+   ]
+  },
+  {
+   "id": "7c6098054a80",
+   "title": "Marvell pops 8% on AI chip deal that lets Google buy up to $12.2 billion in shares",
+   "link": "https://www.cnbc.com/2026/08/19/marvell-google-ai-chips.html",
+   "summary": "Google and its competitors have been pursuing custom chips to improve efficiency and reduce reliance on Nvidia.",
+   "article_text": "Marvell pops on AI chip deal letting Google buy up to $12.2B in shares Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Key Points Marvell Technology stock popped on a deal for Google to buy up to $12.2 billion in shares. The deal is part of Google and Marvell's partnership on custom chips and includes products that \"attach to the TPU ecosystem.\" Google has largely been working with Broadcom on custom chips In this article MRVL GOOGL Follow your favorite stocks CREATE FREE ACCOUNT watch now VIDEO 1:56 01:56 Marvell surges after deal allows Alphabet to buy up to $12.2 billion in shares Squawk on the Street Marvell Technology shares rallied 8% on a deal that would allow Google to buy up to $12.2 billion in shares of the chipmaking company, according to a securities filing . The deal, part of Google and Marvell's partnership on custom chips, would allow the tech giant to purchase up to 58,970,907 shares at $206.58 apiece. The stake is tied to purchasing targets through the 2033 fiscal year. Marvell said in a filing that the expanded agreement will include products that \"attach to the [tensor processing unit] ecosystem,\" such as artificial intelligence inference accelerators, and storage and network interface controllers. Read more CNBC tech news Nvidia's AI moat is shifting from chips to capital Anthropic tells investors annualized revenue run rate climbed to $65 billion in July Nvidia backing $105 billion in financing for OpenAI data center in Ohio OpenAI's Brockman brushes off concerns about leadership changes in CNBC exclusive In April, Marvell shares popped on a report of a chip deal with Google for artificial intelligence workloads. At the time, The Information reported that the deal would include a TPU and memory processing unit. Google and its megacap competitors, including Amazon, Meta and Microsoft have been working on custom silicon chips for AI workloads in a bid to find cheaper substitutes to Nvidia chips. Over the last decade, Google has largely collaborated with Broadcom on custom chips. The companies expanded that deal in April . Broadcom 's stock fell about 4% on Wednesday. Marvell and Broadcom stock chart. Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-08-19T17:34:35+00:00",
+   "tickers": [
+    "MRVL",
+    "GOOGL"
+   ]
+  },
+  {
+   "id": "f91af78176ea",
+   "title": "Coffee Price Retreat as Brazil’s Coffee Harvest Accelerates",
+   "link": "https://www.nasdaq.com/articles/coffee-price-retreat-brazils-coffee-harvest-accelerates",
+   "summary": "September arabica coffee (KCU26 ) is down -5.60 (-1.54%) today, and September ICE robusta coffee (RMU26 ) is down -44 (-1.17%). Coffee prices are under pressure today as drier weather in Brazil has allowed for the pace of the country’s coffee harvest to accelerate. Brazil’s Cooxupe co-op reported today that...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-08-19T17:34:18+00:00",
+   "tickers": [
+    "ICE"
+   ]
+  },
+  {
+   "id": "d3832952f0eb",
+   "title": "Stocks Supported by Lower Bond Yields",
+   "link": "https://www.nasdaq.com/articles/stocks-supported-lower-bond-yields-2",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) is up by +0.58% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up by +0.55%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up by +0.07%. E-mini S&P futures (ESU26 ) are up +0.61%, and September E-mini...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-08-19T17:34:17+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
+  },
+  {
+   "id": "464d33aae4b7",
+   "title": "Stocks Mixed on Lower Bond Yields and Chip Stock Weakness",
+   "link": "https://www.nasdaq.com/articles/stocks-mixed-lower-bond-yields-and-chip-stock-weakness",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) is up by +0.33% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up by +0.47%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down by -0.33%. E-mini S&P futures (ESU26 ) are up +0.31%, and September E-mini...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-08-19T17:34:17+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
+  },
+  {
+   "id": "e69ba7e6a10b",
+   "title": "Corn Back to Early Strength on Wednesday, as Tour Yields Continue Decline",
+   "link": "https://www.nasdaq.com/articles/corn-back-early-strength-wednesday-tour-yields-continue-decline",
+   "summary": "Corn prices are up 2 to 3 cents so far on Wednesday morning. Futures posted mixed trade on Tuesday, with contracts closing as much as 1 ¾ lower to a penny higher across the board. Open interest was up just 6,454 contracts on the day. The CmdtyView national average Cash...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-08-19T17:34:17+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c8c741747a90",
+   "title": "Crude Prices Supported by Dollar Weakness and Middle East Tensions",
+   "link": "https://www.nasdaq.com/articles/crude-prices-supported-dollar-weakness-and-middle-east-tensions",
+   "summary": "September WTI crude oil (CLU26) is up +1.42 (+1.67%) on Tuesday, and September RBOB gasoline (RBU26) is down -0.0122 (-0.37%). Crude oil and gasoline prices are mixed today, with crude oil posting a 3-week high. Today’s sharp decline in the dollar index ($DXY ) to a 2.5-month low is bullish...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-08-19T17:34:17+00:00",
+   "tickers": []
+  },
+  {
+   "id": "464609208127",
+   "title": "Stocks Finish Lower as Chipmakers and AI Stocks Fall",
+   "link": "https://www.nasdaq.com/articles/stocks-finish-lower-chipmakers-and-ai-stocks-fall",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down by -0.69% on Tuesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down by -0.22%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down by -1.68%. E-mini S&P futures (ESU26 ) fell -0.69%, and September E-mini...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-08-19T17:34:16+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
+  },
+  {
+   "id": "d8a8efac38f6",
+   "title": "Saudi FM says maritime security remains 'top priority'",
+   "link": "https://biztoc.com/x/6a6135cf38a31a95?ref=rss",
+   "summary": "Saudi Arabia's Foreign Minister Prince Faisal bin Farhan Al Saud underlined that keeping all naval waterways in the region, including the Strait of Hormuz and Bab al-Mandeb, \"open\" and \"safe\" remains ...",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-08-19T17:34:10+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e32761de83a2",
+   "title": "Enbridge: Buy The 5.5% Yield And Growing Backlog",
+   "link": "https://seekingalpha.com/article/4938376-enbridge-buy-the-5-5-percent-yield-and-growing-backlog?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-19T17:34:00+00:00",
+   "tickers": [
+    "ENB"
+   ]
+  },
+  {
+   "id": "2ef34b776ce4",
+   "title": "Apple Corp, UMG unveil Beatles-themed collab",
+   "link": "https://biztoc.com/x/3d8b584b43efac50?ref=rss",
+   "summary": "Apple Corps Ltd., founded in 1968 to oversee The Beatles' creative and business interests, and Universal Music Group announced on Wednesday a landmark worldwide e-commerce and merchandising collaborat...",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-08-19T17:33:54+00:00",
+   "tickers": [
+    "AAPL"
+   ]
+  },
+  {
+   "id": "dee6790b0fab",
+   "title": "Toll Brothers projects $700M buybacks and reaffirms ~$10.5B 2026 revenue with 8%-10% community growth",
+   "link": "https://seekingalpha.com/news/4635060-toll-brothers-projects-700m-buybacks-and-reaffirms-10_5b-2026-revenue-with-8-percentminus-10?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-19T17:33:50+00:00",
+   "tickers": [
+    "TOL"
+   ]
+  },
+  {
+   "id": "5a8278b0ec60",
+   "title": "5 Income ETFs to Buy Once and Collect Monthly Checks Forever",
+   "link": "https://biztoc.com/x/5353dedf05d483ac?ref=rss",
+   "summary": "The post 5 Income ETFs to Buy Once and Collect Monthly Checks Forever appeared first on 24/7 Wall St.. Most large U.S. index funds pay dividends quarterly. A smaller group distributes monthly, which suits someone drawing income from a portfolio. Five funds stand out: JPMorgan Equity Premium Income…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-08-19T17:33:50+00:00",
+   "tickers": [
+    "JIRE"
+   ]
+  },
+  {
+   "id": "ddfe1d480cf6",
+   "title": "Meet the startup helping Wall Street put a price on AI compute",
+   "link": "https://biztoc.com/x/a95ab1867c55b874?ref=rss",
+   "summary": "The AI buildout shows no signs of slowing. And with hundreds of billions of dollars a year going into data centers and GPUs, compute has become the single biggest cost for anyone building AI products. But for all that spending, there still isn’t a straightforward way to put a price on compute — or…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-08-19T17:33:48+00:00",
+   "tickers": []
+  },
+  {
+   "id": "fd5e277c668d",
+   "title": "Netflix Is Down, But One Billionaire Thinks the Stock Is a Buy",
+   "link": "https://biztoc.com/x/1a86be44c2803543?ref=rss",
+   "summary": "The post Netflix Is Down, But One Billionaire Thinks the Stock Is a Buy appeared first on 24/7 Wall St.. Netflix (NASDAQ:NFLX) has been the streaming sector‘s biggest disappointment in 2026, but our model, and billionaire Bill Ackman, sees a rebound coming. With shares trading at $77.77 after a…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-08-19T17:33:46+00:00",
+   "tickers": [
+    "NFLX"
+   ]
+  },
+  {
+   "id": "8bba140bab35",
+   "title": "CPPIB Is Said to See Several Departures Across Senior Ranks",
+   "link": "https://biztoc.com/x/b6caa7680eb8b06f?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-08-19T17:33:40+00:00",
+   "tickers": []
+  },
+  {
+   "id": "4d554f3e570c",
+   "title": "Hecla Mining and Coeur Mining Spike 13% as Treasury Buyback Plan Ignites Precious Metals Rally",
+   "link": "https://biztoc.com/x/79eba86383a07bab?ref=rss",
+   "summary": "The post Hecla Mining and Coeur Mining Spike 13% as Treasury Buyback Plan Ignites Precious Metals Rally appeared first on 24/7 Wall St.. The bond market is impacting the precious metals space today, it seems. Shares of Hecla Mining (NYSE:HL) are climbing 13% to $20.29 in midday trading Wednesday.…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-08-19T17:33:39+00:00",
+   "tickers": [
+    "HL",
+    "CDE"
+   ]
+  },
+  {
+   "id": "e8a1b444f58e",
+   "title": "Bond selloff pushes yields to 19-year high",
+   "link": "https://biztoc.com/x/e50b0846d18686a0?ref=rss",
+   "summary": "Wall Street increasingly sees Uncle Sam as that friend at risk of ignoring your Venmo requests, so investors are becoming more hesitant to lend it money by buying bonds. The 30-year government bond yield—which moves in the opposite direction to price—briefly hit 5.34% yesterday, the highest level…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-08-19T17:33:37+00:00",
+   "tickers": [
+    "PYPL"
+   ]
+  },
+  {
+   "id": "c7f975a71ae6",
+   "title": "Meta's legal troubles has options traders eyeing the 'jade lizard'",
+   "link": "https://biztoc.com/x/607e1607ce23cc54?ref=rss",
+   "summary": "One of the many beauties of options trading is the ability to make money on a rangebound stock. Shares of Meta Platforms are presenting that opportunity right now. With its upside capped by litigation and much of the downside has already been priced in, it may make sense to try to capture some…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-08-19T17:33:36+00:00",
+   "tickers": [
+    "META"
+   ]
+  },
+  {
+   "id": "48bb5e184262",
+   "title": "The Dow Loses Steam. Goldman and Caterpillar Strike Again",
+   "link": "https://biztoc.com/x/85337008d4a78e35?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-08-19T17:33:35+00:00",
+   "tickers": [
+    "CAT"
+   ]
+  },
+  {
+   "id": "fb64d15f3a35",
+   "title": "Company Stock in a 401(k) Gets a Special Tax Break. One Standard Rollover Erases It Forever",
+   "link": "https://biztoc.com/x/b38c5e1bf5f6280c?ref=rss",
+   "summary": "The post Company Stock in a 401(k) Gets a Special Tax Break. One Standard Rollover Erases It Forever. appeared first on 24/7 Wall St.. Millions of workers hold shares of their employer’s stock inside their 401(k). When those shares appreciate over a career, the IRS offers a rarely used tax break…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-08-19T17:33:34+00:00",
+   "tickers": []
+  },
+  {
+   "id": "613c904b7c80",
+   "title": "Another Top Zelensky Aide Fired Amid Corruption Probe, House Raid",
+   "link": "https://biztoc.com/x/6cf44ba66b3a236d?ref=rss",
+   "summary": "Another Top Zelensky Aide Fired Amid Corruption Probe, House Raid Another top official has been dismissed in Ukraine's government, accompanied with the usual police raids on homes amid fresh corruption probes... but this time the scandal once again runs straight through Zelensky's…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-08-19T17:33:30+00:00",
+   "tickers": []
+  },
+  {
+   "id": "cc7e70e028d2",
+   "title": "Advisors Reveal Their Favorite Impact Investing Ideas Now",
+   "link": "https://biztoc.com/x/9e12f9c69bfc9594?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-08-19T17:33:28+00:00",
+   "tickers": []
+  },
+  {
+   "id": "5294b3e50658",
+   "title": "Republicans Must Shine The Light Of Freedom To Stop The Socialist Scourge",
+   "link": "https://biztoc.com/x/9d4e34b0c3bb6cee?ref=rss",
+   "summary": "By STAR PARKER, The Daily Signal | August 15, 2026 How can anyone escape the irony that in this year, as we celebrate 250 years since the signing of the American Declaration of Independence, the principles of that declaration are being widely challenged? When Americans should be basking in the…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-08-19T17:33:23+00:00",
+   "tickers": []
+  },
+  {
+   "id": "dff388dd1041",
+   "title": "Americans have elected only 3 Black governors. This year, 8 major party candidates are on the ballot",
+   "link": "https://biztoc.com/x/9ea934bac7702462?ref=rss",
+   "summary": "With Florida Republicans nominating U.S. Rep. Byron Donalds on Tuesday, there are eight Black major party gubernatorial nominees — men and women, Democrats and Republicans — on November ballots.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-08-19T17:33:23+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a3f5233f15ff",
+   "title": "T-Mobile ‘chopped a cable’ to expel Chinese hackers from its network",
+   "link": "https://biztoc.com/x/5c58424e6b7e2f49?ref=rss",
+   "summary": "New reporting from Bloomberg revealed how cybersecurity staff at U.S. phone provider T-Mobile identified and expelled Chinese hackers from its network in 2024 during a spate of industry-wide intrusions by Beijing aimed at stealing customer data. The hacks were carried out by a Chinese…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-08-19T17:33:19+00:00",
+   "tickers": []
+  },
+  {
+   "id": "59a0cf251253",
+   "title": "Healthcare of Ontario Pension Plan names interim private equity heads - Bloomberg",
+   "link": "https://biztoc.com/x/672916cc0fbef6eb?ref=rss",
+   "summary": "Risk Disclosure: Trading in financial instruments and/or cryptocurrencies involves high risks including the risk of losing some, or all, of your investment amount, and may not be suitable for all investors. Prices of cryptocurrencies are extremely volatile and may be affected by external factors…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-08-19T17:33:17+00:00",
+   "tickers": []
+  },
+  {
+   "id": "cb3395c9892c",
+   "title": "Goldman Sounds Out Investors for CoreWeave-Tied Data Center Bond",
+   "link": "https://biztoc.com/x/e9e55b27a1a43f6c?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-08-19T17:33:14+00:00",
+   "tickers": [
+    "CRWV"
+   ]
+  },
   {
    "id": "de7da128391a",
    "title": "The Estée Lauder Companies Inc. 2026 Q4 - Results - Earnings Call Presentation",
@@ -97,7 +831,7 @@
    "link": "https://www.prnewswire.com/news-releases/ty-j-young-wealth-management-acquires-ray-cessna-advisory-expanding-presence-in-texas-302855553.html",
    "summary": "ATLANTA, Aug. 19, 2026 /PRNewswire/ -- Ty J. Young Wealth Management, a leading financial services firm, has announced the acquisition of Ray Cessna Advisory, a respected financial advisory practice based in Conroe, Texas. The acquisition represents another milestone in Ty J. Young Wealth...",
    "article_text": "",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "ma",
    "sentiment": "neutral",
@@ -201,7 +935,7 @@
    "link": "https://www.prnewswire.com/news-releases/greenberg-traurig-khalid-al-thebity-deepens-riyadh-commitment-with-move-to-kingdom-centre-302855453.html",
    "summary": "RIYADH, Saudi Arabia, Aug. 19, 2026 /PRNewswire/ -- Greenberg Traurig Khalid Al-Thebity has relocated its Riyadh office and the Greenberg Traurig Regional Headquarters to Kingdom Centre, reinforcing the firm's long-term commitment to the Kingdom and its confidence in the trajectory of the...",
    "article_text": "",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -221,6 +955,20 @@
    "sentiment": "negative",
    "domain": "prnewswire.com",
    "published": "2026-08-19T17:30:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c9773f3e78bc",
+   "title": "Wheat Holding Steady so far on Wednesday Morning",
+   "link": "https://www.nasdaq.com/articles/wheat-holding-steady-so-far-wednesday-morning",
+   "summary": "Wheat is trading with mixed action early on Wednesday with CBT holding higher and the hard wheats fading lower. The wheat complex was mixed on Tuesday, with the spring wheat market holding up and winter wheats on the weaker side. Chicago SRW contracts was mixed, with front months down 1...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-08-19T17:29:43+00:00",
    "tickers": []
   },
   {
@@ -256,7 +1004,7 @@
    "title": "Moderna and Merck shares surge",
    "link": "https://www.cnbc.com/video/2026/08/19/moderna-and-merck-shares-surge.html",
    "summary": "CNBC's Annika Kim Constantino reports on the increase in Moderna and Merck's share prices following the success of late stage trials of cancer vaccines.",
-   "article_text": "Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu watch now In this video MRNA MRK Share Share Article via Facebook Share Article via Twitter Share Article via LinkedIn Share Article via Email The Exchange Moderna and Merck shares surge CNBC's Annika Kim Constantino reports on the increase in Moderna and Merck's share prices following the success of late stage trials of cancer vaccines. 02:20 7 minutes ago Annika Kim Constantino watch now watch now VIDEO 02:20 Moderna and Merck shares surge 7 min ago watch now watch now VIDEO 03:00 U.S. Trade Rep. Greer: Confident agreement with Canada will strengthen North American economy an hour ago watch now watch now VIDEO 02:24 President Trump: We have a deal with Canada 2 hours ago watch now watch now VIDEO 03:06 Moderna stock nearly doubles on new cancer vaccine results 3 hours ago watch now watch now VIDEO 02:51 Treasury doubles debt buybacks as Bessent moves to steady bond market 4 hours ago watch now watch now VIDEO 02:20 Moderna and Merck shares surge 7 min ago watch now watch now VIDEO 03:00 U.S. Trade Rep. Greer: Confident agreement with Canada will strengthen North American economy an hour ago watch now watch now VIDEO 02:24 President Trump: We have a deal with Canada 2 hours ago watch now watch now VIDEO 03:06 Moderna stock nearly doubles on new cancer vaccine results 3 hours ago watch now watch now VIDEO 02:51 Treasury doubles debt buybacks as Bessent moves to steady bond market 4 hours ago Load More",
+   "article_text": "Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu watch now In this video MRNA MRK Share Share Article via Facebook Share Article via Twitter Share Article via LinkedIn Share Article via Email The Exchange Moderna and Merck shares surge CNBC's Annika Kim Constantino reports on the increase in Moderna and Merck's share prices following the success of late stage trials of cancer vaccines. 02:20 18 minutes ago Annika Kim Constantino watch now watch now VIDEO 02:20 Moderna and Merck shares surge 18 min ago watch now watch now VIDEO 03:00 U.S. Trade Rep. Greer: Confident agreement with Canada will strengthen North American economy an hour ago watch now watch now VIDEO 02:24 President Trump: We have a deal with Canada 2 hours ago watch now watch now VIDEO 03:06 Moderna stock nearly doubles on new cancer vaccine results 3 hours ago watch now watch now VIDEO 02:51 Treasury doubles debt buybacks as Bessent moves to steady bond market 5 hours ago watch now watch now VIDEO 02:20 Moderna and Merck shares surge 18 min ago watch now watch now VIDEO 03:00 U.S. Trade Rep. Greer: Confident agreement with Canada will strengthen North American economy an hour ago watch now watch now VIDEO 02:24 President Trump: We have a deal with Canada 2 hours ago watch now watch now VIDEO 03:06 Moderna stock nearly doubles on new cancer vaccine results 3 hours ago watch now watch now VIDEO 02:51 Treasury doubles debt buybacks as Bessent moves to steady bond market 5 hours ago Load More",
    "source": "CNBC Investing",
    "category": "markets",
    "type": "markets",
@@ -318,7 +1066,7 @@
    "link": "https://www.prnewswire.com/news-releases/nns-fait-lacquisition-dactions-doci-302855546.html",
    "summary": "LIMASSOL, Chypre, 19 août 2026 /PRNewswire/ -- Il est fait référence au communiqué de presse du 24 juin 2026 publié par NNS concernant l'annonce publique de l'Offre. Conformément aux dispositions de l'article 5, paragraphe 4, du Décret, NNS annonce par la présente avoir effectué des...",
    "article_text": "",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "ma",
    "sentiment": "neutral",
@@ -537,6 +1285,20 @@
    "tickers": []
   },
   {
+   "id": "9ddd526f1cf2",
+   "title": "Why United States Antimony Stock Is Rocketing Higher Today",
+   "link": "https://www.nasdaq.com/articles/why-united-states-antimony-stock-rocketing-higher-today",
+   "summary": "Key PointsU.S. Antimony stock sank 8% yeesterday.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-08-19T17:21:44+00:00",
+   "tickers": []
+  },
+  {
    "id": "2d1803585cad",
    "title": "Mike Vrabel Has High Praise for AJ Brown's Leadership",
    "link": "https://biztoc.com/x/6321b2e613cdda31?ref=rss",
@@ -649,6 +1411,22 @@
    "domain": "prnewswire.com",
    "published": "2026-08-19T17:20:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "9492227757bb",
+   "title": "Why Nebius Group Stock Got Crushed on Wednesday",
+   "link": "https://www.nasdaq.com/articles/why-nebius-group-stock-got-crushed-wednesday",
+   "summary": "Key PointsNebius announced a $4.5 billion capital raise to fund its AI-centric data center build-out.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-08-19T17:19:37+00:00",
+   "tickers": [
+    "NBIS"
+   ]
   },
   {
    "id": "701c9d0d3a95",
@@ -810,6 +1588,20 @@
    "tickers": [
     "TOL"
    ]
+  },
+  {
+   "id": "fbdf8c757c95",
+   "title": "Dollar Slumps and Gold Rallies as US Treasury Ramps Up Buybacks",
+   "link": "https://www.nasdaq.com/articles/dollar-slumps-and-gold-rallies-us-treasury-ramps-buybacks",
+   "summary": "The dollar index (DXY00 ) tumbled to a 2.5-month low today and is down by -0.76%. The dollar retreated today after the US Treasury boosted liquidity and announced plans to increase buybacks of long-dated bonds. Lower T-note yields today have also weakened the dollar‘s interest rate differentials. The US Treasury...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-08-19T17:18:28+00:00",
+   "tickers": []
   },
   {
    "id": "12a55ef35224",
@@ -1332,39 +2124,6 @@
    "tickers": []
   },
   {
-   "id": "464609208127",
-   "title": "Stocks Finish Lower as Chipmakers and AI Stocks Fall",
-   "link": "https://www.nasdaq.com/articles/stocks-finish-lower-chipmakers-and-ai-stocks-fall",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down by -0.69% on Tuesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down by -0.22%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down by -1.68%. E-mini S&P futures (ESU26 ) fell -0.69%, and September E-mini...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-08-19T17:09:03+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
-   ]
-  },
-  {
-   "id": "c9773f3e78bc",
-   "title": "Wheat Holding Steady so far on Wednesday Morning",
-   "link": "https://www.nasdaq.com/articles/wheat-holding-steady-so-far-wednesday-morning",
-   "summary": "Wheat is trading with mixed action early on Wednesday with CBT holding higher and the hard wheats fading lower. The wheat complex was mixed on Tuesday, with the spring wheat market holding up and winter wheats on the weaker side. Chicago SRW contracts was mixed, with front months down 1...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-08-19T17:09:03+00:00",
-   "tickers": []
-  },
-  {
    "id": "3c06f6303cb8",
    "title": "Trump Nominates Heidi Overton, a Top Domestic Policy Aide, for F.D.A. Commissioner",
    "link": "https://www.nytimes.com/2026/08/18/health/heidi-overton-fda.html",
@@ -1620,44 +2379,6 @@
    "domain": "cnbc.com",
    "published": "2026-08-19T17:05:01+00:00",
    "tickers": []
-  },
-  {
-   "id": "d3832952f0eb",
-   "title": "Stocks Supported by Lower Bond Yields",
-   "link": "https://www.nasdaq.com/articles/stocks-supported-lower-bond-yields-2",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) is up by +0.58% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up by +0.55%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up by +0.07%. E-mini S&P futures (ESU26 ) are up +0.61%, and September E-mini...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-08-19T17:04:28+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
-   ]
-  },
-  {
-   "id": "464d33aae4b7",
-   "title": "Stocks Mixed on Lower Bond Yields and Chip Stock Weakness",
-   "link": "https://www.nasdaq.com/articles/stocks-mixed-lower-bond-yields-and-chip-stock-weakness",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) is up by +0.33% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up by +0.47%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down by -0.33%. E-mini S&P futures (ESU26 ) are up +0.31%, and September E-mini...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-08-19T17:04:28+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
-   ]
   },
   {
    "id": "cd8d90ed3d2c",
@@ -2130,6 +2851,22 @@
    ]
   },
   {
+   "id": "499743c484be",
+   "title": "Why Kinross Gold Stock Popped on Wednesday",
+   "link": "https://www.nasdaq.com/articles/why-kinross-gold-stock-popped-wednesday",
+   "summary": "Key PointsGold prices rose on news of a weaker U.S. dollar today.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-08-19T17:00:53+00:00",
+   "tickers": [
+    "KGC"
+   ]
+  },
+  {
    "id": "49bdbbc607de",
    "title": "Static Media Welcomes Mom.com, An Acquisition Growing Its Lifestyle Presence",
    "link": "https://www.prnewswire.com/news-releases/static-media-welcomes-momcom-an-acquisition-growing-its-lifestyle-presence-302855521.html",
@@ -2217,6 +2954,22 @@
    ]
   },
   {
+   "id": "2e2412c7dfad",
+   "title": "Nebius (NBIS) Q2 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/nebius-nbis-q2-2026-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-08-19T16:59:07+00:00",
+   "tickers": [
+    "NBIS"
+   ]
+  },
+  {
    "id": "f7b750977873",
    "title": "Wall Street mostly higher as yields slide; eyes on Fed minutes for rate cues",
    "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-wall-st-hit-by-higher-yields-oil-4866292",
@@ -2245,6 +2998,23 @@
    "tickers": [
     "MRNA",
     "MRK"
+   ]
+  },
+  {
+   "id": "f441d3ee9457",
+   "title": "Broadcom Drags the Nasdaq While the Dow and S&P 500 Climb",
+   "link": "https://www.nasdaq.com/articles/broadcom-drags-nasdaq-while-dow-and-sp-500-climb",
+   "summary": "Key PointsThe S&P 500 and Dow each rose about 0.6% while the Nasdaq Composite lagged at 0.4%.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-08-19T16:56:59+00:00",
+   "tickers": [
+    "AVGO",
+    "NDAQ"
    ]
   },
   {
@@ -2371,6 +3141,23 @@
    ]
   },
   {
+   "id": "b5ba39c9dd7b",
+   "title": "Moderna and Merck Just Made History With the First mRNA Cancer Vaccine to Succeed in a Phase 3 Trial. Here's What That Means for Investors.",
+   "link": "https://www.nasdaq.com/articles/moderna-and-merck-just-made-history-first-mrna-cancer-vaccine-succeed-phase-3-trial-heres",
+   "summary": "Key PointsThe phase 3 trial showed that patients who had melanoma removed by surgery experienced longer periods before reinfection.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "fda",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-08-19T16:54:01+00:00",
+   "tickers": [
+    "MRNA",
+    "MRK"
+   ]
+  },
+  {
    "id": "a8c35eadbb50",
    "title": "US Treasury to boost long-term bond purchases in bid to steady market",
    "link": "https://www.ft.com/content/777c9014-2f12-45cf-8224-6bbe808c62cb?syn-25a6b1a6=1",
@@ -2382,6 +3169,20 @@
    "sentiment": "positive",
    "domain": "ft.com",
    "published": "2026-08-19T16:53:51+00:00",
+   "tickers": []
+  },
+  {
+   "id": "d93d9601d9c7",
+   "title": "If a Recession Is Coming, 100 Years of History Says This Is the Best Move Investors Can Make",
+   "link": "https://www.nasdaq.com/articles/if-recession-coming-100-years-history-says-best-move-investors-can-make",
+   "summary": "Key PointsThe S&P 500 has delivered an annual return of about 10% since its inception.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-08-19T16:53:50+00:00",
    "tickers": []
   },
   {
@@ -3066,20 +3867,6 @@
    "tickers": []
   },
   {
-   "id": "fbdf8c757c95",
-   "title": "Dollar Slumps and Gold Rallies as US Treasury Ramps Up Buybacks",
-   "link": "https://www.nasdaq.com/articles/dollar-slumps-and-gold-rallies-us-treasury-ramps-buybacks",
-   "summary": "The dollar index (DXY00 ) tumbled to a 2.5-month low today and is down by -0.76%. The dollar retreated today after the US Treasury boosted liquidity and announced plans to increase buybacks of long-dated bonds. Lower T-note yields today have also weakened the dollar‘s interest rate differentials. The US Treasury...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-08-19T16:42:21+00:00",
-   "tickers": []
-  },
-  {
    "id": "d118ea316640",
    "title": "Opera Reports Second Quarter 2026 Results Beyond the High End of Guidance Ranges",
    "link": "https://www.prnewswire.com/news-releases/opera-reports-second-quarter-2026-results-beyond-the-high-end-of-guidance-ranges-302855091.html",
@@ -3292,20 +4079,6 @@
    "sentiment": "negative",
    "domain": "biztoc.com",
    "published": "2026-08-19T16:37:06+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e69ba7e6a10b",
-   "title": "Corn Back to Early Strength on Wednesday, as Tour Yields Continue Decline",
-   "link": "https://www.nasdaq.com/articles/corn-back-early-strength-wednesday-tour-yields-continue-decline",
-   "summary": "Corn prices are up 2 to 3 cents so far on Wednesday morning. Futures posted mixed trade on Tuesday, with contracts closing as much as 1 ¾ lower to a penny higher across the board. Open interest was up just 6,454 contracts on the day. The CmdtyView national average Cash...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-08-19T16:37:01+00:00",
    "tickers": []
   },
   {
@@ -4520,6 +5293,20 @@
    "tickers": []
   },
   {
+   "id": "7966d4aa64b0",
+   "title": "AMLX Rises as Avexitide Nears 2026-End Filing With Phase III Study Win",
+   "link": "https://www.nasdaq.com/articles/amlx-rises-avexitide-nears-2026-end-filing-phase-iii-study-win",
+   "summary": "Amylyx surges after avexitide cuts hypoglycemic events 55% in phase III LUCIDITY study, paving the way for an FDA filing by end-2026 in PBH.",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-08-19T16:18:00+00:00",
+   "tickers": []
+  },
+  {
    "id": "335eb38c0555",
    "title": "WATCH LIVE: Tipping Point — The Colorado River Reimagined | A PBS News Special",
    "link": "https://biztoc.com/x/bf080392366f4ecd?ref=rss",
@@ -5029,6 +5816,23 @@
    "domain": "investing.com",
    "published": "2026-08-19T16:13:53+00:00",
    "tickers": []
+  },
+  {
+   "id": "a8b46af6abef",
+   "title": "From COVID to Cancer: Moderna Scores Melanoma Breakthrough",
+   "link": "https://www.nasdaq.com/articles/covid-cancer-moderna-scores-melanoma-breakthrough",
+   "summary": "By successfully applying individualized mRNA technology to train the immune system against recurring tumor cells, Moderna and Merck have opened an extraordinary new frontier in targeted cancer treatment.",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-08-19T16:13:00+00:00",
+   "tickers": [
+    "MRNA",
+    "MRK"
+   ]
   },
   {
    "id": "8dad21b42a29",
@@ -8092,801 +8896,6 @@
    "domain": "biztoc.com",
    "published": "2026-08-19T15:31:30+00:00",
    "tickers": []
-  },
-  {
-   "id": "e27b911a0a10",
-   "title": "Multimillionnaire podcaster Mel Robbins says she learned the secret to spotting the most influential person in the room when she was a waitress",
-   "link": "https://biztoc.com/x/388f7b7625bf0ad3?ref=rss",
-   "summary": "Having an in with powerful people is one way to unlock success—but you don’t need a corner-office career to recognize them from the crowd. Podcaster Mel Robbins says she learned the secret to spotting the most influential person in the room from her “mentor boss” Ruth while working her first job…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-08-19T15:31:30+00:00",
-   "tickers": []
-  },
-  {
-   "id": "4f24c1bdac49",
-   "title": "Bond traders are testing Kevin Warsh: The Fed chair will heed—but not be ruled by—them, says an economist who spent years sitting next to him",
-   "link": "https://biztoc.com/x/cdc0aa508081d588?ref=rss",
-   "summary": "Treasury yields are on the march with some analysts suggesting Fed chairman Kevin Warsh is being “tested” by the bond market. But those who know the boomerang central banker well told Fortune that while Warsh will note market “teething” problems, a reaction shouldn’t be expected.Yields have…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-08-19T15:31:26+00:00",
-   "tickers": [
-    "FBIN"
-   ]
-  },
-  {
-   "id": "fa4b7d137ae7",
-   "title": "China’s Fighter Jet Experts Urge Caution Over AI-Generated Intelligence",
-   "link": "https://biztoc.com/x/7563eef33e6b7abc?ref=rss",
-   "summary": "Engineers involved in developing China’s advanced J-20 and J-36 stealth fighters are warning that artificial intelligence could introduce dangerous errors into military intelligence, according to a paper published in a Chinese defense journal. Engineer Zhang Xianzhe of the AVIC Chengdu Aircraft…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-08-19T15:31:17+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ffa55ac18e42",
-   "title": "U.S. Crude Oil Stockpiles Post Weekly Increase",
-   "link": "https://biztoc.com/x/35b5aba5b881867c?ref=rss",
-   "summary": "U.S. commercial crude oil inventories rose by 4.4 million barrels last week in a third consecutive build, according to the Energy Information Administration.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-08-19T15:31:15+00:00",
-   "tickers": [
-    "POST"
-   ]
-  },
-  {
-   "id": "72e8a4706644",
-   "title": "This rising star in the GOP could succeed Florida’s Gov. DeSantis, plus other takeaways from the primaries",
-   "link": "https://biztoc.com/x/49b432dd7e52b366?ref=rss",
-   "summary": "As the long, contentious primary season nears its end, Democratic voters elevated another progressive Senate candidate in Florida, while President Donald Trump’s chosen candidate in his adopted home state, Republican Rep. Byron Donalds, won the nomination to be the state’s first Black governor.It…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-08-19T15:31:15+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6f3ea2ba5f62",
-   "title": "Jensen Huang’s Net Worth Up $28 Billion This Year",
-   "link": "https://biztoc.com/x/213cfd652183d465?ref=rss",
-   "summary": "The post Jensen Huang’s Net Worth Up $28 Billion This Year appeared first on 24/7 Wall St.. Nvidia (NASDAQ: NVDA) CEO Jensen Huang’s net worth is up $27.5 billion this year to $182 billion. According to Bloomberg, that makes him the world’s eighth-richest person, just behind Meta’s Mark…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-08-19T15:31:03+00:00",
-   "tickers": [
-    "NVDA",
-    "META"
-   ]
-  },
-  {
-   "id": "1886cb0d29ff",
-   "title": "Markets Rally After U.S. Treasury Tries to Ease Bond Market Stress",
-   "link": "https://biztoc.com/x/bab94bae59fbad63?ref=rss",
-   "summary": "Government bond yields fell and stocks jumped on a move by the Treasury Department to double the amount of debt that it can buy back from investors.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-08-19T15:31:01+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6bbdfa731f9a",
-   "title": "Treasury Bond Auction Announcement - RIKB 38 0215 - RIKS 29 0917",
-   "link": "https://www.globenewswire.com/news-release/2026/08/19/3347828/0/en/treasury-bond-auction-announcement-rikb-38-0215-riks-29-0917.html",
-   "summary": "On the Auction Date, between 10:30 am and 11:00 am, the Government Debt Management will auction Treasury bonds in the Series, with the ISIN numbers and with the Maturity Dates according to the table above. Payments for the Treasury bonds must be received by the Central Bank before 14:00 on the Settlement Date, and the Bonds will be delivered in electronic form on the same day. Article 6 of the General Terms of Auction for Treasury bonds applies for the right to purchase an additional 10%.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-08-19T15:31:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "a36f004439a8",
-   "title": "Tilkynning um útboð ríkisbréfa - RIKB 38 0215 - RIKS 29 0917",
-   "link": "https://www.globenewswire.com/news-release/2026/08/19/3347828/0/is/tilkynning-um-%C3%BAtbo%C3%B0-r%C3%ADkisbr%C3%A9fa-rikb-38-0215-riks-29-0917.html",
-   "summary": "Á útboðsdegi, milli kl. 10:30 og 11:00, fer fram útboð hjá Lánamálum ríkisins á ríkisbréfum í þeim flokkum, með þeim ISIN númerum og með þeim gjalddögum sem fram koma í töflunni hér að ofan. Greiðslur fyrir ríkisbréfin þurfa að berast Seðlabankanum fyrir kl. 14:00 á uppgjörsdegi og verða bréfin afhent rafrænt sama dag. Um 10% viðbótarkaupréttinn gildir 6. gr. í almennum útboðsskilmálum ríkisbréfa.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-08-19T15:31:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ccff4b77d480",
-   "title": "JBS makes new bid for full control, delisting of Pilgrim’s Pride",
-   "link": "https://www.investing.com/news/stock-market-news/jbs-seeks-full-control-of-pilgrims-pride-4866233",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-08-19T15:31:00+00:00",
-   "tickers": [
-    "JBS"
-   ]
-  },
-  {
-   "id": "f04c90d34b7f",
-   "title": "Turkey stocks higher at close of trade; BIST 100 up 2.34%",
-   "link": "https://www.investing.com/news/stock-market-news/turkey-stocks-higher-at-close-of-trade-bist-100-up-234-4867866",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-08-19T15:30:30+00:00",
-   "tickers": []
-  },
-  {
-   "id": "8aad7075e462",
-   "title": "Pets are Family, and Budgets Show It: New AICPA Survey Finds Owners Prioritize Pet Care and Long-Term Planning",
-   "link": "https://www.prnewswire.com/news-releases/pets-are-family-and-budgets-show-it-new-aicpa-survey-finds-owners-prioritize-pet-care-and-long-term-planning-302855392.html",
-   "summary": "40% of pet owners with wills/trusts have included provisions for their pets WASHINGTON, Aug. 19, 2026 /PRNewswire/ -- Ahead of National Dog Day (August 26), a new survey conducted by The Harris Poll on behalf of the American Institute of CPAs (AICPA) shows that Americans don't just love...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-08-19T15:30:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "a9cef441bb19",
-   "title": "TopHat Security, Inc. Announces Series A Financing Led by Landolt Securities to Accelerate OT and AI Infrastructure Security",
-   "link": "https://www.prnewswire.com/news-releases/tophat-security-inc-announces-series-a-financing-led-by-landolt-securities-to-accelerate-ot-and-ai-infrastructure-security-302855369.html",
-   "summary": "Investment will support the expansion of O-RANGE and TopHat Security's enterprise cybersecurity portfolio for government and critical infrastructure ATLANTA, Aug. 19, 2026 /PRNewswire/ -- TopHat Security, Inc., a provider of purpose-built cybersecurity solutions for operational...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-08-19T15:30:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "415830f0df08",
-   "title": "Financial 15 Split Corp. PFD 5.25% declares CAD 0.0604 dividend",
-   "link": "https://seekingalpha.com/news/4635010-financial-15-split-corp-pfd-5_25-percent-declares-cad-0_0604-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "dividend",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-19T15:29:17+00:00",
-   "tickers": []
-  },
-  {
-   "id": "3f9f48e689ed",
-   "title": "PULS: A Better Place For Defensive Cash",
-   "link": "https://seekingalpha.com/article/4938316-puls-a-better-place-for-defensive-cash?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-19T15:29:00+00:00",
-   "tickers": [
-    "PULS"
-   ]
-  },
-  {
-   "id": "52a7b939962e",
-   "title": "Blue Owl Technology Finance: The Turnaround Is Coming",
-   "link": "https://seekingalpha.com/article/4938315-blue-owl-technology-finance-the-turnaround-is-coming?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-19T15:28:22+00:00",
-   "tickers": [
-    "OWL"
-   ]
-  },
-  {
-   "id": "3e58b3204f1b",
-   "title": "Las iniciativas de la policía de Dubái generan un valor social de 176,4 millones de dólares",
-   "link": "https://www.prnewswire.com/news-releases/las-iniciativas-de-la-policia-de-dubai-generan-un-valor-social-de-176-4-millones-de-dolares-302855416.html",
-   "summary": "- Un estudio revela que las iniciativas de la policía de Dubái generan un valor social de 176,4 millones de dólares y mejoras en la seguridad, el bienestar y la economía. DUBAI, EAU, 19 de agosto de 2026 /PRNewswire/ -- Un estudio ha estimado el retorno social de la inversión (SROI) de 80...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-08-19T15:28:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "1045dd591dab",
-   "title": "PolyPid (PYPD) Q2 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/polypid-pypd-q2-2026-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-08-19T15:27:45+00:00",
-   "tickers": []
-  },
-  {
-   "id": "155827e0699c",
-   "title": "Home Depot Q2 Earnings: A Mundane Report And Lingering Risks",
-   "link": "https://seekingalpha.com/article/4938314-home-depot-q2-earnings-a-mundane-report-and-lingering-risks?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-19T15:27:39+00:00",
-   "tickers": [
-    "HD"
-   ]
-  },
-  {
-   "id": "d7c7cae27d97",
-   "title": "Fabrinet: Nice Niche But Overvalued",
-   "link": "https://seekingalpha.com/article/4938313-fabrinet-nice-niche-but-overvalued?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-19T15:27:29+00:00",
-   "tickers": [
-    "FN"
-   ]
-  },
-  {
-   "id": "b627556389a3",
-   "title": "Dividend stocks continue to climb as SCHD eyes ninth straight weekly gain",
-   "link": "https://seekingalpha.com/news/4635004-dividend-stocks-keep-climbing-as-schd-eyes-ninth-straight-weekly-gain?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "dividend",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-19T15:27:25+00:00",
-   "tickers": [
-    "SCHD"
-   ]
-  },
-  {
-   "id": "c98866e2be0c",
-   "title": "Canadian Life Companies Split declares CAD 0.0583 dividend",
-   "link": "https://seekingalpha.com/news/4635007-canadian-life-companies-split-declares-cad-0_0583-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "dividend",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-19T15:27:23+00:00",
-   "tickers": []
-  },
-  {
-   "id": "da32547d2ee5",
-   "title": "Home Depot: Q2 Shows Green Shoots Of Recovery, But Not Yet A Buy",
-   "link": "https://seekingalpha.com/article/4938312-home-depot-q2-shows-green-shoots-of-recovery-but-not-yet-a-buy?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-19T15:27:11+00:00",
-   "tickers": [
-    "HD"
-   ]
-  },
-  {
-   "id": "ce833e2ab799",
-   "title": "Pilgrim's Pride Corp. Stock Gains 14%",
-   "link": "https://www.nasdaq.com/articles/pilgrims-pride-corp-stock-gains-14",
-   "summary": "(RTTNews) - Shares of Pilgrim's Pride Corporation (PPC) are gaining around 14 percent in Wednesday morning trading, likely due to JBS N.V.'s (JBS) announcement yesterday to acquire all of the outstanding shares of common stock of the company.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-08-19T15:26:21+00:00",
-   "tickers": [
-    "JBS"
-   ]
-  },
-  {
-   "id": "76284f059318",
-   "title": "BlackRock Large Cap Focus Growth V.I. Fund Q2 2026 Commentary",
-   "link": "https://seekingalpha.com/article/4938311-blackrock-large-cap-focus-growth-vi-fund-q2-2026-commentary?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-19T15:26:00+00:00",
-   "tickers": [
-    "BLK"
-   ]
-  },
-  {
-   "id": "5926dd0b05ed",
-   "title": "Clock Ticks Down As Canada Faces U.S. Tariff Deadline",
-   "link": "https://seekingalpha.com/article/4938345-clock-ticks-down-canada-faces-us-tariff-deadline?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-19T15:25:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "1873648be86b",
-   "title": "Target Q2 Earnings Beat on 5.3% Sales Growth, FY26 Guidance Raised",
-   "link": "https://www.nasdaq.com/articles/target-q2-earnings-beat-53-sales-growth-fy26-guidance-raised",
-   "summary": "TGT tops Q2 estimates as traffic, digital and category sales strengthen, while tariff refunds lift profitability, and management raises its fiscal 2026 outlook.",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-08-19T15:25:00+00:00",
-   "tickers": [
-    "TGT"
-   ]
-  },
-  {
-   "id": "7693375ebf9f",
-   "title": "Flotek confirms termination of Puerto Rico power contract",
-   "link": "https://seekingalpha.com/news/4634963-flotek-confirms-termination-of-puerto-rico-power-contract?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-19T15:24:48+00:00",
-   "tickers": []
-  },
-  {
-   "id": "2b871f769bac",
-   "title": "Mexico pushes back on US ruling on strawberry dumping",
-   "link": "https://www.investing.com/news/commodities-news/mexico-pushes-back-on-us-ruling-on-strawberry-dumping-4867856",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-08-19T15:24:30+00:00",
-   "tickers": []
-  },
-  {
-   "id": "dc1b3975df69",
-   "title": "Registration Opens for 2026 Women in Supply Chain Forum™, Spotlighting Self-Advocacy, Personal Branding and Leadership",
-   "link": "https://www.prnewswire.com/news-releases/registration-opens-for-2026-women-in-supply-chain-forum-spotlighting-self-advocacy-personal-branding-and-leadership-302855412.html",
-   "summary": "The 2026 Women in Supply Chain Forum™ is bringing the industry together in Charleston Nov. 17–19 for three days of insightful conversations, meaningful connections and career-focused programming designed to help attendees advocate for themselves while lifting others up. FORT ATKINSON, Wis....",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-08-19T15:23:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "a96e6f5fe035",
-   "title": "Sonic Fire Tech completes $15M seed financing for infrasound fire suppression",
-   "link": "https://seekingalpha.com/news/4635003-sonic-fire-tech-completes-15m-seed-financing-for-infrasound-fire-suppression?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-19T15:22:46+00:00",
-   "tickers": []
-  },
-  {
-   "id": "f51fec553410",
-   "title": "CQS New City High Yield Fund issues 500,000 new shares at 50.5p",
-   "link": "https://www.investing.com/news/company-news/cqs-new-city-high-yield-fund-issues-500000-new-shares-at-505p-93CH-4867861",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-08-19T15:22:36+00:00",
-   "tickers": []
-  },
-  {
-   "id": "f5fc48803756",
-   "title": "JKHY Q4 Earnings Beat, Revenues Rise on Processing & Cloud Growth",
-   "link": "https://www.nasdaq.com/articles/jkhy-q4-earnings-beat-revenues-rise-processing-cloud-growth",
-   "summary": "Jack Henry's Q4 revenues rise 4.7% on processing, cloud hosting and faster payment growth, while higher personnel costs pressure margins.",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-08-19T15:22:00+00:00",
-   "tickers": [
-    "JKHY"
-   ]
-  },
-  {
-   "id": "f34a753bd09c",
-   "title": "Moderna short sellers face $4.8 billion loss amid record stock jump",
-   "link": "https://www.investing.com/news/stock-market-news/moderna-short-sellers-face-48-billion-loss-amid-record-stock-jump-4867860",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-08-19T15:21:43+00:00",
-   "tickers": [
-    "MRNA"
-   ]
-  },
-  {
-   "id": "10c340ff5c51",
-   "title": "Piramal Pharma Limited finalise l'acquisition d'une participation majoritaire dans Yapan Bio Private Limited",
-   "link": "https://www.prnewswire.com/news-releases/piramal-pharma-limited-finalise-lacquisition-dune-participation-majoritaire-dans-yapan-bio-private-limited-302855410.html",
-   "summary": "Yapan Bio Private Limited est spécialisée dans le développement de procédés, la caractérisation et les services de fabrication conformes aux bonnes pratiques de fabrication (BPF) de phase I et II pour les vaccins et les produits biologiques. Piramal détient une participation dans Yapan...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-08-19T15:21:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "5216e6d2ece8",
-   "title": "Raymond James reiterates Market Perform on Whirlpool stock amid weak industry data",
-   "link": "https://www.investing.com/news/analyst-ratings/raymond-james-reiterates-market-perform-on-whirlpool-stock-amid-weak-industry-data-93CH-4867858",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "analyst",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-08-19T15:20:53+00:00",
-   "tickers": [
-    "WHR"
-   ]
-  },
-  {
-   "id": "398f3420acaa",
-   "title": "ATI: Stock Is A Bit Pricey, But Continued Momentum Justifies The Premium",
-   "link": "https://seekingalpha.com/article/4938308-ati-stock-is-a-bit-pricey-but-continued-momentum-justifies-the-premium?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-19T15:20:20+00:00",
-   "tickers": [
-    "ATI"
-   ]
-  },
-  {
-   "id": "bd70fa5b8ce4",
-   "title": "Aker BP to take stakes in Losgann/Froskelår and Slagugle discoveries",
-   "link": "https://biztoc.com/x/40b353e41ca38bd5?ref=rss",
-   "summary": "Aker BP has agreed to acquire stakes in the Losgann/Froskelår and Slagugle discoveries, aiming to consolidate its presence near established infrastructure on the Norwegian Continental Shelf. In two separate transactions, Aker BP has moved to purchase Apache's interest in the Losgann/Froskelår…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-08-19T15:20:07+00:00",
-   "tickers": [
-    "BP"
-   ]
-  },
-  {
-   "id": "acd6ecc4487b",
-   "title": "Dividend 15 Split Corp. PFD SHARES declares CAD 0.0583 dividend",
-   "link": "https://seekingalpha.com/news/4635002-dividend-15-split-corp-pfd-shares-declares-cad-0_0583-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "dividend",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-19T15:20:06+00:00",
-   "tickers": []
-  },
-  {
-   "id": "3fb5ceecd33d",
-   "title": "Meta's $1.4 Trillion Legal Risk Takes a New Turn",
-   "link": "https://biztoc.com/x/ed4381b3a569d222?ref=rss",
-   "summary": "This article first appeared on GuruFocus. Meta Platforms Inc. (META, Financials), the parent company of Facebook and Instagram, is engaged in a big child-safety trial, but California is challenging the eye-popping $1.4 trillion figure that has trailed the case. The lawsuit seeks civil penalties,…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-08-19T15:20:02+00:00",
-   "tickers": [
-    "META"
-   ]
-  },
-  {
-   "id": "51de4ca16fc7",
-   "title": "Nebius Slides 8% After $4.5 Billion AI Funding Plan",
-   "link": "https://biztoc.com/x/e8f5b3c778357d58?ref=rss",
-   "summary": "This article first appeared on GuruFocus. Nebius Group N.V. (NBIS, Financials), is raising $4.5 billion through convertible senior notes as the AI infrastructure company looks to fund an increasingly expensive expansion. The company plans to sell $2.75 billion of notes due in 2030 and another…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-08-19T15:20:02+00:00",
-   "tickers": [
-    "NBIS"
-   ]
-  },
-  {
-   "id": "70ab09dd35bd",
-   "title": "Leadership Investment: Director Carande Acquires 2,101 Shares of United Community Banks",
-   "link": "https://www.nasdaq.com/articles/leadership-investment-director-carande-acquires-2101-shares-united-community-banks",
-   "summary": "Key PointsCarl Steven Carande acquired 2,101 shares of common stock on Aug. 10, 2026.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-08-19T15:20:01+00:00",
-   "tickers": []
-  },
-  {
-   "id": "bedd6b2ba94a",
-   "title": "Vertex Pharmaceuticals stock hits all-time high at 546.17 USD",
-   "link": "https://www.investing.com/news/company-news/vertex-pharmaceuticals-stock-hits-alltime-high-at-54617-usd-93CH-4867857",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-08-19T15:20:00+00:00",
-   "tickers": [
-    "VRTX"
-   ]
-  },
-  {
-   "id": "726de635420b",
-   "title": "Industry Veteran Jeff Mellios Joins The SSI Group to Lead Next Chapter of Payer Solutions Business Growth",
-   "link": "https://www.prnewswire.com/news-releases/industry-veteran-jeff-mellios-joins-the-ssi-group-to-lead-next-chapter-of-payer-solutions-business-growth-302855409.html",
-   "summary": "As health plans navigate regulatory changes, administrative complexity, and digital transformation, SSI Group is strengthening its market commitment by bringing on a seasoned industry leader to drive growth of its payer solutions business. MOBILE, Ala., Aug. 19, 2026 /PRNewswire/ -- The...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-08-19T15:20:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "2a80fb3171c3",
-   "title": "Micware Targets Software-Defined Vehicles, Spatial Intelligence Growth at Sidoti Conference",
-   "link": "https://biztoc.com/x/d51248ea30f654d8?ref=rss",
-   "summary": "Key Points - Micware is expanding beyond automotive software by developing micAuto for software-defined vehicles and DynaPlanet for spatial intelligence and location-based services. The company expects micAuto to begin generating revenue in fiscal 2027 and plans to launch Micware Spacia in…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-08-19T15:20:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "9c9cf7213674",
-   "title": "3 Reasons to Buy and Hold This Wide-Moat Dividend King's Stock Forever",
-   "link": "https://www.nasdaq.com/articles/3-reasons-buy-and-hold-wide-moat-dividend-kings-stock-forever",
-   "summary": "Key PointsProcter & Gamble has enough sway with customers to pull its products through distribution channels.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-08-19T15:20:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "bb217d018224",
-   "title": "Lowe's Companies Q2 Earnings Call Highlights",
-   "link": "https://biztoc.com/x/2fc149b81b2a20e2?ref=rss",
-   "summary": "Why Lowe's Could Be a Bargain Before Housing Recovers Lowe's Companies (NYSE:LOW) reported second-quarter sales of $26 billion, up 8.3% from a year earlier, as growth in its professional customer, online and home-services businesses helped offset continued pressure on discretionary do-it-yourself…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-08-19T15:19:52+00:00",
-   "tickers": [
-    "LOW"
-   ]
-  },
-  {
-   "id": "17e96ecfaf19",
-   "title": "Alphabet's AI Spending Push Comes With a Higher Price",
-   "link": "https://biztoc.com/x/c247c419ddacf82d?ref=rss",
-   "summary": "This article first appeared on GuruFocus. Alphabet Inc. (GOOGL, Financials) parent Google is allegedly set to pay about 7% on long-dated Australian debt as its effort to invest in AI continues to lift funding needs.According to Bloomberg statistics quoted by Seeking Alpha, the company is looking…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-08-19T15:19:49+00:00",
-   "tickers": [
-    "GOOGL",
-    "GOOG"
-   ]
-  },
-  {
-   "id": "8b00510a731a",
-   "title": "Jack Henry & Associates Q4 Earnings Call Highlights",
-   "link": "https://biztoc.com/x/3a37e2b877d8353b?ref=rss",
-   "summary": "Key Points - Record fiscal 2026 performance: Non-GAAP fourth-quarter revenue rose 7% to $633 million, while full-year revenue reached $2.5 billion and operating margin expanded 92 basis points to 24%. - Strong customer and product momentum: Jack Henry secured a record 58 competitive core wins,…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-08-19T15:19:44+00:00",
-   "tickers": [
-    "JKHY"
-   ]
-  },
-  {
-   "id": "2fd127d8b400",
-   "title": "Director/PDMR Shareholding",
-   "link": "https://www.globenewswire.com/news-release/2026/08/19/3347823/0/en/director-pdmr-shareholding.html",
-   "summary": "Notification of Transactions by Persons Discharging Managerial Responsibilities and Persons Closely Associated with them",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-08-19T15:19:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b66041c0f792",
-   "title": "Eon Appoints Matthew Lungren, MD, MPH, to Board of Directors",
-   "link": "https://www.prnewswire.com/news-releases/eon-appoints-matthew-lungren-md-mph-to-board-of-directors-302855407.html",
-   "summary": "Physician-scientist and healthcare AI executive leader joins Eon's board as enterprise growth accelerates DENVER, Aug. 19, 2026 /PRNewswire/ -- Eon, a leader in incidental findings and early detection technology, today announced the appointment of Matthew Lungren, MD, MPH, to its Board of...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-08-19T15:19:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "050d6da4e288",
-   "title": "Dividend 15 Split declares CAD 0.10 dividend",
-   "link": "https://seekingalpha.com/news/4635001-dividend-15-split-declares-cad-0_10-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "dividend",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-19T15:18:55+00:00",
-   "tickers": []
-  },
-  {
-   "id": "047857789aed",
-   "title": "Merck and Moderna say cancer vaccine shows promise in preventing recurrence of melanoma",
-   "link": "https://biztoc.com/x/ba306c3b2d2ea428?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-08-19T15:17:46+00:00",
-   "tickers": [
-    "MRNA",
-    "MRK"
-   ]
   }
  ],
  "ticker_names": {
@@ -8919,15 +8928,12 @@
   "ICE": "Intercontinental Exchange",
   "JEF": "Jefferies Financial Group",
   "NLY": "Annaly Capital Management",
-  "PULS": "PGIM Ultra Short Bond ETF",
   "REGN": "Regeneron Pharmaceuticals",
   "ALNY": "Alnylam Pharmaceuticals",
   "ARR": "ARMOUR Residential REIT",
   "GS": "The Goldman Sachs Group",
-  "JKHY": "Jack Henry & Associates",
   "AMD": "Advanced Micro Devices",
   "GDX": "VanEck Gold Miners ETF",
-  "VRTX": "Vertex Pharmaceuticals",
   "COF": "Capital One Financial",
   "CRCL": "Circle Internet Group",
   "GRAB": "Grab Holdings Limited",
@@ -8955,7 +8961,6 @@
   "GNRC": "Generac Holdings",
   "GTLS": "Chart Industries",
   "LOW": "Lowe's Companies",
-  "OWL": "Blue Owl Capital",
   "UPST": "Upstart Holdings",
   "AFRM": "Affirm Holdings",
   "BAC": "Bank of America",
@@ -8966,8 +8971,8 @@
   "LNG": "Cheniere Energy",
   "MRCY": "Mercury Systems",
   "PGR": "The Progressive",
+  "PYPL": "PayPal Holdings",
   "ADI": "Analog Devices",
-  "HD": "The Home Depot",
   "KMB": "Kimberly-Clark",
   "META": "Meta Platforms",
   "TTD": "The Trade Desk",
@@ -8978,7 +8983,9 @@
   "POST": "Post Holdings",
   "TOL": "Toll Brothers",
   "MSTR": "MicroStrategy",
+  "CDE": "Coeur Mining",
   "DVLT": "Datavault AI",
+  "HL": "Hecla Mining",
   "KGC": "Kinross Gold",
   "NBIS": "Nebius Group",
   "RBC": "RBC Bearings",
@@ -8993,23 +9000,20 @@
   "ULTA": "Ulta Beauty",
   "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
-  "TGT": "Target Corp",
   "RGLD": "Royal Gold",
   "RKLB": "Rocket Lab",
   "SPGI": "S&P Global",
   "MSFT": "Office 365",
-  "BLK": "BlackRock",
   "CRWV": "CoreWeave",
   "PKG": "Packaging",
   "SBUX": "Starbucks",
   "SNOW": "Snowflake",
-  "WHR": "Whirlpool",
   "ADBE": "Photoshop",
   "NWSA": "News Corp",
   "AVGO": "Broadcom",
   "BP": "BP p.l.c",
+  "ENB": "Enbridge",
   "EXEL": "Exelixis",
-  "FN": "Fabrinet",
   "GOOG": "Alphabet",
   "MTB": "M&T Bank",
   "RS": "Reliance",
@@ -9023,6 +9027,7 @@
   "MET": "MetLife",
   "MRK": "Merck &",
   "MRNA": "Moderna",
+  "NDSN": "Nordson",
   "OVV": "Ovintiv",
   "PEP": "PepsiCo",
   "PODD": "Insulet",
@@ -9037,6 +9042,7 @@
   "KSS": "Kohl's",
   "KVUE": "Kenvue",
   "M": "Macy's",
+  "MAT": "Mattel",
   "NDAQ": "Nasdaq",
   "INTC": "Intel",
   "TOST": "Toast",
