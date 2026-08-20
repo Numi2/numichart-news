@@ -1,8 +1,683 @@
 {
- "generated": "2026-08-20T19:37:35.901841+00:00",
+ "generated": "2026-08-20T19:51:30.851259+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "8f03c8148715",
+   "title": "How the A.I. Borrowing Binge Helps Drive Up Government Bond Yields",
+   "link": "https://www.nytimes.com/2026/08/20/business/bond-yields-tech-ai-debt.html",
+   "summary": "Analysts said the recent rise in Treasury yields partly reflected investor expectations that A.I.-driven growth could keep interest rates elevated.",
+   "article_text": "",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-08-20T19:45:55+00:00",
+   "tickers": []
+  },
+  {
+   "id": "5975607e4915",
+   "title": "Datavault AI, Inc. (DVLT) Shareholders Who Lost Money Have Opportunity to Lead Securities Fraud Lawsuit",
+   "link": "https://www.prnewswire.com/news-releases/datavault-ai-inc-dvlt-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302856134.html",
+   "summary": "LOS ANGELES, Aug. 20, 2026 /PRNewswire/ -- The Law Offices of Frank R. Cruz announces that investors with losses related to Datavault AI, Inc. (DVLT) have opportunity to lead the securities fraud class action lawsuit. IF YOU ARE AN INVESTOR WHO SUFFERED A LOSS IN DATAVAULT AI, INC....",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "prnewswire.com",
+   "published": "2026-08-20T19:45:00+00:00",
+   "tickers": [
+    "DVLT"
+   ]
+  },
+  {
+   "id": "fc079e13c784",
+   "title": "Ohio Personal Injury Lawyer Allen Tittle Testified Before Ohio Senate Judiciary Committee in Support of Senate Bill 292",
+   "link": "https://www.prnewswire.com/news-releases/ohio-personal-injury-lawyer-allen-tittle-testified-before-ohio-senate-judiciary-committee-in-support-of-senate-bill-292-302856813.html",
+   "summary": "CLEVELAND, Aug. 20, 2026 /PRNewswire/ -- Allen Tittle, founding partner of Tittle & Perlmuter and President of the Ohio Association for Justice (OAJ), testified before the Ohio Senate Judiciary Committee in support of Senate Bill 292, legislation that would adjust Ohio's noneconomic...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-08-20T19:44:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "7bd5540f36a3",
+   "title": "In HelloNation, Plumbing and HVAC Expert Scott Wickersheim Breaks Down How Regular HVAC Maintenance Keeps Systems Running Efficiently",
+   "link": "https://www.prnewswire.com/news-releases/in-hellonation-plumbing-and-hvac-expert-scott-wickersheim-breaks-down-how-regular-hvac-maintenance-keeps-systems-running-efficiently-302856812.html",
+   "summary": "A HelloNation Article Covers Simple Steps Homeowners Can Take to Keep Heating and Cooling Systems Efficient Throughout the Year. HACKENSACK, N.J., Aug. 20, 2026 /PRNewswire/ -- How often should homeowners schedule maintenance for their HVAC system? A HelloNation article answers that...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-08-20T19:44:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e2225a7bdea0",
+   "title": "Deere earnings analysis: questions answered and next catalysts",
+   "link": "https://www.investing.com/news/stock-market-news/deere-earnings-analysis-questions-answered-and-next-catalysts-93CH-4870354",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-08-20T19:43:40+00:00",
+   "tickers": [
+    "DE"
+   ]
+  },
+  {
+   "id": "2b25592c7349",
+   "title": "Oil prices rise after Treasury Secretary says U.S. will collapse Iran with economic pressure",
+   "link": "https://www.cnbc.com/2026/08/20/oil-prices-brent-wti-hormuz-trump.html",
+   "summary": "Oil moved higher Thursday after U.S. President Donald Trump sharpened his rhetoric against Iran.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "cnbc.com",
+   "published": "2026-08-20T19:43:30+00:00",
+   "tickers": []
+  },
+  {
+   "id": "d4ed8a1232a7",
+   "title": "Brilliant Earth Group Is Too Cheap And Robust To Pass Up",
+   "link": "https://seekingalpha.com/article/4938896-brilliant-earth-group-is-too-cheap-and-robust-to-pass-up?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-20T19:42:59+00:00",
+   "tickers": []
+  },
+  {
+   "id": "16b5bc0b20f0",
+   "title": "Anxious bond market sends troubling message to investors: There’s no easy fix for U.S. debt",
+   "link": "https://www.marketwatch.com/story/treasury-rout-restarts-one-day-after-bessents-beefed-up-buyback-plan-972766a1?mod=mw_rss_topstories",
+   "summary": "Treasury Secretary Scott Bessent’s plan to calm markets is being short-circuited.",
+   "article_text": "",
+   "source": "MarketWatch",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "marketwatch.com",
+   "published": "2026-08-20T19:40:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "fed6680e39ab",
+   "title": "Alibaba earnings analysis: questions answered and next catalysts",
+   "link": "https://www.investing.com/news/stock-market-news/alibaba-earnings-analysis-questions-answered-and-next-catalysts-93CH-4870351",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-08-20T19:39:52+00:00",
+   "tickers": []
+  },
+  {
+   "id": "6bf16487e701",
+   "title": "Dow falls 600 points with stock losses increasing after a Treasury plan to tamp down yields fails: Live updates",
+   "link": "https://www.cnbc.com/2026/08/19/stock-market-today-live-updates.html",
+   "summary": "U.S. stocks fell on Thursday as Treasury yields reversed course from the decline seen in the prior trading day.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "cnbc.com",
+   "published": "2026-08-20T19:39:43+00:00",
+   "tickers": []
+  },
+  {
+   "id": "6e68b78e1d06",
+   "title": "Advance Auto Parts earnings analysis: questions answered and next catalysts",
+   "link": "https://www.investing.com/news/stock-market-news/advance-auto-parts-earnings-analysis-questions-answered-and-next-catalysts-93CH-4870350",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-08-20T19:39:04+00:00",
+   "tickers": []
+  },
+  {
+   "id": "df7def50bb10",
+   "title": "8-K - North Haven Net REIT (0001999784) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/1999784/000199978426000064/0001999784-26-000064-index.htm",
+   "summary": "Filed: 2026-08-20 AccNo: 0001999784-26-000064 Size: 149 KB Item 3.02: Unregistered Sales of Equity Securities",
+   "article_text": "",
+   "source": "SEC 8-K Filings",
+   "category": "filings",
+   "type": "8k",
+   "sentiment": "neutral",
+   "domain": "sec.gov",
+   "published": "2026-08-20T19:38:25+00:00",
+   "tickers": []
+  },
+  {
+   "id": "706af19eabe0",
+   "title": "Spot gold holds above $4.5k a day after topping the mark for first time since June",
+   "link": "https://www.investing.com/news/commodities-news/gold-holds-near-2month-high-as-treasury-buybacks-push-yields-dollar-lower-4868639",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-08-20T19:38:04+00:00",
+   "tickers": []
+  },
+  {
+   "id": "8df2a80a7193",
+   "title": "JPMorgan Falls 1% as Treasury Rescue Fails to Calm Bonds",
+   "link": "https://biztoc.com/x/f8c519f7e3b0fbea?ref=rss",
+   "summary": "This article first appeared on GuruFocus. JPMorgan Chase (NYSE:JPM), America's largest bank by assets, fell approximately 1.0% to $353.71 Thursday afternoon as Treasury yields came roaring back. The 10-year yield rebounded toward 4.69%, while the 30-year blasted through 5.22%. The Treasury…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-08-20T19:37:36+00:00",
+   "tickers": [
+    "JPM",
+    "JIRE"
+   ]
+  },
+  {
+   "id": "0a9dbb7428bb",
+   "title": "AMD Falls as Google Expands Its $120 Billion Custom-Chip Push",
+   "link": "https://biztoc.com/x/348102c70e15200d?ref=rss",
+   "summary": "This article first appeared on GuruFocus. Advanced Micro Devices (NASDAQ:AMD), the chip heavyweight chasing Nvidia (NASDAQ:NVDA) across AI accelerators and server processors, slid approximately 0.4% to $464.20 Thursday afternoon. The message rattling investors was simple: Google and other…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-08-20T19:37:32+00:00",
+   "tickers": [
+    "AMD",
+    "NVDA",
+    "GOOGL"
+   ]
+  },
+  {
+   "id": "b15a43dc61ba",
+   "title": "Anthropic could publicly file IPO paperwork as soon as this month",
+   "link": "https://biztoc.com/x/a4b6d8e48b22e999?ref=rss",
+   "summary": "is preparing to publicly file paperwork for its initial public offering (IPO) as early as the end of the month. According to Bloomberg, the AI startup is angling to match or surpass SpaceX's (SPXC) record-setting $75 billion June IPO. The filing will give the outside world its first look at the…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "offering",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-08-20T19:37:30+00:00",
+   "tickers": [
+    "SPXC",
+    "SPCX"
+   ]
+  },
+  {
+   "id": "e3633d065aa3",
+   "title": "Merck Slips After 12.6% Cancer-Vaccine Surge",
+   "link": "https://biztoc.com/x/7a5c9cc2ab48ea9e?ref=rss",
+   "summary": "This article first appeared on GuruFocus. Merck (NYSE:MRK), the pharmaceutical giant behind Keytruda, dipped roughly 0.5% to $151.39 Thursday afternoon after blasting 12.6% higher Wednesday. That tiny retreat changes nothing. The stock had just scored a record close as investors raced to price in…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-08-20T19:37:22+00:00",
+   "tickers": [
+    "MRK"
+   ]
+  },
+  {
+   "id": "d90d6721edad",
+   "title": "Eli Lilly Slips After Crossing $1.1 Trillion",
+   "link": "https://biztoc.com/x/1198c65238984701?ref=rss",
+   "summary": "This article first appeared on GuruFocus. Eli Lilly (NYSE:LLY), the pharmaceutical heavyweight behind Mounjaro and Zepbound, slid approximately 1.1% to $1,266.40 Thursday afternoon, cooling off one day after closing at a record. The pullback shaved its market value to roughly $1.13 trillion. But…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-08-20T19:37:22+00:00",
+   "tickers": [
+    "LLY"
+   ]
+  },
+  {
+   "id": "15165fd76e7e",
+   "title": "Crypto shares climb after Treasury’s doubled buybacks boost risk assets",
+   "link": "https://www.investing.com/news/stock-market-news/bitcoin-crypto-shares-climb-after-trump-pushes-clarity-act-4869341",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-08-20T19:37:11+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c7c7900df874",
+   "title": "D.E. Shaw owns more than $1 billion stake in Sysco, sources say",
+   "link": "https://www.investing.com/news/stock-market-news/de-shaw-owns-more-than-1-billion-stake-in-sysco-sources-say-4870317",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-08-20T19:36:50+00:00",
+   "tickers": [
+    "SYY"
+   ]
+  },
+  {
+   "id": "7b4408ae7353",
+   "title": "Anthropic plans to change enterprise data retention policy, source says",
+   "link": "https://www.investing.com/news/stock-market-news/anthropic-plans-to-change-enterprise-data-retention-policy-source-says-4870349",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-08-20T19:36:34+00:00",
+   "tickers": []
+  },
+  {
+   "id": "9751e0a31563",
+   "title": "Anthropic to give enterprise clients more data control options - report",
+   "link": "https://www.investing.com/news/stock-market-news/anthropic-to-give-enterprise-clients-more-data-control-options--report-4870348",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-08-20T19:36:08+00:00",
+   "tickers": []
+  },
+  {
+   "id": "6ba305703c57",
+   "title": "Commercial National Financial Corporation Announces Quarterly Dividend",
+   "link": "https://www.globenewswire.com/news-release/2026/08/20/3348775/0/en/commercial-national-financial-corporation-announces-quarterly-dividend.html",
+   "summary": "Quarterly DividendITHACA, Mich., Aug. 20, 2026 (GLOBE NEWSWIRE) -- Commercial National Financial Corporation (OTCID: CEFC) announced that the Board of Directors declared a regular quarterly cash dividend of 15 cents per share. The dividend is payable October 1, 2026 to shareholders of record on September 11, 2026. Based on a recent closing price of $15.77 per share, the annualized dividend yield is 3.80%.",
+   "article_text": "",
+   "source": "GlobeNewswire",
+   "category": "press",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "globenewswire.com",
+   "published": "2026-08-20T19:36:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "86a22fef428d",
+   "title": "Lloyd Robertson, Unflappable Canadian Broadcaster, Dies at 92",
+   "link": "https://www.nytimes.com/2026/08/20/business/media/lloyd-robertson-dead.html",
+   "summary": "His 41 years as a national television news anchor surpassed the tenures of Walter Cronkite and Tom Brokaw.",
+   "article_text": "",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-08-20T19:34:53+00:00",
+   "tickers": []
+  },
+  {
+   "id": "d1b30344f319",
+   "title": "Moderna and Merck’s mRNA Melanoma Vaccine Looks Like a Game Changer",
+   "link": "https://biztoc.com/x/cd86bddb25dc31fb?ref=rss",
+   "summary": "The future of cancer treatment is looking brighter thanks to trial results jointly announced this week by the pharmaceutical companies Moderna and Merck. On Wednesday, the companies disclosed the primary findings of a Phase 3 trial that tested their mRNA-based vaccine, which is designed to prevent…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-08-20T19:34:32+00:00",
+   "tickers": [
+    "MRNA",
+    "MRK"
+   ]
+  },
+  {
+   "id": "57db73c39327",
+   "title": "Strong earthquake strikes central Peru, no damage reported",
+   "link": "https://biztoc.com/x/4e3a4a8f54f0922c?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-08-20T19:34:01+00:00",
+   "tickers": []
+  },
+  {
+   "id": "02470d47c49e",
+   "title": "Sterling's JK Technology Services doubles workforce with first acquisition",
+   "link": "https://biztoc.com/x/50cb3442f820ede4?ref=rss",
+   "summary": "Preview this article 1 min The deal combines two companies that provide logistics and construction services for data centers. Preview this article 1 min The deal combines two companies that provide logistics and construction services for data centers.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-08-20T19:33:58+00:00",
+   "tickers": []
+  },
+  {
+   "id": "0fdd91bbdc5b",
+   "title": "Your outfit shouldn’t be the star: A fashion expert’s guide to dressing for success",
+   "link": "https://biztoc.com/x/3a978be0fb4e9dc0?ref=rss",
+   "summary": "Jealousy over her husband’s closet was the unlikely inspiration for Emma May’s successful career pivot into fashion at age 48. May founded SophieGrace in 2018 after years as a lawyer, real estate brokerage founder and chief of staff to Canadian Premier Jim Prentice. As a professional woman…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-08-20T19:33:49+00:00",
+   "tickers": []
+  },
+  {
+   "id": "d4f32ce4f3cc",
+   "title": "Vox cuts jobs in first restructuring since James Murdoch's takeover, source says",
+   "link": "https://biztoc.com/x/667cb4c864f9d33d?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-08-20T19:33:47+00:00",
+   "tickers": []
+  },
+  {
+   "id": "7ba465676cd0",
+   "title": "Deere Soars: Energy Infrastructure, Data Centers Fuel (At Last) An Earnings Gain",
+   "link": "https://biztoc.com/x/73409e8d1fe658fc?ref=rss",
+   "summary": "Deere is known for tractors and harvesters. But data centers and energy infrastructure fuel its construction business. The post Deere Soars: Energy Infrastructure, Data Centers Fuel (At Last) An Earnings Gain appeared first on Investor's Business Daily.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-08-20T19:33:42+00:00",
+   "tickers": [
+    "DE"
+   ]
+  },
+  {
+   "id": "e251b07ee5fc",
+   "title": "Reporters and Military Members Held at Gunpoint At California Space Force Base",
+   "link": "https://biztoc.com/x/3329ed1ffdf68e03?ref=rss",
+   "summary": "Five reporters and two military personnel were detained at gunpoint by security forces at Vandenberg Space Force Base in California after an invited media convoy was mistakenly identified as unauthorized “gate runners.” The group was being escorted by public affairs personnel to a groundbreaking…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-08-20T19:33:35+00:00",
+   "tickers": []
+  },
+  {
+   "id": "04d0d6d7e6ba",
+   "title": "Google gives publishers a new way to fight AI-driven traffic losses",
+   "link": "https://biztoc.com/x/da6b70df9dc75955?ref=rss",
+   "summary": "As AI continues to kill traffic to websites, Google on Thursday threw a bone to those publishers negatively impacted by the change. It’s now allowing readers to push a button on a publisher’s website to indicate it’s a “favorite source” they’d like to see highlighted more often across Google…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-08-20T19:33:34+00:00",
+   "tickers": [
+    "GOOGL"
+   ]
+  },
+  {
+   "id": "f5e46e78944f",
+   "title": "Argentina’s economic activity rises 2.7% in June",
+   "link": "https://biztoc.com/x/6f5c762c1a178ec0?ref=rss",
+   "summary": "Risk Disclosure: Trading in financial instruments and/or cryptocurrencies involves high risks including the risk of losing some, or all, of your investment amount, and may not be suitable for all investors. Prices of cryptocurrencies are extremely volatile and may be affected by external factors…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-08-20T19:33:34+00:00",
+   "tickers": []
+  },
+  {
+   "id": "6727b48e0e98",
+   "title": "Nexo Australia Launches Pioneering Credit Lines After Securing Credit Authorisation",
+   "link": "https://www.investing.com/news/cryptocurrency-news/nexo-australia-launches-pioneering-credit-lines-after-securing-credit-authorisation-4870347",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-08-20T19:33:31+00:00",
+   "tickers": []
+  },
+  {
+   "id": "db855770686c",
+   "title": "Despite ethics questions and months of delay, Secretary Duffy’s reality series launches",
+   "link": "https://biztoc.com/x/86a3fbe5b8ead483?ref=rss",
+   "summary": "Our current political landscape is so odd that when we talk about the reality series starring a sitting White House Cabinet secretary, it’s now necessary to ask, “Which one?” We learned three weeks ago, for example, that Health and Human Services Secretary Robert F. Kennedy Jr., already facing…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-08-20T19:33:31+00:00",
+   "tickers": []
+  },
+  {
+   "id": "acffe7ebda4d",
+   "title": "Why US Bond Markets Are Trembling",
+   "link": "https://biztoc.com/x/dcb491df2ac60858?ref=rss",
+   "summary": "By Jim O'Neill, Project Syndicate | Aug 20, 2026 What is the apparent fragility in the US bond market telling us? Since markets tend to be less wrong than those who comment on them regularly, their signals must be taken seriously, especially when they coincide with a relative softening in US…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-08-20T19:33:31+00:00",
+   "tickers": []
+  },
+  {
+   "id": "5778cf61f043",
+   "title": "Emerging launches $300M fund targeting hospitality tech, AI",
+   "link": "https://biztoc.com/x/3009c7121985f5fe?ref=rss",
+   "summary": "Emerging previously launched a $100 million fund in 2023. The firm has invested in brands including F1 Arcade, which recently opened its first Chicago location.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-08-20T19:33:30+00:00",
+   "tickers": []
+  },
+  {
+   "id": "46486cbee81a",
+   "title": "AI startup Micro1 wants to challenge Google's winning bid for Spirit Airlines data with a higher offer",
+   "link": "https://biztoc.com/x/243507491e2ca582?ref=rss",
+   "summary": "Spirit Airlines. GIORGIO VIERA / AFP via Getty Images Micro1 says it's making an offer \"materially higher\" than Google's for Spirit Airlines' data. The AI startup told the airline it will pay $12.5 million for its data. Bankruptcy experts say overturning the deal is possible, but a long…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-08-20T19:33:26+00:00",
+   "tickers": [
+    "GOOGL"
+   ]
+  },
+  {
+   "id": "7c902d169490",
+   "title": "Food Supply Alert: Ukraine Grain Exports Collapse As Black Sea Attacks Choke Global Shipments",
+   "link": "https://biztoc.com/x/aa9c3b1f82e9794c?ref=rss",
+   "summary": "Food Supply Alert: Ukraine Grain Exports Collapse As Black Sea Attacks Choke Global Shipments Upward momentum in agricultural prices, as tracked by the Bloomberg Agriculture Spot Index, should be ringing inflationary alarm bells. The breakout comes just one week after JPMorgan analyst Nora…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-08-20T19:33:22+00:00",
+   "tickers": [
+    "JIRE"
+   ]
+  },
+  {
+   "id": "73f7dcfe96ca",
+   "title": "Oil Extends Rally as U.S. Threatens Economic Measures",
+   "link": "https://biztoc.com/x/58df992446c9f695?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-08-20T19:33:19+00:00",
+   "tickers": []
+  },
+  {
+   "id": "8c4456753842",
+   "title": "Trump keeps embracing data centers, an unpopular topic in midterm races",
+   "link": "https://biztoc.com/x/8548f9d82c8911bb?ref=rss",
+   "summary": "The race to build data centers, which power artificial intelligence and cloud computing, has run aground amid frustration from voters who don't want to live near the massive warehouse campuses.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-08-20T19:33:17+00:00",
+   "tickers": []
+  },
+  {
+   "id": "64c1d73b9e87",
+   "title": "Argentina's Economy Expanded Faster Than Expected in June",
+   "link": "https://biztoc.com/x/61624eb47a552198?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-08-20T19:33:07+00:00",
+   "tickers": []
+  },
+  {
+   "id": "5cd7f21a66b1",
+   "title": "Argentina posts $2.12 billion trade surplus in July",
+   "link": "https://biztoc.com/x/2a0c3c7d36357a42?ref=rss",
+   "summary": "Risk Disclosure: Trading in financial instruments and/or cryptocurrencies involves high risks including the risk of losing some, or all, of your investment amount, and may not be suitable for all investors. Prices of cryptocurrencies are extremely volatile and may be affected by external factors…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-08-20T19:33:03+00:00",
+   "tickers": []
+  },
+  {
+   "id": "7eccdae0fbb2",
+   "title": "Cms Energy stock hits 52-week low at 21.22 USD",
+   "link": "https://www.investing.com/news/company-news/cms-energy-stock-hits-52week-low-at-2122-usd-93CH-4870346",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-08-20T19:33:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "88305d45160e",
+   "title": "Rosen Law Firm Encourages Putnam Investment Management, LLC Mutual Fund Investors to Inquire About Securities Class Action Investigation",
+   "link": "https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-putnam-investment-management-llc-mutual-fund-investors-to-inquire-about-securities-class-action-investigation-302856764.html",
+   "summary": "NEW YORK, Aug. 20, 2026 /PRNewswire/ -- Rosen Law Firm, a global investor rights law firm, continues to investigate potential securities claims on behalf of investors in Putnam Investment Management, LLC (Putnam Investments) stock-based mutual funds, resulting from allegations that Putnam...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "prnewswire.com",
+   "published": "2026-08-20T19:33:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c0f980f480ec",
+   "title": "St. Johns County Office of Public Affairs Earns Florida Public Relations Association's Government Team of the Year Award",
+   "link": "https://www.prnewswire.com/news-releases/st-johns-county-office-of-public-affairs-earns-florida-public-relations-associations-government-team-of-the-year-award-302856803.html",
+   "summary": "St. Johns County receives prestigious recognition for the second consecutive year ST. JOHNS COUNTY, Fla., Aug. 20, 2026 /PRNewswire/ -- The St. Johns County Office of Public Affairs earned the 2026 Silver Pinnacle Award for Government Team of the Year, presented by the Florida Public...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-08-20T19:33:00+00:00",
+   "tickers": []
+  },
   {
    "id": "c259ced2ced2",
    "title": "8-K - Monroe Capital Income Plus Corp (0001742313) (Filer)",
@@ -15,6 +690,20 @@
    "sentiment": "neutral",
    "domain": "sec.gov",
    "published": "2026-08-20T19:32:55+00:00",
+   "tickers": []
+  },
+  {
+   "id": "1de886e57ca4",
+   "title": "Needham Names Top FinTech Stock on Conviction List",
+   "link": "https://www.investing.com/news/stock-market-news/needham-names-top-fintech-stock-on-conviction-list-93CH-4870345",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-08-20T19:32:31+00:00",
    "tickers": []
   },
   {
@@ -46,6 +735,20 @@
    "tickers": []
   },
   {
+   "id": "84a29b87aae4",
+   "title": "Vox cuts jobs in first restructuring since James Murdoch’s takeover, source says",
+   "link": "https://www.investing.com/news/stock-market-news/vox-cuts-jobs-in-first-restructuring-since-james-murdochs-takeover-source-says-4870343",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-08-20T19:31:11+00:00",
+   "tickers": []
+  },
+  {
    "id": "e5a5e3aa5eca",
    "title": "Advance Auto Parts, Inc. 2026 Q2 - Results - Earnings Call Presentation",
    "link": "https://seekingalpha.com/article/4938902-advance-auto-parts-inc-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
@@ -60,6 +763,54 @@
    "tickers": []
   },
   {
+   "id": "0c3665c77b0e",
+   "title": "Prime Video to invest more than $2 billion in Latin America through 2030",
+   "link": "https://www.investing.com/news/stock-market-news/prime-video-to-invest-more-than-2-billion-in-latin-america-through-2030-4870326",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-08-20T19:30:51+00:00",
+   "tickers": [
+    "AMZN"
+   ]
+  },
+  {
+   "id": "bac60eb21223",
+   "title": "The Outlook for a Smaller Ghana Cocoa Crop Supports Prices",
+   "link": "https://www.nasdaq.com/articles/outlook-smaller-ghana-cocoa-crop-supports-prices",
+   "summary": "September ICE NY cocoa (CCU26 ) is up +6 (+0.10) today, and September ICE London cocoa #7 (CAU26 ) is up +15 (+0.35%). Cocoa prices rallied to 2-week highs today on concern about a smaller cocoa crop from Ghana, the world’s second-largest cocoa producer. Ghana’s Cocoa Board said today that...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "guidance",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-08-20T19:29:34+00:00",
+   "tickers": [
+    "ICE"
+   ]
+  },
+  {
+   "id": "5ad7b975a9e3",
+   "title": "Arabica Coffee Consolidating Below This Week’s 6.5-Month High",
+   "link": "https://www.nasdaq.com/articles/arabica-coffee-consolidating-below-weeks-65-month-high",
+   "summary": "September arabica coffee (KCU26 ) is up +1.50 (+0.42%) today, and September ICE robusta coffee (RMU26 ) is down -25 (-0.67%). Coffee prices are mixed today. Arabica coffee is consolidating below Tuesday’s 6.5-month high, and robusta is under pressure from rising inventories as ICE robusta inventories climbed to a 5.25-month...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-08-20T19:29:34+00:00",
+   "tickers": [
+    "ICE"
+   ]
+  },
+  {
    "id": "9ee1d9ebaaa3",
    "title": "8-K - UNITED BANCORP INC /OH/ (0000731653) (Filer)",
    "link": "https://www.sec.gov/Archives/edgar/data/731653/000110465926099202/0001104659-26-099202-index.htm",
@@ -71,6 +822,34 @@
    "sentiment": "neutral",
    "domain": "sec.gov",
    "published": "2026-08-20T19:29:28+00:00",
+   "tickers": []
+  },
+  {
+   "id": "0136fbae53db",
+   "title": "/C O R R E C T I O N -- MexicoSmile Dental Tourism Clinic/",
+   "link": "https://www.prnewswire.com/news-releases/savings-of-up-to-80-drive-record-dental-travel-to-mexico-660-000-monthly-border-crossings-mexicosmile-finds-302825485.html",
+   "summary": "In the news release, Savings of Up to 80% Drive Record Dental Travel to Mexico, 660,000 Monthly Border Crossings, MexicoSmile Finds, issued 14-Jul-2026 by MexicoSmile Dental Tourism Clinic over PR Newswire, we are advised by the company that changes have been made. The complete, corrected...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-08-20T19:29:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "0db03dd928e4",
+   "title": "Mountain Province Announces Completion of Continuation as a Company under the Business Corporations Act (British Columbia)",
+   "link": "https://www.prnewswire.com/news-releases/mountain-province-announces-completion-of-continuation-as-a-company-under-the-business-corporations-act-british-columbia-302856798.html",
+   "summary": "TORONTO and NEW YORK, Aug. 20, 2026 /PRNewswire/ -- Mountain Province Diamonds Inc. (\"Mountain Province\" or the \"Company\") announces that the continuation of the Company (the \"Continuation\") as a corporation under the Business Corporations Act (Ontario) (\"OBCA\") to British Columbia as a...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-08-20T19:28:00+00:00",
    "tickers": []
   },
   {
@@ -415,6 +1194,69 @@
    "domain": "sec.gov",
    "published": "2026-08-20T19:20:25+00:00",
    "tickers": []
+  },
+  {
+   "id": "ed0f9bf2225c",
+   "title": "Greenberg Traurig Shortlisted for 5 IFLR Middle East Awards 2026",
+   "link": "https://www.prnewswire.com/news-releases/greenberg-traurig-shortlisted-for-5-iflr-middle-east-awards-2026-302856728.html",
+   "summary": "DUBAI, UAE, Aug. 20, 2026 /PRNewswire/ -- Global law firm Greenberg Traurig has been shortlisted for five 2026 IFLR Middle East Awards. The awards ceremony will be held Oct. 8 at the Address Sky View Hotel in Dubai, United Arab Emirates (UAE). Greenberg Traurig is shortlisted in the...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-08-20T19:20:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "23c71d8c46ac",
+   "title": "Stocks Slip as Soaring Crude Prices Push Bond Yields Higher",
+   "link": "https://www.nasdaq.com/articles/stocks-slip-soaring-crude-prices-push-bond-yields-higher",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) is down by -0.20% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down by -0.63%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down by -0.24%. E-mini S&P futures (ESU26 ) are down -0.24%, and September E-mini...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-08-20T19:19:55+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
+  },
+  {
+   "id": "5ae0b79f4dd5",
+   "title": "Soybeans Holding onto Thursday Gains",
+   "link": "https://www.nasdaq.com/articles/soybeans-holding-thursday-gains",
+   "summary": "Soybeans are trading with fractional to 4 cent gains across most contracts Thursday. The cmdtyView national average Cash Bean price is up 1 1/4 cents at $11.99 1/4. Soymeal futures are back down 30 cents to $1.10, as Soy Oil is trading with 110 to 120 point gains. USDA reported...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-08-20T19:19:55+00:00",
+   "tickers": []
+  },
+  {
+   "id": "acd095f24854",
+   "title": "Sugar Prices Rally as India Cuts Sugar Import Duties",
+   "link": "https://www.nasdaq.com/articles/sugar-prices-rally-india-cuts-sugar-import-duties",
+   "summary": "October NY world sugar #11 (SBV26 ) is up +0.08 (+0.46%) today, and October London ICE white sugar #5 (SWV26 ) is up +12.90 (+2.38%). Sugar prices added to this week’s gains today, with NY sugar posting a 15-month high and London sugar posting a 17-month high. Prices fell from...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-08-20T19:19:55+00:00",
+   "tickers": [
+    "ICE"
+   ]
   },
   {
    "id": "df14e6a58d09",
@@ -1228,6 +2070,20 @@
    "tickers": []
   },
   {
+   "id": "6e484821be0a",
+   "title": "Wheat Slipping back to Mixed Action on Thursday",
+   "link": "https://www.nasdaq.com/articles/wheat-slipping-back-mixed-action-thursday",
+   "summary": "The wheat complex is showing mixed action across the three exchanges on Thursday. Chicago SRW contracts are steady to a penny higher at midday. KC HRW futures are slipping back 2 to 3 cents on the session. MPLS spring wheat is up 5 to 6 cents so far on the...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-08-20T19:09:25+00:00",
+   "tickers": []
+  },
+  {
    "id": "ad7f2231c19e",
    "title": "Dollar bounces back after touching over three-month low as bond rally halts",
    "link": "https://www.investing.com/news/forex-news/asia-fx-steadies-after-sharp-gains-dollar-near-3mth-low-as-bond-selloff-cools-4868665",
@@ -1268,22 +2124,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-08-20T19:07:07+00:00",
    "tickers": []
-  },
-  {
-   "id": "0c3665c77b0e",
-   "title": "Prime Video to invest more than $2 billion in Latin America through 2030",
-   "link": "https://www.investing.com/news/stock-market-news/prime-video-to-invest-more-than-2-billion-in-latin-america-through-2030-4870326",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-08-20T19:06:30+00:00",
-   "tickers": [
-    "AMZN"
-   ]
   },
   {
    "id": "f463658997e5",
@@ -1637,42 +2477,12 @@
    "tickers": []
   },
   {
-   "id": "c7c7900df874",
-   "title": "D.E. Shaw owns more than $1 billion stake in Sysco, sources say",
-   "link": "https://www.investing.com/news/stock-market-news/de-shaw-owns-more-than-1-billion-stake-in-sysco-sources-say-4870317",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-08-20T19:00:34+00:00",
-   "tickers": [
-    "SYY"
-   ]
-  },
-  {
-   "id": "86a22fef428d",
-   "title": "Lloyd Robertson, Unflappable Canadian Broadcaster, Dies at 92",
-   "link": "https://www.nytimes.com/2026/08/20/business/media/lloyd-robertson-dead.html",
-   "summary": "His 41 years as a national television news anchor surpassed the tenures of Walter Cronkite and Tom Brokaw.",
-   "article_text": "",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "nytimes.com",
-   "published": "2026-08-20T19:00:17+00:00",
-   "tickers": []
-  },
-  {
    "id": "d67ce74df1ad",
    "title": "Luis Abinader: Dominican Republic's 2025 Foreign Direct Investment Reaches Record US$5.03 Billion",
    "link": "https://www.prnewswire.com/news-releases/luis-abinader-dominican-republics-2025-foreign-direct-investment-reaches-record-us5-03-billion-302856778.html",
    "summary": "Preliminary Central Bank data show an 11.3% annual increase, with tourism and energy accounting for just over half of the total. SANTO DOMINGO, Dominican Republic, Aug. 20, 2026 /PRNewswire/ -- Foreign direct investment (FDI) reached US$5.0323 billion in 2025, according to preliminary...",
    "article_text": "",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -1813,20 +2623,6 @@
    ]
   },
   {
-   "id": "6bf16487e701",
-   "title": "Dow falls 600 points with stock losses increasing after a Treasury plan to tamp down yields fails: Live updates",
-   "link": "https://www.cnbc.com/2026/08/19/stock-market-today-live-updates.html",
-   "summary": "U.S. stocks fell on Thursday as Treasury yields reversed course from the decline seen in the prior trading day.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "negative",
-   "domain": "cnbc.com",
-   "published": "2026-08-20T18:57:51+00:00",
-   "tickers": []
-  },
-  {
    "id": "b5f31a17116e",
    "title": "Meritage Homes declares $0.48 quarterly dividend",
    "link": "https://www.investing.com/news/company-news/meritage-homes-declares-048-quarterly-dividend-93CH-4870320",
@@ -1956,7 +2752,7 @@
    "link": "https://www.prnewswire.com/news-releases/the-cd-rate-forecast-everyone-got-wrong-in-2026-302856775.html",
    "summary": "New data from CD Valet shows savers who \"waited too long\" didn't miss anything — and why bank funding needs, not just Fed moves, are keeping yields steady SEATTLE, Aug. 20, 2026 /PRNewswire/ -- At the start of 2026, the consensus was nearly unanimous: CD rates were heading down. Major...",
    "article_text": "",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "guidance",
    "sentiment": "neutral",
@@ -1992,25 +2788,6 @@
    "published": "2026-08-20T18:50:00+00:00",
    "tickers": [
     "MTH"
-   ]
-  },
-  {
-   "id": "23c71d8c46ac",
-   "title": "Stocks Slip as Soaring Crude Prices Push Bond Yields Higher",
-   "link": "https://www.nasdaq.com/articles/stocks-slip-soaring-crude-prices-push-bond-yields-higher",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) is down by -0.20% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down by -0.63%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down by -0.24%. E-mini S&P futures (ESU26 ) are down -0.24%, and September E-mini...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-08-20T18:50:00+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
    ]
   },
   {
@@ -2480,34 +3257,6 @@
    "sentiment": "positive",
    "domain": "nasdaq.com",
    "published": "2026-08-20T18:44:10+00:00",
-   "tickers": []
-  },
-  {
-   "id": "5ae0b79f4dd5",
-   "title": "Soybeans Holding onto Thursday Gains",
-   "link": "https://www.nasdaq.com/articles/soybeans-holding-thursday-gains",
-   "summary": "Soybeans are trading with fractional to 4 cent gains across most contracts Thursday. The cmdtyView national average Cash Bean price is up 1 1/4 cents at $11.99 1/4. Soymeal futures are back down 30 cents to $1.10, as Soy Oil is trading with 110 to 120 point gains. USDA reported...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-08-20T18:44:10+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6e484821be0a",
-   "title": "Wheat Slipping back to Mixed Action on Thursday",
-   "link": "https://www.nasdaq.com/articles/wheat-slipping-back-mixed-action-thursday",
-   "summary": "The wheat complex is showing mixed action across the three exchanges on Thursday. Chicago SRW contracts are steady to a penny higher at midday. KC HRW futures are slipping back 2 to 3 cents on the session. MPLS spring wheat is up 5 to 6 cents so far on the...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-08-20T18:44:09+00:00",
    "tickers": []
   },
   {
@@ -3032,22 +3781,6 @@
    "published": "2026-08-20T18:33:02+00:00",
    "tickers": [
     "NWSA"
-   ]
-  },
-  {
-   "id": "acd095f24854",
-   "title": "Sugar Prices Rally as India Cuts Sugar Import Duties",
-   "link": "https://www.nasdaq.com/articles/sugar-prices-rally-india-cuts-sugar-import-duties",
-   "summary": "October NY world sugar #11 (SBV26 ) is up +0.08 (+0.46%) today, and October London ICE white sugar #5 (SWV26 ) is up +12.90 (+2.38%). Sugar prices added to this week’s gains today, with NY sugar posting a 15-month high and London sugar posting a 17-month high. Prices fell from...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-08-20T18:33:02+00:00",
-   "tickers": [
-    "ICE"
    ]
   },
   {
@@ -3906,20 +4639,6 @@
    "tickers": []
   },
   {
-   "id": "2b25592c7349",
-   "title": "Oil prices rise 2% after Treasury Secretary says U.S. will collapse Iran with economic pressure",
-   "link": "https://www.cnbc.com/2026/08/20/oil-prices-brent-wti-hormuz-trump.html",
-   "summary": "Oil moved higher Thursday after U.S. President Donald Trump sharpened his rhetoric against Iran.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "cnbc.com",
-   "published": "2026-08-20T18:19:22+00:00",
-   "tickers": []
-  },
-  {
    "id": "200a83941009",
    "title": "Oil hits more than three-week high as Trump threatens Iran-related retaliation",
    "link": "https://www.investing.com/news/commodities-news/oil-prices-steady-as-investors-assess-usiran-war-outlook-4868535",
@@ -3963,22 +4682,6 @@
    "published": "2026-08-20T18:18:56+00:00",
    "tickers": [
     "MSFT"
-   ]
-  },
-  {
-   "id": "bac60eb21223",
-   "title": "The Outlook for a Smaller Ghana Cocoa Crop Supports Prices",
-   "link": "https://www.nasdaq.com/articles/outlook-smaller-ghana-cocoa-crop-supports-prices",
-   "summary": "September ICE NY cocoa (CCU26 ) is up +6 (+0.10) today, and September ICE London cocoa #7 (CAU26 ) is up +15 (+0.35%). Cocoa prices rallied to 2-week highs today on concern about a smaller cocoa crop from Ghana, the world’s second-largest cocoa producer. Ghana’s Cocoa Board said today that...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "guidance",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-08-20T18:18:41+00:00",
-   "tickers": [
-    "ICE"
    ]
   },
   {
@@ -5087,22 +5790,6 @@
    ]
   },
   {
-   "id": "5ad7b975a9e3",
-   "title": "Arabica Coffee Consolidating Below This Week’s 6.5-Month High",
-   "link": "https://www.nasdaq.com/articles/arabica-coffee-consolidating-below-weeks-65-month-high",
-   "summary": "September arabica coffee (KCU26 ) is up +1.50 (+0.42%) today, and September ICE robusta coffee (RMU26 ) is down -25 (-0.67%). Coffee prices are mixed today. Arabica coffee is consolidating below Tuesday’s 6.5-month high, and robusta is under pressure from rising inventories as ICE robusta inventories climbed to a 5.25-month...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-08-20T18:02:38+00:00",
-   "tickers": [
-    "ICE"
-   ]
-  },
-  {
    "id": "1b381f544b88",
    "title": "Alphabet: The $250 Billion Capex Offload Plan",
    "link": "https://seekingalpha.com/article/4938862-alphabet-the-250-billion-capex-offload-plan?source=feed_all_articles",
@@ -5663,6 +6350,22 @@
    "published": "2026-08-20T17:59:38+00:00",
    "tickers": [
     "MSFT"
+   ]
+  },
+  {
+   "id": "8cab72268c92",
+   "title": "A rare stumble at TJX has Wall Street spooked. We see a buying opportunity",
+   "link": "https://www.cnbc.com/2026/08/20/a-rare-stumble-at-tjx-has-wall-street-spooked-we-see-a-chance-to-buy.html",
+   "summary": "We trust the off-price retailer is already fixing its problems.",
+   "article_text": "A rare stumble at TJX has Wall Street spooked. We see a chance to buy Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Shares of TJX Companies are under pressure following a rare miss in the off-price retailer's largest business. The sell-off could create a buying opportunity. TJX stock is now down roughly 6% since the company reported after-hours results Wednesday. The main culprit: Comparable sales at its Marmaxx segment, which includes TJMaxx, Marshalls and Sierra retail chains, rose only 1% for the company's fiscal second quarter of 2027, well short of the 3% growth expected by analysts. Shares are now down 16% since their record high hit on June 13. CEO Ernie Herrman called the quarter's misstep \"self-inflicted and within our control\" during the post-earnings webcast Thursday. The issue, he said, came down to not having the \"right goods at the right stores at the right time.\" We appreciate the accountability and trust that TJX \"has the fix in place,\" said Club portfolio director Jeff Marks during Thursday's Morning Meeting. Herrman and team said they are already seeing improvement in August. \"If that continues through the quarter, it should be TJX getting back to its old ways,\" he said. Despite the softer performance in Marmaxx, there was a lot to like in TJX's report and what management had to say. Overall revenue increased 5.4% year over year to $15.18 billion, edging out the $15.17 billion consensus estimate, according to LSEG. Earni",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-08-20T17:59:28+00:00",
+   "tickers": [
+    "TJX"
    ]
   },
   {
@@ -6430,20 +7133,6 @@
    "tickers": [
     "KVYO"
    ]
-  },
-  {
-   "id": "16b5bc0b20f0",
-   "title": "U.S. bond yields are already surging again a day after Bessent’s debt-buyback plan",
-   "link": "https://www.marketwatch.com/story/treasury-rout-restarts-one-day-after-bessents-beefed-up-buyback-plan-972766a1?mod=mw_rss_topstories",
-   "summary": "Treasury Secretary Scott Bessent’s plan to calm markets is being short-circuited.",
-   "article_text": "",
-   "source": "MarketWatch",
-   "category": "markets",
-   "type": "dividend",
-   "sentiment": "positive",
-   "domain": "marketwatch.com",
-   "published": "2026-08-20T17:44:00+00:00",
-   "tickers": []
   },
   {
    "id": "9ecbdd5b25ab",
@@ -8207,700 +8896,6 @@
    "tickers": [
     "DIS"
    ]
-  },
-  {
-   "id": "1a7dd269284f",
-   "title": "US warns of active cyber threat targeting critical infrastructure",
-   "link": "https://biztoc.com/x/80b5633a970c8af8?ref=rss",
-   "summary": "Federal agencies are warning that hackers are actively targeting industrial control systems used across U.S. water plants, factories, energy facilities and other critical infrastructure. The NSA, FBI, Department of Energy, EPA and Cybersecurity and Infrastructure Security Agency said Wednesday…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-08-20T17:18:11+00:00",
-   "tickers": [
-    "NSA"
-   ]
-  },
-  {
-   "id": "b4676e3c9a02",
-   "title": "Bitcoin Price Spikes Above $72,000 On Treasury-Fueled Short Squeeze",
-   "link": "https://biztoc.com/x/f5efee8aab270a1c?ref=rss",
-   "summary": "The price of bitcoin early Thursday bolted to a two-month high above $72,000, driving crypto stocks higher. The Treasury Department's Wednesday announcement regarding long-term bond buybacks appeared to spark the rally, further fueled by a massive wave of short liquidations and the Trump…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-08-20T17:18:06+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d2c6cbd444ee",
-   "title": "Micron Plans $10 Billion Research Lab—Trump and Apple Love It",
-   "link": "https://biztoc.com/x/97f818dae815952a?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-08-20T17:18:05+00:00",
-   "tickers": [
-    "MU",
-    "AAPL"
-   ]
-  },
-  {
-   "id": "e5b86342b55f",
-   "title": "Kaiser Aluminum: Update For H2 2026 Justifies A Price Target Raise",
-   "link": "https://seekingalpha.com/article/4938843-kaiser-aluminum-update-for-h2-2026-justifies-a-price-target-raise?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-20T17:18:02+00:00",
-   "tickers": []
-  },
-  {
-   "id": "f0e14619fc1d",
-   "title": "A Rare U.S. Sales Miss for Walmart Is Concerning for the Economy. But It Could Also Prove to Be a &quot;Bad News Is Good News&quot; Event for the Fed.",
-   "link": "https://www.nasdaq.com/articles/rare-us-sales-miss-walmart-concerning-economy-it-could-also-prove-be-bad-news-good-news",
-   "summary": "Key PointsWalmart's U.S. comparable sales growth of 2.6% in its most recent quarter missed Wall Street consensus estimates.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-08-20T17:18:01+00:00",
-   "tickers": [
-    "WMT",
-    "NWSA"
-   ]
-  },
-  {
-   "id": "0800bcfc5d15",
-   "title": "Lazard International Equity Portfolio Q2 2026 Commentary",
-   "link": "https://seekingalpha.com/article/4938844-lazard-international-equity-portfolio-q2-2026-commentary?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-20T17:18:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "8e11871327a1",
-   "title": "CREMX Completes Latest Quarterly Repurchase Offer Following Three-Year Anniversary and Expanded Platform Access",
-   "link": "https://www.prnewswire.com/news-releases/cremx-completes-latest-quarterly-repurchase-offer-following-three-year-anniversary-and-expanded-platform-access-302856692.html",
-   "summary": "SCOTTSDALE, Ariz., Aug. 20, 2026 /PRNewswire/ -- Following CREMX's three-year anniversary in June and expanded availability through Envestnet UMA and SMArtX during the second quarter, Redwood Investment Management, LLC (\"Redwood\"), investment adviser to the Redwood Private Real Estate...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-08-20T17:18:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "dfd10634ab26",
-   "title": "Pathlock Recognized as an Overall Leader in the 2026 KuppingerCole Analysts Leadership Compass for Identity and Access Governance",
-   "link": "https://www.prnewswire.com/news-releases/pathlock-recognized-as-an-overall-leader-in-the-2026-kuppingercole-analysts-leadership-compass-for-identity-and-access-governance-302856691.html",
-   "summary": "The report highlights that \"high-risk access governance is one of Pathlock's stronger areas.\" DENVER, Aug. 20, 2026 /PRNewswire/ -- Pathlock, a global leader in Converged Identity Governance, ERP Cross-Application Security and GRC Controls Automation for the Agentic Era, today announced...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-08-20T17:18:00+00:00",
-   "tickers": [
-    "COMP"
-   ]
-  },
-  {
-   "id": "fe9e58657b3b",
-   "title": "ITC Makes Affirmative Final Determination in Landmark Trade Case on Hardwood and Decorative Plywood from China, Indonesia, and Vietnam, Wiley Reports",
-   "link": "https://www.prnewswire.com/news-releases/itc-makes-affirmative-final-determination-in-landmark-trade-case-on-hardwood-and-decorative-plywood-from-china-indonesia-and-vietnam-wiley-reports-302856693.html",
-   "summary": "WASHINGTON, Aug. 20, 2026 /PRNewswire/ -- In a victory for U.S. manufacturers of hardwood and decorative plywood (HDP), the U.S. International Trade Commission (ITC) made a unanimous affirmative final determination finding that the U.S. HDP industry has been materially injured by dumped...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-08-20T17:18:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "8427aa7607a0",
-   "title": "Homebuyers: You may be entitled to settlement cash. Here's the deadline",
-   "link": "https://biztoc.com/x/bb7401bdb82503c8?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-08-20T17:17:47+00:00",
-   "tickers": []
-  },
-  {
-   "id": "dbff99c7de6e",
-   "title": "Fresenius cuts stake in dialysis unit further with 7.8M share sale",
-   "link": "https://seekingalpha.com/news/4635579-fresenius-sell-78m-shares-dialysis-unit?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-20T17:17:43+00:00",
-   "tickers": []
-  },
-  {
-   "id": "2219ef758414",
-   "title": "High Point University Begins New Semester with Largest Total Enrollment in School History",
-   "link": "https://markets.businessinsider.com/news/stocks/high-point-university-begins-new-semester-with-largest-total-enrollment-in-school-history-1036479758",
-   "summary": "HIGH POINT, N.C., Aug. 20, 2026 (GLOBE NEWSWIRE) -- High Point University’s campus is buzzing with excitement after a record 6,561 students arrived for the new academic year.HPU’s new total enrollment is the largest in its 102-year history and...",
-   "article_text": "",
-   "source": "Markets Insider",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "markets.businessinsider.com",
-   "published": "2026-08-20T17:17:22+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ed1fe6b87256",
-   "title": "Nvidia looks well placed to benefit from the next stage of the AI boom",
-   "link": "https://www.ft.com/content/b388be2e-67bd-4056-abd2-234e17819a98?syn-25a6b1a6=1",
-   "summary": "The world’s biggest chip company is using its balance sheet to seed new markets and a new business model",
-   "article_text": "",
-   "source": "FT Companies",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "ft.com",
-   "published": "2026-08-20T17:17:16+00:00",
-   "tickers": []
-  },
-  {
-   "id": "f369a2853e54",
-   "title": "Bitcoin’s rally pushes past $72,000 as analysts see demand beyond historic short squeeze",
-   "link": "https://biztoc.com/x/5f0cd99e5829340f?ref=rss",
-   "summary": "Analysts say the move is supported by spot and ETF demand, though BTC will need to hold above $70k to show the rally can outlast the squeeze.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-08-20T17:17:06+00:00",
-   "tickers": [
-    "BTC"
-   ]
-  },
-  {
-   "id": "b80a237df53a",
-   "title": "Micaela Wall Voted 2026 Winston-Salem Journal Readers' Choice Favorite Real Estate Agent",
-   "link": "https://www.prnewswire.com/news-releases/micaela-wall-voted-2026-winston-salem-journal-readers-choice-favorite-real-estate-agent-302856689.html",
-   "summary": "Recognition marks Wall's second major public-vote honor in weeks, while The W Group earns Best Real Estate Company WINSTON-SALEM, N.C., Aug. 20, 2026 /PRNewswire/ -- Micaela Wall, broker and owner of The W Group Real Estate in Winston-Salem, North Carolina, has been voted 2026...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-08-20T17:17:00+00:00",
-   "tickers": [
-    "CHH"
-   ]
-  },
-  {
-   "id": "5f758c5678a4",
-   "title": "Century Communities Announces Grand Opening of New Home Phase at Uplands in Puyallup, Washington",
-   "link": "https://www.prnewswire.com/news-releases/century-communities-announces-grand-opening-of-new-home-phase-at-uplands-in-puyallup-washington-302856690.html",
-   "summary": "Following the sell-out of Phase I, Uplands Phase II introduces five new floor plans—starting from the upper $500s—in one of the South Sound's premier planned communities KEY TAKEAWAYS Grand Opening set for Saturday, August 22: Uplands Phase II will debut with an event featuring model home...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-08-20T17:17:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "939378ff31eb",
-   "title": "Eagles First-Round Pick Makai Lemon Returns to Practice",
-   "link": "https://biztoc.com/x/3ca45586bdd4f11f?ref=rss",
-   "summary": "The Philadelphia Eagles drafted wide receiver Makai Lemon, the 2025 Biletnikoff Award winner, with their No. 20 overall pick in the 2026 NFL Draft. Lemon missed most of minicamp and training camp so far with a hamstring injury. However, the former USC standout finally returned to the field for a…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-08-20T17:16:58+00:00",
-   "tickers": []
-  },
-  {
-   "id": "7a3aa835f211",
-   "title": "Nvidia said to ship new AI chip to China by 2026-end",
-   "link": "https://biztoc.com/x/c1d98bffe0a6468a?ref=rss",
-   "summary": "Nvidia Corporation has been working on new AI chips it tailored specifically for China and is now planning to ship them to the country in small batches by the end of 2026, the Information reported on ...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-08-20T17:16:56+00:00",
-   "tickers": []
-  },
-  {
-   "id": "8504d62043c6",
-   "title": "Mexico Turns to Unusual Tactic in Growing Fight Over ICE Deaths",
-   "link": "https://biztoc.com/x/05e15a689a1f98d7?ref=rss",
-   "summary": "The Mexican government said Wednesday that it was working with three United States counties to investigate the deaths of 17 of its citizens either in U.S. Immigration and Customs Enforcement (ICE) custody or during operations. Speaking alongside President Claudia Sheinbaum, Mexican Secretary of…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-08-20T17:16:56+00:00",
-   "tickers": [
-    "ICE"
-   ]
-  },
-  {
-   "id": "a029d5d392b5",
-   "title": "Tempus AI's biotech deal attracts investor attention",
-   "link": "https://biztoc.com/x/d22a0579726a8c67?ref=rss",
-   "summary": "A tiny biotech deal announced in July is suddenly attracting a lot of attention. Tempus AI agreed to acquire Personalis, a Merck-backed company which provides advanced genomic sequencing and analytics for cancer treatments, for $1.5 billion. It would have passed by without much notice, but…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-08-20T17:16:53+00:00",
-   "tickers": [
-    "TEM",
-    "MRK"
-   ]
-  },
-  {
-   "id": "237ba5b87f99",
-   "title": "Commanders Receive Tough Injury News on Rising Star Defender",
-   "link": "https://biztoc.com/x/b0c08b1f24ed9047?ref=rss",
-   "summary": "The Washington Commanders were dealt some unfortunate news on Thursday when head coach Dan Quinn confirmed that rising star defensive tackle Jer'Zhan Newton will miss a \"significant\" amount of time as he recovers from a torn pectoral muscle. The injury occurred early in the second quarter of the…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-08-20T17:16:49+00:00",
-   "tickers": [
-    "NWSA"
-   ]
-  },
-  {
-   "id": "ef7bc930fefa",
-   "title": "Clear Eyes eye drops recalled nationwide over contamination risk, FDA says",
-   "link": "https://biztoc.com/x/3a23929bc6b39d68?ref=rss",
-   "summary": "A New York-based consumer healthcare company is recalling nearly 40,000 bottles of eye drops over concerns about the product's sterility. Prestige Consumer Healthcare initiated the recall on July 29 due to \"lack of assurance of sterility,\" according to a U.S. Food and Drug Administration…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "fda",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-08-20T17:16:46+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6124dfdd9a6b",
-   "title": "Key Diet Factor Linked to Prevalence of One of Deadliest Cancers",
-   "link": "https://biztoc.com/x/cf17a2cd20f41f58?ref=rss",
-   "summary": "Women who consume diets higher in antioxidants may have a lower prevalence of cervical cancer, a new study has shown. The research, published in August 2026 in the International Journal of Gynecology & Obstetrics, examined the relationship between dietary antioxidants and cervical cancer among…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-08-20T17:16:45+00:00",
-   "tickers": []
-  },
-  {
-   "id": "0c8c9e162849",
-   "title": "Early Cerebras investor Adit Singh joins Mayfield as infrastructure partner",
-   "link": "https://biztoc.com/x/f532a4d3e6226290?ref=rss",
-   "summary": "Adit Singh was a partner at Foundation Capital when he helped source and co-lead the first funding round into then-obscure chip startup Cerebras. By the time Cerebras held its blockbuster IPO in May, Foundation Capital held a roughly 7% stake, making it the third-largest shareholder in the…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-08-20T17:16:44+00:00",
-   "tickers": []
-  },
-  {
-   "id": "f176ef4d820e",
-   "title": "US sells $8B in 30-year TIPS at 2.973% yield",
-   "link": "https://biztoc.com/x/7abb167f22e28828?ref=rss",
-   "summary": "The United States Department of the Treasury auctioned $8 billion in 29-year 6-month Treasury Inflation-Protected Securities (TIPS) at a high yield of 2.973%, according to official results published o...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-08-20T17:16:42+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d11559a8f0b6",
-   "title": "Walmart posts weakest sales growth in six years",
-   "link": "https://biztoc.com/x/7faf6fe1f3fd3a3c?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-08-20T17:16:41+00:00",
-   "tickers": [
-    "WMT"
-   ]
-  },
-  {
-   "id": "bb8a8d7a20f0",
-   "title": "FDA upgrades recall of frozen berries to highest-risk warning",
-   "link": "https://biztoc.com/x/c665a12e75d1f50d?ref=rss",
-   "summary": "The packaged fruits were shipped to Publix stores in eight states.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-08-20T17:16:40+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ed3d87e20bd1",
-   "title": "Private-Equity Firms Look for an Exit Three Years After Buying EverBank",
-   "link": "https://biztoc.com/x/ec6ef0f21ef931bc?ref=rss",
-   "summary": "The five owners of Florida-based EverBank clashed over its strategy after their 2023 purchase.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-08-20T17:16:36+00:00",
-   "tickers": []
-  },
-  {
-   "id": "f1ca9fb3aa82",
-   "title": "ESS Tech raises $3.2M in registered direct offering",
-   "link": "https://www.investing.com/news/company-news/ess-tech-raises-32m-in-registered-direct-offering-93CH-4870261",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-08-20T17:16:33+00:00",
-   "tickers": [
-    "ESS"
-   ]
-  },
-  {
-   "id": "3f68d83013db",
-   "title": "SpaceX Is Racking Up Wins in Washington",
-   "link": "https://biztoc.com/x/61a30125f378f1de?ref=rss",
-   "summary": "The Elon Musk-led rocket and AI company is landing lucrative contracts and benefiting from the Trump administration’s deregulatory push.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-08-20T17:16:31+00:00",
-   "tickers": [
-    "SPCX"
-   ]
-  },
-  {
-   "id": "8b93e2923886",
-   "title": "The $109,000 Medicare IRMAA Cliff Is Ambushing Retirees: Here Is the Exact Dollar Penalty for Crossing by $1",
-   "link": "https://biztoc.com/x/6c23c34f129ad77c?ref=rss",
-   "summary": "The post The $109,000 Medicare IRMAA Cliff Is Ambushing Retirees: Here Is the Exact Dollar Penalty for Crossing by $1 appeared first on 24/7 Wall St.. The $1 Threshold Miscalculation That Triggers Thousands in Medicare Penalties Passing a law to make the wealthiest Americans pay more for…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-08-20T17:16:29+00:00",
-   "tickers": []
-  },
-  {
-   "id": "7388a25b8e00",
-   "title": "Framework says it’s addressing a BIOS update that bricked some of its older laptops",
-   "link": "https://biztoc.com/x/ee867ba8ad8125c2?ref=rss",
-   "summary": "Some Framework Laptop 13 owners with last-gen AMD chips have reported that a recent BIOS update is bricking their laptops on both Windows and Linux. The BIOS update causing this issue is version 3.20 for Ryzen 7040-series mainboards, released back in July and still available on Framework’s site at…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-08-20T17:16:24+00:00",
-   "tickers": [
-    "AMD",
-    "MSFT"
-   ]
-  },
-  {
-   "id": "55f21d95bc81",
-   "title": "Voss Capital sells $1.9m in Flywire stock",
-   "link": "https://www.investing.com/news/insider-trading-news/voss-capital-sells-19m-in-flywire-stock-93CH-4870260",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-08-20T17:16:10+00:00",
-   "tickers": []
-  },
-  {
-   "id": "0df51dcf08d5",
-   "title": "Invesco cuts property fund fees 20% amid redemption backlog - Bloomberg",
-   "link": "https://www.investing.com/news/stock-market-news/invesco-cuts-property-fund-fees-20-amid-redemption-backlog--bloomberg-93CH-4870259",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-08-20T17:15:19+00:00",
-   "tickers": [
-    "IVZ"
-   ]
-  },
-  {
-   "id": "3f7ac2cc4d5c",
-   "title": "Children's Hospital Colorado Named Exclusive Children's Hospital Partner of Colorado Avalanche, Denver Nuggets and Colorado Mammoth",
-   "link": "https://www.prnewswire.com/news-releases/childrens-hospital-colorado-named-exclusive-childrens-hospital-partner-of-colorado-avalanche-denver-nuggets-and-colorado-mammoth-302855446.html",
-   "summary": "Multi-year partnership with Kroenke Sports & Entertainment begins with 2026-27 season AURORA, Colo., Aug. 20, 2026 /PRNewswire/ -- Children's Hospital Colorado (Children's Colorado) and Kroenke Sports & Entertainment (KSE) today announced a multi-year agreement that designates Children's...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-08-20T17:15:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "1613d4b6efaf",
-   "title": "K2view positioned as a Leader in the SPARK Matrix™: Data Masking, Tokenization, and Synthetic Data Solutions, 2026 by QKS Group",
-   "link": "https://www.prnewswire.com/news-releases/k2view-positioned-as-a-leader-in-the-spark-matrix-data-masking-tokenization-and-synthetic-data-solutions-2026-by-qks-group-302856688.html",
-   "summary": "The QKS Group SPARK Matrix™ provides competitive analysis & ranking of the leading Data Masking, Tokenization, and Synthetic Data Solutions vendors. K2view, with its comprehensive solution, has received strong ratings across technology excellence and customer impact. PUNE, India, Aug. 20,...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-08-20T17:14:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "90ddbc14444e",
-   "title": "The buzziest hedge fund launch this year is ex-Sequoia investor Jeff Wang's. Here's who it's hired and how much it's raised.",
-   "link": "https://www.businessinsider.com/former-sequoia-investor-jeff-wang-new-fund-augnition-global-2026-8",
-   "summary": "",
-   "article_text": "",
-   "source": "Markets Insider",
-   "category": "stocks",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "businessinsider.com",
-   "published": "2026-08-20T17:14:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "2b85770fe26c",
-   "title": "Denver Shared Bike and Scooter Ridership Tops 1.3 Million Trips in May and June, Up 12% Year Over Year",
-   "link": "https://markets.businessinsider.com/news/stocks/denver-shared-bike-and-scooter-ridership-tops-1-3-million-trips-in-may-and-june-up-12-year-over-year-1036479755",
-   "summary": "Denver, Colorado, Aug. 20, 2026 (GLOBE NEWSWIRE) -- <a...",
-   "article_text": "",
-   "source": "Markets Insider",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "markets.businessinsider.com",
-   "published": "2026-08-20T17:13:04+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e9a77df501b5",
-   "title": "New NCCI data analysis confirms Pinnacol Assurance has fastest, most accurate claims handling in Colorado",
-   "link": "https://www.prnewswire.com/news-releases/new-ncci-data-analysis-confirms-pinnacol-assurance-has-fastest-most-accurate-claims-handling-in-colorado-302856687.html",
-   "summary": "Pinnacol saves Colorado employers and workers time, money, and uncertainty; outperforms the workers' compensation industry across claim cost, speed, and accuracy DENVER, Aug. 20, 2026 /PRNewswire/ -- Pinnacol Assurance, Colorado's leading workers' compensation carrier, today announced the...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-08-20T17:13:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "25b6875a89cf",
-   "title": "21st Palermo-Montecarlo (18-23 August 2026)",
-   "link": "https://markets.businessinsider.com/news/stocks/21st-palermo-montecarlo-18-23-august-2026-1036479754",
-   "summary": "MONACO, Aug. 20, 2026 (GLOBE NEWSWIRE) -- Black Jack 100 crossed the finish line first to clinch their fourth victory in a row. Remon Vos’s Maxi 100, skippered by Tristan Le Brun, both Yacht Club de Monaco members, arrived in Monaco on Thursday...",
-   "article_text": "",
-   "source": "Markets Insider",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "markets.businessinsider.com",
-   "published": "2026-08-20T17:12:40+00:00",
-   "tickers": []
-  },
-  {
-   "id": "07545305f555",
-   "title": "Kismile Launches the AeroLucen™ Glass Air Fryer, Combining Faster Cooking with a See-Through Cooking Experience",
-   "link": "https://www.prnewswire.com/news-releases/kismile-launches-the-aerolucen-glass-air-fryer-combining-faster-cooking-with-a-see-through-cooking-experience-302853701.html",
-   "summary": "SHENZHEN, China, Aug. 20, 2026 /PRNewswire/ -- As consumers continue to seek faster and healthier meal preparation in fast-paced lives, Kismile, a trusted brand in small kitchen appliances, launches its innovative 5QT AeroLucen™ glass air fryer to help modern households create tasty...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "positive",
-   "domain": "prnewswire.com",
-   "published": "2026-08-20T17:12:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "7a246efbc7b1",
-   "title": "The Sugar Association: Sweetener transparency more relevant and needed than ever",
-   "link": "https://www.prnewswire.com/news-releases/the-sugar-association-sweetener-transparency-more-relevant-and-needed-than-ever-302856685.html",
-   "summary": "WASHINGTON, Aug. 20, 2026 /PRNewswire/ -- The Sugar Association today (Thursday) renewed its call for the U.S. Food and Drug Administration (FDA) to end decades of inaction and require transparent labeling of non-sugar sweeteners (\"sweeteners\"), in line with the Make America Healthy...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-08-20T17:12:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "2b548369bd18",
-   "title": "Stryker: The Sell-Off Creates A Better Entry Point, But Q2 Wasn't Perfect",
-   "link": "https://seekingalpha.com/article/4938842-stryker-the-sell-off-creates-a-better-entry-point-but-q2-wasnt-perfect?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-20T17:10:57+00:00",
-   "tickers": [
-    "SYK"
-   ]
-  },
-  {
-   "id": "6c660bb917ed",
-   "title": "Wheat Posts Wednesday Strength",
-   "link": "https://www.nasdaq.com/articles/wheat-posts-wednesday-strength",
-   "summary": "The wheat complex rallied across the three exchanges on the midweek session. Chicago SRW contracts was up 10 to 16 1/4 cents across most contracts. KC HRW futures were 12 ½ to 18 ½ cents higher on the session. MPLS spring wheat was 13 to 17 ¾ cents in the...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-08-20T17:10:53+00:00",
-   "tickers": []
-  },
-  {
-   "id": "487f8ea9164b",
-   "title": "ZEISS Helps Manufacturers Find Certainty at IMTS 2026",
-   "link": "https://www.prnewswire.com/news-releases/zeiss-helps-manufacturers-find-certainty-at-imts-2026-302856684.html",
-   "summary": "At booth #134302, visitors will see why Good Days Start with Certainty and how trusted measurement data helps manufacturers make decisions with confidence. MAPLE GROVE, Minn., Aug. 20, 2026 /PRNewswire/ -- ZEISS Industrial Quality Solutions will demonstrate at IMTS 2026 (September 14–19,...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-08-20T17:10:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "0f64109a1204",
-   "title": "SpaceX windfall leaves university endowments with concentration problem",
-   "link": "https://seekingalpha.com/news/4635564-spacex-windfall-leaves-university-endowments-with-concentration-problem?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-20T17:09:23+00:00",
-   "tickers": [
-    "SPCX"
-   ]
-  },
-  {
-   "id": "aeb45b84fd3b",
-   "title": "Harry Zhu named WSECU's next President &amp; CEO",
-   "link": "https://www.prnewswire.com/news-releases/harry-zhu-named-wsecus-next-president--ceo-302856682.html",
-   "summary": "OLYMPIA, Wash., Aug. 20, 2026 /PRNewswire/ -- Harry Zhu will be WSECU's next President & CEO, the credit union announced today. He will join the member-owned cooperative Sept. 21, 2026. Zhu succeeds Gary Swindler, who will retire next month after a 37-year career with the $5.1 billion...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-08-20T17:09:00+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8952,11 +8947,13 @@
   "AMAT": "Applied Materials",
   "LBRDK": "Liberty Broadband",
   "MU": "Micron Technology",
+  "TJX": "The TJX Companies",
   "ALK": "Alaska Air Group",
   "AXP": "American Express",
   "BMO": "Bank of Montreal",
   "COST": "Costco Wholesale",
   "JPM": "JPMorgan Chase &",
+  "SPXC": "SPX Technologies",
   "WM": "Waste Management",
   "ANET": "Arista Networks",
   "BAC": "Bank of America",
@@ -8974,12 +8971,14 @@
   "CB": "Chubb Limited",
   "JOBY": "Joby Aviation",
   "KO": "The Coca-Cola",
+  "LLY": "Eli Lilly and",
   "POST": "Post Holdings",
   "TLRY": "Tilray Brands",
   "MSTR": "MicroStrategy",
   "ADC": "Agree Realty",
   "ASML": "ASML Holding",
   "CSGP": "CoStar Group",
+  "DVLT": "Datavault AI",
   "R": "Ryder System",
   "SPY": "SPDR S&P 500",
   "UBS": "UBS Group AG",
@@ -9005,7 +9004,6 @@
   "OS": "OneStream",
   "SBUX": "Starbucks",
   "TE": "T1 Energy",
-  "TEM": "Tempus AI",
   "NWSA": "News Corp",
   "AVGO": "Broadcom",
   "AZO": "AutoZone",
@@ -9014,17 +9012,14 @@
   "WULF": "TeraWulf",
   "WWD": "Woodward",
   "BPOP": "Popular",
-  "COMP": "Compass",
   "CTVA": "Corteva",
   "CVX": "Chevron",
-  "IVZ": "Invesco",
   "KVYO": "Klaviyo",
   "MRK": "Merck &",
   "MRNA": "Moderna",
   "NDSN": "Nordson",
   "SCI": "Service",
   "SNDK": "Sandisk",
-  "SYK": "Stryker",
   "WMT": "Walmart",
   "BULL": "Webull",
   "INTU": "Intuit",
