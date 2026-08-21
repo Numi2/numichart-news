@@ -1,8 +1,248 @@
 {
- "generated": "2026-08-21T20:48:02.473135+00:00",
+ "generated": "2026-08-21T20:58:44.709940+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "0068d9b0feda",
+   "title": "Trump to allow import of 300,000 metric tons of ground beef without tariff",
+   "link": "https://www.cnbc.com/2026/08/21/trump-ground-beef-import-tariff.html",
+   "summary": "Beef prices in the U.S have soared in 2026 due to a reduction in the nation's cattle herd.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-08-21T20:56:19+00:00",
+   "tickers": []
+  },
+  {
+   "id": "44e1bc2da7dd",
+   "title": "Trump Announces Move to Lift Ground Beef Tariffs in Bid to Lower Prices",
+   "link": "https://www.nytimes.com/2026/08/21/business/economy/trump-beef-prices.html",
+   "summary": "The move prompted blowback from cattle ranchers and Republicans who represent them.",
+   "article_text": "",
+   "source": "NYT Economy",
+   "category": "macro",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "nytimes.com",
+   "published": "2026-08-21T20:49:35+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c637bc6564cf",
+   "title": "Soybeans Slipping on Friday, Ignoring Large Export Sale Announcements",
+   "link": "https://www.nasdaq.com/articles/soybeans-slipping-friday-ignoring-large-export-sale-announcements",
+   "summary": "Soybeans are trading with midday losses of 1 to 3 cents at Friday’s midday. September options expire today. The cmdtyView national average Cash Bean price is down 3/4 cent at $11.98 3/4. Soymeal futures are back up $1 to $1.20, as Soy Oil posted is down 217 to 220 points....",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-08-21T20:49:02+00:00",
+   "tickers": []
+  },
+  {
+   "id": "203197fad0fc",
+   "title": "Brazil Harvest Pressures Weigh on Coffee Prices",
+   "link": "https://www.nasdaq.com/articles/brazil-harvest-pressures-weigh-coffee-prices-1",
+   "summary": "December arabica coffee (KCZ26 ) closed down -6.65 (-2.02%) on Friday, and September ICE robusta coffee (RMU26 ) closed down -104 (-2.81%). Coffee prices settled sharply lower on Friday, with robusta falling to a 1-week low. Coffee is under pressure on expectations that drier weather in Brazil will speed up...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-08-21T20:49:02+00:00",
+   "tickers": [
+    "ICE"
+   ]
+  },
+  {
+   "id": "3fd30d0d34b8",
+   "title": "Wheat Facing Friday Pressure",
+   "link": "https://www.nasdaq.com/articles/wheat-facing-friday-pressure",
+   "summary": "The wheat complex is in the red across the three exchanges on Friday. Chicago SRW contracts are 4 to 6 cents lower so far on Friday. KC HRW futures are trading with contracts 7 to 9 cents in the red. MPLS spring wheat is down 5 to 7 cents at...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-08-21T20:49:02+00:00",
+   "tickers": []
+  },
+  {
+   "id": "386021c46caa",
+   "title": "Crude Oil Prices Rise as Middle East Hostilities Persist",
+   "link": "https://www.nasdaq.com/articles/crude-oil-prices-rise-middle-east-hostilities-persist",
+   "summary": "October WTI crude oil (CLV26 ) closed up +0.23 (+0.26%) on Friday, and October RBOB gasoline (RBV26 ) closed up +0.0377 (+1.25%). Crude oil and gasoline prices settled higher on Friday, with gasoline posting a 3.5-week high. Crude prices were supported on Friday by threats from President Trump to crush...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-08-21T20:49:02+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ac44560fcf24",
+   "title": "Hot US Weather Forecasts Push Nat-Gas Prices Higher",
+   "link": "https://www.nasdaq.com/articles/hot-us-weather-forecasts-push-nat-gas-prices-higher",
+   "summary": "September Nymex natural gas (NGU26 ) on Friday closed up +0.040 (+1.46%). Nat-gas prices settled higher on Friday as forecasts for hotter US weather could potentially boost nat-gas demand from electricity providers to power increased air conditioning use. The Commodity Weather Group said on Friday that forecasts shifted to hotter,...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-08-21T20:49:02+00:00",
+   "tickers": []
+  },
+  {
+   "id": "2e9b7c01741c",
+   "title": "Coffee Prices Slip on Brazil Harvest Pressures",
+   "link": "https://www.nasdaq.com/articles/coffee-prices-slip-brazil-harvest-pressures",
+   "summary": "December arabica coffee (KCZ26 ) is down -0.25 (-0.08%) today, and September ICE robusta coffee (RMU26 ) is down -86 (-2.32%). Coffee prices are falling today, with robusta sharply lower. Arabica coffee is under pressure on expectations for drier weather in Brazil to speed up the pace of the country’s...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-08-21T20:49:01+00:00",
+   "tickers": [
+    "ICE"
+   ]
+  },
+  {
+   "id": "1d175cac476a",
+   "title": "Stocks Climb as Crude Oil Stabilizes and Bitcoin Soars",
+   "link": "https://www.nasdaq.com/articles/stocks-climb-crude-oil-stabilizes-and-bitcoin-soars",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) is up by +0.37% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up by +0.67%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up by +0.10%. E-mini S&P futures (ESU26 ) are up +0.30%, and September E-mini...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-08-21T20:49:01+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
+  },
+  {
+   "id": "331c5be5c097",
+   "title": "Stocks Supported as Crude Oil Stabilizes",
+   "link": "https://www.nasdaq.com/articles/stocks-supported-crude-oil-stabilizes",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) is up by +0.38% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up by +0.69%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up by +0.09%. E-mini S&P futures (ESU26 ) are up +0.37%, and September E-mini...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-08-21T20:49:01+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
+  },
+  {
+   "id": "0f08f8c41df1",
+   "title": "Dollar Little Changed as Stocks Climb and Crude Oil Stabilizes",
+   "link": "https://www.nasdaq.com/articles/dollar-little-changed-stocks-climb-and-crude-oil-stabilizes",
+   "summary": "The dollar index (DXY00 ) is down by -0.03% today, holding just above Thursday’s 3.25-month low. Strength in stocks today has reduced demand for dollar liquidity. The dollar is still weighed down by negative carryover from Wednesday, when the US Treasury boosted liquidity and announced plans to increase buybacks of...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-08-21T20:49:01+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f187af7de1a8",
+   "title": "ProQR Therapeutics: Buy For Axiomer RNA Tech Validation And Other Catalysts",
+   "link": "https://seekingalpha.com/article/4939234-proqr-therapeutics-buy-for-axiomer-rna-tech-validation-and-other-catalysts?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-21T20:48:52+00:00",
+   "tickers": [
+    "RNA"
+   ]
+  },
+  {
+   "id": "c2e350fc6193",
+   "title": "Two Harbors gets final regulatory approval for CrossCountry deal",
+   "link": "https://seekingalpha.com/news/4636021-two-harbors-gets-final-regulatory-approval-for-crosscountry-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-21T20:48:21+00:00",
+   "tickers": []
+  },
+  {
+   "id": "dde15836f7dd",
+   "title": "CNO Financial: Operating Momentum Is Strong, But Valuation Looks Full",
+   "link": "https://seekingalpha.com/article/4939233-cno-financial-operating-momentum-is-strong-but-valuation-looks-full?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-21T20:48:03+00:00",
+   "tickers": []
+  },
+  {
+   "id": "265b6c79cee2",
+   "title": "Supreme Court allows Trump to continue White House ballroom construction for now",
+   "link": "https://www.cnbc.com/2026/08/21/supreme-court-trump-white-house-ballroom.html",
+   "summary": "President Donald Trump had the White House's East Wing demolished in 2025 to make way for his controversial planned ballroom.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-08-21T20:47:32+00:00",
+   "tickers": []
+  },
+  {
+   "id": "44d3e0279a53",
+   "title": "Columbus Circle Capital says Elroy Air wins up to $46M U.S. Army contract",
+   "link": "https://seekingalpha.com/news/4636022-columbus-circle-capital-says-elroy-air-wins-up-to-46m-u-s-army-contract?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-21T20:46:36+00:00",
+   "tickers": []
+  },
   {
    "id": "b6e99e304c24",
    "title": "8-K - James River Group Holdings, Inc. (0001620459) (Filer)",
@@ -293,6 +533,22 @@
    "domain": "seekingalpha.com",
    "published": "2026-08-21T20:38:02+00:00",
    "tickers": []
+  },
+  {
+   "id": "a5aae95ddf55",
+   "title": "Global Supply Concerns Support Sugar Prices",
+   "link": "https://www.nasdaq.com/articles/global-supply-concerns-support-sugar-prices",
+   "summary": "October NY world sugar #11 (SBV26 ) is up +0.18 (+1.03%) today, and October London ICE white sugar #5 (SWV26 ) is up +4.10 (+0.74%). Sugar prices are moving higher today but remain below Thursday’s significant highs. Concerns that the global sugar market will soon be in deficit are underpinning...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-08-21T20:38:01+00:00",
+   "tickers": [
+    "ICE"
+   ]
   },
   {
    "id": "18c9049a941f",
@@ -1069,7 +1325,7 @@
    "link": "https://www.prnewswire.com/news-releases/real-and-remax-holdings-announce-reals-receipt-of-court-approval-of-proposed-arrangement-in-connection-with-proposed-combination-302857519.html",
    "summary": "MIAMI and DENVER, Aug. 21, 2026 /PRNewswire/ -- The Real Brokerage Inc. (NASDAQ: REAX) (\"Real\") and RE/MAX Holdings, Inc. (NYSE: RMAX) (\"RE/MAX Holdings\") announced that the Supreme Court of British Columbia has granted the final order in connection with the previously announced...",
    "article_text": "",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "fda",
    "sentiment": "neutral",
@@ -1156,20 +1412,6 @@
    ]
   },
   {
-   "id": "c637bc6564cf",
-   "title": "Soybeans Slipping on Friday, Ignoring Large Export Sale Announcements",
-   "link": "https://www.nasdaq.com/articles/soybeans-slipping-friday-ignoring-large-export-sale-announcements",
-   "summary": "Soybeans are trading with midday losses of 1 to 3 cents at Friday’s midday. September options expire today. The cmdtyView national average Cash Bean price is down 3/4 cent at $11.98 3/4. Soymeal futures are back up $1 to $1.20, as Soy Oil posted is down 217 to 220 points....",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-08-21T20:28:43+00:00",
-   "tickers": []
-  },
-  {
    "id": "cb94a720f3ec",
    "title": "Cotton Trading Steady on Friday",
    "link": "https://www.nasdaq.com/articles/cotton-trading-steady-friday",
@@ -1184,47 +1426,17 @@
    "tickers": []
   },
   {
-   "id": "203197fad0fc",
-   "title": "Brazil Harvest Pressures Weigh on Coffee Prices",
-   "link": "https://www.nasdaq.com/articles/brazil-harvest-pressures-weigh-coffee-prices-1",
-   "summary": "December arabica coffee (KCZ26 ) closed down -6.65 (-2.02%) on Friday, and September ICE robusta coffee (RMU26 ) closed down -104 (-2.81%). Coffee prices settled sharply lower on Friday, with robusta falling to a 1-week low. Coffee is under pressure on expectations that drier weather in Brazil will speed up...",
+   "id": "a4a3729d0a6a",
+   "title": "Sugar Prices Consolidate Recent Rally",
+   "link": "https://www.nasdaq.com/articles/sugar-prices-consolidate-recent-rally",
+   "summary": "October NY world sugar #11 (SBV26 ) closed up +0.09 (+0.51%) on Friday, and October London ICE white sugar #5 (SWV26 ) closed down -0.60 (-0.11%). Sugar prices settled mixed on Friday, as prices consolidated recent sharp gains. Concerns that the global sugar market will soon be in deficit are...",
    "article_text": "",
    "source": "NASDAQ Stocks",
    "category": "stocks",
    "type": "stocks",
-   "sentiment": "neutral",
+   "sentiment": "positive",
    "domain": "nasdaq.com",
    "published": "2026-08-21T20:28:43+00:00",
-   "tickers": [
-    "ICE"
-   ]
-  },
-  {
-   "id": "3fd30d0d34b8",
-   "title": "Wheat Facing Friday Pressure",
-   "link": "https://www.nasdaq.com/articles/wheat-facing-friday-pressure",
-   "summary": "The wheat complex is in the red across the three exchanges on Friday. Chicago SRW contracts are 4 to 6 cents lower so far on Friday. KC HRW futures are trading with contracts 7 to 9 cents in the red. MPLS spring wheat is down 5 to 7 cents at...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-08-21T20:28:42+00:00",
-   "tickers": []
-  },
-  {
-   "id": "2e9b7c01741c",
-   "title": "Coffee Prices Slip on Brazil Harvest Pressures",
-   "link": "https://www.nasdaq.com/articles/coffee-prices-slip-brazil-harvest-pressures",
-   "summary": "December arabica coffee (KCZ26 ) is down -0.25 (-0.08%) today, and September ICE robusta coffee (RMU26 ) is down -86 (-2.32%). Coffee prices are falling today, with robusta sharply lower. Arabica coffee is under pressure on expectations for drier weather in Brazil to speed up the pace of the country’s...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-08-21T20:28:42+00:00",
    "tickers": [
     "ICE"
    ]
@@ -1244,25 +1456,6 @@
    "tickers": [
     "ICE",
     "MT"
-   ]
-  },
-  {
-   "id": "1d175cac476a",
-   "title": "Stocks Climb as Crude Oil Stabilizes and Bitcoin Soars",
-   "link": "https://www.nasdaq.com/articles/stocks-climb-crude-oil-stabilizes-and-bitcoin-soars",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) is up by +0.37% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up by +0.67%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up by +0.10%. E-mini S&P futures (ESU26 ) are up +0.30%, and September E-mini...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-08-21T20:28:42+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
    ]
   },
   {
@@ -1453,7 +1646,7 @@
    "link": "https://www.prnewswire.com/news-releases/lennar-announces-grand-opening-of-prentis-branch-in-scenic-and-historic-rome-georgia-302857549.html",
    "summary": "New Community Introduces Five Home Designs with Pricing in the Mid-$200,000s ROME, Ga., Aug. 21, 2026 /PRNewswire/ -- Lennar, one of the nation's leading homebuilders, today announced the Grand Opening of Prentis Branch, a new community of single-family homes in scenic and historic Rome,...",
    "article_text": "",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -1835,39 +2028,6 @@
    "sentiment": "neutral",
    "domain": "prnewswire.com",
    "published": "2026-08-21T20:20:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "331c5be5c097",
-   "title": "Stocks Supported as Crude Oil Stabilizes",
-   "link": "https://www.nasdaq.com/articles/stocks-supported-crude-oil-stabilizes",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) is up by +0.38% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up by +0.69%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up by +0.09%. E-mini S&P futures (ESU26 ) are up +0.37%, and September E-mini...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-08-21T20:19:33+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
-   ]
-  },
-  {
-   "id": "0f08f8c41df1",
-   "title": "Dollar Little Changed as Stocks Climb and Crude Oil Stabilizes",
-   "link": "https://www.nasdaq.com/articles/dollar-little-changed-stocks-climb-and-crude-oil-stabilizes",
-   "summary": "The dollar index (DXY00 ) is down by -0.03% today, holding just above Thursday’s 3.25-month low. Strength in stocks today has reduced demand for dollar liquidity. The dollar is still weighed down by negative carryover from Wednesday, when the US Treasury boosted liquidity and announced plans to increase buybacks of...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-08-21T20:19:33+00:00",
    "tickers": []
   },
   {
@@ -2630,22 +2790,6 @@
    "tickers": []
   },
   {
-   "id": "a5aae95ddf55",
-   "title": "Global Supply Concerns Support Sugar Prices",
-   "link": "https://www.nasdaq.com/articles/global-supply-concerns-support-sugar-prices",
-   "summary": "October NY world sugar #11 (SBV26 ) is up +0.18 (+1.03%) today, and October London ICE white sugar #5 (SWV26 ) is up +4.10 (+0.74%). Sugar prices are moving higher today but remain below Thursday’s significant highs. Concerns that the global sugar market will soon be in deficit are underpinning...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-08-21T20:10:00+00:00",
-   "tickers": [
-    "ICE"
-   ]
-  },
-  {
    "id": "78135945e7de",
    "title": "Advanced Micro Devices (AMD) Posts Record Sales, But Musk’s NVIDIA (NVDA) Pledge Sinks the Stock",
    "link": "https://biztoc.com/x/83f7416a20e76e70?ref=rss",
@@ -2812,20 +2956,6 @@
    "sentiment": "neutral",
    "domain": "sec.gov",
    "published": "2026-08-21T20:07:55+00:00",
-   "tickers": []
-  },
-  {
-   "id": "265b6c79cee2",
-   "title": "Supreme Court allows Trump to continue White House ballroom construction for now",
-   "link": "https://www.cnbc.com/2026/08/21/supreme-court-trump-white-house-ballroom.html",
-   "summary": "President Donald Trump had the White House's East Wing demolished in 2025 to make way for his controversial planned ballroom.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-08-21T20:07:43+00:00",
    "tickers": []
   },
   {
@@ -3427,7 +3557,7 @@
    "link": "https://www.prnewswire.com/news-releases/cincinnati-financial-corporation-declares-regular-quarterly-cash-dividend-302857526.html",
    "summary": "CINCINNATI, Aug. 21, 2026 /PRNewswire/ -- Cincinnati Financial Corporation (Nasdaq: CINF) announced that at today's regular meeting, the board of directors declared a 94 cents-per-share regular quarterly cash dividend. The dividend is payable October 15, 2026, to shareholders of record as...",
    "article_text": "",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "earnings",
    "sentiment": "neutral",
@@ -4063,7 +4193,7 @@
    "link": "https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-flow-cryptocurrency-investors-to-inquire-about-securities-class-action-investigation-302857484.html",
    "summary": "NEW YORK, Aug. 21, 2026 /PRNewswire/ -- Why: Rosen Law Firm, a global investor rights law firm, continues to investigate potential securities claims on behalf of investors in FLOW (FLOW-USD) cryptocurrency, resulting from allegations that Flow Foundation may have issued materially...",
    "article_text": "",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "legal",
    "sentiment": "negative",
@@ -8744,142 +8874,6 @@
     "GOOGL",
     "GOOG"
    ]
-  },
-  {
-   "id": "f0dda7eeaf73",
-   "title": "Marvell, Palantir among market cap stock movers on Friday",
-   "link": "https://www.investing.com/news/stock-market-news/marvell-palantir-among-market-cap-stock-movers-on-friday-93CH-4872016",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-08-21T18:06:35+00:00",
-   "tickers": [
-    "PLTR",
-    "MRVL"
-   ]
-  },
-  {
-   "id": "36bd00890abd",
-   "title": "Bitcoin Surges as Institutional Demand, Short Covering, Clarity Act Progress Converge",
-   "link": "https://biztoc.com/x/dfd3d050a1bbc0e9?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-08-21T18:06:05+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ad9fc68603f5",
-   "title": "Gay Republican Group Drops Advocacy for Transgender Rights",
-   "link": "https://biztoc.com/x/7cbd383c64d87aa6?ref=rss",
-   "summary": "Log Cabin Republicans, which aims to build a \"more inclusive\" GOP party, will no longer advocate for transgender rights and instead concentrate solely on issues of sexual orientation and conservative values. Ross Hemminger, president of the nation's largest organization for gay conservatives and…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-08-21T18:06:05+00:00",
-   "tickers": [
-    "ROST"
-   ]
-  },
-  {
-   "id": "76e24cf1b24a",
-   "title": "Republicans’ Chances of Flipping New Hampshire Senate Seat—Poll",
-   "link": "https://biztoc.com/x/db5739ce49576841?ref=rss",
-   "summary": "Republicans view the New Hampshire U.S. Senate race as one of their few pickup opportunities in this year's midterm elections, but a poll released this week showed Democratic Representative Chris Pappas with a lead over his two potential Republican rivals. Democratic Senator Jeanne Shaheen is…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-08-21T18:05:42+00:00",
-   "tickers": []
-  },
-  {
-   "id": "41a721ee16ac",
-   "title": "Dave Portnoy backs Pizza Hut rebrand as 'brilliant move' — then makes his pitch",
-   "link": "https://biztoc.com/x/f97fd4ab6a56de70?ref=rss",
-   "summary": "The \"One Bite\" pizza reviewer and Barstool Sports founder Dave Portnoy threw his support behind Yum! Brands' campaign to temporarily rebrand Pizza Hut, praising the pizza chain's strategic marketing move as \"brilliant\" while pitching company executives on directing advertising dollars toward…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-08-21T18:05:38+00:00",
-   "tickers": [
-    "YUM",
-    "DAVE"
-   ]
-  },
-  {
-   "id": "626362899912",
-   "title": "‘Justice for Lindsay Clancy’: Why Women Are Rushing to Her Defense",
-   "link": "https://biztoc.com/x/8811ea5664e06a55?ref=rss",
-   "summary": "Hundreds of women dressed in pink gathered outside a Massachusetts courthouse this week in a show of support for Lindsay Clancy, the former labor and delivery nurse accused of killing her three children. Wearing shirts bearing slogans including \"Believe,\" \"She Needed Help\" and \"Peace for Lindsay,\"…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-08-21T18:05:28+00:00",
-   "tickers": []
-  },
-  {
-   "id": "609b0253e4b1",
-   "title": "Brady Corporation Announces Earnings Conference Call",
-   "link": "https://www.globenewswire.com/news-release/2026/08/21/3349288/0/en/brady-corporation-announces-earnings-conference-call.html",
-   "summary": "MILWAUKEE, Aug. 21, 2026 (GLOBE NEWSWIRE) -- Brady Corporation (NYSE: BRC), will announce its fiscal 2026 fourth quarter financial results on Thursday, September 3, 2026.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-08-21T18:05:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "0a52b3cedf47",
-   "title": "3 Stocks Dan Loeb-Founded Third Point Was Buying Big in Q2",
-   "link": "https://biztoc.com/x/9d39760a679f802a?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-08-21T18:04:53+00:00",
-   "tickers": []
-  },
-  {
-   "id": "eebf4acf79ae",
-   "title": "Little-Known HOWL Stock Skyrockets 100% on Biotech Merger News",
-   "link": "https://biztoc.com/x/d3b02ef42b8f8e82?ref=rss",
-   "summary": "Werewolf Therapeutics (HOWL) shares more than doubled on Friday morning as investors reacted to the company’s definitive agreement to merge with privately held Ambros Therapeutics. Once the transaction is completed, HOWL shareholders will retain about 6.8% ownership of the joint company, its…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-08-21T18:04:30+00:00",
-   "tickers": [
-    "NWSA"
-   ]
   }
  ],
  "ticker_names": {
@@ -8906,12 +8900,12 @@
   "VRTX": "Vertex Pharmaceuticals",
   "VZ": "Verizon Communications",
   "WBD": "Warner Bros. Discovery",
-  "PLTR": "Palantir Technologies",
   "PNW": "Pinnacle West Capital",
   "CINF": "Cincinnati Financial",
   "CRWD": "CrowdStrike Holdings",
   "SMCI": "Super Micro Computer",
   "ANF": "Abercrombie & Fitch",
+  "RNA": "Avidity Biosciences",
   "ACGL": "Arch Capital Group",
   "BEN": "Franklin Resources",
   "CRK": "Comstock Resources",
@@ -8959,8 +8953,6 @@
   "NVDA": "Grace Hopper",
   "ARM": "Arm Holdings",
   "NU": "Nu Holdings",
-  "ROST": "Ross Stores",
-  "YUM": "Yum! Brands",
   "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
   "TGT": "Target Corp",
