@@ -1,8 +1,55 @@
 {
- "generated": "2026-08-22T23:45:55.096737+00:00",
+ "generated": "2026-08-22T23:55:37.199917+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "048015fe3839",
+   "title": "Cotton Closes Steady on Friday",
+   "link": "https://www.nasdaq.com/articles/cotton-closes-steady-friday",
+   "summary": "Cotton futures were up 1 to 7 points in the front months on Friday, with contracts down 8 points to 20 points higher. December was up 355 points on the week. Crude oil was down 19 cents with the US dollar index $0.063 lower. Commitment of Traders data showed managed...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-08-22T23:45:46+00:00",
+   "tickers": []
+  },
+  {
+   "id": "2bba267f2570",
+   "title": "Corn Rallies into Friday’s Close Following Week of Weaker Tour Yields",
+   "link": "https://www.nasdaq.com/articles/corn-rallies-fridays-close-following-week-weaker-tour-yields",
+   "summary": "Corn futures found late strength on Friday with contracts 2 ¾ to 6 ½ cents higher across the board. September was 24 ¾ cents higher on the week, with December rallying 25 ¼ cents. September options expired today. The CmdtyView national average Cash Corn price was up 5 cents at...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-08-22T23:45:46+00:00",
+   "tickers": []
+  },
+  {
+   "id": "3ffa8f371454",
+   "title": "Stocks Settle Higher as Crude Oil Prices Stabilize",
+   "link": "https://www.nasdaq.com/articles/stocks-settle-higher-crude-oil-prices-stabilize",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed up by +0.43% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up by +0.98%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up by +0.33%. E-mini S&P futures (ESU26 ) rose +0.37%, and September E-mini...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-08-22T23:45:45+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
+  },
   {
    "id": "0f052875d71b",
    "title": "91-year-old supermarket chain closes stores, lays off employees",
@@ -819,25 +866,6 @@
    "domain": "biztoc.com",
    "published": "2026-08-22T22:27:58+00:00",
    "tickers": []
-  },
-  {
-   "id": "3ffa8f371454",
-   "title": "Stocks Settle Higher as Crude Oil Prices Stabilize",
-   "link": "https://www.nasdaq.com/articles/stocks-settle-higher-crude-oil-prices-stabilize",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed up by +0.43% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up by +0.98%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up by +0.33%. E-mini S&P futures (ESU26 ) rose +0.37%, and September E-mini...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-08-22T22:25:52+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
-   ]
   },
   {
    "id": "32b3222441fc",
@@ -8852,36 +8880,6 @@
    "domain": "biztoc.com",
    "published": "2026-08-22T14:05:59+00:00",
    "tickers": []
-  },
-  {
-   "id": "b0637f370a69",
-   "title": "Tokenized stocks risk repeating Wall Street’s 1960s ‘paper crisis,’ Fairmint CEO says",
-   "link": "https://biztoc.com/x/f1f98d1c794af062?ref=rss",
-   "summary": "We're verifying your browser We're verifying your browser",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-08-22T14:05:49+00:00",
-   "tickers": []
-  },
-  {
-   "id": "f7840141b1c4",
-   "title": "This Stock Is Quietly Becoming an AI Powerhouse in 2026",
-   "link": "https://biztoc.com/x/296fd56b16f8fe39?ref=rss",
-   "summary": "The post This Stock Is Quietly Becoming an AI Powerhouse in 2026 appeared first on 24/7 Wall St.. Cisco Systems (NASDAQ:CSCO) has quietly become one of the most compelling AI infrastructure stories on the Dow. After booking $9.30 billion in AI infrastructure orders for FY2026 and guiding to $7.50…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-08-22T14:05:43+00:00",
-   "tickers": [
-    "CSCO"
-   ]
   }
  ],
  "ticker_names": {
@@ -8939,7 +8937,6 @@
   "HD": "The Home Depot",
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
-  "CSCO": "Cisco Systems",
   "KO": "The Coca-Cola",
   "LLY": "Eli Lilly and",
   "MT": "ArcelorMittal",
