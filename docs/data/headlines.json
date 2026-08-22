@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-22T16:41:59.328641+00:00",
+ "generated": "2026-08-22T16:52:54.205669+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -275,6 +275,36 @@
    "tickers": []
   },
   {
+   "id": "291e33be93e1",
+   "title": "Dr. Gary Lawton Defines Standards for Choosing a Breast Augmentation Surgeon in San Antonio",
+   "link": "https://www.prnewswire.com/news-releases/dr-gary-lawton-defines-standards-for-choosing-a-breast-augmentation-surgeon-in-san-antonio-302857725.html",
+   "summary": "Yale-trained, board-certified plastic surgeon explains how independent experience, breast-surgery specialization, revision capability, operative safety and documented results should guide surgeon selection SAN ANTONIO, Aug. 22, 2026 /PRNewswire/ -- Patients searching for the best breast...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-08-22T16:33:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "fb6a9d7ebffb",
+   "title": "PNR Investors Have Opportunity to Lead Pentair plc Securities Fraud Lawsuit",
+   "link": "https://www.prnewswire.com/news-releases/pnr-investors-have-opportunity-to-lead-pentair-plc-securities-fraud-lawsuit-302854974.html",
+   "summary": "NEW YORK, Aug. 22, 2026 /PRNewswire/ -- Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities of Pentair plc (NYSE: PNR) between April 28, 2026 and July 14, 2026, inclusive (the \"Class Period\"), of the important October 2, 2026 lead plaintiff deadline. So...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "prnewswire.com",
+   "published": "2026-08-22T16:32:00+00:00",
+   "tickers": [
+    "PNR"
+   ]
+  },
+  {
    "id": "d3a0f4583d88",
    "title": "Bloomberg This Weekend | Trade War Escalates, Pushback on Beef Plan, Bond Market Intervention",
    "link": "https://biztoc.com/x/d1308c01561d8eea?ref=rss",
@@ -477,6 +507,20 @@
    "sentiment": "positive",
    "domain": "biztoc.com",
    "published": "2026-08-22T16:22:21+00:00",
+   "tickers": []
+  },
+  {
+   "id": "8a7924a11446",
+   "title": "The S&P 500 Is Near an All-Time High. Here's What History Says Investors Should Do.",
+   "link": "https://www.nasdaq.com/articles/sp-500-near-all-time-high-heres-what-history-says-investors-should-do",
+   "summary": "Key PointsThe S&P 500 continues to set new all-time highs this year.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-08-22T16:16:00+00:00",
    "tickers": []
   },
   {
@@ -8824,50 +8868,6 @@
    "tickers": [
     "META"
    ]
-  },
-  {
-   "id": "39d7b03ce001",
-   "title": "Iran says the world has accepted it has defeated the US, and other Middle East developments",
-   "link": "https://biztoc.com/x/e729de7bd3a25d19?ref=rss",
-   "summary": "Iran's president says the world has accepted that it's won the war with the United States and remarks by the U.S. Ambassador to Turkey and special envoy for Syria appear to contradict official U.S. position over the Golan Heights. Here's a look at the latest developments in the Iran war and the…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-08-22T09:48:42+00:00",
-   "tickers": []
-  },
-  {
-   "id": "8ebd435adddf",
-   "title": "Boeing Engineers, Technical Workers Reject Four-Year Contract Offer",
-   "link": "https://biztoc.com/x/4b845fa2d8eb7221?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-08-22T09:47:47+00:00",
-   "tickers": [
-    "BA"
-   ]
-  },
-  {
-   "id": "edcf88dd32d1",
-   "title": "Ukrainian strike kills two in Luhansk",
-   "link": "https://biztoc.com/x/a131dc7ad6fea817?ref=rss",
-   "summary": "Two people were killed in a Ukrainian strike on the disputed Luhansk People's Republic, the head of government Leonid Pasechnik confirmed on Saturday.The victims are a mother and her 16-year-old son. ...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-08-22T09:47:45+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8986,6 +8986,7 @@
   "MRK": "Merck &",
   "MRNA": "Moderna",
   "PII": "Polaris",
+  "PNR": "Pentair",
   "SCI": "Service",
   "SNDK": "Sandisk",
   "WMT": "Walmart",
