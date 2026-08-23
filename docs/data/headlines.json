@@ -1,8 +1,24 @@
 {
- "generated": "2026-08-23T08:46:20.889955+00:00",
+ "generated": "2026-08-23T08:59:35.093523+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "70d9ab0bb05b",
+   "title": "Brookfield Corporation: Buybacks, Corporate Simplification, And Record AUM (Rating Downgrade)",
+   "link": "https://seekingalpha.com/article/4939402-brookfield-corporation-buybacks-corporate-simplification-and-record-aum?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-23T08:41:47+00:00",
+   "tickers": [
+    "BN"
+   ]
+  },
   {
    "id": "89fa357426ff",
    "title": "Zelensky: Elections 'tsunami' that could split Ukraine",
@@ -8882,22 +8898,6 @@
    "tickers": [
     "QUBT"
    ]
-  },
-  {
-   "id": "11451c18bfe0",
-   "title": "Energy Fuels: The Largest Combined Uranium And Rare Earth Company In North America",
-   "link": "https://seekingalpha.com/article/4939368-energy-fuels-largest-combined-uranium-rare-earth-company-in-north-america?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-22T17:49:48+00:00",
-   "tickers": [
-    "UUUU"
-   ]
   }
  ],
  "ticker_names": {
@@ -8970,7 +8970,6 @@
   "CYTK": "Cytokinetics",
   "SPY": "SPDR S&P 500",
   "UAA": "Under Armour",
-  "UUUU": "Energy Fuels",
   "GOOGL": "Google Cloud",
   "TSLA": "Supercharger",
   "NVDA": "Grace Hopper",
@@ -8981,6 +8980,7 @@
   "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
   "TGT": "Target Corp",
+  "BN": "Brookfield",
   "CLX": "The Clorox",
   "GEV": "GE Vernova",
   "MA": "Mastercard",
