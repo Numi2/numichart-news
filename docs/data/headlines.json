@@ -1,8 +1,22 @@
 {
- "generated": "2026-08-29T07:29:14.729620+00:00",
+ "generated": "2026-08-29T07:37:24.511827+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "43028ae0e999",
+   "title": "MaxLinear: Strong Fundamentals, Limited Upside, And One Major Legal Risk (Rating Downgrade)",
+   "link": "https://seekingalpha.com/article/4941436-maxlinear-strong-fundamentals-limited-upside-and-one-major-legal-risk-rating-downgrade?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-29T07:32:32+00:00",
+   "tickers": []
+  },
   {
    "id": "5c592e8ee2f7",
    "title": "Braemar Hotels & Resorts: The Ashford Exit Can Unlock A Mispriced Luxury Portfolio",
@@ -29,6 +43,20 @@
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
    "published": "2026-08-29T07:25:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "06adb8a123c1",
+   "title": "The S&P 500 Is Flashing a Warning Signal Not Seen in Decades. Here's What History Says Comes Next.",
+   "link": "https://www.nasdaq.com/articles/sp-500-flashing-warning-signal-not-seen-decades-heres-what-history-says-comes-next",
+   "summary": "Key PointsMajor indexes have been reaching record highs, but a bear market is coming eventually.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-08-29T07:20:00+00:00",
    "tickers": []
   },
   {
@@ -8789,39 +8817,6 @@
    "domain": "biztoc.com",
    "published": "2026-08-28T21:43:17+00:00",
    "tickers": []
-  },
-  {
-   "id": "a1bfe8d959a9",
-   "title": "Grok Not Only Generates Child Porn but Was Also Trained On It, New Lawsuit Claims",
-   "link": "https://biztoc.com/x/e6def0e9cbdd82ab?ref=rss",
-   "summary": "Elon Musk’s nonconsensual sexual deepfake generator Grok is in more legal trouble. Musk-owned xAI’s Grok was trained on child sexual abuse material (CSAM), a new complaint filed earlier this week claims. The chatbot has taken significant heat over the last couple of months after Musk personally…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-08-28T21:43:07+00:00",
-   "tickers": []
-  },
-  {
-   "id": "06247cefb1ab",
-   "title": "Marvell, Nvidia, PayPal, Workday, Iren, Elastic, Pasqal, Affirm, and More Stocks That Explain Today’s Market",
-   "link": "https://biztoc.com/x/5b049e00837e9919?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-08-28T21:43:06+00:00",
-   "tickers": [
-    "ESTC",
-    "MRVL",
-    "WDAY",
-    "AFRM"
-   ]
   }
  ],
  "ticker_names": {
@@ -8881,7 +8876,6 @@
   "FCX": "Freeport-McMoRan",
   "JPM": "JPMorgan Chase &",
   "PTCT": "PTC Therapeutics",
-  "AFRM": "Affirm Holdings",
   "BAC": "Bank of America",
   "CHYM": "Chime Financial",
   "COIN": "Coinbase Global",
