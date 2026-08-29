@@ -1,8 +1,22 @@
 {
- "generated": "2026-08-29T19:11:39.216234+00:00",
+ "generated": "2026-08-29T19:19:05.228518+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "c7084622a62e",
+   "title": "40,000 Pounds of Pabst Blue Ribbon Beer Reported Stolen in California",
+   "link": "https://www.nytimes.com/2026/08/29/business/pabst-beer-truck-stolen-california.html",
+   "summary": "The company responded to the theft by setting a deadline for the return of the product. “P.S., this is real and we are deadly serious,” it said on social media.",
+   "article_text": "",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-08-29T19:15:31+00:00",
+   "tickers": []
+  },
   {
    "id": "23c5540cd599",
    "title": "OpenAI to end model access to Cursor after acquisition by Elon Musk's SpaceX",
@@ -890,20 +904,6 @@
    "tickers": [
     "NVDA"
    ]
-  },
-  {
-   "id": "c7084622a62e",
-   "title": "40,000 Pounds of Pabst Blue Ribbon Beer Are Stolen in California",
-   "link": "https://www.nytimes.com/2026/08/29/business/pabst-beer-truck-stolen-california.html",
-   "summary": "The company responded to the theft by setting a deadline for the return of the product. “P.S., this is real and we are deadly serious,” it said on social media.",
-   "article_text": "",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "nytimes.com",
-   "published": "2026-08-29T18:18:39+00:00",
-   "tickers": []
   },
   {
    "id": "176966efe9ec",
@@ -3843,7 +3843,7 @@
    "link": "https://www.prnewswire.com/news-releases/in-hellonation-tax-expert-sal-julian-details-which-itemized-deductions-high-income-individuals-lose-without-knowing-it-302792392.html",
    "summary": "Many High-Income Filers Miss Deductions Not Because They Are Unaware They Exist, but Because of Timing, Limits, and Poor Coordination. ENDICOTT, N.Y., Aug. 29, 2026 /PRNewswire/ -- What are the most common reasons high-income individuals leave deductions on the table each year, and what...",
    "article_text": "",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
