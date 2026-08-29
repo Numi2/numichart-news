@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-29T22:33:52.262300+00:00",
+ "generated": "2026-08-29T22:40:47.777191+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -168,20 +168,6 @@
    "tickers": []
   },
   {
-   "id": "69a7a8d7ca63",
-   "title": "Cotton Facing Friday Weakness",
-   "link": "https://www.nasdaq.com/articles/cotton-facing-friday-weakness",
-   "summary": "Cotton futures are falling back at the end of the week, with contracts down 100 to 111 points across the front months at midday. Crude oil is up 4 cents per barrel, with the US dollar index $0.533 higher. Export Sales has the 2026/27 cotton export commitment level at 4.332...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-08-29T22:25:24+00:00",
-   "tickers": []
-  },
-  {
    "id": "e86183a2a3b7",
    "title": "Treasury Bars Some Reporters From G20 Finance Meeting",
    "link": "https://www.nytimes.com/2026/08/29/business/reporters-denied-g20-meeting.html",
@@ -195,39 +181,6 @@
    "published": "2026-08-29T22:22:31+00:00",
    "tickers": [
     "NYT"
-   ]
-  },
-  {
-   "id": "4f91f9809b0e",
-   "title": "Wheat Rallying into the Weekend",
-   "link": "https://www.nasdaq.com/articles/wheat-rallying-weekend",
-   "summary": "The wheat complex is trading with the three exchanges extending gains on Friday. Chicago SRW contracts are showing 22 to 23 cent gains so far on Friday. KC HRW futures are showing 25 to 26 cent gains on the day. MPLS spring wheat is in rally mode, up 13 to...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-08-29T22:19:03+00:00",
-   "tickers": []
-  },
-  {
-   "id": "fae092a16533",
-   "title": "Stocks Fall as Hawkish Warsh Boosts Fed Rate Hike Chances",
-   "link": "https://www.nasdaq.com/articles/stocks-fall-hawkish-warsh-boosts-fed-rate-hike-chances",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down by -0.25% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down by -0.02%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down by -0.70%. E-mini S&P futures (ESU26 ) fell -0.25%, and September E-mini...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-08-29T22:19:03+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
    ]
   },
   {
@@ -544,6 +497,20 @@
    "tickers": []
   },
   {
+   "id": "69a7a8d7ca63",
+   "title": "Cotton Facing Friday Weakness",
+   "link": "https://www.nasdaq.com/articles/cotton-facing-friday-weakness",
+   "summary": "Cotton futures are falling back at the end of the week, with contracts down 100 to 111 points across the front months at midday. Crude oil is up 4 cents per barrel, with the US dollar index $0.533 higher. Export Sales has the 2026/27 cotton export commitment level at 4.332...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-08-29T21:56:09+00:00",
+   "tickers": []
+  },
+  {
    "id": "106a81d6861d",
    "title": "Everything you need to know before Seattle area bus routes change Saturday",
    "link": "https://biztoc.com/x/bb9d33c3e2e2ae7f?ref=rss",
@@ -774,6 +741,20 @@
    "sentiment": "neutral",
    "domain": "biztoc.com",
    "published": "2026-08-29T21:40:50+00:00",
+   "tickers": []
+  },
+  {
+   "id": "4f91f9809b0e",
+   "title": "Wheat Rallying into the Weekend",
+   "link": "https://www.nasdaq.com/articles/wheat-rallying-weekend",
+   "summary": "The wheat complex is trading with the three exchanges extending gains on Friday. Chicago SRW contracts are showing 22 to 23 cent gains so far on Friday. KC HRW futures are showing 25 to 26 cent gains on the day. MPLS spring wheat is in rally mode, up 13 to...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-08-29T21:38:54+00:00",
    "tickers": []
   },
   {
@@ -2276,6 +2257,25 @@
    "domain": "biztoc.com",
    "published": "2026-08-29T19:39:27+00:00",
    "tickers": []
+  },
+  {
+   "id": "fae092a16533",
+   "title": "Stocks Fall as Hawkish Warsh Boosts Fed Rate Hike Chances",
+   "link": "https://www.nasdaq.com/articles/stocks-fall-hawkish-warsh-boosts-fed-rate-hike-chances",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down by -0.25% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down by -0.02%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down by -0.70%. E-mini S&P futures (ESU26 ) fell -0.25%, and September E-mini...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-08-29T19:34:43+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
   },
   {
    "id": "321d3526036b",
@@ -3845,6 +3845,22 @@
    ]
   },
   {
+   "id": "fa6542aabea5",
+   "title": "시리아, 마스터카드와 QNB 그룹 통해 15년여 만에 첫 국제 카드 결제 처리",
+   "link": "https://www.prnewswire.com/news-releases/uC2DCuB9ACuC544u002Cu002DuB9C8uC2A4uD130uCE74uB4DCuC640u002Du0071u006Eu0062u002DuADF8uB8F9u002DuD1B5uD574u002Du0031u0035uB144uC5ECu002DuB9CC-302864322.html",
+   "summary": "이번 결제는 시리아 결제 생태계가 마스터카드 글로벌 네트워크에 재연결된 이후 이뤄져 첫 결제 완료로 시리아에서 국제 카드 결제 수용의 길 열려 다마스쿠스, 시리아, 2026년 8월 30일 /PRNewswire/ -- 마스터카드(Mastercard)와 QNB 그룹(QNB Group)이 시리아에서 15년여 만에 처음으로 국제 카드 결제를 처리하며 시리아 결제 생태계 현대화에 중요한 이정표를 세웠다. 시리아 결제 생태계가 마스터카드의 글로벌 네트워크에 기술적으로 재연결됨에 따라, QNB 시리아(QNB Syria)는...",
+   "article_text": "",
+   "source": "PR Newswire Fin",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-08-29T17:45:00+00:00",
+   "tickers": [
+    "MA"
+   ]
+  },
+  {
    "id": "7e7a74d89b10",
    "title": "NYC youth programs connect students with career pathways",
    "link": "https://biztoc.com/x/a8cd3ec2e5a6fdd8?ref=rss",
@@ -4948,6 +4964,22 @@
    "tickers": []
   },
   {
+   "id": "03e9de9761da",
+   "title": "Mastercard 與 QNB Group 完成敘利亞逾 15 年來首宗國際卡交易",
+   "link": "https://www.prnewswire.com/news-releases/mastercard--qnb-group--15--302864314.html",
+   "summary": "敘利亞支付生態系統重新接入 Mastercard 全球網絡後完成首宗交易 首次付款為敘利亞日後接受國際卡付款奠定基礎 敘利亞大馬士革2026年8月30日 /美通社/ -- Mastercard 與 QNB Group 成功完成敘利亞逾 15 年來首宗國際卡付款交易，為該國支付生態系統邁向現代化寫下重要里程碑。 敘利亞支付生態系統在技術上重新接入 Mastercard 全球網絡後，QNB Syria 於一間已獲認可的合資格本地商戶，以一張在海外發出的 Mastercard 卡完成首宗銷售點（POS）交易。...",
+   "article_text": "",
+   "source": "PR Newswire Fin",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-08-29T16:41:00+00:00",
+   "tickers": [
+    "MA"
+   ]
+  },
+  {
    "id": "f337aa7873c2",
    "title": "What we know about Trump's deal giving US access to vast oil reserves in Venezuela",
    "link": "https://biztoc.com/x/00d5f3fb78d5d6f8?ref=rss",
@@ -5432,6 +5464,22 @@
    "published": "2026-08-29T16:17:00+00:00",
    "tickers": [
     "GDX"
+   ]
+  },
+  {
+   "id": "e2c9e97136e7",
+   "title": "Mastercard 与 QNB Group 完成叙利亚逾 15 年来首笔国际银行卡交易",
+   "link": "https://www.prnewswire.com/news-releases/mastercard-yu-qnb-group-wan-cheng-xu-li-ya-yu-15-nian-lai-shou-bi-guo-ji-yin-xing-qia-jiao-yi--865459526.html",
+   "summary": "此次交易是在叙利亚支付生态系统重新接入 Mastercard 全球网络后完成的 首笔付款为叙利亚受理国际银行卡奠定基础 叙利亚大马士革2026年8月30日 /美通社/ -- Mastercard 与 QNB Group 成功完成叙利亚逾 15 年来首笔国际银行卡支付，标志着该国支付生态系统现代化建设取得重要进展。 在叙利亚支付生态系统与 Mastercard 全球网络完成技术对接后，QNB Syria 使用一张境外发行的 Mastercard 卡，在一家获批的合格本地商户完成了首笔销售点（POS）交易。...",
+   "article_text": "",
+   "source": "PR Newswire Fin",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-08-29T16:16:00+00:00",
+   "tickers": [
+    "MA"
    ]
   },
   {
@@ -8835,50 +8883,6 @@
    "domain": "biztoc.com",
    "published": "2026-08-29T13:36:06+00:00",
    "tickers": []
-  },
-  {
-   "id": "7cde0d476b9a",
-   "title": "Elder care is crushing family finances. These 4 families had to get creative to make it work",
-   "link": "https://biztoc.com/x/6cc2fc29aa1a7e51?ref=rss",
-   "summary": "Business Insider has talked to several families in the US about the high costs of elder care. Courtesy of the families Eldercare costs have soared as families juggle financial strain and caregiving for aging loved ones. Dozens of families told Business Insider that they've made financial and…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-08-29T13:36:01+00:00",
-   "tickers": []
-  },
-  {
-   "id": "5bed5d9ef7ed",
-   "title": "His Company Offered $4,100 a Month for Life or $812,000 Today. He Took the Pile, Rolled It Into an IRA, and the IRS Didn’t See a Dollar Until He Decided It Should",
-   "link": "https://biztoc.com/x/890141468928d452?ref=rss",
-   "summary": "The post His Company Offered $4,100 a Month for Life or $812,000 Today. He Took the Pile, Rolled It Into an IRA, and the IRS Didn’t See a Dollar Until He Decided It Should. appeared first on 24/7 Wall St.. If your employer just dropped pension buyout paperwork on your desk and asked whether you…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-08-29T13:35:54+00:00",
-   "tickers": []
-  },
-  {
-   "id": "3414291cbbf6",
-   "title": "The big lesson from this week's earnings: The AI buildout is not a zero-sum game",
-   "link": "https://biztoc.com/x/21832e9520c0aa0b?ref=rss",
-   "summary": "This week's impressive earnings results showed that the AI buildout is not a zero-sum game: both hardware and software stocks can win. The tech-heavy Nasdaq Composite and the S & P 500 gained 0.9% and 0.5%, respectively, while the blue-chip Dow Jones Industrial Average added 0.5%, marking its…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-08-29T13:35:47+00:00",
-   "tickers": [
-    "NDAQ"
-   ]
   }
  ],
  "ticker_names": {
