@@ -1,8 +1,24 @@
 {
- "generated": "2026-08-29T11:45:08.512920+00:00",
+ "generated": "2026-08-29T11:51:51.823718+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "b4a45a1bd412",
+   "title": "Nova: AI's Metrology Tollbooth Is Becoming A Multi-Engine Compounder",
+   "link": "https://seekingalpha.com/article/4941464-nova-ais-metrology-tollbooth-is-becoming-a-multi-engine-compounder?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-29T11:47:27+00:00",
+   "tickers": [
+    "NVMI"
+   ]
+  },
   {
    "id": "2aba9d3515a1",
    "title": "Dolly Parton and Yayoi Kusama Legacies Lie in Their Mastery of Spectacular Art",
@@ -44,6 +60,22 @@
    "domain": "biztoc.com",
    "published": "2026-08-29T11:37:03+00:00",
    "tickers": []
+  },
+  {
+   "id": "92c9f496dd97",
+   "title": "Would You Use a Debit Card That Offers 2% Cashback in Bitcoin? This Popular Cryptocurrency Exchange Thinks You Will.",
+   "link": "https://www.nasdaq.com/articles/would-you-use-debit-card-offers-2-cashback-bitcoin-popular-cryptocurrency-exchange-thinks",
+   "summary": "Key PointsYou'll need to have sufficient assets in the company's system to get that full 2%.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-08-29T11:37:00+00:00",
+   "tickers": [
+    "BPOP"
+   ]
   },
   {
    "id": "ce7f95d05550",
@@ -8727,37 +8759,6 @@
    "tickers": [
     "PRIM"
    ]
-  },
-  {
-   "id": "8b133519233c",
-   "title": "Massive News for Meta Stock Investors",
-   "link": "https://www.nasdaq.com/articles/massive-news-meta-stock-investors",
-   "summary": "The outcome of the court case was better than feared.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-08-29T00:24:39+00:00",
-   "tickers": [
-    "NWSA",
-    "META"
-   ]
-  },
-  {
-   "id": "2b99889e84d0",
-   "title": "How Trump’s war with Iran is FAR from ‘mission accomplished’",
-   "link": "https://biztoc.com/x/90032778dbee222b?ref=rss",
-   "summary": "Half a year after President Donald Trump announced the U.S. was attacking Iran, he has failed to fully achieve any of the goals he ...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-08-29T00:18:04+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8861,6 +8862,7 @@
   "WULF": "TeraWulf",
   "SQ": "Cash App",
   "BLSH": "Bullish",
+  "BPOP": "Popular",
   "CVX": "Chevron",
   "ESTC": "Elastic",
   "GDDY": "GoDaddy",
@@ -8882,6 +8884,7 @@
   "KEX": "Kirby",
   "LYFT": "Lyft",
   "MSCI": "MSCI",
+  "NVMI": "Nova",
   "OKTA": "Okta",
   "V": "Visa"
  }
