@@ -1,8 +1,27 @@
 {
- "generated": "2026-08-29T16:49:12.346357+00:00",
+ "generated": "2026-08-29T16:55:47.137884+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "fae092a16533",
+   "title": "Stocks Fall as Hawkish Warsh Boosts Fed Rate Hike Chances",
+   "link": "https://www.nasdaq.com/articles/stocks-fall-hawkish-warsh-boosts-fed-rate-hike-chances",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down by -0.25% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down by -0.02%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down by -0.70%. E-mini S&P futures (ESU26 ) fell -0.25%, and September E-mini...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-08-29T16:45:18+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
+  },
   {
    "id": "8b5e03ce22e8",
    "title": "PWV: Value Begins To Struggle, Momentum Is Shifting Towards Growth",
@@ -190,6 +209,20 @@
    "tickers": []
   },
   {
+   "id": "c229b3ec787c",
+   "title": "I'd Rather Bet on AI's Electric Bill Than Its Chips. Here's Why.",
+   "link": "https://www.nasdaq.com/articles/id-rather-bet-ais-electric-bill-its-chips-heres-why",
+   "summary": "Key PointsNvidia is seen as the AI chip winner today, but many companies are gunning for it.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-08-29T16:35:00+00:00",
+   "tickers": []
+  },
+  {
    "id": "2d3ea7e4ad3b",
    "title": "Narrow Credit Spreads Make USHY A Hold (Rating Downgrade)",
    "link": "https://seekingalpha.com/article/4941510-narrow-credit-spreads-make-ushy-a-hold?source=feed_all_articles",
@@ -245,6 +278,20 @@
    "sentiment": "neutral",
    "domain": "nytimes.com",
    "published": "2026-08-29T16:28:06+00:00",
+   "tickers": []
+  },
+  {
+   "id": "5e70884d5739",
+   "title": "Claiming Social Security at 62 Could Be a Dangerous Move for Retirees in This Situation",
+   "link": "https://www.nasdaq.com/articles/claiming-social-security-62-could-be-dangerous-move-retirees-situation",
+   "summary": "Key PointsFiling for Social Security at 62 will shrink your monthly checks by about 30% compared to waiting until full retirement age.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-08-29T16:26:00+00:00",
    "tickers": []
   },
   {
@@ -2681,25 +2728,6 @@
    "published": "2026-08-29T14:35:00+00:00",
    "tickers": [
     "BMY"
-   ]
-  },
-  {
-   "id": "fae092a16533",
-   "title": "Stocks Fall as Hawkish Warsh Boosts Fed Rate Hike Chances",
-   "link": "https://www.nasdaq.com/articles/stocks-fall-hawkish-warsh-boosts-fed-rate-hike-chances",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down by -0.25% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down by -0.02%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down by -0.70%. E-mini S&P futures (ESU26 ) fell -0.25%, and September E-mini...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-08-29T14:33:41+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
    ]
   },
   {
@@ -8816,34 +8844,6 @@
    "sentiment": "neutral",
    "domain": "biztoc.com",
    "published": "2026-08-29T09:18:30+00:00",
-   "tickers": []
-  },
-  {
-   "id": "eaf7404ea92a",
-   "title": "Branded fruit: How produce got “Honeycrisp-ified\" : Planet Money",
-   "link": "https://biztoc.com/x/b2d085c505627ae0?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-08-29T09:18:29+00:00",
-   "tickers": []
-  },
-  {
-   "id": "03e3dcefc32b",
-   "title": "Anthropic sends clear message to Wall Street ahead of IPO",
-   "link": "https://biztoc.com/x/e6d3782298c0609c?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "offering",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-08-29T09:18:26+00:00",
    "tickers": []
   }
  ],
