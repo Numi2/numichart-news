@@ -1,8 +1,22 @@
 {
- "generated": "2026-08-29T21:22:15.880409+00:00",
+ "generated": "2026-08-29T21:28:35.717974+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "b461927538f1",
+   "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+   "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4881999",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-08-29T21:20:03+00:00",
+   "tickers": []
+  },
   {
    "id": "1c8b7093c367",
    "title": "Soybeans Rallying with Product Strength",
@@ -15,6 +29,20 @@
    "sentiment": "neutral",
    "domain": "nasdaq.com",
    "published": "2026-08-29T21:13:27+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e6ec956506b4",
+   "title": "Bitcoin price holds at $78,000 as ‘digital gold’ narrative faces fresh test",
+   "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-price-slips-below-78000-as-digital-gold-narrative-faces-fresh-test-4881960",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-08-29T21:13:26+00:00",
    "tickers": []
   },
   {
@@ -8841,38 +8869,6 @@
    "tickers": [
     "TTAN"
    ]
-  },
-  {
-   "id": "3c2a1a0a7ecb",
-   "title": "Trade analyst: Tariffs cost Americans $200 billion a year, add $147 to school supplies",
-   "link": "https://biztoc.com/x/5e3d93fa31ddea2e?ref=rss",
-   "summary": "– Tariffs will cost Americans about $200 billion per year, according to the National Taxpayers Union, and school supplies aren't exempt from the heightened costs getting passed on to the American consumer. As summer winds down and students head back to the classroom, parents are paying more to…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-08-29T12:52:04+00:00",
-   "tickers": []
-  },
-  {
-   "id": "8192ca1307a3",
-   "title": "Applied Digital Sinks 7%, IREN Tumbles 13% as Data Center Selloff Broadens Past One Name",
-   "link": "https://biztoc.com/x/41b90082746025a6?ref=rss",
-   "summary": "Applied Digital Sinks 7%, IREN Tumbles 13% as Data Center Selloff Broadens Past One Name A nine-figure writedown at one AI data center operator sent shockwaves through the entire sector Friday, and the stocks bleeding hardest have no bad news of their own to explain the damage. AI data center pure…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-08-29T12:50:35+00:00",
-   "tickers": [
-    "APLD",
-    "AMAT",
-    "IREN"
-   ]
   }
  ],
  "ticker_names": {
@@ -8917,7 +8913,6 @@
   "NYT": "The New York Times",
   "PANW": "Palo Alto Networks",
   "SPOT": "Spotify Technology",
-  "AMAT": "Applied Materials",
   "FLY": "Firefly Aerospace",
   "GIL": "Gildan Activewear",
   "MU": "Micron Technology",
@@ -8932,7 +8927,6 @@
   "GD": "General Dynamics",
   "JPM": "JPMorgan Chase &",
   "AFRM": "Affirm Holdings",
-  "APLD": "Applied Digital",
   "BAC": "Bank of America",
   "DIS": "The Walt Disney",
   "MRCY": "Mercury Systems",
