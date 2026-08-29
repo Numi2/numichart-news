@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-29T06:46:10.875687+00:00",
+ "generated": "2026-08-29T06:53:45.323585+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -32,6 +32,20 @@
    "tickers": []
   },
   {
+   "id": "16ac891963d3",
+   "title": "Globalstar director Benjamin Wolff sells $1.64 million in stock",
+   "link": "https://www.investing.com/news/insider-trading-news/globalstar-director-benjamin-wolff-sells-164-million-in-stock-93CH-4881948",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-08-29T06:31:17+00:00",
+   "tickers": []
+  },
+  {
    "id": "00c61a2c2ca4",
    "title": "Risk of lake burst near China-Nepal border disaster site wanes",
    "link": "https://biztoc.com/x/c7207aa25d02898e?ref=rss",
@@ -44,6 +58,22 @@
    "domain": "biztoc.com",
    "published": "2026-08-29T06:31:07+00:00",
    "tickers": []
+  },
+  {
+   "id": "e8fab9537f6e",
+   "title": "DST Global Advisors sells $38.6 million of Chime Financial shares",
+   "link": "https://www.investing.com/news/insider-trading-news/dst-global-advisors-sells-386-million-of-chime-financial-shares-93CH-4881947",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-08-29T06:31:05+00:00",
+   "tickers": [
+    "CHYM"
+   ]
   },
   {
    "id": "3ddec1bc4a28",
@@ -86,6 +116,22 @@
    "domain": "biztoc.com",
    "published": "2026-08-29T06:30:57+00:00",
    "tickers": []
+  },
+  {
+   "id": "70ec7ee7c741",
+   "title": "Randy Shefman, Royal Gold SVP, sells $131,400 in common stock",
+   "link": "https://www.investing.com/news/insider-trading-news/randy-shefman-royal-gold-svp-sells-131400-in-common-stock-93CH-4881946",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-08-29T06:30:57+00:00",
+   "tickers": [
+    "RGLD"
+   ]
   },
   {
    "id": "a5216ba031ec",
@@ -8777,50 +8823,6 @@
    "domain": "investing.com",
    "published": "2026-08-28T21:31:52+00:00",
    "tickers": []
-  },
-  {
-   "id": "cc3b752caeda",
-   "title": "8-K - SeeQC, Inc. (0001779977) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1779977/000121390026095141/0001213900-26-095141-index.htm",
-   "summary": "Filed: 2026-08-28 AccNo: 0001213900-26-095141 Size: 259 KB Item 1.02: Termination of a Material Definitive Agreement Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-08-28T21:31:22+00:00",
-   "tickers": []
-  },
-  {
-   "id": "028538f3247d",
-   "title": "Chevron Is in Talks to Expand in Venezuela, a Potential Win for Trump",
-   "link": "https://www.nytimes.com/2026/08/28/business/energy-environment/chevron-venezuela-oil-deal.html",
-   "summary": "President Trump’s administration has been pushing U.S. companies like Chevron to invest more in Venezuela’s oil industry.",
-   "article_text": "",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "positive",
-   "domain": "nytimes.com",
-   "published": "2026-08-28T21:30:58+00:00",
-   "tickers": [
-    "CVX"
-   ]
-  },
-  {
-   "id": "00172e0a497a",
-   "title": "Mexico stocks lower at close of trade; S&P/BMV IPC down 0.53%",
-   "link": "https://www.investing.com/news/stock-market-news/mexico-stocks-lower-at-close-of-trade-spbmv-ipc-down-053-4881851",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-08-28T21:30:04+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8880,6 +8882,7 @@
   "PTCT": "PTC Therapeutics",
   "AFRM": "Affirm Holdings",
   "BAC": "Bank of America",
+  "CHYM": "Chime Financial",
   "COIN": "Coinbase Global",
   "D": "Dominion Energy",
   "DIS": "The Walt Disney",
@@ -8912,6 +8915,7 @@
   "F": "Ford Motor",
   "MA": "Mastercard",
   "PBF": "PBF Energy",
+  "RGLD": "Royal Gold",
   "RKLB": "Rocket Lab",
   "SN": "SharkNinja",
   "SPGI": "S&P Global",
@@ -8934,7 +8938,6 @@
   "WULF": "TeraWulf",
   "SQ": "Cash App",
   "BPOP": "Popular",
-  "CVX": "Chevron",
   "ESTC": "Elastic",
   "LINE": "Lineage",
   "MRK": "Merck &",
