@@ -1,8 +1,22 @@
 {
- "generated": "2026-08-30T21:17:58.120639+00:00",
+ "generated": "2026-08-30T21:25:10.565030+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "1495c0dbbf3a",
+   "title": "INVESTOR NOTICE: AEVEX Corp. (AVEX) Investors with Substantial Losses Have Opportunity to Lead Class Action Lawsuit, Robbins Geller Rudman &amp; Dowd LLP Announces",
+   "link": "https://www.prnewswire.com/news-releases/investor-notice-aevex-corp-avex-investors-with-substantial-losses-have-opportunity-to-lead-class-action-lawsuit-robbins-geller-rudman--dowd-llp-announces-302863053.html",
+   "summary": "SAN DIEGO, Aug. 30, 2026 /PRNewswire/ -- Robbins Geller Rudman & Dowd LLP announces that purchasers or acquirers of AEVEX Corp. (NYSE: AVEX): (i) Class A common stock pursuant and/or traceable to the registration statement and prospectus issued in connection with AEVEX' April 2026 initial...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "prnewswire.com",
+   "published": "2026-08-30T21:20:00+00:00",
+   "tickers": []
+  },
   {
    "id": "2534d339c4f3",
    "title": "Trial set for Gaston County tow company accused of illegal towing practices",
@@ -119,6 +133,20 @@
    "sentiment": "negative",
    "domain": "biztoc.com",
    "published": "2026-08-30T21:11:17+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ff81b3ab1450",
+   "title": "Faraday Future expands robotics push in Middle East, set to launch new products",
+   "link": "https://www.investing.com/news/stock-market-news/faraday-future-expands-robotics-push-in-middle-east-set-to-launch-new-products-4882072",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-08-30T21:09:11+00:00",
    "tickers": []
   },
   {
@@ -8865,38 +8893,6 @@
    "tickers": [
     "NWSA"
    ]
-  },
-  {
-   "id": "e0017715a040",
-   "title": "'Being a liberal doesn't mean I'm okay with the small boats crisis'",
-   "link": "https://biztoc.com/x/cabc099b7327f849?ref=rss",
-   "summary": "On today's Daily T Sunday Showdown, Camilla and Liberal Democrat MP Layla Moran sit down to discuss Brexit, Channel ...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-08-30T11:46:49+00:00",
-   "tickers": [
-    "MP"
-   ]
-  },
-  {
-   "id": "7132edbe7e6c",
-   "title": "Climbs 32% This Week; Hedge Funds Cut Positions",
-   "link": "https://biztoc.com/x/fb394a4acfb1104c?ref=rss",
-   "summary": "Apparel maker Abercrombie & Fitch Co. (NYSE:ANF) saw its share prices climb by 32 percent week-on-week, with investor optimism primarily bolstered by a massive earnings beat. In an earnings call earlier in the week, the apparel maker said that earnings per share in the second quarter of fiscal…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-08-30T11:37:06+00:00",
-   "tickers": [
-    "ANF"
-   ]
   }
  ],
  "ticker_names": {
@@ -8931,7 +8927,6 @@
   "PG": "The Procter & Gamble",
   "VOO": "Vanguard S&P 500 ETF",
   "ABT": "Abbott Laboratories",
-  "ANF": "Abercrombie & Fitch",
   "VKTX": "Viking Therapeutics",
   "ZM": "Zoom Communications",
   "MRVL": "Marvell Technology",
