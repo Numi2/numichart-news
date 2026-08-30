@@ -1,8 +1,25 @@
 {
- "generated": "2026-08-30T20:36:23.720468+00:00",
+ "generated": "2026-08-30T20:43:13.029074+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "0f5397bcf256",
+   "title": "ONEOK to Acquire Brazos Midstream's Permian Midland Basin Assets for $4.425 Billion",
+   "link": "https://www.prnewswire.com/news-releases/oneok-to-acquire-brazos-midstreams-permian-midland-basin-assets-for-4-425-billion-302864458.html",
+   "summary": "Acquisition Increases Momentum Toward the High End of ONEOK's Mid- to High- Single-Digit Adjusted EBITDA Growth Target Over the Next Five to Seven Years Expected to Be Immediately Accretive to Earnings and Free Cash Flow Per Share $9 Billion Minority Equity Investment from Apollo Funds...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-08-30T20:40:00+00:00",
+   "tickers": [
+    "APO",
+    "OKE"
+   ]
+  },
   {
    "id": "a3330bd73884",
    "title": "Viking Therapeutics Stock Is Down 66% From Its Peak. Here's What Comes Next",
@@ -1191,6 +1208,22 @@
    "domain": "seekingalpha.com",
    "published": "2026-08-30T19:01:28+00:00",
    "tickers": []
+  },
+  {
+   "id": "f7c0e2bd3f81",
+   "title": "Big Tech profits get $160bn boost from gains on stakes in other AI companies",
+   "link": "https://www.ft.com/content/a5a0081f-e998-4c80-b967-cc535cbc4933?syn-25a6b1a6=1",
+   "summary": "Analysts say large paper windfalls on investments in OpenAI, Anthropic and SpaceX have muddied the tech sector’s earnings metrics",
+   "article_text": "",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "ft.com",
+   "published": "2026-08-30T19:00:05+00:00",
+   "tickers": [
+    "SPCX"
+   ]
   },
   {
    "id": "71d7efcc6612",
@@ -8859,34 +8892,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-08-30T11:10:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "309df6122c79",
-   "title": "JOYY Inc.: Significant Upside Hidden Behind Deep Undervaluation And Scalable Ad Infrastructure",
-   "link": "https://seekingalpha.com/article/4941559-joyy-inc-significant-upside-hidden-behind-deep-undervaluation-scalable-ad-infrastructure?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-30T11:09:22+00:00",
-   "tickers": []
-  },
-  {
-   "id": "925e8bb08234",
-   "title": "TaskUs surges 61% after InvestingPro Fair Value identified opportunity",
-   "link": "https://www.investing.com/news/investment-ideas/taskus-surges-61-after-investingpro-fair-value-identified-opportunity-93CH-4882039",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-08-30T11:08:48+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8905,6 +8910,7 @@
   "FBIN": "Fortune Brands Innovations",
   "ARWR": "Arrowhead Pharmaceuticals",
   "ICE": "Intercontinental Exchange",
+  "APO": "Apollo Global Management",
   "IVV": "iShares Core S&P 500 ETF",
   "SMH": "VanEck Semiconductor ETF",
   "ALNY": "Alnylam Pharmaceuticals",
@@ -9006,6 +9012,7 @@
   "VST": "Vistra",
   "INTC": "Intel",
   "KKR": "KKR &",
+  "OKE": "ONEOK",
   "ETSY": "Etsy",
   "OKTA": "Okta",
   "PCG": "PG&E"
