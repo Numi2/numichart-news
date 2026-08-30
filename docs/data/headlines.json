@@ -1,8 +1,24 @@
 {
- "generated": "2026-08-30T10:26:59.905823+00:00",
+ "generated": "2026-08-30T10:33:42.728086+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "d1efef4ce896",
+   "title": "Synopsys Crushed Earnings, But I'm Downgrading The Stock (Rating Downgrade)",
+   "link": "https://seekingalpha.com/article/4941557-synopsys-stock-crushed-earnings-but-downgrading-stock?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-30T10:29:08+00:00",
+   "tickers": [
+    "SNPS"
+   ]
+  },
   {
    "id": "2d31a9b3c3fa",
    "title": "Apple's big handoff and a jobs report: What to watch this week",
@@ -8804,20 +8820,6 @@
    "tickers": [
     "META"
    ]
-  },
-  {
-   "id": "f7f0680f3ad2",
-   "title": "How Groupthink, Altruism, and Peer Pressure Led OpenAI Models to Hack Hugging Face",
-   "link": "https://biztoc.com/x/87f5f88d2c6e2099?ref=rss",
-   "summary": "There are many definitions out there for what constitutes “true” artificial intelligence, but a single quality underlies them all: an ability to learn from past mistakes and refine problem-solving strategies over time. AI should even surprise us now and then, devising clever workarounds we never…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-08-29T19:55:18+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8914,6 +8916,7 @@
   "DUOL": "Duolingo",
   "GOOG": "Alphabet",
   "NNN": "NNN REIT",
+  "SNPS": "Synopsys",
   "BNTX": "BioNTech",
   "FOX": "Fox Corp",
   "CVX": "Chevron",
