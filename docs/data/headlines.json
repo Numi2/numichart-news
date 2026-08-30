@@ -1,8 +1,38 @@
 {
- "generated": "2026-08-30T22:52:58.640940+00:00",
+ "generated": "2026-08-30T22:59:06.027014+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "e86183a2a3b7",
+   "title": "Treasury Bars Some Reporters From G20 Finance Meeting",
+   "link": "https://www.nytimes.com/2026/08/29/business/reporters-denied-g20-meeting.html",
+   "summary": "Specific reporters from The New York Times, The Wall Street Journal and Bloomberg were not granted credentials to cover the meeting of financial leaders next week in Asheville, N.C.",
+   "article_text": "",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-08-30T22:54:02+00:00",
+   "tickers": [
+    "NYT"
+   ]
+  },
+  {
+   "id": "b9b18c1d4196",
+   "title": "Earnings call transcript: Michael Hill posts record revenue in H2 2026 turnaround",
+   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-michael-hill-posts-record-revenue-in-h2-2026-turnaround-93CH-4882078",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-08-30T22:47:58+00:00",
+   "tickers": []
+  },
   {
    "id": "084dd6949373",
    "title": "U.S. stock futures flat as chances of rate hike rise after Warsh’s Jackson Hole comments",
@@ -5572,22 +5602,6 @@
    "tickers": []
   },
   {
-   "id": "e86183a2a3b7",
-   "title": "Treasury Bars Some Reporters From G20 Finance Meeting",
-   "link": "https://www.nytimes.com/2026/08/29/business/reporters-denied-g20-meeting.html",
-   "summary": "Specific reporters from The New York Times, The Wall Street Journal and Bloomberg were not granted credentials to cover the meeting of financial leaders next week in Asheville, N.C.",
-   "article_text": "",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "nytimes.com",
-   "published": "2026-08-30T16:21:11+00:00",
-   "tickers": [
-    "NYT"
-   ]
-  },
-  {
    "id": "40fcf9c05693",
    "title": "Trump says US will refill its petroleum reserves using Venezuelan oil",
    "link": "https://biztoc.com/x/deb34a5cad918221?ref=rss",
@@ -8876,22 +8890,6 @@
    "domain": "marketwatch.com",
    "published": "2026-08-30T13:00:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "905824df8e13",
-   "title": "Carvana: Automotive E-commerce Leader Negated By Hefty Growth Premium",
-   "link": "https://seekingalpha.com/article/4941539-carvana-automotive-ecommerce-leader-negated-by-hefty-growth-premium?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-30T13:00:00+00:00",
-   "tickers": [
-    "CVNA"
-   ]
   }
  ],
  "ticker_names": {
@@ -8991,7 +8989,6 @@
   "GOOG": "Alphabet",
   "SNAP": "Snapchat",
   "FOX": "Fox Corp",
-  "CVNA": "Carvana",
   "GAP": "The Gap",
   "SCI": "Service",
   "WIX": "Wix.com",
