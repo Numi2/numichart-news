@@ -1,8 +1,22 @@
 {
- "generated": "2026-08-30T20:55:48.311654+00:00",
+ "generated": "2026-08-30T21:02:05.823694+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "a84941e72784",
+   "title": "U.S. forces strike Iranian launchers on Larak Island",
+   "link": "https://www.investing.com/news/economy-news/iran-insists-strait-of-hormuz-remains-closed-as-war-enters-seventh-month-4882018",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-08-30T20:50:01+00:00",
+   "tickers": []
+  },
   {
    "id": "239cb73aa99a",
    "title": "PetroChina H1 profit rises 22% despite weaker fuel demand",
@@ -45,6 +59,22 @@
    "sentiment": "neutral",
    "domain": "prnewswire.com",
    "published": "2026-08-30T20:45:00+00:00",
+   "tickers": [
+    "OKE"
+   ]
+  },
+  {
+   "id": "e61e1d82333e",
+   "title": "ONEOK to acquire Permian Basin assets for $4.43 billion",
+   "link": "https://www.investing.com/news/company-news/oneok-to-acquire-permian-basin-assets-for-443-billion-93CH-4882070",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-08-30T20:44:43+00:00",
    "tickers": [
     "OKE"
    ]
@@ -1733,20 +1763,6 @@
    "sentiment": "neutral",
    "domain": "biztoc.com",
    "published": "2026-08-30T18:41:26+00:00",
-   "tickers": []
-  },
-  {
-   "id": "a84941e72784",
-   "title": "Khamenei urges unity among Gulf leaders as Tehran keeps Hormuz closed",
-   "link": "https://www.investing.com/news/economy-news/iran-insists-strait-of-hormuz-remains-closed-as-war-enters-seventh-month-4882018",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-08-30T18:41:23+00:00",
    "tickers": []
   },
   {
@@ -8883,23 +8899,6 @@
    "tickers": [
     "CLF"
    ]
-  },
-  {
-   "id": "14ab05c2b935",
-   "title": "RTX's $289 Billion Backlog Is Mainly Commercial, Not Defense. Here's Why That Split Is the Real Story",
-   "link": "https://biztoc.com/x/22b15f0d4ffe8397?ref=rss",
-   "summary": "RTX's $289 Billion Backlog Is Mainly Commercial, Not Defense. Here's Why That Split Is the Real Story. The 60/40 split between the commercial aerospace and defense backlogs at RTX (NYSE: RTX) has benefited the company significantly, and not just from a strong recovery in commercial aerospace.…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-08-30T11:22:09+00:00",
-   "tickers": [
-    "RTX",
-    "NVDA"
-   ]
   }
  ],
  "ticker_names": {
@@ -8999,7 +8998,6 @@
   "BCS": "Barclays",
   "DOCU": "DocuSign",
   "GOOG": "Alphabet",
-  "RTX": "Raytheon",
   "FOX": "Fox Corp",
   "CVNA": "Carvana",
   "GAP": "The Gap",
