@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-30T09:34:53.222452+00:00",
+ "generated": "2026-08-30T09:41:27.354800+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -16,6 +16,22 @@
    "domain": "seekingalpha.com",
    "published": "2026-08-30T09:29:43+00:00",
    "tickers": []
+  },
+  {
+   "id": "f7cc7a41a596",
+   "title": "Warren Buffett's Successor, Greg Abel, Keeps Buying This Incredible Artificial Intelligence (AI) Stock That Buffett Also Loved",
+   "link": "https://www.nasdaq.com/articles/warren-buffetts-successor-greg-abel-keeps-buying-incredible-artificial-intelligence-ai",
+   "summary": "Key PointsCEO Greg Abel continued buying Alphabet shares in Q2.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-08-30T09:20:00+00:00",
+   "tickers": [
+    "GOOG"
+   ]
   },
   {
    "id": "a1c59b7cf88f",
@@ -8816,22 +8832,6 @@
    "domain": "biztoc.com",
    "published": "2026-08-29T18:54:08+00:00",
    "tickers": []
-  },
-  {
-   "id": "1f981bf569a7",
-   "title": "SoFi Stock: Why This &quot;Fintech&quot; Needs to Start Performing Like a Real Bank",
-   "link": "https://www.nasdaq.com/articles/sofi-stock-why-fintech-needs-start-performing-real-bank",
-   "summary": "Key PointsSoFi’s low 1.5 products per customer and high marketing costs raise questions about its bank‑like economics.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-08-29T18:47:50+00:00",
-   "tickers": [
-    "SOFI"
-   ]
   }
  ],
  "ticker_names": {
@@ -8876,7 +8876,6 @@
   "SPOT": "Spotify Technology",
   "BEAM": "Beam Therapeutics",
   "HOOD": "Robinhood Markets",
-  "SOFI": "SoFi Technologies",
   "UBER": "Uber Technologies",
   "ENSG": "The Ensign Group",
   "GTLS": "Chart Industries",
@@ -8930,6 +8929,7 @@
   "ALKS": "Alkermes",
   "AVGO": "Broadcom",
   "BCS": "Barclays",
+  "GOOG": "Alphabet",
   "NNN": "NNN REIT",
   "BNTX": "BioNTech",
   "FOX": "Fox Corp",
