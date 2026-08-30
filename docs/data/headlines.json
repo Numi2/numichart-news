@@ -1,8 +1,22 @@
 {
- "generated": "2026-08-30T20:19:52.887396+00:00",
+ "generated": "2026-08-30T20:28:21.549290+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "8a0d706036f9",
+   "title": "Top global stories this week: XPENG, Alibaba among notable names",
+   "link": "https://seekingalpha.com/news/4638076-top-global-stories-this-week-xpeng-alibaba-among-notable-names?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-30T20:13:58+00:00",
+   "tickers": []
+  },
   {
    "id": "135bf19dffd7",
    "title": "PayPal just lost its $53 billion safety net",
@@ -134,6 +148,42 @@
    "domain": "biztoc.com",
    "published": "2026-08-30T20:10:33+00:00",
    "tickers": []
+  },
+  {
+   "id": "ff263d2a84ad",
+   "title": "Viking Therapeutics Stock Is Down 66% From Its Peak. Here's What Comes Next.",
+   "link": "https://www.nasdaq.com/articles/viking-therapeutics-stock-down-66-its-peak-heres-what-comes-next",
+   "summary": "Key PointsVK2735 is Viking's lead candidate for obesity with dual-formulation potential.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-08-30T20:05:00+00:00",
+   "tickers": [
+    "VKTX",
+    "VIK"
+   ]
+  },
+  {
+   "id": "fae092a16533",
+   "title": "Stocks Fall as Hawkish Warsh Boosts Fed Rate Hike Chances",
+   "link": "https://www.nasdaq.com/articles/stocks-fall-hawkish-warsh-boosts-fed-rate-hike-chances",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down by -0.25% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down by -0.02%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down by -0.70%. E-mini S&P futures (ESU26 ) fell -0.25%, and September E-mini...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-08-30T20:02:59+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
   },
   {
    "id": "2a20dd8df750",
@@ -355,25 +405,6 @@
    "domain": "biztoc.com",
    "published": "2026-08-30T19:55:17+00:00",
    "tickers": []
-  },
-  {
-   "id": "fae092a16533",
-   "title": "Stocks Fall as Hawkish Warsh Boosts Fed Rate Hike Chances",
-   "link": "https://www.nasdaq.com/articles/stocks-fall-hawkish-warsh-boosts-fed-rate-hike-chances",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down by -0.25% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down by -0.02%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down by -0.70%. E-mini S&P futures (ESU26 ) fell -0.25%, and September E-mini...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-08-30T19:51:01+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
-   ]
   },
   {
    "id": "67ee99e88aa3",
@@ -8851,36 +8882,6 @@
    "domain": "biztoc.com",
    "published": "2026-08-30T11:05:25+00:00",
    "tickers": []
-  },
-  {
-   "id": "892d2198275e",
-   "title": "An Illegal Migrant Tried To Saw Off A Man's Head; You Won't Believe What The BBC Did Next..",
-   "link": "https://biztoc.com/x/50c9861e7ff49f63?ref=rss",
-   "summary": "An Illegal Migrant Tried To Saw Off A Man's Head; You Won't Believe What The BBC Did Next... Authored by Steve Watson via Modernity News, A leaked internal email shows a senior BBC executive reaching for the language of \"solidarity\" after a Sudanese asylum seeker was charged with trying to…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-08-30T11:05:18+00:00",
-   "tickers": [
-    "NWSA"
-   ]
-  },
-  {
-   "id": "8c1e9a3ddd89",
-   "title": "Emotionally Intelligent People Use a Simple 5-Word Question to Avoid Doing Things They Later Regret",
-   "link": "https://biztoc.com/x/ba6c1218afb3089f?ref=rss",
-   "summary": "It’s easy to speak or act without thinking. This question helps you slow down and be more mindful about your reactions.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-08-30T11:05:18+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8915,6 +8916,7 @@
   "VOO": "Vanguard S&P 500 ETF",
   "ABT": "Abbott Laboratories",
   "ANF": "Abercrombie & Fitch",
+  "VKTX": "Viking Therapeutics",
   "ZM": "Zoom Communications",
   "MRVL": "Marvell Technology",
   "NYT": "The New York Times",
@@ -8939,6 +8941,7 @@
   "LNG": "Cheniere Energy",
   "PYPL": "PayPal Holdings",
   "TDG": "TransDigm Group",
+  "VIK": "Viking Holdings",
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
   "QBTS": "D-Wave Quantum",
