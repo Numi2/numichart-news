@@ -1,8 +1,281 @@
 {
- "generated": "2026-08-31T10:16:47.456843+00:00",
+ "generated": "2026-08-31T10:30:22.572509+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "8b9468d9fc81",
+   "title": "GameStop revises $1.4B convertible note exchange terms",
+   "link": "https://seekingalpha.com/news/4638158-gamestop-revises-14b-convertible-note-exchange-terms?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-31T10:26:32+00:00",
+   "tickers": [
+    "GME"
+   ]
+  },
+  {
+   "id": "745ad9b8e1fd",
+   "title": "Weekly Market Pulse: Hiking With Warsh",
+   "link": "https://seekingalpha.com/article/4941711-weekly-market-pulse-hiking-warsh?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-31T10:26:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "0b5a4f120819",
+   "title": "Energy Transfer: August Insider Purchases May Signal Price Breakout",
+   "link": "https://seekingalpha.com/article/4941709-energy-transfer-stock-august-insider-purchases-may-signal-price-breakout?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-31T10:23:13+00:00",
+   "tickers": []
+  },
+  {
+   "id": "eac82ddf40bc",
+   "title": "Fixing of coupon rates - Nykredit Realkredit A/S",
+   "link": "https://www.globenewswire.com/news-release/2026/08/31/3353137/0/en/fixing-of-coupon-rates-nykredit-realkredit-a-s.html",
+   "summary": "To Nasdaq Copenhagen",
+   "article_text": "",
+   "source": "GlobeNewswire",
+   "category": "press",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "globenewswire.com",
+   "published": "2026-08-31T10:23:00+00:00",
+   "tickers": [
+    "NDAQ"
+   ]
+  },
+  {
+   "id": "3c60ea9da87f",
+   "title": "Fastsættelse af kuponrenter - Nykredit Realkredit A/S",
+   "link": "https://www.globenewswire.com/news-release/2026/08/31/3353137/0/da/fasts%C3%A6ttelse-af-kuponrenter-nykredit-realkredit-a-s.html",
+   "summary": "Til Nasdaq Copenhagen",
+   "article_text": "",
+   "source": "GlobeNewswire",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "globenewswire.com",
+   "published": "2026-08-31T10:23:00+00:00",
+   "tickers": [
+    "NDAQ"
+   ]
+  },
+  {
+   "id": "ef56312cbddd",
+   "title": "So-Young International reports Q2 results",
+   "link": "https://seekingalpha.com/news/4638159-so-young-international-reports-q2-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-31T10:22:11+00:00",
+   "tickers": []
+  },
+  {
+   "id": "0bb57b2e48b4",
+   "title": "Bullish: A $4.2 Billion Bet On Tokenized Securities Infrastructure",
+   "link": "https://seekingalpha.com/article/4941708-bullish-4-2-billion-bet-on-tokenized-securities-infrastructure?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-08-31T10:20:30+00:00",
+   "tickers": [
+    "BLSH"
+   ]
+  },
+  {
+   "id": "2999b00d9bfb",
+   "title": "Bank of England chief warns new AI models threaten global financial stability",
+   "link": "https://www.cnbc.com/2026/08/31/bailey-frontier-ai-financial-stability-risk.html",
+   "summary": "Bank of England Governor Andrew Bailey has warned that frontier AI could materially increase cyber risks to the global financial system.",
+   "article_text": "",
+   "source": "CNBC Economy",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "negative",
+   "domain": "cnbc.com",
+   "published": "2026-08-31T10:18:59+00:00",
+   "tickers": []
+  },
+  {
+   "id": "77ad22ac6fe6",
+   "title": "Iran dismisses Trump’s post of attack on key energy hub of Kharg",
+   "link": "https://www.investing.com/news/stock-market-news/trump-posts-ai-video-of-irans-kharg-in-smithereens-no-evidence-of-attack-4882150",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-08-31T10:14:24+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c2672d5ec625",
+   "title": "Trump to host oil executives after accusing refiners of gouging consumers",
+   "link": "https://www.investing.com/news/stock-market-news/trump-to-host-oil-executives-after-accusing-refiners-of-gouging-consumers-4882409",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-08-31T10:14:09+00:00",
+   "tickers": []
+  },
+  {
+   "id": "cdd0d51f25f9",
+   "title": "Polymarket stands ready to fight misconduct as US midterms loom, intel chief says",
+   "link": "https://www.investing.com/news/economy-news/polymarket-stands-ready-to-fight-misconduct-as-us-midterms-loom-intel-chief-says-4882406",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-08-31T10:13:49+00:00",
+   "tickers": []
+  },
+  {
+   "id": "195b5defdcb4",
+   "title": "ChatGPT, Reddit, Roblox to adhere to EU’s \"very large platform\" rules",
+   "link": "https://www.investing.com/news/stock-market-news/chatgpt-reddit-roblox-to-adhere-to-eus-very-large-platform-rules-4882427",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-08-31T10:13:32+00:00",
+   "tickers": [
+    "RBLX",
+    "RDDT"
+   ]
+  },
+  {
+   "id": "c7074b693a2e",
+   "title": "European gas spikes after US strikes on Iranian missile sites",
+   "link": "https://www.investing.com/news/commodities-news/european-gas-spikes-after-us-strikes-on-iranian-missile-sites-4882418",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-08-31T10:13:22+00:00",
+   "tickers": []
+  },
+  {
+   "id": "0c495500220b",
+   "title": "Analysis-Depleted US oil stash loses potency as Iran war grinds on",
+   "link": "https://www.investing.com/news/commodities-news/analysisdepleted-us-oil-stash-loses-potency-as-iran-war-grinds-on-4882407",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-08-31T10:13:09+00:00",
+   "tickers": []
+  },
+  {
+   "id": "839365b69500",
+   "title": "BofA reiterates Buy on Meta stock on AI agent launch plans",
+   "link": "https://www.investing.com/news/analyst-ratings/bofa-reiterates-buy-on-meta-stock-on-ai-agent-launch-plans-93CH-4882426",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "analyst",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-08-31T10:12:59+00:00",
+   "tickers": [
+    "META"
+   ]
+  },
+  {
+   "id": "559be0f5486d",
+   "title": "Citizens reiterates Amazon stock rating on AWS GPU expansion",
+   "link": "https://www.investing.com/news/analyst-ratings/citizens-reiterates-amazon-stock-rating-on-aws-gpu-expansion-93CH-4882425",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "analyst",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-08-31T10:12:53+00:00",
+   "tickers": [
+    "AMZN",
+    "CFG"
+   ]
+  },
+  {
+   "id": "060eab22184d",
+   "title": "Citizens reiterates DoorDash stock rating on AI efficiency gains",
+   "link": "https://www.investing.com/news/analyst-ratings/citizens-reiterates-doordash-stock-rating-on-ai-efficiency-gains-93CH-4882424",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "analyst",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-08-31T10:12:52+00:00",
+   "tickers": [
+    "CFG",
+    "DASH"
+   ]
+  },
+  {
+   "id": "0b02d9a158f5",
+   "title": "JMP Securities upgrades Microsoft stock rating on AI distribution pricing talks",
+   "link": "https://www.investing.com/news/analyst-ratings/jmp-securities-upgrades-microsoft-stock-rating-on-ai-distribution-pricing-talks-93CH-4882423",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-08-31T10:12:51+00:00",
+   "tickers": [
+    "MSFT"
+   ]
+  },
   {
    "id": "739f644fdf7a",
    "title": "AidKit Launches AidKit Ready, Pre-Positioned Disaster Cash Assistance Infrastructure for Governments and Nonprofits",
@@ -16,6 +289,23 @@
    "domain": "prnewswire.com",
    "published": "2026-08-31T10:10:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "9ecd39a1b10a",
+   "title": "MS NOW Highlights - August 30",
+   "link": "https://biztoc.com/x/ee1ce11ed492c82e?ref=rss",
+   "summary": "Watch highlights and must-see interviews from your favorite MS NOW shows. MS NOW: My Source for News, Opinion, and the ...",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-08-31T10:09:37+00:00",
+   "tickers": [
+    "NWSA",
+    "MS"
+   ]
   },
   {
    "id": "cbe4de6f7d25",
@@ -120,6 +410,20 @@
    "tickers": [
     "MAR"
    ]
+  },
+  {
+   "id": "5b057db9c131",
+   "title": "At Jackson Hole, global central bankers glimpse dystopian AI future",
+   "link": "https://www.investing.com/news/stock-market-news/at-jackson-hole-global-central-bankers-glimpse-dystopian-ai-future-4882399",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-08-31T10:06:53+00:00",
+   "tickers": []
   },
   {
    "id": "b9d4ae93db8e",
@@ -396,6 +700,22 @@
    "tickers": []
   },
   {
+   "id": "c37da0cf8ef2",
+   "title": "Goldman Sachs sees stable credit trends in direct lending sector",
+   "link": "https://www.investing.com/news/stock-market-news/goldman-sachs-sees-stable-credit-trends-in-direct-lending-sector-93CH-4882397",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-08-31T10:06:14+00:00",
+   "tickers": [
+    "GS"
+   ]
+  },
+  {
    "id": "ce80e0cdd1fc",
    "title": "6 networking mistakes that could cost you a job",
    "link": "https://biztoc.com/x/0ddcdd5b897ab937?ref=rss",
@@ -620,7 +940,7 @@
    "link": "https://www.prnewswire.com/news-releases/so-young-reports-unaudited-second-quarter-2026-financial-results-302864843.html",
    "summary": "BEIJING, Aug. 31, 2026 /PRNewswire/ -- So-Young International Inc. (Nasdaq: SY) (\"So-Young\" or the \"Company\"), the leading aesthetic treatment platform in China connecting consumers with online services and offline treatments, today announced its unaudited financial results for the second...",
    "article_text": "",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "earnings",
    "sentiment": "neutral",
@@ -636,7 +956,7 @@
    "link": "https://www.prnewswire.com/news-releases/sowell-management-expands-advisor-support-platform-with-launch-of-advanced-planning-group-302863101.html",
    "summary": "Value-added offering adds integrated estate, tax, and advanced planning capabilities to help advisors better serve affluent families and navigate their increasingly complex needs NORTH LITTLE ROCK, Ark., Aug. 31, 2026 /PRNewswire/ -- Sowell Management (Sowell), a leading Registered...",
    "article_text": "",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "positive",
@@ -650,7 +970,7 @@
    "link": "https://www.prnewswire.com/news-releases/kucoin-launches-kuleague-with-400-000-usdt-reward-pool-and-dynamic-team-rematching-302861624.html",
    "summary": "PROVIDENCIALES, Turks and Caicos Islands, Aug. 31, 2026 /PRNewswire/ -- KuCoin, a global crypto platform built on trust, today launched KuLeague, its new flagship futures trading competition series. The inaugural season is now live with KuCoin Futures' reward pool of 400,000 USDT, a new...",
    "article_text": "",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "positive",
@@ -666,7 +986,7 @@
    "link": "https://www.prnewswire.com/news-releases/oppenheimer-welcomes-joel-berry-ii-and-expands-north-carolina-private-client-team-focused-on-advising-athletes-302863109.html",
    "summary": "Addition Strengthens Robinson Private Client Group's Work with Athletes and Participants in the Evolving NIL Landscape NEW YORK, Aug. 31, 2026 /PRNewswire/ -- Oppenheimer & Co. Inc. (\"Oppenheimer\"), a leading wealth manager and investment bank and a subsidiary of Oppenheimer Holdings Inc....",
    "article_text": "",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "positive",
@@ -680,7 +1000,7 @@
    "link": "https://www.prnewswire.com/news-releases/realtorcom-ranks-the-top-metros-for-new-construction-in-2026-302863005.html",
    "summary": "Charleston takes No. 1 as new-home listing prices are 12.2% below existing homes; Southern markets claim eight of the top 10 spots AUSTIN, Texas, Aug. 31, 2026 /PRNewswire/ -- Eight of the 10 best metros for purchasing a newly built home are in the South, according to the second annual...",
    "article_text": "",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "positive",
@@ -922,7 +1242,7 @@
    "link": "https://www.prnewswire.com/news-releases/jakes-motorcars-offers-online-pre-approval-for-financing-your-next-luxury-buy-in-san-diego-ca-302864743.html",
    "summary": "SAN DIEGO and LA JOLLA, Calif., Aug. 31, 2026 /PRNewswire/ -- Jake's Motorcars is making it easier for luxury and exotic vehicle shoppers in San Diego, CA, to take the first step toward a new automotive purchase or lease. Through an online financing pre-approval process, prospective...",
    "article_text": "",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "fda",
    "sentiment": "neutral",
@@ -3403,20 +3723,6 @@
     "MRVL",
     "MU"
    ]
-  },
-  {
-   "id": "77ad22ac6fe6",
-   "title": "Iran dismisses Trump’s post of attack on key energy hub of Kharg",
-   "link": "https://www.investing.com/news/stock-market-news/trump-posts-ai-video-of-irans-kharg-in-smithereens-no-evidence-of-attack-4882150",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-08-31T08:49:07+00:00",
-   "tickers": []
   },
   {
    "id": "3a19259bb319",
@@ -8412,311 +8718,11 @@
    "tickers": [
     "NVDA"
    ]
-  },
-  {
-   "id": "ec315c1d5131",
-   "title": "SWI becomes an NVIDIA Cloud Partner (NCP)",
-   "link": "https://www.prnewswire.com/news-releases/swi-becomes-an-nvidia-cloud-partner-ncp-302864399.html",
-   "summary": "AMSTERDAM, Aug. 31, 2026 /PRNewswire/ -- SWI Group (AMS: SWICH), an investment firm with 3.6 gigawatts of power capacity across Europe and the US, has announced that it has become a member of the NVIDIA Cloud Partner (NCP) program as a Preferred Partner. SWI Group joins a select group of...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-08-31T06:00:00+00:00",
-   "tickers": [
-    "NVDA"
-   ]
-  },
-  {
-   "id": "433a5ad6379f",
-   "title": "SWI becomes an NVIDIA Cloud Partner (NCP)",
-   "link": "https://www.prnewswire.com/news-releases/swi-becomes-an-nvidia-cloud-partner-ncp-302864398.html",
-   "summary": "AMSTERDAM, Aug. 31, 2026 /PRNewswire/ -- SWI Group (AMS: SWICH), an investment firm with 3.6 gigawatts of power capacity across Europe and the US, has announced that it has become a member of the NVIDIA Cloud Partner (NCP) program as a Preferred Partner. SWI Group joins a select group of...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-08-31T06:00:00+00:00",
-   "tickers": [
-    "NVDA"
-   ]
-  },
-  {
-   "id": "8371fb90048f",
-   "title": "AkzoNobel and Axalta announce three directors to finalize Board of combined company",
-   "link": "https://www.globenewswire.com/news-release/2026/08/31/3353021/0/en/akzonobel-and-axalta-announce-three-directors-to-finalize-board-of-combined-company.html",
-   "summary": "AMSTERDAM and PHILADELPHIA, Aug. 31, 2026 (GLOBE NEWSWIRE) -- Akzo Nobel N.V. (AKZA; AKZOY) (“AkzoNobel”) and Axalta Coating Systems Ltd. (AXTA) (“Axalta”) today announced that Stephan B. Tanda, Denise C. Johnson and Robert Schuchna have agreed to serve as non-executive Directors of the combined company upon completion of their pending merger of equals.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-08-31T06:00:00+00:00",
-   "tickers": [
-    "AXTA"
-   ]
-  },
-  {
-   "id": "09a091201187",
-   "title": "Major Shareholder Announcement",
-   "link": "https://www.globenewswire.com/news-release/2026/08/31/3353022/0/en/major-shareholder-announcement.html",
-   "summary": "Bang & Olufsen A/S has, pursuant to the Danish Capital Markets Act, received a major shareholder notification from UBS Group AG.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-08-31T06:00:00+00:00",
-   "tickers": [
-    "UBS"
-   ]
-  },
-  {
-   "id": "7c53dc3c9a13",
-   "title": "BioMarin Announces Global Settlement with Ascendis Pharma A/S; Ascendis Will Pay Royalties to BioMarin on Yuviwel Sales in U.S., EU, Brazil and South Korea",
-   "link": "https://www.prnewswire.com/news-releases/biomarin-announces-global-settlement-with-ascendis-pharma-as-ascendis-will-pay-royalties-to-biomarin-on-yuviwel-sales-in-us-eu-brazil-and-south-korea-302864555.html",
-   "summary": "Agreement Resolves all Pending Patent-Related Proceedings Between BioMarin and Ascendis SAN RAFAEL, Calif., Aug. 30, 2026 /PRNewswire/ -- BioMarin Pharmaceutical Inc. (Nasdaq: BMRN) today announced that it has entered into binding terms with Ascendis Pharma A/S, resolving the patent and...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "prnewswire.com",
-   "published": "2026-08-31T06:00:00+00:00",
-   "tickers": [
-    "BMRN",
-    "NDAQ"
-   ]
-  },
-  {
-   "id": "0115415277d4",
-   "title": "NuScale Power's CFO Sells Nearly 30,000 Company Shares as the Stock Remains Near a 52-Week Low",
-   "link": "https://www.nasdaq.com/articles/nuscale-powers-cfo-sells-nearly-30000-company-shares-stock-remains-near-52-week-low",
-   "summary": "Key PointsThe transaction involved 29,880 shares valued at approximately $281,000 based on an execution price of $9.39 per share.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-08-31T05:58:39+00:00",
-   "tickers": [
-    "SMR"
-   ]
-  },
-  {
-   "id": "2313a33bde2d",
-   "title": "iMetal Resources appoints Paul Larkin to board and names Robert Scott as CFO",
-   "link": "https://seekingalpha.com/news/4638099-imetal-resources-appoints-paul-larkin-to-board-and-names-robert-scott-as-cfo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-31T05:58:09+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e9e0c8b0e19b",
-   "title": "PGIM Jennison Emerging Markets Equity Opportunities Fund Q2 2026 Commentary",
-   "link": "https://seekingalpha.com/article/4941640-pgim-jennison-emerging-markets-equity-opportunities-fund-q2-2026-commentary?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-31T05:57:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "bbd2e020c34e",
-   "title": "Carlsberg: Strategic Progress, Muted Top-Line Growth, And Sector Headwinds; Maintain Hold",
-   "link": "https://seekingalpha.com/article/4941638-carlsberg-stock-strategic-progress-muted-top-line-growth-sector-headwinds?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "analyst",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-31T05:55:35+00:00",
-   "tickers": []
-  },
-  {
-   "id": "38e03832114e",
-   "title": "Aktietilbagekøbsprogram – transaktioner uge 35",
-   "link": "https://www.globenewswire.com/news-release/2026/08/31/3353019/0/da/aktietilbagek%C3%B8bsprogram-transaktioner-uge-35.html",
-   "summary": "Den 12. maj 2026 igangsatte Gabriel Holding A/S et aktietilbagekøbsprogram. Aktietilbagekøbet løber i perioden fra og med den 12. maj til og med den 16. marts 2027. I denne periode kan Gabriel Holding A/S tilbagekøbe op til en samlet beholdning på 94.500 egne aktier svarende til 5 % af aktiekapitalen.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-08-31T05:55:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ed225f70a265",
-   "title": "Share Buy-back Programme – Transactions Week 35",
-   "link": "https://www.globenewswire.com/news-release/2026/08/31/3353019/0/en/share-buy-back-programme-transactions-week-35.html",
-   "summary": "On 12 May 2026, Gabriel Holding A/S initiated a share buy-back programme. The buy-back runs from 12 May 2026 up to and including 16 March 2027. During this period, Gabriel Holding A/S may repurchase up to 94,500 shares corresponding to 5% of the share capital.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-08-31T05:55:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "c00067df0bfa",
-   "title": "FINAL HOUR: Lock in InvestingPro for 55% off BEFORE SALE ENDS TODAY",
-   "link": "https://www.investing.com/news/stock-market-news/final-hour-lock-in-investingpro-for-55-off-before-sale-ends-today-4882153",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-08-31T05:54:04+00:00",
-   "tickers": []
-  },
-  {
-   "id": "10d59d96906f",
-   "title": "Northern California Intermediate Tax-Exempt Fund Q2 2026 Commentary",
-   "link": "https://seekingalpha.com/article/4941643-northern-funds-california-intermediate-tax-exempt-fund-q2-2026-commentary?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-31T05:50:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "82cadec05219",
-   "title": "Costco Stock at $945: Here's Why Investors Should Pause",
-   "link": "https://www.nasdaq.com/articles/costco-stock-945-heres-why-investors-should-pause",
-   "summary": "Key PointsCostco Wholesale is one of the world's top retail companies, and its stock returns reflect that.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-08-31T05:50:00+00:00",
-   "tickers": [
-    "COST"
-   ]
-  },
-  {
-   "id": "de780270b0c7",
-   "title": "Red Mountain Mining (ASX:RMX) Starts Maiden Drilling At 'Premier Province'",
-   "link": "https://biztoc.com/x/a4ca8ed57e5bc0b3?ref=rss",
-   "summary": "Key Points • Red Mountain Mining (ASX:RMX) has spent the past year refining targets at its Oaky Creek prospect, where surface exploration has outlined an antimony system extending for around 3km. • The company has now started its maiden 17-hole reverse circulation drilling program, targeting soil…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-08-31T05:48:10+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6c2003335dc4",
-   "title": "InPost narrowly beats second-quarter forecasts but cuts guidance",
-   "link": "https://biztoc.com/x/4cd9b985acd4e3c0?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-08-31T05:48:07+00:00",
-   "tickers": []
-  },
-  {
-   "id": "796ab4d6a4cd",
-   "title": "AI and robotics drive an IPO boom in China as Shein lists in Hong Kong",
-   "link": "https://biztoc.com/x/3f083410699e4c82?ref=rss",
-   "summary": "AI and robotics drive an IPO boom in China as Shein lists in Hong Kong Chinese markets are booming with new public share listings driven by the craze for artificial intelligence HONG KONG -- Chinese markets are booming with new public stock offerings, energized by the craze for artificial…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "offering",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-08-31T05:48:02+00:00",
-   "tickers": []
-  },
-  {
-   "id": "96a840bd6c3d",
-   "title": "1 No-Brainer Artificial Intelligence (AI) ETF to Buy With $50 and Hold for the Long Term",
-   "link": "https://biztoc.com/x/afffe250e2a2519d?ref=rss",
-   "summary": "Some exchange-traded funds (ETFs) hold hundreds, or even thousands, of individual stocks. The iShares A.I. Innovation and Tech Active ETF (NYSEMKT: BAI) holds just 49, because it only invests in select companies that are developing and deploying artificial intelligence (AI) technologies. The ETF…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-08-31T05:48:02+00:00",
-   "tickers": [
-    "IAGG"
-   ]
-  },
-  {
-   "id": "723bf8055aa9",
-   "title": "Foreign investment in Germany rose 50% in 2025, IW says",
-   "link": "https://biztoc.com/x/b64446effff71c94?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-08-31T05:47:54+00:00",
-   "tickers": []
-  },
-  {
-   "id": "a0f74b9b1ae3",
-   "title": "BYD shares drop as H1 profit falls on tough Chinese market",
-   "link": "https://www.investing.com/news/stock-market-news/byd-shares-drop-as-h1-profit-falls-on-tough-chinese-market-4882152",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-08-31T05:47:50+00:00",
-   "tickers": [
-    "BYD"
-   ]
   }
  ],
  "ticker_names": {
   "JIRE": "JPMorgan International Research Enhanced Equity ETF",
   "VYMI": "Vanguard International High Dividend Yield ETF",
-  "IAGG": "iShares International Aggregate Bond Fund",
   "TSM": "Taiwan Semiconductor Manufacturing",
   "OLLI": "Ollie's Bargain Outlet Holdings",
   "WST": "West Pharmaceutical Services",
@@ -8726,9 +8732,7 @@
   "HPE": "Hewlett Packard Enterprise",
   "APO": "Apollo Global Management",
   "CFG": "Citizens Financial Group",
-  "BMRN": "BioMarin Pharmaceutical",
   "GS": "The Goldman Sachs Group",
-  "AXTA": "Axalta Coating Systems",
   "CDNS": "Cadence Design Systems",
   "CRSP": "CRISPR Therapeutics AG",
   "MAR": "Marriott International",
@@ -8740,6 +8744,7 @@
   "COGT": "Cogent Biosciences",
   "MRVL": "Marvell Technology",
   "NYT": "The New York Times",
+  "RBLX": "Roblox Corporation",
   "BEAM": "Beam Therapeutics",
   "ES": "Eversource Energy",
   "JNJ": "Johnson & Johnson",
@@ -8758,6 +8763,7 @@
   "FLNC": "Fluence Energy",
   "IR": "Ingersoll Rand",
   "META": "Meta Platforms",
+  "MS": "Morgan Stanley",
   "PLNT": "Planet Fitness",
   "TSCO": "Tractor Supply",
   "NET": "Cloudflare Inc",
@@ -8775,7 +8781,6 @@
   "UBS": "UBS Group AG",
   "GOOGL": "Google Cloud",
   "NVDA": "Grace Hopper",
-  "BYD": "Boyd Gaming",
   "MTCH": "Match Group",
   "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
@@ -8790,6 +8795,8 @@
   "RBA": "RB Global",
   "NWSA": "News Corp",
   "BCS": "Barclays",
+  "DASH": "DoorDash",
+  "GME": "GameStop",
   "GOOG": "Alphabet",
   "FOX": "Fox Corp",
   "BLSH": "Bullish",
@@ -8804,6 +8811,7 @@
   "WMT": "Walmart",
   "NDAQ": "Nasdaq",
   "ORCL": "Oracle",
+  "RDDT": "Reddit",
   "SPCX": "SpaceX",
   "AMGN": "Amgen",
   "KKR": "KKR &",
