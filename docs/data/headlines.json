@@ -1,8 +1,52 @@
 {
- "generated": "2026-09-01T07:52:31.178970+00:00",
+ "generated": "2026-09-01T07:58:40.613771+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "1f19df50bab7",
+   "title": "France manufacturing returns to expansion in August, but weak demand clouds outlook",
+   "link": "https://seekingalpha.com/news/4638557-france-manufacturing-returns-to-expansion-in-august-but-weak-demand-clouds-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "guidance",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-01T07:55:56+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ed778555fb3a",
+   "title": "Japanese borrowing costs hit 30-year high as Bessent says Tokyo may intervene to boost yen",
+   "link": "https://www.cnbc.com/2026/09/01/japan-bonds-yen-intervention-bessent.html",
+   "summary": "The yen weakened to 160 per dollar on Tuesday as bond yields came under pressure, as traders eyed the potential for Japan to hike interest rates.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "cnbc.com",
+   "published": "2026-09-01T07:53:10+00:00",
+   "tickers": []
+  },
+  {
+   "id": "4980196f4761",
+   "title": "Halozyme: The Market May Be Underpricing The Second Growth Wave",
+   "link": "https://seekingalpha.com/article/4941995-halozyme-the-market-may-be-underpricing-the-second-growth-wave?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-01T07:52:08+00:00",
+   "tickers": [
+    "HALO"
+   ]
+  },
   {
    "id": "3b3f18294c3a",
    "title": "Two people killed by flash flooding in Grand Canyon",
@@ -273,20 +317,6 @@
    "sentiment": "positive",
    "domain": "globenewswire.com",
    "published": "2026-09-01T07:45:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ed778555fb3a",
-   "title": "Japanese borrowing costs hit 30-year high as Bessent says Tokyo may intervene to boost yen",
-   "link": "https://www.cnbc.com/2026/09/01/japan-bonds-yen-intervention-bessent.html",
-   "summary": "The yen weakened to 160 per dollar on Tuesday as bond yields came under pressure, as traders eyed the potential for Japan to hike interest rates.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "cnbc.com",
-   "published": "2026-09-01T07:44:45+00:00",
    "tickers": []
   },
   {
@@ -8683,36 +8713,6 @@
    "domain": "investing.com",
    "published": "2026-08-31T23:01:15+00:00",
    "tickers": []
-  },
-  {
-   "id": "2a264d8f1164",
-   "title": "Bangkok Chain Hospital Public Company Limited 2026 Q2 - Results - Earnings Call Presentation",
-   "link": "https://seekingalpha.com/article/4941933-bangkok-chain-hospital-public-company-limited-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-08-31T23:01:06+00:00",
-   "tickers": []
-  },
-  {
-   "id": "92171a38fd9b",
-   "title": "Synopsys executive chair Aart de Geus sells $11.1m in stock",
-   "link": "https://www.investing.com/news/insider-trading-news/synopsys-executive-chair-aart-de-geus-sells-111m-in-stock-93CH-4883363",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-08-31T23:01:04+00:00",
-   "tickers": [
-    "SNPS"
-   ]
   }
  ],
  "ticker_names": {
@@ -8740,6 +8740,7 @@
   "FND": "Floor & Decor Holdings",
   "VZ": "Verizon Communications",
   "EAT": "Brinker International",
+  "HALO": "Halozyme Therapeutics",
   "CRWD": "CrowdStrike Holdings",
   "VOO": "Vanguard S&P 500 ETF",
   "HMY": "Harmony Gold Mining",
@@ -8802,7 +8803,6 @@
   "BCS": "Barclays",
   "CCL": "Carnival",
   "GOOG": "Alphabet",
-  "SNPS": "Synopsys",
   "SQ": "Cash App",
   "CVX": "Chevron",
   "IVZ": "Invesco",
