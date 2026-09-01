@@ -1,8 +1,22 @@
 {
- "generated": "2026-09-01T03:50:12.744912+00:00",
+ "generated": "2026-09-01T03:56:45.468945+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "cde002199cfb",
+   "title": "Orexo reaches non-binding agreement in principle to settle investigation by US Department of Justice",
+   "link": "https://www.prnewswire.com/news-releases/orexo-reaches-non-binding-agreement-in-principle-to-settle-investigation-by-us-department-of-justice-302865658.html",
+   "summary": "UPPSALA, Sweden, Sept. 1, 2026 /PRNewswire/ -- Orexo AB (publ) (STO: ORX) (OTCQX: ORXOY) today announced that the company has reached a non-binding agreement in principle on the main elements of a settlement with the US Department of Justice (DOJ). Orexo is in the last stages of...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "prnewswire.com",
+   "published": "2026-09-01T03:50:00+00:00",
+   "tickers": []
+  },
   {
    "id": "fc0b53f7a3a7",
    "title": "American Coastal Insurance: Cheap On Paper, Risky In Reality",
@@ -72,6 +86,22 @@
    "domain": "prnewswire.com",
    "published": "2026-09-01T03:41:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "e6e276e3228f",
+   "title": "Vistra CEO James Burke Buys 2,000 Shares After 29% Stock Decline",
+   "link": "https://www.nasdaq.com/articles/vistra-ceo-james-burke-buys-2000-shares-after-29-stock-decline",
+   "summary": "Key PointsThe 2,000 shares were purchased at $135.00 per share for a total transaction value of $270,000 on August 24, 2026.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-01T03:38:00+00:00",
+   "tickers": [
+    "VST"
+   ]
   },
   {
    "id": "09e086953c93",
@@ -8748,37 +8778,6 @@
    "tickers": [
     "MIR"
    ]
-  },
-  {
-   "id": "ac48b7fcc875",
-   "title": "Demotech, Inc. Supports Insurance Trade Organizations and Encourages Others to Do So",
-   "link": "https://www.prnewswire.com/news-releases/demotech-inc-supports-insurance-trade-organizations-and-encourages-others-to-do-so-302865325.html",
-   "summary": "COLUMBUS, Ohio, Aug. 31, 2026 /PRNewswire/ -- September is often the time when budgets for the current year are critically reviewed to see how things went, and budgeting for the ensuing year is taking shape. Demotech, Inc. encourages insurers and associate members of trade associations to...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-08-31T20:16:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6ff4154c3cb6",
-   "title": "West Coast Community Bancorp Files SEC Form 10 in Preparation for Nasdaq Uplist",
-   "link": "https://www.globenewswire.com/news-release/2026/08/31/3353701/0/en/west-coast-community-bancorp-files-sec-form-10-in-preparation-for-nasdaq-uplist.html",
-   "summary": "West Coast Community Bancorp files SEC Form 10, advancing its Nasdaq uplisting effort and enhancing transparency, visibility and access.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-08-31T20:16:00+00:00",
-   "tickers": [
-    "NDAQ",
-    "WST"
-   ]
   }
  ],
  "ticker_names": {
@@ -8904,6 +8903,7 @@
   "ORCL": "Oracle",
   "RDDT": "Reddit",
   "SPCX": "SpaceX",
+  "VST": "Vistra",
   "APTV": "Aptiv",
   "CHWY": "Chewy",
   "ETN": "Eaton",
