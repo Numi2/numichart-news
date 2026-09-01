@@ -1,8 +1,110 @@
 {
- "generated": "2026-09-01T10:47:25.756867+00:00",
+ "generated": "2026-09-01T10:53:35.857917+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "2537e73d7d62",
+   "title": "Euro zone inflation is back above 3%. Higher interest rates are likely to follow",
+   "link": "https://www.cnbc.com/2026/09/01/euro-zone-inflation-rate-hike.html",
+   "summary": "The European Central Bank is seen hiking rates in September as the Iran war raises energy costs in the region.",
+   "article_text": "",
+   "source": "CNBC Economy",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-09-01T10:50:27+00:00",
+   "tickers": []
+  },
+  {
+   "id": "d0eb7d42f71f",
+   "title": "8-K - MiniMed Group, Inc. (0002062583) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/2062583/000162828026059699/0001628280-26-059699-index.htm",
+   "summary": "Filed: 2026-09-01 AccNo: 0001628280-26-059699 Size: 300 KB Item 2.02: Results of Operations and Financial Condition Item 7.01: Regulation FD Disclosure Item 9.01: Financial Statements and Exhibits",
+   "article_text": "",
+   "source": "SEC 8-K Filings",
+   "category": "filings",
+   "type": "8k",
+   "sentiment": "neutral",
+   "domain": "sec.gov",
+   "published": "2026-09-01T10:50:10+00:00",
+   "tickers": []
+  },
+  {
+   "id": "46f3be0f1806",
+   "title": "MiniMed Group reports mixed Q1 results; raises FY2026 outlook",
+   "link": "https://seekingalpha.com/news/4638615-minimed-group-reports-mixed-q1-results-raises-fy2026-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-01T10:49:04+00:00",
+   "tickers": []
+  },
+  {
+   "id": "8e6f2e96bd90",
+   "title": "8-K - Medtronic plc (0001613103) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/1613103/000162828026059697/0001628280-26-059697-index.htm",
+   "summary": "Filed: 2026-09-01 AccNo: 0001628280-26-059697 Size: 941 KB Item 2.02: Results of Operations and Financial Condition Item 9.01: Financial Statements and Exhibits",
+   "article_text": "",
+   "source": "SEC 8-K Filings",
+   "category": "filings",
+   "type": "8k",
+   "sentiment": "neutral",
+   "domain": "sec.gov",
+   "published": "2026-09-01T10:47:19+00:00",
+   "tickers": [
+    "MDT"
+   ]
+  },
+  {
+   "id": "bb582f48d1fb",
+   "title": "Medtronic beats top-line and bottom-line estimates; raises FY26 outlook",
+   "link": "https://seekingalpha.com/news/4638614-medtronic-beats-top-line-and-bottom-line-estimates-raises-fy26-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-01T10:47:18+00:00",
+   "tickers": [
+    "MDT"
+   ]
+  },
+  {
+   "id": "b584fb132133",
+   "title": "Dow futures fall 200 points to kick off September as global bond yields rise: Live updates",
+   "link": "https://www.cnbc.com/2026/08/31/stock-market-today-live-updates.html",
+   "summary": "Stock futures fell Tuesday, the first day of September, as inflation worries and elevated oil prices lifted bond yields in the U.S. and abroad.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-09-01T10:47:02+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e9783c7063d8",
+   "title": "La Huawei Games Summit 2026 refuerza el apoyo a los desarrolladores de videojuegos chinos en Europa",
+   "link": "https://www.prnewswire.com/news-releases/la-huawei-games-summit-2026-refuerza-el-apoyo-a-los-desarrolladores-de-videojuegos-chinos-en-europa-302866144.html",
+   "summary": "La cumbre pone en contacto a los estudios chinos con partners europeos, les ofrece información sobre el mercado y les permite acceder a la experiencia de Huawei en materia de localización y cumplimiento normativo DÜSSELDORF, Alemania, 1 de septiembre de 2026 /PRNewswire/ -- Huawei ha...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-09-01T10:47:00+00:00",
+   "tickers": []
+  },
   {
    "id": "64642851dbff",
    "title": "8-K - Target Hospitality Corp. (0001712189) (Filer)",
@@ -2649,20 +2751,6 @@
    "tickers": []
   },
   {
-   "id": "b584fb132133",
-   "title": "Stock futures fall after Wall Street closes out winning August: Live updates",
-   "link": "https://www.cnbc.com/2026/08/31/stock-market-today-live-updates.html",
-   "summary": "The major averages fell Monday, but notched gains for the month.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "negative",
-   "domain": "cnbc.com",
-   "published": "2026-09-01T10:03:45+00:00",
-   "tickers": []
-  },
-  {
    "id": "dadd16ce2b16",
    "title": "Bunzl plc 2026 Q2 - Results - Earnings Call Presentation",
    "link": "https://seekingalpha.com/article/4942037-bunzl-plc-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
@@ -3292,20 +3380,6 @@
    "sentiment": "neutral",
    "domain": "cnbc.com",
    "published": "2026-09-01T09:56:26+00:00",
-   "tickers": []
-  },
-  {
-   "id": "2537e73d7d62",
-   "title": "Euro zone inflation is back above 3%. Higher interest rates are likely to follow",
-   "link": "https://www.cnbc.com/2026/09/01/euro-zone-inflation-rate-hike.html",
-   "summary": "The European Central Bank is seen hiking rates in September as the Iran war raises energy costs in the region.",
-   "article_text": "",
-   "source": "CNBC Economy",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-09-01T09:56:12+00:00",
    "tickers": []
   },
   {
@@ -8687,80 +8761,6 @@
    "tickers": [
     "ADC"
    ]
-  },
-  {
-   "id": "4980196f4761",
-   "title": "Halozyme: The Market May Be Underpricing The Second Growth Wave",
-   "link": "https://seekingalpha.com/article/4941995-halozyme-the-market-may-be-underpricing-the-second-growth-wave?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-01T07:52:08+00:00",
-   "tickers": [
-    "HALO"
-   ]
-  },
-  {
-   "id": "3b3f18294c3a",
-   "title": "Two people killed by flash flooding in Grand Canyon",
-   "link": "https://biztoc.com/x/2b35c4bc0baa6759?ref=rss",
-   "summary": "The bodies of two people killed during major flash flooding in the Grand Canyon National Park have been found. Officials said ...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-01T07:49:45+00:00",
-   "tickers": []
-  },
-  {
-   "id": "173f13a9ba15",
-   "title": "UAE Fends Off Iran Attack as Conflict Escalates | Horizons Middle East & Africa 9/1/2026",
-   "link": "https://biztoc.com/x/5813b59d53f0dc3d?ref=rss",
-   "summary": "The UAE says it fended off an Iranian attack as regional tensions escalate. A UAE adviser warns the current “neither war nor ...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-01T07:49:29+00:00",
-   "tickers": []
-  },
-  {
-   "id": "1890f8a00bf0",
-   "title": "Tesla's European registrations mixed in August, with strong France, Denmark supporting growth",
-   "link": "https://biztoc.com/x/54a7461048dfb81b?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-09-01T07:48:36+00:00",
-   "tickers": [
-    "TSLA"
-   ]
-  },
-  {
-   "id": "d09118509ecb",
-   "title": "UK's Bunzl forecasts modest profit growth, improves margin outlook",
-   "link": "https://biztoc.com/x/7d7a59d200d37bca?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "guidance",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-09-01T07:48:19+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8788,7 +8788,6 @@
   "HON": "Honeywell International",
   "AMD": "Advanced Micro Devices",
   "DKS": "DICK'S Sporting Goods",
-  "HALO": "Halozyme Therapeutics",
   "PB": "Prosperity Bancshares",
   "PLTR": "Palantir Technologies",
   "CRWD": "CrowdStrike Holdings",
