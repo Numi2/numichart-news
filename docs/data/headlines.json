@@ -1,8 +1,609 @@
 {
- "generated": "2026-09-02T13:33:14.877035+00:00",
+ "generated": "2026-09-02T13:43:06.795353+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "f7d41817a809",
+   "title": "8-K - Wells Fargo Commercial Mortgage Trust 2019-C51 (0001776721) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/1776721/000188852426016535/0001888524-26-016535-index.htm",
+   "summary": "Filed: 2026-09-02 AccNo: 0001888524-26-016535 Size: 35 KB Item 6.02: Change of Servicer or Trustee",
+   "article_text": "",
+   "source": "SEC 8-K Filings",
+   "category": "filings",
+   "type": "8k",
+   "sentiment": "neutral",
+   "domain": "sec.gov",
+   "published": "2026-09-02T13:39:55+00:00",
+   "tickers": [
+    "WFC"
+   ]
+  },
+  {
+   "id": "837f58a5b908",
+   "title": "S&P 500, Dow open higher as oil prices, yields halt surge",
+   "link": "https://www.investing.com/news/stock-market-news/us-futures-muted-as-markets-parse-rate-jitters-more-iran-strikes-4885211",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-02T13:39:20+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b4e4061af026",
+   "title": "Zegna faces earnings test as luxury slowdown weighs on brands",
+   "link": "https://www.investing.com/news/earnings/zegna-faces-earnings-test-as-luxury-slowdown-weighs-on-brands-93CH-4886296",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-02T13:38:21+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ebc2c57d095f",
+   "title": "Replimune Group stock hits 52-week high at 16.2 USD",
+   "link": "https://www.investing.com/news/company-news/replimune-group-stock-hits-52week-high-at-162-usd-93CH-4886289",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-02T13:37:26+00:00",
+   "tickers": []
+  },
+  {
+   "id": "cfc8b48705f0",
+   "title": "Goldcom earnings on deck after exceptional volatility-driven Q3",
+   "link": "https://www.investing.com/news/earnings/goldcom-earnings-on-deck-after-exceptional-volatilitydriven-q3-93CH-4886288",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-02T13:37:25+00:00",
+   "tickers": []
+  },
+  {
+   "id": "1b172fea0041",
+   "title": "Coldwell Banker Realty CEO on how 'AI money' impacts home prices",
+   "link": "https://biztoc.com/x/571601dac66b16cd?ref=rss",
+   "summary": "Kamini Lane, CEO of Coldwell Banker Realty, talks with CNBC's Diana Olick about the impact “AI money” is having on home ...",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-02T13:37:14+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ad35dc7ca30e",
+   "title": "Stifel reiterates Buy on Definium Therapeutics stock, $60 target",
+   "link": "https://www.investing.com/news/analyst-ratings/stifel-reiterates-buy-on-definium-therapeutics-stock-60-target-93CH-4886287",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "analyst",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-02T13:37:02+00:00",
+   "tickers": []
+  },
+  {
+   "id": "34c5be2d2a31",
+   "title": "Energy price surge hits bond markets as European gas reaches three-year high",
+   "link": "https://www.ft.com/content/f73c2c95-5c73-4b2f-9f00-9fa8c12c10c9?syn-25a6b1a6=1",
+   "summary": "US 10-year borrowing costs touch highest since 2023 as fears of return to full-blown Iran conflict rise",
+   "article_text": "",
+   "source": "FT Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "ft.com",
+   "published": "2026-09-02T13:36:55+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a769d29be801",
+   "title": "S&P 500, Dow post slim gains at open as Iran tensions clash with AI optimism",
+   "link": "https://www.investing.com/news/stock-market-news/sp-500-dow-post-slim-gains-at-open-as-iran-tensions-clash-with-ai-optimism-4886286",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-09-02T13:36:53+00:00",
+   "tickers": []
+  },
+  {
+   "id": "9d6e695f31d7",
+   "title": "Vertex Pharmaceuticals stock hits all-time high at $555.84",
+   "link": "https://www.investing.com/news/company-news/vertex-pharmaceuticals-stock-hits-alltime-high-at-55584-93CH-4886285",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-09-02T13:36:37+00:00",
+   "tickers": [
+    "VRTX"
+   ]
+  },
+  {
+   "id": "0b35e6dc2719",
+   "title": "Chevron will expand Venezuela operations, more than doubling production through $7 billion investment",
+   "link": "https://www.cnbc.com/2026/09/02/chevron-venezuela-operations.html",
+   "summary": "Chevron's announcement comes amid a broader U.S. push to increase oil production in Venezuela.",
+   "article_text": "Chevron will expand Venezuela operations through $7 billion investment Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Key Points Chevron has been assigned two additional oilfields in the Orinoco Belt, the region that contains most of Venezuela's vast extra heavy crude reserves. Chevron plans to increase its production in the country to 600,000 barrels per day over the next five years compared with around 280,000 bpd currently. In this article CVX Follow your favorite stocks CREATE FREE ACCOUNT watch now VIDEO 0:35 00:35 Chevron will expand Venezuela operations, more than doubling production through $7B investment Squawk Box Chevron announced plans Wednesday to more than double its oil production in Venezuela over the next five years through a $7 billion investment that expands its position in the South American nation. The oil major has been assigned two additional oilfields in the Orinoco Belt, the region that contains most of Venezuela's vast extra-heavy crude reserves. Chevron plans to increase its production in the country to 600,000 barrels per day compared with around 280,000 bpd currently. Chevron is the only U.S. oil major active in Venezuela through joint ventures with state-owned oil company Petróleos de Venezuela SA. \"With improved terms and additional acreage, we are strengthening a portfolio that we believe can deliver attractive low-cost oil growth, support energy supply and create differentiated long-term value,\" Chevron CEO Mike Wirth said in a statement. Chevron's announcement comes as the U.S. government pushes to increase oil production in Venezuela through private investment. The country's oil infrastructure is in a state of disrepair after years of mismanagement by its socialist government. President Donald Trump announced Friday that the U.S. secured majority control over 65 billion barrels of Venezuela's crude oil reserves, about 20% of the 303 billion barrels the country is thought to possess. U.S. Energy Secretary Chris Wright is visiting Venezuela on Wednesday. Washington has partnered with the private oil company North American Blue Energy Partners to develop those reserves. Venezuela's interim government has given NABEP concessions to 17 oilfields for 100 years. NABEP, in turn, has granted the U.S. Defense Department a 35% equity stake. The U.S. captured former President Nicolás Maduro in a military raid in January and seized control of Venezuela's oil exports. Washington has partnered with interim President Delcy Rodríguez, who served as vice president under Maduro. Chevron shares were up less than 1% in morning trading Wednesday. Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "cnbc.com",
+   "published": "2026-09-02T13:36:34+00:00",
+   "tickers": [
+    "CVX"
+   ]
+  },
+  {
+   "id": "682bc62908dc",
+   "title": "John Wiley earnings loom as AI momentum faces new test",
+   "link": "https://www.investing.com/news/earnings/john-wiley-earnings-loom-as-ai-momentum-faces-new-test-93CH-4886284",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-02T13:36:29+00:00",
+   "tickers": []
+  },
+  {
+   "id": "3b979d9e48c6",
+   "title": "Stocks Settle Lower as Bond Yields Surge",
+   "link": "https://www.nasdaq.com/articles/stocks-settle-lower-bond-yields-surge",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down by -0.71% on Tuesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down by -0.79%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down by -1.29%. E-mini S&P futures (ESU26 ) fell -0.71%, and September E-mini...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-09-02T13:35:38+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
+  },
+  {
+   "id": "eff1a67d1d03",
+   "title": "Wiley earnings loom: Investors brace for AI, acquisition update",
+   "link": "https://www.investing.com/news/earnings/wiley-earnings-loom-investors-brace-for-ai-acquisition-update-93CH-4886283",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-02T13:35:35+00:00",
+   "tickers": []
+  },
+  {
+   "id": "7cb09a99ebf8",
+   "title": "30 large-cap stocks flashing Strong Buy rating",
+   "link": "https://seekingalpha.com/news/4638190-30-large-cap-stocks-flashing-strong-buy-rating?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-02T13:35:34+00:00",
+   "tickers": []
+  },
+  {
+   "id": "bed8ad79462a",
+   "title": "Dell’s AI surge puts ETFs with heavy exposure in focus",
+   "link": "https://seekingalpha.com/news/4639340-dells-ai-surge-puts-etfs-with-heavy-exposure-in-focus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-02T13:35:30+00:00",
+   "tickers": [
+    "DELL"
+   ]
+  },
+  {
+   "id": "21f716df03d7",
+   "title": "G20 live updates: Nvidia's Huang pushes for AI infrastructure in every country",
+   "link": "https://www.cnbc.com/2026/09/02/g20-innovation-ministerial-live-updates.html",
+   "summary": "Follow Day 2 of the G20 Innovation Ministerial in Chapel Hill, North Carolina, with Jensen Huang, Sam Altman, and ministers discussing AI, policy and trade.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-09-02T13:35:22+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c83379fc4fc3",
+   "title": "Bit Digital see highest short interest in August among micro, small-cap firms",
+   "link": "https://seekingalpha.com/news/4638883-bit-digital-see-highest-short-interest-in-august-among-micro-small-cap-firms?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-02T13:35:01+00:00",
+   "tickers": [
+    "BTBT"
+   ]
+  },
+  {
+   "id": "8b5b020ee997",
+   "title": "Community Credit Union breaks ground on new Palm Shores headquarters",
+   "link": "https://biztoc.com/x/694470b1185420c6?ref=rss",
+   "summary": "Community Credit Union of Florida broke ground on a new corporate headquarters in Palm Shores on Aug. 20, marking the start of a project intended to consolidate operations and accommodate the credit union's continued growth in Brevard County. The three-story headquarters will be built at 5560 N.…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-02T13:34:43+00:00",
+   "tickers": []
+  },
+  {
+   "id": "3ce96b91e002",
+   "title": "Billionaire Portfolios: 2 Under-$20 Healthcare Stock Picks",
+   "link": "https://biztoc.com/x/55ec1af5857a9fd3?ref=rss",
+   "summary": "The recent breakout of Moderna reminded investors that AI stocks aren't the only destination to make money. Healthcare and biotech stocks offer promising long-term opportunities if chosen wisely. We ran an analysis based on Insider Monkey's proprietary database of over 900 hedge funds to see which…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-02T13:34:38+00:00",
+   "tickers": [
+    "MRNA"
+   ]
+  },
+  {
+   "id": "9e8bd161b41c",
+   "title": "Johnson and Johnson stock hits all-time high at 276.5 USD",
+   "link": "https://www.investing.com/news/company-news/johnson-and-johnson-stock-hits-alltime-high-at-2765-usd-93CH-4886280",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-09-02T13:34:37+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f25c3746bd3d",
+   "title": "Ecommerce Evolution: Shopify’s (SHOP) AI-Driven Approach to Retail Success",
+   "link": "https://biztoc.com/x/6e879121364bccdf?ref=rss",
+   "summary": "Sands Capital, an investment management company, released its \"Sands Capital Select Growth Fund\" Q2 2026 investor letter. The letter can be downloaded here. Select Growth Fund targets U.S. businesses driving significant structural change through disruptive innovation. The fund returned 23.2% in…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-02T13:34:28+00:00",
+   "tickers": [
+    "SHOP"
+   ]
+  },
+  {
+   "id": "af6c1896d2f6",
+   "title": "If You Only Buy One Chip Stock This September, History Points to This One",
+   "link": "https://biztoc.com/x/81002211681a3ef7?ref=rss",
+   "summary": "If I had to choose one semiconductor stock to buy going into September, Lam Research (NASDAQ: LRCX) would be near the top of my list. Its seasonal track record is worth paying attention to, but the bigger story is what's happening across the business right now. Demand for chipmaking equipment…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-02T13:34:23+00:00",
+   "tickers": [
+    "LRCX"
+   ]
+  },
+  {
+   "id": "b88236fd7d5a",
+   "title": "Nepal intensifies relief and recovery efforts after deadly floods, UN says",
+   "link": "https://biztoc.com/x/c88fb085152e2395?ref=rss",
+   "summary": "Watch: Near ground zero of the Nepal floods Nepal is intensifying relief and recovery operations following the catastrophic flash floods along the Nepal-Tibet border a week ago, the UN says, even as rescuers scramble to reach anyone who may be alive. For thousands, the priority is delivering aid,…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-02T13:34:22+00:00",
+   "tickers": []
+  },
+  {
+   "id": "abaedb3f4ba7",
+   "title": "Navigating Spotify Technology S.A.’s (SPOT) AI Transformation and Revenue Growth Strategies",
+   "link": "https://biztoc.com/x/5e209c15d1db598c?ref=rss",
+   "summary": "Sands Capital, an investment management company, released its \"Sands Capital Select Growth Fund\" Q2 2026 investor letter. The letter can be downloaded here. Select Growth Fund targets U.S. businesses driving significant structural change through disruptive innovation. The fund returned 23.2% in…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-02T13:34:19+00:00",
+   "tickers": [
+    "SPOT"
+   ]
+  },
+  {
+   "id": "3116e7ca87a2",
+   "title": "3 Dividend-Paying Industrial Stocks to Buy Right Now",
+   "link": "https://biztoc.com/x/b1f0f15a2e08f978?ref=rss",
+   "summary": "Buying and holding shares of competitively positioned businesses is one of the best ways to build dividend income for the long haul. These companies generate more cash than they need to run the business, which supports steady (and often rising) dividend payments. Stanley Black & Decker (NYSE:…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-02T13:34:12+00:00",
+   "tickers": [
+    "SWK"
+   ]
+  },
+  {
+   "id": "c42ddc7d5590",
+   "title": "8-K - Morgan Stanley Bank of America Merrill Lynch Trust 2016-C31 (0001687031) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/1687031/000188852426016533/0001888524-26-016533-index.htm",
+   "summary": "Filed: 2026-09-02 AccNo: 0001888524-26-016533 Size: 35 KB Item 6.02: Change of Servicer or Trustee",
+   "article_text": "",
+   "source": "SEC 8-K Filings",
+   "category": "filings",
+   "type": "8k",
+   "sentiment": "neutral",
+   "domain": "sec.gov",
+   "published": "2026-09-02T13:33:58+00:00",
+   "tickers": [
+    "BAC",
+    "MS"
+   ]
+  },
+  {
+   "id": "52fc851cb106",
+   "title": "Raymond James acts on Ally Financial, Flagstar Bank, Bank OZK, others",
+   "link": "https://seekingalpha.com/news/4639439-raymond-james-acts-on-ally-financial-flagstar-bank-bank-ozk-others?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-02T13:33:49+00:00",
+   "tickers": [
+    "OZK",
+    "ALLY"
+   ]
+  },
+  {
+   "id": "e525f8dfbe08",
+   "title": "Apple CEO Ternus calls upcoming launch ‘phenomenal’ in first-day memo",
+   "link": "https://seekingalpha.com/news/4639432-apple-ceo-ternus-calls-upcoming-launch-phenomenal-in-first-day-memo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-02T13:33:35+00:00",
+   "tickers": [
+    "AAPL"
+   ]
+  },
+  {
+   "id": "162001191b59",
+   "title": "Wall Street inches up after tech-led selloff",
+   "link": "https://seekingalpha.com/news/4639330-sp500-nasdaq-dow-jones-outlook-stock-market?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-02T13:33:24+00:00",
+   "tickers": []
+  },
+  {
+   "id": "8a07eb69aebb",
+   "title": "Canadian Tire, Tim Hortons launch loyalty partnership allowing Triangle members to earn on select Tims purchases",
+   "link": "https://biztoc.com/x/750ed294e0e76865?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-02T13:33:14+00:00",
+   "tickers": []
+  },
+  {
+   "id": "0ee8bc0d6941",
+   "title": "Aurora Cannabis urges shareholders to reject hostile takeover offer by Curaleaf",
+   "link": "https://biztoc.com/x/59111f3a46ee9fe9?ref=rss",
+   "summary": "Aurora Cannabis Inc. ACB-T is urging its shareholders to reject a hostile takeover bid by Curaleaf Holdings Inc. CURA-T The company says the unsolicited bid by Curaleaf undervalues Aurora and is not in the best interests of shareholders. Aurora says it is debt free and has about $149-million in…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-02T13:32:54+00:00",
+   "tickers": []
+  },
+  {
+   "id": "dc8ce206cac5",
+   "title": "Invesco Value Municipal Income Trust declares $0.0771 dividend",
+   "link": "https://seekingalpha.com/news/4639471-invesco-value-municipal-income-trust-declares-0_0771-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-02T13:32:53+00:00",
+   "tickers": [
+    "IVZ"
+   ]
+  },
+  {
+   "id": "6959075113ec",
+   "title": "Raymond James reveals 2 stocks worth buying for the rest of 2026",
+   "link": "https://biztoc.com/x/5710754bbadea689?ref=rss",
+   "summary": "Wall Street firms spend the back half of every year deciding where the next round of gains might come from. Their research gives investors a shortcut, since it packages deep company knowledge and financial modeling into a short list of names worth watching. Raymond James just published one of…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-02T13:32:07+00:00",
+   "tickers": []
+  },
+  {
+   "id": "44018969ceb6",
+   "title": "US opens mostly higher after jobs data, Iran escalation",
+   "link": "https://biztoc.com/x/2b161e39b7503775?ref=rss",
+   "summary": "Major Wall Street stock equities traded at the opening bell on Wednesday after the latest employment data came in weaker than expected, and the United States and Iran traded new strikes, further accen...",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-02T13:32:02+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c353c1a91989",
+   "title": "Wells Fargo ‘energized’ for growth after years under asset cap",
+   "link": "https://biztoc.com/x/9f1132c13209f85f?ref=rss",
+   "summary": "Wells Fargo's top executive in Dallas says the bank's \"energized\" to grow in North Texas after the removal of its long-standing federal asset cap. The bank has more than doubled its commercial banking team, is ahead of growth targets and plans to keep adding bankers as competition intensifies…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-02T13:32:01+00:00",
+   "tickers": [
+    "WFC"
+   ]
+  },
+  {
+   "id": "819a89cfd788",
+   "title": "Kyivstar to Release 3Q26 Earnings on November 6, 2026 Reschedules Capital Markets Day to November 17, 2026",
+   "link": "https://www.globenewswire.com/news-release/2026/09/02/3355279/0/en/kyivstar-to-release-3q26-earnings-on-november-6-2026-reschedules-capital-markets-day-to-november-17-2026.html",
+   "summary": "KYIV, Ukraine and DUBAI, United Arab Emirates and NEW YORK, Sept. 02, 2026 (GLOBE NEWSWIRE) -- Kyivstar Group Ltd. (Nasdaq: KYIV; KYIVW) (“Kyivstar” or “the Group”), Ukraine’s leading digital operator and the first Ukrainian company to trade on Nasdaq, today announces that it will release its consolidated financial and operating results for the third quarter ended September 30, 2026, on November 6, 2026. Kyivstar will also host a conference call with senior management following the release.",
+   "article_text": "",
+   "source": "GlobeNewswire",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "globenewswire.com",
+   "published": "2026-09-02T13:32:00+00:00",
+   "tickers": [
+    "NDAQ"
+   ]
+  },
+  {
+   "id": "e39ff086eb41",
+   "title": "U.S. job openings rise slightly to 7.3 million as labor market remains sturdy despite higher costs - ABC News",
+   "link": "https://biztoc.com/x/6efd784d4e81a651?ref=rss",
+   "summary": "U.S. job openings rise slightly to 7.3 million as labor market remains sturdy despite higher costs Employers posted slightly more job openings in July but as the American labor market remained sturdy in the face of higher costs that are squeezing household budgets WASHINGTON -- Employers posted…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-09-02T13:31:55+00:00",
+   "tickers": [
+    "NWSA"
+   ]
+  },
+  {
+   "id": "9ee5b716e83f",
+   "title": "A War That Won’t End Is Complicating the Fed’s Next Move",
+   "link": "https://biztoc.com/x/e6c7c179d4ee67d9?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "macro",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-09-02T13:31:52+00:00",
+   "tickers": []
+  },
+  {
+   "id": "925176107ba9",
+   "title": "9 things you should never do at a golf course, according to PGA pros and employees",
+   "link": "https://biztoc.com/x/5ef97569235d1ded?ref=rss",
+   "summary": "Golf has a few more etiquette rules and guidelines than other sports. Mr.Somchai Sukkasem/Shutterstock We asked people working in the golf industry and other pros what not to do on a golf course. They said leaving ball marks and setting your bag down on the green is bad etiquette. Arriving late…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-02T13:31:51+00:00",
+   "tickers": []
+  },
   {
    "id": "019b2cfccc3e",
    "title": "Invesco Senior Income Trust declares $0.029 dividend",
@@ -17,6 +618,96 @@
    "published": "2026-09-02T13:31:45+00:00",
    "tickers": [
     "IVZ"
+   ]
+  },
+  {
+   "id": "4f9605d7ce63",
+   "title": "Trump to host 9/11 event on September 8",
+   "link": "https://biztoc.com/x/a11acac804b2108f?ref=rss",
+   "summary": "United States President Donald Trump will host a remembrance event to commemorate the 25th anniversary of the September 11 terrorist attacks on September 8, White House Assistant Press Secretary Olivi...",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-02T13:31:41+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ec1dfd260d3f",
+   "title": "CrowdStrike and federal authorities dismantle Russian malware that secretly stole crypto for 8 years",
+   "link": "https://biztoc.com/x/862c66eba44bea94?ref=rss",
+   "summary": "Vercel Security Checkpoint cle1::1788355900-cojOMt0LBP5WtVuSecNeCyBMK2G15ziB",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-02T13:31:41+00:00",
+   "tickers": [
+    "CRWD"
+   ]
+  },
+  {
+   "id": "0a04dcf0a907",
+   "title": "New LA Angels owner Stan Kroenke is quietly America’s largest private landowner, boasting 2.7 million acres and besting Bill Gates and Jeff Bezos",
+   "link": "https://biztoc.com/x/65983c69a67853a2?ref=rss",
+   "summary": "Stan Kroenke, the billionaire owner of the world’s most valuable portfolio of sports clubs, including London’s Arsenal Football Club and most recently, the Los Angeles Angels, also boasts another title. The Colorado real-estate magnate, once dubbed “Silent Stan” for his reticence to talk to the…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-02T13:31:33+00:00",
+   "tickers": []
+  },
+  {
+   "id": "27bac82fea05",
+   "title": "World to surpass 1.5-degree climate goal ‘in the next few years,’ UN warns",
+   "link": "https://biztoc.com/x/6a6997bc3d247c0d?ref=rss",
+   "summary": "In a strategic retreat in the fight against climate change, the United Nations has acknowledged that Earth has lost its chance to prevent some of the worst of global warming’s harms. So now the world must figure out how to get temperatures below the danger zone and back to safety, officials…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-09-02T13:31:33+00:00",
+   "tickers": []
+  },
+  {
+   "id": "fb13adb777f2",
+   "title": "Uber to cut 10% of workforce in bid to move 'simpler and faster'",
+   "link": "https://biztoc.com/x/d3f63c96befbbb63?ref=rss",
+   "summary": "Uber on Wednesday announced plans to slash 10% of its workforce in a move to consolidate management layers and trim costs. \"The changes we're making today are designed to do two things: make Uber simpler and faster, and create more capacity to invest in our future,\" CEO Dara Khosrowshahi wrote in…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-09-02T13:31:30+00:00",
+   "tickers": [
+    "UBER"
+   ]
+  },
+  {
+   "id": "bb64acee2a32",
+   "title": "Apple’s New CEO Has 8 Days to Answer the AI Question That Could Redefine Computing",
+   "link": "https://biztoc.com/x/f1d95fdf80491aaf?ref=rss",
+   "summary": "The post Apple’s New CEO Has 8 Days to Answer the AI Question That Could Redefine Computing appeared first on 24/7 Wall St.. John Ternus starts as Apple (NASDAQ:AAPL) CEO with the stock near a historic high, and roughly 8 days remain before a September hardware event where he will address the…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-02T13:31:30+00:00",
+   "tickers": [
+    "AAPL"
    ]
   },
   {
@@ -36,6 +727,78 @@
    ]
   },
   {
+   "id": "837c8ab7e171",
+   "title": "Labor Day Weather Map Shows Areas Facing Worst Storms, Extreme Heat",
+   "link": "https://biztoc.com/x/3804528dde8aec38?ref=rss",
+   "summary": "Americans looking forward to Labor Day weekend will find themselves caught between two weather extremes, with severe heat forecast for parts of the central United States and powerful storms threatening flash flooding and disruptions from the West to the Southeast. AccuWeather forecasters say the…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-02T13:31:28+00:00",
+   "tickers": [
+    "WST"
+   ]
+  },
+  {
+   "id": "5fd3b35d8876",
+   "title": "Fed's Warsh Lays Out Data Dashboard to Read US Economy",
+   "link": "https://biztoc.com/x/583f9866ca84a12b?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-02T13:31:25+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ea8af73d596e",
+   "title": "Travis Kelce Reveals Intimate Taylor Swift Wedding Details",
+   "link": "https://biztoc.com/x/f6179ebf10e6d32f?ref=rss",
+   "summary": "Travis Kelce has spoken in detail about his wedding to Taylor Swift for the first time since the two tied the knot in New York City on July 3. Speaking on the first episode of his podcast New Heights since the wedding, the Kansas City Chief’s player said, “It was insane; it’s a night I will never…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-02T13:31:23+00:00",
+   "tickers": []
+  },
+  {
+   "id": "261741481c1c",
+   "title": "How to Spend Six Years Inventing a $499 Toothbrush With ‘No Idea’ of the Market",
+   "link": "https://biztoc.com/x/5a680696c911a79a?ref=rss",
+   "summary": "Plus, what should you call a nonalcoholic beer with a tiny bit of alcohol in it?",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-02T13:31:22+00:00",
+   "tickers": []
+  },
+  {
+   "id": "27392a93bf70",
+   "title": "Faisal Islam: Why bond market wildfire is keeping world leaders up at night",
+   "link": "https://biztoc.com/x/b41ccf8f93daef1c?ref=rss",
+   "summary": "Published It is not just the wildfire burning in the bond markets, with many countries facing interest rates at multi-decade highs. The markets lending money to governments appear to be changing more fundamentally too. Over summer, the message has been made clear: countries will have to pay more…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-02T13:31:22+00:00",
+   "tickers": []
+  },
+  {
    "id": "f57863049cd0",
    "title": "Invesco Quality Municipal Income Trust declares $0.0631 dividend",
    "link": "https://seekingalpha.com/news/4639467-invesco-quality-municipal-income-trust-declares-0_0631-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -52,6 +815,96 @@
    ]
   },
   {
+   "id": "6ab356304bfd",
+   "title": "US extends ban on flights to Haiti's capital as gang violence surges",
+   "link": "https://biztoc.com/x/909b205c0d4794d0?ref=rss",
+   "summary": "US extends ban on flights to Haiti's capital as gang violence surges The U.S. Federal Aviation Administration has extended a ban on U.S. flights to Haiti’s capital until March as gang violence persists PORT-AU-PRINCE, Haiti -- The U.S. Federal Aviation Administration has extended a ban on U.S.…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-09-02T13:31:19+00:00",
+   "tickers": [
+    "AU"
+   ]
+  },
+  {
+   "id": "1af2c6578be5",
+   "title": "Dell Surges 9% on Record $95B AI Backlog, Hewlett Packard Enterprise Climbs 4%, Super Micro Ticks Up",
+   "link": "https://biztoc.com/x/a19cc905bb5a6141?ref=rss",
+   "summary": "The post Dell Surges 9% on Record $95B AI Backlog, Hewlett Packard Enterprise Climbs 4%, Super Micro Ticks Up appeared first on 24/7 Wall St.. Shares of Dell Technologies (NYSE:DELL) are reversing Tuesday’s pre-earnings selloff after the company posted a record AI order book and lifted its…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-09-02T13:31:18+00:00",
+   "tickers": [
+    "DELL",
+    "HPE",
+    "SMCI"
+   ]
+  },
+  {
+   "id": "31fce9a578d6",
+   "title": "This Beer Is No. 1 in More States Than Any Other — and It’s Not Bud Light",
+   "link": "https://biztoc.com/x/e50e89893a8cada0?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-02T13:31:17+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ef72cef6f52c",
+   "title": "I visited a Maryland town in the 'new Hamptons.' This laid-back hidden gem is my new favorite vacation spot",
+   "link": "https://biztoc.com/x/cda2423e9e892e53?ref=rss",
+   "summary": "I love visiting Maryland's Eastern Shore, which has been called the \"new Hamptons.\" Leigh Scheps Even though I grew up in New Jersey, I rarely visited the Hamptons. Now, my family and I like to visit Maryland's Eastern Shore, nicknamed the \"new Hamptons.\" Easton is our favorite town to visit…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-02T13:31:17+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e949491dc11b",
+   "title": "Ukrainian soldiers are finding deceptive uses for their unjammable fiber-optic drones as ambush tactics spread",
+   "link": "https://biztoc.com/x/0c6b041577f22f22?ref=rss",
+   "summary": "Ukraine can let its fiber-optic drones lie in wait and draw Russian soldiers out. Jose Colon/Anadolu via Getty Images Ukraine is using fiber-optic drones in deceptive new ways, a soldier said. They can gather close-up intel on Russian bunkers and help shape attacks. Drones that wait to strike are…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-02T13:31:16+00:00",
+   "tickers": []
+  },
+  {
+   "id": "be45f63694c2",
+   "title": "My Employee Refuses To Learn Technology",
+   "link": "https://biztoc.com/x/bac124c3bd9a9f34?ref=rss",
+   "summary": "and two other tricky workplace dilemmas.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-02T13:31:16+00:00",
+   "tickers": []
+  },
+  {
    "id": "165dc32062ab",
    "title": "Ferroglobe says European Union starts antidumping review on Chinese silicon",
    "link": "https://seekingalpha.com/news/4639446-ferroglobe-says-european-union-starts-antidumping-review-on-chinese-silicon?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -64,6 +917,23 @@
    "domain": "seekingalpha.com",
    "published": "2026-09-02T13:31:15+00:00",
    "tickers": []
+  },
+  {
+   "id": "f33e3bfdb0ac",
+   "title": "Brookfield, Blackstone See Value in Fixing Climate Risks to India Real Estate",
+   "link": "https://biztoc.com/x/008ffbe0130ff591?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-02T13:31:07+00:00",
+   "tickers": [
+    "BN",
+    "BX"
+   ]
   },
   {
    "id": "703047d4bb86",
@@ -112,6 +982,20 @@
    "tickers": []
   },
   {
+   "id": "ae9c639a45ce",
+   "title": "Enovis Corporation (ENOV) eCential Robotics SAS - M&A Call - Slideshow",
+   "link": "https://seekingalpha.com/article/4942418-enovis-corporation-enov-ecential-robotics-sas-m-and-a-call-slideshow?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-02T13:30:59+00:00",
+   "tickers": []
+  },
+  {
    "id": "670d14359643",
    "title": "Ford targets NATO military contract with ranger-based defense vehicles - report",
    "link": "https://seekingalpha.com/news/4639436-ford-targets-nato-military-contract-with-ranger-based-defense-vehicles---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -148,7 +1032,7 @@
    "title": "Uber to cut 10% of workforce in bid to move 'simpler and faster'",
    "link": "https://www.cnbc.com/2026/09/02/uber-to-cut-10percent-of-workforce-in-bid-to-move-simpler-and-faster.html",
    "summary": "Uber is cutting small teams by nearly half and allowing about 1% of its workforce to continue working remotely.",
-   "article_text": "Uber to cut 10% of workforce in bid to move 'simpler and faster' Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Key Points Uber is cutting 10% of its workforce in an effort to consolidate management layers and trim costs. CEO Dara Khosrowshahi said the decision will help make Uber \"simpler and faster\" and allow the company to invest in growth opportunities. Khosrowshahi did not attribute the cuts to AI, which has been responsible for a wave of recent tech layoffs. In this article UBER Follow your favorite stocks CREATE FREE ACCOUNT Dara Khosrowshahi, chief executive officer of Uber Technologies Inc., speaks during an Uber product unveiling event in New York, US, on Wednesday, May 14, 2025. Yuki Iwamura | Bloomberg | Getty Images Uber on Wednesday announced plans to slash 10% of its workforce in a move to consolidate management layers and trim costs. \"The changes we're making today are designed to do two things: make Uber simpler and faster, and create more capacity to invest in our future,\" CEO Dara Khosrowshahi wrote in an email to employees. The ride-hailing company's shares rose about 2% in premarket trading. Uber is the latest company to flatten management structures to speed up decision-making and improve efficiency. Khosrowshahi did not attribute the cuts to artificial intelligence, which has been responsible for a recent wave of tech layoffs . The changes include cutting small teams consisting of one to two reports by nearly half and trimming employees seven steps away from the CEO by 20%. Khosrowshahi said Uber has outgrown many of these structures at its current size. Uber is also combining more teams and concentrating more teams in hubs like New York and San Francisco. The company will allow about 1% to continue working remotely, Khosrowshahi said. \"A leaner organization will mean clearer ownership, faster decisions, and more time spent building rather than coordinating,\" he said. Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
+   "article_text": "Uber to cut 10% of workforce in bid to move 'simpler and faster' Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Key Points Uber is cutting 10% of its workforce in an effort to consolidate management layers and trim costs. CEO Dara Khosrowshahi said the decision will help make Uber \"simpler and faster\" and allow the company to invest in growth opportunities. Khosrowshahi did not attribute the cuts to AI, which has been responsible for a wave of recent tech layoffs. In this article UBER Follow your favorite stocks CREATE FREE ACCOUNT Dara Khosrowshahi, chief executive officer of Uber Technologies Inc., speaks during an Uber product unveiling event in New York, US, on Wednesday, May 14, 2025. Yuki Iwamura | Bloomberg | Getty Images Uber on Wednesday announced plans to slash 10% of its workforce in a move to consolidate management layers and trim costs. \"The changes we're making today are designed to do two things: make Uber simpler and faster, and create more capacity to invest in our future,\" CEO Dara Khosrowshahi wrote in an email to employees. The ride-hailing company's shares rose about 2% in premarket trading. Uber declined to comment on the number of jobs cut. The company had around 34,000 employees at the end of 2025, according to an annual filing. Uber is the latest company to flatten management structures to speed up decision-making and improve efficiency. Khosrowshahi did not attribute the cuts to artificial intelligence, which has been responsible for a recent wave of tech layoffs . The changes include cutting small teams consisting of one to two reports by nearly half and trimming employees seven steps away from the CEO by 20%. Khosrowshahi said Uber has outgrown many of these structures at its current size. Uber is also combining more teams and concentrating more employees in hubs like New York and San Francisco. The company will allow about 1% to continue working remotely, Khosrowshahi said. \"A leaner organization will mean clearer ownership, faster decisions, and more time spent building rather than coordinating,\" he said. Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
    "source": "CNBC Top",
    "category": "markets",
    "type": "downgrade",
@@ -192,12 +1076,26 @@
    ]
   },
   {
+   "id": "1075740db63d",
+   "title": "&quot;Not Much You Can Do About the Yields.&quot; Wrong.",
+   "link": "https://www.nasdaq.com/articles/not-much-you-can-do-about-yields-wrong",
+   "summary": "Three investors walk into a bar and start talking retirement. But just two of them volunteer their honest opinions.",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-02T13:30:02+00:00",
+   "tickers": []
+  },
+  {
    "id": "3df25f9c0d8c",
    "title": "H.I.G. Capital Invests in Outcomes",
    "link": "https://www.prnewswire.com/news-releases/hig-capital-invests-in-outcomes-302866916.html",
    "summary": "MIAMI, Sept. 2, 2026 /PRNewswire/ -- H.I.G. Capital (\"H.I.G.\"), a leading global alternative investment firm with $75 billion of capital under management, is pleased to announce that one of its affiliates has completed the acquisition of Outcomes One (\"Outcomes\" or the \"Company\"), a...",
    "article_text": "",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -211,7 +1109,7 @@
    "link": "https://www.prnewswire.com/news-releases/mezzi-launches-concierge-bringing-proactive-advice-and-monitoring-to-more-households-302867726.html",
    "summary": "New $99-per-month membership helps members know when to act. MENLO PARK, Calif., Sept. 2, 2026 /PRNewswire/ -- Mezzi today announced Concierge, a new membership that offloads the mental burden of keeping watch on your wealth. Mezzi is an SEC-registered investment adviser and fiduciary...",
    "article_text": "",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "positive",
@@ -278,6 +1176,22 @@
    ]
   },
   {
+   "id": "1d095cfaeb54",
+   "title": "The Social Media Trial Settlement Is A Major Win For Meta",
+   "link": "https://seekingalpha.com/article/4942052-the-social-media-trial-settlement-is-a-major-win-for-meta?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "legal",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-02T13:30:00+00:00",
+   "tickers": [
+    "META"
+   ]
+  },
+  {
    "id": "91e424f6cf33",
    "title": "CHICKEN SALAD CHICK TO OPEN FIRST RESTAURANT IN WEST VIRGINIA",
    "link": "https://www.prnewswire.com/news-releases/chicken-salad-chick-to-open-first-restaurant-in-west-virginia-302867747.html",
@@ -292,6 +1206,20 @@
    "tickers": [
     "OPEN"
    ]
+  },
+  {
+   "id": "277b4d5ce6ee",
+   "title": "Broadstone Net Lease: The Opportunity Window Has Closed (Rating Downgrade)",
+   "link": "https://seekingalpha.com/article/4942393-broadstone-net-lease-the-opportunity-window-has-closed-rating-downgrade?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-02T13:28:10+00:00",
+   "tickers": []
   },
   {
    "id": "c4b731dbbbb0",
@@ -355,7 +1283,7 @@
   },
   {
    "id": "6af6a89282a4",
-   "title": "Businesses created the fewest new jobs in 7 months, ADP says. Hiring slowed in the summer.",
+   "title": "U.S. businesses created the fewest new jobs in 7 months, ADP says. Hiring slowed in the summer.",
    "link": "https://www.marketwatch.com/story/adp-says-businesses-create-the-fewest-new-jobs-in-7-months-hiring-slowed-in-the-summer-59291cd9?mod=mw_rss_topstories",
    "summary": "U.S. businesses created just 38,000 new jobs in August, ADP said, the second small increase in a row, pointing to a slowdown in hiring during the summer.",
    "article_text": "",
@@ -384,6 +1312,20 @@
    "tickers": [
     "EBAY"
    ]
+  },
+  {
+   "id": "f2903ae57cae",
+   "title": "Berkshire CEO Abel says AI to help power growth",
+   "link": "https://www.investing.com/news/stock-market-news/berkshire-ceo-abel-sees-opportunity-for-energy-business-from-ai-4885911",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-02T13:25:56+00:00",
+   "tickers": []
   },
   {
    "id": "bbcf26034f41",
@@ -448,26 +1390,12 @@
    "tickers": []
   },
   {
-   "id": "21f716df03d7",
-   "title": "G20 live updates: Nvidia's Huang pushes for AI infrastructure in every country",
-   "link": "https://www.cnbc.com/2026/09/02/g20-innovation-ministerial-live-updates.html",
-   "summary": "Follow Day 2 of the G20 Innovation Ministerial in Chapel Hill, North Carolina, with Jensen Huang, Sam Altman, and ministers discussing AI, policy and trade.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-09-02T13:22:26+00:00",
-   "tickers": []
-  },
-  {
    "id": "ce05cca6b4e3",
    "title": "Insurance Industry Veteran Michael Christian Joins Patriot Growth Insurance Services' Board of Directors",
    "link": "https://www.prnewswire.com/news-releases/insurance-industry-veteran-michael-christian-joins-patriot-growth-insurance-services-board-of-directors-302867742.html",
    "summary": "FORT WASHINGTON, Pa., Sept. 2, 2026 /PRNewswire/ -- Patriot Growth Insurance Services, LLC (Patriot), one of the largest and fastest-growing national insurance brokerage firms in the United States, today announced the appointment of Michael \"Mike\" Christian, founder and former Chief...",
    "article_text": "",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -606,6 +1534,20 @@
    "tickers": []
   },
   {
+   "id": "5b5571195407",
+   "title": "Tencent-backed Enflame IPO draws 6,109 times online demand",
+   "link": "https://www.investing.com/news/stock-market-news/tencentbacked-enflame-ipo-draws-6109-times-online-demand-4886233",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "offering",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-02T13:18:58+00:00",
+   "tickers": []
+  },
+  {
    "id": "686f025ac311",
    "title": "Taiwan Semi, GlobalFoundries, Tower Semi in focus as Stifel starts with Buy rating",
    "link": "https://seekingalpha.com/news/4639442-taiwan-semi-globalfoundries-tower-semi-in-focus-as-stifel-starts-with-buy-rating?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -632,6 +1574,22 @@
    "domain": "investing.com",
    "published": "2026-09-02T13:18:36+00:00",
    "tickers": []
+  },
+  {
+   "id": "173741b13fac",
+   "title": "UBS Names Best European Consumer Discretionary Stocks to Own Now",
+   "link": "https://www.investing.com/news/stock-market-news/ubs-names-best-european-consumer-discretionary-stocks-to-own-now-93CH-4886232",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-02T13:18:31+00:00",
+   "tickers": [
+    "UBS"
+   ]
   },
   {
    "id": "275e954096a8",
@@ -679,6 +1637,20 @@
     "EQIX",
     "NDAQ"
    ]
+  },
+  {
+   "id": "02f7ab828529",
+   "title": "3 Dividend-Paying Industrial Stocks to Buy Right Now",
+   "link": "https://www.nasdaq.com/articles/3-dividend-paying-industrial-stocks-buy-right-now",
+   "summary": "Key PointsStanley Black & Decker's 3.5% yield looks sustainable with a low 39% free cash flow payout.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-02T13:18:00+00:00",
+   "tickers": []
   },
   {
    "id": "98553592d63e",
@@ -828,6 +1800,20 @@
    "tickers": [
     "GTLB"
    ]
+  },
+  {
+   "id": "98880793b073",
+   "title": "Key insights from Cathie Wood’s latest AI stock moves",
+   "link": "https://www.investing.com/news/stock-market-news/key-insights-from-cathie-woods-latest-ai-stock-moves-93CH-4886224",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-02T13:16:54+00:00",
+   "tickers": []
   },
   {
    "id": "72f40c5fbe3e",
@@ -1704,7 +2690,7 @@
    "link": "https://www.prnewswire.com/news-releases/esquire-bank-named-a-top-deposit-franchise-by-sp-global-market-intelligence-for-third-consecutive-year-302867728.html",
    "summary": "JERICHO, N.Y., Sept. 2, 2026 /PRNewswire/ -- Esquire Financial Holdings, Inc. (NASDAQ: ESQ) (\"Esquire\"), the parent company for Esquire Bank, National Association (\"Esquire Bank\" or the \"Bank\") (collectively \"Esquire\"), today announced the Bank's inclusion in S&P Global Market...",
    "article_text": "",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "positive",
@@ -2146,20 +3132,6 @@
    "sentiment": "positive",
    "domain": "prnewswire.com",
    "published": "2026-09-02T13:03:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "34c5be2d2a31",
-   "title": "Energy price surge hits bond markets as European gas reaches three-year high",
-   "link": "https://www.ft.com/content/f73c2c95-5c73-4b2f-9f00-9fa8c12c10c9?syn-25a6b1a6=1",
-   "summary": "US 10-year borrowing costs touch highest since 2023 as fears of return to full-blown Iran conflict rise",
-   "article_text": "",
-   "source": "FT Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "ft.com",
-   "published": "2026-09-02T13:02:46+00:00",
    "tickers": []
   },
   {
@@ -2747,22 +3719,6 @@
    "tickers": []
   },
   {
-   "id": "0b35e6dc2719",
-   "title": "Chevron will expand Venezuela operations, more than doubling production through $7 billion investment",
-   "link": "https://www.cnbc.com/2026/09/02/chevron-venezuela-operations.html",
-   "summary": "Chevron's announcement comes amid a broader U.S. push to increase oil production in Venezuela.",
-   "article_text": "Chevron will expand Venezuela operations through $7 billion investment Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Key Points Chevron has been assigned two additional oilfields in the Orinoco Belt, the region that contains most of Venezuela's vast extra heavy crude reserves. Chevron plans to increase its production in the country to 600,000 barrels per day over the next five years compared with around 280,000 bpd currently. In this article CVX Follow your favorite stocks CREATE FREE ACCOUNT watch now VIDEO 0:35 00:35 Chevron will expand Venezuela operations, more than doubling production through $7B investment Squawk Box Chevron announced plans Wednesday to more than double its oil production in Venezuela over the next five years through a $7 billion investment that expands its position in the South American nation. The oil major has been assigned two additional oilfields in the Orinoco Belt, the region that contains most of Venezuela's vast extra-heavy crude reserves. Chevron plans to increase its production in the country to 600,000 barrels per day compared with around 280,000 bpd currently. Chevron is the only U.S. oil major active in Venezuela through joint ventures with state-owned oil company Petróleos de Venezuela SA. \"With improved terms and additional acreage, we are strengthening a portfolio that we believe can deliver attractive low-cost oil growth, support energy supply and create differentiated long-term value,\" Chevron CEO Mike Wirth said in a statement. Chevron's announcement comes as the U.S. government pushes to increase oil production in Venezuela through private investment. The country's oil infrastructure is in a state of disrepair after years of mismanagement by its socialist government. President Donald Trump announced Friday that the U.S. secured majority control over 65 billion barrels of Venezuela's crude oil reserves, about 20% of the 303 billion barrels the country is thought to possess. U.S. Energy Secretary Chris Wright is visiting Venezuela on Wednesday. Washington has partnered with the private oil company North American Blue Energy Partners to develop those reserves. Venezuela's interim government has given NABEP concessions to 17 oilfields for 100 years. NABEP, in turn, has granted the U.S. Defense Department a 35% equity stake. The U.S. captured former President Nicolás Maduro in a military raid in January and seized control of Venezuela's oil exports. Washington has partnered with interim President Delcy Rodríguez, who served as vice president under Maduro. Chevron shares were down less than 1% in premarket trading after the announcement. Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "cnbc.com",
-   "published": "2026-09-02T12:58:26+00:00",
-   "tickers": [
-    "CVX"
-   ]
-  },
-  {
    "id": "b08954f03fdc",
    "title": "Strawberry Fields REIT: Concentration Risks Make This A Hold",
    "link": "https://seekingalpha.com/article/4942384-strawberry-fields-reit-concentration-risks-make-this-a-hold?source=feed_all_articles",
@@ -3011,25 +3967,6 @@
    "published": "2026-09-02T12:54:57+00:00",
    "tickers": [
     "MS"
-   ]
-  },
-  {
-   "id": "3b979d9e48c6",
-   "title": "Stocks Settle Lower as Bond Yields Surge",
-   "link": "https://www.nasdaq.com/articles/stocks-settle-lower-bond-yields-surge",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down by -0.71% on Tuesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down by -0.79%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down by -1.29%. E-mini S&P futures (ESU26 ) fell -0.71%, and September E-mini...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-09-02T12:54:57+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
    ]
   },
   {
@@ -4386,20 +5323,6 @@
    "sentiment": "neutral",
    "domain": "marketwatch.com",
    "published": "2026-09-02T12:40:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "837f58a5b908",
-   "title": "Wall Street futures stabilize as oil prices, yields halt surge",
-   "link": "https://www.investing.com/news/stock-market-news/us-futures-muted-as-markets-parse-rate-jitters-more-iran-strikes-4885211",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-02T12:39:24+00:00",
    "tickers": []
   },
   {
@@ -6734,6 +7657,22 @@
    "tickers": []
   },
   {
+   "id": "c2b53578f782",
+   "title": "Apple's Shares Rise 2.6% as John Ternus Takes Over as CEO",
+   "link": "https://www.nasdaq.com/articles/apples-shares-rise-26-john-ternus-takes-over-ceo",
+   "summary": "AAPL shares rose 2.6% as John Ternus became CEO, with investors welcoming continuity and looking to his AI strategy.",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-09-02T12:07:00+00:00",
+   "tickers": [
+    "AAPL"
+   ]
+  },
+  {
    "id": "a71ec907fe99",
    "title": "8-K - TELEPHONE & DATA SYSTEMS INC /DE/ (0001051512) (Filer)",
    "link": "https://www.sec.gov/Archives/edgar/data/1051512/000105151226000070/0001051512-26-000070-index.htm",
@@ -6761,6 +7700,20 @@
    "sentiment": "positive",
    "domain": "seekingalpha.com",
    "published": "2026-09-02T12:06:26+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f51719594160",
+   "title": "Methanex to Idle New Zealand Production Facilities Amid Gas Shortage",
+   "link": "https://www.nasdaq.com/articles/methanex-idle-new-zealand-production-facilities-amid-gas-shortage",
+   "summary": "MEOH will idle its New Zealand production facilities in 2027 after selling gas entitlements amid declining domestic supply.",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-02T12:06:00+00:00",
    "tickers": []
   },
   {
@@ -6920,6 +7873,22 @@
    "domain": "globenewswire.com",
    "published": "2026-09-02T12:04:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "f70abd0f0791",
+   "title": "Why You Should Retain Nutrien Stock in Your Portfolio Now",
+   "link": "https://www.nasdaq.com/articles/why-you-should-retain-nutrien-stock-your-portfolio-now",
+   "summary": "NTR benefits from strong potash and nitrogen demand, higher fertilizer prices and cost gains, while sulfur costs and volume constraints weigh on results.",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-02T12:04:00+00:00",
+   "tickers": [
+    "NTR"
+   ]
   },
   {
    "id": "4eea7f2504b9",
@@ -7922,981 +8891,11 @@
    "tickers": [
     "AA"
    ]
-  },
-  {
-   "id": "7f67b65063ab",
-   "title": "Meituan: Q2 '26 Beat On Temporary Truce; Structural Headwinds Warrant Staying On The Sidelines",
-   "link": "https://seekingalpha.com/article/4942365-meituan-q226-beat-on-temporary-truce-structural-headwinds-warrant-staying-on-the-sidelines?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-02T11:56:22+00:00",
-   "tickers": []
-  },
-  {
-   "id": "642ad779fba9",
-   "title": "Bond And Equity Sell-Off Continues, Greenback Extends Gains",
-   "link": "https://seekingalpha.com/article/4942382-bond-equity-sell-off-continues-greenback-extends-gains?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-02T11:56:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ae747b9e03f1",
-   "title": "Mohawk Industries Insider Sells 1,000 Shares for $139,480",
-   "link": "https://www.nasdaq.com/articles/mohawk-industries-insider-sells-1000-shares-139480",
-   "summary": "Key PointsThe transaction was valued at approximately $139,480.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-09-02T11:55:01+00:00",
-   "tickers": [
-    "MHK"
-   ]
-  },
-  {
-   "id": "d03c2decafe8",
-   "title": "VSE Corporation: Transition To Pure Aviation MRO More Than Pays Off",
-   "link": "https://seekingalpha.com/article/4942364-vse-corporation-transition-to-pure-aviation-mro-more-than-pays-off?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-02T11:54:05+00:00",
-   "tickers": []
-  },
-  {
-   "id": "4dc71454b768",
-   "title": "At a glance: stocks gapping down premarket",
-   "link": "https://seekingalpha.com/news/4639402-at-a-glance-stocks-gapping-down-premarket?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-02T11:54:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "404db130cb05",
-   "title": "Bayesian Health's FDA-Cleared Continuous AI Sepsis Monitor Approved for Medicare New Technology Add-on Payment (NTAP)",
-   "link": "https://www.prnewswire.com/news-releases/bayesian-healths-fda-cleared-continuous-ai-sepsis-monitor-approved-for-medicare-new-technology-add-on-payment-ntap-302867366.html",
-   "summary": "Beginning October 1, 2026, hospitals using Bayesian's continuous sepsis monitor can receive additional Medicare reimbursement for eligible inpatient cases, the first reimbursement pathway of its kind for presuspicion sepsis monitoring. NEW YORK, Sept. 2, 2026 /PRNewswire/ -- Bayesian...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "fda",
-   "sentiment": "positive",
-   "domain": "prnewswire.com",
-   "published": "2026-09-02T11:54:00+00:00",
-   "tickers": [
-    "NTAP"
-   ]
-  },
-  {
-   "id": "a64676d94d7d",
-   "title": "Governor JB Pritzker to Address Ironworkers at 45th International Convention in Chicago",
-   "link": "https://www.prnewswire.com/news-releases/governor-jb-pritzker-to-address-ironworkers-at-45th-international-convention-in-chicago-302867677.html",
-   "summary": "CHICAGO, Sept. 2, 2026 /PRNewswire/ -- Illinois Governor JB Pritzker addresses more than 1,000 ironworkers from across the United States and Canada during the International Association of Bridge, Structural, Ornamental and Reinforcing Iron Workers' 45th International Convention in Chicago....",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-09-02T11:54:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ef52794167b5",
-   "title": "CHIPOTLE ARRIVES IN ASIA WITH FIRST RESTAURANT IN SEOUL",
-   "link": "https://www.prnewswire.com/news-releases/chipotle-arrives-in-asia-with-first-restaurant-in-seoul-302867204.html",
-   "summary": "The opening marks a significant milestone in Chipotle's global expansion, establishing South Korea as a reference market for future growth across Asia The joint venture established by Chipotle and Sangmidang Holdings, Chipotle's South Korean operator, will bring the brand's global...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-09-02T11:53:00+00:00",
-   "tickers": [
-    "CMG"
-   ]
-  },
-  {
-   "id": "a50cdf7b6a63",
-   "title": "Cornerstone Robotics oznamuje strategické partnerstvo s Medtronic - rozšírenie globálneho prístupu k roboticky asistovanej chirurgii",
-   "link": "https://www.prnewswire.com/news-releases/cornerstone-robotics-oznamuje-strategicke-partnerstvo-s-medtronic--rozirenie-globalneho-pristupu-k-roboticky-asistovanej-chirurgii-302867676.html",
-   "summary": "HONG KONG, 2. september 2026 /PRNewswire/ – Spoločnosť Cornerstone Robotics, inovatívna spoločnosť v oblasti chirurgickej robotiky z Hongkongu, dnes oznámila strategické partnerstvo so spoločnosťou Medtronic (NYSE: MDT), svetovým lídrom v oblasti zdravotníckych technológií. V rámci...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-09-02T11:53:00+00:00",
-   "tickers": [
-    "MDT"
-   ]
-  },
-  {
-   "id": "a828616af3c5",
-   "title": "High Roller Technologies Announces ROLR™ Prediction Markets Platform Commercial Launch Timing",
-   "link": "https://www.globenewswire.com/news-release/2026/09/02/3355048/0/en/high-roller-technologies-announces-rolr-prediction-markets-platform-commercial-launch-timing.html",
-   "summary": "LAS VEGAS, Nevada, Sept. 02, 2026 (GLOBE NEWSWIRE) -- High Roller Technologies, Inc. (\"High Roller\" or the \"Company\") (NYSE: ROLR), a publicly traded online gaming and prediction markets company, today announced the invitation-only launch timing of its ROLR™ prediction markets platform on September 15, 2026, followed by a public commercial launch targeted by the end of October 2026.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-09-02T11:52:00+00:00",
-   "tickers": [
-    "ROLR"
-   ]
-  },
-  {
-   "id": "e6fa31a445ae",
-   "title": "Reddit: Rapid Earnings Growth With Room For An AI Expansion",
-   "link": "https://seekingalpha.com/article/4942362-reddit-stock-rapid-earnings-growth-with-room-for-ai-expansion?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-02T11:51:18+00:00",
-   "tickers": [
-    "RDDT"
-   ]
-  },
-  {
-   "id": "929c35a1b691",
-   "title": "At a glance: stocks gapping up premarket",
-   "link": "https://seekingalpha.com/news/4639394-at-a-glance-stocks-gapping-up-premarket?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-02T11:50:49+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b9bbf618873a",
-   "title": "H.C. Wainwright reiterates Telix Pharmaceuticals stock rating on trial completion",
-   "link": "https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-telix-pharmaceuticals-stock-rating-on-trial-completion-93CH-4885979",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "analyst",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-02T11:50:47+00:00",
-   "tickers": []
-  },
-  {
-   "id": "a8ffe89cd8fc",
-   "title": "REX American Resources Corporation Q2 Profit Rises",
-   "link": "https://www.nasdaq.com/articles/rex-american-resources-corporation-q2-profit-rises",
-   "summary": "(RTTNews) - REX American Resources Corporation (REX) released earnings for its second quarter that Increased, from last year",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-09-02T11:50:37+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e0d89c36e713",
-   "title": "Eaton to invest $242M in Arkansas facility",
-   "link": "https://seekingalpha.com/news/4639401-eaton-to-invest-242m-in-arkansas-facility?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-02T11:50:01+00:00",
-   "tickers": [
-    "ETN"
-   ]
-  },
-  {
-   "id": "62772cc25e43",
-   "title": "Watch CNBC's full interview with Commerce Secretary Howard Lutnick",
-   "link": "https://www.cnbc.com/video/2026/09/02/watch-cnbcs-full-interview-with-commerce-secretary-howard-lutnick.html",
-   "summary": "Commerce Secretary Howard Lutnick joins 'Squawk Box' to discuss the upcoming AI policy talks with tech CEOs at the G20 Innovation Ministerial in in Chapel Hill, North Carolina, AI data center buildout, U.S.-Canada trade relations, Lutnick families’ ties to critical mineral deals, state of the economy, and more.",
-   "article_text": "",
-   "source": "CNBC Investing",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-09-02T11:50:01+00:00",
-   "tickers": []
-  },
-  {
-   "id": "8fd492b37465",
-   "title": "3 E Network Enters into $1M Private Placement to CEO-Led Entity at $1.426 Per Share",
-   "link": "https://www.globenewswire.com/news-release/2026/09/02/3355047/0/en/3-e-network-enters-into-1m-private-placement-to-ceo-led-entity-at-1-426-per-share.html",
-   "summary": "3E Network Enters into $1M Private Placement to CEO-Led Entity at $1.426 Per Share.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-09-02T11:50:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "265c311a2683",
-   "title": "Skyworks announces extension of expiration date of exchange offers for Qorvo’s Senior Notes due 2029 and 2031",
-   "link": "https://seekingalpha.com/news/4639400-skyworks-announces-extension-of-expiration-date-of-exchange-offers-for-qorvos-senior-notes-due-2029-and-2031?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "offering",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-02T11:49:42+00:00",
-   "tickers": [
-    "SWKS",
-    "QRVO"
-   ]
-  },
-  {
-   "id": "2b2e48c4751a",
-   "title": "Transaction in Own Shares",
-   "link": "https://www.globenewswire.com/news-release/2026/09/02/3355045/0/en/transaction-in-own-shares.html",
-   "summary": "",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-09-02T11:49:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "1f5acb133b23",
-   "title": "Ming Yang Smart Energy controlling shareholder group cuts stake to 24.95%",
-   "link": "https://www.investing.com/news/company-news/ming-yang-smart-energy-controlling-shareholder-group-cuts-stake-to-2495-93CH-4885978",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-09-02T11:48:54+00:00",
-   "tickers": []
-  },
-  {
-   "id": "bf5be05e9354",
-   "title": "Stewart Information acquires Tower Title telecom unit",
-   "link": "https://www.investing.com/news/company-news/stewart-information-acquires-tower-title-telecom-unit-93CH-4885977",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-02T11:48:37+00:00",
-   "tickers": []
-  },
-  {
-   "id": "9923ce8aad48",
-   "title": "Sceye y SoftBank Corp. completan una demostración de conectividad estratosférica en Japón",
-   "link": "https://www.prnewswire.com/news-releases/sceye-y-softbank-corp-completan-una-demostracion-de-conectividad-estratosferica-en-japon-302867673.html",
-   "summary": "- Sceye y SoftBank Corp. completan una demostración de conectividad estratosférica en Japón, avanzando hacia la comercialización de HAPS La primera misión del programa de pruebas de servicio de Sceye recorre más de 15.000 km desde Nuevo México hasta Japón en la estratosfera, se conecta a...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-09-02T11:48:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "c6259164627e",
-   "title": "Sequoia Financial adds $2.3bn in assets with BSW Wealth purchase",
-   "link": "https://biztoc.com/x/265bd9151ca38160?ref=rss",
-   "summary": "Sequoia Financial Group has acquired BSW Wealth Partners, an independent wealth management business based in Colorado, for an undisclosed sum. BSW oversaw about $2.3bn in client assets as of 30 June 2026. Established in 1992, BSW works with clients across the country from its offices in Boulder…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-02T11:47:42+00:00",
-   "tickers": []
-  },
-  {
-   "id": "f4ac575bc392",
-   "title": "September Is Usually Ugly For Stocks — Why This Year Is Different",
-   "link": "https://biztoc.com/x/257a8e04476771c6?ref=rss",
-   "summary": "September has a well-earned bad reputation with S&P 500 investors. But some think signs point to a better September this year. Why do investors fear September so much? It ranks as the worst month of the year going back to 1950, says The Stock Trader's Almanac. \"Portfolio managers back after Labor…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-02T11:47:39+00:00",
-   "tickers": []
-  },
-  {
-   "id": "92e6a2b2a546",
-   "title": "Merit Financial Advisors names John Rajes chief technology officer",
-   "link": "https://biztoc.com/x/7a3fd342b85b0bc8?ref=rss",
-   "summary": "Merit Financial Advisors has appointed John Rajes as chief technology officer (CTO), adding a new senior executive as the firm expands its leadership structure. Rajes will lead the company's technology strategy across architecture, systems integration, data and AI, with responsibility for efforts…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-02T11:47:37+00:00",
-   "tickers": []
-  },
-  {
-   "id": "df9554f902c4",
-   "title": "Wealth Enhancement buys advisory business of Dickerson Jackson & Associates",
-   "link": "https://biztoc.com/x/8befd1669fb8cbc9?ref=rss",
-   "summary": "Wealth Enhancement has acquired the investment advisory operations of Dickerson Jackson & Associates, a hybrid registered investment adviser based in Glen Allen, Virginia. Financial terms of the deal remain undisclosed. The business being acquired includes a four-person team made up of two…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-02T11:47:32+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e3400a7712bf",
-   "title": "Nvidia Is Still Retail Investors' Most-Held Stock on Robinhood, but a New Trillion-Dollar Stock Has Entered the Top 10",
-   "link": "https://biztoc.com/x/5bf5f173bc441aa0?ref=rss",
-   "summary": "Nvidia Is Still Retail Investors' Most-Held Stock on Robinhood, but a New Trillion-Dollar Stock Has Entered the Top 10 Over the last 15 years, retail investors have been making their presence felt on Wall Street. The authors of \"The Retail Investor Report,\" published by the University of…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-09-02T11:47:26+00:00",
-   "tickers": [
-    "HOOD"
-   ]
-  },
-  {
-   "id": "8abafe85b7b8",
-   "title": "Dr. Martens Beefs Up Global Product Team, Hiring Talent from Marc Jacobs, Adidas",
-   "link": "https://biztoc.com/x/49951c98f4452e0d?ref=rss",
-   "summary": "LONDON – Dr. Martens is fortifying its global product team with two new hires, Isadora Versani, who is joining from Marc Jacobs and Nadia Svensson whose previous job was at Adidas. Versani has been named global product design director, while Svensson is joining as global merchandising and product…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-02T11:47:25+00:00",
-   "tickers": [
-    "J"
-   ]
-  },
-  {
-   "id": "971c2a20e775",
-   "title": "Bitcoin and ethereum prices today, Wednesday, September 2, 2026: Crypto prices tumble as Iran war reignites",
-   "link": "https://biztoc.com/x/919049e98e3de8c4?ref=rss",
-   "summary": "Bitcoin (BTC-USD) opened at $77,395.89 on Wednesday, September 2, 2026, 1.5% lower than Tuesday's opening price. As of 7:13 a.m. ET this morning, the price of bitcoin moved down to $76,597.13. Ethereum (ETH-USD) opened at $2,417.66 on Wednesday, September 2, 2026, down 2.0% from Tuesday's opening…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-09-02T11:47:25+00:00",
-   "tickers": [
-    "BTC",
-    "ETH"
-   ]
-  },
-  {
-   "id": "dd52db0668f6",
-   "title": "Palo Alto Earnings Reignite Debate Over Organic Growth, Acquisitions",
-   "link": "https://biztoc.com/x/7aaf0b019eb5550f?ref=rss",
-   "summary": "'s fiscal fourth-quarter earnings and fiscal 2027 guidance came in above expectations amid high expectations. Palo Alto stock initially rose then retreated as Wall Street analysts mulled organic growth versus acquisition-fueled growth. Palo Alto reported earnings after the market close on Tuesday.…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-02T11:47:22+00:00",
-   "tickers": [
-    "PANW"
-   ]
-  },
-  {
-   "id": "c45c268fa0b7",
-   "title": "Berkshire’s Abel Says Borrowing Costs in Japan Are Still ‘Relatively Modest’",
-   "link": "https://biztoc.com/x/113efee8e793f77a?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-02T11:47:20+00:00",
-   "tickers": []
-  },
-  {
-   "id": "22e145ec6722",
-   "title": "U.S. 10-year Treasury yield hits highest level since 2023",
-   "link": "https://biztoc.com/x/fa74d0aa00a10e55?ref=rss",
-   "summary": "U.S. stock futures fell Wednesday as the 10-year Treasury yield climbed to its highest level in nearly three years, with rising oil prices adding to concerns about inflation. The 10-year Treasury yield reached 4.814% intraday, marking its highest point since November 2023. Dow Jones Industrial…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-02T11:47:16+00:00",
-   "tickers": []
-  },
-  {
-   "id": "817721dba8b6",
-   "title": "Goldman upgrades Deutsche Bank on improving revenue, operating leverage",
-   "link": "https://www.investing.com/news/stock-market-news/goldman-upgrades-deutsche-bank-on-improving-revenue-operating-leverage-4885976",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-09-02T11:46:44+00:00",
-   "tickers": []
-  },
-  {
-   "id": "9ef961ec6843",
-   "title": "FuelCell Energy Inc. Q3 Loss Declines",
-   "link": "https://www.nasdaq.com/articles/fuelcell-energy-inc-q3-loss-declines",
-   "summary": "(RTTNews) - FuelCell Energy Inc. (FCEL) reported Loss for third quarter of -$45.27 million",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-09-02T11:46:17+00:00",
-   "tickers": []
-  },
-  {
-   "id": "8e6c51feb0a2",
-   "title": "Miner ENRC, UK fraud watchdog, law firm Dechert resolve lawsuit over criminal probe",
-   "link": "https://biztoc.com/x/ae8a153077d47d40?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-09-02T11:46:16+00:00",
-   "tickers": []
-  },
-  {
-   "id": "1ab1e67df919",
-   "title": "Sudbury, Ontario’s mining capital, unshaken by Ford’s threat to cut off U.S. critical minerals supply",
-   "link": "https://biztoc.com/x/d1e1bc3eec23ad64?ref=rss",
-   "summary": "With each development in U.S. President Donald Trump’s trade war with Canada, many Ontario cities have received news of tariffs on Canadian goods with panic and devastation for their local industries. A Hamilton official last year warned that tariffs in the steel town could spell “the end of the…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-09-02T11:46:16+00:00",
-   "tickers": [
-    "F"
-   ]
-  },
-  {
-   "id": "53fa3229f4bf",
-   "title": "Irish health service operator fined for storing data in disused bathroom, turf shed",
-   "link": "https://biztoc.com/x/bf0f27793d915a81?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-09-02T11:46:09+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b394c578af6e",
-   "title": "Uber to cut 3,300 jobs in management overhaul",
-   "link": "https://biztoc.com/x/412ac2e38de006d5?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-09-02T11:46:06+00:00",
-   "tickers": [
-    "UBER"
-   ]
-  },
-  {
-   "id": "47f2a169057b",
-   "title": "Cornerstone Robotics объявляет о стратегическом партнерстве с Medtronic для расширения глобального доступа к роботизированной хирургии",
-   "link": "https://www.prnewswire.com/news-releases/cornerstone-robotics------medtronic--------302867671.html",
-   "summary": "ГОНКОНГ, 2 сентября 2026 г. /PRNewswire/ -- Компания Cornerstone Robotics, разработчик инновационных роботизированных хирургических систем, основанная и базирующаяся в Гонконге, сегодня объявила о стратегическом партнерстве с Medtronic (NYSE: MDT), мировым лидером в области медицинских...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-09-02T11:46:00+00:00",
-   "tickers": [
-    "MDT"
-   ]
-  },
-  {
-   "id": "1f17971c390b",
-   "title": "Fixing of coupon rates - Nykredit Realkredit A/S",
-   "link": "https://www.globenewswire.com/news-release/2026/09/02/3355042/0/en/fixing-of-coupon-rates-nykredit-realkredit-a-s.html",
-   "summary": "To Nasdaq Copenhagen",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-09-02T11:46:00+00:00",
-   "tickers": [
-    "NDAQ"
-   ]
-  },
-  {
-   "id": "782b5f56867f",
-   "title": "Fastsættelse af kuponrenter - Nykredit Realkredit A/S",
-   "link": "https://www.globenewswire.com/news-release/2026/09/02/3355042/0/da/fasts%C3%A6ttelse-af-kuponrenter-nykredit-realkredit-a-s.html",
-   "summary": "Til Nasdaq Copenhagen",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-09-02T11:46:00+00:00",
-   "tickers": [
-    "NDAQ"
-   ]
-  },
-  {
-   "id": "0259b7dc5aa7",
-   "title": "Gold extends losses to 3-week low as stronger dollar, Fed hike bets weigh",
-   "link": "https://www.investing.com/news/commodities-news/gold-falls-as-oil-bond-yields-and-fed-hike-bets-climb-on-iran-escalation-4885255",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-09-02T11:45:47+00:00",
-   "tickers": []
-  },
-  {
-   "id": "454de91a0b95",
-   "title": "United States Antimony: Weak Pricing, Stronger Volumes, And A Government Catalyst",
-   "link": "https://seekingalpha.com/article/4942361-united-states-antimony-weak-pricing-stronger-volumes-and-a-government-catalyst?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "negative",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-02T11:45:23+00:00",
-   "tickers": []
-  },
-  {
-   "id": "a0e9e66d1252",
-   "title": "Markets Waver as Investors Assess War, Debt and Inflation",
-   "link": "https://biztoc.com/x/0a0bff21ce58b498?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-02T11:45:22+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d571c2c56c02",
-   "title": "Kimberly-Clark is asked to divest in Australia and New Zealand to clear the Kenvue acquisition",
-   "link": "https://seekingalpha.com/news/4639387-kimberly-clark-is-asked-to-divest-in-australia-and-new-zealand-to-clear-kenvue-acquisition?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-02T11:45:19+00:00",
-   "tickers": [
-    "KMB",
-    "KVUE"
-   ]
-  },
-  {
-   "id": "985c3a87e593",
-   "title": "ADMA Biologics: Maybe The Bears Are Right (Rating Downgrade)",
-   "link": "https://seekingalpha.com/article/4942290-adma-biologics-stock-maybe-bears-right-rating-downgrade?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-02T11:45:08+00:00",
-   "tickers": []
-  },
-  {
-   "id": "768a39b693f5",
-   "title": "KIDZ AI enters into agreement to acquire equity stake in Cambodia's National Cloud Data Center",
-   "link": "https://seekingalpha.com/news/4639397-kidz-ai-enters-into-agreement-to-acquire-equity-stake-in-cambodias-national-cloud-data-center?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-02T11:45:08+00:00",
-   "tickers": []
-  },
-  {
-   "id": "3ac5b1c48977",
-   "title": "Japan-listed Remixpoint sells all ETH, SOL, XRP and DOGE holdings in shift to bitcoin-only crypto strategy",
-   "link": "https://biztoc.com/x/b611ee273e96614d?ref=rss",
-   "summary": "Bitcoin is now Remixpoint's only cryptocurrency holding, with approximately 1,506 BTC, worth around $115 million.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-02T11:45:01+00:00",
-   "tickers": [
-    "ETH",
-    "BTC"
-   ]
-  },
-  {
-   "id": "d5dd15547111",
-   "title": "Curaleaf Opens Boston Dispensary Near Downtown Crossing, Expanding Access for Patients in Massachusetts",
-   "link": "https://www.prnewswire.com/news-releases/curaleaf-opens-boston-dispensary-near-downtown-crossing-expanding-access-for-patients-in-massachusetts-302867094.html",
-   "summary": "New location features expanded retail space, enhanced product selection and convenient access in the heart of Boston STAMFORD, Conn., Sept. 2, 2026 /PRNewswire/ -- Curaleaf Holdings, Inc. (TSX: CURA) (OTCQX: CURLF) (\"Curaleaf\"), a leading international provider of consumer cannabis...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-09-02T11:45:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "dc7517f2b5c2",
-   "title": "Why Nvidia’s $14 Billion Hugging Face Deal Would Make Total Sense",
-   "link": "https://biztoc.com/x/02f0dd02a83199f0?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-02T11:44:58+00:00",
-   "tickers": []
-  },
-  {
-   "id": "0f9dd160de38",
-   "title": "FuelCell Energy Stock Sinks as Earnings Miss Estimates",
-   "link": "https://biztoc.com/x/d223f57241a9a1ac?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "earnings",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-09-02T11:44:56+00:00",
-   "tickers": []
-  },
-  {
-   "id": "0ebe15918f12",
-   "title": "Okta Stock Has More Than Doubled in 2026. AI Agents Could Drive the Next Leg Higher",
-   "link": "https://biztoc.com/x/183f7e62fdc65442?ref=rss",
-   "summary": "is quickly becoming one of the clearest ways to play the rise of AI agents. The identity security company has already delivered a monster run in 2026, but the bigger opportunity may be just getting started. As businesses deploy more AI agents, those digital workers need identities, permissions,…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-02T11:44:55+00:00",
-   "tickers": [
-    "OKTA"
-   ]
-  },
-  {
-   "id": "2804c1ddb9f5",
-   "title": "The Range Rover Electric Has Finally Arrived",
-   "link": "https://biztoc.com/x/5e211dc0e344cc0a?ref=rss",
-   "summary": "It feels like we have been waiting an age for the Range Rover Electric. First announced back in December 2023, JLR's luxury EV SUV was meant to hit the road in 2024, but extended development testing forced the carmaker to push its arrival back. Now it's finally here—one of WIRED's most anticipated…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-02T11:44:50+00:00",
-   "tickers": [
-    "RRC"
-   ]
-  },
-  {
-   "id": "b507db2c29d9",
-   "title": "SiriusXM upgraded as Deutsche Bank sees potential for growth reacceleration",
-   "link": "https://seekingalpha.com/news/4639386-siriusxm-upgraded-as-deutsche-bank-sees-potential-for-growth-reacceleration?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-02T11:44:46+00:00",
-   "tickers": []
-  },
-  {
-   "id": "967804039a83",
-   "title": "No pint-sized matter: Thieves steal $70,000 in Pabst beer from California warehouse",
-   "link": "https://biztoc.com/x/6f80d3098b48d1ba?ref=rss",
-   "summary": "No pint-sized matter: Thieves steal $70,000 in Pabst beer from California warehouse MONTCLAIR, Calif. (AP) — Thieves made off with tens of thousands of cans of Pabst beer in two separate heists from a Southern California warehouse on the same day, police said. Pabst Blue Ribbon has turned the…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-02T11:44:41+00:00",
-   "tickers": []
-  },
-  {
-   "id": "67ad585674c2",
-   "title": "S&P 500 Futures Decline in Premarket Trading; Rush Enterprises B, GitLab Lead",
-   "link": "https://biztoc.com/x/33f760125bd0ad13?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-02T11:44:39+00:00",
-   "tickers": [
-    "GTLB"
-   ]
-  },
-  {
-   "id": "02c0196a5770",
-   "title": "8-K - DAKTRONICS INC /SD/ (0000915779) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/915779/000162828026059967/0001628280-26-059967-index.htm",
-   "summary": "Filed: 2026-09-02 AccNo: 0001628280-26-059967 Size: 546 KB Item 1.01: Entry into a Material Definitive Agreement Item 2.02: Results of Operations and Financial Condition Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers Item 7.01: Regulation FD Disclosure Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-09-02T11:44:37+00:00",
-   "tickers": []
-  },
-  {
-   "id": "57f685e2920b",
-   "title": "cbdMD to acquire Twinlab supplement brands for $30M revenue boost",
-   "link": "https://www.investing.com/news/company-news/cbdmd-to-acquire-twinlab-supplement-brands-for-30m-revenue-boost-93CH-4885973",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-09-02T11:44:36+00:00",
-   "tickers": []
-  },
-  {
-   "id": "c380419b5e6c",
-   "title": "OpenAI’s Astra Model Can Hack With Minimal Human Help",
-   "link": "https://biztoc.com/x/1288312797a8e347?ref=rss",
-   "summary": "Honeywell Aerospace settles cyber whistleblower case; CrowdStrike helps law enforcement take down botnet.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-02T11:44:34+00:00",
-   "tickers": [
-    "CRWD",
-    "HON"
-   ]
-  },
-  {
-   "id": "ee0da7e69b41",
-   "title": "Campbell’s or Lululemon: Why One Earnings Report Matters Far More Than the Other",
-   "link": "https://biztoc.com/x/87220d0f4cc58dd8?ref=rss",
-   "summary": "The post Campbell’s or Lululemon: Why One Earnings Report Matters Far More Than the Other appeared first on 24/7 Wall St.. Retirement-focused investors weighing Campbell’s (NASDAQ:CPB) against Lululemon Athletica (NASDAQ:LULU) get a rare side-by-side test this week. Both report on Thursday,…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-02T11:44:32+00:00",
-   "tickers": [
-    "LULU",
-    "CPB"
-   ]
-  },
-  {
-   "id": "73e2d92595a4",
-   "title": "Marine anti-tank missilemen are getting attack drones for a new precision-strike role",
-   "link": "https://biztoc.com/x/aa673d0237f9ca4c?ref=rss",
-   "summary": "A Marine instructor at an East Coast infantry school checks a Neros Archer drone on Camp Lejeune, North Carolina. Cpl. Jose Flores/US Marine Corps Anti-tank missile Marines are set to get new loitering munitions in January. The drones could let small infantry units strike targets without calling…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-02T11:44:31+00:00",
-   "tickers": []
-  },
-  {
-   "id": "262e9d892465",
-   "title": "How Is Russia Helping Iran Build Faster, More Advanced Missiles",
-   "link": "https://biztoc.com/x/cd5035a956ff4e02?ref=rss",
-   "summary": "A Financial Times investigation has uncovered a reported covert Russian program assisting Iran in developing supersonic cruise missile technology. According to the FT report, the multiyear effort, known as C430L, represents one of the most significant reported transfers of strategic military…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-02T11:44:30+00:00",
-   "tickers": []
-  },
-  {
-   "id": "11c64ca24121",
-   "title": "AIG’s Zaffino Stepping Down as Chairman, Joining Palantir",
-   "link": "https://biztoc.com/x/f3ce01710ed0a044?ref=rss",
-   "summary": "American International Group’s executive chairman, Peter Zaffino, is stepping down from the insurer’s board and will join data-analytics company Palantir Technologies as global head of financial services.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-02T11:44:27+00:00",
-   "tickers": [
-    "PLTR",
-    "AIG"
-   ]
-  },
-  {
-   "id": "51a4dfef2fdc",
-   "title": "The amazing USB-C gadgets that play old Nintendo cartridges",
-   "link": "https://biztoc.com/x/0ae19f669a69ba90?ref=rss",
-   "summary": "Last week, I powered on a 26-year-old copy of Pokémon Pinball, one of the best Game Boy games ever made. My save file was no more. The Charmander I’d caught for my daughter, the high scores we’d set together… gone. Before flash memory, Nintendo cartridges used tiny watch batteries to save their…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-02T11:44:19+00:00",
-   "tickers": [
-    "USB"
-   ]
-  },
-  {
-   "id": "867322fbe2c3",
-   "title": "Coda Octopus: A Recovery In The Marine Tech And DAVD Orders Would Send It Higher",
-   "link": "https://seekingalpha.com/article/4942360-coda-octopus-a-recovery-in-the-marine-tech-and-davd-orders-would-send-it-higher?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-02T11:44:13+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
   "JIRE": "JPMorgan International Research Enhanced Equity ETF",
   "VYMI": "Vanguard International High Dividend Yield ETF",
-  "ETH": "Grayscale Ethereum Staking Mini ETF Shares",
   "GRNY": "Fundstrat Granny Shots US Large Cap ETF",
   "DIA": "SPDR Dow Jones Industrial Average ETF",
   "BTC": "Grayscale Bitcoin Mini Trust (BTC)",
@@ -8908,17 +8907,17 @@
   "WST": "West Pharmaceutical Services",
   "PFSI": "PennyMac Financial Services",
   "QQQ": "Invesco QQQ Trust, Series 1",
+  "HPE": "Hewlett Packard Enterprise",
   "ADP": "Automatic Data Processing",
   "JEF": "Jefferies Financial Group",
   "APO": "Apollo Global Management",
   "CFG": "Citizens Financial Group",
-  "ROLR": "High Roller Technologies",
   "BMRN": "BioMarin Pharmaceutical",
   "GS": "The Goldman Sachs Group",
-  "HON": "Honeywell International",
   "JKHY": "Jack Henry & Associates",
-  "CMG": "Chipotle Mexican Grill",
   "EOSE": "Eos Energy Enterprises",
+  "SWK": "Stanley Black & Decker",
+  "VRTX": "Vertex Pharmaceuticals",
   "AMH": "American Homes 4 Rent",
   "GRAB": "Grab Holdings Limited",
   "HALO": "Halozyme Therapeutics",
@@ -8928,30 +8927,27 @@
   "CINF": "Cincinnati Financial",
   "CRWD": "CrowdStrike Holdings",
   "PG": "The Procter & Gamble",
+  "SMCI": "Super Micro Computer",
   "ANF": "Abercrombie & Fitch",
-  "LULU": "lululemon athletica",
   "ARRY": "Array Technologies",
   "BRK-A": "Berkshire Hathaway",
   "NYT": "The New York Times",
   "PANW": "Palo Alto Networks",
-  "SWKS": "Skyworks Solutions",
+  "SPOT": "Spotify Technology",
   "TT": "Trane Technologies",
+  "AU": "AngloGold Ashanti",
   "BURL": "Burlington Stores",
   "CAR": "Avis Budget Group",
   "CG": "The Carlyle Group",
   "DELL": "Dell Technologies",
-  "HOOD": "Robinhood Markets",
   "JNJ": "Johnson & Johnson",
-  "MHK": "Mohawk Industries",
   "MU": "Micron Technology",
   "RR": "Richtech Robotics",
   "UBER": "Uber Technologies",
-  "J": "Jacobs Solutions",
   "BAC": "Bank of America",
-  "RRC": "Range Resources",
   "VIK": "Viking Holdings",
-  "CPB": "The Campbell's",
-  "KMB": "Kimberly-Clark",
+  "ALLY": "Ally Financial",
+  "META": "Meta Platforms",
   "MS": "Morgan Stanley",
   "USAR": "USA Rare Earth",
   "KO": "The Coca-Cola",
@@ -8963,17 +8959,21 @@
   "BF-B": "Brown-Forman",
   "CRUS": "Cirrus Logic",
   "IREN": "IREN Limited",
+  "LRCX": "Lam Research",
   "SPY": "SPDR S&P 500",
   "UBS": "UBS Group AG",
-  "USB": "U.S. Bancorp",
   "GOOGL": "Google Cloud",
   "TSLA": "Supercharger",
   "NVDA": "Grace Hopper",
   "RACE": "Ferrari N.V.",
+  "BTBT": "Bit Digital",
   "BYD": "Boyd Gaming",
   "CAT": "Caterpillar",
   "CGON": "CG Oncology",
   "AAPL": "Apple Watch",
+  "SHOP": "Shopify Inc",
+  "BN": "Brookfield",
+  "BX": "Blackstone",
   "CMS": "CMS Energy",
   "CRM": "Salesforce",
   "CVS": "CVS Health",
@@ -8995,10 +8995,13 @@
   "DASH": "DoorDash",
   "GOOG": "Alphabet",
   "LQDA": "Liquidia",
+  "OZK": "Bank OZK",
   "BLSH": "Bullish",
   "CVX": "Chevron",
   "EQIX": "Equinix",
   "IVZ": "Invesco",
+  "MRNA": "Moderna",
+  "NTR": "Nutrien",
   "PSN": "Parsons",
   "SCI": "Service",
   "SNDK": "Sandisk",
@@ -9007,20 +9010,15 @@
   "AME": "AMETEK",
   "AMRZ": "Amrize",
   "GTLB": "GitLab",
-  "KVUE": "Kenvue",
   "NDAQ": "Nasdaq",
-  "NTAP": "NetApp",
   "RDDT": "Reddit",
   "SPCX": "SpaceX",
   "AA": "Alcoa",
-  "ETN": "Eaton",
   "FDX": "FedEx",
   "KKR": "KKR &",
-  "QRVO": "Qorvo",
   "BALL": "Ball",
   "EBAY": "eBay",
   "NVMI": "Nova",
-  "OKTA": "Okta",
   "PCG": "PG&E",
   "T": "AT&T",
   "TREX": "Trex",
