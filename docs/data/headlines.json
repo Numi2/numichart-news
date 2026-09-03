@@ -1,8 +1,53 @@
 {
- "generated": "2026-09-03T22:52:10.980240+00:00",
+ "generated": "2026-09-03T22:58:40.535254+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "663795305110",
+   "title": "Hozpitality Group Announces Women Leadership Forum 2026 in Los Angeles, Bringing Together Influential Leaders from Hospitality, Travel, Tourism, Sports, Aviation and Entertainment",
+   "link": "https://www.prnewswire.com/news-releases/hozpitality-group-announces-women-leadership-forum-2026-in-los-angeles-bringing-together-influential-leaders-from-hospitality-travel-tourism-sports-aviation-and-entertainment-302869585.html",
+   "summary": "Exclusive forum at Cameo Beverly Hills on October 7 will feature senior women leaders from Marriott International, Delta Air Lines, FIFA World Cup 2026 Los Angeles, The Music Center and the culinary industry LOS ANGELES, Sept. 3, 2026 /PRNewswire/ -- Hozpitality Group, a global...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-09-03T22:52:00+00:00",
+   "tickers": [
+    "MAR",
+    "DAL"
+   ]
+  },
+  {
+   "id": "2766daace36c",
+   "title": "Del Webb Bexley hires FirstService Residential for property management operations",
+   "link": "https://www.prnewswire.com/news-releases/del-webb-bexley-hires-firstservice-residential-for-property-management-operations-302869562.html",
+   "summary": "LAND O' LAKES, Fla., Sept. 3, 2026 /PRNewswire/ -- FirstService Residential, North America's leading property management company, has been selected to manage Del Webb Bexley Community Association, a nearly 850-home active adult community in Land O' Lakes, Florida. The partnership brings a...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-09-03T22:51:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b630011b090a",
+   "title": "lululemon Q2: Why I'm Not Touching This Even After The 19% Drop",
+   "link": "https://seekingalpha.com/article/4942938-lululemon-q2-why-im-not-touching-this-even-after-the-19-percent-drop?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-03T22:50:50+00:00",
+   "tickers": []
+  },
   {
    "id": "d1477f744d94",
    "title": "Lululemon bets on ‘away from body’ pants as customers sour on form-fitting leggings",
@@ -8860,51 +8905,6 @@
    "tickers": [
     "MSTR"
    ]
-  },
-  {
-   "id": "11557080bdc8",
-   "title": "Daily Digest: PG&E defers $2B in planned work, Caldecott Tunnel to receive $267M makeover",
-   "link": "https://biztoc.com/x/4735463bb921e604?ref=rss",
-   "summary": "Nvidia acquired startup Hugging Face for $13 billion in a major AI deal.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-03T20:20:26+00:00",
-   "tickers": [
-    "PCG",
-    "PG"
-   ]
-  },
-  {
-   "id": "e24948bca1ef",
-   "title": "153 Million Driver’s Licenses Were Allegedly Put Up for Sale on the Dark Web. Now the FBI Is Investigating",
-   "link": "https://biztoc.com/x/7ad39c32869061f8?ref=rss",
-   "summary": "The alleged cache also includes millions of ID cards and travel documents, raising fears of identity theft and fraud.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-03T20:20:25+00:00",
-   "tickers": []
-  },
-  {
-   "id": "7c9ba59b6ec5",
-   "title": "Natalie Wolfsen",
-   "link": "https://biztoc.com/x/0861f2a28f9eff6d?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-03T20:20:24+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8928,10 +8928,10 @@
   "TD": "The Toronto-Dominion Bank",
   "WFRD": "Weatherford International",
   "ARR": "ARMOUR Residential REIT",
+  "MAR": "Marriott International",
   "SH": "ProShares Short S&P500",
   "OPEN": "Opendoor Technologies",
   "FERG": "Ferguson Enterprises",
-  "PG": "The Procter & Gamble",
   "PTEN": "Patterson-UTI Energy",
   "ZETA": "Zeta Global Holdings",
   "LULU": "lululemon athletica",
@@ -8961,6 +8961,7 @@
   "AXON": "Axon Enterprise",
   "BAC": "Bank of America",
   "COIN": "Coinbase Global",
+  "DAL": "Delta Air Lines",
   "DIS": "The Walt Disney",
   "HOG": "Harley-Davidson",
   "PYPL": "PayPal Holdings",
@@ -9053,7 +9054,6 @@
   "FLEX": "Flex",
   "MSCI": "MSCI",
   "OKTA": "Okta",
-  "PCG": "PG&E",
   "POOL": "Pool"
  }
 }
