@@ -1,8 +1,39 @@
 {
- "generated": "2026-09-03T22:46:12.066809+00:00",
+ "generated": "2026-09-03T22:52:10.980240+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "d1477f744d94",
+   "title": "Lululemon bets on ‘away from body’ pants as customers sour on form-fitting leggings",
+   "link": "https://www.marketwatch.com/story/lululemons-sales-drop-raises-deeper-concerns-about-the-companys-turnaround-ddf9256a?mod=mw_rss_topstories",
+   "summary": "Adobe’s stock is falling as analysts question the yoga-wear maker’s fashion assortment and digest its disappointing outlook.",
+   "article_text": "",
+   "source": "MarketWatch",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "marketwatch.com",
+   "published": "2026-09-03T22:49:00+00:00",
+   "tickers": [
+    "LULU",
+    "ADBE"
+   ]
+  },
+  {
+   "id": "ecf4970aa85a",
+   "title": "Stronghold Details Two Years of Competitive Procurement, $8 Million Invested, and Substantive Work Delivered as Part of Its Contractual Obligations",
+   "link": "https://www.prnewswire.com/news-releases/stronghold-details-two-years-of-competitive-procurement-8-million-invested-and-substantive-work-delivered-as-part-of-its-contractual-obligations-302869583.html",
+   "summary": "Company publishes analysis projecting $54.2 million a year in recurring public revenue forgone, and repeats its offer to work with the City of Coachella RIVERSIDE, Calif., Sept. 3, 2026 /PRNewswire/ -- Stronghold Power Systems, Inc. today set out the record of its work under the Municipal...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-09-03T22:48:00+00:00",
+   "tickers": []
+  },
   {
    "id": "6811288d8369",
    "title": "LV Petroleum Closes Out July with Restaurant Openings and Travel Center Acquisition Across Four States",
@@ -421,6 +452,22 @@
    "tickers": []
   },
   {
+   "id": "1fcfa3132f1e",
+   "title": "Why Credo Technology Sank This Week",
+   "link": "https://www.nasdaq.com/articles/why-credo-technology-sank-week",
+   "summary": "Key PointsCredo delivered a revenue and earnings beat, with the top-line growing 115%.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-09-03T22:37:30+00:00",
+   "tickers": [
+    "CRDO"
+   ]
+  },
+  {
    "id": "b80bcdaf3bc1",
    "title": "American Outdoor Brands Q1 FY27 slides: innovation drives turnaround",
    "link": "https://www.investing.com/news/company-news/american-outdoor-brands-q1-fy27-slides-innovation-drives-turnaround-93CH-4888671",
@@ -446,6 +493,20 @@
    "sentiment": "negative",
    "domain": "investing.com",
    "published": "2026-09-03T22:33:22+00:00",
+   "tickers": []
+  },
+  {
+   "id": "d1d9b9d5d5ae",
+   "title": "Nvidia’s $12.93 Billion Hugging Face Deal Expands Jensen Huang's AI Platform Beyond Chips",
+   "link": "https://www.nasdaq.com/articles/nvidias-1293-billion-hugging-face-deal-expands-jensen-huangs-ai-platform-beyond-chips",
+   "summary": "Key PointsNvidia agreed on Sept. 3, 2026, to buy Hugging Face for $12.93 billion -- one of the largest AI acquisitions this year.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-09-03T22:33:01+00:00",
    "tickers": []
   },
   {
@@ -3653,9 +3714,9 @@
    "link": "https://www.nasdaq.com/articles/wrb-crosses-above-key-moving-average-level",
    "summary": "In trading on Thursday, shares of Berkley Corp (Symbol: WRB) crossed above their 200 day moving average of $69.33, changing hands as high as $69.85 per share. Berkley Corp shares are currently trading up about 2.5% on the day. The chart below shows the one year performance of",
    "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
    "sentiment": "neutral",
    "domain": "nasdaq.com",
    "published": "2026-09-03T21:15:37+00:00",
@@ -3669,9 +3730,9 @@
    "link": "https://www.nasdaq.com/articles/bullish-two-hundred-day-moving-average-cross-amt",
    "summary": "In trading on Thursday, shares of American Tower Corp (Symbol: AMT) crossed above their 200 day moving average of $177.70, changing hands as high as $179.05 per share. American Tower Corp shares are currently trading up about 3.1% on the day. The chart below shows the one year",
    "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
    "sentiment": "neutral",
    "domain": "nasdaq.com",
    "published": "2026-09-03T21:15:27+00:00",
@@ -6538,22 +6599,6 @@
    "tickers": []
   },
   {
-   "id": "d1477f744d94",
-   "title": "Lululemon’s sales drop raises deeper concerns about the company’s turnaround",
-   "link": "https://www.marketwatch.com/story/lululemons-sales-drop-raises-deeper-concerns-about-the-companys-turnaround-ddf9256a?mod=mw_rss_topstories",
-   "summary": "The stock is down as analysts question the yoga-wear maker’s fashion assortment.",
-   "article_text": "",
-   "source": "MarketWatch",
-   "category": "markets",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "marketwatch.com",
-   "published": "2026-09-03T20:43:00+00:00",
-   "tickers": [
-    "LULU"
-   ]
-  },
-  {
    "id": "fe19c361035a",
    "title": "SEC proposes reforms to political contribution rule for investment advisers",
    "link": "https://www.investing.com/news/stock-market-news/sec-proposes-reforms-to-political-contribution-rule-for-investment-advisers-4888564",
@@ -8860,50 +8905,6 @@
    "domain": "biztoc.com",
    "published": "2026-09-03T20:20:24+00:00",
    "tickers": []
-  },
-  {
-   "id": "bf18dac496d2",
-   "title": "Zscaler stock soars on earnings beat, upbeat guidance",
-   "link": "https://biztoc.com/x/784716f76d31b0e6?ref=rss",
-   "summary": "Zscaler stock soared on Thursday after the cloud security company beat Wall Street's fiscal fourth-quarter estimates as rising artificial intelligence risk spurred urgent demand for cyber tools. Here's how the company performed compared to LSEG estimates: - Earnings per share: $1.19 adjusted vs.…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-09-03T20:20:23+00:00",
-   "tickers": [
-    "ZS"
-   ]
-  },
-  {
-   "id": "25d2d896a0de",
-   "title": "The Elephant In The Canadian Room",
-   "link": "https://biztoc.com/x/37151f0c497fc7b7?ref=rss",
-   "summary": "The Elephant In The Canadian Room Authored by Victor Davis Hanson via American Greatness, At first glance, the current American-Canadian trade \"war\" is absurd. We are neighbors with a long history of close friendship, speak the same language (for the most part), and spring from the same British…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-03T20:20:22+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d0b9e0b16f62",
-   "title": "Volkswagen Board Approves Plan to Cut Workforce, Model Portfolio",
-   "link": "https://biztoc.com/x/6126fffc54f30910?ref=rss",
-   "summary": "The auto maker is planning to reduce its workforce by 50,000 amid intensifying competition.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-09-03T20:20:22+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8913,6 +8914,7 @@
   "DB": "Deutsche Bank Aktiengesellschaft",
   "MAGS": "Roundhill Magnificent Seven ETF",
   "QSR": "Restaurant Brands International",
+  "CRDO": "Credo Technology Group Holding",
   "WST": "West Pharmaceutical Services",
   "FIGR": "Figure Technology Solutions",
   "EL": "The Est?e Lauder Companies",
