@@ -1,8 +1,54 @@
 {
- "generated": "2026-09-03T22:25:11.444731+00:00",
+ "generated": "2026-09-03T22:31:42.515041+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "15b8d829b7a7",
+   "title": "OpenAI commits $1B to subsidize Daybreak cyber tools for organizations",
+   "link": "https://seekingalpha.com/news/4640209-openai-commits-1b-to-subsidize-daybreak-cyber-tools-for-organizations?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-03T22:25:50+00:00",
+   "tickers": []
+  },
+  {
+   "id": "02a13b2a5993",
+   "title": "Paychex's AI Potential Could Produce A Nice Payday",
+   "link": "https://seekingalpha.com/article/4942920-paychexs-ai-potential-could-produce-a-nice-payday?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-03T22:24:36+00:00",
+   "tickers": [
+    "PAYX"
+   ]
+  },
+  {
+   "id": "3b54331f15e7",
+   "title": "Adobe just announced its next CEO. Here’s why its stock is dropping.",
+   "link": "https://www.marketwatch.com/story/adobe-just-announced-its-next-ceo-heres-why-its-stock-is-dropping-bad9ed8a?mod=mw_rss_topstories",
+   "summary": "Incoming CEO Anil Chakravarthy is a company veteran. But another longtime business head will be departing Adobe, potentially foreshadowing further turnover in leadership.",
+   "article_text": "",
+   "source": "MarketWatch",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "marketwatch.com",
+   "published": "2026-09-03T22:23:00+00:00",
+   "tickers": [
+    "ADBE"
+   ]
+  },
   {
    "id": "53f501cf69a7",
    "title": "CN Railway, Canadian Pacific Kansas City both set new August records for grain shipments",
@@ -8857,52 +8903,6 @@
    "domain": "cnbc.com",
    "published": "2026-09-03T20:09:22+00:00",
    "tickers": []
-  },
-  {
-   "id": "230a9186b7a9",
-   "title": "Match Group, Inc. (MTCH) Discusses Product Velocity and Innovation Within Tinder's Product and Engineering Teams Transcript",
-   "link": "https://seekingalpha.com/article/4942888-match-group-inc-mtch-discusses-product-velocity-and-innovation-within-tinders-product-and?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-03T20:09:17+00:00",
-   "tickers": [
-    "MTCH"
-   ]
-  },
-  {
-   "id": "5707ebd781b4",
-   "title": "DocuSign Non-GAAP EPS of $1.16 beats by $0.07, and revenue of $875.7M beats by $8.54M",
-   "link": "https://seekingalpha.com/news/4640085-docusign-non-gaap-eps-of-116-beats-by-007-revenue-of-8757m-beats-by-854m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-03T20:08:51+00:00",
-   "tickers": [
-    "DOCU"
-   ]
-  },
-  {
-   "id": "df9c939f2df3",
-   "title": "8-K - WD 40 CO (0000105132) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/105132/000010513226000068/0000105132-26-000068-index.htm",
-   "summary": "Filed: 2026-09-03 AccNo: 0000105132-26-000068 Size: 404 KB Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers Item 7.01: Regulation FD Disclosure Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-09-03T20:08:44+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8981,7 +8981,6 @@
   "TSLA": "Supercharger",
   "NVDA": "Grace Hopper",
   "AGI": "Alamos Gold",
-  "MTCH": "Match Group",
   "NU": "Nu Holdings",
   "PSX": "Phillips 66",
   "ROST": "Ross Stores",
@@ -9025,6 +9024,7 @@
   "IOT": "Samsara",
   "IVZ": "Invesco",
   "NEM": "Newmont",
+  "PAYX": "Paychex",
   "PCVX": "Vaxcyte",
   "PNR": "Pentair",
   "SCI": "Service",
