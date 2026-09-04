@@ -1,8 +1,25 @@
 {
- "generated": "2026-09-03T23:55:54.350278+00:00",
+ "generated": "2026-09-04T00:02:13.776407+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "3003088714ca",
+   "title": "Maria Bartiromo Is Out at Fox News",
+   "link": "https://www.nytimes.com/2026/09/03/business/media/fox-news-maria-bartiromo.html",
+   "summary": "The host, who appeared on Fox Business and Fox News, had been with the network for more than 12 years.",
+   "article_text": "",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-09-03T23:58:58+00:00",
+   "tickers": [
+    "FOX",
+    "NWSA"
+   ]
+  },
   {
    "id": "64bffc27bc7c",
    "title": "EU ban on animal products affects $1.8 billion in Brazilian exports",
@@ -338,6 +355,20 @@
    "sentiment": "neutral",
    "domain": "biztoc.com",
    "published": "2026-09-03T23:42:40+00:00",
+   "tickers": []
+  },
+  {
+   "id": "67cfe362cbc0",
+   "title": "Why Phreesia Stock Tumbled Today",
+   "link": "https://www.nasdaq.com/articles/why-phreesia-stock-tumbled-today",
+   "summary": "Key PointsAlthough its net income rose sharply, analysts expected better.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-09-03T23:41:29+00:00",
    "tickers": []
   },
   {
@@ -2247,7 +2278,7 @@
    "link": "https://www.prnewswire.com/news-releases/del-webb-bexley-hires-firstservice-residential-for-property-management-operations-302869562.html",
    "summary": "LAND O' LAKES, Fla., Sept. 3, 2026 /PRNewswire/ -- FirstService Residential, North America's leading property management company, has been selected to manage Del Webb Bexley Community Association, a nearly 850-home active adult community in Land O' Lakes, Florida. The partnership brings a...",
    "article_text": "",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -3487,7 +3518,7 @@
    "link": "https://www.prnewswire.com/news-releases/harley-davidson-inc-declares-dividend-302869559.html",
    "summary": "MILWAUKEE, Sept. 3, 2026 /PRNewswire/ -- The Harley-Davidson, Inc. (NYSE: HOG) Board of Directors has approved a cash dividend of $0.1875 per share for the third quarter of 2026. The dividend is payable September 29, 2026 to the shareholders of record of the Company's common stock as of...",
    "article_text": "",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "dividend",
    "sentiment": "positive",
@@ -4021,7 +4052,7 @@
    "link": "https://www.prnewswire.com/news-releases/in-hellonation-real-estate-expert-debi-beiland-outlines-key-considerations-before-purchasing-a-historic-home-302869565.html",
    "summary": "The article explains how inspections, aging systems, previous renovations, and maintenance costs can help buyers evaluate a historic property. MAYSVILLE, Ky., Sept. 3, 2026 /PRNewswire/ -- What should buyers check before buying a historic home? HelloNation has published an article that...",
    "article_text": "",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -8850,36 +8881,6 @@
    "domain": "cnbc.com",
    "published": "2026-09-03T20:42:29+00:00",
    "tickers": []
-  },
-  {
-   "id": "b1449289bb67",
-   "title": "Lightning Link™ by Aristocrat™ Expands Online Presence on Platforms Across North America with Release of New Game, Tiki Fire™",
-   "link": "https://www.prnewswire.com/news-releases/lightning-link-by-aristocrat-expands-online-presence-on-platforms-across-north-america-with-release-of-new-game-tiki-fire-302869492.html",
-   "summary": "LAS VEGAS, Sept. 3, 2026 /PRNewswire/ -- Following Aristocrat's introduction of its phenomenally popular Lightning Link™ slot brand to online casino platforms across North America, the reaction was as fast as lightning, and the launch title High Stakes™ rocketed to the top of the charts....",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "positive",
-   "domain": "prnewswire.com",
-   "published": "2026-09-03T20:42:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "0adac066bc62",
-   "title": "Clark Pacific Breaks Ground on New Plant in Coolidge, Arizona, to Meet Growing Demand for Prefabricated Building Systems",
-   "link": "https://www.prnewswire.com/news-releases/clark-pacific-breaks-ground-on-new-plant-in-coolidge-arizona-to-meet-growing-demand-for-prefabricated-building-systems-302869491.html",
-   "summary": "New 110-acre facility will triple the company's production capacity as operations expand to better serve the Southwest and Mountain West COOLIDGE, Ariz., Sept. 3, 2026 /PRNewswire/ -- Clark Pacific announced today it has broken ground on a new manufacturing plant in Coolidge, Arizona. The...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-09-03T20:42:00+00:00",
-   "tickers": [
-    "WST"
-   ]
   }
  ],
  "ticker_names": {
