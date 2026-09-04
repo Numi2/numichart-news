@@ -1,8 +1,40 @@
 {
- "generated": "2026-09-04T23:25:35.931985+00:00",
+ "generated": "2026-09-04T23:31:24.192093+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "0755741ce5da",
+   "title": "GDDY Investors Have Opportunity to Lead GoDaddy Inc. Securities Fraud Lawsuit",
+   "link": "https://www.prnewswire.com/news-releases/gddy-investors-have-opportunity-to-lead-godaddy-inc-securities-fraud-lawsuit-302870459.html",
+   "summary": "NEW YORK, Sept. 4, 2026 /PRNewswire/ -- Why: Rosen Law Firm, a global investor rights law firm, reminds purchasers of common stock of GoDaddy Inc. (NYSE: GDDY) between September 3, 2025 and February 24, 2026, both dates inclusive (the \"Class Period\"), of the important October 20, 2026...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "prnewswire.com",
+   "published": "2026-09-04T23:26:00+00:00",
+   "tickers": [
+    "GDDY"
+   ]
+  },
+  {
+   "id": "04a1073da4eb",
+   "title": "The Heart Drug Pelacarsen Fails, Shocking Novartis and Cardiologists",
+   "link": "https://www.nytimes.com/2026/09/04/science/heart-drug-fails-novartis-pelacarsen.html",
+   "summary": "Doctors were hopeful the drug, which was being tested in a large clinical trial by Novartis, was going to be a powerful new tool to fight heart disease.",
+   "article_text": "",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-09-04T23:22:00+00:00",
+   "tickers": [
+    "NVS"
+   ]
+  },
   {
    "id": "6a7db7aa80e6",
    "title": "AI Boom: Play It Safe With Public Utilities",
@@ -90,12 +122,85 @@
    ]
   },
   {
+   "id": "60dae1e80118",
+   "title": "Anthropic delays IPO launch to mid-October at earliest, Reuters reports",
+   "link": "https://www.investing.com/news/company-news/anthropic-delays-ipo-launch-to-midoctober-at-earliest-reuters-reports-4890106",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "offering",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-04T23:21:10+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ce1bcce10b17",
+   "title": "Yields, dollar rise, stocks ease after solid US jobs report",
+   "link": "https://www.investing.com/news/economy-news/asian-shares-climb-ahead-of-us-jobs-data-feds-waller-soothes-bonds-4888786",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "macro",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-09-04T23:18:49+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c45843fce810",
+   "title": "Grundig stellt auf der IFA 2026 neue Produktpalette vor und läutet damit eine neue Phase der strategischen Partnerschaft ein",
+   "link": "https://www.prnewswire.com/news-releases/grundig-stellt-auf-der-ifa-2026-neue-produktpalette-vor-und-lautet-damit-eine-neue-phase-der-strategischen-partnerschaft-ein-302870521.html",
+   "summary": "BERLIN, 5. September 2026 /PRNewswire/ -- Grundig, die europäische Premium-Marke für Haushaltsgeräte, stellte auf der IFA 2026 eine neue Produktpalette vor, die wichtige Kategorien wie Fernseher, Kühlschränke, Wasch-Trockner-Kombinationen und Klimaanlagen umfasst. Die Veranstaltung...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-09-04T23:18:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "49b7dfee00b8",
+   "title": "Director Clint Hurt offloads $398,736 in PrimeEnergy Resources Corp shares",
+   "link": "https://www.investing.com/news/insider-trading-news/director-clint-hurt-offloads-398736-in-primeenergy-resources-corp-shares-93CH-4890105",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-04T23:16:03+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f74c30f1e79c",
+   "title": "Block director Anthony Eisen sells $1.46m in NASDAQ:XYZ stock",
+   "link": "https://www.investing.com/news/insider-trading-news/block-director-anthony-eisen-sells-146m-in-nasdaqxyz-stock-93CH-4890104",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-04T23:16:00+00:00",
+   "tickers": [
+    "XYZ",
+    "SQ"
+   ]
+  },
+  {
    "id": "182b72f188d0",
    "title": "Bloom Energy, Illumina, and Everpure Set to Join S&amp;P 500; Others to Join S&amp;P 100, S&amp;P MidCap 400, and S&amp;P SmallCap 600",
    "link": "https://www.prnewswire.com/news-releases/bloom-energy-illumina-and-everpure-set-to-join-sp-500-others-to-join-sp-100-sp-midcap-400-and-sp-smallcap-600-302870517.html",
    "summary": "NEW YORK, Sept. 4, 2026 /PRNewswire/ -- S&P Dow Jones Indices will make the following changes to the S&P 500, S&P 100, S&P MidCap 400, and S&P SmallCap 600 indices effective prior to the open of trading on Monday, September 21, 2026, to coincide with the quarterly rebalance. The changes...",
    "article_text": "",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -132,6 +237,22 @@
    "domain": "seekingalpha.com",
    "published": "2026-09-04T23:10:06+00:00",
    "tickers": []
+  },
+  {
+   "id": "a02da7352d80",
+   "title": "Royalty Pharma expects modest return despite pelacarsen trial failure",
+   "link": "https://www.investing.com/news/company-news/royalty-pharma-expects-modest-return-despite-pelacarsen-trial-failure-93CH-4890103",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-04T23:08:32+00:00",
+   "tickers": [
+    "RPRX"
+   ]
   },
   {
    "id": "990befeeb616",
@@ -246,6 +367,20 @@
    "type": "aggregator",
    "sentiment": "neutral",
    "domain": "biztoc.com",
+   "published": "2026-09-04T23:06:56+00:00",
+   "tickers": []
+  },
+  {
+   "id": "80af0c0c27c0",
+   "title": "Wall Street ends lower as solid jobs data fuels hawkish Fed bets",
+   "link": "https://www.investing.com/news/economy-news/nasdaq-sp-500-futures-climb-ahead-of-key-jobs-report-4889040",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "investing.com",
    "published": "2026-09-04T23:06:56+00:00",
    "tickers": []
   },
@@ -815,22 +950,6 @@
    "tickers": []
   },
   {
-   "id": "04a1073da4eb",
-   "title": "The Heart Drug Pelacarsen Fails, Shocking Novartis and Cardiologists",
-   "link": "https://www.nytimes.com/2026/09/04/science/heart-drug-fails-novartis-pelacarsen.html",
-   "summary": "Doctors were hopeful the drug, which was being tested in a large clinical trial by Novartis, was going to be a powerful new tool to fight heart disease.",
-   "article_text": "",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "nytimes.com",
-   "published": "2026-09-04T22:44:25+00:00",
-   "tickers": [
-    "NVS"
-   ]
-  },
-  {
    "id": "e82a4b5b01cb",
    "title": "Exclusive-Anthropic IPO launch shifts toward mid-October, sources say",
    "link": "https://www.investing.com/news/stock-market-news/exclusiveanthropic-ipo-launch-shifts-toward-midoctober-sources-say-4890091",
@@ -1343,7 +1462,7 @@
    "link": "https://www.prnewswire.com/news-releases/rho-launches-card-payments-on-invoices-letting-businesses-accept-credit-card-debit-card-and-google-pay-302870490.html",
    "summary": "Rho Invoicing customers can now accept credit card payments on invoices alongside ACH and wire, from the same account they already use for banking, with invoices syncing automatically to QuickBooks Online NEW YORK, Sept. 4, 2026 /PRNewswire/ -- Rho, the all-in-one finance platform for...",
    "article_text": "",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "press",
    "sentiment": "positive",
@@ -1832,6 +1951,20 @@
    "tickers": []
   },
   {
+   "id": "59a274a35b80",
+   "title": "Looking Ahead to the Q3 Earnings Season: What to Expect",
+   "link": "https://www.nasdaq.com/articles/looking-ahead-q3-earnings-season-what-expect",
+   "summary": "2026 Q3 earnings for the S&P 500 index are expected to increase by +23% from the same period last year on +11.2% higher revenues, reflecting the 13th consecutive period of growth. Revisions for the period remain positive, a continuation of the trend we've seen over the past year.",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-04T22:05:00+00:00",
+   "tickers": []
+  },
+  {
    "id": "b7484aa1095e",
    "title": "Elon Musk Committed SpaceX to Building &quot;Exclusively on Nvidia.&quot; Here's What That Locks In for SpaceX's Compute Bill.",
    "link": "https://www.nasdaq.com/articles/elon-musk-committed-spacex-building-exclusively-nvidia-heres-what-locks-spacexs-compute",
@@ -1881,7 +2014,7 @@
    "link": "https://www.prnewswire.com/news-releases/bmo-completes-sale-of-138-u-s-branches-to-first-citizens-bank-885942364.html",
    "summary": "TORONTO and CHICAGO, Sept. 4, 2026 /CNW/ -- BMO Financial Group (TSX: BMO) (NYSE: BMO) today announced the completion of the sale of 138 branches to First-Citizens Bank & Trust Company (\"First Citizens Bank\"). As previously announced, the branches are in North Dakota, South Dakota,...",
    "article_text": "",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -1898,7 +2031,7 @@
    "link": "https://www.prnewswire.com/news-releases/bmo-completes-sale-of-138-us-branches-to-first-citizens-bank-302869987.html",
    "summary": "TORONTO and CHICAGO, Sept. 4, 2026 /PRNewswire/ -- BMO Financial Group (TSX: BMO) (NYSE: BMO) today announced the completion of the sale of 138 branches to First-Citizens Bank & Trust Company (\"First Citizens Bank\"). As previously announced, the branches are in North Dakota, South Dakota,...",
    "article_text": "",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -5806,20 +5939,6 @@
    "tickers": []
   },
   {
-   "id": "80af0c0c27c0",
-   "title": "Wall Street ends lower as solid jobs data fuels hawkish Fed bets",
-   "link": "https://www.investing.com/news/economy-news/nasdaq-sp-500-futures-climb-ahead-of-key-jobs-report-4889040",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-09-04T20:31:58+00:00",
-   "tickers": []
-  },
-  {
    "id": "17cf3d69f332",
    "title": "8-K - Niki BioSolutions, Inc. (0001734005) (Filer)",
    "link": "https://www.sec.gov/Archives/edgar/data/1734005/000121390026097705/0001213900-26-097705-index.htm",
@@ -8760,124 +8879,6 @@
    "domain": "sec.gov",
    "published": "2026-09-04T20:04:10+00:00",
    "tickers": []
-  },
-  {
-   "id": "81f93a8c66b9",
-   "title": "WD-40 Enters Oversold Territory",
-   "link": "https://www.nasdaq.com/articles/wd-40-enters-oversold-territory",
-   "summary": "The DividendRank formula at Dividend Channel ranks a coverage universe of thousands of dividend stocks, according to a proprietary formula designed to identify those stocks that combine two important characteristics — strong fundamentals and a valuation that looks inexpensive.",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-09-04T20:04:09+00:00",
-   "tickers": []
-  },
-  {
-   "id": "49ebea6767cd",
-   "title": "US closes mostly lower with jobs data in focus",
-   "link": "https://biztoc.com/x/09365cce5ac6d917?ref=rss",
-   "summary": "Wall Street closed mostly lower on Friday, as traders digested the latest jobs data, which came in stronger than expected. The Bureau of Labor Statistics reported earlier today that nonfarm payroll em...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-09-04T20:04:08+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d3f496612404",
-   "title": "8-K - FLYEXCLUSIVE INC. (0001843973) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1843973/000119312526383622/0001193125-26-383622-index.htm",
-   "summary": "Filed: 2026-09-04 AccNo: 0001193125-26-383622 Size: 264 KB Item 1.01: Entry into a Material Definitive Agreement Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-09-04T20:04:08+00:00",
-   "tickers": []
-  },
-  {
-   "id": "85b0b8369c1c",
-   "title": "Trump Signs Order Letting Ranchers Process Their Own Beef",
-   "link": "https://biztoc.com/x/ce46100a355c9ef0?ref=rss",
-   "summary": "President Donald Trump said he was creating a program to help farmers and ranchers “process their own food,” a move aimed at addressing the high cost of beef by taking aim at major meat processors ---------- Like this video? Subscribe Bloomberg News is the first word in business news. Visit…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-04T20:04:05+00:00",
-   "tickers": [
-    "NWSA"
-   ]
-  },
-  {
-   "id": "dfa536e05f4f",
-   "title": "US warns firms against laundering funds for Iran",
-   "link": "https://biztoc.com/x/706ca88c22b6a1f7?ref=rss",
-   "summary": "The United States Department of State cautioned on Friday businesses involved in laundering funds or evading sanctions for Iran's leadership that they could lose access to the US financial system.\"The...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-09-04T20:04:05+00:00",
-   "tickers": []
-  },
-  {
-   "id": "777c7c135bde",
-   "title": "Trump's Deals Keep Industries and Investors Parsing the Details",
-   "link": "https://biztoc.com/x/0cb7ad72b0abefa0?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-04T20:04:02+00:00",
-   "tickers": []
-  },
-  {
-   "id": "10738d160fb4",
-   "title": "COHR Crosses Above Key Moving Average Level",
-   "link": "https://www.nasdaq.com/articles/cohr-crosses-above-key-moving-average-level",
-   "summary": "In trading on Friday, shares of Coherent Corp (Symbol: COHR) crossed above their 200 day moving average of $275.72, changing hands as high as $283.85 per share. Coherent Corp shares are currently trading up about 5.4% on the day. The chart below shows the one year performance",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-09-04T20:04:01+00:00",
-   "tickers": [
-    "COHR"
-   ]
-  },
-  {
-   "id": "542fbc87886e",
-   "title": "John Ternus, Apple’s new ‘wicked calm’ CEO",
-   "link": "https://biztoc.com/x/b94ad4eecd785c9c?ref=rss",
-   "summary": "Security Verification For help please visit help.ft.com. We apologise for any inconvenience. The following information can help our support team to resolve this issue. - Error Code - CG000 / 403 - Request ID - a35f99af6c7ecf80",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-04T20:03:58+00:00",
-   "tickers": [
-    "AAPL"
-   ]
   }
  ],
  "ticker_names": {
@@ -8986,10 +8987,10 @@
   "ADSK": "Autodesk",
   "AVGO": "Broadcom",
   "BCS": "Barclays",
-  "COHR": "Coherent",
   "GOOG": "Alphabet",
   "ILMN": "Illumina",
   "NNN": "NNN REIT",
+  "SQ": "Cash App",
   "RTX": "Raytheon",
   "FOX": "Fox Corp",
   "BLSH": "Bullish",
