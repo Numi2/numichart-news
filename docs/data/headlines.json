@@ -1,8 +1,22 @@
 {
- "generated": "2026-09-04T23:46:06.084486+00:00",
+ "generated": "2026-09-04T23:52:09.616397+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "bc65833f6204",
+   "title": "U.S. Gulf-to-China VLCC shipping rate reportedly hits record high",
+   "link": "https://seekingalpha.com/news/4640487-us-gulf-to-china-vlcc-shipping-rate-reportedly-hits-record-high?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "macro",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-04T23:45:15+00:00",
+   "tickers": []
+  },
   {
    "id": "04a1073da4eb",
    "title": "The Heart Drug Pelacarsen Fails, Shocking Novartis and Cardiologists",
@@ -375,6 +389,80 @@
    "tickers": []
   },
   {
+   "id": "61664e0402c9",
+   "title": "Okta CFO Brett Tighe sells $12.8 million in company shares",
+   "link": "https://www.investing.com/news/insider-trading-news/okta-cfo-brett-tighe-sells-128-million-in-company-shares-93CH-4890111",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-04T23:31:36+00:00",
+   "tickers": [
+    "OKTA"
+   ]
+  },
+  {
+   "id": "edf3eaf18d4c",
+   "title": "First Commonwealth Financial CFO sells $44,030 in stock",
+   "link": "https://www.investing.com/news/insider-trading-news/first-commonwealth-financial-cfo-sells-44030-in-stock-93CH-4890110",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-04T23:31:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "621f73085d30",
+   "title": "Kymera Therapeutics chief legal officer Adams disposes of $744k in KYMR stock",
+   "link": "https://www.investing.com/news/insider-trading-news/kymera-therapeutics-chief-legal-officer-adams-disposes-of-744k-in-kymr-stock-93CH-4890109",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-04T23:30:59+00:00",
+   "tickers": [
+    "KYMR"
+   ]
+  },
+  {
+   "id": "cbdc91bae661",
+   "title": "Thrivent Financial sells $21,600 in Gloo Holdings stock",
+   "link": "https://www.investing.com/news/insider-trading-news/thrivent-financial-sells-21600-in-gloo-holdings-stock-93CH-4890108",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-04T23:30:57+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b41354ca9db3",
+   "title": "US structured Venezuela oil position to protect it from dilution, official says",
+   "link": "https://www.investing.com/news/economy-news/us-structured-venezuela-oil-position-to-protect-it-from-dilution-official-says-4890107",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-04T23:30:29+00:00",
+   "tickers": []
+  },
+  {
    "id": "0755741ce5da",
    "title": "GDDY Investors Have Opportunity to Lead GoDaddy Inc. Securities Fraud Lawsuit",
    "link": "https://www.prnewswire.com/news-releases/gddy-investors-have-opportunity-to-lead-godaddy-inc-securities-fraud-lawsuit-302870459.html",
@@ -389,6 +477,20 @@
    "tickers": [
     "GDDY"
    ]
+  },
+  {
+   "id": "ce1bcce10b17",
+   "title": "Yields, dollar rise, stocks ease after solid US jobs report",
+   "link": "https://www.investing.com/news/economy-news/asian-shares-climb-ahead-of-us-jobs-data-feds-waller-soothes-bonds-4888786",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "macro",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-09-04T23:24:54+00:00",
+   "tickers": []
   },
   {
    "id": "bc8e8d49c627",
@@ -587,20 +689,6 @@
    "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-09-04T23:21:10+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ce1bcce10b17",
-   "title": "Yields, dollar rise, stocks ease after solid US jobs report",
-   "link": "https://www.investing.com/news/economy-news/asian-shares-climb-ahead-of-us-jobs-data-feds-waller-soothes-bonds-4888786",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "macro",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-09-04T23:18:49+00:00",
    "tickers": []
   },
   {
@@ -8801,92 +8889,6 @@
    "tickers": [
     "AMR"
    ]
-  },
-  {
-   "id": "5769e6edce0f",
-   "title": "8-K - Arcadia Biosciences, Inc. (0001469443) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1469443/000119312526383642/0001193125-26-383642-index.htm",
-   "summary": "Filed: 2026-09-04 AccNo: 0001193125-26-383642 Size: 160 KB Item 3.01: Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-09-04T20:05:30+00:00",
-   "tickers": []
-  },
-  {
-   "id": "9ac657889fac",
-   "title": "8-K - DarioHealth Corp. (0001533998) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1533998/000110465926105495/0001104659-26-105495-index.htm",
-   "summary": "Filed: 2026-09-04 AccNo: 0001104659-26-105495 Size: 186 KB Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-09-04T20:05:24+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6366f2a882a4",
-   "title": "8-K - Salesforce, Inc. (0001108524) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1108524/000110852426000197/0001108524-26-000197-index.htm",
-   "summary": "Filed: 2026-09-04 AccNo: 0001108524-26-000197 Size: 149 KB Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-09-04T20:05:24+00:00",
-   "tickers": [
-    "CRM"
-   ]
-  },
-  {
-   "id": "082691823b80",
-   "title": "8-K - Braemar Hotels & Resorts Inc. (0001574085) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1574085/000157408526000138/0001574085-26-000138-index.htm",
-   "summary": "Filed: 2026-09-04 AccNo: 0001574085-26-000138 Size: 188 KB Item 5.08: Shareholder Nominations Pursuant to Exchange Act Rule 14a-11",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-09-04T20:05:23+00:00",
-   "tickers": []
-  },
-  {
-   "id": "45e3be9dfd48",
-   "title": "8-K - TEN Holdings, Inc. (0002030954) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/2030954/000149315226041535/0001493152-26-041535-index.htm",
-   "summary": "Filed: 2026-09-04 AccNo: 0001493152-26-041535 Size: 199 KB Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-09-04T20:05:22+00:00",
-   "tickers": []
-  },
-  {
-   "id": "a8b0cce51a8c",
-   "title": "8-K - CDT Equity Inc. (0001896212) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1896212/000149315226041533/0001493152-26-041533-index.htm",
-   "summary": "Filed: 2026-09-04 AccNo: 0001493152-26-041533 Size: 640 KB Item 1.01: Entry into a Material Definitive Agreement Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant Item 3.02: Unregistered Sales of Equity Securities Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-09-04T20:05:22+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8928,6 +8930,7 @@
   "BLDR": "Builders FirstSource",
   "EIX": "Edison International",
   "PG": "The Procter & Gamble",
+  "KYMR": "Kymera Therapeutics",
   "LULU": "lululemon athletica",
   "ACGL": "Arch Capital Group",
   "BEN": "Franklin Resources",
@@ -8982,7 +8985,6 @@
   "AZN": "AstraZeneca",
   "BA": "The Boeing",
   "CMS": "CMS Energy",
-  "CRM": "Salesforce",
   "DTE": "DTE Energy",
   "F": "Ford Motor",
   "FICO": "Fair Isaac",
@@ -9030,6 +9032,7 @@
   "KKR": "KKR &",
   "TOST": "Toast",
   "BALL": "Ball",
+  "OKTA": "Okta",
   "PCG": "PG&E",
   "POOL": "Pool",
   "KLAC": "KLA"
