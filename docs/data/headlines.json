@@ -1,8 +1,22 @@
 {
- "generated": "2026-09-04T01:49:36.229110+00:00",
+ "generated": "2026-09-04T01:57:08.959953+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "336be3a27672",
+   "title": "Former Labor Secretary Stoked Dysfunction and Toxicity, Department Report Finds",
+   "link": "https://www.nytimes.com/2026/09/03/business/economy/labor-secretary-chavez-deremer-report.html",
+   "summary": "Lori Chavez-DeRemer spent Labor Department funds on personal travel and tolerated harassment in the agency, its inspector general found.",
+   "article_text": "",
+   "source": "NYT Economy",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-09-04T01:52:50+00:00",
+   "tickers": []
+  },
   {
    "id": "666cb02abe28",
    "title": "MAISON &amp; OBJET PARIS 2026: Gurunavi präsentiert in Paris Live-Vorführungen der über 1000 Jahre alten „Magewappa\"-Tradition sowie 40 japanische Holzprodukte, die zur Dekarbonisierung beitragen und ESG-Ziele unterstützen",
@@ -18,18 +32,69 @@
    "tickers": []
   },
   {
-   "id": "336be3a27672",
-   "title": "Former Labor Secretary Stoked Dysfunction and Toxicity, Department Report Finds",
-   "link": "https://www.nytimes.com/2026/09/03/business/economy/labor-secretary-chavez-deremer-report.html",
-   "summary": "Lori Chavez-DeRemer spent Labor Department funds on personal travel and tolerated harassment in the agency, its inspector general found.",
+   "id": "4e7b19db8fbf",
+   "title": "Stock Trades Up, Here Is Why",
+   "link": "https://biztoc.com/x/f8fd0fc12d8d8b1c?ref=rss",
+   "summary": "What Happened? Shares of electric vehicle charging company EVgo (NASDAQ:EVGO) jumped 14.8% in the afternoon session after peer electric vehicle charging network operator ChargePoint reported quarterly financial results that topped analyst forecasts, lifting sentiment across the charging…",
    "article_text": "",
-   "source": "NYT Economy",
-   "category": "macro",
-   "type": "macro",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
    "sentiment": "neutral",
-   "domain": "nytimes.com",
-   "published": "2026-09-04T01:44:46+00:00",
+   "domain": "biztoc.com",
+   "published": "2026-09-04T01:44:31+00:00",
    "tickers": []
+  },
+  {
+   "id": "a48e94d6612a",
+   "title": "The Williams Companies(WMB) Strengthens its Natural Gas Growth Engine with Momentum Deal",
+   "link": "https://biztoc.com/x/d4c524a5ea62ce84?ref=rss",
+   "summary": "The Williams Companies, Inc. (NYSE:WMB) has completed its approximately $5.5 billion acquisition of Momentum Midstream, strengthening its position in the Haynesville shale and expanding its ability to connect natural-gas supply with growing Gulf Coast LNG, power-generation, and industrial demand.…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-04T01:44:24+00:00",
+   "tickers": [
+    "WMB",
+    "LNG"
+   ]
+  },
+  {
+   "id": "b65171390e67",
+   "title": "Goldman’s Energy Dividend Picks: Why Devon and HF Sinclair Still Offer Upside",
+   "link": "https://biztoc.com/x/ab8d2553d911365a?ref=rss",
+   "summary": "On September 3, Goldman Sachs noted that investors can still find attractive dividend-paying opportunities in energy despite the sector's sharp rally. The Energy Select Sector SPDR ETF (XLE) has gained about 45% year to date, compared with roughly 13% for the S&P 500, while Brent crude has moved…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-09-04T01:44:18+00:00",
+   "tickers": [
+    "XLE",
+    "GS",
+    "DINO"
+   ]
+  },
+  {
+   "id": "64655f6617a4",
+   "title": "Lululemon’s Guidance Cut Raises Fresh Questions Over its Turnaround",
+   "link": "https://biztoc.com/x/5bb4e5f1d0bd3989?ref=rss",
+   "summary": "On September 3, lululemon athletica inc. (NASDAQ:LULU) announced that it is lowering its full-year revenue and earnings forecasts for the second time this year, underscoring the challenges awaiting incoming CEO Heidi O'Neill as she prepares to take over next week. The company now expects fiscal…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-09-04T01:44:18+00:00",
+   "tickers": [
+    "LULU"
+   ]
   },
   {
    "id": "49a92aea7b68",
@@ -49,6 +114,20 @@
    ]
   },
   {
+   "id": "f74807b31b80",
+   "title": "Oil set for steepest weekly gain since mid-July over intensifying US-Iran tensions",
+   "link": "https://biztoc.com/x/7428d60cc80cbf65?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-09-04T01:43:01+00:00",
+   "tickers": []
+  },
+  {
    "id": "87601e4bdc09",
    "title": "Une nouvelle étude montre que les essaims d'IA mutants surpassent les modèles optimisés dans un monde en constante évolution",
    "link": "https://www.prnewswire.com/news-releases/une-nouvelle-etude-montre-que-les-essaims-dia-mutants-surpassent-les-modeles-optimises-dans-un-monde-en-constante-evolution-302869700.html",
@@ -60,6 +139,90 @@
    "sentiment": "neutral",
    "domain": "prnewswire.com",
    "published": "2026-09-04T01:43:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ba721ba94d0d",
+   "title": "Seahawks’ Leonard Williams Sends Loud Warning to Aaron Donald, Rams",
+   "link": "https://biztoc.com/x/d59d89226065898a?ref=rss",
+   "summary": "Everybody was quick to put the Los Angeles Rams at the top of their Super Bowl favorites list after they traded for two-time Defensive Player of the Year Myles Garrett in June. Then Aaron Donald — a three-time Defensive Player of the Year and franchise icon — came out of retirement and signed a…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-09-04T01:42:59+00:00",
+   "tickers": []
+  },
+  {
+   "id": "cdaddcaa0ed5",
+   "title": "The 4 New Working-Capital Levers CFOs Can Pull in Real Time",
+   "link": "https://biztoc.com/x/57ce143adff62947?ref=rss",
+   "summary": "The next generation of payment infrastructure is giving CFOs something more valuable than speed. It’s giving them optionality. Real-time rails, richer ISO 20022 data, virtual accounts, embedded FX and automated treasury systems are providing finance teams with new levers over four variables CFOs…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-04T01:42:50+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b84f78979406",
+   "title": "Alzheimer's May Begin 7 Years Before Brain Scans Detect It",
+   "link": "https://biztoc.com/x/66a6bc9020067c7a?ref=rss",
+   "summary": "Changes in the brain linked to Alzheimer's disease may begin more than seven years before the condition can be detected using current imaging methods, according to new research. For years, the appearance of amyloid plaques on amyloid-PET scans has been considered the earliest detectable sign of…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-04T01:42:42+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b9fb42a23be8",
+   "title": "CNBC Daily Open: Washington's house is divided over interest rates",
+   "link": "https://biztoc.com/x/4aec9074396bf3b1?ref=rss",
+   "summary": "Hello, this is Hui Jie writing to you from Singapore. Welcome to another edition of CNBC's Daily Open. Abraham Lincoln warned that \"a house divided against itself cannot stand.\" On interest rates, Washington is indeed divided. Federal Reserve Chair Kevin Warsh has signaled that a rate hike could…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-04T01:42:42+00:00",
+   "tickers": []
+  },
+  {
+   "id": "76dc2f146a51",
+   "title": "RBNZ More Likely To Wait Until December to Hike, Silk Says",
+   "link": "https://biztoc.com/x/aed7fe0ab0a86c9e?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-09-04T01:42:36+00:00",
+   "tickers": []
+  },
+  {
+   "id": "9732212fbc38",
+   "title": "Fading Cobalt Rally Is Testing Congo's Efforts to Control Prices",
+   "link": "https://biztoc.com/x/9d8492136f382df2?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-09-04T01:42:31+00:00",
    "tickers": []
   },
   {
@@ -8686,181 +8849,12 @@
     "AMT",
     "BLSH"
    ]
-  },
-  {
-   "id": "5b0b5a57496f",
-   "title": "Bullish Two Hundred Day Moving Average Cross - SPFF",
-   "link": "https://www.nasdaq.com/articles/bullish-two-hundred-day-moving-average-cross-spff",
-   "summary": "In trading on Thursday, shares of the Global X SuperIncome Preferred ETF (Symbol: SPFF) crossed above their 200 day moving average of $9.35, changing hands as high as $9.36 per share. Global X SuperIncome Preferred shares are currently trading up about 0.3% on the day. The cha",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-09-03T21:15:19+00:00",
-   "tickers": [
-    "BLSH"
-   ]
-  },
-  {
-   "id": "488790af5bf4",
-   "title": "FTNJ Crosses Critical Technical Indicator",
-   "link": "https://www.nasdaq.com/articles/ftnj-crosses-critical-technical-indicator",
-   "summary": "In trading on Thursday, shares of the Franklin New Jersey Municipal Income ETF (Symbol: FTNJ) entered into oversold territory, changing hands as low as $8.535 per share. We define oversold territory using the Relative Strength Index, or RSI, which is a technical analysis indica",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-09-03T21:15:15+00:00",
-   "tickers": [
-    "BEN"
-   ]
-  },
-  {
-   "id": "ee2365626b7e",
-   "title": "8-K - Modular Medical, Inc. (0001074871) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1074871/000121390026097280/0001213900-26-097280-index.htm",
-   "summary": "Filed: 2026-09-03 AccNo: 0001213900-26-097280 Size: 188 KB Item 5.08: Shareholder Nominations Pursuant to Exchange Act Rule 14a-11",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-09-03T21:15:14+00:00",
-   "tickers": []
-  },
-  {
-   "id": "981f909359f0",
-   "title": "Stock Market Today, Sept. 3: HPE Jumps 5%, Raises Fiscal Outlook on Record AI Server Demand",
-   "link": "https://www.nasdaq.com/articles/stock-market-today-sept-3-hpe-jumps-5-raises-fiscal-outlook-record-ai-server-demand",
-   "summary": "Hewlett Packard Enterprise (NYSE:HPE), an enterprise server, networking, storage, and AI infrastructure provider, closed at $54.44, up 5.03%. Investors focused on supply bottlenecks after a strong earnings beat and raised guidance, while watching AI server demand and the next ear",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-09-03T21:15:13+00:00",
-   "tickers": [
-    "HPE"
-   ]
-  },
-  {
-   "id": "3818e3c2191a",
-   "title": "WCN Makes Bullish Cross Above Critical Moving Average",
-   "link": "https://www.nasdaq.com/articles/wcn-makes-bullish-cross-above-critical-moving-average",
-   "summary": "In trading on Thursday, shares of Waste Connections Inc (Symbol: WCN) crossed above their 200 day moving average of $165.60, changing hands as high as $167.10 per share. Waste Connections Inc shares are currently trading up about 1.8% on the day. The chart below shows the one",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-09-03T21:15:11+00:00",
-   "tickers": [
-    "WCN",
-    "BLSH"
-   ]
-  },
-  {
-   "id": "cb80057fc396",
-   "title": "UNFI Crosses Below Key Moving Average Level",
-   "link": "https://www.nasdaq.com/articles/unfi-crosses-below-key-moving-average-level",
-   "summary": "In trading on Thursday, shares of United Natural Foods Inc. (Symbol: UNFI) crossed below their 200 day moving average of $43.33, changing hands as low as $42.50 per share. United Natural Foods Inc. shares are currently trading off about 2.6% on the day. The chart below shows t",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-09-03T21:15:08+00:00",
-   "tickers": []
-  },
-  {
-   "id": "412a41e616a2",
-   "title": "Ongwe Minerals Announces Voluntary Filing of Technical Report",
-   "link": "https://www.globenewswire.com/news-release/2026/09/03/3356312/0/en/ongwe-minerals-announces-voluntary-filing-of-technical-report.html",
-   "summary": "VANCOUVER, British Columbia, Sept. 03, 2026 (GLOBE NEWSWIRE) -- Ongwe Minerals Inc. (\"Ongwe\" or \"the Company\") (TSXV: OGW) (NSX: ONG) is pleased to announce that it has voluntarily filed a technical report prepared in accordance with National Instrument 43-101 – Standards of Disclosure for Mineral Projects (\"NI 43-101\") for the Khorixas Gold Project located in Namibia.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-09-03T21:15:00+00:00",
-   "tickers": [
-    "NI"
-   ]
-  },
-  {
-   "id": "aadfb5362e31",
-   "title": "Achieve Life Sciences Announced Granting of New Hire Inducement Awards",
-   "link": "https://www.globenewswire.com/news-release/2026/09/03/3356313/0/en/achieve-life-sciences-announced-granting-of-new-hire-inducement-awards.html",
-   "summary": "SEATTLE and VANCOUVER, British Columbia, Sept. 03, 2026 (GLOBE NEWSWIRE) -- Achieve Life Sciences, Inc. (Nasdaq: ACHV), a late-stage specialty pharmaceutical company focused on the global development and commercialization of cytisinicline as a treatment for nicotine dependence, today announced that Achieve’s board of directors approved stock option grants to purchase an aggregate of 315,000 shares of its common stock and restricted stock unit (“RSU”) awards covering an aggregate of 283,000 shares of its common stock for 7 new employees under Achieve’s 2024 Equity Inducement Plan.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-09-03T21:15:00+00:00",
-   "tickers": [
-    "NDAQ"
-   ]
-  },
-  {
-   "id": "21d279a35a51",
-   "title": "Notable Two Hundred Day Moving Average Cross - YCS",
-   "link": "https://www.nasdaq.com/articles/notable-two-hundred-day-moving-average-cross-ycs",
-   "summary": "In trading on Thursday, shares of the ProShares UltraShort Yen ETF (Symbol: YCS) crossed below their 200 day moving average of $52.99, changing hands as low as $52.20 per share. ProShares UltraShort Yen shares are currently trading off about 4.2% on the day. The chart below sh",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-09-03T21:14:02+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e95631088d54",
-   "title": "Equifax Breaks Above 200-Day Moving Average - Bullish for EFX",
-   "link": "https://www.nasdaq.com/articles/equifax-breaks-above-200-day-moving-average-bullish-efx",
-   "summary": "In trading on Thursday, shares of Equifax Inc (Symbol: EFX) crossed above their 200 day moving average of $188.02, changing hands as high as $192.51 per share. Equifax Inc shares are currently trading up about 2% on the day. The chart below shows the one year performance of EF",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-09-03T21:13:57+00:00",
-   "tickers": [
-    "EFX",
-    "BLSH"
-   ]
-  },
-  {
-   "id": "0f3e72344774",
-   "title": "Ethan Allen Interiors Breaks Below 200-Day Moving Average - Notable for ETD",
-   "link": "https://www.nasdaq.com/articles/ethan-allen-interiors-breaks-below-200-day-moving-average-notable-etd",
-   "summary": "In trading on Thursday, shares of Ethan Allen Interiors, Inc. (Symbol: ETD) crossed below their 200 day moving average of $22.59, changing hands as low as $21.23 per share. Ethan Allen Interiors, Inc. shares are currently trading up about 1.1% on the day. The chart below shows",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-09-03T21:13:53+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
   "PICK": "iShares MSCI Global Select Metals & Mining Producers Fund",
   "ETH": "Grayscale Ethereum Staking Mini ETF Shares",
+  "XLE": "State Street Energy Select Sector SPDR ETF",
   "EXPD": "Expeditors International of Washington",
   "BTC": "Grayscale Bitcoin Mini Trust (BTC)",
   "QSR": "Restaurant Brands International",
@@ -8868,7 +8862,6 @@
   "WST": "West Pharmaceutical Services",
   "EL": "The Est?e Lauder Companies",
   "FBIN": "Fortune Brands Innovations",
-  "HPE": "Hewlett Packard Enterprise",
   "SBSW": "Sibanye Stillwater Limited",
   "GPK": "Graphic Packaging Holding",
   "IBKR": "Interactive Brokers Group",
@@ -8880,6 +8873,7 @@
   "AMD": "Advanced Micro Devices",
   "MAR": "Marriott International",
   "SH": "ProShares Short S&P500",
+  "WMB": "The Williams Companies",
   "IONS": "Ionis Pharmaceuticals",
   "PTEN": "Patterson-UTI Energy",
   "ZETA": "Zeta Global Holdings",
@@ -8899,7 +8893,6 @@
   "RF": "Regions Financial",
   "UBER": "Uber Technologies",
   "VERA": "Vera Therapeutics",
-  "WCN": "Waste Connections",
   "COST": "Costco Wholesale",
   "ENSG": "The Ensign Group",
   "GD": "General Dynamics",
@@ -8933,6 +8926,7 @@
   "TSLA": "Supercharger",
   "NVDA": "Grace Hopper",
   "AGI": "Alamos Gold",
+  "DINO": "HF Sinclair",
   "LCID": "Lucid Group",
   "TSN": "Tyson Foods",
   "AAPL": "Apple Watch",
@@ -8956,7 +8950,6 @@
   "BCS": "Barclays",
   "BP": "BP p.l.c",
   "DOCU": "DocuSign",
-  "NI": "NiSource",
   "SYM": "Symbotic",
   "SQ": "Cash App",
   "FOX": "Fox Corp",
