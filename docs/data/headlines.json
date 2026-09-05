@@ -1,8 +1,36 @@
 {
- "generated": "2026-09-05T07:17:12.259762+00:00",
+ "generated": "2026-09-05T07:28:04.346544+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "64a66a0bbb33",
+   "title": "A Broadening Industrial Recovery Is Driving Better Results At Hurco",
+   "link": "https://seekingalpha.com/article/4943294-a-broadening-industrial-recovery-is-driving-better-results-at-hurco?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-05T07:24:54+00:00",
+   "tickers": []
+  },
+  {
+   "id": "3430e2843262",
+   "title": "NODE Monthly Commentary: August 2026",
+   "link": "https://seekingalpha.com/article/4943301-node-monthly-commentary-august-2026?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-05T07:15:00+00:00",
+   "tickers": []
+  },
   {
    "id": "57306f92c2ce",
    "title": "Here's How Many Shares of Coca-Cola You'd Need for $40,000 in Yearly Dividends",
@@ -48,6 +76,22 @@
    "domain": "biztoc.com",
    "published": "2026-09-05T07:14:10+00:00",
    "tickers": []
+  },
+  {
+   "id": "ad2482c55baf",
+   "title": "BlackRock: The Business Is Becoming Much More Than An Asset Manager",
+   "link": "https://seekingalpha.com/article/4943293-blackrock-business-becoming-much-more-than-asset-manager?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-05T07:14:03+00:00",
+   "tickers": [
+    "BLK"
+   ]
   },
   {
    "id": "99ebfe9d46c7",
@@ -8795,52 +8839,6 @@
     "TAP",
     "BLDR"
    ]
-  },
-  {
-   "id": "62facc00a79d",
-   "title": "General Dynamics wins big with $149.6M U.S. Navy ship contract",
-   "link": "https://seekingalpha.com/news/4640483-general-dynamics-wins-big-with-1496m-us-navy-ship-contract?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-04T21:45:50+00:00",
-   "tickers": [
-    "GD"
-   ]
-  },
-  {
-   "id": "aa6ea60aae2a",
-   "title": "Hisense lleva colores realistas, confort visual y entretenimiento inmersivo a IFA 2026",
-   "link": "https://www.prnewswire.com/news-releases/hisense-lleva-colores-realistas-confort-visual-y-entretenimiento-inmersivo-a-ifa-2026-302870477.html",
-   "summary": "BERLÍN, 4 de septiembre de 2026 /PRNewswire/ -- Hisense, marca líder mundial en electrónica de consumo y electrodomésticos, presenta sus últimas innovaciones en pantallas, tecnología láser y audio en la feria IFA 2026 bajo el lema \"Innovando para una vida más brillante\", combinando una...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-09-04T21:44:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "3651b953cb67",
-   "title": "AVUV: Quality Advantages Make This Small-Cap Value ETF A Winner",
-   "link": "https://seekingalpha.com/article/4943240-avuv-quality-advantages-make-this-small-cap-value-etf-a-winner?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-04T21:41:19+00:00",
-   "tickers": [
-    "AVUV"
-   ]
   }
  ],
  "ticker_names": {
@@ -8850,7 +8848,6 @@
   "BTC": "Grayscale Bitcoin Mini Trust (BTC)",
   "CM": "Canadian Imperial Bank of Commerce",
   "JEPI": "JPMorgan Equity Premium Income ETF",
-  "AVUV": "Avantis U.S. Small Cap Value ETF",
   "HII": "Huntington Ingalls Industries",
   "SCHD": "Schwab US Dividend Equity ETF",
   "WST": "West Pharmaceutical Services",
@@ -8947,6 +8944,7 @@
   "DE": "John Deere",
   "PARA": "Paramount+",
   "BC": "Brunswick",
+  "BLK": "BlackRock",
   "C": "Citigroup",
   "SBUX": "Starbucks",
   "ADBE": "Photoshop",
