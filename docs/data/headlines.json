@@ -1,8 +1,36 @@
 {
- "generated": "2026-09-05T21:40:01.117952+00:00",
+ "generated": "2026-09-05T21:46:29.148592+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "99d61c93de3b",
+   "title": "Putin meets with U.S. envoys at the Kremlin for renewed talks on ending the war in Ukraine",
+   "link": "https://www.cnbc.com/2026/09/05/witkoff-kushner-moscow-russia-ukraine.html",
+   "summary": "Trump's push to end the fighting, now in its fifth year, has lost momentum as U.S. attention has been focused for the last six months on its war with Iran.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-09-05T21:38:22+00:00",
+   "tickers": []
+  },
+  {
+   "id": "9f7b92b3d4b5",
+   "title": "US, Iranian forces fire at vessels in waters near Iran",
+   "link": "https://www.investing.com/news/commodities-news/us-strikes-three-iranian-oil-tankers-after-irgc-attack-on-american-naval-ships-central-command-says-4890210",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-05T21:36:52+00:00",
+   "tickers": []
+  },
   {
    "id": "48eded641cdd",
    "title": "US regulator sues ISS as it steps up scrutiny of proxy advisers",
@@ -179,6 +207,20 @@
    "tickers": [
     "CMS"
    ]
+  },
+  {
+   "id": "2979c410c925",
+   "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+   "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4890240",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-09-05T21:20:04+00:00",
+   "tickers": []
   },
   {
    "id": "cc04f562b836",
@@ -403,20 +445,6 @@
    "sentiment": "neutral",
    "domain": "prnewswire.com",
    "published": "2026-09-05T21:06:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "9f7b92b3d4b5",
-   "title": "US strikes three Iranian oil tankers after IRGC attack on American naval ships, Central Command says",
-   "link": "https://www.investing.com/news/commodities-news/us-strikes-three-iranian-oil-tankers-after-irgc-attack-on-american-naval-ships-central-command-says-4890210",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-05T21:00:29+00:00",
    "tickers": []
   },
   {
@@ -1082,20 +1110,6 @@
    "sentiment": "neutral",
    "domain": "prnewswire.com",
    "published": "2026-09-05T19:57:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "99d61c93de3b",
-   "title": "Putin meets with U.S. envoys at the Kremlin for renewed talks on ending the war in Ukraine",
-   "link": "https://www.cnbc.com/2026/09/05/witkoff-kushner-moscow-russia-ukraine.html",
-   "summary": "Trump's push to end the fighting, now in its fifth year, has lost momentum as U.S. attention has been focused for the last six months on its war with Iran.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-09-05T19:54:55+00:00",
    "tickers": []
   },
   {
@@ -8836,23 +8850,6 @@
    "tickers": [
     "LOW"
    ]
-  },
-  {
-   "id": "0c48c1233680",
-   "title": "These Jobs Are Expected to Grow Over 10 Years",
-   "link": "https://biztoc.com/x/6b586619faeab225?ref=rss",
-   "summary": "The Labor Department's latest 10-year jobs forecast has a clear loser: word processors and typists. And a clear winner: nurse practitioners. The agency's report attempts to factor in how AI and other forms of technology will upend the workforce over the next decade, reports CBS News. Here are the…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-05T13:18:09+00:00",
-   "tickers": [
-    "NWSA",
-    "PARA"
-   ]
   }
  ],
  "ticker_names": {
@@ -8959,7 +8956,6 @@
   "TRU": "TransUnion",
   "MSFT": "Office 365",
   "DE": "John Deere",
-  "PARA": "Paramount+",
   "CME": "CME Group",
   "SNOW": "Snowflake",
   "ADBE": "Photoshop",
