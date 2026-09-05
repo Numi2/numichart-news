@@ -1,8 +1,22 @@
 {
- "generated": "2026-09-05T21:32:24.337324+00:00",
+ "generated": "2026-09-05T21:40:01.117952+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "48eded641cdd",
+   "title": "US regulator sues ISS as it steps up scrutiny of proxy advisers",
+   "link": "https://www.ft.com/content/ecab45a4-6786-4151-a998-f64279457435?syn-25a6b1a6=1",
+   "summary": "The SEC accuses the firm of ignoring a subpoena as part of its ‘fact-finding investigation’",
+   "article_text": "",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "ft.com",
+   "published": "2026-09-05T21:35:17+00:00",
+   "tickers": []
+  },
   {
    "id": "7256d71075ae",
    "title": "Verizon Waives Charges for Hurricane Lowell, Prepares Network in Hawai'i",
@@ -344,6 +358,22 @@
    "domain": "biztoc.com",
    "published": "2026-09-05T21:09:39+00:00",
    "tickers": []
+  },
+  {
+   "id": "42532bbe7cab",
+   "title": "Prediction: Here's What a $5,000 Investment in Eli Lilly Could Look Like in 5 Years",
+   "link": "https://www.nasdaq.com/articles/prediction-heres-what-5000-investment-eli-lilly-could-look-5-years",
+   "summary": "Key PointsThe company's GLP-1 therapies are adding indications.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-05T21:08:00+00:00",
+   "tickers": [
+    "LLY"
+   ]
   },
   {
    "id": "b13d13f16d4b",
@@ -8823,37 +8853,6 @@
     "NWSA",
     "PARA"
    ]
-  },
-  {
-   "id": "70b8b9871c2c",
-   "title": "Nepal Glacier Collapse Reveals New Scale of Climate Perils",
-   "link": "https://biztoc.com/x/6ec477fba1b4016f?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-05T13:18:06+00:00",
-   "tickers": []
-  },
-  {
-   "id": "1f3bbf168ef3",
-   "title": "This is a test from PRN Test - xyz",
-   "link": "https://www.prnewswire.com/news-releases/this-is-a-test-from-prn-test---xyz-302870658.html",
-   "summary": "This is a test subheadline. This is a test from PRN Test CLEVELAND, Sept. 5, 2026 /PRNewswire/ -- THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG'S TAIL This is a test from PRN Test The Quick Brown Fox Jumps Over The Lazy Dog's Tail. The Quick Brown Fox Jumps Over The Lazy Dog's Tail. The...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-09-05T13:18:00+00:00",
-   "tickers": [
-    "FOX",
-    "DOG"
-   ]
   }
  ],
  "ticker_names": {
@@ -8883,7 +8882,6 @@
   "MAR": "Marriott International",
   "VZ": "Verizon Communications",
   "CWST": "Casella Waste Systems",
-  "DOG": "ProShares Short Dow30",
   "TDY": "Teledyne Technologies",
   "BMY": "Bristol-Myers Squibb",
   "CEG": "Constellation Energy",
