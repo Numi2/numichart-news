@@ -1,8 +1,52 @@
 {
- "generated": "2026-09-05T14:46:38.520975+00:00",
+ "generated": "2026-09-05T14:52:46.436328+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "984faf946055",
+   "title": "The Most Divided Fed In A Decade Is About To Vote",
+   "link": "https://seekingalpha.com/article/4943369-the-most-divided-fed-in-a-decade-is-about-to-vote?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-05T14:49:55+00:00",
+   "tickers": []
+  },
+  {
+   "id": "d92f49e502ed",
+   "title": "XBI: Big Pharma Can Keep The 76% Rally Going",
+   "link": "https://seekingalpha.com/article/4943368-xbi-big-pharma-can-keep-the-76-percent-rally-going?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-05T14:46:57+00:00",
+   "tickers": [
+    "XBI"
+   ]
+  },
+  {
+   "id": "9f7b92b3d4b5",
+   "title": "US strikes three Iranian oil tankers after IRGC attack on American naval ships, Central Command says",
+   "link": "https://www.investing.com/news/commodities-news/us-strikes-three-iranian-oil-tankers-after-irgc-attack-on-american-naval-ships-central-command-says-4890210",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-05T14:42:30+00:00",
+   "tickers": []
+  },
   {
    "id": "724f8ec405bc",
    "title": "INVESTOR DEADLINE ALERT: Hims &amp; Hers Health, Inc. (HIMS) Investors with Substantial Losses Have Opportunity to Lead Class Action Lawsuit",
@@ -8780,50 +8824,6 @@
    "domain": "investing.com",
    "published": "2026-09-05T06:46:03+00:00",
    "tickers": []
-  },
-  {
-   "id": "73688f8b4adf",
-   "title": "Vistance Networks director L. William Krause sells $149,555 shares",
-   "link": "https://www.investing.com/news/insider-trading-news/vistance-networks-director-l-william-krause-sells-149555-shares-93CH-4890174",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-05T06:45:56+00:00",
-   "tickers": [
-    "VISN"
-   ]
-  },
-  {
-   "id": "1aabb57c2cbe",
-   "title": "South Korea exports surpass full-year record, hit $709.4 billion YTD",
-   "link": "https://biztoc.com/x/ba79774bd04381b0?ref=rss",
-   "summary": "South Korea's exports have reached $709.4 billion so far this year, surpassing last year's annual record, the customs office said on Saturday, as the economy rides high on booming global demand for AI chips. The country's exports hit $709.3 billion last year, a second consecutive annual…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-05T06:43:23+00:00",
-   "tickers": []
-  },
-  {
-   "id": "811de1fd5678",
-   "title": "Russia: US should focus on facts on the ground in Ukraine",
-   "link": "https://biztoc.com/x/4da1a484b7f8bd6a?ref=rss",
-   "summary": "Russian Deputy Foreign Minister Sergey Ryabkov called on the United States on Friday to take into account realities on the ground in the Ukraine conflict settlement. \"The main question is how much the...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-05T06:42:54+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8832,6 +8832,7 @@
   "JEPQ": "JPMorgan Nasdaq Equity Premium Income ETF",
   "NVDX": "T-Rex 2X Long NVIDIA Daily Target ETF",
   "BTC": "Grayscale Bitcoin Mini Trust (BTC)",
+  "XBI": "State Street SPDR S&P Biotech ETF",
   "VYM": "Vanguard High Dividend Yield ETF",
   "PEG": "Public Service Enterprise Group",
   "QSR": "Restaurant Brands International",
@@ -8870,7 +8871,6 @@
   "RIVN": "Rivian Automotive",
   "SOFI": "SoFi Technologies",
   "UBER": "Uber Technologies",
-  "VISN": "Vistance Networks",
   "ALGN": "Align Technology",
   "BWXT": "BWX Technologies",
   "COST": "Costco Wholesale",
