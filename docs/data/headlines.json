@@ -1,8 +1,56 @@
 {
- "generated": "2026-09-05T03:43:53.302949+00:00",
+ "generated": "2026-09-05T03:51:03.800763+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "e49350cee57f",
+   "title": "How Investors May Respond To Chipotle Mexican Grill (CMG) Using South Korea As Its Asian Testbed",
+   "link": "https://biztoc.com/x/e8ab862bc43679e5?ref=rss",
+   "summary": "Chipotle Mexican Grill has opened its first restaurant in Asia at 423 Gangnam-daero in Seoul, partnering with Sangmidang Holdings to launch a joint venture, S&C Restaurants Holdings, that will lead its South Korean operations and serve as a model for future regional growth. - By using South Korea…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-05T03:41:47+00:00",
+   "tickers": [
+    "CMG"
+   ]
+  },
+  {
+   "id": "c589ff860bdc",
+   "title": "Stock Looks Cheap On Value Checks While Its Share Run Looks Hard To Ignore",
+   "link": "https://biztoc.com/x/67d207a841e02327?ref=rss",
+   "summary": "Western Digital stock has posted a very large 3 year gain while the broader valuation checks still lean cheap, so the recent share price strength and the current multiples are pointing in different directions for investors to weigh. With the stock back in focus after trade and policy headlines,…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-05T03:41:40+00:00",
+   "tickers": [
+    "WDC"
+   ]
+  },
+  {
+   "id": "cc5467757978",
+   "title": "Stock Gets Fair Value Boost After Raised 2026 Outlook",
+   "link": "https://biztoc.com/x/e79df6e3d862b630?ref=rss",
+   "summary": "Expedia Group now carries a higher implied fair value, with the price target moving from US$293.71 to US$339.81, which equates to about 16% more in implied equity valuation. This shift sits alongside updated company guidance for 2026 revenue, fresh product launches across Vrbo and Escapia, and a…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-09-05T03:41:35+00:00",
+   "tickers": [
+    "EXPE"
+   ]
+  },
   {
    "id": "b376ce7678b8",
    "title": "How To Tackle Domestic Extremists' Foreign Enablers",
@@ -8816,48 +8864,6 @@
    "tickers": [
     "PARA"
    ]
-  },
-  {
-   "id": "d3486c0fa804",
-   "title": "Trump wanted to blow up Iran. He may have detonated the bond market instead",
-   "link": "https://biztoc.com/x/9a1e5ce916ed2817?ref=rss",
-   "summary": "John Rapley is a contributing columnist for The Globe and Mail. He is an author and academic whose books include Why Empires Fall and Twilight of the Money Gods. Donald Trump said he’d blow up Kharg Island. He may have blown up the bond market instead. The market has been a tinderbox for months,…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-04T20:49:40+00:00",
-   "tickers": []
-  },
-  {
-   "id": "1fde69d088af",
-   "title": "US-Canada Trade War: Vermont Firms Hit Hard by Trump's 50% Tariffs",
-   "link": "https://biztoc.com/x/23db557f534ab555?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-04T20:49:35+00:00",
-   "tickers": []
-  },
-  {
-   "id": "43edb53d90c7",
-   "title": "Denmark and four EU countries agree on migrant ‘return hubs’ outside the bloc, aim to start by 2027",
-   "link": "https://biztoc.com/x/36b85cf9e8a5d576?ref=rss",
-   "summary": "Denmark and four other European Union countries agreed Friday on a model for “return hubs” in non-EU nations and hope to begin sending migrants to the facilities as early as 2027, an official said Friday. The announcement, made after a one-day meeting in Copenhagen, is the latest development in an…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-04T20:49:33+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8882,6 +8888,7 @@
   "IWM": "iShares Russell 2000 ETF",
   "AAOI": "Applied Optoelectronics",
   "HON": "Honeywell International",
+  "CMG": "Chipotle Mexican Grill",
   "SWK": "Stanley Black & Decker",
   "WBD": "Warner Bros. Discovery",
   "IONS": "Ionis Pharmaceuticals",
@@ -8932,6 +8939,7 @@
   "MS": "Morgan Stanley",
   "RPRX": "Royalty Pharma",
   "AVAV": "AeroVironment",
+  "EXPE": "Expedia Group",
   "LLY": "Eli Lilly and",
   "WFC": "Wells Fargo &",
   "MSTR": "MicroStrategy",
