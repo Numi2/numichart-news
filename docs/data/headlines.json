@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-05T09:39:21.747521+00:00",
+ "generated": "2026-09-05T09:45:33.318073+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -5221,6 +5221,20 @@
    "tickers": []
   },
   {
+   "id": "c12a5f25240a",
+   "title": "Seaport Global Initiates Coverage of ConocoPhillips (COP) at Neutral",
+   "link": "https://www.nasdaq.com/articles/seaport-global-initiates-coverage-conocophillips-cop-neutral",
+   "summary": "Fintel reports that on September 3, 2026, Seaport Global initiated coverage of ConocoPhillips (NYSE:COP) with a Neutral recommendation. This initiation of coverage occurred on a day when the stock's pre-action close on September 2, 2026, was $137.20, and the next-session close on",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "analyst",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-05T02:18:27+00:00",
+   "tickers": []
+  },
+  {
    "id": "6224ef9034b5",
    "title": "Hisense prináša na veľtrh IFA 2026 realistické farby, pohodlie pre oči a pohlcujúcu zábavu",
    "link": "https://www.prnewswire.com/news-releases/hisense-prinaa-na-vetrh-ifa-2026-realisticke-farby-pohodlie-pre-oi-a-pohlcujucu-zabavu-302870570.html",
@@ -5324,6 +5338,23 @@
    "domain": "biztoc.com",
    "published": "2026-09-05T02:09:11+00:00",
    "tickers": []
+  },
+  {
+   "id": "da5ebb97542b",
+   "title": "JP Morgan Upgrades Copart (CPRT) to Overweight from Neutral",
+   "link": "https://www.nasdaq.com/articles/jp-morgan-upgrades-copart-cprt-overweight-neutral",
+   "summary": "Fintel reports that on September 3, 2026, JP Morgan upgraded their outlook for Copart (NASDAQGS:CPRT) from Neutral to Overweight.This rating action follows a prior action by the same firm on February 23, 2026, when JP Morgan maintained its Neutral rating on the stock.",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-09-05T02:09:09+00:00",
+   "tickers": [
+    "CPRT",
+    "JPM"
+   ]
   },
   {
    "id": "ba7bce5ee7cc",
@@ -8762,34 +8793,6 @@
    "domain": "biztoc.com",
    "published": "2026-09-04T23:06:21+00:00",
    "tickers": []
-  },
-  {
-   "id": "55bc948bf67e",
-   "title": "His ESOP Stock Grew From $80,000 to $400,000. One IRA Rollover Could Turn $320,000 of Appreciation Into Ordinary Income",
-   "link": "https://biztoc.com/x/65ad1cbe682f7faf?ref=rss",
-   "summary": "The post His ESOP Stock Grew From $80,000 to $400,000. One IRA Rollover Could Turn $320,000 of Appreciation Into Ordinary Income. appeared first on 24/7 Wall St.. Picture a man in his mid-sixties who spent his career at an employee-owned company. The company contributed shares to his employee…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-04T23:06:19+00:00",
-   "tickers": []
-  },
-  {
-   "id": "58c0e2ad956d",
-   "title": "Tokyo Electron Limited (TOELY) Presents at SEMICON Taiwan 2026 - Slideshow",
-   "link": "https://seekingalpha.com/article/4943254-tokyo-electron-limited-toely-presents-at-semicon-taiwan-2026-slideshow?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-04T23:06:18+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8906,6 +8909,7 @@
   "WMT": "Walmart",
   "ZS": "Zscaler",
   "ALMS": "Alumis",
+  "CPRT": "Copart",
   "KSS": "Kohl's",
   "PATH": "UiPath",
   "SPCX": "SpaceX",
