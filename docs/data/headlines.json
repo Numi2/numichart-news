@@ -1,8 +1,53 @@
 {
- "generated": "2026-09-05T19:15:55.905585+00:00",
+ "generated": "2026-09-05T19:22:51.700778+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "94874ef5674e",
+   "title": "From ‘mystery vacations’ to hostels, budget travelers get thrifty as prices rise",
+   "link": "https://www.cnbc.com/2026/09/05/budget-travel-vacation-costs.html",
+   "summary": "Despite rising prices and the travel industry focusing on the luxury segment, budget-minded vacationers are still finding ways to get away.",
+   "article_text": "",
+   "source": "CNBC Economy",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "positive",
+   "domain": "cnbc.com",
+   "published": "2026-09-05T19:18:03+00:00",
+   "tickers": []
+  },
+  {
+   "id": "48bba6e0e954",
+   "title": "Key deals this week: Flex, Nvidia, AbbVie and more",
+   "link": "https://seekingalpha.com/news/4640496-key-deals-this-week-flex-nvidia-abbvie-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-05T19:15:29+00:00",
+   "tickers": [
+    "ABBV",
+    "FLEX"
+   ]
+  },
+  {
+   "id": "d33ecd33addb",
+   "title": "LeBron James teases partnership with Polymarket",
+   "link": "https://www.cnbc.com/2026/09/05/lebron-james-polymarket-partnership.html",
+   "summary": "LeBron James on Saturday teased an upcoming partnership with the prediction markets platform Polymarket in a social media post.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-09-05T19:14:59+00:00",
+   "tickers": []
+  },
   {
    "id": "80f64858f467",
    "title": "Trump turns up the heat on Warsh as Fed rate hike looms",
@@ -8528,20 +8573,6 @@
    "tickers": []
   },
   {
-   "id": "94874ef5674e",
-   "title": "From ‘mystery vacations’ to hostels, budget travelers get thrifty as prices rise",
-   "link": "https://www.cnbc.com/2026/09/05/budget-travel-vacation-costs.html",
-   "summary": "Despite rising prices and the travel industry focusing on the luxury segment, budget-minded vacationers are still finding ways to get away.",
-   "article_text": "",
-   "source": "CNBC Economy",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "positive",
-   "domain": "cnbc.com",
-   "published": "2026-09-05T12:14:21+00:00",
-   "tickers": []
-  },
-  {
    "id": "9db083254edb",
    "title": "Americans hit with record-high Labor Day Weekend gasoline prices",
    "link": "https://www.cnbc.com/2026/09/05/americans-hit-with-record-high-labor-day-weekend-gasoline-prices.html",
@@ -8806,38 +8837,6 @@
    "domain": "prnewswire.com",
    "published": "2026-09-05T12:00:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "3bcedc0fe780",
-   "title": "Zscaler: Cheaper Than Other Cybersecurity Names For A Reason",
-   "link": "https://seekingalpha.com/article/4943336-zscaler-cheaper-than-other-cybersecurity-names-for-a-reason?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-05T11:59:00+00:00",
-   "tickers": [
-    "ZS"
-   ]
-  },
-  {
-   "id": "052f47bcd100",
-   "title": "The Labor Market Is Starting To Align With Inflation In Pushing The Fed",
-   "link": "https://seekingalpha.com/article/4943299-the-labor-market-is-starting-to-align-with-inflation-in-pushing-the-fed?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-05T11:57:24+00:00",
-   "tickers": [
-    "ALGN"
-   ]
   }
  ],
  "ticker_names": {
@@ -8895,7 +8894,6 @@
   "RIVN": "Rivian Automotive",
   "SOFI": "SoFi Technologies",
   "UBER": "Uber Technologies",
-  "ALGN": "Align Technology",
   "BWXT": "BWX Technologies",
   "COST": "Costco Wholesale",
   "GTLS": "Chart Industries",
@@ -8964,7 +8962,7 @@
   "WIX": "Wix.com",
   "WMT": "Walmart",
   "NFLX": "Netflix",
-  "ZS": "Zscaler",
+  "ABBV": "AbbVie",
   "ABNB": "Airbnb",
   "AEE": "Ameren",
   "CCJ": "Cameco",
@@ -8978,6 +8976,7 @@
   "AFL": "Aflac",
   "DOV": "Dover",
   "MAS": "Masco",
+  "FLEX": "Flex",
   "PCG": "PG&E",
   "ROKU": "Roku",
   "T": "AT&T"
