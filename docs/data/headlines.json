@@ -1,8 +1,26 @@
 {
- "generated": "2026-09-06T05:44:24.111416+00:00",
+ "generated": "2026-09-06T05:50:53.425001+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "f066af648d50",
+   "title": "BEYONCÉ CELEBRA SU CUMPLEAÑOS CON EL LANZAMIENTO DE UNA EDICIÓN DELUXE REMASTERIZADA DE \"B'DAY\" SU OBRA MAESTRA SOBRE EL PASO A LA MADUREZ SE ENRIQUECE CON IMÁGENES MEJORADAS, NUEVAS CANCIONES SORPRESA Y TEMAS EN ESPAÑOL, QUE INCLUYEN COLABORACIONES CON MALUMA Y LA FALLECIDA SELENA",
+   "link": "https://www.prnewswire.com/news-releases/beyonce-celebra-su-cumpleanos-con-el-lanzamiento-de-una-edicion-deluxe-remasterizada-de-b-day-su-obra-maestra-sobre-el-paso-a-la-madurez-se-enriquece-con-imagenes-mejoradas-nuevas-canciones-sorpresa-y-temas-en-espanol-que-incluyen-colaborac-847158660.html",
+   "summary": "B'DAY (20TH ANNIVERSARY EDITION) YA ESTÁ DISPONIBLE LONDRES, 6 de septiembre de 2026 /PRNewswire-HISPANIC PR WIRE/ -- Hoy se celebra el cumpleaños de Beyoncé y el lanzamiento de una extensa edición remasterizada de B'DAY, su segundo álbum, donde alcanzó madurez artística y personal....",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-09-06T05:47:00+00:00",
+   "tickers": [
+    "SU",
+    "EL",
+    "DE"
+   ]
+  },
   {
    "id": "978eb50114c8",
    "title": "SEC seeks court order forcing ISS to hand over client voting data",
@@ -106,6 +124,20 @@
    "sentiment": "neutral",
    "domain": "biztoc.com",
    "published": "2026-09-06T05:30:38+00:00",
+   "tickers": []
+  },
+  {
+   "id": "982b73ec6bb2",
+   "title": "The S&P 500's Yield Is at Historic Lows. Here Are 3 Dividend Stocks I'd Buy in September.",
+   "link": "https://www.nasdaq.com/articles/sp-500s-yield-historic-lows-here-are-3-dividend-stocks-id-buy-september",
+   "summary": "Key PointsMcDonald's has raised its dividend for 49 straight years and currently offers a forward yield of 2.89%.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-09-06T05:20:00+00:00",
    "tickers": []
   },
   {
@@ -8786,36 +8818,6 @@
    "domain": "biztoc.com",
    "published": "2026-09-05T16:20:18+00:00",
    "tickers": []
-  },
-  {
-   "id": "0aded3cd0dde",
-   "title": "Novartis’ experimental cardiovascular drug fails a pivotal study",
-   "link": "https://biztoc.com/x/13b5a10e19b8b06b?ref=rss",
-   "summary": "A closely watched cardiovascular drug from Novartis failed in a pivotal study, the company said Friday, a major blow to the firm and to efforts to target a common heart disease risk factor. The drug, called pelacarsen, had shown in earlier trials that it could drastically lower levels of what’s…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-05T16:20:16+00:00",
-   "tickers": [
-    "NVS"
-   ]
-  },
-  {
-   "id": "481959186cad",
-   "title": "Bitcoin holds below $80,000 as jobs data lifts Fed hike bets; ETF inflows continue",
-   "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-80000-as-strong-us-jobs-data-revives-fed-rate-hike-fears-4890184",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-09-05T16:17:27+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8830,6 +8832,7 @@
   "IBP": "Installed Building Products",
   "STX": "Seagate Technology Holdings",
   "AMC": "AMC Entertainment Holdings",
+  "EL": "The Est?e Lauder Companies",
   "HPE": "Hewlett Packard Enterprise",
   "ECG": "Everus Construction Group",
   "ICE": "Intercontinental Exchange",
@@ -8887,6 +8890,7 @@
   "LLY": "Eli Lilly and",
   "O": "Realty Income",
   "SMR": "NuScale Power",
+  "SU": "Suncor Energy",
   "ADC": "Agree Realty",
   "BKR": "Baker Hughes",
   "DVLT": "Datavault AI",
@@ -8914,6 +8918,7 @@
   "TRU": "TransUnion",
   "WT": "WisdomTree",
   "MSFT": "Office 365",
+  "DE": "John Deere",
   "PARA": "Paramount+",
   "CME": "CME Group",
   "SNOW": "Snowflake",
