@@ -1,8 +1,54 @@
 {
- "generated": "2026-09-06T17:03:24.058562+00:00",
+ "generated": "2026-09-06T17:16:47.348002+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "49320134504f",
+   "title": "HYPE hits record high as ETF filings reveal growing institutional exposure",
+   "link": "https://seekingalpha.com/news/4640522-hype-hits-record-high-as-etf-filings-reveal-growing-institutional-exposure?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-06T17:11:19+00:00",
+   "tickers": []
+  },
+  {
+   "id": "27b328c90491",
+   "title": "KeyBanc warns Apple’s iPhone 18 launch may be a negative catalyst for shares",
+   "link": "https://www.investing.com/news/stock-market-news/keybanc-warns-apples-iphone-18-launch-may-be-a-negative-catalyst-for-shares-4890314",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-09-06T17:05:45+00:00",
+   "tickers": [
+    "AAPL"
+   ]
+  },
+  {
+   "id": "f0616665c97e",
+   "title": "Airbnb tops consumer discretionary gainers even as travel stocks tumble; major cruise lines affected",
+   "link": "https://seekingalpha.com/news/4640434-airbnb-tops-consumer-discretionary-gainers-even-as-travel-stocks-tumble-major-cruise-lines-affected?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-06T17:05:05+00:00",
+   "tickers": [
+    "ABNB"
+   ]
+  },
   {
    "id": "b089730b1609",
    "title": "Global dining leader closing 261 restaurants, steakhouse chain",
@@ -8758,50 +8804,6 @@
    "tickers": [
     "LULU"
    ]
-  },
-  {
-   "id": "f3b634daedfb",
-   "title": "Nepal's Request for Flood Payout Tests New Climate-Aid System",
-   "link": "https://biztoc.com/x/a7a4b3f34d1ed338?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-06T08:18:13+00:00",
-   "tickers": []
-  },
-  {
-   "id": "75051e58e950",
-   "title": "Ukraine downs 82 Russian drones, 6 cruise missiles",
-   "link": "https://biztoc.com/x/4cc3f9f2738ace39?ref=rss",
-   "summary": "The Ukrainian Air Force said on Sunday that Russia attacked the country with 108 drones and several S8000 Banderol cruise missiles, out of which the Ukrainian military managed to repel 88 drones and m...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-06T08:18:12+00:00",
-   "tickers": []
-  },
-  {
-   "id": "87931575e2fc",
-   "title": "I lost my sight 5 years ago. Tesla's Cybercab gave me a glimpse of regaining my independence",
-   "link": "https://biztoc.com/x/91349c4f99802a96?ref=rss",
-   "summary": "Gary Moss, right, who is blind, took his first ride in a driverless Tesla Cybercab with his son, David Moss. David Moss Tesla launched its two-door, steering-wheel-free Cybercab on Thursday. Gary Moss and his son, David Moss, were among the first public riders to try the new vehicle. The father,…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-06T08:18:09+00:00",
-   "tickers": [
-    "TSLA"
-   ]
   }
  ],
  "ticker_names": {
@@ -8902,6 +8904,7 @@
   "SNDK": "Sandisk",
   "WMT": "Walmart",
   "ZS": "Zscaler",
+  "ABNB": "Airbnb",
   "BRKR": "Bruker",
   "GTLB": "GitLab",
   "NDAQ": "Nasdaq",
