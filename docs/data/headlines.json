@@ -1,8 +1,24 @@
 {
- "generated": "2026-09-06T19:24:54.993025+00:00",
+ "generated": "2026-09-06T19:31:31.283117+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "a5255c41b51a",
+   "title": "Amazon cargo plane reportedly crashes near Miami airport",
+   "link": "https://www.investing.com/news/stock-market-news/amazon-cargo-plane-reportedly-crashes-near-miami-airport-4890316",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-09-06T19:26:44+00:00",
+   "tickers": [
+    "AMZN"
+   ]
+  },
   {
    "id": "f28ad05132d5",
    "title": "Cargo Plane Overruns Runway at Miami Airport, Striking Vehicles",
@@ -256,6 +272,20 @@
     "HOOD",
     "PYPL"
    ]
+  },
+  {
+   "id": "dbfa2eb7cbaf",
+   "title": "Trump administration focuses on boosting oil output, Wright says",
+   "link": "https://www.investing.com/news/economy-news/trump-administration-focuses-on-boosting-oil-output-wright-says-93CH-4890315",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-06T19:04:33+00:00",
+   "tickers": []
   },
   {
    "id": "283a083523fb",
@@ -8754,38 +8784,6 @@
    "domain": "nasdaq.com",
    "published": "2026-09-06T10:56:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "43f7b012af1e",
-   "title": "Lockheed Martin: Record Backlog And Missile Demand Make The Pullback A Strong Buy",
-   "link": "https://seekingalpha.com/article/4943402-lockheed-martin-stock-record-backlog-and-missile-demand-make-the-pullback-strong-buy?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-06T10:55:47+00:00",
-   "tickers": [
-    "LMT"
-   ]
-  },
-  {
-   "id": "7baa0ce48523",
-   "title": "Grab: The Growth Story Is Just Beginning",
-   "link": "https://seekingalpha.com/article/4943401-grab-the-growth-story-is-just-beginning?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-06T10:54:36+00:00",
-   "tickers": [
-    "GRAB"
-   ]
   }
  ],
  "ticker_names": {
@@ -8801,7 +8799,6 @@
   "ADP": "Automatic Data Processing",
   "JEF": "Jefferies Financial Group",
   "AMD": "Advanced Micro Devices",
-  "GRAB": "Grab Holdings Limited",
   "PLTR": "Palantir Technologies",
   "SMCI": "Super Micro Computer",
   "VOO": "Vanguard S&P 500 ETF",
