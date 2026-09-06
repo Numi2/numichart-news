@@ -1,8 +1,24 @@
 {
- "generated": "2026-09-06T22:11:22.636351+00:00",
+ "generated": "2026-09-06T22:21:30.917367+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "251cfc1df7fe",
+   "title": "First Solar: Noise Down, Stock Up",
+   "link": "https://seekingalpha.com/article/4943444-first-solar-noise-down-stock-up?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-06T22:12:52+00:00",
+   "tickers": [
+    "FSLR"
+   ]
+  },
   {
    "id": "b23abaa9b2fc",
    "title": "WSE Deadline: WSE Investors with Losses in Excess of $100K Have Opportunity to Lead Wise Group plc Securities Fraud Lawsuit Filed by The Rosen Law Firm",
@@ -19,7 +35,7 @@
   },
   {
    "id": "aab4657e999d",
-   "title": "At least 5 dead after Amazon cargo plane overruns Miami Airport runway",
+   "title": "At least 5 dead after Amazon cargo plane overruns Miami airport runway",
    "link": "https://seekingalpha.com/news/4640531-amazon-cargo-jet-overruns-runway-at-miami-airport-halting-flights?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
    "summary": "",
    "article_text": "",
@@ -8796,20 +8812,6 @@
    "tickers": [
     "SNOW"
    ]
-  },
-  {
-   "id": "dcbad52302df",
-   "title": "OPEC+ keeps oil output policy unchanged for October",
-   "link": "https://www.cnbc.com/2026/09/06/opec-oil-output-october.html",
-   "summary": "The Iran war continues to ​disrupt oil exports through the Strait of Hormuz, limiting OPEC+'s influence over prices and market ​share.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-09-06T13:04:02+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8879,6 +8881,7 @@
   "GOOGL": "Google Cloud",
   "TSLA": "Supercharger",
   "NVDA": "Grace Hopper",
+  "FSLR": "First Solar",
   "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
   "BA": "The Boeing",
