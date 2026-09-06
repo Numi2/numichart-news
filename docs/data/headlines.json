@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-06T02:55:20.319181+00:00",
+ "generated": "2026-09-06T03:01:37.348645+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -15,6 +15,20 @@
    "sentiment": "neutral",
    "domain": "biztoc.com",
    "published": "2026-09-06T02:44:16+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e13bd148fb82",
+   "title": "Ukraine weighs new tax revenue source to help fund war effort - WSJ",
+   "link": "https://www.investing.com/news/economy-news/ukraine-weighs-new-tax-revenue-source-to-help-fund-war-effort--wsj-4890250",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-06T02:40:10+00:00",
    "tickers": []
   },
   {
@@ -3185,6 +3199,22 @@
    "domain": "prnewswire.com",
    "published": "2026-09-05T20:44:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "2df4cdca8904",
+   "title": "StoneX Initiates Coverage of Lennar at Hold",
+   "link": "https://www.nasdaq.com/articles/stonex-initiates-coverage-lennar-hold",
+   "summary": "Fintel reports that on September 4, 2026, StoneX initiated coverage of Lennar (NYSE:LEN) with a Hold recommendation. This rating action occurred on September 4, 2026, the same day the stock's latest close was recorded at $83.58. On the preceding day, September 3, 2026, the pre-ac",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "analyst",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-05T20:43:27+00:00",
+   "tickers": [
+    "LEN"
+   ]
   },
   {
    "id": "2fddc9379a95",
@@ -8788,34 +8818,6 @@
    "tickers": [
     "ABNB"
    ]
-  },
-  {
-   "id": "d203741cd36a",
-   "title": "US Envoys Witkoff, Kushner Land In Moscow For Peace Talks As Putin Halts Attacks On Kiev",
-   "link": "https://biztoc.com/x/3847dda20ae04ccd?ref=rss",
-   "summary": "US Envoys Witkoff, Kushner Land In Moscow For Peace Talks As Putin Halts Attacks On Kiev Roughly 11 days after CIA Director John Ratcliffe unexpectedly traveled to Moscow and reportedly floated a trilateral summit involving President Trump, Russian President Vladimir Putin, and Ukrainian…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-09-05T15:19:29+00:00",
-   "tickers": []
-  },
-  {
-   "id": "9ac44781d302",
-   "title": "Ukraine bolstering protection against Russian strikes",
-   "link": "https://biztoc.com/x/0309f3113766f629?ref=rss",
-   "summary": "Ukrainian Defense Minister Yevhen Khmara (pictured) told his German counterpart, Boris Pistorius, on Saturday that Kyiv is prioritizing efforts to strengthen its air defenses amid an increased Russian...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-05T15:19:25+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8933,6 +8935,7 @@
   "AEE": "Ameren",
   "CCJ": "Cameco",
   "CHE": "Chemed",
+  "LEN": "Lennar",
   "NDAQ": "Nasdaq",
   "RMD": "ResMed",
   "SPCX": "SpaceX",
