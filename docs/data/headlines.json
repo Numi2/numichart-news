@@ -1,8 +1,22 @@
 {
- "generated": "2026-09-06T03:36:02.666546+00:00",
+ "generated": "2026-09-06T03:45:58.190968+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "e366e65ac2ef",
+   "title": "Then There's RDVI, Which Aims At An 8% Extra On S&P 500 Dividends",
+   "link": "https://seekingalpha.com/article/4943380-then-theres-rdvi-which-aims-at-an-8-percent-extra-on-s-and-p-500-dividends?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-06T03:37:23+00:00",
+   "tickers": []
+  },
   {
    "id": "b0eff293d34b",
    "title": "Steinem’s legacy in law, rights and policy",
@@ -32,6 +46,20 @@
    "sentiment": "neutral",
    "domain": "biztoc.com",
    "published": "2026-09-06T03:35:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "8c5d88defbc9",
+   "title": "LTC Properties Upgraded To Buy, A Monthly Income Opportunity Driven By Senior Care (Rating Upgrade)",
+   "link": "https://seekingalpha.com/article/4943379-ltc-properties-upgraded-to-buy-monthly-income-opportunity-driven-by-senior-care-rating-upgrade?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-06T03:32:59+00:00",
    "tickers": []
   },
   {
@@ -385,6 +413,22 @@
    "domain": "prnewswire.com",
    "published": "2026-09-06T02:27:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "e48e5404df78",
+   "title": "Iran war rebuild boosts world’s biggest air cargo handler",
+   "link": "https://www.ft.com/content/a8207f0e-9e1c-4d41-a3e0-a96587bad3a6?syn-25a6b1a6=1",
+   "summary": "SATS says US energy companies rushing machinery and materials to Middle East to repair damaged infrastructure",
+   "article_text": "",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "ft.com",
+   "published": "2026-09-06T02:21:34+00:00",
+   "tickers": [
+    "SATS"
+   ]
   },
   {
    "id": "d05e828783b6",
@@ -8759,50 +8803,6 @@
    "domain": "biztoc.com",
    "published": "2026-09-05T15:34:43+00:00",
    "tickers": []
-  },
-  {
-   "id": "e986ec384a97",
-   "title": "Trump says ‘Stupidity causes inflation’ and threatens to stop trade with foreign countries in retaliation for higher interest rates",
-   "link": "https://biztoc.com/x/f890f182b13a6f17?ref=rss",
-   "summary": "President Donald Trump has spent 20 months promising that America was on the cusp of an economic boom. But Friday’s surprisingly positive jobs report ultimately provoked frustration from Trump. The August job numbers might have been a welcome break from after months of sluggish hiring and concerns…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-05T15:34:43+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b907df9b3916",
-   "title": "Fundraiser for Lindsay Clancy's Parents Majorly Raises Target",
-   "link": "https://biztoc.com/x/4c3e888ce2930790?ref=rss",
-   "summary": "The online fundraiser supporting the parents of Lindsay Clancy has increased its financial target from $2 million to $3 million, after her closely watched Massachusetts murder trial ended in a mistrial. Brandee Mulligan, the organizer of the \"Musgrove Family Fund\" on GoFundMe, announced the…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-09-05T15:34:35+00:00",
-   "tickers": []
-  },
-  {
-   "id": "bc4ae3f79371",
-   "title": "Jefferies-linked fund reportedly has $500M exposure to Radiant World",
-   "link": "https://seekingalpha.com/news/4640500-jefferies-linked-fund-has-500m-exposure-radiant-world?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-05T15:33:14+00:00",
-   "tickers": [
-    "JEF"
-   ]
   }
  ],
  "ticker_names": {
@@ -8820,7 +8820,6 @@
   "AMC": "AMC Entertainment Holdings",
   "ECG": "Everus Construction Group",
   "ICE": "Intercontinental Exchange",
-  "JEF": "Jefferies Financial Group",
   "REGN": "Regeneron Pharmaceuticals",
   "AMD": "Advanced Micro Devices",
   "MAR": "Marriott International",
@@ -8905,6 +8904,7 @@
   "AVGO": "Broadcom",
   "GOOG": "Alphabet",
   "INOD": "Innodata",
+  "SATS": "EchoStar",
   "TTC": "The Toro",
   "BLSH": "Bullish",
   "BPOP": "Popular",
