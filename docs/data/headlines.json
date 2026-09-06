@@ -1,8 +1,52 @@
 {
- "generated": "2026-09-06T01:51:36.427210+00:00",
+ "generated": "2026-09-06T01:59:34.964381+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "d1c01bab0cd0",
+   "title": "Billions in Iranian funds are passing through U.S. banks despite sanctions - WSJ",
+   "link": "https://www.investing.com/news/economy-news/billions-in-iranian-funds-are-passing-through-us-banks-despite-sanctions--wsj-4890248",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-06T01:52:35+00:00",
+   "tickers": []
+  },
+  {
+   "id": "4db1c9ba2294",
+   "title": "DAHON TECH anuncia sus resultados provisionales de 2026",
+   "link": "https://www.prnewswire.com/news-releases/dahon-tech-anuncia-sus-resultados-provisionales-de-2026-302870758.html",
+   "summary": "- DAHON TECH anuncia sus resultados provisionales de 2026; los ingresos y las ganancias registran un fuerte crecimiento. HONG KONG y SHENZHEN, China, 6 de septiembre de 2026 /PRNewswire/ -- DAHON TECH (HKEX: 2543), empresa líder mundial en bicicletas plegables, anunció sus resultados...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-09-06T01:51:00+00:00",
+   "tickers": [
+    "TECH"
+   ]
+  },
+  {
+   "id": "9b0753fccd20",
+   "title": "See's Candies Data Breach: Edelson Lechtzin LLP Launches Investigation Into Exposure of Personal Information",
+   "link": "https://www.prnewswire.com/news-releases/sees-candies-data-breach-edelson-lechtzin-llp-launches-investigation-into-exposure-of-personal-information-302870759.html",
+   "summary": "National class action firm offering free case evaluations to individuals impacted by the See's Candies, Inc. cybersecurity incident LOS ANGELES, Sept. 5, 2026 /PRNewswire/ -- Edelson Lechtzin LLP, a national class action law firm, is investigating data privacy claims arising from the...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "prnewswire.com",
+   "published": "2026-09-06T01:51:00+00:00",
+   "tickers": []
+  },
   {
    "id": "a076828f1725",
    "title": "DAHON TECH gibt Zwischenergebnisse für 2026 bekannt; Umsatz und Gewinn verzeichnen starkes Wachstum",
@@ -8778,52 +8822,6 @@
     "CRWD",
     "BLSH"
    ]
-  },
-  {
-   "id": "25ac0ff25783",
-   "title": "OpenAI acknowledges 'wiki incident' and need for more transparency around unintended AI behavior",
-   "link": "https://biztoc.com/x/1c126e1231b61f1f?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-05T15:04:49+00:00",
-   "tickers": []
-  },
-  {
-   "id": "0d753bcafa3c",
-   "title": "Oura is going public, but these smart ring companies are coming for its crown",
-   "link": "https://biztoc.com/x/1ac68bf3006203c7?ref=rss",
-   "summary": "The smart ring market is getting crowded, and Oura isn’t waiting around to see what happens next: it officially filed to go public on September 3. The Finnish company’s revenue nearly doubled to $1.21 billion for the nine months ended June 30. And the company is killing it right now. The Finnish…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-05T15:04:32+00:00",
-   "tickers": []
-  },
-  {
-   "id": "3512a5571fc1",
-   "title": "Why Walmart is moving in on DoorDash, Uber Eats delivery action, starting with donuts, coffee and sandwiches",
-   "link": "https://biztoc.com/x/6fec8bd0bcd3d466?ref=rss",
-   "summary": "Walmart will soon be able to bring you an iced coffee and a maple doughnut — from Dunkin'. The nation's largest retailer announced this week it will first start delivering Dunkin' products from its own stores, but will then expand the program over the next year to include most of the doughnut…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-05T15:04:31+00:00",
-   "tickers": [
-    "DASH",
-    "WMT",
-    "UBER"
-   ]
   }
  ],
  "ticker_names": {
@@ -8930,7 +8928,6 @@
   "NWSA": "News Corp",
   "APPF": "AppFolio",
   "AVGO": "Broadcom",
-  "DASH": "DoorDash",
   "GOOG": "Alphabet",
   "TTC": "The Toro",
   "BLSH": "Bullish",
