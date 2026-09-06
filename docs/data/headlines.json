@@ -1,8 +1,38 @@
 {
- "generated": "2026-09-06T14:40:32.537060+00:00",
+ "generated": "2026-09-06T14:47:00.542362+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "adcb6e804abb",
+   "title": "X-Energy Could Be Building One Of Nuclear Energy's Most Valuable Platforms",
+   "link": "https://seekingalpha.com/article/4943424-x-energy-could-be-building-one-of-nuclear-energys-most-valuable-platforms?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-06T14:40:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e92c8f57df36",
+   "title": "SmartCentres: A 6.75% Dividend Yield With Walmart As Anchor Tenant",
+   "link": "https://seekingalpha.com/article/4942529-smartcentres-a-6-75-percent-dividend-yield-with-walmart-as-anchor-tenant?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-06T14:40:00+00:00",
+   "tickers": [
+    "WMT"
+   ]
+  },
   {
    "id": "1c1fd7b0aa0f",
    "title": "IDF chief: We are in tense, volatile period in all arenas",
@@ -150,6 +180,20 @@
    "sentiment": "neutral",
    "domain": "biztoc.com",
    "published": "2026-09-06T14:38:10+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c860e66aa691",
+   "title": "Bitcoin down but holds near $80,000 as corporate buying, U.S. crypto vote in focus",
+   "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trades-near-80000-as-corporate-demand-and-us-crypto-policy-stay-in-focus-4890272",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-06T14:35:55+00:00",
    "tickers": []
   },
   {
@@ -5562,20 +5606,6 @@
    ]
   },
   {
-   "id": "c860e66aa691",
-   "title": "Bitcoin trades near $80,000 as corporate demand and US crypto policy stay in focus",
-   "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trades-near-80000-as-corporate-demand-and-us-crypto-policy-stay-in-focus-4890272",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-06T09:22:00+00:00",
-   "tickers": []
-  },
-  {
    "id": "5876c4838fb2",
    "title": "Dead money: Your savings account is losing inflation fight — where 4 financial advisors grow their cash instead",
    "link": "https://biztoc.com/x/8621aca32534326b?ref=rss",
@@ -8766,34 +8796,6 @@
    "domain": "prnewswire.com",
    "published": "2026-09-06T03:11:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "8ffb99a22ebd",
-   "title": "When Fuel Gets Too Expensive, Par Pacific's Boom And The Risk Behind It",
-   "link": "https://seekingalpha.com/article/4943377-when-fuel-gets-too-expensive-par-pacifics-boom-risk-behind-it?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-06T03:10:08+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ea2d30278452",
-   "title": "August Job Gains Blew Past Estimates. Here's What It Means for the Fed.",
-   "link": "https://www.nasdaq.com/articles/august-job-gains-blew-past-estimates-heres-what-it-means-fed",
-   "summary": "Key PointsThe Fed is likely to be less concerned that a rate hike will damage the labor market.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "macro",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-09-06T03:05:00+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8901,6 +8903,7 @@
   "PEP": "PepsiCo",
   "SCI": "Service",
   "SNDK": "Sandisk",
+  "WMT": "Walmart",
   "ZS": "Zscaler",
   "GTLB": "GitLab",
   "NDAQ": "Nasdaq",
