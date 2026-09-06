@@ -1,8 +1,36 @@
 {
- "generated": "2026-09-06T22:50:48.732901+00:00",
+ "generated": "2026-09-06T22:57:07.778603+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "58bd2256ae0f",
+   "title": "Assailant lunged at Democratic candidate for Ohio governor Amy Acton at fair, campaign says",
+   "link": "https://www.cnbc.com/2026/09/06/ohio-governor-candidate-amy-acton-attacked.html",
+   "summary": "The Ohio gubernatorial race is one of the most high-profile races this year as the campaigns enter the final weeks of campaigning before the November election.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-09-06T22:51:50+00:00",
+   "tickers": []
+  },
+  {
+   "id": "45b2429b1e8f",
+   "title": "Oil Prices Rise Slightly After U.S. and Iran Trade Strikes",
+   "link": "https://www.nytimes.com/2026/09/06/business/oil-gas-prices-iran-war.html",
+   "summary": "Brent crude, the global benchmark for oil, was up about 1 percent as trading resumed on Sunday, while the national average price of gas was nearly $4.15 a gallon.",
+   "article_text": "",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "positive",
+   "domain": "nytimes.com",
+   "published": "2026-09-06T22:47:19+00:00",
+   "tickers": []
+  },
   {
    "id": "bbc94059a5b4",
    "title": "At least five dead after Amazon cargo plane speeds off runway at Miami airport",
@@ -369,20 +397,6 @@
    ]
   },
   {
-   "id": "45b2429b1e8f",
-   "title": "Oil Prices Rise Slightly After U.S. and Iran Trade Strikes",
-   "link": "https://www.nytimes.com/2026/09/06/business/oil-gas-prices-iran-war.html",
-   "summary": "Brent crude, the global benchmark for oil, was up about 1 percent as trading resumed on Sunday, while the national average price of gas was nearly $4.15 a gallon.",
-   "article_text": "",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "positive",
-   "domain": "nytimes.com",
-   "published": "2026-09-06T22:32:01+00:00",
-   "tickers": []
-  },
-  {
    "id": "63bff571cd12",
    "title": "Antonia Hylton to host MS NOW weekend show, says Alex Witt is ‘one of one’",
    "link": "https://biztoc.com/x/1cb4f4279f912a5b?ref=rss",
@@ -562,6 +576,22 @@
     "AMZN",
     "BA",
     "TSLA"
+   ]
+  },
+  {
+   "id": "e4d6d3d9c306",
+   "title": "Arrowhead Pharmaceuticals Director Sells 11,600 Shares for $1 Million",
+   "link": "https://www.nasdaq.com/articles/arrowhead-pharmaceuticals-director-sells-11600-shares-1-million",
+   "summary": "Key PointsThe transaction was valued at $1 million.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-06T22:15:01+00:00",
+   "tickers": [
+    "ARWR"
    ]
   },
   {
@@ -8803,34 +8833,6 @@
     "VOO",
     "QQQ"
    ]
-  },
-  {
-   "id": "65604fbc6dc9",
-   "title": "La Federación Dental Internacional (FDI) pone en marcha «Generation Smile», el movimiento en favor de la salud bucodental para todos",
-   "link": "https://www.prnewswire.com/news-releases/la-federacion-dental-internacional-fdi-pone-en-marcha-generation-smile-el-movimiento-en-favor-de-la-salud-bucodental-para-todos-302869405.html",
-   "summary": "«Generation Smile» es una generación diferente a todas las demás. No viene determinado por el año en que naciste. Une a personas de todas las edades, procedencias y culturas en torno a un objetivo común: Hacer de la salud bucodental una prioridad, ya que es esencial para la salud y el...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-09-06T13:30:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "14cee617f54c",
-   "title": "La Fédération dentaire internationale (FDI) lance « Generation Smile », un mouvement en faveur de la santé bucco-dentaire pour tous",
-   "link": "https://www.prnewswire.com/news-releases/la-federation-dentaire-internationale-fdi-lance--generation-smile--un-mouvement-en-faveur-de-la-sante-bucco-dentaire-pour-tous-302869394.html",
-   "summary": "« Generation Smile » est une génération à part. Cela ne dépend pas de l'année de votre naissance. Elle rassemble des personnes de tous âges, de tous horizons et de toutes cultures autour d'un objectif commun : faire de la santé bucco-dentaire une priorité, car elle est essentielle à la...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-09-06T13:30:00+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
