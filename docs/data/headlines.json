@@ -1,8 +1,22 @@
 {
- "generated": "2026-09-06T23:40:52.362746+00:00",
+ "generated": "2026-09-06T23:47:11.785847+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "d366c22cdd87",
+   "title": "Malaysia Stock Market May Extend Friday's Losses",
+   "link": "https://www.nasdaq.com/articles/malaysia-stock-market-may-extend-fridays-losses",
+   "summary": "(RTTNews) - The Malaysia stock market on Friday ended the two-day winning streak in which it had risen almost 15 points or 0.8 percent. The Kuala Lumpur Composite Index now sits just beneath the 1,710-point plateau and the losses may accelerate on Monday.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-09-06T23:33:38+00:00",
+   "tickers": []
+  },
   {
    "id": "1a649d9fc0f2",
    "title": "India's high-stakes exam system faces a crisis of trust",
@@ -203,6 +217,20 @@
    "sentiment": "neutral",
    "domain": "biztoc.com",
    "published": "2026-09-06T23:28:50+00:00",
+   "tickers": []
+  },
+  {
+   "id": "86d0c6b81718",
+   "title": "Japan Stock Market May Head South Again On Monday",
+   "link": "https://www.nasdaq.com/articles/japan-stock-market-may-head-south-again-monday-0",
+   "summary": "(RTTNews) - The Japanese stock market on Friday snapped the four-day slide in which it had slumped more than 2,200 points or 3.4 percent. The Nikkei 225 now sits just above the 65,000-point plateau although it may hand back those gains on Monday.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-06T23:18:38+00:00",
    "tickers": []
   },
   {
@@ -902,6 +930,22 @@
    "domain": "cnbc.com",
    "published": "2026-09-06T22:51:50+00:00",
    "tickers": []
+  },
+  {
+   "id": "14889733e03a",
+   "title": "Prediction: Taiwan Semiconductor's Market Value Passes $3 Trillion Before 2029",
+   "link": "https://www.nasdaq.com/articles/prediction-taiwan-semiconductors-market-value-passes-3-trillion-2029",
+   "summary": "Key PointsReaching a $3 trillion market value by the end of 2028 works out to about 14% compound annual growth from the current share price.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-06T22:51:01+00:00",
+   "tickers": [
+    "TSM"
+   ]
   },
   {
    "id": "45b2429b1e8f",
@@ -2694,7 +2738,7 @@
    "type": "macro",
    "sentiment": "neutral",
    "domain": "nytimes.com",
-   "published": "2026-09-06T20:36:10+00:00",
+   "published": "2026-09-06T20:36:11+00:00",
    "tickers": []
   },
   {
@@ -8786,48 +8830,6 @@
    "sentiment": "neutral",
    "domain": "biztoc.com",
    "published": "2026-09-06T14:23:08+00:00",
-   "tickers": []
-  },
-  {
-   "id": "05f7025349b0",
-   "title": "South Korea's Lee Chang-dong tackles labour trauma in Venice comeback",
-   "link": "https://biztoc.com/x/5696231d99d4b939?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-06T14:23:08+00:00",
-   "tickers": []
-  },
-  {
-   "id": "7117a9d3e229",
-   "title": "Embattled Fifa president Infantino declares intention to stand for re-election",
-   "link": "https://biztoc.com/x/43175e8d0ea0dace?ref=rss",
-   "summary": "Infantino is under pressure to resign Uefa has led calls for president to quit The Fifa president, Gianni Infantino, has reiterated his desire to stand for re-election next year despite the continuing controversy surrounding his leadership. Infantino refused to answer questions about his future…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-06T14:22:57+00:00",
-   "tickers": []
-  },
-  {
-   "id": "782de0cc6098",
-   "title": "Israel cuts fuel tax as gasoline prices hit record high",
-   "link": "https://www.investing.com/news/economy-news/israel-cuts-fuel-tax-as-gasoline-prices-hit-record-high-93CH-4890297",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-09-06T14:22:13+00:00",
    "tickers": []
   }
  ],
