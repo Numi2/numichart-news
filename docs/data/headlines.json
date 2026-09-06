@@ -1,8 +1,55 @@
 {
- "generated": "2026-09-06T13:25:55.693347+00:00",
+ "generated": "2026-09-06T13:32:19.756268+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "10c6c292aba1",
+   "title": "Diamond Hill Short Duration Investment Grade Strategy Q2 2026 Commentary",
+   "link": "https://seekingalpha.com/article/4943421-diamond-hill-short-duration-investment-grade-strategy-q2-2026-commentary?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-06T13:30:00+00:00",
+   "tickers": [
+    "MSTR"
+   ]
+  },
+  {
+   "id": "cae6eb688740",
+   "title": "It's Not Worth Buying VOO Or QQQ Anymore",
+   "link": "https://seekingalpha.com/article/4943200-its-not-worth-buying-voo-or-qqq-anymore?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-06T13:30:00+00:00",
+   "tickers": [
+    "VOO",
+    "QQQ"
+   ]
+  },
+  {
+   "id": "23afe9993693",
+   "title": "OPEC Plus to Keep Oil Production Steady",
+   "link": "https://www.nytimes.com/2026/09/06/business/opec-iran-war-oil-production.html",
+   "summary": "The decision on Sunday by the cartel of oil-producing nations and some of its allies came after the resumption of U.S. and Iranian military strikes in the Persian Gulf.",
+   "article_text": "",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-09-06T13:26:07+00:00",
+   "tickers": []
+  },
   {
    "id": "4d40973cc406",
    "title": "Daimler Truck Holding (XTRA:DTG) After Its EV Truck Narrative Faces A Valuation Test",
@@ -8748,51 +8795,6 @@
    "domain": "biztoc.com",
    "published": "2026-09-05T23:56:42+00:00",
    "tickers": []
-  },
-  {
-   "id": "94874ef5674e",
-   "title": "From ‘mystery vacations’ to hostels, budget travelers get thrifty as prices rise",
-   "link": "https://www.cnbc.com/2026/09/05/budget-travel-vacation-costs.html",
-   "summary": "Despite rising prices and the travel industry focusing on the luxury segment, budget-minded vacationers are still finding ways to get away.",
-   "article_text": "",
-   "source": "CNBC Economy",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "positive",
-   "domain": "cnbc.com",
-   "published": "2026-09-05T23:55:52+00:00",
-   "tickers": []
-  },
-  {
-   "id": "70f62641b0d4",
-   "title": "Bill Gates Says He Still Won't Invest in Crypto, Calls It a &quot;Pure Mania-Driven Asset.&quot; Here's Why He's Right.",
-   "link": "https://www.nasdaq.com/articles/bill-gates-says-he-still-wont-invest-crypto-calls-it-pure-mania-driven-asset-heres-why-hes",
-   "summary": "Key PointsBitcoin’s massive gains don’t eliminate its fundamental investment risks.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-09-05T23:50:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "579b8d76dd26",
-   "title": "MS NOW hosts celebrate 15 years of \"PoliticsNation\"",
-   "link": "https://biztoc.com/x/7d36b8a24e7e6134?ref=rss",
-   "summary": "See MS NOW hosts celebrate 15 years of Rev. Al Sharpton's show, PoliticsNation. MS NOW: My Source for News, Opinion, and ...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-05T23:43:06+00:00",
-   "tickers": [
-    "NWSA",
-    "MS"
-   ]
   }
  ],
  "ticker_names": {
@@ -8803,6 +8805,7 @@
   "VONV": "Vanguard Russell 1000 Value ETF",
   "CRDO": "Credo Technology Group Holding",
   "WST": "West Pharmaceutical Services",
+  "QQQ": "Invesco QQQ Trust, Series 1",
   "EL": "The Est?e Lauder Companies",
   "FBIN": "Fortune Brands Innovations",
   "HPE": "Hewlett Packard Enterprise",
@@ -8854,6 +8857,7 @@
   "SOUN": "SoundHound AI",
   "SU": "Suncor Energy",
   "UNH": "United Health",
+  "MSTR": "MicroStrategy",
   "ADC": "Agree Realty",
   "RBC": "RBC Bearings",
   "UBS": "UBS Group AG",
