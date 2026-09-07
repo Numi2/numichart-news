@@ -1,8 +1,154 @@
 {
- "generated": "2026-09-07T10:33:10.731367+00:00",
+ "generated": "2026-09-07T10:42:46.202477+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "45b2429b1e8f",
+   "title": "Oil Prices Churn After U.S. and Iran Trade Strikes",
+   "link": "https://www.nytimes.com/2026/09/06/business/oil-gas-prices-iran-war.html",
+   "summary": "Brent crude, the global benchmark for oil, rose on Monday, while the national average price of gas was $4.15 a gallon.",
+   "article_text": "",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-09-07T10:40:51+00:00",
+   "tickers": []
+  },
+  {
+   "id": "cc8d2ac1a1c3",
+   "title": "Just like for SpaceX, investors may look to ‘make room’ for AI lab IPOs. These stocks could pay the price.",
+   "link": "https://www.marketwatch.com/story/just-like-for-spacex-investors-may-look-to-make-room-for-ai-lab-ipos-these-stocks-could-pay-the-price-c97947c6?mod=mw_rss_topstories",
+   "summary": "OpenAI and Anthropic’s listings may dovetail with a seasonal tax plan, further hurting some poor performers",
+   "article_text": "",
+   "source": "MarketWatch",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "marketwatch.com",
+   "published": "2026-09-07T10:37:00+00:00",
+   "tickers": [
+    "SPCX"
+   ]
+  },
+  {
+   "id": "946171eef638",
+   "title": "European stocks mixed and Asia-Pacific markets rise as investors assess renewed Middle East hostilities",
+   "link": "https://www.cnbc.com/2026/09/07/stock-market-today-live-updates.html",
+   "summary": "European stocks were mixed on Monday as Asia-Pacific markets broadly rose, with investor attention focused on the latest developments in the U.S.-Iran war.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "cnbc.com",
+   "published": "2026-09-07T10:36:39+00:00",
+   "tickers": []
+  },
+  {
+   "id": "3fd6b89bc99c",
+   "title": "Trump eyes origin labels on imported beef",
+   "link": "https://biztoc.com/x/ea40a65f46f7c934?ref=rss",
+   "summary": "President Trump has ordered a review that could pave the way for mandatory country-of-origin labelling on beef on sale in the US. In announcements made on Friday (4 September), the President separately directed officials to expand market access for ranchers seeking to process and sell their own…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-07T10:32:08+00:00",
+   "tickers": []
+  },
+  {
+   "id": "d0f0b76e7c06",
+   "title": "Lululemon cuts FY26 outlook as ‘negative commentary’ hits Q2",
+   "link": "https://biztoc.com/x/1daba68e7aebb28a?ref=rss",
+   "summary": "For the quarter ending 2 August 2026, the company reported lower than expected revenue at $2.4bn, down 4% from $2.53bn in the previous year. This was driven by an 8% decline in the Americas and China mainland, where revenue grew 4%. International net revenue increased 4%. Comparable sales declined…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-09-07T10:32:07+00:00",
+   "tickers": [
+    "LULU"
+   ]
+  },
+  {
+   "id": "132411ac8f2a",
+   "title": "US average diesel price rises to record $5.90 a gallon: AAA",
+   "link": "https://biztoc.com/x/4c17b62cf790514e?ref=rss",
+   "summary": "Average diesel prices in the United States climbed to a new record Monday, the motorists' association AAA said, as damage to Gulf refineries during the war against Iran disrupted supplies. The price of the fuel largely used in road hauling, agriculture and construction hit $5.9015, the AAA said,…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-09-07T10:32:04+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c92a15d7509f",
+   "title": "Not a Crash, Not a Correction: What the September Effect Really Means for Artificial Intelligence (AI) Chip Stocks",
+   "link": "https://biztoc.com/x/4e777e0630a09bd3?ref=rss",
+   "summary": "Not a Crash, Not a Correction: What the September Effect Really Means for Artificial Intelligence (AI) Chip Stocks Wall Street has a habit of turning the occasional quirk into full-blown folklore, and few stories get recycled as hard as the September Effect. Every year around Labor Day, the same…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-09-07T10:32:02+00:00",
+   "tickers": []
+  },
+  {
+   "id": "132858de9ad0",
+   "title": "Compagnia del Gusto acquires wine delivery firm Winelivery",
+   "link": "https://biztoc.com/x/a21081ac1b759508?ref=rss",
+   "summary": "Italian food-and-drinks group Compagnia del Gusto Holding has continued its buying spree with a deal for local wine delivery platform Winelivery. Financial terms were not disclosed. Ettore Nicoletto, the chief executive of Compagnia del Gusto Holding (CDGH), said: \"The operation does not respond…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-07T10:32:01+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b2997d378146",
+   "title": "The Stock Market Is Flashing a Warning Seen Only 6 Times Since 1871, and History Is Crystal Clear That a Disaster Could Be Heading Toward Wall Street",
+   "link": "https://biztoc.com/x/ae95dc00f6ebc6f3?ref=rss",
+   "summary": "The Stock Market Is Flashing a Warning Seen Only 6 Times Since 1871, and History Is Crystal Clear That a Disaster Could Be Heading Toward Wall Street There is a reason the S&P 500 (SNPINDEX: ^GSPC), Dow Jones Industrial Average (DJINDICES: ^DJI), and Nasdaq Composite (NASDAQINDEX: ^IXIC) are among…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-09-07T10:31:47+00:00",
+   "tickers": [
+    "NDAQ"
+   ]
+  },
+  {
+   "id": "1a96c83c6657",
+   "title": "Here's Why This Friday Could Be One of the Most Critical Days for the Stock Market in September",
+   "link": "https://biztoc.com/x/ecc3e21ec87ff18d?ref=rss",
+   "summary": "The Consumer Price Index (CPI) measures U.S. inflation by tracking the changes in the aggregate price of a basket of goods and services over time. The latest data is released monthly by the U.S. Bureau of Labor Statistics, and the Federal Reserve closely analyzes it to inform its decisions on…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-07T10:31:47+00:00",
+   "tickers": []
+  },
   {
    "id": "d3ef03d8ed4e",
    "title": "Agriculture: The Patience Before The Storm",
@@ -236,6 +382,22 @@
    "tickers": []
   },
   {
+   "id": "2eccf351e0d5",
+   "title": "Boeing's Free Cash Flow Turned Positive. Here's What Has to Happen Next for the Turnaround to Stick.",
+   "link": "https://www.nasdaq.com/articles/boeings-free-cash-flow-turned-positive-heres-what-has-happen-next-turnaround-stick",
+   "summary": "Key PointsBoeing has delivered positive free cash flow in three of the past four quarters.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-07T10:26:00+00:00",
+   "tickers": [
+    "BA"
+   ]
+  },
+  {
    "id": "2ed9a108944d",
    "title": "Volkswagen finds defence future for German plant amid major overhaul",
    "link": "https://www.investing.com/news/stock-market-news/volkswagen-finds-defence-future-for-german-plant-amid-major-overhaul-4890601",
@@ -354,6 +516,20 @@
    "tickers": [
     "FORM"
    ]
+  },
+  {
+   "id": "8d304b132aa1",
+   "title": "The Stock Market Is Flashing a Warning Seen Only 6 Times Since 1871, and History Is Crystal Clear That a Disaster Could Be Heading Toward Wall Street",
+   "link": "https://www.nasdaq.com/articles/stock-market-flashing-warning-seen-only-6-times-1871-and-history-crystal-clear-disaster",
+   "summary": "Key PointsThe CAPE ratio accounts for 10 years' worth of inflation-adjusted earnings, making it helpful for gauging long-term market trends.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-09-07T10:20:00+00:00",
+   "tickers": []
   },
   {
    "id": "49057511aab2",
@@ -557,6 +733,20 @@
    "sentiment": "neutral",
    "domain": "biztoc.com",
    "published": "2026-09-07T10:17:12+00:00",
+   "tickers": []
+  },
+  {
+   "id": "66e4201fa542",
+   "title": "Here's Why This Friday Could Be One of the Most Critical Days for the Stock Market in September",
+   "link": "https://www.nasdaq.com/articles/heres-why-friday-could-be-one-most-critical-days-stock-market-september",
+   "summary": "Key PointsInflation as measured by the Consumer Price Index has lately been well above the Federal Reserve's 2% target, so it might have to raise interest rates.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-07T10:17:00+00:00",
    "tickers": []
   },
   {
@@ -1282,7 +1472,7 @@
    "link": "https://www.prnewswire.com/news-releases/kucoin-launches-kcusd-to-unlock-greater-capital-efficiency-for-stablecoin-holders-302869910.html",
    "summary": "PROVIDENCIALES, Turks and Caicos Islands, Sept. 7, 2026 /PRNewswire/ -- KuCoin, a leading global crypto platform built on trust, today announced the launch of KCUSD, an Earn product with daily yields supported by real-world assets, designed to turn idle stablecoin balances into productive...",
    "article_text": "",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "positive",
@@ -1490,20 +1680,6 @@
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
    "published": "2026-09-07T09:52:19+00:00",
-   "tickers": []
-  },
-  {
-   "id": "946171eef638",
-   "title": "European stocks mixed and Asia-Pacific markets rise as investors assess renewed Middle East hostilities",
-   "link": "https://www.cnbc.com/2026/09/07/stock-market-today-live-updates.html",
-   "summary": "European stocks were mixed on Monday as Asia-Pacific markets broadly rose, with investor attention focused on the latest developments in the U.S.-Iran war.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "cnbc.com",
-   "published": "2026-09-07T09:50:52+00:00",
    "tickers": []
   },
   {
@@ -8532,188 +8708,6 @@
    "domain": "investing.com",
    "published": "2026-09-07T06:24:08+00:00",
    "tickers": []
-  },
-  {
-   "id": "21b8afba7a59",
-   "title": "LVMH stock falls to 6-year low: Weak China demand, technicals to blame",
-   "link": "https://seekingalpha.com/news/4640544-lvmh-stock-falls-to-6-year-low-weak-china-demand-technicals-to-blame?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "negative",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-07T06:21:03+00:00",
-   "tickers": []
-  },
-  {
-   "id": "42535a629cff",
-   "title": "Ekstraordinære indfrielser (CK 93)",
-   "link": "https://www.globenewswire.com/news-release/2026/09/07/3356959/0/da/ekstraordin%C3%A6re-indfrielser-ck-93.html",
-   "summary": "I medfør af kapitalmarkedsloven § 24, oplyser DLR Kredit hermed om ekstraordinære indfrielser pr. fredag den 4. september 2026. Oplysningerne fremgår af vedhæftede fil.Denne meddelelse er offentliggjort med henblik på opfyldelse af transparensdirektivets krav om offentliggørelse. Oplysningerne vil endvidere på sædvanlig måde blive formidlet via Nasdaq Copenhagen.Spørgsmål kan rettes til: Head of Rating & IR Jakob Kongsgaard Olsson tlf. nr. 33 42 07 06.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-09-07T06:21:00+00:00",
-   "tickers": [
-    "NDAQ",
-    "DLR",
-    "IR"
-   ]
-  },
-  {
-   "id": "230b267a22ca",
-   "title": "What a $10,000 Investment in SpaceX Could Be Worth by September 2027",
-   "link": "https://www.nasdaq.com/articles/what-10000-investment-spacex-could-be-worth-september-2027",
-   "summary": "Key PointsThe SpaceX stock price has recently rebounded above its IPO price of $135.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-09-07T06:20:00+00:00",
-   "tickers": [
-    "SPCX"
-   ]
-  },
-  {
-   "id": "ead254422abd",
-   "title": "Block: The 40% AI Restructuring Is Paying Off Ahead Of Schedule",
-   "link": "https://seekingalpha.com/article/4943483-block-the-40-percent-ai-restructuring-is-paying-off-ahead-of-schedule?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-07T06:16:38+00:00",
-   "tickers": [
-    "SQ"
-   ]
-  },
-  {
-   "id": "8c67069900d9",
-   "title": "Soars 28% on Ivonescimab Progress",
-   "link": "https://biztoc.com/x/5a9501e9c6846ea4?ref=rss",
-   "summary": "Summit Therapeutics (NASDAQ:SMMT) has seen its share price surge by 28.19 percent week-on-week, primarily driven by the positive results of an ongoing clinical trial for its bispecific antibody, ivonescimab. In an updated report during the week, the listed biopharmaceutical firm said that its…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-09-07T06:15:50+00:00",
-   "tickers": []
-  },
-  {
-   "id": "670db6af4a2f",
-   "title": "Tiny cash buffers leave small UK TV firms at risk of going bust, analysis finds",
-   "link": "https://biztoc.com/x/3aab2747c92a63f2?ref=rss",
-   "summary": "Median £42,000 in reserve not enough to cover filming overrun or delay to series, industry body warns Hundreds of small UK TV companies have so little cash in reserve that a filming overrun or a delay to a series could send them bust, an industry body has warned, as programme budget cuts by…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-07T06:15:49+00:00",
-   "tickers": []
-  },
-  {
-   "id": "34487f0e8a7b",
-   "title": "China's export growth seen accelerating in August: Reuters poll",
-   "link": "https://biztoc.com/x/d67d39cffc3ba0a8?ref=rss",
-   "summary": "China's exports likely grew at a faster pace in August, a Reuters poll showed, indicating that the world's second-largest economy will continue to rely on external demand to shore up growth as domestic weaknesses persisted. Exports are expected to have risen 25% year-on-year in U.S. dollar terms…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-07T06:15:47+00:00",
-   "tickers": []
-  },
-  {
-   "id": "f2c49e3747a8",
-   "title": "Can gold hit US$5,000? Wall Street turns bullish despite US job growth fuelling rate fears",
-   "link": "https://biztoc.com/x/c300c8084fea7945?ref=rss",
-   "summary": "Gold will probably test US$5,000 an ounce by the end of 2026, as demand from central banks diversifying their foreign reserves remains strong, countering fears of US monetary tightening after strong labour data and a hawkish tone from the Federal Reserve, according to investment banks. RBC Capital…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-07T06:15:43+00:00",
-   "tickers": [
-    "RBC"
-   ]
-  },
-  {
-   "id": "c790fc135cc9",
-   "title": "Europe mixed in premarket on Iran crisis, data",
-   "link": "https://biztoc.com/x/cdd5ed08d55d71a7?ref=rss",
-   "summary": "European equities traded mixed on Monday's premarket as the tensions between the United States and Iran continued to rise, with US President Donald Trump even posting an artificial intelligence (AI)-g...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-07T06:15:42+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e0aeac6dc65f",
-   "title": "Wins Investment Grade While Profits Slide",
-   "link": "https://biztoc.com/x/fdb02b9fc42533ce?ref=rss",
-   "summary": "On August 3, SBA Communications (NASDAQ:SBAC) reported second-quarter results that told two very different stories at once. The tower operator earned its first-ever investment-grade credit rating from S&P, upgrading to BBB, in the same quarter that net income attributable to the company fell 12.9%…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-07T06:15:39+00:00",
-   "tickers": [
-    "SBAC"
-   ]
-  },
-  {
-   "id": "5448450d61bd",
-   "title": "German industrial production down 1.1% in July",
-   "link": "https://biztoc.com/x/ada9136a18ff03da?ref=rss",
-   "summary": "Industrial production in Germany declined by 1.1% in July compared with the previous month, the country's Federal Statistical Office Destatis revealed in its report published on Monday. Output in the ...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-07T06:15:38+00:00",
-   "tickers": []
-  },
-  {
-   "id": "a49c96670c48",
-   "title": "Hannover Re Issues Outlook For Renewals",
-   "link": "https://www.nasdaq.com/articles/hannover-re-issues-outlook-renewals",
-   "summary": "(RTTNews) - Hannover Re (HNR1.DE, HNR1.SG) said it expects generally risk-adequate prices for the treaty renewals as at 1 January 2027 in its book of property and casualty reinsurance. Along with slightly lower prices, terms and conditions will likely remain broadly unchanged. Ha",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "guidance",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-09-07T06:15:24+00:00",
-   "tickers": [
-    "DE"
-   ]
   }
  ],
  "ticker_names": {
@@ -8736,8 +8730,8 @@
   "LHX": "L3Harris Technologies",
   "MSM": "MSC Industrial Direct",
   "EW": "Edwards Lifesciences",
+  "LULU": "lululemon athletica",
   "PANW": "Palo Alto Networks",
-  "SBAC": "SBA Communications",
   "TYL": "Tyler Technologies",
   "AU": "AngloGold Ashanti",
   "RIVN": "Rivian Automotive",
@@ -8752,13 +8746,11 @@
   "DIS": "The Walt Disney",
   "LNG": "Cheniere Energy",
   "TEL": "TE Connectivity",
-  "IR": "Ingersoll Rand",
   "META": "Meta Platforms",
   "KO": "The Coca-Cola",
   "POST": "Post Holdings",
   "MSTR": "MicroStrategy",
   "BKR": "Baker Hughes",
-  "RBC": "RBC Bearings",
   "STT": "State Street",
   "UBS": "UBS Group AG",
   "GOOGL": "Google Cloud",
