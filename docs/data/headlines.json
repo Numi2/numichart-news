@@ -1,8 +1,39 @@
 {
- "generated": "2026-09-07T22:46:26.285057+00:00",
+ "generated": "2026-09-07T22:53:17.633748+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "45de87a32946",
+   "title": "Robbins LLP Reminds Investors of Class Action Against Dick's Sporting Goods After 30% Stock Slide",
+   "link": "https://www.prnewswire.com/news-releases/robbins-llp-reminds-investors-of-class-action-against-dicks-sporting-goods-after-30-stock-slide-302871637.html",
+   "summary": "Robbins LLP is investigating allegations that defendants misled investors regarding Dick's growth and profitability in light of the integration of recently acquired Foot Locker. SAN DIEGO, Sept. 7, 2026 /PRNewswire/ -- Robbins LLP notifies investors that a class action lawsuit has been...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "negative",
+   "domain": "prnewswire.com",
+   "published": "2026-09-07T22:48:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a1cf7c6ed670",
+   "title": "Warren Buffett Told CNBC 'I Initiated It' About Berkshire's Alphabet Bet, and New Reporting Says He's Still Calling the Shots on Stocks. Here's What That Means for Reading Greg Abel's Tenure.",
+   "link": "https://www.nasdaq.com/articles/warren-buffett-told-cnbc-i-initiated-it-about-berkshires-alphabet-bet-and-new-reporting",
+   "summary": "Key PointsFor a long time, Berkshire Hathaway was Warren Buffett's investment vehicle.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-07T22:35:00+00:00",
+   "tickers": [
+    "BRK-A",
+    "GOOG"
+   ]
+  },
   {
    "id": "b730a5afbf64",
    "title": "Flight data recorders recovered from Amazon cargo plane crash",
@@ -306,6 +337,20 @@
    "sentiment": "neutral",
    "domain": "biztoc.com",
    "published": "2026-09-07T22:31:42+00:00",
+   "tickers": []
+  },
+  {
+   "id": "dd7a8c918016",
+   "title": "Cango (CANG) Q2 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/cango-cang-q2-2026-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-07T22:28:17+00:00",
    "tickers": []
   },
   {
@@ -8787,50 +8832,6 @@
    "domain": "biztoc.com",
    "published": "2026-09-07T16:15:25+00:00",
    "tickers": []
-  },
-  {
-   "id": "b35626941f76",
-   "title": "Cash Removal Will Damage the Market Economy",
-   "link": "https://biztoc.com/x/3a8af35838ad9124?ref=rss",
-   "summary": "According to certain experts, there is an urgent need to remove cash from the economy. It is argued that cash provides support to the shadow economy and permits tax evasion. Another justification for its removal is that, in times of economic shocks which push the economy into a recession, the run…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-07T16:15:24+00:00",
-   "tickers": []
-  },
-  {
-   "id": "65717f4b0cff",
-   "title": "Germany Discusses Gas Storage Help With State-Owned Companies",
-   "link": "https://biztoc.com/x/685062ba927322d2?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-07T16:15:20+00:00",
-   "tickers": []
-  },
-  {
-   "id": "06864dd3be3c",
-   "title": "Paul Finebaum Issues Stark Warning to Arch Manning Ahead of Ohio State",
-   "link": "https://biztoc.com/x/5f01cec8e1596568?ref=rss",
-   "summary": "Texas dominated Texas State in their season opener on Saturday, routing the Bobcats 59-7 and allowing just a single touchdown, in the second quarter. Arch Manning, working with an array of new weapons, put together one of the better performances of the weekend, completing 20 of 27 passes for 305…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-09-07T16:15:19+00:00",
-   "tickers": [
-    "ACGL"
-   ]
   }
  ],
  "ticker_names": {
@@ -8862,7 +8863,6 @@
   "SMCI": "Super Micro Computer",
   "VOO": "Vanguard S&P 500 ETF",
   "LULU": "lululemon athletica",
-  "ACGL": "Arch Capital Group",
   "BRK-A": "Berkshire Hathaway",
   "COGT": "Cogent Biosciences",
   "HIMS": "Hims & Hers Health",
