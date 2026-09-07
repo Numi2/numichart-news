@@ -1,8 +1,22 @@
 {
- "generated": "2026-09-07T11:39:55.742820+00:00",
+ "generated": "2026-09-07T11:46:50.322594+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "9577f1ce67cb",
+   "title": "Transaction in Own Shares",
+   "link": "https://www.globenewswire.com/news-release/2026/09/07/3357088/0/en/transaction-in-own-shares.html",
+   "summary": "",
+   "article_text": "",
+   "source": "GlobeNewswire",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "globenewswire.com",
+   "published": "2026-09-07T11:41:00+00:00",
+   "tickers": []
+  },
   {
    "id": "2eb78151e1c5",
    "title": "Why the launch of OpenAI’s latest Astra model reignited the memory chip trade",
@@ -16,6 +30,36 @@
    "domain": "marketwatch.com",
    "published": "2026-09-07T11:36:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "14c5943a0d7b",
+   "title": "One Nation proposes early super access scheme for renters and mortgage holders | 7.30",
+   "link": "https://biztoc.com/x/0254ac1d99e7b399?ref=rss",
+   "summary": "What is One Nation's plan to allow workers to cash out their superannuation? Under the proposal, Australians who pay rent or a ...",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-07T11:35:19+00:00",
+   "tickers": []
+  },
+  {
+   "id": "92fff67dc6a3",
+   "title": "Warship That Capsized Finally Joins North Korea’s Fleet | WSJ News",
+   "link": "https://biztoc.com/x/29b67eb0aa4e2a2b?ref=rss",
+   "summary": "North Korea has commissioned its second guided-missile destroyer, a vessel that capsized during its launch in 2025. Kim Jong ...",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-07T11:35:01+00:00",
+   "tickers": [
+    "NWSA"
+   ]
   },
   {
    "id": "8e3c85f71ea4",
@@ -1942,7 +1986,7 @@
   },
   {
    "id": "360bf20eec8e",
-   "title": "Saudi Aramco facilities hit in new strikes",
+   "title": "Saudi Aramco oil facilities hit in new strikes",
    "link": "https://www.ft.com/content/9ffb0fb3-51f6-4aa8-9270-a949196bf441?syn-25a6b1a6=1",
    "summary": "Jizan, near the Yemeni border, has been repeatedly targeted by Houthi rebels in their campaign against Saudi Arabia",
    "article_text": "",
@@ -8686,52 +8730,6 @@
    "domain": "investing.com",
    "published": "2026-09-07T07:46:42+00:00",
    "tickers": []
-  },
-  {
-   "id": "df341d13361e",
-   "title": "Oil on troubled waters",
-   "link": "https://biztoc.com/x/3312d0296cfad7f8?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-07T07:45:44+00:00",
-   "tickers": []
-  },
-  {
-   "id": "cbc84eb07971",
-   "title": "Huawei launches tri-fold smartphone Mate XT 2",
-   "link": "https://biztoc.com/x/fba04a0a97ffcdb0?ref=rss",
-   "summary": "Huawei launched its latest flagship tri-fold smartphone, the Mate XT 2, on Monday, days before Apple is expected to enter the foldable-phone market.The device uses a dual inward-folding design with a ...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-09-07T07:45:43+00:00",
-   "tickers": [
-    "AAPL"
-   ]
-  },
-  {
-   "id": "e05715207540",
-   "title": "Coldcard exploiter moves 45% of funds stolen from ‘Wave 3’ attacks, Galaxy says",
-   "link": "https://biztoc.com/x/9815b8085877f6bb?ref=rss",
-   "summary": "As of mid-August, Galaxy said it had identified roughly 1,779 BTC stolen from 190 victims and more than 8,600 addresses.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-07T07:45:33+00:00",
-   "tickers": [
-    "BTC"
-   ]
   }
  ],
  "ticker_names": {
