@@ -1,8 +1,24 @@
 {
- "generated": "2026-09-08T23:33:29.298168+00:00",
+ "generated": "2026-09-08T23:41:03.586410+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "b4293b82327d",
+   "title": "CGDV: A Great Long-Term ETF Facing Short-Term Headwinds",
+   "link": "https://seekingalpha.com/article/4944090-cgdv-a-great-long-term-etf-facing-short-term-headwinds?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-08T23:38:59+00:00",
+   "tickers": [
+    "CGDV"
+   ]
+  },
   {
    "id": "86a96474a61e",
    "title": "U.S. military destroys five Iranian oil tankers after attempted attack on American warship, Centcom says",
@@ -14,7 +30,38 @@
    "type": "markets",
    "sentiment": "neutral",
    "domain": "cnbc.com",
-   "published": "2026-09-08T23:31:27+00:00",
+   "published": "2026-09-08T23:36:53+00:00",
+   "tickers": []
+  },
+  {
+   "id": "124a0bfebf41",
+   "title": "Datadog, Inc. (DDOG) Presents at Citi's 2026 Global TMT Conference Transcript",
+   "link": "https://seekingalpha.com/article/4943970-datadog-inc-ddog-presents-at-citis-2026-global-tmt-conference-transcript?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-08T23:35:30+00:00",
+   "tickers": [
+    "DDOG",
+    "C"
+   ]
+  },
+  {
+   "id": "45a5d346d4f7",
+   "title": "Stock futures are little changed after losing session; Brent crude tops $99 per barrel: Live updates",
+   "link": "https://www.cnbc.com/2026/09/08/stock-market-today-live-updates.html",
+   "summary": "The three major averages posted losses in Tuesday's regular trading.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "cnbc.com",
+   "published": "2026-09-08T23:33:11+00:00",
    "tickers": []
   },
   {
@@ -595,20 +642,6 @@
    "tickers": [
     "MS"
    ]
-  },
-  {
-   "id": "45a5d346d4f7",
-   "title": "Stock futures are little changed after losing session; Brent crude tops $99 per barrel: Live updates",
-   "link": "https://www.cnbc.com/2026/09/08/stock-market-today-live-updates.html",
-   "summary": "The three major averages posted losses in Tuesday's regular trading.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "cnbc.com",
-   "published": "2026-09-08T23:08:40+00:00",
-   "tickers": []
   },
   {
    "id": "4d1f304586aa",
@@ -9012,34 +9045,6 @@
    "domain": "nytimes.com",
    "published": "2026-09-08T20:39:14+00:00",
    "tickers": []
-  },
-  {
-   "id": "e65758cb49e3",
-   "title": "Volkswagen Is Doing The Math, Wants To Sell Ducati Despite Success",
-   "link": "https://biztoc.com/x/45d495dc23ade6e9?ref=rss",
-   "summary": "Volkswagen is considering selling Italian motorcycle manufacturer Ducati as the German automotive conglomerate starts a daunting restructuring of its global business portfolio. The iconic motorcycle brand - operated by VW's Audi division since 2012 - is one of approximately 600 business units…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-08T20:39:14+00:00",
-   "tickers": []
-  },
-  {
-   "id": "41fb372b33d9",
-   "title": "Apnimed Reports Second Quarter 2026 Financial Results and Provides Corporate Update",
-   "link": "https://markets.businessinsider.com/news/stocks/apnimed-reports-second-quarter-2026-financial-results-and-provides-corporate-update-1036530192",
-   "summary": "U.S. Food and Drug Administration (“FDA”) Accepted the NDA for AD109, with a proposed proprietary name Oxnimbi™, and assigned a PDUFA target action date of February...",
-   "article_text": "",
-   "source": "Markets Insider",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "markets.businessinsider.com",
-   "published": "2026-09-08T20:39:12+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -9048,6 +9053,7 @@
   "BTC": "Grayscale Bitcoin Mini Trust (BTC)",
   "TSM": "Taiwan Semiconductor Manufacturing",
   "AVDE": "Avantis International Equity ETF",
+  "CGDV": "Capital Group Dividend Value ETF",
   "CRDO": "Credo Technology Group Holding",
   "SCHD": "Schwab US Dividend Equity ETF",
   "BJ": "BJ's Wholesale Club Holdings",
@@ -9159,6 +9165,7 @@
   "YUM": "Yum! Brands",
   "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
+  "DDOG": "Datadog Inc",
   "BX": "Blackstone",
   "CBRE": "CBRE Group",
   "F": "Ford Motor",
