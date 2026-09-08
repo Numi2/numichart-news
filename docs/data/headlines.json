@@ -1,8 +1,38 @@
 {
- "generated": "2026-09-08T05:40:03.074703+00:00",
+ "generated": "2026-09-08T05:46:43.974742+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "d1121daaa9f9",
+   "title": "PROCEPT BioRobotics Corporation Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - PRCT",
+   "link": "https://www.prnewswire.com/news-releases/procept-biorobotics-corporation-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--prct-302871795.html",
+   "summary": "LOS ANGELES, Sept. 8, 2026 /PRNewswire/ -- The DJS Law Group reminds investors of a class action lawsuit against PROCEPT BioRobotics Corporation (\"Procept\" or \"the Company\") (NASDAQ: PRCT) violations of §§10(b) and 20(a) of the Securities Exchange Act of 1934 and Rule 10b-5 promulgated...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "prnewswire.com",
+   "published": "2026-09-08T05:44:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "03a9e8a602cb",
+   "title": "Invesco Equally-Weighted S&P 500 Fund Q2 2026 Commentary",
+   "link": "https://seekingalpha.com/article/4943676-invesco-equally-weighted-s-and-p-500-fund-q2-2026-commentary?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-08T05:40:00+00:00",
+   "tickers": [
+    "IVZ"
+   ]
+  },
   {
    "id": "11ccfb0c4867",
    "title": "EquipmentShare.com Inc. Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - EQPT",
@@ -3772,7 +3802,7 @@
   },
   {
    "id": "63c57e11dd63",
-   "title": "Huawei drives China’s push to make its own advanced chips",
+   "title": "Huawei leads China’s push to break reliance on foreign chip technology",
    "link": "https://www.ft.com/content/36333a53-4063-4aad-8df9-8d2f9d0048a3?syn-25a6b1a6=1",
    "summary": "Tech giant plays ‘project management’ role to build components needed for DUV machines and avoid export controls",
    "article_text": "",
@@ -8712,34 +8742,6 @@
    "domain": "biztoc.com",
    "published": "2026-09-07T22:31:45+00:00",
    "tickers": []
-  },
-  {
-   "id": "5996843ac392",
-   "title": "China's Oil Scramble Sends African, Canadian, Latin American Crude Prices Soaring",
-   "link": "https://biztoc.com/x/084b1e7eb4b2ae99?ref=rss",
-   "summary": "China's Oil Scramble Sends African, Canadian, Latin American Crude Prices Soaring China, the world's largest oil importer, is bidding up crude prices across Africa, Canada, and Latin American markets as disruptions in the Hormuz chokepoint and limited Iranian supplies intensify competition for…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-07T22:31:44+00:00",
-   "tickers": []
-  },
-  {
-   "id": "96893f7ccc53",
-   "title": "Ben-Gvir calls for sanctions on UK over Falklands",
-   "link": "https://biztoc.com/x/d27eca1a70262daa?ref=rss",
-   "summary": "Israeli National Security Minister Itamar Ben-Gvir called on Prime Minister Benjamin Netanyahu to recognize Argentina's sovereignty over the Falkland Islands, known in Argentina as the Malvinas, and i...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-07T22:31:44+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8828,6 +8830,7 @@
   "BLSH": "Bullish",
   "CMCSA": "Comcast",
   "CVX": "Chevron",
+  "IVZ": "Invesco",
   "MRK": "Merck &",
   "MRNA": "Moderna",
   "SCI": "Service",
