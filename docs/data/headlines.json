@@ -1,8 +1,54 @@
 {
- "generated": "2026-09-08T03:53:01.974036+00:00",
+ "generated": "2026-09-08T03:59:15.284907+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "c81baaed5335",
+   "title": "Nvidia supplier Wistron's shares drop after it announces $1.5 billion global stock sale",
+   "link": "https://www.cnbc.com/2026/09/08/nvidia-supplier-wistron-share-sale.html",
+   "summary": "Wistron shares fall Tuesday after announcement of $1.5 billion global share sale",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "cnbc.com",
+   "published": "2026-09-08T03:54:54+00:00",
+   "tickers": []
+  },
+  {
+   "id": "5387a8f64230",
+   "title": "Xinhua Silk Road: City marathon in NE China's Shenyang draws running-lovers from home and abroad",
+   "link": "https://www.prnewswire.com/news-releases/xinhua-silk-road-city-marathon-in-ne-chinas-shenyang-draws-running-lovers-from-home-and-abroad-302871875.html",
+   "summary": "BEIJING, Sept. 7, 2026 /PRNewswire/ -- The Shengjing Bank Shenyang Marathon 2026 kicked off on Sunday morning, attracting around 22,000 running enthusiasts from home and abroad to the increasingly international event in Shenyang, capital of Liaoning Province in northeast China. The full...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-09-08T03:54:00+00:00",
+   "tickers": [
+    "NE"
+   ]
+  },
+  {
+   "id": "af51f0b8aef4",
+   "title": "Pinterest: Underlying Growth Remains Stronger Than The Market Thinks",
+   "link": "https://seekingalpha.com/article/4943654-pinterest-stock-underlying-growth-remains-stronger-than-market-thinks?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-08T03:53:55+00:00",
+   "tickers": [
+    "PINS"
+   ]
+  },
   {
    "id": "a97da7945929",
    "title": "/C O R R E C T I O N -- Wooree Group/",
@@ -1084,20 +1130,6 @@
    "sentiment": "neutral",
    "domain": "biztoc.com",
    "published": "2026-09-08T02:46:41+00:00",
-   "tickers": []
-  },
-  {
-   "id": "c81baaed5335",
-   "title": "Nvidia supplier Wistron's shares drop after it announces $1.5 billion global stock sale",
-   "link": "https://www.cnbc.com/2026/09/08/nvidia-supplier-wistron-share-sale.html",
-   "summary": "Wistron shares fall Tuesday after announcement of $1.5 billion global share sale",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "negative",
-   "domain": "cnbc.com",
-   "published": "2026-09-08T02:44:16+00:00",
    "tickers": []
   },
   {
@@ -8756,34 +8788,6 @@
    "domain": "prnewswire.com",
    "published": "2026-09-07T19:54:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "6c5c87dc3c4d",
-   "title": "Nuix amplía la IA generativa para la revisión legal y presenta un chat con IA para datos de casos",
-   "link": "https://www.prnewswire.com/news-releases/nuix-amplia-la-ia-generativa-para-la-revision-legal-y-presenta-un-chat-con-ia-para-datos-de-casos-302871621.html",
-   "summary": "SÍDNEY, 7 de septiembre de 2026 /PRNewswire/ -- Nuix anunció el 4 de septiembre la disponibilidad general (GA) de sus capacidades de IA generativa (Gen AI) en Nuix Discover SaaS. Esto incorpora resúmenes de documentos, documentos similares, búsqueda semántica, agrupamiento y...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-09-07T19:52:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "a92d4df9ecb5",
-   "title": "Nuix erweitert generative KI für die juristische Prüfung und führt einen KI-Chat für Falldaten ein",
-   "link": "https://www.prnewswire.com/news-releases/nuix-erweitert-generative-ki-fur-die-juristische-prufung-und-fuhrt-einen-ki-chat-fur-falldaten-ein-302871620.html",
-   "summary": "SYDNEY, 7. September 2026 /PRNewswire/ -- Nuix gab am 4. September die allgemeine Verfügbarkeit (GA) seiner Funktionen für generative KI (Gen AI) in Nuix Discover SaaS bekannt. Die Lösung für die juristische Prüfung und eDiscovery wird um Dokumentenzusammenfassungen, ähnliche Dokumente,...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-09-07T19:51:00+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8852,6 +8856,7 @@
   "SGML": "Sigma Lithium",
   "WFC": "Wells Fargo &",
   "MSTR": "MicroStrategy",
+  "PINS": "Pinterest Inc",
   "BKR": "Baker Hughes",
   "KIM": "Kimco Realty",
   "PRMB": "Primo Brands",
@@ -8905,6 +8910,7 @@
   "BRZE": "Braze",
   "CHWY": "Chewy",
   "KKR": "KKR &",
+  "NE": "Noble",
   "DAVE": "Dave",
   "MSCI": "MSCI",
   "T": "AT&T"
