@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-08T23:17:52.223529+00:00",
+ "generated": "2026-09-08T23:27:02.709812+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -14,8 +14,25 @@
    "type": "markets",
    "sentiment": "neutral",
    "domain": "cnbc.com",
-   "published": "2026-09-08T23:15:39+00:00",
+   "published": "2026-09-08T23:24:25+00:00",
    "tickers": []
+  },
+  {
+   "id": "c7caebd34796",
+   "title": "Figma, Inc. (FIG) Presents at Goldman Sachs Communacopia + Technology Conference 2026 Transcript",
+   "link": "https://seekingalpha.com/article/4944101-figma-inc-fig-presents-at-goldman-sachs-communacopia-technology-conference-2026-transcript?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-08T23:15:30+00:00",
+   "tickers": [
+    "FIG",
+    "GS"
+   ]
   },
   {
    "id": "f806d9674871",
@@ -9005,22 +9022,6 @@
    "domain": "investing.com",
    "published": "2026-09-08T20:36:35+00:00",
    "tickers": []
-  },
-  {
-   "id": "d1fbd79d15fd",
-   "title": "Allegion names Serge Zappone as international president",
-   "link": "https://www.investing.com/news/company-news/allegion-names-serge-zappone-as-international-president-93CH-4892436",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-08T20:36:32+00:00",
-   "tickers": [
-    "ALLE"
-   ]
   }
  ],
  "ticker_names": {
@@ -9149,7 +9150,6 @@
   "CRWV": "CoreWeave",
   "SNOW": "Snowflake",
   "NWSA": "News Corp",
-  "ALLE": "Allegion",
   "AVGO": "Broadcom",
   "BBY": "Best Buy",
   "BCS": "Barclays",
