@@ -1,8 +1,38 @@
 {
- "generated": "2026-09-08T01:54:36.713736+00:00",
+ "generated": "2026-09-08T02:01:20.309791+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "d3492b83a078",
+   "title": "Rivian R2 Review: A Tidier (in Size and Price) SUV Is Ready for the Suburbs",
+   "link": "https://www.nytimes.com/2026/09/07/business/rivian-r2-review.html",
+   "summary": "The electric automaker’s new R2 takes what works from its bigger, costlier brother and adds a host of features with the mass market in mind.",
+   "article_text": "",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-09-08T01:56:53+00:00",
+   "tickers": [
+    "RIVN"
+   ]
+  },
+  {
+   "id": "5da8f575b372",
+   "title": "How a Blacklisted Chinese Tech Giant Kept Buying America’s Best A.I. Chips",
+   "link": "https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html",
+   "summary": "Washington imposed sanctions on Inspur because of its work with the Chinese military. But the company’s subsidiary kept shipping Nvidia’s best chips to feed China’s leading A.I. firms.",
+   "article_text": "",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-09-08T01:54:44+00:00",
+   "tickers": []
+  },
   {
    "id": "d9bae7b89bd7",
    "title": "Iran foreign ministry takes aim at Canada for support of U.S. actions in Strait of Hormuz",
@@ -474,6 +504,20 @@
    "tickers": []
   },
   {
+   "id": "1042aa3ecf3b",
+   "title": "Travelers Chief Risk Officer Sells 6,000 Shares for $2.2 Million",
+   "link": "https://www.nasdaq.com/articles/travelers-chief-risk-officer-sells-6000-shares-22-million",
+   "summary": "Key PointsThe sale, conducted on Aug. 28, was valued at approximately $2.2 million.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-08T01:20:01+00:00",
+   "tickers": []
+  },
+  {
    "id": "4bd80129cf56",
    "title": "Sungrow to Bring Together Energy Industry Leaders at Its 2026 Summits in Mexico and Chile",
    "link": "https://www.prnewswire.com/news-releases/sungrow-to-bring-together-energy-industry-leaders-at-its-2026-summits-in-mexico-and-chile-302871792.html",
@@ -660,6 +704,22 @@
    "domain": "investing.com",
    "published": "2026-09-08T01:13:33+00:00",
    "tickers": []
+  },
+  {
+   "id": "434d02ddec42",
+   "title": "Why Richtech Robotics Zoomed Nearly 32% Higher in August",
+   "link": "https://www.nasdaq.com/articles/why-richtech-robotics-zoomed-nearly-32-higher-august",
+   "summary": "Key PointsInvestors were cheered by the company's latest revenue growth figure.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-08T01:12:32+00:00",
+   "tickers": [
+    "RR"
+   ]
   },
   {
    "id": "9ed4f8ed14bc",
@@ -934,6 +994,23 @@
    "domain": "biztoc.com",
    "published": "2026-09-08T01:01:58+00:00",
    "tickers": []
+  },
+  {
+   "id": "7a6e827a3e59",
+   "title": "Better Short-Term Bond ETF: Schwab's Treasury-Focused SCHO or VanEck's SMB Targeting Municipal Bonds",
+   "link": "https://www.nasdaq.com/articles/better-short-term-bond-etf-schwabs-treasury-focused-scho-or-vanecks-smb-targeting",
+   "summary": "Key PointsThe Schwab Short-Term U.S. Treasury ETF offers a lower expense ratio and higher yield than the VanEck Short Muni ETF.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-08T01:01:02+00:00",
+   "tickers": [
+    "SCHO",
+    "SCHF"
+   ]
   },
   {
    "id": "3828690e0f24",
@@ -8723,76 +8800,6 @@
    "domain": "biztoc.com",
    "published": "2026-09-07T18:30:31+00:00",
    "tickers": []
-  },
-  {
-   "id": "8e23bd5f8a74",
-   "title": "How to get an emergency loan when you have bad credit",
-   "link": "https://www.cnbc.com/select/how-to-get-a-loan-for-unexpected-expenses-when-you-have-bad-credit/",
-   "summary": "If you're in need of fast cash but have weak credit, you still have options.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-09-07T18:30:29+00:00",
-   "tickers": []
-  },
-  {
-   "id": "bcbbc04f77f8",
-   "title": "Dolly Parton’s secret weapon against Nashville: turning men into the punchline",
-   "link": "https://biztoc.com/x/9df3068a7b2c3f64?ref=rss",
-   "summary": "Of all the moments that capture Dolly Parton’s musical talents, fierce intelligence and driving ambition, I often find myself thinking back to an awkward, ad-libbed live television duet on “The Porter Wagoner Show.” The year was 1973. Parton had been performing alongside Wagoner on the syndicated…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-07T18:30:27+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e578b01a6370",
-   "title": "Trump Threatens to Bar Sale of Canadian Bombardier Jets in US",
-   "link": "https://biztoc.com/x/69185916938e9d95?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-07T18:30:26+00:00",
-   "tickers": []
-  },
-  {
-   "id": "51919e83232c",
-   "title": "49ers Deliver Brutal Injury Update on Key Defender Before Season Opener",
-   "link": "https://biztoc.com/x/bf63ee287e0106e0?ref=rss",
-   "summary": "The San Francisco 49ers open their season against the Los Angeles Rams on Thursday in the first-ever NFL game played in Australia. Most of the starters on both sides have traveled for the game and are expected to play, including Myles Garrett and Aaron Donald. So fans should be in for a treat. But…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-07T18:30:24+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e714db4f5348",
-   "title": "Simply Good Foods Company (SMPL) Shareholders Who Lost Money Have Opportunity to Lead Securities Fraud Lawsuit",
-   "link": "https://www.prnewswire.com/news-releases/simply-good-foods-company-smpl-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302870902.html",
-   "summary": "BENSALEM, Pa., Sept. 7, 2026 /PRNewswire/ -- The Law Offices of Howard G. Smith announces that investors with substantial losses have opportunity to lead the securities fraud class action lawsuit against Simply Good Foods Company. IF YOU ARE AN INVESTOR WHO SUFFERED A LOSS IN SIMPLY GOOD...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "prnewswire.com",
-   "published": "2026-09-07T18:30:00+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8834,6 +8841,7 @@
   "HOOD": "Robinhood Markets",
   "MU": "Micron Technology",
   "PCTY": "Paylocity Holding",
+  "RIVN": "Rivian Automotive",
   "RR": "Richtech Robotics",
   "UBER": "Uber Technologies",
   "WU": "The Western Union",
