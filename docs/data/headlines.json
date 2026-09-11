@@ -1,8 +1,52 @@
 {
- "generated": "2026-09-11T13:39:15.065278+00:00",
+ "generated": "2026-09-11T13:45:42.245883+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "fe992162eb6f",
+   "title": "Diesel Jumps Above $6 a Gallon, Adding to Inflation Pressure",
+   "link": "https://www.nytimes.com/2026/09/11/business/diesel-fuel-prices.html",
+   "summary": "The price of U.S. diesel fuel hit to a new high over mounting fears that fighting in the Middle East could further threaten oil supplies.",
+   "article_text": "",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "positive",
+   "domain": "nytimes.com",
+   "published": "2026-09-11T13:42:46+00:00",
+   "tickers": []
+  },
+  {
+   "id": "070b8b95adc0",
+   "title": "EL.En. S.p.A. 2026 Q2 - Results - Earnings Call Presentation",
+   "link": "https://seekingalpha.com/article/4945525-el-en-s-p-a-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-11T13:40:15+00:00",
+   "tickers": [
+    "EL"
+   ]
+  },
+  {
+   "id": "1a23b6fc5891",
+   "title": "U.S. stocks surge at the open as oil slide offsets rise in Fed rate hike bets",
+   "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-with-cpi-on-tap-oracle-firms-on-strong-earnings-4897114",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-09-11T13:38:37+00:00",
+   "tickers": []
+  },
   {
    "id": "ddf437cee2b2",
    "title": "Houthis hail 'successful' operation against Saudi forces",
@@ -77,6 +121,20 @@
    "tickers": []
   },
   {
+   "id": "f784f1823193",
+   "title": "Matson stock hits all-time high at 230.89 USD",
+   "link": "https://www.investing.com/news/company-news/matson-stock-hits-alltime-high-at-23089-usd-93CH-4898059",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-09-11T13:38:15+00:00",
+   "tickers": []
+  },
+  {
    "id": "aa0da3d1f87c",
    "title": "Oracle Surges 7% as AI Cloud Backlog Hits $664B, CoreWeave and Nebius Climb 4%",
    "link": "https://biztoc.com/x/a4910ab2a0f96781?ref=rss",
@@ -92,6 +150,20 @@
     "ORCL",
     "CRWV"
    ]
+  },
+  {
+   "id": "ea8e87948f2a",
+   "title": "TPFG H1 2026 slides: record results amid subdued UK property market",
+   "link": "https://www.investing.com/news/company-news/tpfg-h1-2026-slides-record-results-amid-subdued-uk-property-market-93CH-4898058",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-09-11T13:38:12+00:00",
+   "tickers": []
   },
   {
    "id": "f637e4217ff8",
@@ -255,6 +327,20 @@
    "sentiment": "positive",
    "domain": "biztoc.com",
    "published": "2026-09-11T13:38:01+00:00",
+   "tickers": []
+  },
+  {
+   "id": "0ee81c87b1b3",
+   "title": "Anthropic’s safety-first image takes a hit ahead of its massive IPO: ‘AI could kill all humans’",
+   "link": "https://www.marketwatch.com/story/anthropics-safety-first-image-takes-a-hit-ahead-of-its-massive-ipo-ai-could-kill-all-humans-befd133d?mod=mw_rss_topstories",
+   "summary": "While concerns over AI safety are not likely to derail Anthropic’s IPO plans, experts expect more regulation and safety disclosures.",
+   "article_text": "",
+   "source": "MarketWatch",
+   "category": "markets",
+   "type": "offering",
+   "sentiment": "neutral",
+   "domain": "marketwatch.com",
+   "published": "2026-09-11T13:38:00+00:00",
    "tickers": []
   },
   {
@@ -461,6 +547,106 @@
    ]
   },
   {
+   "id": "ddbdb8be4118",
+   "title": "Flexsteel appoints Anand Kangala to board of directors",
+   "link": "https://www.investing.com/news/company-news/flexsteel-appoints-anand-kangala-to-board-of-directors-93CH-4898055",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-11T13:36:31+00:00",
+   "tickers": []
+  },
+  {
+   "id": "cac96bd88af0",
+   "title": "Stocks, bonds rally after August inflation report",
+   "link": "https://www.investing.com/news/economic-indicators/august-core-inflation-reading-boosts-ratehike-expectations-4897942",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "macro",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-09-11T13:36:29+00:00",
+   "tickers": []
+  },
+  {
+   "id": "9c5739c049b7",
+   "title": "Dynex Capital 6.9% Prfd Series C declares $0.6079 dividend",
+   "link": "https://seekingalpha.com/news/4642058-dynex-capital-6_9-percent-prfd-series-c-declares-0_6079-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-11T13:36:26+00:00",
+   "tickers": [
+    "DX"
+   ]
+  },
+  {
+   "id": "e7a750996562",
+   "title": "Nordic American Tankers stock hits 52-week high at 7.34 USD",
+   "link": "https://www.investing.com/news/company-news/nordic-american-tankers-stock-hits-52week-high-at-734-usd-93CH-4898054",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-11T13:36:20+00:00",
+   "tickers": []
+  },
+  {
+   "id": "12eaef197ae3",
+   "title": "Earnings call transcript: Hooker Furnishings posts Q2 2026 profit beat",
+   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-hooker-furnishings-posts-q2-2026-profit-beat-93CH-4898053",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-09-11T13:35:49+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b32d07b67c36",
+   "title": "Jackson Financial stock hits all-time high at 140.9 USD",
+   "link": "https://www.investing.com/news/company-news/jackson-financial-stock-hits-alltime-high-at-1409-usd-93CH-4898052",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-09-11T13:35:24+00:00",
+   "tickers": []
+  },
+  {
+   "id": "0b349b1e940b",
+   "title": "Aon files USI Advantage merger financials and pro forma data with SEC",
+   "link": "https://www.investing.com/news/sec-filings/aon-files-usi-advantage-merger-financials-and-pro-forma-data-with-sec-93CH-4898051",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-11T13:35:17+00:00",
+   "tickers": []
+  },
+  {
    "id": "3872aaf080aa",
    "title": "Premium Global Income Split Fund Announces Successful Overnight Offering of Preferred Shares and Class A Shares",
    "link": "https://www.globenewswire.com/news-release/2026/09/11/3360365/0/en/premium-global-income-split-fund-announces-successful-overnight-offering-of-preferred-shares-and-class-a-shares.html",
@@ -473,6 +659,36 @@
    "domain": "globenewswire.com",
    "published": "2026-09-11T13:35:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "9b8b1c1b6b2c",
+   "title": "The future of retirement? Work until you die.",
+   "link": "https://www.marketwatch.com/story/the-future-of-retirement-work-until-you-die-6d0e5341?mod=mw_rss_topstories",
+   "summary": "Social Security, once seen as “old-age insurance,” will eventually disappear, this author predicts.",
+   "article_text": "",
+   "source": "MarketWatch",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "marketwatch.com",
+   "published": "2026-09-11T13:35:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "0b61181907a6",
+   "title": "I'm Buying Occidental on This Dip -- Not Because of Oil, but Because of This",
+   "link": "https://www.nasdaq.com/articles/im-buying-occidental-dip-not-because-oil-because",
+   "summary": "Key PointsRight now, higher oil prices are certainly helping the Houston-based oil exploration company.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-11T13:35:00+00:00",
+   "tickers": [
+    "OXY"
+   ]
   },
   {
    "id": "ecc5103db9e1",
@@ -489,6 +705,36 @@
    "tickers": [
     "ORCL"
    ]
+  },
+  {
+   "id": "48712473f49a",
+   "title": "Wall Street observes moment of silence to mark 9/11 anniversary",
+   "link": "https://www.cnbc.com/video/2026/09/11/wall-street-observes-moment-of-silence-to-mark-911-anniversary.html",
+   "summary": "The NYSE, Nasdaq and Cboe observed a moment of silence on the 25th anniversary of the Sept. 11, 2001, attacks.",
+   "article_text": "",
+   "source": "CNBC Investing",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-09-11T13:34:24+00:00",
+   "tickers": [
+    "NDAQ"
+   ]
+  },
+  {
+   "id": "39ab6c04c4e3",
+   "title": "IDT Corp stock hits 52-week high at 70.91 USD",
+   "link": "https://www.investing.com/news/company-news/idt-corp-stock-hits-52week-high-at-7091-usd-93CH-4898050",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-11T13:34:13+00:00",
+   "tickers": []
   },
   {
    "id": "1d2405e4d6c0",
@@ -530,6 +776,20 @@
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
    "published": "2026-09-11T13:33:10+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c0795a93c3cc",
+   "title": "Equity risk premium falls to 2002 levels. What it means for stocks",
+   "link": "https://www.investing.com/news/stock-market-news/equity-risk-premium-falls-to-2002-levels-what-it-means-for-stocks-4898047",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-09-11T13:32:59+00:00",
    "tickers": []
   },
   {
@@ -625,6 +885,48 @@
    "tickers": []
   },
   {
+   "id": "810483eb2560",
+   "title": "Neuronetics stock gains after B.Riley initiates coverage at Buy",
+   "link": "https://www.investing.com/news/stock-market-news/neuronetics-stock-gains-after-briley-initiates-coverage-at-buy-93CH-4898045",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "analyst",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-09-11T13:31:47+00:00",
+   "tickers": []
+  },
+  {
+   "id": "395b7bfbe083",
+   "title": "AI regulation calls grow in D.C. after researcher's extinction warning",
+   "link": "https://www.cnbc.com/2026/09/11/ai-regulation-anthropic-researcher-extinction-warning.html",
+   "summary": "Members of Congress are calling for AI regulation after a researcher warned that OpenAI and Anthropic are acting irresponsibly.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "cnbc.com",
+   "published": "2026-09-11T13:31:32+00:00",
+   "tickers": []
+  },
+  {
+   "id": "7304dc50cd47",
+   "title": "Coffee traders’ big shipments are set to boost exchange stocks and weigh on prices",
+   "link": "https://www.investing.com/news/stock-market-news/coffee-traders-big-shipments-are-set-to-boost-exchange-stocks-and-weigh-on-prices-4898038",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-09-11T13:30:47+00:00",
+   "tickers": []
+  },
+  {
    "id": "bbc79b399e21",
    "title": "August CPI Firms Up A September Fed Rate Hike, Stocks Surge",
    "link": "https://seekingalpha.com/article/4945520-august-cpi-firms-up-a-september-fed-rate-hike-stocks-surge?source=feed_all_articles",
@@ -635,6 +937,20 @@
    "type": "upgrade",
    "sentiment": "positive",
    "domain": "seekingalpha.com",
+   "published": "2026-09-11T13:30:30+00:00",
+   "tickers": []
+  },
+  {
+   "id": "40c9e7fa0502",
+   "title": "Russian attacks on Kyiv petrol stations kill two, Ukrainian strikes kill three in Russia",
+   "link": "https://www.investing.com/news/stock-market-news/russian-air-strikes-injure-two-cause-fire-in-9storey-apartment-building-in-kyiv-officials-say-4897164",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
    "published": "2026-09-11T13:30:30+00:00",
    "tickers": []
   },
@@ -697,6 +1013,20 @@
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
    "published": "2026-09-11T13:30:10+00:00",
+   "tickers": []
+  },
+  {
+   "id": "1045d03311c6",
+   "title": "4 Double-Digit Yields We Can Buy for 80 Cents on the Dollar",
+   "link": "https://www.nasdaq.com/articles/4-double-digit-yields-we-can-buy-80-cents-dollar",
+   "summary": "Rate hikes are back on the table. For most investors, that's bad news. But for shareholders in one high-yielding corner of the market, it could be the best thing that's happened all year.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-11T13:30:01+00:00",
    "tickers": []
   },
   {
@@ -792,6 +1122,20 @@
    "tickers": []
   },
   {
+   "id": "74b3f5cdaa48",
+   "title": "Why Alight Stock Is Plummeting This Week",
+   "link": "https://www.nasdaq.com/articles/why-alight-stock-plummeting-week",
+   "summary": "Key PointsAlight stock has seen big sell-offs since last week's market close due to macroeconomic concerns.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-11T13:29:08+00:00",
+   "tickers": []
+  },
+  {
    "id": "1017fc8850e0",
    "title": "8-K - BioRestorative Therapies, Inc. (0001505497) (Filer)",
    "link": "https://www.sec.gov/Archives/edgar/data/1505497/000121390026099018/0001213900-26-099018-index.htm",
@@ -825,7 +1169,7 @@
    "link": "https://www.prnewswire.com/news-releases/bybit-opens-the-floor-inviting-users-to-weigh-in-on-bybit-ai-302876452.html",
    "summary": "DUBAI, UAE, Sept. 11, 2026 /PRNewswire/ -- Bybit, the world's second-largest cryptocurrency exchange by trading volume, is inviting users to try Bybit AI, an AI assistant built into the Bybit app as an integrated conversational layer, and share their feedback for a chance to win 50 USDT....",
    "article_text": "",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -935,6 +1279,36 @@
    "tickers": []
   },
   {
+   "id": "a523d85ea465",
+   "title": "German union demands Volkswagen commitment to 2024 labour agreement",
+   "link": "https://www.investing.com/news/stock-market-news/german-union-demands-volkswagen-commitment-to-2024-labour-agreement-4897957",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-11T13:24:52+00:00",
+   "tickers": []
+  },
+  {
+   "id": "34271ad9e74c",
+   "title": "BlackRock private credit fund redemption requests ease in third quarter",
+   "link": "https://www.investing.com/news/stock-market-news/blackrock-private-credit-fund-redemptions-fall-in-third-quarter-4897830",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-11T13:24:33+00:00",
+   "tickers": [
+    "BLK"
+   ]
+  },
+  {
    "id": "a301fd78764f",
    "title": "Inflation Isn't Going To Wreck The Party",
    "link": "https://seekingalpha.com/article/4945496-inflation-isnt-going-to-wreck-party?source=feed_all_articles",
@@ -1024,7 +1398,7 @@
   },
   {
    "id": "da26acc353ae",
-   "title": "Honeywell Aerospace: 2026 Is A Year Of Reset, I'll Keep Watching",
+   "title": "Honeywell Aerospace: 2026 Is A Year Of Reset - I'll Keep Watching",
    "link": "https://seekingalpha.com/article/4945495-honeywell-aerospace-2026-is-a-year-of-reset-ill-keep-watching?source=feed_all_articles",
    "summary": "",
    "article_text": "",
@@ -1438,20 +1812,6 @@
    "tickers": []
   },
   {
-   "id": "cac96bd88af0",
-   "title": "Stocks, bonds rally after August inflation report",
-   "link": "https://www.investing.com/news/economic-indicators/august-core-inflation-reading-boosts-ratehike-expectations-4897942",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "macro",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-09-11T13:20:14+00:00",
-   "tickers": []
-  },
-  {
    "id": "11d409cd9f8f",
    "title": "Adobe: Buy Post-Earnings",
    "link": "https://seekingalpha.com/article/4945494-adobe-buy-post-earnings?source=feed_all_articles",
@@ -1467,6 +1827,20 @@
     "ADBE",
     "POST"
    ]
+  },
+  {
+   "id": "bfee3326cd94",
+   "title": "If a Bear Market Is Coming, History Says These Are the Only ETFs You Need",
+   "link": "https://www.nasdaq.com/articles/if-bear-market-coming-history-says-these-are-only-etfs-you-need",
+   "summary": "Key PointsBear markets are an inevitable part of the stock market cycle.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-11T13:20:00+00:00",
+   "tickers": []
   },
   {
    "id": "6a20c9c77990",
@@ -1700,20 +2074,6 @@
    ]
   },
   {
-   "id": "fe992162eb6f",
-   "title": "Diesel Jumps Above $6 a Gallon, Adding to Inflation Pressure",
-   "link": "https://www.nytimes.com/2026/09/11/business/diesel-fuel-prices.html",
-   "summary": "The price of U.S. diesel fuel hit to a new high over mounting fears that fighting in the Middle East could further threaten oil supplies.",
-   "article_text": "",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "positive",
-   "domain": "nytimes.com",
-   "published": "2026-09-11T13:16:44+00:00",
-   "tickers": []
-  },
-  {
    "id": "059a442abc25",
    "title": "Energy up, groceries flat: Inside the August CPI report",
    "link": "https://seekingalpha.com/news/4642045-energy-up-groceries-flat-inside-the-august-cpi-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -1791,7 +2151,7 @@
    "link": "https://www.prnewswire.com/news-releases/crefc-announces-paul-t-vanderslice-as-president--ceo-302876405.html",
    "summary": "Commercial real estate finance industry veteran, longtime CREFC member and former Chair to lead organization NEW YORK, Sept. 11, 2026 /PRNewswire/ -- The CRE Finance Council (CREFC) today announced that Paul T. Vanderslice has been named President and Chief Executive Officer, effective...",
    "article_text": "",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -2598,7 +2958,7 @@
    "link": "https://www.prnewswire.com/news-releases/fermi-founder-parties-file-formal-proposal-for-independent-strategic-review-of-extraordinary-transactions-press-board-on-restoring-texas-style-governance-ahead-of-october-30-annual-meeting-302876432.html",
    "summary": "Toby Neugebauer says the Board must act quickly to restore stakeholder confidence. Shares down roughly 20% since Board announced they had met all 90-day objectives on August 13, 35% since the Board removed the choice of a dual-path strategic process on July 2, and 20% since the Board...",
    "article_text": "",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -2846,7 +3206,7 @@
    "link": "https://www.prnewswire.com/news-releases/fidji-simo-joins-nscale-board-of-directors-302876371.html",
    "summary": "Former OpenAI CEO of AGI Deployment appointed as Independent Director LONDON, Sept. 11, 2026 /PRNewswire/ -- Nscale, a full-stack AI cloud platform, today announced that Fidji Simo, former OpenAI CEO of AGI Deployment, has been appointed to its Board of Directors effective immediately....",
    "article_text": "",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -2862,7 +3222,7 @@
    "link": "https://www.prnewswire.com/news-releases/2026-wealth-management-industry-awards-celebrate-record-breaking-year-and-the-innovators-advancing-financial-advice-302874724.html",
    "summary": "The 12th annual Wealthies honored sustained excellence, emerging leaders and technology-driven innovation before more than 600 industry executives in New York City NEW YORK, Sept. 11, 2026 /PRNewswire/ -- Wealth Management last night announced the winners of the 2026 Wealth Management...",
    "article_text": "",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -5063,20 +5423,6 @@
    "tickers": []
   },
   {
-   "id": "1a23b6fc5891",
-   "title": "Wall Street futures hold on to gains after in-line to slightly hot U.S. CPI report",
-   "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-with-cpi-on-tap-oracle-firms-on-strong-earnings-4897114",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "macro",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-09-11T12:37:11+00:00",
-   "tickers": []
-  },
-  {
    "id": "acc4daba7382",
    "title": "Melissa Rivers Returns to the Emmys Red Carpet for the First Time in Nearly 20 Years, Joining CNN and Variety's Live Coverage",
    "link": "https://www.prnewswire.com/news-releases/melissa-rivers-returns-to-the-emmys-red-carpet-for-the-first-time-in-nearly-20-years-joining-cnn-and-varietys-live-coverage-302875970.html",
@@ -5500,22 +5846,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-09-11T12:30:43+00:00",
    "tickers": []
-  },
-  {
-   "id": "34271ad9e74c",
-   "title": "BlackRock private credit fund redemption requests fall in third quarter",
-   "link": "https://www.investing.com/news/stock-market-news/blackrock-private-credit-fund-redemptions-fall-in-third-quarter-4897830",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-09-11T12:30:27+00:00",
-   "tickers": [
-    "BLK"
-   ]
   },
   {
    "id": "1377bb2e0d41",
@@ -7874,20 +8204,6 @@
    "tickers": []
   },
   {
-   "id": "0ee81c87b1b3",
-   "title": "Anthropic’s safety-first image takes a hit ahead of its massive IPO: ‘AI could kill all humans.’",
-   "link": "https://www.marketwatch.com/story/anthropics-safety-first-image-takes-a-hit-ahead-of-its-massive-ipo-ai-could-kill-all-humans-befd133d?mod=mw_rss_topstories",
-   "summary": "While concerns over AI safety are not likely to derail Anthropic’s IPO plans, experts expect more regulation and safety disclosures.",
-   "article_text": "",
-   "source": "MarketWatch",
-   "category": "markets",
-   "type": "offering",
-   "sentiment": "neutral",
-   "domain": "marketwatch.com",
-   "published": "2026-09-11T11:58:00+00:00",
-   "tickers": []
-  },
-  {
    "id": "3edb2b1736c2",
    "title": "Elanco Confirms Date and Conference Call for Third Quarter 2026 Financial Results Announcement",
    "link": "https://www.prnewswire.com/news-releases/elanco-confirms-date-and-conference-call-for-third-quarter-2026-financial-results-announcement-302876334.html",
@@ -8466,342 +8782,19 @@
    "domain": "seekingalpha.com",
    "published": "2026-09-11T11:49:11+00:00",
    "tickers": []
-  },
-  {
-   "id": "ab89bf970d4e",
-   "title": "8-K - Opus Genetics, Inc. (0001228627) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1228627/000114036126036277/0001140361-26-036277-index.htm",
-   "summary": "Filed: 2026-09-11 AccNo: 0001140361-26-036277 Size: 7 MB Item 7.01: Regulation FD Disclosure Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-09-11T11:48:13+00:00",
-   "tickers": []
-  },
-  {
-   "id": "18e67962a3aa",
-   "title": "25 Years After 9/11: Honoring a Generation, Carrying the Mission Forward",
-   "link": "https://www.prnewswire.com/news-releases/25-years-after-911-honoring-a-generation-carrying-the-mission-forward-302874709.html",
-   "summary": "JACKSONVILLE, Fla., Sept. 11, 2026 /PRNewswire/ -- Twenty-five years after the terrorist attacks of Sept. 11, 2001, the legacy of that day lives on through a generation shaped by service, sacrifice, recovery, and a commitment to carry others forward. Wounded Warrior Project® (WWP) serves...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-09-11T11:47:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "62f6d4af5053",
-   "title": "SThree rejects takeover approach from Circle8 Group",
-   "link": "https://www.investing.com/news/company-news/sthree-rejects-takeover-approach-from-circle8-group-93CH-4897739",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-11T11:46:33+00:00",
-   "tickers": []
-  },
-  {
-   "id": "f2524b3b0110",
-   "title": "Medicinova at H.C. Wainwright conference: data, not financing, drives case",
-   "link": "https://www.investing.com/news/transcripts/medicinova-at-hc-wainwright-conference-data-not-financing-drives-case-93CH-4897738",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-11T11:46:28+00:00",
-   "tickers": []
-  },
-  {
-   "id": "9b17e23dc7f7",
-   "title": "8-K - Aperture AC (0002093524) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/2093524/000121390026098971/0001213900-26-098971-index.htm",
-   "summary": "Filed: 2026-09-11 AccNo: 0001213900-26-098971 Size: 17 MB Item 7.01: Regulation FD Disclosure Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-09-11T11:45:39+00:00",
-   "tickers": []
-  },
-  {
-   "id": "f97151ac7945",
-   "title": "8-K - Karyopharm Therapeutics Inc. (0001503802) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1503802/000119312526388621/0001193125-26-388621-index.htm",
-   "summary": "Filed: 2026-09-11 AccNo: 0001193125-26-388621 Size: 564 KB Item 1.01: Entry into a Material Definitive Agreement Item 2.04: Triggering Events That Accelerate or Increase a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement Item 3.02: Unregistered Sales of Equity Securities Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-09-11T11:45:19+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e3071b8dadba",
-   "title": "GrowGeneration at H.C. Wainwright conference: pivot to higher-margin growth",
-   "link": "https://www.investing.com/news/transcripts/growgeneration-at-hc-wainwright-conference-pivot-to-highermargin-growth-93CH-4897736",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-11T11:45:14+00:00",
-   "tickers": []
-  },
-  {
-   "id": "270fbd2206bf",
-   "title": "Skyworks Solutions: An Investment At Technology's Edge",
-   "link": "https://seekingalpha.com/article/4945451-skyworks-solutions-an-investment-at-technologys-edge?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-11T11:45:00+00:00",
-   "tickers": [
-    "SWKS"
-   ]
-  },
-  {
-   "id": "87157a1d1ad7",
-   "title": "KALDVÍK AS (KLDVK): GRANTED LICENCES FOR 10,000 TONNES MAB IN SEYÐISFJÖRÐUR",
-   "link": "https://www.globenewswire.com/news-release/2026/09/11/3360264/0/en/kaldv%C3%ADk-as-kldvk-granted-licences-for-10-000-tonnes-mab-in-sey%C3%B0isfj%C3%B6r%C3%B0ur.html",
-   "summary": "Frøya, 11 September 2026 – Kaldvík AS (“Kaldvík” or the “Company”) has today been granted aquaculture operating licences by the Icelandic Food and Veterinary Authority (MAST) and an environmental operating permit by the Environment and Energy Agency of Iceland (UOS) for salmon farming in Seyðisfjörður, East Iceland.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-09-11T11:45:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "4aa7d99feeee",
-   "title": "H.C. Wainwright raises Ovid Therapeutics price target to $5 on pipeline progress",
-   "link": "https://www.investing.com/news/analyst-ratings/hc-wainwright-raises-ovid-therapeutics-price-target-to-5-on-pipeline-progress-93CH-4897735",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-09-11T11:44:49+00:00",
-   "tickers": []
-  },
-  {
-   "id": "328945c3e7b4",
-   "title": "H.C. Wainwright raises Tempus AI stock price target to $66",
-   "link": "https://www.investing.com/news/analyst-ratings/hc-wainwright-raises-tempus-ai-stock-price-target-to-66-93CH-4897734",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-09-11T11:44:48+00:00",
-   "tickers": [
-    "TEM"
-   ]
-  },
-  {
-   "id": "04275bdada54",
-   "title": "Oklo taps 10 Wall Street institutions for $1B stock sale",
-   "link": "https://seekingalpha.com/news/4641987-oklo-taps-10-wall-street-institutions-for-1b-stock-sale?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-11T11:44:21+00:00",
-   "tickers": [
-    "OKLO"
-   ]
-  },
-  {
-   "id": "2e1224098af1",
-   "title": "Oil nears $100 as fresh Middle East strikes raise supply risks",
-   "link": "https://www.investing.com/news/commodities-news/oil-nears-100-as-fresh-middle-east-strikes-raise-supply-risks-4897733",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-09-11T11:43:26+00:00",
-   "tickers": []
-  },
-  {
-   "id": "91dd2a22047b",
-   "title": "Serina Therapeutics at H.C. Wainwright conference: Parkinson’s push advances",
-   "link": "https://www.investing.com/news/transcripts/serina-therapeutics-at-hc-wainwright-conference-parkinsons-push-advances-93CH-4897731",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-11T11:43:10+00:00",
-   "tickers": []
-  },
-  {
-   "id": "c2854ff0270d",
-   "title": "Germany pushes for Commerzbank to retain Frankfurt listing in potential UniCredit deal - report",
-   "link": "https://seekingalpha.com/news/4641978-germany-pushes-for-commerzbank-to-retain-frankfurt-listing-in-potential-unicredit-deal---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-11T11:43:07+00:00",
-   "tickers": []
-  },
-  {
-   "id": "5ae8a805dc57",
-   "title": "Oklo stock falls after launching $1B stock offering program",
-   "link": "https://www.investing.com/news/stock-market-news/oklo-stock-falls-after-launching-1b-stock-offering-program-93CH-4897727",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "offering",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-09-11T11:42:28+00:00",
-   "tickers": [
-    "OKLO"
-   ]
-  },
-  {
-   "id": "d40e9b771247",
-   "title": "Dow futures jump more than 200 points as oil prices slide; consumer inflation data ahead: Live updates",
-   "link": "https://www.cnbc.com/2026/09/10/stock-market-today-live-updates.html",
-   "summary": "The three major averages are heading for a losing week as higher oil prices and a surge in Treasury yields weigh on stocks.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-09-11T11:41:43+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ef8c8bc3e984",
-   "title": "Bessent Takes on the Bond Vigilantes",
-   "link": "https://www.nytimes.com/2026/09/11/business/dealbook/bessent-bond-vigilantes.html",
-   "summary": "As a rout in the bond market deepens, the pressure grows on Treasury Secretary Scott Bessent to restore calm.",
-   "article_text": "",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "nytimes.com",
-   "published": "2026-09-11T11:41:29+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6e562e4257f8",
-   "title": "Broadcom: A $230 Billion AI Juggernaut In The Making",
-   "link": "https://seekingalpha.com/article/4945461-broadcom-230-billion-ai-juggernaut-in-making?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-11T11:41:07+00:00",
-   "tickers": [
-    "AVGO"
-   ]
-  },
-  {
-   "id": "65670627a6f4",
-   "title": "Stocks Settle Lower as Surging Crude Prices Boost Fed Rate Hike Chances",
-   "link": "https://www.nasdaq.com/articles/stocks-settle-lower-surging-crude-prices-boost-fed-rate-hike-chances",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down -0.58% on Thursday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -0.60%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -1.08%. E-mini S&P futures (ESU26 ) fell -0.61%, and September E-mini Nasdaq futures (NQU26...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-09-11T11:40:48+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
-   ]
-  },
-  {
-   "id": "4c719764e0e2",
-   "title": "Kforce Inc's Dividend Analysis",
-   "link": "https://biztoc.com/x/c50f7630eae2fba6?ref=rss",
-   "summary": "This article first appeared on GuruFocus. Kforce Inc (NYSE:KFRC) Declares Quarterly Dividend as Investors Weigh Yield Against Payout Concerns Kforce Inc (NYSE:KFRC) recently announced a total dividend of $0.40 per share, with the ex-dividend date set for Sept. 11, 2026. This amount consists of a…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "dividend",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-09-11T11:40:04+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6ad3490227ba",
-   "title": "Farmers National Banc Corp's Dividend Analysis",
-   "link": "https://biztoc.com/x/f7ca15373ddce820?ref=rss",
-   "summary": "This article first appeared on GuruFocus. A Closer Look at the Upcoming Payout and What It Means for Value Investors Farmers National Banc Corp (NASDAQ:FMNB) recently announced a total dividend of $0.18 per share, with the ex-dividend date set for 2026-09-11. This amount consists of $0.18 per…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "dividend",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-09-11T11:40:04+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
   "XLY": "State Street Consumer Discretionary Select Sector SPDR ETF",
   "JIRE": "JPMorgan International Research Enhanced Equity ETF",
   "ETH": "Grayscale Ethereum Staking Mini ETF Shares",
-  "DIA": "SPDR Dow Jones Industrial Average ETF",
   "BTC": "Grayscale Bitcoin Mini Trust (BTC)",
   "CHKP": "Check Point Software Technologies",
   "QSR": "Restaurant Brands International",
   "WST": "West Pharmaceutical Services",
   "FIGR": "Figure Technology Solutions",
   "QQQ": "Invesco QQQ Trust, Series 1",
+  "EL": "The Est?e Lauder Companies",
   "FBIN": "Fortune Brands Innovations",
   "JEF": "Jefferies Financial Group",
   "TD": "The Toronto-Dominion Bank",
@@ -8817,13 +8810,13 @@
   "PLTR": "Palantir Technologies",
   "CRWD": "CrowdStrike Holdings",
   "ELAN": "Elanco Animal Health",
+  "OXY": "Occidental Petroleum",
   "LULU": "lululemon athletica",
   "TROW": "T. Rowe Price Group",
   "BEN": "Franklin Resources",
   "HIMS": "Hims & Hers Health",
   "IBN": "ICICI Bank Limited",
   "MRVL": "Marvell Technology",
-  "SWKS": "Skyworks Solutions",
   "RBLX": "Roblox Corporation",
   "DELL": "Dell Technologies",
   "MU": "Micron Technology",
@@ -8848,6 +8841,7 @@
   "HD": "The Home Depot",
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
+  "DX": "Dynex Capital",
   "KO": "The Coca-Cola",
   "LLY": "Eli Lilly and",
   "POST": "Post Holdings",
