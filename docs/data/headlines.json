@@ -1,8 +1,38 @@
 {
- "generated": "2026-09-11T22:50:46.747727+00:00",
+ "generated": "2026-09-11T22:57:54.377376+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "ab4c370f3c6a",
+   "title": "Early SpaceX investor Atreides poaches co-CIO of ‘Tiger cub’ Lone Pine",
+   "link": "https://www.ft.com/content/282a7b82-49b1-48ce-b645-737da2ff093a?syn-25a6b1a6=1",
+   "summary": "Kelly Granat to join tech-focused investment firm set up by former Fidelity Investments star stock picker Gavin Baker",
+   "article_text": "",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "ft.com",
+   "published": "2026-09-11T22:55:46+00:00",
+   "tickers": [
+    "SPCX"
+   ]
+  },
+  {
+   "id": "f4d3e40245ca",
+   "title": "Saudis Shut Down Crucial Pipeline After Drone Attack From Iraq",
+   "link": "https://www.nytimes.com/2026/09/11/business/diesel-fuel-prices-oil-iran-war.html",
+   "summary": "The news briefly pushed the price of oil to $110 a barrel over heightened fears of widening clashes in the Middle East.",
+   "article_text": "",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-09-11T22:51:56+00:00",
+   "tickers": []
+  },
   {
    "id": "2fb4373017c0",
    "title": "SHAREHOLDER ALERT: Levi &amp; Korsinsky, LLP Notifies Shareholders of an Investigation Concerning Possible Breaches of Fiduciary Duties by Certain Officers and Directors of Meridian Corporation (NASDAQ: MRBK).",
@@ -16,6 +46,25 @@
    "domain": "prnewswire.com",
    "published": "2026-09-11T22:48:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "2e0c641bac1e",
+   "title": "Stocks Shake Off CPI Report and Rally on Lower Oil Prices",
+   "link": "https://www.nasdaq.com/articles/stocks-shake-cpi-report-and-rally-lower-oil-prices-1",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) on Friday rose by +0.86%, the Dow Jones Industrial Average ($DOWI ) (DIA ) rose by +0.98%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) rose by +0.91%. E-mini S&P futures (ESU26 ) rose +0.83%, and September E-mini Nasdaq futures (NQU26...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-09-11T22:46:51+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
   },
   {
    "id": "b5e5a0ea9fc2",
@@ -44,6 +93,22 @@
    "domain": "investing.com",
    "published": "2026-09-11T22:43:10+00:00",
    "tickers": []
+  },
+  {
+   "id": "fcf86c28046c",
+   "title": "Palantir Co-Founder Peter Thiel's Hedge Fund Just Made a Big Bet on This AI Stock",
+   "link": "https://www.nasdaq.com/articles/palantir-co-founder-peter-thiels-hedge-fund-just-made-big-bet-ai-stock",
+   "summary": "Key PointsAmazon Web Services is a major cash cow for the tech megacap.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-11T22:43:00+00:00",
+   "tickers": [
+    "PLTR"
+   ]
   },
   {
    "id": "bf4113dc6fa6",
@@ -229,6 +294,25 @@
    ]
   },
   {
+   "id": "31c2e2c16fb4",
+   "title": "Stocks Shake Off CPI Report and Rally on Lower Oil Prices",
+   "link": "https://www.nasdaq.com/articles/stocks-shake-cpi-report-and-rally-lower-oil-prices-0",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) is up +0.89%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.81%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +0.95%. E-mini S&P futures (ESU26 ) are up +0.82%, and September E-mini Nasdaq futures (NQU26 )...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-09-11T22:40:16+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
+  },
+  {
    "id": "89eda4ecddd0",
    "title": "Xerox, Dynatrace, and 2 More Stocks See Action From Activist Investors",
    "link": "https://biztoc.com/x/b568e4a0996baf92?ref=rss",
@@ -271,6 +355,25 @@
    "domain": "cnbc.com",
    "published": "2026-09-11T22:35:09+00:00",
    "tickers": []
+  },
+  {
+   "id": "b75c67766f24",
+   "title": "Stocks Shake Off CPI Report and Rally on Lower Oil Prices",
+   "link": "https://www.nasdaq.com/articles/stocks-shake-cpi-report-and-rally-lower-oil-prices",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) is up +0.87%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.97%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +0.77%. E-mini S&P futures (ESU26 ) are up +1.01%, and September E-mini Nasdaq futures (NQU26 )...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-09-11T22:33:56+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
   },
   {
    "id": "b5d9ba260986",
@@ -859,20 +962,6 @@
    ]
   },
   {
-   "id": "257090ce3f14",
-   "title": "Investors brace for possible rate hike at uncertain Fed meeting",
-   "link": "https://www.investing.com/news/economy-news/investors-brace-for-possible-rate-hike-at-uncertain-fed-meeting-4897503",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-09-11T22:12:43+00:00",
-   "tickers": []
-  },
-  {
    "id": "13f4f99966f1",
    "title": "3 Stocks Under $50 That Fall Short",
    "link": "https://biztoc.com/x/b595d8086702e005?ref=rss",
@@ -1301,20 +1390,6 @@
    "tickers": []
   },
   {
-   "id": "f4d3e40245ca",
-   "title": "Attacks on Saudi Pipeline Rattle Energy Markets",
-   "link": "https://www.nytimes.com/2026/09/11/business/diesel-fuel-prices-oil-iran-war.html",
-   "summary": "Oil prices remain elevated and the price of U.S. diesel fuel hit a new high over mounting fears that fighting in the Middle East could further threaten energy supplies.",
-   "article_text": "",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "nytimes.com",
-   "published": "2026-09-11T22:03:36+00:00",
-   "tickers": []
-  },
-  {
    "id": "f68fadb84050",
    "title": "Sugar Prices Fall as Crude Oil Gives Back Some Gains",
    "link": "https://www.nasdaq.com/articles/sugar-prices-fall-crude-oil-gives-back-some-gains-0",
@@ -1357,25 +1432,6 @@
    "domain": "nasdaq.com",
    "published": "2026-09-11T22:02:10+00:00",
    "tickers": []
-  },
-  {
-   "id": "b75c67766f24",
-   "title": "Stocks Shake Off CPI Report and Rally on Lower Oil Prices",
-   "link": "https://www.nasdaq.com/articles/stocks-shake-cpi-report-and-rally-lower-oil-prices",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) is up +0.87%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.97%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +0.77%. E-mini S&P futures (ESU26 ) are up +1.01%, and September E-mini Nasdaq futures (NQU26 )...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-09-11T22:02:09+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
-   ]
   },
   {
    "id": "67992d58578e",
@@ -1431,6 +1487,20 @@
    "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-09-11T22:00:51+00:00",
+   "tickers": []
+  },
+  {
+   "id": "257090ce3f14",
+   "title": "Investors brace for possible rate hike at uncertain Fed meeting",
+   "link": "https://www.investing.com/news/economy-news/investors-brace-for-possible-rate-hike-at-uncertain-fed-meeting-4897503",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-09-11T22:00:25+00:00",
    "tickers": []
   },
   {
@@ -3984,25 +4054,6 @@
    "tickers": []
   },
   {
-   "id": "31c2e2c16fb4",
-   "title": "Stocks Shake Off CPI Report and Rally on Lower Oil Prices",
-   "link": "https://www.nasdaq.com/articles/stocks-shake-cpi-report-and-rally-lower-oil-prices-0",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) is up +0.89%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.81%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +0.95%. E-mini S&P futures (ESU26 ) are up +0.82%, and September E-mini Nasdaq futures (NQU26 )...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-09-11T21:10:09+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
-   ]
-  },
-  {
    "id": "f410c200cb8c",
    "title": "Sugar Prices Fall as Crude Oil Gives Back Some Gains",
    "link": "https://www.nasdaq.com/articles/sugar-prices-fall-crude-oil-gives-back-some-gains",
@@ -4664,22 +4715,6 @@
    "published": "2026-09-11T20:55:00+00:00",
    "tickers": [
     "PRIM"
-   ]
-  },
-  {
-   "id": "ab4c370f3c6a",
-   "title": "Lone Pine’s co-CIO to join early SpaceX backer Atreides Management",
-   "link": "https://www.ft.com/content/282a7b82-49b1-48ce-b645-737da2ff093a?syn-25a6b1a6=1",
-   "summary": "Kelly Granat to join tech-focused investment firm set up by former Fidelity Investments star stock picker Gavin Baker",
-   "article_text": "",
-   "source": "FT Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "ft.com",
-   "published": "2026-09-11T20:54:38+00:00",
-   "tickers": [
-    "SPCX"
    ]
   },
   {
@@ -5731,9 +5766,9 @@
    "link": "https://www.nasdaq.com/articles/reddit-now-388-largest-company-surpassing-cf-industries-holdings",
    "summary": "In the latest look at the underlying components of the S&P 500 ordered by largest market capitalization, Reddit Inc (Symbol: RDDT) has taken over the #388 spot from CF Industries Holdings Inc (Symbol: CF), according to The Online Investor. Market capitalization is an imp",
    "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
    "sentiment": "neutral",
    "domain": "nasdaq.com",
    "published": "2026-09-11T20:39:42+00:00",
@@ -8840,36 +8875,6 @@
    "tickers": [
     "BLSH"
    ]
-  },
-  {
-   "id": "bc5ac4dbaaae",
-   "title": "Atmos Energy Enters Oversold Territory",
-   "link": "https://www.nasdaq.com/articles/atmos-energy-enters-oversold-territory",
-   "summary": "The DividendRank formula at Dividend Channel ranks a coverage universe of thousands of dividend stocks, according to a proprietary formula designed to identify those stocks that combine two important characteristics — strong fundamentals and a valuation that looks inexpensive.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-09-11T20:02:55+00:00",
-   "tickers": [
-    "ATO"
-   ]
-  },
-  {
-   "id": "fb763341ed63",
-   "title": "Patrick Industries Enters Oversold Territory",
-   "link": "https://www.nasdaq.com/articles/patrick-industries-enters-oversold-territory",
-   "summary": "The DividendRank formula at Dividend Channel ranks a coverage universe of thousands of dividend stocks, according to a proprietary formula designed to identify those stocks that combine two important characteristics — strong fundamentals and a valuation that looks inexpensive.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-09-11T20:02:45+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8950,7 +8955,6 @@
   "OC": "Owens Corning",
   "POST": "Post Holdings",
   "MSTR": "MicroStrategy",
-  "ATO": "Atmos Energy",
   "BKR": "Baker Hughes",
   "RBC": "RBC Bearings",
   "SPY": "SPDR S&P 500",
