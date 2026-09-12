@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-12T17:54:38.442906+00:00",
+ "generated": "2026-09-12T18:00:26.229234+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -16,6 +16,22 @@
    "domain": "prnewswire.com",
    "published": "2026-09-12T17:50:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "3557ae18b7e7",
+   "title": "’s Pediatric Obesity Opportunity Faces a Bigger Test",
+   "link": "https://biztoc.com/x/ba45dcb00ad3d047?ref=rss",
+   "summary": "Novo Nordisk A/S (NYSE:NVO) looks to open a new growth avenue for its blockbuster obesity drug Wegovy by targeting the pediatric market. In the late-stage STEP Young trial, semaglutide (the active ingredient in Wegovy) produced strong results in young children. In the trial, 40.4% of children…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-12T17:45:27+00:00",
+   "tickers": [
+    "NVO"
+   ]
   },
   {
    "id": "59ce29b3e4dc",
@@ -464,6 +480,20 @@
    "sentiment": "neutral",
    "domain": "nytimes.com",
    "published": "2026-09-12T17:19:11+00:00",
+   "tickers": []
+  },
+  {
+   "id": "2e758085f893",
+   "title": "Trump says he would ’love’ to see a united Ireland",
+   "link": "https://www.investing.com/news/world-news/trump-to-visit-irelands-leaders-before-attending-golf-tournament-4898626",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-12T17:18:29+00:00",
    "tickers": []
   },
   {
@@ -1451,6 +1481,20 @@
    "sentiment": "negative",
    "domain": "biztoc.com",
    "published": "2026-09-12T16:43:57+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b2ff930dbfd9",
+   "title": "Russian attacks kill six, injure dozens in Ukraine, Moscow says it hits ships, plants",
+   "link": "https://www.investing.com/news/world-news/russian-attacks-kill-six-injure-dozens-in-ukraine-moscow-says-it-hits-ships-plants-4898674",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-12T16:42:24+00:00",
    "tickers": []
   },
   {
@@ -6936,20 +6980,6 @@
    ]
   },
   {
-   "id": "2e758085f893",
-   "title": "Trump says he would ’love’ to see a united Ireland",
-   "link": "https://www.investing.com/news/world-news/trump-to-visit-irelands-leaders-before-attending-golf-tournament-4898626",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-12T12:00:28+00:00",
-   "tickers": []
-  },
-  {
    "id": "eb806963d8ae",
    "title": "After the I.P.O., a Billion-Dollar Bill for Employee Paydays",
    "link": "https://www.nytimes.com/2026/09/12/business/dealbook/double-trigger-rsus.html",
@@ -8854,37 +8884,6 @@
    "domain": "biztoc.com",
    "published": "2026-09-12T10:29:27+00:00",
    "tickers": []
-  },
-  {
-   "id": "dae060fbca88",
-   "title": "AMD’s CFO, Jean Hu, Just Announced Fantastic News for Investors",
-   "link": "https://biztoc.com/x/a376b3f3a077a931?ref=rss",
-   "summary": "Advanced Micro Devices (NASDAQ:AMD) is firing on all cylinders. The company's shares have soared by 223% over the past 12 months (as of writing) as its financial results have improved significantly. Some investors may believe that the semiconductor specialist cannot sustain this run, but what if…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-12T10:29:25+00:00",
-   "tickers": [
-    "AMD",
-    "NWSA"
-   ]
-  },
-  {
-   "id": "526c9e75df0b",
-   "title": "‘We can see into the other room’: insurers face surge in subsidence claims",
-   "link": "https://biztoc.com/x/534f6e46b486743b?ref=rss",
-   "summary": "Stressed UK homeowners tell of cracks opening up in the walls around them after two record-hot summers “We’ve got one wall with an absolutely huge diagonal crack, through which we can see through to the other room; you could easily put your fingers in it and chunks of plaster are falling off,”…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-09-12T10:27:58+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8946,6 +8945,7 @@
   "JPM": "JPMorgan Chase &",
   "LOW": "Lowe's Companies",
   "MNST": "Monster Beverage",
+  "NVO": "Novo Nordisk A/S",
   "OWL": "Blue Owl Capital",
   "BAC": "Bank of America",
   "EXP": "Eagle Materials",
