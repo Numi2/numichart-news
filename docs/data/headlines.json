@@ -1,8 +1,22 @@
 {
- "generated": "2026-09-12T15:40:58.835819+00:00",
+ "generated": "2026-09-12T15:47:18.351785+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "1658e4b83b7d",
+   "title": "Prediction: This High-Yield Dow Dividend Stock Will Become a Dividend King Before the End of the Year.",
+   "link": "https://www.nasdaq.com/articles/prediction-high-yield-dow-dividend-stock-will-become-dividend-king-end-year",
+   "summary": "Key PointsMcDonald's is one of the world's largest fast-food companies.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-09-12T15:35:00+00:00",
+   "tickers": []
+  },
   {
    "id": "8e8b8f54e7b4",
    "title": "Energy Driven Inflation Complicates Fed Rate Call",
@@ -200,6 +214,22 @@
    "published": "2026-09-12T15:28:49+00:00",
    "tickers": [
     "ORCL"
+   ]
+  },
+  {
+   "id": "850e7859c98c",
+   "title": "Rivian Sacrificed Its 2027 Profit Target. Here's Why Investors Should Applaud.",
+   "link": "https://www.nasdaq.com/articles/rivian-sacrificed-its-2027-profit-target-heres-why-investors-should-applaud",
+   "summary": "Key PointsRivian dropped its profit guidance after ramping up investments in AI and autonomous tech.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-09-12T15:25:00+00:00",
+   "tickers": [
+    "RIVN"
    ]
   },
   {
@@ -8829,36 +8859,6 @@
    "domain": "biztoc.com",
    "published": "2026-09-12T08:12:20+00:00",
    "tickers": []
-  },
-  {
-   "id": "62b1df73d3f3",
-   "title": "One killed, 14 injured in Ukrainian strike on Belgorod",
-   "link": "https://biztoc.com/x/8548e770eab8cdbc?ref=rss",
-   "summary": "One person was killed and 14 others were injured in a Ukrainian strike on Russia's Belgorod region, local authorities reported on Saturday. \"During a terrorist strike by the Armed Forces of Ukraine in...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-12T08:12:19+00:00",
-   "tickers": []
-  },
-  {
-   "id": "4f9921b3e738",
-   "title": "OpenAI has paused its $200 ChatGPT sign-ups as ‘unprecedented’ demand for new model Astra strains its system",
-   "link": "https://biztoc.com/x/9ccac5a8404fe701?ref=rss",
-   "summary": "When OpenAI launched Astra last week — a model whose advanced abilities prompted OpenAI president Greg Brockman to call it the start of the “AGI era” — it only gave a handful of enterprise customers access to give the company time to scale its compute capacity. But now that it’s available to…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-12T08:12:17+00:00",
-   "tickers": [
-    "AGI"
-   ]
   }
  ],
  "ticker_names": {
@@ -8911,6 +8911,7 @@
   "HOOD": "Robinhood Markets",
   "MU": "Micron Technology",
   "POWL": "Powell Industries",
+  "RIVN": "Rivian Automotive",
   "SOFI": "SoFi Technologies",
   "UBER": "Uber Technologies",
   "COST": "Costco Wholesale",
@@ -8953,7 +8954,6 @@
   "GOOGL": "Google Cloud",
   "TSLA": "Supercharger",
   "NVDA": "Grace Hopper",
-  "AGI": "Alamos Gold",
   "MORN": "Morningstar",
   "ROST": "Ross Stores",
   "XOM": "Exxon Mobil",
