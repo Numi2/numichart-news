@@ -1,8 +1,38 @@
 {
- "generated": "2026-09-12T19:35:51.304133+00:00",
+ "generated": "2026-09-12T19:42:43.402870+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "de52bc23b2a2",
+   "title": "US judge rules that Trump plan to halve FEMA workforce violated law",
+   "link": "https://www.cnbc.com/2026/09/12/us-judge-rules-that-trump-plan-to-halve-fema-workforce-violated-law.html",
+   "summary": "U.S. ‌District Judge Susan Illston wrote the U.S. Department of Homeland Security acted unlawfully by usurping FEMA's authority over its own personnel.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-09-12T19:35:14+00:00",
+   "tickers": []
+  },
+  {
+   "id": "baba4198a4d6",
+   "title": "QBTS Investor Reminder: Kessler Topaz Meltzer &amp; Check, LLP Encourages QBTS Investors with Losses to Contact the Firm",
+   "link": "https://www.prnewswire.com/news-releases/qbts-investor-reminder-kessler-topaz-meltzer--check-llp-encourages-qbts-investors-with-losses-to-contact-the-firm-302876756.html",
+   "summary": "RADNOR, Pa., Sept. 12, 2026 /PRNewswire/ -- Kessler Topaz Meltzer & Check, LLP (www.ktmc.com), a nationally recognized securities litigation law firm, is investigating potential violations of the federal securities laws by D-Wave Quantum Inc. (\"D-Wave\") (NASDAQ: QBTS) on behalf of...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "negative",
+   "domain": "prnewswire.com",
+   "published": "2026-09-12T19:35:00+00:00",
+   "tickers": [
+    "QBTS"
+   ]
+  },
   {
    "id": "bbb6a084aa7d",
    "title": "Investing in the Vanguard S&P 500 ETF (VOO)? Beware of This 1 Sneaky Risk",
@@ -249,20 +279,6 @@
    "tickers": []
   },
   {
-   "id": "4044adb0560e",
-   "title": "US judge rules that Trump plan to halve FEMA workforce violated law",
-   "link": "https://www.investing.com/news/economy-news/us-judge-rules-that-trump-plan-to-halvefema-workforce-violated-law-4898666",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-12T19:18:46+00:00",
-   "tickers": []
-  },
-  {
    "id": "ff8222ee3a46",
    "title": "Key deals this week: META, ADI, BSP, AAPL, and more",
    "link": "https://seekingalpha.com/news/4642267-key-deals-this-week-meta-adi-bsp-aapl-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -441,20 +457,6 @@
    "sentiment": "neutral",
    "domain": "biztoc.com",
    "published": "2026-09-12T19:13:46+00:00",
-   "tickers": []
-  },
-  {
-   "id": "94833b8e5c98",
-   "title": "Iran and UAE back joint BRICS statement urging restraint in war",
-   "link": "https://www.investing.com/news/commodities-news/brics-agrees-on-joint-declaration-before-new-delhi-summit-sources-say-4898638",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-12T19:12:24+00:00",
    "tickers": []
   },
   {
@@ -4286,6 +4288,20 @@
    ]
   },
   {
+   "id": "4044adb0560e",
+   "title": "US judge rules that Trump plan to halve FEMA workforce violated law",
+   "link": "https://www.investing.com/news/economy-news/us-judge-rules-that-trump-plan-to-halvefema-workforce-violated-law-4898666",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-12T15:24:53+00:00",
+   "tickers": []
+  },
+  {
    "id": "439edc2fea7e",
    "title": "Market Complacency On Iran Crisis Wearing Off, Just As I Predicted In July",
    "link": "https://seekingalpha.com/article/4945794-market-complacency-on-iran-crisis-wearing-off-just-as-i-predicted-in-july?source=feed_all_articles",
@@ -4515,6 +4531,20 @@
    "sentiment": "negative",
    "domain": "seekingalpha.com",
    "published": "2026-09-12T15:12:40+00:00",
+   "tickers": []
+  },
+  {
+   "id": "94833b8e5c98",
+   "title": "Iran and UAE back joint BRICS statement urging restraint in war",
+   "link": "https://www.investing.com/news/commodities-news/brics-agrees-on-joint-declaration-before-new-delhi-summit-sources-say-4898638",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-12T15:12:23+00:00",
    "tickers": []
   },
   {
@@ -8866,37 +8896,6 @@
    "tickers": [
     "CASY"
    ]
-  },
-  {
-   "id": "f75868ccdfb7",
-   "title": "Morgan Stanley delivers blunt message to America’s pet owners",
-   "link": "https://biztoc.com/x/d6705ae8ccd27202?ref=rss",
-   "summary": "If you own a dog or a cat, you almost certainly have a Chewy box somewhere in your house. Chewy has spent years building a loyal, subscription-driven customer base of pet owners who buy food, medicine, and supplies automatically, month after month. You might be that loyal customer. But the…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-12T11:43:28+00:00",
-   "tickers": [
-    "MS",
-    "CHWY"
-   ]
-  },
-  {
-   "id": "f0d52c34cca2",
-   "title": "UK fact of the day",
-   "link": "https://biztoc.com/x/891157efbf889aad?ref=rss",
-   "summary": "The UK economy grew 0.4 per cent in July as the global AI boom helped deliver an unexpectedly robust start to the third quarter, in a boost to Prime Minister Andy Burnham as he prepares for a tough first Budget next month. Friday’s figure from the Office for National Statistics was far above the…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-12T11:43:25+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8972,6 +8971,7 @@
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
   "MTH": "Meritage Homes",
+  "QBTS": "D-Wave Quantum",
   "RIOT": "Riot Platforms",
   "NET": "Cloudflare Inc",
   "AVAV": "AeroVironment",
