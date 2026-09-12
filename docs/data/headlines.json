@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-12T23:41:23.421610+00:00",
+ "generated": "2026-09-12T23:47:55.466225+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -225,6 +225,22 @@
    "tickers": [
     "PKG",
     "JEF"
+   ]
+  },
+  {
+   "id": "c7a1169393f8",
+   "title": "LPL Financial Group Managing Director Sells 308 Shares for $110,100",
+   "link": "https://www.nasdaq.com/articles/lpl-financial-group-managing-director-sells-308-shares-110100",
+   "summary": "Key PointsThe transaction was valued at $110,100.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-12T23:15:01+00:00",
+   "tickers": [
+    "LPLA"
    ]
   },
   {
@@ -607,6 +623,38 @@
    "published": "2026-09-12T22:44:14+00:00",
    "tickers": [
     "TSLA"
+   ]
+  },
+  {
+   "id": "0c96d0a9ce4d",
+   "title": "$10,000 in Tesla When It Joined the S&P 500 Would Be About $15,700 Today. An Index Fund Would Have Done Better.",
+   "link": "https://www.nasdaq.com/articles/10000-tesla-when-it-joined-sp-500-would-be-about-15700-today-index-fund-would-have-done",
+   "summary": "Key PointsTesla closed at a record $695 on Dec. 18, 2020, and joined the S&P 500 at its full weight before the market opened the next trading day.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-12T22:38:01+00:00",
+   "tickers": [
+    "TSLA"
+   ]
+  },
+  {
+   "id": "88d35ee383f8",
+   "title": "Not Nvidia. Not Micron. This Dirt Cheap &quot;Magnificent Seven&quot; Stock Could Be the Biggest Winner of the Trillion-Dollar AI Race – Here’s the Case.",
+   "link": "https://www.nasdaq.com/articles/not-nvidia-not-micron-dirt-cheap-magnificent-seven-stock-could-be-biggest-winner-trillion",
+   "summary": "Key PointsThis tech player has seen its valuation tumble to bargain levels.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-12T22:35:01+00:00",
+   "tickers": [
+    "MU"
    ]
   },
   {
@@ -8879,54 +8927,6 @@
    "tickers": [
     "NWSA"
    ]
-  },
-  {
-   "id": "db1d10a3c1de",
-   "title": "Ken Fisher Added to Cisco and Palo Alto Networks. Their AI Security Bets Face Different Tests",
-   "link": "https://biztoc.com/x/8e1281ac783d0041?ref=rss",
-   "summary": "Ken Fisher's latest disclosed positions put two different approaches to AI infrastructure and security in the same portfolio. Cisco Systems, Inc. (NASDAQ:CSCO) combines networking equipment with security software. Palo Alto Networks, Inc. (NASDAQ:PANW) offers more concentrated exposure to security…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-12T13:45:20+00:00",
-   "tickers": [
-    "CSCO",
-    "PANW"
-   ]
-  },
-  {
-   "id": "cc9c0fbdef4a",
-   "title": "’s AI Bet Faces a $10.2 Billion Test",
-   "link": "https://biztoc.com/x/09d53fd6e52ef3d6?ref=rss",
-   "summary": "Alibaba Group Holding Limited (NYSE:BABA)'s race to amass vast sums of money to support its AI push led it to a recent $10.2 billion equity raise, drawing scrutiny from investors. The company issued 710 million shares at a discount price. On September 7, Bernstein SocGen lowered its price target…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-12T13:45:14+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6acf943797ff",
-   "title": "Apple and Taiwan Semiconductor Manufacturing Just Announced a Cutting-Edge Chip. 1 Stock Offers Far Greater Upside.",
-   "link": "https://www.nasdaq.com/articles/apple-and-taiwan-semiconductor-manufacturing-just-announced-cutting-edge-chip-1-stock",
-   "summary": "Key PointsTaiwan Semiconductor expects strong growth for the rest of 2026 and 2027.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-09-12T13:44:00+00:00",
-   "tickers": [
-    "TSM",
-    "AAPL"
-   ]
   }
  ],
  "ticker_names": {
@@ -8959,6 +8959,7 @@
   "AMD": "Advanced Micro Devices",
   "CF": "CF Industries Holdings",
   "CHTR": "Charter Communications",
+  "LPLA": "LPL Financial Holdings",
   "VOO": "Vanguard S&P 500 ETF",
   "OTLK": "Outlook Therapeutics",
   "FIX": "Comfort Systems USA",
@@ -9004,7 +9005,6 @@
   "QBTS": "D-Wave Quantum",
   "NET": "Cloudflare Inc",
   "AVAV": "AeroVironment",
-  "CSCO": "Cisco Systems",
   "KO": "The Coca-Cola",
   "SMR": "NuScale Power",
   "SOUN": "SoundHound AI",
