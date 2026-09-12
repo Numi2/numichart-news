@@ -1,8 +1,38 @@
 {
- "generated": "2026-09-12T12:53:23.176816+00:00",
+ "generated": "2026-09-12T12:59:54.704185+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "eea20193522c",
+   "title": "DGRO: The 1.89% Yield Is The Least Of Its Problems",
+   "link": "https://seekingalpha.com/article/4945778-dgro-the-1-89-percent-yield-is-the-least-of-its-problems?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-12T12:56:03+00:00",
+   "tickers": [
+    "DGRO"
+   ]
+  },
+  {
+   "id": "26a357875dfe",
+   "title": "Nvidia a potential investor in Anthropic IPO: report",
+   "link": "https://seekingalpha.com/news/4642263-nvidia-potential-investor-anthropic-ipo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "offering",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-12T12:55:28+00:00",
+   "tickers": []
+  },
   {
    "id": "2827a0e294f3",
    "title": "Inflation is outpacing wage growth again, squeezing Americans’ paychecks",
@@ -208,25 +238,6 @@
    "domain": "biztoc.com",
    "published": "2026-09-12T12:43:10+00:00",
    "tickers": []
-  },
-  {
-   "id": "2e0c641bac1e",
-   "title": "Stocks Shake Off CPI Report and Rally on Lower Oil Prices",
-   "link": "https://www.nasdaq.com/articles/stocks-shake-cpi-report-and-rally-lower-oil-prices-1",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) on Friday rose by +0.86%, the Dow Jones Industrial Average ($DOWI ) (DIA ) rose by +0.98%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) rose by +0.91%. E-mini S&P futures (ESU26 ) rose +0.83%, and September E-mini Nasdaq futures (NQU26...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-09-12T12:40:15+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
-   ]
   },
   {
    "id": "31d127d45d45",
@@ -6264,6 +6275,25 @@
    "tickers": []
   },
   {
+   "id": "2e0c641bac1e",
+   "title": "Stocks Shake Off CPI Report and Rally on Lower Oil Prices",
+   "link": "https://www.nasdaq.com/articles/stocks-shake-cpi-report-and-rally-lower-oil-prices-1",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) on Friday rose by +0.86%, the Dow Jones Industrial Average ($DOWI ) (DIA ) rose by +0.98%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) rose by +0.91%. E-mini S&P futures (ESU26 ) rose +0.83%, and September E-mini Nasdaq futures (NQU26...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-09-12T06:39:11+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
+  },
+  {
    "id": "ceb08e16ae03",
    "title": "Houthis seize Red Sea coast as Saudi pipeline shutdown deepens oil risks",
    "link": "https://www.investing.com/news/economy-news/houthis-seize-red-sea-coast-as-saudi-pipeline-shutdown-deepens-oil-risks-4898630",
@@ -8787,36 +8817,6 @@
    "domain": "biztoc.com",
    "published": "2026-09-12T02:55:19+00:00",
    "tickers": []
-  },
-  {
-   "id": "c5f60380354d",
-   "title": "LA dive bar famous for blasting Covid restrictions chased out of its 1970s home by developers as locals erupt",
-   "link": "https://biztoc.com/x/859b7ef3f1b75a59?ref=rss",
-   "summary": "At barely 5 p.m. on a Thursday in Sherman Oaks, the party has already started at Pineapple Hill Saloon & Grill. Def Leppard’s “Pour Some Sugar on Me” blasts from the sound system, and a crowd of regulars settles in along a well-worn bar. Flat-screen TVs glow — cued up and ready for the Los Angeles…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-12T02:55:07+00:00",
-   "tickers": []
-  },
-  {
-   "id": "0bea29395bac",
-   "title": "Boeing and workers union reach final contract offer",
-   "link": "https://biztoc.com/x/226862a9556c0887?ref=rss",
-   "summary": "The Society of Professional Engineering Employees in Aerospace (SPEEA) announced that its team concluded negotiations with Boeing and received a final contract offer, which the union is recommending m...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-12T02:55:02+00:00",
-   "tickers": [
-    "BA"
-   ]
   }
  ],
  "ticker_names": {
@@ -8825,6 +8825,7 @@
   "BNDX": "Vanguard Total International Bond ETF",
   "DIA": "SPDR Dow Jones Industrial Average ETF",
   "BTC": "Grayscale Bitcoin Mini Trust (BTC)",
+  "DGRO": "iShares Core Dividend Growth ETF",
   "IBM": "International Business Machines",
   "QSR": "Restaurant Brands International",
   "SEI": "Solaris Energy Infrastructure",
