@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-12T22:33:48.908067+00:00",
+ "generated": "2026-09-12T22:43:04.326490+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -14,7 +14,164 @@
    "type": "offering",
    "sentiment": "negative",
    "domain": "cnbc.com",
-   "published": "2026-09-12T22:24:41+00:00",
+   "published": "2026-09-12T22:39:01+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e693240b6e03",
+   "title": "’s Bank Charter Push Signals Bigger Ambitions in Digital Assets",
+   "link": "https://biztoc.com/x/bd63debaa058a5ff?ref=rss",
+   "summary": "Block, Inc. (NYSE:XYZ) is taking another step toward consolidating its digital asset operations under a federal regulatory framework. On September 8, it filed an application with the Office of the Comptroller of the Currency (OCC) to charter Builders Bank & Trust, N.A. If chartered, the Builders…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-12T22:30:32+00:00",
+   "tickers": [
+    "XYZ",
+    "CHTR",
+    "SQ"
+   ]
+  },
+  {
+   "id": "8c5c74130b49",
+   "title": "’s Potential Listen Labs Acquisition Could Boost Its Agentic AI Strategy",
+   "link": "https://biztoc.com/x/a059b76cc678bdca?ref=rss",
+   "summary": "Salesforce Inc. (NYSE:CRM) continues to strengthen its enterprise artificial intelligence offering as it looks to make AI a larger part of its customer relationship management ecosystem. On September 9, reports emerged that the company is prepared to spend as much as $2 billion to acquire Listen…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-09-12T22:30:32+00:00",
+   "tickers": [
+    "CRM",
+    "MSTR"
+   ]
+  },
+  {
+   "id": "b652561a7284",
+   "title": "Walgreens retreats as CVS quietly takes over suburban pharmacies",
+   "link": "https://biztoc.com/x/b4d38dc1a95eaaf5?ref=rss",
+   "summary": "Drive through almost any American suburb, and you will spot it: a shuttered Walgreens with a handwritten sign in the window telling customers their prescriptions moved down the road. More often than not, that road leads to a CVS. This pattern is playing out in strip malls across the country,…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-12T22:30:30+00:00",
+   "tickers": [
+    "CVS"
+   ]
+  },
+  {
+   "id": "7eed35a0c3d5",
+   "title": "’s Dividend Increase Has More Behind It",
+   "link": "https://biztoc.com/x/caecf3c86bc4c741?ref=rss",
+   "summary": "U.S. Bancorp (NYSE:USB) has raised its quarterly dividend by 3.8% to $0.54 per share. That brings the annualized payout at $2.16 and the yield at 3.5%. For income-focused investors, the increase adds to the bank's appeal. But the more important point is what supports the higher payout. U.S.…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-09-12T22:30:30+00:00",
+   "tickers": [
+    "USB"
+   ]
+  },
+  {
+   "id": "6b785c82ccf4",
+   "title": "Was This Week’s Top Stock — Here’s What Drove Gains",
+   "link": "https://biztoc.com/x/87dcedb91ee4ee15?ref=rss",
+   "summary": "ACV Auctions Inc. (NYSE:ACVA)—one of the leading car auction marketplaces in the US—saw its share price jump by 49 percent week-on-week, taking the first spot in the top-performing stocks in last week's shortened trading session. This followed an announcement from its Texas-based counterpart,…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-09-12T22:30:28+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b328deb79f28",
+   "title": "Here is Why Piper Sandler Named Q2 Holdings (QTWO) Its Top Pick",
+   "link": "https://biztoc.com/x/b81054e24a7bbedb?ref=rss",
+   "summary": "On September 10, Piper Sandler analyst Bill Carcache initiated coverage of Q2 Holdings, Inc. (NYSE:QTWO), giving the stock an Overweight rating and setting the price target at $82. The research firm started coverage on companies in the payments and consumer finance group and named Q2 Holdings,…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-09-12T22:30:18+00:00",
+   "tickers": []
+  },
+  {
+   "id": "7170ebe5c6e0",
+   "title": "’s 2 GW Australia AI Push Could Deepen Its Infrastructure Advantage",
+   "link": "https://biztoc.com/x/6047367398c20edc?ref=rss",
+   "summary": "NVIDIA Corporation (NASDAQ:NVDA) is expanding its global AI infrastructure ambitions, with Australia emerging as an important new market for its growing portfolio of GPUs, CPUs, networking products, and AI software. On September 9, it announced strategic partnerships with Australian NVIDIA Cloud…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-12T22:30:13+00:00",
+   "tickers": [
+    "NVDA"
+   ]
+  },
+  {
+   "id": "1ed21e169a23",
+   "title": "Sirius XM Eyes YouTube Ad Lift, Buybacks as Subscription Strategy Gains Traction",
+   "link": "https://biztoc.com/x/ef6e16bf462e0486?ref=rss",
+   "summary": "Key Points - Interested in Sirius XM Holdings Inc.? Here are five stocks we like better. - Sirius XM's core business improved in the first half: Revenue rose 1%, EBITDA increased 5% and free cash flow jumped 67%. Management is prioritizing subscription revenue and customer value over…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-09-12T22:30:02+00:00",
+   "tickers": [
+    "SIRI",
+    "MSTR",
+    "GOOGL"
+   ]
+  },
+  {
+   "id": "e4bbc80c5e66",
+   "title": "Houthis report strike on Saudi military base",
+   "link": "https://biztoc.com/x/c72e5d7737b31916?ref=rss",
+   "summary": "Yemen's Houthis reported a ballistic missile and drone strike targeting weapons depots and command centers at a military base in Sharurah, Saudi Arabia, saying the action was in response to ongoing re...",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-12T22:29:27+00:00",
+   "tickers": []
+  },
+  {
+   "id": "0ade7e992ced",
+   "title": "Construction robots are tackling America's housing shortage, but we're a long way from humanoid homebuilders",
+   "link": "https://biztoc.com/x/f66d05fe60b34fde?ref=rss",
+   "summary": "America's housing industry is under pressure to build more homes with a shrinking pool of skilled labor. Robotics and automation offer one potential answer, but the biggest gains so far are not coming from humanoid robots replacing workers on construction sites. They are coming from narrower…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-12T22:29:00+00:00",
    "tickers": []
   },
   {
@@ -872,20 +1029,6 @@
    "sentiment": "neutral",
    "domain": "biztoc.com",
    "published": "2026-09-12T21:13:48+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ceb08e16ae03",
-   "title": "Iran says Hormuz reopening depends on U.S. meeting its conditions",
-   "link": "https://www.investing.com/news/economy-news/houthis-seize-red-sea-coast-as-saudi-pipeline-shutdown-deepens-oil-risks-4898630",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-12T21:07:33+00:00",
    "tickers": []
   },
   {
@@ -1755,20 +1898,6 @@
    "tickers": []
   },
   {
-   "id": "f2c86553640f",
-   "title": "Saudis shut down oil pipeline as Houthis tighten grip on Red Sea shipping",
-   "link": "https://www.investing.com/news/commodities-news/saudis-shut-down-oil-pipeline-as-houthis-tighten-grip-on-red-sea-shipping-4898593",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-12T19:36:26+00:00",
-   "tickers": []
-  },
-  {
    "id": "de52bc23b2a2",
    "title": "US judge rules that Trump plan to halve FEMA workforce violated law",
    "link": "https://www.cnbc.com/2026/09/12/us-judge-rules-that-trump-plan-to-halve-fema-workforce-violated-law.html",
@@ -2086,20 +2215,6 @@
    "sentiment": "neutral",
    "domain": "biztoc.com",
    "published": "2026-09-12T19:19:30+00:00",
-   "tickers": []
-  },
-  {
-   "id": "4044adb0560e",
-   "title": "US judge rules that Trump plan to halve FEMA workforce violated law",
-   "link": "https://www.investing.com/news/economy-news/us-judge-rules-that-trump-plan-to-halvefema-workforce-violated-law-4898666",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-12T19:18:46+00:00",
    "tickers": []
   },
   {
@@ -3767,6 +3882,20 @@
    "tickers": []
   },
   {
+   "id": "f2c86553640f",
+   "title": "Saudis shut down oil pipeline as Houthis tighten grip on Red Sea shipping",
+   "link": "https://www.investing.com/news/commodities-news/saudis-shut-down-oil-pipeline-as-houthis-tighten-grip-on-red-sea-shipping-4898593",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-12T17:24:25+00:00",
+   "tickers": []
+  },
+  {
    "id": "dbb20307f728",
    "title": "Your Rich BFF’s 4-Step Guide to Getting Your Money Right",
    "link": "https://biztoc.com/x/6b4326282169fc0b?ref=rss",
@@ -4317,6 +4446,20 @@
    "sentiment": "neutral",
    "domain": "nasdaq.com",
    "published": "2026-09-12T17:05:01+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ceb08e16ae03",
+   "title": "Iran says Hormuz reopening depends on U.S. meeting its conditions",
+   "link": "https://www.investing.com/news/economy-news/houthis-seize-red-sea-coast-as-saudi-pipeline-shutdown-deepens-oil-risks-4898630",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-12T17:04:09+00:00",
    "tickers": []
   },
   {
@@ -6121,6 +6264,20 @@
    "tickers": [
     "RIVN"
    ]
+  },
+  {
+   "id": "4044adb0560e",
+   "title": "US judge rules that Trump plan to halve FEMA workforce violated law",
+   "link": "https://www.investing.com/news/economy-news/us-judge-rules-that-trump-plan-to-halvefema-workforce-violated-law-4898666",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-12T15:24:53+00:00",
+   "tickers": []
   },
   {
    "id": "439edc2fea7e",
@@ -8752,154 +8909,6 @@
    "domain": "biztoc.com",
    "published": "2026-09-12T13:19:58+00:00",
    "tickers": []
-  },
-  {
-   "id": "e2abb8e557f2",
-   "title": "14 Things That Are More Expensive Than Ever",
-   "link": "https://biztoc.com/x/34750c9c5bc2f753?ref=rss",
-   "summary": "Behind every expensive product, food, and high-cost job, there's a fascinating story. Lapis lazuli is the most expensive pigment in ...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-12T13:19:49+00:00",
-   "tickers": []
-  },
-  {
-   "id": "986f0bccd0bb",
-   "title": "Analysis-Houthi advance in Yemen puts U.S. in a new bind",
-   "link": "https://www.investing.com/news/economic-indicators/analysishouthi-advance-in-yemen-puts-us-in-a-new-bind-4898657",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-12T13:18:36+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ee9cf5abc21a",
-   "title": "FLOT: It's The Perfect Time For Floaters, In My View",
-   "link": "https://seekingalpha.com/article/4945782-flot-its-the-perfect-time-for-floaters-in-my-view?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-12T13:17:12+00:00",
-   "tickers": [
-    "FLOT"
-   ]
-  },
-  {
-   "id": "3bc96320c00f",
-   "title": "Broadcom's First Mover Advantage Is Dead - Robust, Multi-Year XPU Tailwinds",
-   "link": "https://seekingalpha.com/article/4945726-broadcoms-first-mover-advantage-is-dead-robust-multi-year-xpu-tailwinds?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-12T13:15:16+00:00",
-   "tickers": [
-    "AVGO"
-   ]
-  },
-  {
-   "id": "24cf73a61dbb",
-   "title": "Crypto billionaires give $97 million to Reform UK, fueling concerns about money in politics",
-   "link": "https://biztoc.com/x/a184217ec9e0f038?ref=rss",
-   "summary": "Reform UK, the anti-immigration party led by Brexit campaigner Nigel Farage, received 72 million pounds ($97 million) from two cryptocurrency billionaires this weekend, fueling concerns about money in British politics. After news broke that Ben Delo, a co-founder of the BitMEX cryptocurrency…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-12T13:15:11+00:00",
-   "tickers": []
-  },
-  {
-   "id": "7d07696b920a",
-   "title": "Tom Lee Says Crypto Will Be “Really Bullish” For the Next 12 Months",
-   "link": "https://biztoc.com/x/30fc28e798c8c9ab?ref=rss",
-   "summary": "Tom Lee says the next 12 months will be \"really bullish\" for crypto. The Wall Street strategist has reason to hope he is right, because the company he chairs sits about $5 billion underwater. Lee runs research at Fundstrat Global Advisors and chairs BitMine Immersion Technologies, which holds 5.93…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-12T13:15:06+00:00",
-   "tickers": [
-    "BLSH"
-   ]
-  },
-  {
-   "id": "865bf5664a80",
-   "title": "Tehran won’t surrender to the U.S., Iranian President Pezeshkian says, as India's Modi urges dialogue and peace",
-   "link": "https://www.cnbc.com/2026/09/12/iran-us-israel-war-india-brics.html",
-   "summary": "On his first visit to India, Iranian President Masoud Pezeshkian said he will not surrender to the U.S. and Israel, as New Delhi renewed its appeal for peace.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "cnbc.com",
-   "published": "2026-09-12T13:15:04+00:00",
-   "tickers": []
-  },
-  {
-   "id": "1212ebe4eda9",
-   "title": "GM Sold Fewer Cars in China This Year. Its China Profits Nearly Tripled",
-   "link": "https://biztoc.com/x/50cc68c4a3002ab5?ref=rss",
-   "summary": "Somewhere in the noise about foreign automakers cutting prices on gasoline-powered cars in China, a stranger number went almost unnoticed. General Motors' own filing with the Securities and Exchange Commission shows its Chinese joint ventures moved fewer cars in the first half of 2026 than a year…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-09-12T13:15:01+00:00",
-   "tickers": [
-    "GM"
-   ]
-  },
-  {
-   "id": "6f6a4ce6fa4a",
-   "title": "Cardiol Therapeutics: Q1 2027 Readout Will Be Make-Or-Break For Maveric",
-   "link": "https://seekingalpha.com/article/4945775-cardiol-therapeutics-1q27-readout-will-be-make-or-break-for-maveric?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-12T13:15:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "aa1bbd59fe81",
-   "title": "NEOS Has Great ETFs But These 2 Aren't Ones I'd Own",
-   "link": "https://seekingalpha.com/article/4945641-neos-has-great-etfs-but-these-2-arent-ones-id-own?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-12T13:15:00+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8913,7 +8922,6 @@
   "IBM": "International Business Machines",
   "OLLI": "Ollie's Bargain Outlet Holdings",
   "QSR": "Restaurant Brands International",
-  "FLOT": "iShares Floating Rate Bond ETF",
   "WST": "West Pharmaceutical Services",
   "QQQ": "Invesco QQQ Trust, Series 1",
   "FBIN": "Fortune Brands Innovations",
@@ -8979,9 +8987,11 @@
   "SMR": "NuScale Power",
   "SOUN": "SoundHound AI",
   "WFC": "Wells Fargo &",
+  "MSTR": "MicroStrategy",
   "ADC": "Agree Realty",
   "SPY": "SPDR S&P 500",
   "TM": "Toyota Motor",
+  "USB": "U.S. Bancorp",
   "GOOGL": "Google Cloud",
   "TSLA": "Supercharger",
   "NVDA": "Grace Hopper",
@@ -8994,6 +9004,7 @@
   "CBRE": "CBRE Group",
   "CLSK": "CleanSpark",
   "CMS": "CMS Energy",
+  "CRM": "Salesforce",
   "CVS": "CVS Health",
   "F": "Ford Motor",
   "MCD": "McDonald's",
@@ -9012,7 +9023,6 @@
   "SQ": "Cash App",
   "SNAP": "Snapchat",
   "FOX": "Fox Corp",
-  "BLSH": "Bullish",
   "BPOP": "Popular",
   "CMCSA": "Comcast",
   "IOT": "Samsara",
