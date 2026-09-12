@@ -1,11 +1,27 @@
 {
- "generated": "2026-09-12T20:53:17.582272+00:00",
+ "generated": "2026-09-12T21:01:26.239713+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
   {
+   "id": "53f3bfcc1482",
+   "title": "How to Lure the Spendy and the Thrifty? Bring On the ‘Barbell.’",
+   "link": "https://www.nytimes.com/2026/09/12/business/barbell-pricing-restaurants.html",
+   "summary": "Restaurant chains are trying to draw in both kinds of consumers by offering low-cost and more-premium options at the same time.",
+   "article_text": "",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-09-12T20:58:14+00:00",
+   "tickers": [
+    "QSR"
+   ]
+  },
+  {
    "id": "6b559a049b69",
-   "title": "Anthropic’s Amodei shares plan to ‘slow the pace’ of growing AI capabilities; Musk and Altman express support",
+   "title": "Musk, Altman support Anthropic’s Amodei as he shares plan to ‘slow the pace’ of advancing AI capabilities",
    "link": "https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html",
    "summary": "Amodei's essay landed after an Anthropic researcher set off a firestorm on social media this week by announcing he quit his job at the company.",
    "article_text": "",
@@ -14,8 +30,24 @@
    "type": "markets",
    "sentiment": "neutral",
    "domain": "cnbc.com",
-   "published": "2026-09-12T20:46:35+00:00",
+   "published": "2026-09-12T20:55:55+00:00",
    "tickers": []
+  },
+  {
+   "id": "447c7c497aa8",
+   "title": "Berkshire Hathaway Has Paid Exactly 1 Dividend Since 1965. Here's Where the Cash Goes Instead.",
+   "link": "https://www.nasdaq.com/articles/berkshire-hathaway-has-paid-exactly-1-dividend-1965-heres-where-cash-goes-instead",
+   "summary": "Key PointsBerkshire last issued a dividend in 1967, deciding since then to focus mainly on reinvesting its earnings.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-09-12T20:50:00+00:00",
+   "tickers": [
+    "BRK-A"
+   ]
   },
   {
    "id": "2cd59b608ea1",
@@ -122,6 +154,22 @@
     "NDAQ",
     "SPY",
     "DIA"
+   ]
+  },
+  {
+   "id": "70fc8f9bdaa5",
+   "title": "3 Reasons I Think Cathie Wood Is Buying Robinhood Stock Again",
+   "link": "https://www.nasdaq.com/articles/3-reasons-i-think-cathie-wood-buying-robinhood-stock-again",
+   "summary": "Key PointsCathie Wood's flagship fund bought Robinhood shares twice in early September, after a summer of selling.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-12T20:32:01+00:00",
+   "tickers": [
+    "HOOD"
    ]
   },
   {
@@ -8850,50 +8898,6 @@
    "sentiment": "positive",
    "domain": "biztoc.com",
    "published": "2026-09-12T12:15:09+00:00",
-   "tickers": []
-  },
-  {
-   "id": "923a4c45d86e",
-   "title": "These 5 Houston-area districts are asking voters for $137M as enrollment drops and costs climb",
-   "link": "https://biztoc.com/x/de5c095aac38d8ed?ref=rss",
-   "summary": "Five Houston-area school districts are asking voters for a combined $137 million in new revenue this November to shore up multi-million dollar budget deficits driven by declining enrollment, inflation and rising insurance costs. Voters in Cy-Fair, Channelview, Huffman, La Porte and Spring ISDs can…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-12T12:15:06+00:00",
-   "tickers": []
-  },
-  {
-   "id": "7bccebd1182e",
-   "title": "Robinhood Markets Targets Global Growth With Tokenization, AI Trading and Wealth Push",
-   "link": "https://biztoc.com/x/a49e31b4d80b2518?ref=rss",
-   "summary": "Key Points - Interested in Robinhood Markets, Inc.? Here are five stocks we like better. - Robinhood is pursuing a broad ownership-focused strategy spanning active trading, integrated brokerage, banking, credit-card, wallet and retirement products, with AI used to personalize customer…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-12T12:15:05+00:00",
-   "tickers": [
-    "HOOD"
-   ]
-  },
-  {
-   "id": "2c1fcc566318",
-   "title": "Before AI Destroys The World, I Would First Invest In These Bottlenecks",
-   "link": "https://seekingalpha.com/article/4945631-before-ai-destroys-world-i-would-first-invest-in-these-bottlenecks?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-12T12:15:00+00:00",
    "tickers": []
   }
  ],
