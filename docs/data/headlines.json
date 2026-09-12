@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-12T16:30:23.320416+00:00",
+ "generated": "2026-09-12T16:38:31.992114+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -150,6 +150,22 @@
    "domain": "ft.com",
    "published": "2026-09-12T16:25:32+00:00",
    "tickers": []
+  },
+  {
+   "id": "3f25c92a123d",
+   "title": "HIMS Investors Have Opportunity to Lead Hims &amp; Hers Health, Inc. Securities Fraud Lawsuit",
+   "link": "https://www.prnewswire.com/news-releases/hims-investors-have-opportunity-to-lead-hims--hers-health-inc-securities-fraud-lawsuit-302876555.html",
+   "summary": "NEW YORK, Sept. 12, 2026 /PRNewswire/ -- Why: Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities of Hims & Hers Health, Inc. (NYSE: HIMS) between August 4, 2025 and July 29, 2026, both dates inclusive (the \"Class Period\"), of the important November 2, 2026...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "prnewswire.com",
+   "published": "2026-09-12T16:25:00+00:00",
+   "tickers": [
+    "HIMS"
+   ]
   },
   {
    "id": "7fa48715c812",
@@ -428,6 +444,20 @@
    "tickers": [
     "LULU"
    ]
+  },
+  {
+   "id": "84c8322cb0c6",
+   "title": "Canadian boycott of US products pushes grocers to adapt, explore new supply sources",
+   "link": "https://www.investing.com/news/stock-market-news/canadian-boycott-of-us-products-pushes-grocers-to-adapt-explore-new-supply-sources-4898644",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-12T16:06:23+00:00",
+   "tickers": []
   },
   {
    "id": "a2310b5ec90e",
@@ -4861,20 +4891,6 @@
    "tickers": []
   },
   {
-   "id": "84c8322cb0c6",
-   "title": "Canadian boycott of US products pushes grocers to adapt, explore new supply sources",
-   "link": "https://www.investing.com/news/stock-market-news/canadian-boycott-of-us-products-pushes-grocers-to-adapt-explore-new-supply-sources-4898644",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-12T12:19:05+00:00",
-   "tickers": []
-  },
-  {
    "id": "41993245a79c",
    "title": "BRICS adopts joint declaration, urges ’maximum restraint’ in Mideast",
    "link": "https://www.investing.com/news/world-news/brics-adopts-joint-declaration-urges-maximum-restraint-in-mideast-4898654",
@@ -8852,20 +8868,6 @@
    "domain": "biztoc.com",
    "published": "2026-09-12T09:13:05+00:00",
    "tickers": []
-  },
-  {
-   "id": "b05d1aee2dde",
-   "title": "Medicare's hidden surcharge: Every retiree should know about IRMAA",
-   "link": "https://biztoc.com/x/4c412c8ff8c4c6e4?ref=rss",
-   "summary": "When planning for retirement, most people account for housing, travel, daily living expenses, and general healthcare costs. However, it's easy to overlook one retirement expense: the Income-Related Monthly Adjustment Amount, commonly known as IRMAA. If you have a large pension, substantial…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-12T09:12:56+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8908,6 +8910,7 @@
   "LULU": "lululemon athletica",
   "BRK-A": "Berkshire Hathaway",
   "CRK": "Comstock Resources",
+  "HIMS": "Hims & Hers Health",
   "MLI": "Mueller Industries",
   "MRVL": "Marvell Technology",
   "NXPI": "NXP Semiconductors",
