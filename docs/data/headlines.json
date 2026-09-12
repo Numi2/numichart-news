@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-12T05:52:54.199282+00:00",
+ "generated": "2026-09-12T05:58:47.949025+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -2342,7 +2342,7 @@
    "link": "https://www.prnewswire.com/news-releases/achieve-publishes-new-online-guidance-for-freedom-debt-relief-and-achieve-customers-302876793.html",
    "summary": "SAN MATEO, Calif., Sept. 11, 2026 /PRNewswire/ -- Today, Achieve announced the publication of a new online resource designed to provide proactive, transparent customer guidance. As part of a broader financial wellness ecosystem, this newly launched initiative helps consumers understand...",
    "article_text": "",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "earnings",
    "sentiment": "neutral",
@@ -3012,7 +3012,7 @@
    "link": "https://www.prnewswire.com/news-releases/icw-group-honors-25th-anniversary-of-sept-11-through-day-of-service-302876778.html",
    "summary": "SAN DIEGO, Sept. 11, 2026 /PRNewswire/ -- In honor of the 25th anniversary of Sept. 11, ICW Group Insurance Companies joined thousands of volunteers throughout the country to pack an estimated 20 million meals for people facing food insecurity. Organized by nonprofit 9/11 Day, these...",
    "article_text": "",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -5352,6 +5352,20 @@
    ]
   },
   {
+   "id": "efe2fc4b14cc",
+   "title": "B. Riley Securities Initiates Coverage of Neuronetics at Buy",
+   "link": "https://www.nasdaq.com/articles/b-riley-securities-initiates-coverage-neuronetics-buy",
+   "summary": "Fintel reports that on September 11, 2026, B. Riley Securities initiated coverage of Neuronetics (NASDAQGM:STIM) with a Buy recommendation.Neuronetics, Inc., based in the United States, operates primarily within the medical device industry, focusing on pioneering treatments for p",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "analyst",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-11T23:43:15+00:00",
+   "tickers": []
+  },
+  {
    "id": "748c9e0cd354",
    "title": "Axe Compute Announces Inducement Grant Under Nasdaq Listing Rule 5635(c)(4)",
    "link": "https://www.globenewswire.com/news-release/2026/09/11/3360561/37244/en/axe-compute-announces-inducement-grant-under-nasdaq-listing-rule-5635-c-4.html",
@@ -5692,6 +5706,22 @@
    "published": "2026-09-11T23:37:06+00:00",
    "tickers": [
     "DELL"
+   ]
+  },
+  {
+   "id": "c121df7c8941",
+   "title": "Keybanc Initiates Coverage of Corteva at Sector Weight",
+   "link": "https://www.nasdaq.com/articles/keybanc-initiates-coverage-corteva-sector-weight",
+   "summary": "Fintel reports that on September 11, 2026, Keybanc initiated coverage of Corteva (NYSE:CTVA) with a Sector Weight recommendation. This initiation follows a prior action by Keybanc on October 3, 2025, when the firm downgraded Corteva from an Overweight rating to a Sector Weight ra",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "analyst",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-11T23:36:58+00:00",
+   "tickers": [
+    "CTVA"
    ]
   },
   {
@@ -8870,36 +8900,6 @@
     "BPOP",
     "BTC"
    ]
-  },
-  {
-   "id": "a77cf02abe14",
-   "title": "Dunelm Group plc (DNLMY) Discusses Growth Strategy Focused on Omnichannel Expansion, Cost Reduction and Business Simplification Transcript",
-   "link": "https://seekingalpha.com/article/4945576-dunelm-group-plc-dnlmy-discusses-growth-strategy-focused-on-omnichannel-expansion-cost?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-11T21:57:04+00:00",
-   "tickers": [
-    "MSTR"
-   ]
-  },
-  {
-   "id": "ef078ac9f75b",
-   "title": "Greenwave Technology Solutions raises $3.75 million in private placement of preferred stock",
-   "link": "https://www.investing.com/news/sec-filings/greenwave-technology-solutions-raises-375-million-in-private-placement-of-preferred-stock-93CH-4898509",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-09-11T21:56:15+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -9017,6 +9017,7 @@
   "SQ": "Cash App",
   "SNAP": "Snapchat",
   "BPOP": "Popular",
+  "CTVA": "Corteva",
   "EQIX": "Equinix",
   "GLW": "Corning",
   "KBH": "KB Home",
