@@ -1,8 +1,24 @@
 {
- "generated": "2026-09-12T08:30:17.369543+00:00",
+ "generated": "2026-09-12T08:43:19.231888+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "5258fc1c4ffe",
+   "title": "1 Top Warren Buffett Stock for Dividend Investors",
+   "link": "https://www.nasdaq.com/articles/1-top-warren-buffett-stock-dividend-investors-1",
+   "summary": "Key PointsWarren Buffett's successor as CEO of Berkshire Hathaway initiated a position this year.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-09-12T08:35:00+00:00",
+   "tickers": [
+    "BRK-A"
+   ]
+  },
   {
    "id": "e72653d630a2",
    "title": "SpaceX Eyes Orbital AI Compute as Starship Reuse Pushes Costs Lower",
@@ -105,6 +121,24 @@
    "domain": "biztoc.com",
    "published": "2026-09-12T08:27:03+00:00",
    "tickers": []
+  },
+  {
+   "id": "c9a76ac52287",
+   "title": "Billionaire Stanley Druckenmiller Dumped Broadcom, Intel, and Micron for This Chip Stock. Here's Why.",
+   "link": "https://www.nasdaq.com/articles/billionaire-stanley-druckenmiller-dumped-broadcom-intel-and-micron-chip-stock-heres-why",
+   "summary": "Key PointsDruckenmiller has a long history of success as a hedge fund manager and today oversees more than $5 billion at his family office.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-12T08:23:00+00:00",
+   "tickers": [
+    "AVGO",
+    "MU",
+    "INTC"
+   ]
   },
   {
    "id": "82cc954b88f6",
@@ -8827,34 +8861,6 @@
    "domain": "biztoc.com",
    "published": "2026-09-11T22:57:14+00:00",
    "tickers": []
-  },
-  {
-   "id": "2515ddc8b4bb",
-   "title": "US declares end of largest recorded cyclosporiasis outbreak",
-   "link": "https://biztoc.com/x/a761ddeef5a652e3?ref=rss",
-   "summary": "By Siddhi Mahatole Sept 11 (Reuters) - U.S. health authorities on Friday declared the nation's largest recorded multistate cyclosporiasis outbreak over, after contaminated iceberg lettuce sickened thousands, though the FDA said it was still probing how the parasite entered the food supply. The…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-11T22:57:12+00:00",
-   "tickers": []
-  },
-  {
-   "id": "c98d2f15f3dc",
-   "title": "GT Biopharma, Inc. (GTBP) Discusses TriKE Platform, Clinical Progress, and the Case for NK Cell Immunotherapy Transcript",
-   "link": "https://seekingalpha.com/article/4945648-gt-biopharma-inc-gtbp-discusses-trike-platform-clinical-progress-and-the-case-for-nk-cell?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-11T22:57:04+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8889,6 +8895,7 @@
   "SMCI": "Super Micro Computer",
   "IP": "International Paper",
   "LULU": "lululemon athletica",
+  "BRK-A": "Berkshire Hathaway",
   "COGT": "Cogent Biosciences",
   "HIMS": "Hims & Hers Health",
   "MRVL": "Marvell Technology",
@@ -8987,6 +8994,7 @@
   "SPCX": "SpaceX",
   "AA": "Alcoa",
   "CHWY": "Chewy",
+  "INTC": "Intel",
   "KEX": "Kirby",
   "KKR": "KKR &",
   "QRVO": "Qorvo",
