@@ -1,8 +1,24 @@
 {
- "generated": "2026-09-12T06:55:03.917733+00:00",
+ "generated": "2026-09-12T07:01:27.362455+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "1763f9f5e7ec",
+   "title": "Oracle: You Didn't Miss It, There's Still 40% Upside",
+   "link": "https://seekingalpha.com/article/4945731-oracle-you-didnt-miss-it-theres-still-40-percent-upside?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-12T06:57:54+00:00",
+   "tickers": [
+    "ORCL"
+   ]
+  },
   {
    "id": "96a9bb6211bd",
    "title": "AI's Growing Debt Appetite: Why This Time May Be Different",
@@ -1495,7 +1511,7 @@
    "type": "ma",
    "sentiment": "neutral",
    "domain": "nytimes.com",
-   "published": "2026-09-12T04:01:14+00:00",
+   "published": "2026-09-12T04:01:15+00:00",
    "tickers": []
   },
   {
@@ -8868,22 +8884,6 @@
    "domain": "biztoc.com",
    "published": "2026-09-11T22:12:56+00:00",
    "tickers": []
-  },
-  {
-   "id": "a6a3df2db49b",
-   "title": "’s Curation Product Could Be a Game Changer for Its Growth Story",
-   "link": "https://biztoc.com/x/e4098567538ac495?ref=rss",
-   "summary": "JFrog Ltd (NASDAQ:FROG) could be staring at a significant growth opportunity with its Curation product designed to help enterprises secure software supply chains. With the new product, the company plans to capitalize on the sharp rise in malicious npm packages, which surged 451% year over year. On…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-11T22:12:46+00:00",
-   "tickers": [
-    "FROG"
-   ]
   }
  ],
  "ticker_names": {
@@ -9020,7 +9020,6 @@
   "AA": "Alcoa",
   "CHWY": "Chewy",
   "FDX": "FedEx",
-  "FROG": "JFrog",
   "KEX": "Kirby",
   "KKR": "KKR &",
   "QRVO": "Qorvo",
