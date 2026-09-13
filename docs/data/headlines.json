@@ -1,8 +1,50 @@
 {
- "generated": "2026-09-13T17:49:19.191008+00:00",
+ "generated": "2026-09-13T17:55:56.845808+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "842ae60bd820",
+   "title": "‘Practical Magic 2’ tanks with $30M opening as domestic box office slows",
+   "link": "https://seekingalpha.com/news/4642304-practical-magic-2-tanks-with-30m-opening-as-domestic-box-office-slows?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-13T17:53:49+00:00",
+   "tickers": []
+  },
+  {
+   "id": "2d6b52deccd4",
+   "title": "GDMN: Gold And Gold Miners Finally Set Up Well Into Q4 (Rating Upgrade)",
+   "link": "https://seekingalpha.com/article/4945861-gdmn-gold-and-gold-miners-finally-set-up-well-into-q4-rating-upgrade?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-13T17:50:57+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ed4b64e0937e",
+   "title": "Washington scrambles to meet calls for AI guardrails while the window to act closes",
+   "link": "https://www.cnbc.com/2026/09/13/ai-congress-anthropic-openai-crisis.html",
+   "summary": "The House is scheduled to be sent home in the coming days until after November's midterm elections, leaving a narrow window to pass any form of AI regulation.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-09-13T17:48:53+00:00",
+   "tickers": []
+  },
   {
    "id": "8acbfba94941",
    "title": "The Units’ Digital Stimulation is synthpunk perfection",
@@ -912,20 +954,6 @@
    "sentiment": "neutral",
    "domain": "cnbc.com",
    "published": "2026-09-13T16:57:43+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ed4b64e0937e",
-   "title": "Washington scrambles to meet calls for AI guardrails while the window to act closes",
-   "link": "https://www.cnbc.com/2026/09/13/ai-congress-anthropic-openai-crisis.html",
-   "summary": "The House is scheduled to be sent home in the coming days until after November's midterm elections, leaving a narrow window to pass any form of AI regulation.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-09-13T16:56:17+00:00",
    "tickers": []
   },
   {
@@ -4054,7 +4082,7 @@
    "link": "https://www.prnewswire.com/news-releases/insurance-agent-nick-hogan-explains-what-first-time-homeowners-often-miss-about-homeowners-insurance-in-hellonation-302876446.html",
    "summary": "The article explains key parts of a homeowners insurance policy that every first-time buyer should understand before filing a claim. CAPE GIRARDEAU, Mo., Sept. 13, 2026 /PRNewswire/ -- What does homeowners insurance actually cover? A HelloNation article featuring insights from Insurance...",
    "article_text": "",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -8775,36 +8803,6 @@
    "domain": "biztoc.com",
    "published": "2026-09-13T09:30:50+00:00",
    "tickers": []
-  },
-  {
-   "id": "a319f44ce204",
-   "title": "Schwab warns of a spending shift waiting for retirees",
-   "link": "https://biztoc.com/x/cfe25488789bc05e?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-09-13T09:30:10+00:00",
-   "tickers": [
-    "SCHF"
-   ]
-  },
-  {
-   "id": "da4022373590",
-   "title": "One of X’s most notorious ragebaiters explains how the outrage business earned him $80,000—and why he’ll keep posting even as the creator model shifts",
-   "link": "https://biztoc.com/x/7127937c7f2044e3?ref=rss",
-   "summary": "In June 2024, Robby Lefkowitz was sitting at his desk, working for a protein company and “bored,” when he decided to have some fun online. Noticing that a bunch of X accounts were popping up, naming themselves after neighborhoods—East Village Guy, Williamsburg Wrangler—Lefkowitz decided to make…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-13T09:30:10+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8814,7 +8812,6 @@
   "DIA": "SPDR Dow Jones Industrial Average ETF",
   "TSM": "Taiwan Semiconductor Manufacturing",
   "QSR": "Restaurant Brands International",
-  "SCHF": "Schwab International Equity ETF",
   "CTSH": "Cognizant Technology Solutions",
   "VGT": "Vanguard Information Tech ETF",
   "WST": "West Pharmaceutical Services",
