@@ -1,8 +1,39 @@
 {
- "generated": "2026-09-13T19:46:32.316902+00:00",
+ "generated": "2026-09-13T19:52:52.046946+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "a2dbd16bb787",
+   "title": "Trump presses Fed for lower rates ahead of policy meeting",
+   "link": "https://seekingalpha.com/news/4642308-trump-presses-fed-for-lower-rates-ahead-of-policy-meeting?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-13T19:45:42+00:00",
+   "tickers": []
+  },
+  {
+   "id": "0d03eaa04cac",
+   "title": "EWY: 40 Points Ahead Of SOXX, But There's A Catch",
+   "link": "https://seekingalpha.com/article/4945867-ewy-40-points-ahead-of-soxx-but-theres-a-catch?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-13T19:44:59+00:00",
+   "tickers": [
+    "EWY",
+    "SOXX"
+   ]
+  },
   {
    "id": "e03bddd500db",
    "title": "Mayor Brandon Johnson declares reelection campaign",
@@ -517,6 +548,20 @@
    "tickers": [
     "PEP"
    ]
+  },
+  {
+   "id": "297142da1a88",
+   "title": "Bitcoin stalls at $77,338 between key support and resistance: Live",
+   "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-775k822k-range-live-levels-93CH-4890481",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-13T19:02:21+00:00",
+   "tickers": []
   },
   {
    "id": "ff161a8eec1c",
@@ -8767,55 +8812,12 @@
    "domain": "biztoc.com",
    "published": "2026-09-13T11:30:23+00:00",
    "tickers": []
-  },
-  {
-   "id": "9207fb3bd1b1",
-   "title": "She’s 65 and on Her Husband’s Company Plan. It’s Had 12 Employees for Years, and That Makes Medicare Primary Whether or Not She Enrolls",
-   "link": "https://biztoc.com/x/db2a976aa6e06e63?ref=rss",
-   "summary": "The post She’s 65 and on Her Husband’s Company Plan. It’s Had 12 Employees for Years, and That Makes Medicare Primary Whether or Not She Enrolls. appeared first on 24/7 Wall St.. A 65-year-old woman is on her husband’s group health plan through his business. He’s 58, still working, still paying…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-13T11:30:11+00:00",
-   "tickers": []
-  },
-  {
-   "id": "2202c1cc6a9b",
-   "title": "Roivant Sciences: Diverse Exposure To Biotech Niches Through Vants",
-   "link": "https://seekingalpha.com/article/4945843-roivant-sciences-diverse-exposure-to-biotech-niches-through-vants?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-13T11:30:08+00:00",
-   "tickers": [
-    "ROIV"
-   ]
-  },
-  {
-   "id": "f43ff1dd31f0",
-   "title": "Xi says China will take lead to foster AI, tech cooperation among BRICS countries",
-   "link": "https://biztoc.com/x/6b46c211b87a8163?ref=rss",
-   "summary": "China will take the lead to help foster artificial-intelligence collaboration and development among developing countries, President Xi Jinping said at the BRICS bloc summit in New Delhi. China will pioneer the establishment of a BRICS AI open-source community, support the cooperation in developing…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-13T11:30:05+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
   "JIRE": "JPMorgan International Research Enhanced Equity ETF",
   "DFAI": "Dimensional International Core Equity Market ETF",
+  "SOXX": "iShares PHLX SOX Semiconductor Sector Index Fund",
   "VYMI": "Vanguard International High Dividend Yield ETF",
   "DIA": "SPDR Dow Jones Industrial Average ETF",
   "TSM": "Taiwan Semiconductor Manufacturing",
@@ -8823,6 +8825,7 @@
   "CTSH": "Cognizant Technology Solutions",
   "FLOT": "iShares Floating Rate Bond ETF",
   "VGT": "Vanguard Information Tech ETF",
+  "EWY": "iShares MSCI South Korea ETF",
   "WST": "West Pharmaceutical Services",
   "CHH": "Choice Hotels International",
   "QQQ": "Invesco QQQ Trust, Series 1",
@@ -8851,7 +8854,6 @@
   "AXP": "American Express",
   "COST": "Costco Wholesale",
   "HWM": "Howmet Aerospace",
-  "ROIV": "Roivant Sciences",
   "UPST": "Upstart Holdings",
   "GE": "General Electric",
   "AMLP": "Alerian MLP ETF",
