@@ -1,8 +1,92 @@
 {
- "generated": "2026-09-13T20:28:45.028946+00:00",
+ "generated": "2026-09-13T20:37:20.010580+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "a9ca3008623e",
+   "title": "Talks between Iran, Gulf states postponed",
+   "link": "https://biztoc.com/x/b4eabe2fd93d2c6c?ref=rss",
+   "summary": "Omani Foreign Minister Badr Albusaidi announced on Sunday that the upcoming meeting between Iran and Gulf states has been canceled. It was scheduled for Monday in Salalah, Oman.Albusaidi stated that t...",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-13T20:31:34+00:00",
+   "tickers": []
+  },
+  {
+   "id": "76b20c9cd268",
+   "title": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
+   "link": "https://biztoc.com/x/5f47e4ba495c59c2?ref=rss",
+   "summary": "Another Y Combinator Demo Day took place on Thursday, but this batch looked a little different. While every cohort brings a fresh wave of founders, the startups presenting this week skewed far more toward deep tech than in past years. As we do every quarter, TechCrunch asked early-stage VCs to…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-13T20:31:27+00:00",
+   "tickers": []
+  },
+  {
+   "id": "704767c52da2",
+   "title": "King Charles Will Convene A.I. Leaders Amid Calls to Slow Development",
+   "link": "https://biztoc.com/x/7391d7030edcc4d3?ref=rss",
+   "summary": "As alarm from the highest echelons of A.I. companies mounts, Buckingham Palace said the king would meet with executives to explore how the technology can be used for good.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-13T20:31:26+00:00",
+   "tickers": []
+  },
+  {
+   "id": "314c3c307a3d",
+   "title": "Trump Pledges to Rescind 10% Tariff on Irish Whiskey",
+   "link": "https://biztoc.com/x/18c22e1d2cb9e19e?ref=rss",
+   "summary": "The president closed out his weekend visit to Ireland by making the announcement at the Irish Open golf tournament.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-13T20:31:16+00:00",
+   "tickers": []
+  },
+  {
+   "id": "3e623f8b7ea9",
+   "title": "This simple mistake can give your money to the wrong person when you die. Here’s how to protect your estate.",
+   "link": "https://www.marketwatch.com/story/this-simple-mistake-can-cost-your-loved-ones-their-share-of-your-estate-heres-how-to-protect-your-money-99374a95?mod=mw_rss_topstories",
+   "summary": "Estate-planning crises usually come down to small oversights.",
+   "article_text": "",
+   "source": "MarketWatch",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "marketwatch.com",
+   "published": "2026-09-13T20:30:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b21204261fd6",
+   "title": "Saudi pipeline outage threatens 4% of global oil supply",
+   "link": "https://seekingalpha.com/news/4642310-saudi-pipeline-outage-threatens-4-percent-of-global-oil-supply?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-13T20:27:19+00:00",
+   "tickers": []
+  },
   {
    "id": "c76e4871936c",
    "title": "King Charles Will Convene A.I. Leaders Amid Calls to Slow Development",
@@ -206,6 +290,25 @@
    "published": "2026-09-13T20:13:50+00:00",
    "tickers": [
     "TSLA"
+   ]
+  },
+  {
+   "id": "2e0c641bac1e",
+   "title": "Stocks Shake Off CPI Report and Rally on Lower Oil Prices",
+   "link": "https://www.nasdaq.com/articles/stocks-shake-cpi-report-and-rally-lower-oil-prices-1",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) on Friday rose by +0.86%, the Dow Jones Industrial Average ($DOWI ) (DIA ) rose by +0.98%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) rose by +0.91%. E-mini S&P futures (ESU26 ) rose +0.83%, and September E-mini Nasdaq futures (NQU26...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-09-13T20:07:11+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
    ]
   },
   {
@@ -2920,25 +3023,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-09-13T17:23:33+00:00",
    "tickers": []
-  },
-  {
-   "id": "2e0c641bac1e",
-   "title": "Stocks Shake Off CPI Report and Rally on Lower Oil Prices",
-   "link": "https://www.nasdaq.com/articles/stocks-shake-cpi-report-and-rally-lower-oil-prices-1",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) on Friday rose by +0.86%, the Dow Jones Industrial Average ($DOWI ) (DIA ) rose by +0.98%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) rose by +0.91%. E-mini S&P futures (ESU26 ) rose +0.83%, and September E-mini Nasdaq futures (NQU26...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-09-13T17:21:12+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
-   ]
   },
   {
    "id": "16d3dc5a57b4",
@@ -6730,7 +6814,7 @@
    "link": "https://www.prnewswire.com/news-releases/insurance-agent-nick-hogan-explains-what-first-time-homeowners-often-miss-about-homeowners-insurance-in-hellonation-302876446.html",
    "summary": "The article explains key parts of a homeowners insurance policy that every first-time buyer should understand before filing a claim. CAPE GIRARDEAU, Mo., Sept. 13, 2026 /PRNewswire/ -- What does homeowners insurance actually cover? A HelloNation article featuring insights from Insurance...",
    "article_text": "",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -8733,90 +8817,6 @@
    "tickers": [
     "AAPL"
    ]
-  },
-  {
-   "id": "479948bb899f",
-   "title": "NFL and midterm elections set up prediction markets for a critical fall season",
-   "link": "https://biztoc.com/x/ffa848425ce72b4e?ref=rss",
-   "summary": "Prediction markets that rode politics and sports to new heights the past two years are betting on their convergence this autumn to drive even more adoption. In 2024, event contract exchanges entered the mainstream with trades tied to the presidential election that year. Then, in September 2025,…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-09-13T12:15:30+00:00",
-   "tickers": []
-  },
-  {
-   "id": "0ebe0ac77391",
-   "title": "Kroger loses $12 billion as customer behavior takes a turn",
-   "link": "https://biztoc.com/x/7f007ee7cb5707c3?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-13T12:15:29+00:00",
-   "tickers": []
-  },
-  {
-   "id": "7d58166f766b",
-   "title": "Saudi pipeline outage threatens loss of 4% of global oil supply",
-   "link": "https://biztoc.com/x/b0f67118c2300dee?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-09-13T12:15:28+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e97ccf5595ee",
-   "title": "Xi says China will lead BRICS AI push",
-   "link": "https://biztoc.com/x/689908265f6e1da9?ref=rss",
-   "summary": "China will take the lead in promoting artificial-intelligence cooperation among BRICS countries, Chinese President Xi Jinping said at the BRICS summit in New Delhi.China plans to establish a BRICS AI ...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-13T12:15:24+00:00",
-   "tickers": []
-  },
-  {
-   "id": "24045c536348",
-   "title": "A new tax incentive could lead to more films being made in the U.S. rather than abroad",
-   "link": "https://biztoc.com/x/ad0176979db21519?ref=rss",
-   "summary": "President Trump and Congress are weighing in on potential federal tax incentives for film production. It's hoped the tax credit would keep production of films and TV in the U.S. rather than overseas.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-13T12:15:23+00:00",
-   "tickers": []
-  },
-  {
-   "id": "687842795a95",
-   "title": "Gloria Steinem opened the door. Now women need a seat at the table",
-   "link": "https://biztoc.com/x/180fc7b2504c835a?ref=rss",
-   "summary": "When David Grinberg’s 22-year-old daughter, Ily, started her career in wealth management in Chicago this summer, he was thrilled. But as an M&A attorney at Sidley Austin who has spent years advising entrepreneurs — and as the father of three daughters — he noticed something else: Ily was usually…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-13T12:15:20+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
