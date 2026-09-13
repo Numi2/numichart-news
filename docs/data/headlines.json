@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-13T05:53:21.653595+00:00",
+ "generated": "2026-09-13T06:00:13.462242+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -62,6 +62,20 @@
    "tickers": []
   },
   {
+   "id": "fffbef333446",
+   "title": "New report of attack on Strait of Hormuz shipping fans fears of threats to oil supplies",
+   "link": "https://www.investing.com/news/commodities-news/new-report-of-attack-on-strait-of-hormuz-shipping-fans-fears-of-threats-to-oil-supplies-4898701",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-13T05:42:26+00:00",
+   "tickers": []
+  },
+  {
    "id": "0227f84c36f6",
    "title": "Honeywell Aerospace: A Tier-1 Moat Already Priced For Perfection",
    "link": "https://seekingalpha.com/article/4945827-honeywell-aerospace-tier-1-moat-already-priced-for-perfection?source=feed_all_articles",
@@ -89,6 +103,36 @@
    "sentiment": "neutral",
    "domain": "ft.com",
    "published": "2026-09-13T05:40:53+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c1329f3f3e36",
+   "title": "Cameco Controls the Uranium Refinery That Puts Canada in the Driver's Seat",
+   "link": "https://www.nasdaq.com/articles/cameco-controls-uranium-refinery-puts-canada-drivers-seat",
+   "summary": "Key PointsCameco both mines for and processes uranium.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-13T05:35:00+00:00",
+   "tickers": [
+    "CCJ"
+   ]
+  },
+  {
+   "id": "68626353635a",
+   "title": "South Korea expands espionage law to protect chip technology",
+   "link": "https://www.investing.com/news/economy-news/south-korea-expands-espionage-law-to-protect-chip-technology-4898708",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-09-13T05:32:57+00:00",
    "tickers": []
   },
   {
@@ -429,20 +473,6 @@
    "sentiment": "neutral",
    "domain": "biztoc.com",
    "published": "2026-09-13T04:29:21+00:00",
-   "tickers": []
-  },
-  {
-   "id": "fffbef333446",
-   "title": "New report of attack on Strait of Hormuz shipping fans fears of threats to oil supplies",
-   "link": "https://www.investing.com/news/commodities-news/new-report-of-attack-on-strait-of-hormuz-shipping-fans-fears-of-threats-to-oil-supplies-4898701",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-13T04:18:27+00:00",
    "tickers": []
   },
   {
@@ -8897,36 +8927,6 @@
    "domain": "biztoc.com",
    "published": "2026-09-12T16:14:33+00:00",
    "tickers": []
-  },
-  {
-   "id": "53c9505ed5c4",
-   "title": "Map Shows States Making SNAP Card Changes—What It Means For Your Benefits",
-   "link": "https://biztoc.com/x/4bc6197b738853c4?ref=rss",
-   "summary": "Millions of Americans who receive Supplemental Nutrition Assistance Program (SNAP) benefits are beginning to get new chip-enabled payment cards, as states move away from magnetic-stripe technology in an effort to combat the theft of benefits. New Jersey is the latest state to complete a statewide…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-12T16:14:32+00:00",
-   "tickers": [
-    "SNAP"
-   ]
-  },
-  {
-   "id": "2718470ae660",
-   "title": "Musk backs Amodei on slowing down AI development",
-   "link": "https://biztoc.com/x/5718ca2eb09dbab0?ref=rss",
-   "summary": "Billionaire entrepreneur and the world's wealthiest man, Elon Musk, voiced his support on Saturday for Anthropic CEO Dario Amodei's call for the artificial intelligence (AI) industry to slow down fron...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-12T16:14:29+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -9043,7 +9043,6 @@
   "GOOG": "Alphabet",
   "PLD": "Prologis",
   "SQ": "Cash App",
-  "SNAP": "Snapchat",
   "BPOP": "Popular",
   "CMCSA": "Comcast",
   "EQIX": "Equinix",
@@ -9055,6 +9054,7 @@
   "NFLX": "Netflix",
   "ZS": "Zscaler",
   "BIIB": "Biogen",
+  "CCJ": "Cameco",
   "GTLB": "GitLab",
   "KVUE": "Kenvue",
   "NDAQ": "Nasdaq",
