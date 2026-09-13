@@ -1,8 +1,24 @@
 {
- "generated": "2026-09-13T11:41:05.271834+00:00",
+ "generated": "2026-09-13T11:47:10.874675+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "86f0c0662c25",
+   "title": "DKS Investors Have Opportunity to Lead DICK'S Sporting Goods, Inc. Securities Fraud Lawsuit",
+   "link": "https://www.prnewswire.com/news-releases/dks-investors-have-opportunity-to-lead-dicks-sporting-goods-inc-securities-fraud-lawsuit-302876678.html",
+   "summary": "NEW YORK, Sept. 13, 2026 /PRNewswire/ -- Why: Rosen Law Firm, a global investor rights law firm, announces a class action lawsuit on behalf of purchasers of common stock of DICK'S Sporting Goods, Inc. (NYSE: DKS) between September 8, 2025 and August 24, 2026, both dates inclusive (the...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "prnewswire.com",
+   "published": "2026-09-13T11:39:00+00:00",
+   "tickers": [
+    "DKS"
+   ]
+  },
   {
    "id": "79d7e5e0fa66",
    "title": "Rent the Runway: Profit Is Maturing, But Subscriber Declines Remain Concerning (Rating Upgrade)",
@@ -1444,8 +1460,8 @@
    "link": "https://www.ft.com/content/21b663e4-60ee-4937-a561-5b0f505676a2?syn-25a6b1a6=1",
    "summary": "Acquisition of Sofie Biosciences is second big purchase for medical imaging specialist after split from General Electric",
    "article_text": "",
-   "source": "FT Markets",
-   "category": "markets",
+   "source": "FT Companies",
+   "category": "stocks",
    "type": "ma",
    "sentiment": "neutral",
    "domain": "ft.com",
@@ -1461,15 +1477,29 @@
    "link": "https://www.ft.com/content/b11887d2-d40d-473d-ba5e-2f9fb8a73beb?syn-25a6b1a6=1",
    "summary": "Alaska LNG and Polar LNG face a series of financing, logistical and legal hurdles to tap massive gasfields",
    "article_text": "",
-   "source": "FT Markets",
-   "category": "markets",
-   "type": "markets",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "stocks",
    "sentiment": "neutral",
    "domain": "ft.com",
    "published": "2026-09-13T10:00:05+00:00",
    "tickers": [
     "LNG"
    ]
+  },
+  {
+   "id": "09f437b863b2",
+   "title": "The coming robotaxi revolution",
+   "link": "https://www.ft.com/content/2404d7db-002e-42d6-a746-183bb23c1234?syn-25a6b1a6=1",
+   "summary": "Self-driving cars could transform urban transport, if they can win public trust",
+   "article_text": "",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "ft.com",
+   "published": "2026-09-13T10:00:05+00:00",
+   "tickers": []
   },
   {
    "id": "daf86ade9cae",
@@ -8849,37 +8879,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-09-12T21:27:43+00:00",
    "tickers": []
-  },
-  {
-   "id": "5e7de50de871",
-   "title": "Nvidia vs. AMD: Elon Musk Picked a Side on the SpaceX Earnings Call",
-   "link": "https://www.nasdaq.com/articles/nvidia-vs-amd-elon-musk-picked-side-spacex-earnings-call",
-   "summary": "Key PointsNvidia and AMD are the two leading GPU designers for artificial intelligence (AI) workloads.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-09-12T21:20:00+00:00",
-   "tickers": [
-    "AMD",
-    "SPCX"
-   ]
-  },
-  {
-   "id": "67fb03afe8d4",
-   "title": "5 reasons to own SMID cap Value",
-   "link": "https://www.investing.com/news/stock-market-news/5-reasons-to-own-smid-cap-value-4898689",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-12T21:19:32+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8910,6 +8909,7 @@
   "LPLA": "LPL Financial Holdings",
   "WBD": "Warner Bros. Discovery",
   "COF": "Capital One Financial",
+  "DKS": "DICK'S Sporting Goods",
   "GRAB": "Grab Holdings Limited",
   "PLTR": "Palantir Technologies",
   "PRU": "Prudential Financial",
