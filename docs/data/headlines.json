@@ -1,8 +1,24 @@
 {
- "generated": "2026-09-13T02:53:09.381930+00:00",
+ "generated": "2026-09-13T02:59:52.845352+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "8f450fb06e4b",
+   "title": "ASA: Change Of Mandate For This CEF",
+   "link": "https://seekingalpha.com/article/4945818-asa-change-of-mandate-for-this-cef?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-13T02:53:00+00:00",
+   "tickers": [
+    "CEF"
+   ]
+  },
   {
    "id": "ec556297ce70",
    "title": "Futures Traders Just Dramatically Repriced the Chances of a Fed Hike Next Week",
@@ -8914,25 +8930,12 @@
    "domain": "investing.com",
    "published": "2026-09-12T14:47:40+00:00",
    "tickers": []
-  },
-  {
-   "id": "fa902e5cf048",
-   "title": "Smith & Wesson’s (SWBI) Profit Turnaround Comes With a Catch",
-   "link": "https://biztoc.com/x/e27694166433d8bb?ref=rss",
-   "summary": "On September 3, Smith & Wesson Brands (NASDAQ:SWBI) told investors it had flipped a year-ago loss into a profit, and the underlying numbers back up the turnaround story. Net sales jumped 32.3% year over year to $112.6 million, and the company swung to $0.06 in GAAP earnings per share from a loss…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-09-12T14:45:17+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
   "JIRE": "JPMorgan International Research Enhanced Equity ETF",
   "VYMI": "Vanguard International High Dividend Yield ETF",
+  "CEF": "Sprott Physical Gold and Silver Trust Units",
   "ETH": "Grayscale Ethereum Staking Mini ETF Shares",
   "DIA": "SPDR Dow Jones Industrial Average ETF",
   "BTC": "Grayscale Bitcoin Mini Trust (BTC)",
