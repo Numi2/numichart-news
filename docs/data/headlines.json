@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-13T17:35:47.383428+00:00",
+ "generated": "2026-09-13T17:42:07.420810+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -87,6 +87,20 @@
    "sentiment": "neutral",
    "domain": "biztoc.com",
    "published": "2026-09-13T17:32:30+00:00",
+   "tickers": []
+  },
+  {
+   "id": "02d5179e5ee2",
+   "title": "FLTR: Lower Credit And Interest Rate Risk Makes This Interesting In Current Environment",
+   "link": "https://seekingalpha.com/article/4945859-fltr-lower-credit-and-interest-rate-risk-makes-this-interesting-in-current-environment?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-13T17:32:19+00:00",
    "tickers": []
   },
   {
@@ -491,6 +505,25 @@
    "domain": "biztoc.com",
    "published": "2026-09-13T17:15:37+00:00",
    "tickers": []
+  },
+  {
+   "id": "2e0c641bac1e",
+   "title": "Stocks Shake Off CPI Report and Rally on Lower Oil Prices",
+   "link": "https://www.nasdaq.com/articles/stocks-shake-cpi-report-and-rally-lower-oil-prices-1",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) on Friday rose by +0.86%, the Dow Jones Industrial Average ($DOWI ) (DIA ) rose by +0.98%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) rose by +0.91%. E-mini S&P futures (ESU26 ) rose +0.83%, and September E-mini Nasdaq futures (NQU26...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-09-13T17:14:49+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
   },
   {
    "id": "588526c6c0f0",
@@ -1948,25 +1981,6 @@
    "domain": "nasdaq.com",
    "published": "2026-09-13T15:50:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "2e0c641bac1e",
-   "title": "Stocks Shake Off CPI Report and Rally on Lower Oil Prices",
-   "link": "https://www.nasdaq.com/articles/stocks-shake-cpi-report-and-rally-lower-oil-prices-1",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) on Friday rose by +0.86%, the Dow Jones Industrial Average ($DOWI ) (DIA ) rose by +0.98%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) rose by +0.91%. E-mini S&P futures (ESU26 ) rose +0.83%, and September E-mini Nasdaq futures (NQU26...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-09-13T15:47:53+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
-   ]
   },
   {
    "id": "d3c7020219d1",
@@ -8797,22 +8811,6 @@
    "published": "2026-09-13T09:15:53+00:00",
    "tickers": [
     "KEX"
-   ]
-  },
-  {
-   "id": "5e1287ffd51c",
-   "title": "Wall Street Thinks SpaceX Stock Has 50% Upside. Here's Why I Don't Care",
-   "link": "https://biztoc.com/x/ab46c3927656b755?ref=rss",
-   "summary": "Even after a post-IPO lull, SpaceX (NASDAQ: SPCX) remains one of the market's most exciting stories. Despite its $2 trillion market cap, SpaceX shares trade at nearly 100 times sales. Sales growth did hit 92% year over year last quarter. But the space company clearly has a long way to go before it…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-13T09:15:44+00:00",
-   "tickers": [
-    "SPCX"
    ]
   }
  ],
