@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-14T02:53:07.998650+00:00",
+ "generated": "2026-09-14T02:59:45.780205+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -145,6 +145,23 @@
    "domain": "investing.com",
    "published": "2026-09-14T02:35:24+00:00",
    "tickers": []
+  },
+  {
+   "id": "b1d89a843590",
+   "title": "Nvidia's Latest Signal Points to Serious Downside Risk for Micron Before 2029 Is Over",
+   "link": "https://www.nasdaq.com/articles/nvidias-latest-signal-points-serious-downside-risk-micron-2029-over",
+   "summary": "Key PointsIf Nvidia finds ways to use less expensive memory in future chips, Micron’s premium HBM opportunity could shrink.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-14T02:35:00+00:00",
+   "tickers": [
+    "MU",
+    "HBM"
+   ]
   },
   {
    "id": "32efb7bd07c3",
@@ -8799,20 +8816,6 @@
    "tickers": [
     "QSR"
    ]
-  },
-  {
-   "id": "6e83ce9ba553",
-   "title": "Trump reiterates support for united Ireland, says won’t talk about Scotland ’yet’",
-   "link": "https://www.investing.com/news/economy-news/trump-reiterates-support-for-united-ireland-says-wont-talk-about-scotland-yet-4898746",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "analyst",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-09-13T17:24:29+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8845,6 +8848,7 @@
   "AMAT": "Applied Materials",
   "BSX": "Boston Scientific",
   "DELL": "Dell Technologies",
+  "MU": "Micron Technology",
   "UBER": "Uber Technologies",
   "COST": "Costco Wholesale",
   "NVO": "Novo Nordisk A/S",
@@ -8853,6 +8857,7 @@
   "BAC": "Bank of America",
   "COIN": "Coinbase Global",
   "DIS": "The Walt Disney",
+  "HBM": "Hudbay Minerals",
   "LNG": "Cheniere Energy",
   "PYPL": "PayPal Holdings",
   "VRT": "Vertiv Holdings",
