@@ -1,8 +1,242 @@
 {
- "generated": "2026-09-14T22:18:56.202007+00:00",
+ "generated": "2026-09-14T22:29:14.325138+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "711d797a2fbd",
+   "title": "U.S. Imposes Sanctions on Russia’s VTB Bank Over Ties to Iran",
+   "link": "https://www.nytimes.com/2026/09/14/business/us-sanctions-russia-vtb-bank-iran.html",
+   "summary": "The move, which targeted a bank that is already under U.S. sanctions, was part of the Trump administration’s Operation Economic Outcast initiative.",
+   "article_text": "",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-09-14T22:23:29+00:00",
+   "tickers": []
+  },
+  {
+   "id": "1d45fa7eac54",
+   "title": "Earnings call transcript: Dave & Buster’s Q2 2026 miss sends shares lower",
+   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-dave--busters-q2-2026-miss-sends-shares-lower-93CH-4900648",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-09-14T22:22:59+00:00",
+   "tickers": [
+    "DAVE"
+   ]
+  },
+  {
+   "id": "d987bb74bcc5",
+   "title": "Stocks Settle Lower as AI Slowdown Fears Weigh on Chipmakers",
+   "link": "https://www.nasdaq.com/articles/stocks-settle-lower-ai-slowdown-fears-weigh-chipmakers",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down by -0.48% on Monday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down by -0.29%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down by -0.82%. E-mini S&P futures (ESU26 ) fell -0.46%, and September E-mini...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-09-14T22:22:04+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
+  },
+  {
+   "id": "c88596429667",
+   "title": "Chewy, Inc. (CHWY) Presents at Goldman Sachs Global Consumer and Retail Conference Transcript",
+   "link": "https://seekingalpha.com/article/4946206-chewy-inc-chwy-presents-at-goldman-sachs-global-consumer-and-retail-conference-transcript?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-14T22:21:38+00:00",
+   "tickers": [
+    "CHWY",
+    "GS"
+   ]
+  },
+  {
+   "id": "d478786f5bfa",
+   "title": "Ørsted: The Year To Nowhere",
+   "link": "https://seekingalpha.com/article/4946231-orsted-the-year-to-nowhere?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-14T22:21:25+00:00",
+   "tickers": []
+  },
+  {
+   "id": "927aabce59ee",
+   "title": "Actuate Therapeutics at H.C. Wainwright conference: oral pivot gains focus",
+   "link": "https://www.investing.com/news/transcripts/actuate-therapeutics-at-hc-wainwright-conference-oral-pivot-gains-focus-93CH-4900647",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-09-14T22:20:50+00:00",
+   "tickers": []
+  },
+  {
+   "id": "73d44fee0ead",
+   "title": "Stocks fall as oil and bond yields rise",
+   "link": "https://www.investing.com/news/stock-market-news/shares-slip-in-asia-as-oil-climbs-rate-hikes-loom-4898763",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-14T22:20:14+00:00",
+   "tickers": []
+  },
+  {
+   "id": "fb444c4b7f9a",
+   "title": "Five spots to watch as the bond market hits 5%",
+   "link": "https://www.investing.com/news/economy-news/five-spots-to-watch-as-the-bond-market-hits-5-4900109",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-14T22:19:57+00:00",
+   "tickers": []
+  },
+  {
+   "id": "2ed3cbcb948b",
+   "title": "US NTSB says one-third of FAA answers to safety recommendations are ’unacceptable’",
+   "link": "https://www.investing.com/news/stock-market-news/us-ntsb-says-onethird-of-faa-answers-to-safety-recommendations-are-unacceptable-4900646",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-14T22:19:33+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f8c1db9be8e2",
+   "title": "Trump nominates Republican lawmaker as ambassador to Saudi Arabia",
+   "link": "https://www.investing.com/news/stock-market-news/trump-nominates-republican-lawmaker-as-ambassador-to-saudi-arabia-4900636",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-14T22:19:17+00:00",
+   "tickers": []
+  },
+  {
+   "id": "35ee85b38c93",
+   "title": "US 10-year yields reach 5%, highest since 2023",
+   "link": "https://www.investing.com/news/economy-news/us-10year-yields-reach-5-highest-since-2023-4899925",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-14T22:18:57+00:00",
+   "tickers": []
+  },
+  {
+   "id": "857f86e30706",
+   "title": "Ukraine says it's open to halting attacks on Russian energy after Trump's claims of deal",
+   "link": "https://www.cnbc.com/2026/09/14/trump-ukraine-russia-energy-oil-iran.html",
+   "summary": "\"The World's Diesel price rise is mostly caused by the Russia/Ukraine War, not Iran,\" Trump said in a social media post.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-09-14T22:18:56+00:00",
+   "tickers": []
+  },
+  {
+   "id": "59b9160c3f7d",
+   "title": "10-Year Treasury Yield Touches 5%, Highest Level in Years",
+   "link": "https://www.nytimes.com/2026/09/14/business/10-year-treasury-yield-5-percent.html",
+   "summary": "One of the world’s most important interest rates hit a level recorded only once since the global financial crisis, as investors rebuffed the Trump administration’s efforts to sway the bond market.",
+   "article_text": "",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-09-14T22:17:15+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f3b214417612",
+   "title": "InspireMD at H.C. Wainwright conference: eyeing carotid market share",
+   "link": "https://www.investing.com/news/transcripts/inspiremd-at-hc-wainwright-conference-eyeing-carotid-market-share-93CH-4900645",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-14T22:16:07+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c222f3ef1d47",
+   "title": "AtriCure director Regina Groves sells $288,070 of stock",
+   "link": "https://www.investing.com/news/insider-trading-news/atricure-director-regina-groves-sells-288070-of-stock-93CH-4900644",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-14T22:15:54+00:00",
+   "tickers": []
+  },
+  {
+   "id": "1ce60bf7ee1c",
+   "title": "The Fed May Be Forced Into An Irrelevant Hike",
+   "link": "https://seekingalpha.com/article/4946230-fed-may-be-forced-into-irrelevant-hike?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-14T22:15:45+00:00",
+   "tickers": []
+  },
   {
    "id": "0f641dac4d9e",
    "title": "10-year Treasury yield hits 5% before reversing as traders await Fed meeting",
@@ -35,6 +269,22 @@
    ]
   },
   {
+   "id": "3d75611482d5",
+   "title": "Zevra at Morgan Stanley conference: rare-disease market looks bigger",
+   "link": "https://www.investing.com/news/transcripts/zevra-at-morgan-stanley-conference-raredisease-market-looks-bigger-93CH-4900643",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-14T22:13:11+00:00",
+   "tickers": [
+    "MS"
+   ]
+  },
+  {
    "id": "35c6526b7638",
    "title": "Cracker Barrel: Deno May Bring Uncle Hershel Back, But It's Already Priced In",
    "link": "https://seekingalpha.com/article/4946229-cracker-barrel-deno-may-bring-uncle-hershel-back-but-its-already-priced-in?source=feed_all_articles",
@@ -46,6 +296,20 @@
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
    "published": "2026-09-14T22:11:57+00:00",
+   "tickers": []
+  },
+  {
+   "id": "be6cc7f77078",
+   "title": "US scraps limits on emissions from coal and gas power plants",
+   "link": "https://biztoc.com/x/a31095ac6e90374b?ref=rss",
+   "summary": "Rules aimed at limiting pollution from coal and gas power plants are being scrapped, the head of the US Environmental Protection Agency (EPA) has announced. The agency also said it would take steps to prevent future administrations from regulating power plant emissions. The EPA said that getting…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-14T22:11:36+00:00",
    "tickers": []
   },
   {
@@ -63,6 +327,50 @@
    "tickers": []
   },
   {
+   "id": "b951851559cd",
+   "title": "Life Insurance Stocks Q2 Recap: Benchmarking Globe Life (NYSE:GL)",
+   "link": "https://biztoc.com/x/33949a52f91b7f2b?ref=rss",
+   "summary": "As the Q2 earnings season comes to a close, it's time to take stock of this quarter's best and worst performers in the life insurance industry, including Globe Life (NYSE:GL) and its peers. Life insurance companies collect premiums from policyholders in exchange for providing a future death…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-14T22:11:17+00:00",
+   "tickers": [
+    "GL"
+   ]
+  },
+  {
+   "id": "05b4218c5527",
+   "title": "Here's what Mayor Jones wants to cut from the San Antonio budget",
+   "link": "https://biztoc.com/x/6c562c856a3635ef?ref=rss",
+   "summary": "Mayor Gina Ortiz Jones has repeatedly said that raising property taxes to close a massive budget deficit is a last resort - and she's proposed millions of dollars in budget cuts to try to stave off that possibility. Jones has suggested $8.7 million worth of additional reductions to the next fiscal…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-09-14T22:11:15+00:00",
+   "tickers": []
+  },
+  {
+   "id": "7f69ba657ea8",
+   "title": "Banks Want More: Trade Groups Demand Stricter Stablecoin Limits in Clarity Act",
+   "link": "https://biztoc.com/x/644e473c7fcd4964?ref=rss",
+   "summary": "Eight banking trade groups urged Senate leaders Monday to tighten the Clarity Act's stablecoin rewards restrictions, arguing that exceptions in the bill could allow interest-like payments that draw deposits away from banks. In their letter to Senate leaders John Thune and Chuck Schumer, the group…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-14T22:11:13+00:00",
+   "tickers": []
+  },
+  {
    "id": "5ac9c31185a1",
    "title": "Hotter US Weather Forecasts Boost Nat-Gas Prices",
    "link": "https://www.nasdaq.com/articles/hotter-us-weather-forecasts-boost-nat-gas-prices",
@@ -75,25 +383,6 @@
    "domain": "nasdaq.com",
    "published": "2026-09-14T22:09:37+00:00",
    "tickers": []
-  },
-  {
-   "id": "d987bb74bcc5",
-   "title": "Stocks Settle Lower as AI Slowdown Fears Weigh on Chipmakers",
-   "link": "https://www.nasdaq.com/articles/stocks-settle-lower-ai-slowdown-fears-weigh-chipmakers",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down by -0.48% on Monday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down by -0.29%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down by -0.82%. E-mini S&P futures (ESU26 ) fell -0.46%, and September E-mini...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-09-14T22:09:37+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
-   ]
   },
   {
    "id": "6fdd481a6571",
@@ -449,6 +738,23 @@
    "tickers": []
   },
   {
+   "id": "9088202441af",
+   "title": "Amazon Suspends 21 Air Operations After Cargo Plane Crash In Miami",
+   "link": "https://www.nasdaq.com/articles/amazon-suspends-21-air-operations-after-cargo-plane-crash-miami",
+   "summary": "(RTTNews) - Amazon.com Inc. (AMZN) has suspended its operations with cargo carrier 21 Air after an Amazon-branded Boeing 767-300 crashed while landing at Miami International Airport on September 6, killing five people on the ground and injuring five others.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-09-14T22:05:04+00:00",
+   "tickers": [
+    "AMZN",
+    "BA"
+   ]
+  },
+  {
    "id": "4c829f02ca3d",
    "title": "Ascendis Pharma authorizes $400 million share buyback program",
    "link": "https://www.investing.com/news/company-news/ascendis-pharma-authorizes-400-million-share-buyback-program-93CH-4900640",
@@ -477,6 +783,22 @@
    "tickers": [
     "BMNR",
     "ETH"
+   ]
+  },
+  {
+   "id": "de3e46c519b0",
+   "title": "Microsoft Unveils AI Code Of Conduct Amid Growing Safety Concerns",
+   "link": "https://www.nasdaq.com/articles/microsoft-unveils-ai-code-conduct-amid-growing-safety-concerns",
+   "summary": "(RTTNews) - Microsoft Corporation (MSFT)has published a provisional code of conduct for its artificial intelligence models, seeking to strengthen safeguards as concerns grow over the risks posed by increasingly capable AI systems.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-14T22:03:13+00:00",
+   "tickers": [
+    "MSFT"
    ]
   },
   {
@@ -585,20 +907,6 @@
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
    "published": "2026-09-14T22:00:59+00:00",
-   "tickers": []
-  },
-  {
-   "id": "f8c1db9be8e2",
-   "title": "Trump nominates Republican lawmaker as ambassador to Saudi Arabia",
-   "link": "https://www.investing.com/news/stock-market-news/trump-nominates-republican-lawmaker-as-ambassador-to-saudi-arabia-4900636",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-14T22:00:33+00:00",
    "tickers": []
   },
   {
@@ -798,6 +1106,20 @@
    "tickers": []
   },
   {
+   "id": "134d08a325fb",
+   "title": "The murky AI milestone that has some of the industry’s leading voices increasingly on edge",
+   "link": "https://www.marketwatch.com/story/the-murky-ai-milestone-that-has-some-of-the-industrys-leading-voices-increasingly-on-edge-6ffeacc7?mod=mw_rss_topstories",
+   "summary": "Anthropic CEO Dario Amodei and others are warning that AI models may be able to build on themselves, without the help of humans. It’s a concept known as recursive self-improvement.",
+   "article_text": "",
+   "source": "MarketWatch",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "marketwatch.com",
+   "published": "2026-09-14T21:57:00+00:00",
+   "tickers": []
+  },
+  {
    "id": "028f9b32361e",
    "title": "Bitcoin up 2% after Trump agrees to ethics requirements in latest Clarity Act text",
    "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-at-777k-amid-meast-tensions-rate-hike-jitters-4898845",
@@ -810,6 +1132,22 @@
    "domain": "investing.com",
    "published": "2026-09-14T21:56:58+00:00",
    "tickers": []
+  },
+  {
+   "id": "5d4e0e3aa704",
+   "title": "Here's Why SpaceX Stock Could Finish 2026 Above $200",
+   "link": "https://www.nasdaq.com/articles/heres-why-spacex-stock-could-finish-2026-above-200",
+   "summary": "Key PointsSpaceX has been making progress towards its goal of generating $100 billion in annual recurring revenue.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-14T21:56:02+00:00",
+   "tickers": [
+    "SPCX"
+   ]
   },
   {
    "id": "97e209d886aa",
@@ -1044,6 +1382,22 @@
    "tickers": []
   },
   {
+   "id": "7de52d29a404",
+   "title": "If You'd Invested $1,000 in Tesla Stock 1 Year Ago, Here's How Much You'd Have Today",
+   "link": "https://www.nasdaq.com/articles/if-youd-invested-1000-tesla-stock-1-year-ago-heres-how-much-youd-have-today",
+   "summary": "Key PointsTesla has lagged the market over the past year.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-14T21:53:00+00:00",
+   "tickers": [
+    "TSLA"
+   ]
+  },
+  {
    "id": "dd6acbc5cce0",
    "title": "ATI CEO to speak at Morgan Stanley 14th Annual Laguna Conference",
    "link": "https://www.prnewswire.com/news-releases/ati-ceo-to-speak-at-morgan-stanley-14th-annual-laguna-conference-302878141.html",
@@ -1148,20 +1502,6 @@
    "tickers": [
     "MS"
    ]
-  },
-  {
-   "id": "59b9160c3f7d",
-   "title": "10-Year Treasury Yield Touches 5%, Highest Level in Years",
-   "link": "https://www.nytimes.com/2026/09/14/business/10-year-treasury-yield-5-percent.html",
-   "summary": "One of the world’s most important interest rates hit a level recorded only once since the global financial crisis, as investors rebuffed the Trump administration’s efforts to sway the bond market.",
-   "article_text": "",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "nytimes.com",
-   "published": "2026-09-14T21:43:22+00:00",
-   "tickers": []
   },
   {
    "id": "1d8f06dec179",
@@ -2876,20 +3216,6 @@
    "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-09-14T21:18:57+00:00",
-   "tickers": []
-  },
-  {
-   "id": "73d44fee0ead",
-   "title": "Stocks fall as oil and bond yields rise",
-   "link": "https://www.investing.com/news/stock-market-news/shares-slip-in-asia-as-oil-climbs-rate-hikes-loom-4898763",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-14T21:18:27+00:00",
    "tickers": []
   },
   {
@@ -6569,20 +6895,6 @@
    ]
   },
   {
-   "id": "711d797a2fbd",
-   "title": "U.S. Imposes Sanctions on Russia’s VTB Bank Over Ties to Iran",
-   "link": "https://www.nytimes.com/2026/09/14/business/us-sanctions-russia-vtb-bank-iran.html",
-   "summary": "The move, which targeted a bank that is already under U.S. sanctions, was part of the Trump administration’s Operation Economic Outcast initiative.",
-   "article_text": "",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "nytimes.com",
-   "published": "2026-09-14T20:35:28+00:00",
-   "tickers": []
-  },
-  {
    "id": "228a6313258f",
    "title": "8-K - AIM ImmunoTech Inc. (0000946644) (Filer)",
    "link": "https://www.sec.gov/Archives/edgar/data/946644/000149315226042592/0001493152-26-042592-index.htm",
@@ -8555,318 +8867,6 @@
    "domain": "sec.gov",
    "published": "2026-09-14T20:15:50+00:00",
    "tickers": []
-  },
-  {
-   "id": "ef2d6ad08efe",
-   "title": "8-K - lululemon athletica inc. (0001397187) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1397187/000139718726000129/0001397187-26-000129-index.htm",
-   "summary": "Filed: 2026-09-14 AccNo: 0001397187-26-000129 Size: 391 KB Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers Item 5.03: Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-09-14T20:15:47+00:00",
-   "tickers": [
-    "LULU"
-   ]
-  },
-  {
-   "id": "acdaf2cc121d",
-   "title": "8-K - INGLES MARKETS INC (0000050493) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/50493/000143774926030320/0001437749-26-030320-index.htm",
-   "summary": "Filed: 2026-09-14 AccNo: 0001437749-26-030320 Size: 373 KB Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers Item 5.03: Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-09-14T20:15:45+00:00",
-   "tickers": []
-  },
-  {
-   "id": "1537f5b3cbc3",
-   "title": "8-K - Glucotrack, Inc. (0001506983) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1506983/000149315226042582/0001493152-26-042582-index.htm",
-   "summary": "Filed: 2026-09-14 AccNo: 0001493152-26-042582 Size: 243 KB Item 1.01: Entry into a Material Definitive Agreement Item 5.07: Submission of Matters to a Vote of Security Holders Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-09-14T20:15:37+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e9f0b17de46a",
-   "title": "8-K - Enova International, Inc. (0001529864) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1529864/000119312526390599/0001193125-26-390599-index.htm",
-   "summary": "Filed: 2026-09-14 AccNo: 0001193125-26-390599 Size: 184 KB Item 7.01: Regulation FD Disclosure Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-09-14T20:15:15+00:00",
-   "tickers": []
-  },
-  {
-   "id": "badb309297df",
-   "title": "Trump privately met with OpenAI CEO Sam Altman at GOP Convention: Report",
-   "link": "https://www.cnbc.com/video/2026/09/14/trump-privately-met-with-openai-ceo-sam-altman-at-gop-convention-report.html",
-   "summary": "President Donald Trump met privately with OpenAI chief executive Sam Altman backstage at the Republican midterm convention on Thursday, MS Now reports. CNBC's Megan Cassella has the details.",
-   "article_text": "",
-   "source": "CNBC Investing",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-09-14T20:15:01+00:00",
-   "tickers": [
-    "MS"
-   ]
-  },
-  {
-   "id": "6a2ff73d3f43",
-   "title": "Third Coast Bank Expands Corporate Banking Leadership",
-   "link": "https://www.prnewswire.com/news-releases/third-coast-bank-expands-corporate-banking-leadership-302875800.html",
-   "summary": "Names Bernie Lacayo Head of Corporate Banking HOUSTON, Sept. 14, 2026 /PRNewswire/ -- Third Coast Bancshares, Inc. (NYSE & NYSE Texas: TCBX), (\"Third Coast\"), the holding company of Third Coast Bank (the \"Bank\"), today announced the appointment of Bernardo \"Bernie\" Lacayo as EVP, Head of...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "press",
-   "sentiment": "positive",
-   "domain": "prnewswire.com",
-   "published": "2026-09-14T20:15:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "947bb226c01f",
-   "title": "SHANKER TRIVEDI JOINS SANMINA'S BOARD OF DIRECTORS",
-   "link": "https://www.prnewswire.com/news-releases/shanker-trivedi-joins-sanminas-board-of-directors-302878045.html",
-   "summary": "SAN JOSE, Calif., Sept. 14, 2026 /PRNewswire/ -- Sanmina Corporation (\"Sanmina\" or the \"Company\") (NASDAQ: SANM), a leading integrated manufacturing solutions company, today announced that Shanker Trivedi has been appointed to its board of directors, effective September 14, 2026. Mr....",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-09-14T20:15:00+00:00",
-   "tickers": [
-    "SANM"
-   ]
-  },
-  {
-   "id": "e3a71a40abe8",
-   "title": "Calumet Upsizes Senior Secured Revolving Credit Facility and Receives Final $34 Million Draw under the DOE Loan",
-   "link": "https://www.prnewswire.com/news-releases/calumet-upsizes-senior-secured-revolving-credit-facility-and-receives-final-34-million-draw-under-the-doe-loan-302877755.html",
-   "summary": "INDIANAPOLIS, Sept. 14, 2026 /PRNewswire/ -- Calumet, Inc. (NASDAQ: CLMT) (the \"Company\" or \"Calumet\") today announced that it has amended its existing asset-based loan (ABL) facility to increase its total commitments to $600 million, an increase of $100 million, subject to borrowing base...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "positive",
-   "domain": "prnewswire.com",
-   "published": "2026-09-14T20:15:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ff08c45f8a5c",
-   "title": "DHT Holdings, Inc. secures three-year time charter for DHT Panther",
-   "link": "https://www.globenewswire.com/news-release/2026/09/14/3361548/0/en/dht-holdings-inc-secures-three-year-time-charter-for-dht-panther.html",
-   "summary": "HAMILTON, BERMUDA, September 14, 2026 – DHT Holdings, Inc. (NYSE:DHT) (“DHT” or the “Company”) today announced it has entered into a three-year time charter agreement at $100,000 per day for the VLCC DHT Panther, built in 2016. The contract is expected to commence in October 2026 and has been concluded with a global energy company.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "positive",
-   "domain": "globenewswire.com",
-   "published": "2026-09-14T20:15:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d12b30ace624",
-   "title": "Crown Castle Announces CFO Retirement and COO Transition; Names Kris Hinson as Next CFO",
-   "link": "https://www.globenewswire.com/news-release/2026/09/14/3361549/7657/en/crown-castle-announces-cfo-retirement-and-coo-transition-names-kris-hinson-as-next-cfo.html",
-   "summary": "HOUSTON, Sept. 14, 2026 (GLOBE NEWSWIRE) -- Crown Castle Inc. (NYSE: CCI) (\"Crown Castle\" or “Company”) announced today that Sunit Patel has elected to retire from Crown Castle as EVP and Chief Financial Officer (CFO) effective March 31, 2027, following the filing of the Company’s 2026 Form 10-K. Kris Hinson, who currently serves as Crown Castle’s EVP and Chief Commercial Officer, will be appointed CFO effective April 1, 2027. Cathy Piche, EVP and Chief Operating Officer (COO), will leave Crown Castle to pursue other endeavors. Ms. Piche will step down from the COO role effective September 23, 2026, and she will be available to the Company as a special advisor supporting the transition of her responsibilities until her departure on February 22, 2027. The Company has initiated a search for her replacement.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-09-14T20:15:00+00:00",
-   "tickers": [
-    "CCI",
-    "CCK"
-   ]
-  },
-  {
-   "id": "27d201f518c6",
-   "title": "Kite Realty Group Upgraded by Fitch to BBB+ with Stable Outlook",
-   "link": "https://www.globenewswire.com/news-release/2026/09/14/3361550/0/en/kite-realty-group-upgraded-by-fitch-to-bbb-with-stable-outlook.html",
-   "summary": "INDIANAPOLIS, Sept. 14, 2026 (GLOBE NEWSWIRE) -- Kite Realty Group (NYSE: KRG) announced today that Fitch Ratings (“Fitch”) has upgraded the Long-Term Issuer Default Ratings of the Company and its operating partnership, Kite Realty Group, L.P. (together, “KRG”), to BBB+ from BBB. The Rating Outlook is Stable.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "guidance",
-   "sentiment": "positive",
-   "domain": "globenewswire.com",
-   "published": "2026-09-14T20:15:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "f709c5879472",
-   "title": "Not All Revenue Growth Is Created Equal — A Harvard Fellow's Framework for Spotting the Real Thing",
-   "link": "https://www.nasdaq.com/articles/not-all-revenue-growth-created-equal-harvard-fellows-framework-spotting-real-thing",
-   "summary": "In this episode of Motley Fool Hidden Gems Investing, Motley Fool contributor Rachel Warren talks with Rob Snyder -- Harvard Innovation Labs fellow, serial start-up founder, and author of The Power of Pull -- about:",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-09-14T20:14:41+00:00",
-   "tickers": []
-  },
-  {
-   "id": "5db7143dbed6",
-   "title": "CrowdStrike jumps 14% amid cybersecurity sector rally",
-   "link": "https://seekingalpha.com/news/4642655-crowdstrike-jumps-14-percent-amid-cybersecurity-sector-rally?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-14T20:14:30+00:00",
-   "tickers": [
-    "CRWD"
-   ]
-  },
-  {
-   "id": "c4f48e27eed5",
-   "title": "Snag This Cheap Energy Stock Even Lower Than Director Teague Did",
-   "link": "https://www.nasdaq.com/articles/snag-cheap-energy-stock-even-lower-director-teague-did",
-   "summary": "There's an old saying on Wall Street about insider buying: there are many possible reasons to sell a stock, but only one reason to buy. Back on September 8, Solaris Energy Infrastructure Inc's Director, AJ Teague, invested $500,994.00 into 7,800 shares of SEI, for a cost per sha",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-09-14T20:14:25+00:00",
-   "tickers": [
-    "SEI"
-   ]
-  },
-  {
-   "id": "2b7e04a99ba8",
-   "title": "8-K - Longeveron Inc. (0001721484) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1721484/000121390026099712/0001213900-26-099712-index.htm",
-   "summary": "Filed: 2026-09-14 AccNo: 0001213900-26-099712 Size: 191 KB Item 8.01: Other Events",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-09-14T20:13:57+00:00",
-   "tickers": []
-  },
-  {
-   "id": "7dcb20dede36",
-   "title": "8-K - Dave & Buster's Entertainment, Inc. (0001525769) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1525769/000152576926000039/0001525769-26-000039-index.htm",
-   "summary": "Filed: 2026-09-14 AccNo: 0001525769-26-000039 Size: 498 KB Item 2.02: Results of Operations and Financial Condition Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-09-14T20:13:28+00:00",
-   "tickers": [
-    "DAVE"
-   ]
-  },
-  {
-   "id": "36d69d5943d7",
-   "title": "Nvidia: Too Cheap To Ignore Due To Misguided AI Panic",
-   "link": "https://seekingalpha.com/article/4946182-nvidia-too-cheap-to-ignore-due-to-misguided-ai-panic?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-14T20:13:22+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d8a01f79ffc9",
-   "title": "Contineum Therapeutics stock falls on phase 2 trial miss",
-   "link": "https://www.investing.com/news/stock-market-news/contineum-therapeutics-stock-falls-on-phase-2-trial-miss-93CH-4900355",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "fda",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-09-14T20:13:02+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b80e4efaeb54",
-   "title": "Tech Stocks Tumble After AI Leaders Call for Industry to Slow Down",
-   "link": "https://www.nytimes.com/2026/09/14/business/tech-stocks-ai.html",
-   "summary": "Companies at the forefront of artificial intelligence in Asia, Europe and the United States posted declines after tech leaders expressed worries about the safety of “frontier” A.I. technology.",
-   "article_text": "",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "negative",
-   "domain": "nytimes.com",
-   "published": "2026-09-14T20:12:09+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6f621dce96df",
-   "title": "U.S. stocks end well off session lows as oil pares gains, countering slide in tech",
-   "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-slide-on-calls-to-slow-ai-development-meast-escalation-4898779",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-14T20:11:56+00:00",
-   "tickers": []
-  },
-  {
-   "id": "eeafdce0ef72",
-   "title": "Trex Company, Inc. (TREX) Presents at Goldman Sachs Global Consumer and Retail Conference Transcript",
-   "link": "https://seekingalpha.com/article/4946165-trex-company-inc-trex-presents-at-goldman-sachs-global-consumer-and-retail-conference?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-14T20:11:43+00:00",
-   "tickers": [
-    "TREX",
-    "GS"
-   ]
   }
  ],
  "ticker_names": {
@@ -8906,7 +8906,6 @@
   "ABT": "Abbott Laboratories",
   "AXSM": "Axsome Therapeutics",
   "CAI": "Caris Life Sciences",
-  "LULU": "lululemon athletica",
   "VKTX": "Viking Therapeutics",
   "CNP": "CenterPoint Energy",
   "PANW": "Palo Alto Networks",
@@ -8960,9 +8959,11 @@
   "BX": "Blackstone",
   "CMS": "CMS Energy",
   "CRM": "Salesforce",
+  "GL": "Globe Life",
   "MA": "Mastercard",
   "SPGI": "S&P Global",
   "TECH": "Bio-Techne",
+  "MSFT": "Office 365",
   "PARA": "Paramount+",
   "AMBA": "Ambarella",
   "BLK": "BlackRock",
@@ -9005,13 +9006,14 @@
   "PFE": "Pfizer",
   "QGEN": "Qiagen",
   "RBRK": "Rubrik",
+  "SPCX": "SpaceX",
+  "CHWY": "Chewy",
   "FDX": "FedEx",
   "INTC": "Intel",
   "KKR": "KKR &",
   "SYY": "Sysco",
   "TOST": "Toast",
   "DAVE": "Dave",
-  "OKLO": "Oklo",
-  "TREX": "Trex"
+  "OKLO": "Oklo"
  }
 }
