@@ -1,8 +1,55 @@
 {
- "generated": "2026-09-15T22:39:06.455710+00:00",
+ "generated": "2026-09-15T22:45:37.960026+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "f1c455177f8f",
+   "title": "Enbridge reopens Line 5 after August spill; launches open season for proposed Texas pipeline",
+   "link": "https://seekingalpha.com/news/4643205-enbridge-reopens-line-5-after-august-spill-launches-open-season-for-proposed-texas-pipeline?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-15T22:42:20+00:00",
+   "tickers": [
+    "ENB"
+   ]
+  },
+  {
+   "id": "4f428de3e2f7",
+   "title": "Fortive Corporation (FTV) Presents at Morgan Stanley's 14th Annual Laguna Conference Transcript",
+   "link": "https://seekingalpha.com/article/4946763-fortive-corporation-ftv-presents-at-morgan-stanleys-14th-annual-laguna-conference-transcript?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-15T22:41:39+00:00",
+   "tickers": [
+    "FTV",
+    "MS"
+   ]
+  },
+  {
+   "id": "3c6c6867fdf4",
+   "title": "NGEx Minerals Ltd. (NGEX:CA) Analyst/Investor Day Transcript",
+   "link": "https://seekingalpha.com/article/4946631-ngex-minerals-ltd-ngex-ca-analyst-investor-day-transcript?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-15T22:41:38+00:00",
+   "tickers": []
+  },
   {
    "id": "834adb235e0b",
    "title": "Joseph-Beth Booksellers' locations acquired by Barnes & Noble",
@@ -8832,50 +8879,6 @@
    "domain": "globenewswire.com",
    "published": "2026-09-15T20:24:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "5591f4cdfd96",
-   "title": "Snatch This Bargain Energy Stock Even Cheaper Than Director Whitehurst Did",
-   "link": "https://www.nasdaq.com/articles/snatch-bargain-energy-stock-even-cheaper-director-whitehurst-did",
-   "summary": "There's an old saying on Wall Street about insider buying: there are many possible reasons to sell a stock, but only one reason to buy. Back on August 21, USA Compression Partners LP's Director, Bradford D. Whitehurst, invested $262,200.00 into 10,000 shares of USAC, for a cost",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-09-15T20:23:19+00:00",
-   "tickers": []
-  },
-  {
-   "id": "9610a0ede50d",
-   "title": "8-K - Tenable Holdings, Inc. (0001660280) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1660280/000166028026000039/0001660280-26-000039-index.htm",
-   "summary": "Filed: 2026-09-15 AccNo: 0001660280-26-000039 Size: 52 MB Item 1.01: Entry into a Material Definitive Agreement Item 1.02: Termination of a Material Definitive Agreement Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant Item 3.02: Unregistered Sales of Equity Securities Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-09-15T20:23:12+00:00",
-   "tickers": []
-  },
-  {
-   "id": "4a628f850cff",
-   "title": "FTAI Aviation stock rises on $500 million buyback program",
-   "link": "https://www.investing.com/news/stock-market-news/ftai-aviation-stock-rises-on-500-million-buyback-program-93CH-4902553",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "dividend",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-09-15T20:22:56+00:00",
-   "tickers": [
-    "FTAI"
-   ]
   }
  ],
  "ticker_names": {
@@ -8990,6 +8993,7 @@
   "NWSA": "News Corp",
   "AVGO": "Broadcom",
   "BCS": "Barclays",
+  "ENB": "Enbridge",
   "EXEL": "Exelixis",
   "INDV": "Indivior",
   "RTX": "Raytheon",
@@ -8997,6 +9001,7 @@
   "CVX": "Chevron",
   "DBX": "Dropbox",
   "ETR": "Entergy",
+  "FTV": "Fortive",
   "IVZ": "Invesco",
   "MDB": "MongoDB",
   "NOVT": "Novanta",
