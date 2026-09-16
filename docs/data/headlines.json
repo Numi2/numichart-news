@@ -1,8 +1,376 @@
 {
- "generated": "2026-09-16T23:19:16.982542+00:00",
+ "generated": "2026-09-16T23:28:38.342764+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "916021f56739",
+   "title": "Trump says he still has confidence in Fed Chair Warsh, demands 1% or lower interest rates",
+   "link": "https://www.cnbc.com/2026/09/16/trump-fed-interest-rate-warsh.html",
+   "summary": "President Donald Trump previously threatened to cut off trade with countries that have trade surpluses with the U.S. if the Fed doesn't cut interest rates.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "cnbc.com",
+   "published": "2026-09-16T23:21:14+00:00",
+   "tickers": []
+  },
+  {
+   "id": "2fb33ca2bcd5",
+   "title": "Dollar Soars as Fed Hikes Rates and Signals More to Come",
+   "link": "https://www.nasdaq.com/articles/dollar-soars-fed-hikes-rates-and-signals-more-come",
+   "summary": "The dollar index (DXY00 ) rallied to a 1.5-month high on Wednesday and finished up by +0.64%. The dollar found support Wednesday on signs of US economic growth after Aug retail sales rose more than expected. The dollar raced to its high Wednesday afternoon after the FOMC raised interest rates...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-09-16T23:19:38+00:00",
+   "tickers": []
+  },
+  {
+   "id": "49aa445ecd72",
+   "title": "Trump says Warsh faces hostile Fed board",
+   "link": "https://biztoc.com/x/329e858f2fc3775f?ref=rss",
+   "summary": "More to come......",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-16T23:17:04+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c4c2d7018ec7",
+   "title": "Trump administration paid federal workers $6.7B to quit, GAO audit says",
+   "link": "https://biztoc.com/x/e300d38ff94b01c2?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-16T23:17:03+00:00",
+   "tickers": []
+  },
+  {
+   "id": "834b9cf28697",
+   "title": "Trump threatens tariffs if EU adds Canada with 'bad' intent",
+   "link": "https://biztoc.com/x/154cc5d5258b060d?ref=rss",
+   "summary": "United States President Donald Trump threatened to impose more tariffs or even stop trading with the European Union \"on many things,\" should he find the bloc's intent to add Canada as an associate mem...",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-16T23:17:03+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e90b33d5512f",
+   "title": "HKMA raises base rate by a quarter point to 4.25%, the first increase since 2023",
+   "link": "https://biztoc.com/x/74b86463773042c6?ref=rss",
+   "summary": "Hong Kong’s de facto central bank increased its base rate by a quarter of a percentage point on Thursday after the US Federal Reserve raised the federal funds target range to rein in inflation amid conflict in the Middle East. The Hong Kong Monetary Authority (HKMA) raised the city’s base rate to…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-09-16T23:17:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "24b88fd48827",
+   "title": "Amazon Increases Wages, Offers New Whole Foods Discounts",
+   "link": "https://biztoc.com/x/d4405acc11d33547?ref=rss",
+   "summary": "Amazon is upping its minimum pay for core operations workers to $20 an hour and giving all US workers new grocery discounts. The $1-an-hour raise applies to full-time employees, many of whom work in Amazon's warehouses picking, packing, and sorting orders. Amazon's average hourly wage is now about…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-16T23:16:58+00:00",
+   "tickers": [
+    "AMZN"
+   ]
+  },
+  {
+   "id": "3c11417f81b2",
+   "title": "House passes GOP-backed bill targeting data center power costs",
+   "link": "https://biztoc.com/x/a9d4dc58d891814b?ref=rss",
+   "summary": "The vote gives House Republicans a bipartisan win on an issue that has become increasingly politically fraught ahead of the midterm elections.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-16T23:16:58+00:00",
+   "tickers": []
+  },
+  {
+   "id": "3b9fffaab17c",
+   "title": "US International Development Finance Corp approves more than $8 billion in new investments",
+   "link": "https://biztoc.com/x/2a26c86888b290ca?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-09-16T23:16:55+00:00",
+   "tickers": []
+  },
+  {
+   "id": "62ea0394bd2c",
+   "title": "IMF Urges RBA to Stay Hawkish, Warns of Inflation Upside Risks",
+   "link": "https://biztoc.com/x/7d461869cd63eb4b?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "macro",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-09-16T23:16:54+00:00",
+   "tickers": [
+    "RBA"
+   ]
+  },
+  {
+   "id": "cd3979e824a8",
+   "title": "Huawei Set to Unveil China's Best Answer to Nvidia AI Chip Reign",
+   "link": "https://biztoc.com/x/4f5570e36476b8b0?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-16T23:16:53+00:00",
+   "tickers": []
+  },
+  {
+   "id": "fc8158db436a",
+   "title": "Al Gore Says Emerging Markets Are Leapfrogging US on Clean Tech",
+   "link": "https://biztoc.com/x/5ac5feb7df69078e?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-16T23:16:50+00:00",
+   "tickers": []
+  },
+  {
+   "id": "d0c007a5de73",
+   "title": "House passes bill to shield consumers from data center price hikes on energy",
+   "link": "https://biztoc.com/x/1a20babc08ff7557?ref=rss",
+   "summary": "A recent NBC News poll found 70% of adults oppose the construction of AI data centers, like this one in Vernon, Calif., in their neighborhood.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-09-16T23:16:50+00:00",
+   "tickers": [
+    "NWSA"
+   ]
+  },
+  {
+   "id": "8a7c88d77796",
+   "title": "OpenAI discloses six new AI safety incidents",
+   "link": "https://biztoc.com/x/42cb1f4a2e5ae0b9?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-16T23:16:49+00:00",
+   "tickers": []
+  },
+  {
+   "id": "4eaa5fa67301",
+   "title": "Interest rates hold expected but Bank of England facing tough choices",
+   "link": "https://biztoc.com/x/c62b0090d88b2581?ref=rss",
+   "summary": "Published Policymakers at the Bank of England are expected to keep interest rates unchanged despite price rises accelerating due to the prolonged conflict in the Middle East. The nine-member Monetary Policy Committee (MPC) has been meeting amid a backdrop of increasing global energy prices and…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-16T23:16:47+00:00",
+   "tickers": [
+    "MPC"
+   ]
+  },
+  {
+   "id": "9b7b97fa3bd0",
+   "title": "Economists Concerned the AI Bubble Is About to Blow",
+   "link": "https://biztoc.com/x/cb80e6adfeb25810?ref=rss",
+   "summary": "With Wall Street on pins and needles amidst a wide-ranging discussion of AI safety, we may well be living through one of the most consequential weeks for the future of AI in the United States. That doesn’t necessarily mean we’re headed to an ascendant future for the AI industry. According to…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-16T23:16:45+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f8ad816da072",
+   "title": "Salesforce Sees $63 Billion in Revenue in Fiscal Year 2030",
+   "link": "https://biztoc.com/x/de585936def8d8fd?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-16T23:16:44+00:00",
+   "tickers": [
+    "CRM"
+   ]
+  },
+  {
+   "id": "67972aa3c077",
+   "title": "Scientists challenge US NIH grant screening as unconstitutional",
+   "link": "https://biztoc.com/x/06bf9054ad1f3d07?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-16T23:16:43+00:00",
+   "tickers": []
+  },
+  {
+   "id": "710d2642f1d3",
+   "title": "US Postal Service chief told associates he wants to quit, sources say",
+   "link": "https://biztoc.com/x/d1dff8404bc4c8fd?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-16T23:16:41+00:00",
+   "tickers": [
+    "SCI"
+   ]
+  },
+  {
+   "id": "17897ac92edd",
+   "title": "Bank of America sees 60% upside in Everpure stock",
+   "link": "https://biztoc.com/x/09cace287c25f454?ref=rss",
+   "summary": "Everpure has been one of the stronger storage names tied to the data-center buildout, and Bank of America thinks investors may still be underestimating how much runway the company has left. In a note given to TheStreet, Bank of America reiterated its Buy rating on Everpure (P) and maintained a…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-16T23:16:41+00:00",
+   "tickers": [
+    "BAC"
+   ]
+  },
+  {
+   "id": "2c15cc51464b",
+   "title": "Electricity discount to be paid to NI households",
+   "link": "https://biztoc.com/x/f155ffe158349444?ref=rss",
+   "summary": "Published All households in Northern Ireland will get a one-off £63 reduction in electricity bills from next month. It is the local outworking of two schemes which apply in Great Britain, which has a separately regulated electricity market. The schemes are being funded by the UK government and…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-16T23:16:41+00:00",
+   "tickers": [
+    "NI"
+   ]
+  },
+  {
+   "id": "4bfa43af0f72",
+   "title": "OpenAI reports 6 new instances of 'concerning model behavior' since March",
+   "link": "https://biztoc.com/x/0975586ad22fcaca?ref=rss",
+   "summary": "OpenAI on Wednesday said it found six instances of \"unexpected or concerning model behavior\" over the past six months, outside of the recent Hugging Face crisis, as the company continues to call for more safety protections in the development of artificial intelligence models. In a blog post,…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-16T23:16:39+00:00",
+   "tickers": []
+  },
+  {
+   "id": "af20451b28a0",
+   "title": "TikTok Mob Now Stalks Clancy Holdout Juror's Family",
+   "link": "https://biztoc.com/x/46e3301459b9f76d?ref=rss",
+   "summary": "TikTok Mob Now Stalks Clancy Holdout Juror's Family Authored by Steve Watson via Modernity News, The same online machine that turned a confessed child killer into a cause has a new target. After hanging Lindsay Clancy's murder trial, the lone holdout juror's family says TikTok extremists have…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-16T23:16:37+00:00",
+   "tickers": [
+    "NWSA"
+   ]
+  },
+  {
+   "id": "08c660109e7e",
+   "title": "New Zealand Economic Growth Exceeded Estimates in Second Quarter",
+   "link": "https://biztoc.com/x/bf7a4bbb0cd5b373?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-09-16T23:16:25+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e1a461d44ce3",
+   "title": "CNO Financial Group chief actuary sells $487,321 in shares",
+   "link": "https://www.investing.com/news/insider-trading-news/cno-financial-group-chief-actuary-sells-487321-in-shares-93CH-4904684",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-16T23:16:18+00:00",
+   "tickers": []
+  },
   {
    "id": "f5d0b2068b6b",
    "title": "PRIM Deadline: PRIM Investors Have Opportunity to Lead Primoris Services Corporation Securities Fraud Lawsuit",
@@ -20,6 +388,54 @@
    ]
   },
   {
+   "id": "dc188b644e19",
+   "title": "Crocs director Beth Kaplan buys $99,227 in company stock",
+   "link": "https://www.investing.com/news/insider-trading-news/crocs-director-beth-kaplan-buys-99227-in-company-stock-93CH-4904682",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-16T23:15:52+00:00",
+   "tickers": [
+    "CROX"
+   ]
+  },
+  {
+   "id": "9cd606a4be0e",
+   "title": "Crocs director Thomas Smach buys $75,813 in common stock",
+   "link": "https://www.investing.com/news/insider-trading-news/crocs-director-thomas-smach-buys-75813-in-common-stock-93CH-4904683",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-16T23:15:52+00:00",
+   "tickers": [
+    "CROX"
+   ]
+  },
+  {
+   "id": "c1f9a1f573fd",
+   "title": "Alignment healthcare CEO John Kao sells $356,200 in ALHC stock",
+   "link": "https://www.investing.com/news/insider-trading-news/alignment-healthcare-ceo-john-kao-sells-356200-in-alhc-stock-93CH-4904681",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-16T23:15:51+00:00",
+   "tickers": [
+    "ALHC"
+   ]
+  },
+  {
    "id": "0cf712cc2991",
    "title": "$HAREHOLDER ALERT: The M&amp;A Class Action Firm Announces An Investigation of Flag Ship Acquisition Corporation (NASDAQ: FSHP)",
    "link": "https://www.prnewswire.com/news-releases/hareholder-alert-the-ma-class-action-firm-announces-an-investigation-of-flag-ship-acquisition-corporation-nasdaq-fshp-302881177.html",
@@ -34,18 +450,51 @@
    "tickers": []
   },
   {
-   "id": "916021f56739",
-   "title": "Trump says he still has confidence in Fed Chair Warsh, demands 1% or lower interest rates",
-   "link": "https://www.cnbc.com/2026/09/16/trump-fed-interest-rate-warsh.html",
-   "summary": "President Donald Trump previously threatened to cut off trade with countries that have trade surpluses with the U.S. if the Fed doesn't cut interest rates.",
+   "id": "ba72c989cb7a",
+   "title": "Bank of England to hold rates but energy shock stirs talk of a hike",
+   "link": "https://www.investing.com/news/economy-news/bank-of-england-to-hold-rates-but-energy-shock-stirs-talk-of-a-hike-4904677",
+   "summary": "",
    "article_text": "",
-   "source": "CNBC Top",
+   "source": "Investing.com",
    "category": "markets",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "cnbc.com",
-   "published": "2026-09-16T23:14:10+00:00",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-09-16T23:12:41+00:00",
    "tickers": []
+  },
+  {
+   "id": "901f20d32f2e",
+   "title": "Exclusive-Malaysia talks to rival airlines as it monitors AirAsia’s financial health, sources say",
+   "link": "https://www.investing.com/news/stock-market-news/exclusivemalaysia-talks-to-rival-airlines-as-it-monitors-airasias-financial-health-sources-say-4902834",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-16T23:12:28+00:00",
+   "tickers": []
+  },
+  {
+   "id": "914fb5f825e0",
+   "title": "Stocks Tumble as Fed Hikes Interest Rates and Signals More to Come",
+   "link": "https://www.nasdaq.com/articles/stocks-tumble-fed-hikes-interest-rates-and-signals-more-come",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down by -0.45% on Wednesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down by -1.21%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +0.02%. E-mini S&P futures (ESU26 ) fell -0.42%, and September E-mini Nasdaq...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-09-16T23:12:16+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
   },
   {
    "id": "7b27e6f8f808",
@@ -76,6 +525,23 @@
    "tickers": []
   },
   {
+   "id": "8aa7f37bb316",
+   "title": "L3Harris at Morgan Stanley conference: execution over restructuring",
+   "link": "https://www.investing.com/news/transcripts/l3harris-at-morgan-stanley-conference-execution-over-restructuring-93CH-4904680",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-16T23:10:50+00:00",
+   "tickers": [
+    "MS",
+    "LHX"
+   ]
+  },
+  {
    "id": "bedfba90416d",
    "title": "Trump’s Latest Threats Loom Over Fed’s Interest Rate Decision",
    "link": "https://www.nytimes.com/2026/09/16/business/economy/trump-fed-interest-rates.html",
@@ -90,6 +556,37 @@
    "tickers": []
   },
   {
+   "id": "908ac5d4bb22",
+   "title": "US House advances first bill addressing economic impacts of data center boom",
+   "link": "https://www.investing.com/news/stock-market-news/us-house-advances-first-bill-addressing-economic-impacts-of-data-center-boom-4904679",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-16T23:09:50+00:00",
+   "tickers": []
+  },
+  {
+   "id": "47674b757717",
+   "title": "GXO Logistics at Morgan Stanley laguna conference: organic growth push",
+   "link": "https://www.investing.com/news/transcripts/gxo-logistics-at-morgan-stanley-laguna-conference-organic-growth-push-93CH-4904678",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-16T23:09:41+00:00",
+   "tickers": [
+    "GXO",
+    "MS"
+   ]
+  },
+  {
    "id": "fd048ff0213a",
    "title": "ArborGen Holdings Limited (RUBNF) Shareholder/Analyst Call - Slideshow",
    "link": "https://seekingalpha.com/article/4947265-arborgen-holdings-limited-rubnf-shareholder-analyst-call-slideshow?source=feed_all_articles",
@@ -102,6 +599,22 @@
    "domain": "seekingalpha.com",
    "published": "2026-09-16T23:09:11+00:00",
    "tickers": []
+  },
+  {
+   "id": "6b2e7fc1731c",
+   "title": "Holtec Nuclear suspends planned US IPO, Bloomberg News reports",
+   "link": "https://www.investing.com/news/stock-market-news/holtec-nuclear-suspends-planned-us-ipo-bloomberg-news-reports-4904657",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "offering",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-09-16T23:09:09+00:00",
+   "tickers": [
+    "NWSA"
+   ]
   },
   {
    "id": "270d4a0e87d9",
@@ -143,6 +656,20 @@
    "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-09-16T23:04:53+00:00",
+   "tickers": []
+  },
+  {
+   "id": "24edf9a3bfa3",
+   "title": "South Korea Stock Market May Hand Back Wednesday's Gains",
+   "link": "https://www.nasdaq.com/articles/south-korea-stock-market-may-hand-back-wednesdays-gains",
+   "summary": "(RTTNews) - The South Korea stock market on Wednesday ended the four-day losing streak in which it had plunged more than 420 points or 5.9 percent. The KOSPI now sits just beneath the 6,720-point plateau although it may head south again on Thursday.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-09-16T23:03:14+00:00",
    "tickers": []
   },
   {
@@ -640,7 +1167,7 @@
    "link": "https://www.prnewswire.com/news-releases/verapath-and-gentrust-launch-vira-an-ai-native-wealth-management-platform-for-rias-302881229.html",
    "summary": "Joint Venture Consolidates CRM, Planning, Portfolio, Tax and Reporting into One System of Record and One View of Every Client NEW YORK, Sept. 16, 2026 /PRNewswire/ -- Verapath and GenTrust today announced a joint venture and the general availability of VIRA, an AI-native wealth management...",
    "article_text": "",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -648,25 +1175,6 @@
    "published": "2026-09-16T22:57:00+00:00",
    "tickers": [
     "CRM"
-   ]
-  },
-  {
-   "id": "914fb5f825e0",
-   "title": "Stocks Tumble as Fed Hikes Interest Rates and Signals More to Come",
-   "link": "https://www.nasdaq.com/articles/stocks-tumble-fed-hikes-interest-rates-and-signals-more-come",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down by -0.45% on Wednesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down by -1.21%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +0.02%. E-mini S&P futures (ESU26 ) fell -0.42%, and September E-mini Nasdaq...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-09-16T22:55:58+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
    ]
   },
   {
@@ -696,36 +1204,6 @@
    "domain": "nasdaq.com",
    "published": "2026-09-16T22:55:58+00:00",
    "tickers": []
-  },
-  {
-   "id": "2fb33ca2bcd5",
-   "title": "Dollar Soars as Fed Hikes Rates and Signals More to Come",
-   "link": "https://www.nasdaq.com/articles/dollar-soars-fed-hikes-rates-and-signals-more-come",
-   "summary": "The dollar index (DXY00 ) rallied to a 1.5-month high on Wednesday and finished up by +0.64%. The dollar found support Wednesday on signs of US economic growth after Aug retail sales rose more than expected. The dollar raced to its high Wednesday afternoon after the FOMC raised interest rates...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-09-16T22:55:57+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6b2e7fc1731c",
-   "title": "Holtec Nuclear suspends planned US IPO, Bloomberg News reports",
-   "link": "https://www.investing.com/news/stock-market-news/holtec-nuclear-suspends-planned-us-ipo-bloomberg-news-reports-4904657",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "offering",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-09-16T22:55:12+00:00",
-   "tickers": [
-    "NWSA"
-   ]
   },
   {
    "id": "a55bde8c4ec8",
@@ -1677,7 +2155,7 @@
    "link": "https://www.prnewswire.com/news-releases/investar-holding-corporation-declares-quarterly-common-and-preferred-stock-cash-dividends-302881198.html",
    "summary": "BATON ROUGE, La., Sept. 16, 2026 /PRNewswire/ -- Investar Holding Corporation (the \"Company\") (Nasdaq: ISTR), the holding company of Investar Bank, National Association (the \"Bank\"), declared a quarterly cash dividend of $0.12 per share to holders of the Company's common stock. The...",
    "article_text": "",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "earnings",
    "sentiment": "neutral",
@@ -2272,7 +2750,7 @@
    "link": "https://www.prnewswire.com/news-releases/haymaker-acquisition-corp-v-announces-pricing-of-250-000-000-initial-public-offering-302881194.html",
    "summary": "NEW YORK, Sept. 16, 2026 /PRNewswire/ -- Haymaker Acquisition Corp V (the \"Company\") announced today the pricing of its initial public offering of 25,000,000 units at a price of $10.00 per unit. The units are expected to be listed on The New York Stock Exchange LLC (\"NYSE\") and begin...",
    "article_text": "",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "ma",
    "sentiment": "neutral",
@@ -8369,489 +8847,6 @@
    "tickers": [
     "SKY"
    ]
-  },
-  {
-   "id": "2f4b9e7ad200",
-   "title": "EMMA HERNAN'S COAST TO COAST KITCHEN EXPANDS NATIONWIDE TARGET PARTNERSHIP WITH HER SIGNATURE EMPANADAS AND EXCLUSIVE SEAFOOD FLAVORS",
-   "link": "https://www.prnewswire.com/news-releases/emma-hernans-coast-to-coast-kitchen-expands-nationwide-target-partnership-with-her-signature-empanadas-and-exclusive-seafood-flavors-302881137.html",
-   "summary": "BOSTON, Sept. 16, 2026 /PRNewswire/ -- Coast to Coast Kitchen, the seafood brand founded by third-generation food entrepreneur and Selling Sunset cast member Emma Hernan, today announced the debut of her signature empanadas at Target. The launch includes two seafood flavors developed...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "positive",
-   "domain": "prnewswire.com",
-   "published": "2026-09-16T20:37:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "75c93c969aa7",
-   "title": "Oil slips as Saudi Arabia offers more crude via Oman",
-   "link": "https://www.investing.com/news/commodities-news/oil-falls-as-us-crude-inventories-rise-despite-saudi-supply-concerns-4902799",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-16T20:36:33+00:00",
-   "tickers": []
-  },
-  {
-   "id": "92275d3d28ef",
-   "title": "Celanese appoints Luis Fernandez-Moreno to board of directors",
-   "link": "https://www.investing.com/news/company-news/celanese-appoints-luis-fernandezmoreno-to-board-of-directors-93CH-4904542",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-16T20:36:31+00:00",
-   "tickers": [
-    "CE"
-   ]
-  },
-  {
-   "id": "2259373b356f",
-   "title": "8-K - SYSCO CORP (0000096021) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/96021/000110465926108285/0001104659-26-108285-index.htm",
-   "summary": "Filed: 2026-09-16 AccNo: 0001104659-26-108285 Size: 505 KB Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-09-16T20:36:30+00:00",
-   "tickers": []
-  },
-  {
-   "id": "2b776160be8d",
-   "title": "Unisys transfers $200M in pension obligations to New York Life",
-   "link": "https://www.investing.com/news/company-news/unisys-transfers-200m-in-pension-obligations-to-new-york-life-93CH-4904539",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-16T20:36:30+00:00",
-   "tickers": []
-  },
-  {
-   "id": "38cb05055b0e",
-   "title": "Ares, PSP Investments form $2.4 billion U.S. logistics venture",
-   "link": "https://www.investing.com/news/company-news/ares-psp-investments-form-24-billion-us-logistics-venture-93CH-4904540",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-16T20:36:30+00:00",
-   "tickers": []
-  },
-  {
-   "id": "af1002fb2185",
-   "title": "Halozyme plans $1.05 billion convertible notes offering",
-   "link": "https://www.investing.com/news/company-news/halozyme-plans-105-billion-convertible-notes-offering-93CH-4904541",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "offering",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-16T20:36:30+00:00",
-   "tickers": [
-    "HALO"
-   ]
-  },
-  {
-   "id": "634a1e09b95b",
-   "title": "8-K - ESSENTIAL PROPERTIES REALTY TRUST, INC. (0001728951) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1728951/000172895126000064/0001728951-26-000064-index.htm",
-   "summary": "Filed: 2026-09-16 AccNo: 0001728951-26-000064 Size: 11 MB Item 7.01: Regulation FD Disclosure Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-09-16T20:36:11+00:00",
-   "tickers": []
-  },
-  {
-   "id": "180c1a2bb4f0",
-   "title": "8-K - Public Storage (0001393311) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1393311/000119312526393149/0001193125-26-393149-index.htm",
-   "summary": "Filed: 2026-09-16 AccNo: 0001193125-26-393149 Size: 1 MB Item 1.01: Entry into a Material Definitive Agreement Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-09-16T20:36:09+00:00",
-   "tickers": [
-    "PSA"
-   ]
-  },
-  {
-   "id": "022b93d3cf76",
-   "title": "AN Makes Notable Cross Below Critical Moving Average",
-   "link": "https://www.nasdaq.com/articles/makes-notable-cross-below-critical-moving-average",
-   "summary": "In trading on Wednesday, shares of AutoNation, Inc. (Symbol: AN) crossed below their 200 day moving average of $201.62, changing hands as low as $194.10 per share. AutoNation, Inc. shares are currently trading off about 4.5% on the day. The chart below shows the one year perfo",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-09-16T20:35:41+00:00",
-   "tickers": []
-  },
-  {
-   "id": "87105ff51f1e",
-   "title": "Onto Innovation: New Product Launches Will Drive Margins Much Higher",
-   "link": "https://seekingalpha.com/article/4947213-onto-innovation-new-product-launches-will-drive-margins-much-higher?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-16T20:35:39+00:00",
-   "tickers": [
-    "ONTO"
-   ]
-  },
-  {
-   "id": "ad6a878e9c2b",
-   "title": "Notable Two Hundred Day Moving Average Cross - RRC",
-   "link": "https://www.nasdaq.com/articles/notable-two-hundred-day-moving-average-cross-rrc-0",
-   "summary": "In trading on Wednesday, shares of Range Resources Corp (Symbol: RRC) crossed below their 200 day moving average of $39.35, changing hands as low as $38.98 per share. Range Resources Corp shares are currently trading off about 6.9% on the day. The chart below shows the one yea",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-09-16T20:35:38+00:00",
-   "tickers": [
-    "RRC"
-   ]
-  },
-  {
-   "id": "f1d177c8fb37",
-   "title": "World Kinect declares $0.23 dividend",
-   "link": "https://seekingalpha.com/news/4643552-world-kinect-declares-0_23-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "dividend",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-16T20:35:26+00:00",
-   "tickers": []
-  },
-  {
-   "id": "2ad57fe7d7e3",
-   "title": "Fluence Energy plunges after cutting full-year guidance on U.S. supply chain issues",
-   "link": "https://seekingalpha.com/news/4643543-fluence-energy-plunges-after-cutting-full-year-guidance-on-us-supply-chain-issues?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "earnings",
-   "sentiment": "negative",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-16T20:35:24+00:00",
-   "tickers": [
-    "FLNC"
-   ]
-  },
-  {
-   "id": "8bba96d72a18",
-   "title": "Targa Resources Corp. Releases Sustainability Report",
-   "link": "https://www.globenewswire.com/news-release/2026/09/16/3363564/14074/en/targa-resources-corp-releases-sustainability-report.html",
-   "summary": "HOUSTON, Sept. 16, 2026 (GLOBE NEWSWIRE) -- Targa Resources Corp. (NYSE: TRGP) (\"Targa\", the \"Company\", or “our”) announced today that our Sustainability Report for 2025 is now available on the Company’s website at https://www.targaresources.com/sustainability. The report provides a review of our performance for calendar year 2025 against various environmental, social, and governance topics that Targa believes are important to the industry and the Company’s business.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-09-16T20:35:00+00:00",
-   "tickers": [
-    "TRGP"
-   ]
-  },
-  {
-   "id": "8d6436caec92",
-   "title": "VMRK Crosses Below Key Moving Average Level",
-   "link": "https://www.nasdaq.com/articles/vmrk-crosses-below-key-moving-average-level",
-   "summary": "In trading on Wednesday, shares of Vivmark Residential (Symbol: VMRK) crossed below their 200 day moving average of $64.03, changing hands as low as $63.39 per share. Vivmark Residential shares are currently trading down about 3.3% on the day. The chart below shows the one yea",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-09-16T20:34:58+00:00",
-   "tickers": []
-  },
-  {
-   "id": "161e65a8fba5",
-   "title": "ABCB Crosses Below Key Moving Average Level",
-   "link": "https://www.nasdaq.com/articles/abcb-crosses-below-key-moving-average-level",
-   "summary": "In trading on Wednesday, shares of Ameris Bancorp (Symbol: ABCB) crossed below their 200 day moving average of $83.05, changing hands as low as $82.45 per share. Ameris Bancorp shares are currently trading down about 2.6% on the day. The chart below shows the one year performa",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-09-16T20:34:56+00:00",
-   "tickers": []
-  },
-  {
-   "id": "3db555ce3e96",
-   "title": "FNB Breaks Below 200-Day Moving Average - Notable for FNB",
-   "link": "https://www.nasdaq.com/articles/fnb-breaks-below-200-day-moving-average-notable-fnb",
-   "summary": "In trading on Wednesday, shares of FNB Corp (Symbol: FNB) crossed below their 200 day moving average of $17.84, changing hands as low as $17.59 per share. FNB Corp shares are currently trading off about 3.6% on the day. The chart below shows the one year performance of FNB sha",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-09-16T20:34:53+00:00",
-   "tickers": [
-    "FNB"
-   ]
-  },
-  {
-   "id": "30a40d2e1eb2",
-   "title": "SPG Makes Notable Cross Below Critical Moving Average",
-   "link": "https://www.nasdaq.com/articles/spg-makes-notable-cross-below-critical-moving-average",
-   "summary": "In trading on Wednesday, shares of Simon Property Group, Inc. (Symbol: SPG) crossed below their 200 day moving average of $202.50, changing hands as low as $200.68 per share. Simon Property Group, Inc. shares are currently trading down about 1.6% on the day. The chart below sh",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-09-16T20:34:50+00:00",
-   "tickers": [
-    "SPG"
-   ]
-  },
-  {
-   "id": "c7e04c6f024c",
-   "title": "8-K - Capri Holdings Ltd (0001530721) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1530721/000095014226002556/0000950142-26-002556-index.htm",
-   "summary": "Filed: 2026-09-16 AccNo: 0000950142-26-002556 Size: 220 KB Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-09-16T20:34:45+00:00",
-   "tickers": [
-    "CPRI"
-   ]
-  },
-  {
-   "id": "45e3cb1470cf",
-   "title": "8-K - IPALCO ENTERPRISES, INC. (0000728391) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/728391/000095010326014047/0000950103-26-014047-index.htm",
-   "summary": "Filed: 2026-09-16 AccNo: 0000950103-26-014047 Size: 178 KB Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-09-16T20:34:35+00:00",
-   "tickers": []
-  },
-  {
-   "id": "0cf033cb602e",
-   "title": "Dow drops 600 points as Fed rate hike and Warsh's inflation talk unnerve investors: Live updates",
-   "link": "https://www.cnbc.com/2026/09/15/stock-market-today-live-updates.html",
-   "summary": "The Dow Jones Industrial Average fell on Wednesday after the Federal Reserve hiked interest rates for the first time in three years.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "cnbc.com",
-   "published": "2026-09-16T20:34:12+00:00",
-   "tickers": []
-  },
-  {
-   "id": "8733eac46425",
-   "title": "equipifi Wins Best of Show at FinovateFall 2026",
-   "link": "https://www.prnewswire.com/news-releases/equipifi-wins-best-of-show-at-finovatefall-2026-302881134.html",
-   "summary": "Recognized by event attendees for its Buy Now, Pay Later infrastructure, designed to help financial institutions compete against third-party providers SCOTTSDALE, Ariz., Sept. 16, 2026 /PRNewswire/ -- equipifi, the leading provider of Buy Now, Pay Later (BNPL) infrastructure for banks and...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "press",
-   "sentiment": "positive",
-   "domain": "prnewswire.com",
-   "published": "2026-09-16T20:34:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "c9177e5a8455",
-   "title": "Borr Drilling Limited (BORR) Presents at Pareto Securities' 33rd Annual Energy Conference - Slideshow",
-   "link": "https://seekingalpha.com/article/4947232-borr-drilling-limited-borr-presents-at-pareto-securities-33rd-annual-energy-conference?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-16T20:33:48+00:00",
-   "tickers": []
-  },
-  {
-   "id": "782a0d06ece8",
-   "title": "Semtech climbs 11% as volatile run continues",
-   "link": "https://seekingalpha.com/news/4643535-semtech-climbs-11-as-volatile-run-continues?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-16T20:33:46+00:00",
-   "tickers": [
-    "SMTC"
-   ]
-  },
-  {
-   "id": "715bed427cb6",
-   "title": "8-K - TEN Holdings, Inc. (0002030954) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/2030954/000149315226042930/0001493152-26-042930-index.htm",
-   "summary": "Filed: 2026-09-16 AccNo: 0001493152-26-042930 Size: 205 KB Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-09-16T20:33:41+00:00",
-   "tickers": []
-  },
-  {
-   "id": "2dd45a0e39e0",
-   "title": "Apple may build AI servers with its own chips and Nvidia networking",
-   "link": "https://biztoc.com/x/3f4bbfc4b6d9e039?ref=rss",
-   "summary": "This article first appeared on GuruFocus. Apple Inc. (AAPL, Financials), the consumer technology company behind the iPhone and Mac, may be preparing to take its in-house chips somewhere new. - Warning! GuruFocus has detected 6 Warning Sign with BAC. - Is AAPL fairly valued? Test your thesis with…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-16T20:33:37+00:00",
-   "tickers": [
-    "AAPL",
-    "BAC"
-   ]
-  },
-  {
-   "id": "a201b781b019",
-   "title": "Apple Talks to Nvidia About NVLink for Its Own AI Server",
-   "link": "https://biztoc.com/x/18fab9f646910c83?ref=rss",
-   "summary": "This article first appeared on GuruFocus. Apple Inc. (NASDAQ:AAPL) is developing an enterprise AI server built around its own M8 Ultra chips for a 2029 launch, and has held talks with Nvidia Corp. (NASDAQ:NVDA) about using its NVLink Fusion interconnect to link those chips, The Information…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-16T20:33:28+00:00",
-   "tickers": [
-    "AAPL",
-    "NVDA"
-   ]
-  },
-  {
-   "id": "1367f163ae8d",
-   "title": "DTEK receives $97.5 million U.S. loan for battery storage",
-   "link": "https://www.investing.com/news/stock-market-news/dtek-receives-975-million-us-loan-for-battery-storage-93CH-4904528",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-16T20:33:27+00:00",
-   "tickers": []
-  },
-  {
-   "id": "61d37a82e315",
-   "title": "UBS Delivers Bullish Call on 10 Stocks With Up to 62% Upside",
-   "link": "https://biztoc.com/x/ca8e03330e2521f4?ref=rss",
-   "summary": "This article first appeared on GuruFocus. UBS has highlighted 10 industrial companies it sees as positioned for a broader capital-spending cycle, with manufacturing, transportation, defense and construction among the areas expected to gain from improving investment conditions. The list includes…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-16T20:33:26+00:00",
-   "tickers": [
-    "BLSH",
-    "UBS"
-   ]
-  },
-  {
-   "id": "9186fb4f632d",
-   "title": "Bank of America Falls 1.4% as Fee Guidance Drops 10%--20%",
-   "link": "https://biztoc.com/x/b963ba0c30a97700?ref=rss",
-   "summary": "This article first appeared on GuruFocus. Bank of America (NYSE:BAC), the consumer, commercial and investment-banking giant, projected third-quarter investment-banking fees of $1.6 billion to $1.8 billion after CEO Brian Moynihan outlined the outlook at an investor conference, according to…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "earnings",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-09-16T20:33:25+00:00",
-   "tickers": [
-    "BAC"
-   ]
-  },
-  {
-   "id": "700eb2940d16",
-   "title": "First American Financial raises dividend to $0.61",
-   "link": "https://seekingalpha.com/news/4643551-first-american-financial-raises-dividend-to-061?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-16T20:33:12+00:00",
-   "tickers": [
-    "FAF"
-   ]
   }
  ],
  "ticker_names": {
@@ -8879,16 +8874,16 @@
   "MLM": "Martin Marietta Materials",
   "APO": "Apollo Global Management",
   "CFG": "Citizens Financial Group",
-  "FAF": "First American Financial",
   "AAL": "American Airlines Group",
   "GS": "The Goldman Sachs Group",
   "JHX": "James Hardie Industries",
   "CMG": "Chipotle Mexican Grill",
-  "CPRI": "Capri Holdings Limited",
   "VZ": "Verizon Communications",
   "GRAB": "Grab Holdings Limited",
   "HALO": "Halozyme Therapeutics",
+  "LHX": "L3Harris Technologies",
   "PLTR": "Palantir Technologies",
+  "ALHC": "Alignment Healthcare",
   "EIX": "Edison International",
   "JAZZ": "Jazz Pharmaceuticals",
   "LW": "Lamb Weston Holdings",
@@ -8900,6 +8895,7 @@
   "CACI": "CACI International",
   "FANG": "Diamondback Energy",
   "LUV": "Southwest Airlines",
+  "MPC": "Marathon Petroleum",
   "LITE": "Lumentum Holdings",
   "MU": "Micron Technology",
   "PRIM": "Primoris Services",
@@ -8919,10 +8915,8 @@
   "CHYM": "Chime Financial",
   "DIS": "The Walt Disney",
   "MRCY": "Mercury Systems",
-  "ONTO": "Onto Innovation",
   "RRC": "Range Resources",
   "TEL": "TE Connectivity",
-  "TRGP": "Targa Resources",
   "TXRH": "Texas Roadhouse",
   "WGS": "GeneDx Holdings",
   "HPQ": "Hewlett-Packard",
@@ -8931,9 +8925,9 @@
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
   "NEE": "NextEra Energy",
-  "PSA": "Public Storage",
   "SKY": "Champion Homes",
   "EXE": "Expand Energy",
+  "GXO": "GXO Logistics",
   "KRC": "Kilroy Realty",
   "TOL": "Toll Brothers",
   "UNP": "Union Pacific",
@@ -8964,6 +8958,7 @@
   "BLK": "BlackRock",
   "CME": "CME Group",
   "OGN": "Organon &",
+  "RBA": "RB Global",
   "TE": "T1 Energy",
   "NWSA": "News Corp",
   "BCS": "Barclays",
@@ -8972,23 +8967,22 @@
   "GOOG": "Alphabet",
   "MTB": "M&T Bank",
   "NGD": "New Gold",
+  "NI": "NiSource",
   "RS": "Reliance",
   "FOX": "Fox Corp",
-  "BLSH": "Bullish",
   "CMI": "Cummins",
   "CNC": "Centene",
   "GLOB": "Globant",
   "LINE": "Lineage",
   "NEM": "Newmont",
   "SCI": "Service",
-  "SMTC": "Semtech",
   "WMT": "Walmart",
   "NFLX": "Netflix",
   "LEN": "Lennar",
   "NDAQ": "Nasdaq",
   "NTRA": "Natera",
+  "CROX": "Crocs",
   "ETN": "Eaton",
-  "FNB": "F.N.B",
   "INTC": "Intel",
   "KKR": "KKR &",
   "TOST": "Toast",
