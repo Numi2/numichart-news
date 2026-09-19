@@ -1,8 +1,24 @@
 {
- "generated": "2026-09-19T08:36:02.843160+00:00",
+ "generated": "2026-09-19T08:45:52.170063+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "564d7735c4ee",
+   "title": "PPLT: Term Structure Supporting The Downtrend, But Historical Seasonality Says Otherwise",
+   "link": "https://seekingalpha.com/article/4948029-pplt-term-structure-supporting-the-downtrend-but-historical-seasonality-says-otherwise?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-19T08:37:57+00:00",
+   "tickers": [
+    "PPLT"
+   ]
+  },
   {
    "id": "e73b851d8c61",
    "title": "EU calls on US to rethink Palestinian UNGA visa denial",
@@ -316,6 +332,20 @@
    "tickers": [
     "HOOD"
    ]
+  },
+  {
+   "id": "11fd9194a5fa",
+   "title": "On takes aim at ailing Nike with Mbappé transfer coup",
+   "link": "https://www.ft.com/content/40222e79-3ee7-4388-8362-7d06c7f71f69?syn-25a6b1a6=1",
+   "summary": "Also in today’s newsletter: Clearlake wins the Chelsea civil war",
+   "article_text": "",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "ft.com",
+   "published": "2026-09-19T08:00:04+00:00",
+   "tickers": []
   },
   {
    "id": "a7f866006905",
@@ -8863,34 +8893,6 @@
    "tickers": [
     "MU"
    ]
-  },
-  {
-   "id": "3e7b49701a98",
-   "title": "'Central' part of Trump movement is 'aversion to people of color': Belcher",
-   "link": "https://biztoc.com/x/702dc53f773fc082?ref=rss",
-   "summary": "A racist social media post by Bo French, a Republican running for the Texas Railroad Commission, has received much backlash ...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-18T21:50:58+00:00",
-   "tickers": []
-  },
-  {
-   "id": "07ba27eac351",
-   "title": "Shoppers Rediscover Joy of Dressing Up, Suit Sales Jump",
-   "link": "https://biztoc.com/x/ec591b6cfa4e0514?ref=rss",
-   "summary": "Bloomberg's Chris Rovzar joins Scarlet Fu and Tom Keene on \"Bloomberg Money.\" They discuss the resurgence in suit sales for ...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-09-18T21:50:38+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8899,6 +8901,7 @@
   "XLB": "State Street Materials Select Sector SPDR ETF",
   "ETH": "Grayscale Ethereum Staking Mini ETF Shares",
   "DIA": "SPDR Dow Jones Industrial Average ETF",
+  "PPLT": "abrdn Physical Platinum Shares ETF",
   "UNG": "United States Natural Gas Fund LP",
   "DB": "Deutsche Bank Aktiengesellschaft",
   "DGRO": "iShares Core Dividend Growth ETF",
