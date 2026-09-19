@@ -1,8 +1,24 @@
 {
- "generated": "2026-09-19T14:52:45.640746+00:00",
+ "generated": "2026-09-19T14:59:12.679076+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "5ec7154d41e1",
+   "title": "CNN and MS NOW Reporters Barred From White House After Trump Announces Ban",
+   "link": "https://www.nytimes.com/2026/09/19/business/media/trump-white-house-press-ban.html",
+   "summary": "The prohibition on certain journalists was a stark escalation in President Trump’s war on the media, and will probably face a legal challenge.",
+   "article_text": "",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-09-19T14:49:31+00:00",
+   "tickers": [
+    "MS"
+   ]
+  },
   {
    "id": "dbcd696f237d",
    "title": "CNN and MS NOW Reporters Barred From White House After Trump Announces Ban",
@@ -317,22 +333,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-09-19T14:35:26+00:00",
    "tickers": []
-  },
-  {
-   "id": "5ec7154d41e1",
-   "title": "CNN and MS NOW Reporters Barred From White House After Trump Announces Ban",
-   "link": "https://www.nytimes.com/2026/09/19/business/media/trump-white-house-press-ban.html",
-   "summary": "The prohibition on certain journalists was a stark escalation in President Trump’s war on the media, and will probably face a legal challenge.",
-   "article_text": "",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "nytimes.com",
-   "published": "2026-09-19T14:34:33+00:00",
-   "tickers": [
-    "MS"
-   ]
   },
   {
    "id": "58111148be3f",
@@ -1671,6 +1671,22 @@
    "id": "0494fa907345",
    "title": "MS NOW says its journalists were denied entry to the White House amid Trump’s ban",
    "link": "https://seekingalpha.com/news/4644562-ms-now-denied-entry-white-house?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-19T13:25:32+00:00",
+   "tickers": [
+    "MS"
+   ]
+  },
+  {
+   "id": "bff7087ac76e",
+   "title": "MS NOW, CNN journalists barred from White House after Trump’s ban",
+   "link": "https://seekingalpha.com/news/4644562-ms-now-cnn-denied-entry-white-house?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
    "summary": "",
    "article_text": "",
    "source": "Seeking Alpha M&A",
@@ -8815,20 +8831,6 @@
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
    "published": "2026-09-19T03:59:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "9fa35d98e716",
-   "title": "Kremlin orders Russia businesses of Nestle, Auchan seized",
-   "link": "https://biztoc.com/x/1e89399844619385?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-19T03:56:50+00:00",
    "tickers": []
   }
  ],
