@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-19T20:53:37.256439+00:00",
+ "generated": "2026-09-19T20:59:46.216700+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -103,6 +103,22 @@
    "domain": "biztoc.com",
    "published": "2026-09-19T20:47:19+00:00",
    "tickers": []
+  },
+  {
+   "id": "154ec44179ab",
+   "title": "Sugar Prices Undercut by Demand Concerns",
+   "link": "https://www.nasdaq.com/articles/sugar-prices-undercut-demand-concerns",
+   "summary": "October NY world sugar #11 (SBV26 ) on Friday closed down -0.06 (-0.34%) on Friday, and December London ICE white sugar #5 (SWZ26 ) closed up +0.20 (+0.04%). Sugar prices slid to 3-week lows on Friday before recovering slightly to settle mixed. Sugar prices have been under pressure over the...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-19T20:43:03+00:00",
+   "tickers": [
+    "ICE"
+   ]
   },
   {
    "id": "229d421b0b1b",
@@ -8924,20 +8940,6 @@
    "domain": "markets.businessinsider.com",
    "published": "2026-09-19T12:21:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "f2a68215d0c2",
-   "title": "VCR: Consumer Discretionary Sector Dashboard For September",
-   "link": "https://seekingalpha.com/article/4948057-vcr-consumer-discretionary-sector-dashboard-september?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-19T12:20:13+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8955,6 +8957,7 @@
   "CHH": "Choice Hotels International",
   "QQQ": "Invesco QQQ Trust, Series 1",
   "IBKR": "Interactive Brokers Group",
+  "ICE": "Intercontinental Exchange",
   "MPWR": "Monolithic Power Systems",
   "GS": "The Goldman Sachs Group",
   "AMD": "Advanced Micro Devices",
