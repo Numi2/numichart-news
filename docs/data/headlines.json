@@ -1,8 +1,38 @@
 {
- "generated": "2026-09-19T18:22:09.397994+00:00",
+ "generated": "2026-09-19T18:33:12.599076+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "786e90f65476",
+   "title": "Many young investors can’t afford to invest without their parents’ help",
+   "link": "https://www.marketwatch.com/story/many-young-investors-cant-afford-to-invest-without-their-parents-help-dbb05687?mod=mw_rss_topstories",
+   "summary": "Parents are providing help with things like housing and groceries, and sometimes directly investing for their children, to give them a head start in a challenging economy.",
+   "article_text": "",
+   "source": "MarketWatch",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "marketwatch.com",
+   "published": "2026-09-19T18:22:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "d06689e9e087",
+   "title": "Oracle: Backlog Burden Implies More Capex Pains - Contrarian AI Buy Thesis",
+   "link": "https://seekingalpha.com/article/4948072-oracle-backlog-burden-implies-more-capex-pains-contrarian-ai-buy-thesis?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-19T18:21:00+00:00",
+   "tickers": [
+    "ORCL"
+   ]
+  },
   {
    "id": "e04d3a82ee47",
    "title": "Trump Reignites Kennedy Center Fight",
@@ -8857,38 +8887,6 @@
    "domain": "biztoc.com",
    "published": "2026-09-19T10:28:15+00:00",
    "tickers": []
-  },
-  {
-   "id": "bb10e856b086",
-   "title": "How to Buy L3Harris: A Cheap Drone Stock With an AI Kicker",
-   "link": "https://www.nasdaq.com/articles/how-buy-l3harris-cheap-drone-stock-ai-kicker",
-   "summary": "Key PointsL3Harris and BAE Systems have developed counter-drone missiles that cost half the price of the drones they shoot down.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-09-19T10:26:00+00:00",
-   "tickers": [
-    "LHX"
-   ]
-  },
-  {
-   "id": "6a7d6ae6f51f",
-   "title": "Laser Weapons Are Real Now -- and You Can Invest in Them With AeroVironment Stock",
-   "link": "https://www.nasdaq.com/articles/laser-weapons-are-real-now-and-you-can-invest-them-aerovironment-stock",
-   "summary": "Key PointsThe U.S. Army just awarded AV a $464.8 million contract to build laser guns.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-09-19T10:20:00+00:00",
-   "tickers": [
-    "AVAV"
-   ]
   }
  ],
  "ticker_names": {
@@ -8915,7 +8913,6 @@
   "CWST": "Casella Waste Systems",
   "DOG": "ProShares Short Dow30",
   "KEYS": "Keysight Technologies",
-  "LHX": "L3Harris Technologies",
   "AMPX": "Amprius Technologies",
   "CRWD": "CrowdStrike Holdings",
   "ABT": "Abbott Laboratories",
@@ -8951,7 +8948,6 @@
   "CCK": "Crown Holdings",
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
-  "AVAV": "AeroVironment",
   "CSCO": "Cisco Systems",
   "POST": "Post Holdings",
   "MSTR": "MicroStrategy",
