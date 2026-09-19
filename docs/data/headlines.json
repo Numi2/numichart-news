@@ -1,8 +1,22 @@
 {
- "generated": "2026-09-19T05:32:32.943250+00:00",
+ "generated": "2026-09-19T05:41:42.552178+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "009705afadc7",
+   "title": "FTF: Levered Exposure To High Yield Makes It Avoidable, Despite Lower Duration",
+   "link": "https://seekingalpha.com/article/4948012-ftf-levered-exposure-to-high-yield-makes-it-avoidable-despite-lower-duration?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-19T05:35:26+00:00",
+   "tickers": []
+  },
   {
    "id": "ddcc9e9defbe",
    "title": "Accenture: AI Opportunity Is Strong, But Growth Remains Slow",
@@ -107,6 +121,25 @@
    "domain": "ft.com",
    "published": "2026-09-19T05:13:25+00:00",
    "tickers": []
+  },
+  {
+   "id": "6c30ad28b20e",
+   "title": "Sandisk Joins the S&P 100 on Monday -- the Same Day Nike Leaves It",
+   "link": "https://www.nasdaq.com/articles/sandisk-joins-sp-100-monday-same-day-nike-leaves-it",
+   "summary": "Key PointsSandisk officially becomes an S&P 100 company on Monday, Sept. 21, along with Dell Technologies, Palo Alto Networks, and Arista Networks.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-19T05:13:01+00:00",
+   "tickers": [
+    "PANW",
+    "DELL",
+    "ANET",
+    "SNDK"
+   ]
   },
   {
    "id": "54539d37ac53",
@@ -8875,34 +8908,6 @@
    "domain": "sec.gov",
    "published": "2026-09-18T21:10:19+00:00",
    "tickers": []
-  },
-  {
-   "id": "288bc198ff44",
-   "title": "Wendy’s franchisee with hundreds of locations across 15 states files for bankruptcy",
-   "link": "https://biztoc.com/x/ae071023db49b9d5?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-09-18T21:10:06+00:00",
-   "tickers": []
-  },
-  {
-   "id": "7fb24e7cbdd4",
-   "title": "Iovance Biotherapeutics Reports Inducement Grants under NASDAQ Listing Rule 5635(c)(4)",
-   "link": "https://www.globenewswire.com/news-release/2026/09/18/3364960/0/en/iovance-biotherapeutics-reports-inducement-grants-under-nasdaq-listing-rule-5635-c-4.html",
-   "summary": "SAN CARLOS, Calif., Sept. 18, 2026 (GLOBE NEWSWIRE) -- Iovance Biotherapeutics, Inc. (NASDAQ: IOVA) (\"Iovance\" or the “Company”), a biotechnology company focused on innovating, developing, and delivering novel polyclonal tumor infiltrating lymphocyte (“TIL”) therapies for patients with cancer, today announced that on September 17, 2026 (the “Date of Grant”), the Company approved the grant of inducement stock options covering an aggregate of 179,750 shares of Iovance’s common stock to eighteen new, non-executive employees.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-09-18T21:10:00+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8942,6 +8947,7 @@
   "IBN": "ICICI Bank Limited",
   "LUV": "Southwest Airlines",
   "NYT": "The New York Times",
+  "PANW": "Palo Alto Networks",
   "PSKY": "Paramount Skydance",
   "SWKS": "Skyworks Solutions",
   "TYL": "Tyler Technologies",
@@ -8958,6 +8964,7 @@
   "GNRC": "Generac Holdings",
   "NVO": "Novo Nordisk A/S",
   "PTCT": "PTC Therapeutics",
+  "ANET": "Arista Networks",
   "DAL": "Delta Air Lines",
   "DIS": "The Walt Disney",
   "LDOS": "Leidos Holdings",
@@ -9018,6 +9025,7 @@
   "GKOS": "Glaukos",
   "ROL": "Rollins",
   "SCI": "Service",
+  "SNDK": "Sandisk",
   "NFLX": "Netflix",
   "NDAQ": "Nasdaq",
   "ORCL": "Oracle",
