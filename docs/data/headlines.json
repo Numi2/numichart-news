@@ -1,8 +1,55 @@
 {
- "generated": "2026-09-19T03:46:42.555890+00:00",
+ "generated": "2026-09-19T03:52:54.012766+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "0c8bcf203461",
+   "title": "Atn International director Prior sells $307,729 in stock",
+   "link": "https://www.investing.com/news/insider-trading-news/atn-international-director-prior-sells-307729-in-stock-93CH-4908049",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-19T03:46:05+00:00",
+   "tickers": []
+  },
+  {
+   "id": "1986fed32145",
+   "title": "Stocks Finish Mostly Higher as Crude Prices Fall",
+   "link": "https://www.nasdaq.com/articles/stocks-finish-mostly-higher-crude-prices-fall",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed up by +0.17% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down by -0.18%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +0.67%. December E-mini S&P futures (ESZ26 ) rose +0.20%, and December E-mini...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-09-19T03:42:45+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
+  },
+  {
+   "id": "d387aa694513",
+   "title": "US fashion council CEO Kolb resigns after clash with runway show protesters",
+   "link": "https://www.investing.com/news/stock-market-news/us-fashion-council-ceo-kolb-resigns-after-clash-with-runway-show-protesters-4908048",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-09-19T03:42:29+00:00",
+   "tickers": []
+  },
   {
    "id": "63880a1f7044",
    "title": "Paramount could sell some cable channels amid WBD bid",
@@ -35,6 +82,20 @@
    "tickers": []
   },
   {
+   "id": "fd355f6cbb7b",
+   "title": "EOS Climbs 10% In Rally",
+   "link": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-10-in-rally-4908047",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-09-19T03:38:02+00:00",
+   "tickers": []
+  },
+  {
    "id": "2ee845f84dd2",
    "title": "Richtech Robotics: Plenty Of Cash, But Growth Remains Elusive",
    "link": "https://seekingalpha.com/article/4948000-richtech-robotics-plenty-of-cash-but-growth-remains-elusive?source=feed_all_articles",
@@ -49,6 +110,20 @@
    "tickers": [
     "RR"
    ]
+  },
+  {
+   "id": "d7a5b7b6b443",
+   "title": "U.S. approves potential $2.7 billion air defense sale to Ukraine",
+   "link": "https://www.investing.com/news/economy-news/us-approves-potential-27-billion-air-defense-sale-to-ukraine-4908046",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-09-19T03:33:51+00:00",
+   "tickers": []
   },
   {
    "id": "94e45161a195",
@@ -1570,25 +1645,6 @@
    "published": "2026-09-19T01:14:33+00:00",
    "tickers": [
     "WBD"
-   ]
-  },
-  {
-   "id": "1986fed32145",
-   "title": "Stocks Finish Mostly Higher as Crude Prices Fall",
-   "link": "https://www.nasdaq.com/articles/stocks-finish-mostly-higher-crude-prices-fall",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed up by +0.17% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down by -0.18%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +0.67%. December E-mini S&P futures (ESZ26 ) rose +0.20%, and December E-mini...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-09-19T01:11:45+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
    ]
   },
   {
@@ -8855,66 +8911,6 @@
    "published": "2026-09-18T20:52:09+00:00",
    "tickers": [
     "BRK-A"
-   ]
-  },
-  {
-   "id": "1f2792a07974",
-   "title": "Inside airlines' panic as FAA pushed new AI tool",
-   "link": "https://biztoc.com/x/974234da93aea70c?ref=rss",
-   "summary": "J. David Ake/Getty Images POLITICO reports airlines are cautious but optimistic about an AI tool for airspace management. The tool aims to reduce flight delays by predicting and managing airspace congestion. Confusion over the FAA's vague description of its much-hyped plans eased in the past…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-18T20:52:06+00:00",
-   "tickers": []
-  },
-  {
-   "id": "104008709d20",
-   "title": "Your questions about the AI apocalypse, answered",
-   "link": "https://biztoc.com/x/fa39b0dea34c47fb?ref=rss",
-   "summary": "Protesters during a \"Stop the AI Race\" demonstration calling for a slowdown in the development of advanced artificial intelligence systems outside City Hall in San Francisco, California, on September 17, 2026. | Karl Mondon/AFP via Getty Images This story appeared in Today, Explained, a daily…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-18T20:51:59+00:00",
-   "tickers": []
-  },
-  {
-   "id": "5972c584db56",
-   "title": "Anthropic's Annualized Revenue to Top $100 Billion in 2026: NYT",
-   "link": "https://biztoc.com/x/24d53b9b1cf025bc?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-09-18T20:51:58+00:00",
-   "tickers": [
-    "NYT"
-   ]
-  },
-  {
-   "id": "009b64ff5bce",
-   "title": "Trump Bans CNN, MSNBC And Politico From White House",
-   "link": "https://biztoc.com/x/cf07e8f85f81d4e0?ref=rss",
-   "summary": "Trump Bans CNN, MSNBC And Politico From White House Authored by Zachary Stieber via The Epoch Times, President Donald Trump on Sept. 18 said he has banned three news outlets from the White House. Trump said on Truth Social that he was, effective immediately, banning CNN, MS Now, and Politico…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-18T20:51:56+00:00",
-   "tickers": [
-    "MS"
    ]
   }
  ],
