@@ -1,8 +1,25 @@
 {
- "generated": "2026-09-19T22:26:48.163130+00:00",
+ "generated": "2026-09-19T22:33:10.362666+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "28d9183170af",
+   "title": "Where You Hold SCHD and JEPI Matters More Than You Think: The Taxable vs. IRA Math",
+   "link": "https://biztoc.com/x/288c9081bafafd35?ref=rss",
+   "summary": "The post Where You Hold SCHD and JEPI Matters More Than You Think: The Taxable vs. IRA Math appeared first on 24/7 Wall St.. Two investors can hold the same dividend ETF, receive the same distributions, and keep very different amounts of income. The difference is the account. A qualified dividend…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-19T22:24:39+00:00",
+   "tickers": [
+    "SCHD",
+    "JEPI"
+   ]
+  },
   {
    "id": "0a6e9800d63d",
    "title": "Cardinal Health Targets 13%-15% EPS Growth as Specialty Momentum Builds",
@@ -8912,22 +8929,6 @@
    "domain": "prnewswire.com",
    "published": "2026-09-19T13:00:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "342af57012bc",
-   "title": "Crypto News: Remittix Pushes Toward Its $36M Hard Cap as Bitcoin Price Prediction For September Hits $93K",
-   "link": "https://markets.businessinsider.com/news/stocks/crypto-news-remittix-pushes-toward-its-36m-hard-cap-as-bitcoin-price-prediction-for-september-hits-93k-1036558695",
-   "summary": "MAJURO, Marshall Islands, Sept. 19, 2026 (GLOBE NEWSWIRE) -- Remittix is advancing toward its $36 million hard cap as the project prepares its crypto-to-fiat ecosystem for public launch. The Remittix website reports 82.51% of the current...",
-   "article_text": "",
-   "source": "Markets Insider",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "markets.businessinsider.com",
-   "published": "2026-09-19T13:00:00+00:00",
-   "tickers": [
-    "NWSA"
-   ]
   }
  ],
  "ticker_names": {
@@ -8935,10 +8936,12 @@
   "VYMI": "Vanguard International High Dividend Yield ETF",
   "DIA": "SPDR Dow Jones Industrial Average ETF",
   "BTC": "Grayscale Bitcoin Mini Trust (BTC)",
+  "JEPI": "JPMorgan Equity Premium Income ETF",
   "TLT": "iShares 20+ Year Treasury Bond ETF",
   "FBTC": "Fidelity Wise Origin Bitcoin Fund",
   "IBM": "International Business Machines",
   "SCHF": "Schwab International Equity ETF",
+  "SCHD": "Schwab US Dividend Equity ETF",
   "VGT": "Vanguard Information Tech ETF",
   "VIG": "Vanguard Div Appreciation ETF",
   "BJ": "BJ's Wholesale Club Holdings",
