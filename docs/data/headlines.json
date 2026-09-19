@@ -1,8 +1,24 @@
 {
- "generated": "2026-09-19T02:48:28.734120+00:00",
+ "generated": "2026-09-19T02:55:51.177954+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "3eb549185400",
+   "title": "TJX Companies: Weakening Comps And Rich Multiples In Shaky Macro (Downgrade)",
+   "link": "https://seekingalpha.com/article/4947996-tjx-companies-weakening-comps-and-rich-multiples-in-shaky-macro?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-19T02:44:38+00:00",
+   "tickers": [
+    "TJX"
+   ]
+  },
   {
    "id": "56ebe7ad8117",
    "title": "Nearly 5,000 Georgians to get relief under $694M auto finance settlement",
@@ -8882,22 +8898,6 @@
    "tickers": [
     "STX"
    ]
-  },
-  {
-   "id": "5b2e20a15ada",
-   "title": "Why Zscaler Stock Rocketed Higher This Week",
-   "link": "https://www.nasdaq.com/articles/why-zscaler-stock-rocketed-higher-week",
-   "summary": "Key PointsBernstein raised its price target on Zscaler stock.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-09-18T20:43:10+00:00",
-   "tickers": [
-    "ZS"
-   ]
   }
  ],
  "ticker_names": {
@@ -8946,6 +8946,7 @@
   "HOOD": "Robinhood Markets",
   "MHK": "Mohawk Industries",
   "MU": "Micron Technology",
+  "TJX": "The TJX Companies",
   "UBER": "Uber Technologies",
   "JPM": "JPMorgan Chase &",
   "NVO": "Novo Nordisk A/S",
@@ -9012,7 +9013,6 @@
   "SCI": "Service",
   "SNDK": "Sandisk",
   "NFLX": "Netflix",
-  "ZS": "Zscaler",
   "INTU": "Intuit",
   "NDAQ": "Nasdaq",
   "ORCL": "Oracle",
