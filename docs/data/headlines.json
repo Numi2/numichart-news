@@ -1,8 +1,38 @@
 {
- "generated": "2026-09-19T19:45:57.866716+00:00",
+ "generated": "2026-09-19T19:52:17.512539+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "5ec7154d41e1",
+   "title": "CNN, MS NOW and Politico Barred From White House After Trump’s Ban",
+   "link": "https://www.nytimes.com/2026/09/19/business/media/trump-white-house-press-ban.html",
+   "summary": "The prohibition on certain journalists was a major escalation in President Trump’s war on the media, and will probably face a legal challenge.",
+   "article_text": "",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-09-19T19:48:47+00:00",
+   "tickers": [
+    "MS"
+   ]
+  },
+  {
+   "id": "4366a5cd153d",
+   "title": "Converse Removes Ad That Drew Comparisons to K.K.K. Imagery",
+   "link": "https://www.nytimes.com/2026/09/19/business/converse-sneaker-ad-kkk.html",
+   "summary": "“This should not have happened and we will do better,” said Converse, which apologized for the ad. Critics said it depicted a Ku Klux Klan robe and a lynching.",
+   "article_text": "",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-09-19T19:41:21+00:00",
+   "tickers": []
+  },
   {
    "id": "4e9c6843ae75",
    "title": "Statement from Bradley Tusk In Response to 15-Year-Old Girl Killed While Riding Electric Citi Bike in East Village",
@@ -49,22 +79,6 @@
    "published": "2026-09-19T19:32:58+00:00",
    "tickers": [
     "AAPL"
-   ]
-  },
-  {
-   "id": "5ec7154d41e1",
-   "title": "CNN, MS NOW and Politico Barred From White House After Trump’s Ban",
-   "link": "https://www.nytimes.com/2026/09/19/business/media/trump-white-house-press-ban.html",
-   "summary": "The prohibition on certain journalists was a major escalation in President Trump’s war on the media, and will probably face a legal challenge.",
-   "article_text": "",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "nytimes.com",
-   "published": "2026-09-19T19:32:56+00:00",
-   "tickers": [
-    "MS"
    ]
   },
   {
@@ -210,6 +224,23 @@
    "tickers": []
   },
   {
+   "id": "89e54f802dd4",
+   "title": "Great News for Lucid Stock Investors",
+   "link": "https://www.nasdaq.com/articles/great-news-lucid-stock-investors",
+   "summary": "Lucid (NASDAQ: LCID) signs another major deal with huge implications for shareholders.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-19T19:25:18+00:00",
+   "tickers": [
+    "LCID",
+    "NWSA"
+   ]
+  },
+  {
    "id": "86fb4da654b0",
    "title": "‘Tell the damn story’: Salman Rushdie on free speech & new doc on recovery from 2022 knife attack",
    "link": "https://biztoc.com/x/405604f9ba6d7208?ref=rss",
@@ -224,6 +255,22 @@
    "tickers": []
   },
   {
+   "id": "37ae364d0f2a",
+   "title": "Massive Update for Applied Materials Stock Investors!",
+   "link": "https://www.nasdaq.com/articles/massive-update-applied-materials-stock-investors",
+   "summary": "Revenue growth is accelerating, with the good times forecasted to last several years.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-19T19:24:02+00:00",
+   "tickers": [
+    "AMAT"
+   ]
+  },
+  {
    "id": "59e3f716fd05",
    "title": "Corn Getting Spillover Pressure on Friday",
    "link": "https://www.nasdaq.com/articles/corn-getting-spillover-pressure-friday",
@@ -236,6 +283,22 @@
    "domain": "nasdaq.com",
    "published": "2026-09-19T19:23:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "10b859a751a6",
+   "title": "The U.S. Central Bank Delivers Massive News to Stock Market Investors",
+   "link": "https://www.nasdaq.com/articles/us-central-bank-delivers-massive-news-stock-market-investors",
+   "summary": "Higher interest rates could derail the bull market.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-19T19:18:56+00:00",
+   "tickers": [
+    "NWSA"
+   ]
   },
   {
    "id": "163e5233061d",
@@ -499,6 +562,20 @@
    "sentiment": "neutral",
    "domain": "biztoc.com",
    "published": "2026-09-19T19:16:42+00:00",
+   "tickers": []
+  },
+  {
+   "id": "01c6a52ea788",
+   "title": "The Most Dangerous Deal in Corporate History",
+   "link": "https://www.nasdaq.com/articles/most-dangerous-deal-corporate-history",
+   "summary": "A deal between Elon Musk's massive companies seems inevitable.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-19T19:13:57+00:00",
    "tickers": []
   },
   {
@@ -8858,76 +8935,6 @@
    "domain": "biztoc.com",
    "published": "2026-09-19T11:43:58+00:00",
    "tickers": []
-  },
-  {
-   "id": "db30ca3e2995",
-   "title": "The 13 States Where a $1 Million 401(k) Withdrawal Owes $0 in State Tax. Nine Have No Income Tax, and Illinois, Mississippi, Pennsylvania, and Iowa Exempt Retirement Income Outright",
-   "link": "https://biztoc.com/x/2ca0366a2132d917?ref=rss",
-   "summary": "The post The 13 States Where a $1 Million 401(k) Withdrawal Owes $0 in State Tax. Nine Have No Income Tax, and Illinois, Mississippi, Pennsylvania, and Iowa Exempt Retirement Income Outright appeared first on 24/7 Wall St.. Pull $1 million from a traditional 401(k) in California and the state…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-19T11:43:57+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e1e55ce6370e",
-   "title": "A Concrete Case for the Most Beautiful Architecture in the World",
-   "link": "https://biztoc.com/x/8f5622818f4cbe42?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-19T11:43:57+00:00",
-   "tickers": []
-  },
-  {
-   "id": "4012cc559593",
-   "title": "IMF tells EU ministers AI could boost growth but increase economic strains",
-   "link": "https://biztoc.com/x/65aa099bfabb6ea0?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-09-19T11:43:54+00:00",
-   "tickers": []
-  },
-  {
-   "id": "2cb15d3a1334",
-   "title": "Gas Price Warning Issued for Great Lakes States",
-   "link": "https://biztoc.com/x/1cbf07f1b41173df?ref=rss",
-   "summary": "Gas prices could rise even higher in the Great Lakes region in the coming hours, according to analysts, with Ohio at risk of facing the biggest jump as stations and retailers start adjusting their offers. In a social media post on Thursday night, Patrick De Haan, head of petroleum analysis at…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-09-19T11:43:51+00:00",
-   "tickers": []
-  },
-  {
-   "id": "58ca5c7e9556",
-   "title": "Russia Seizes Assets Of Swiss Food Giant Nestle",
-   "link": "https://biztoc.com/x/a58a3c61cfd1cd20?ref=rss",
-   "summary": "Russia Seizes Assets Of Swiss Food Giant Nestle Russian authorities seized the remaining businesses and assets of Swiss food giant Nestle and three French groups, the latest move against Western firms in response to sanctions against Moscow. A decree signed by President Vladimir Putin issued…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-19T11:43:51+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8965,6 +8972,7 @@
   "MSI": "Motorola Solutions",
   "NYT": "The New York Times",
   "SPOT": "Spotify Technology",
+  "AMAT": "Applied Materials",
   "HOOD": "Robinhood Markets",
   "MU": "Micron Technology",
   "SOFI": "SoFi Technologies",
