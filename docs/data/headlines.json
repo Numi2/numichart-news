@@ -1,8 +1,22 @@
 {
- "generated": "2026-09-20T11:41:05.152939+00:00",
+ "generated": "2026-09-20T11:47:19.007440+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "2c4b9c853cf8",
+   "title": "QVMT: Improved Factor Mix, Yet Underperformance Tempers Enthusiasm, A Hold",
+   "link": "https://seekingalpha.com/article/4948131-qvmt-improved-factor-mix-yet-underperformance-tempers-enthusiasm-a-hold?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-20T11:41:57+00:00",
+   "tickers": []
+  },
   {
    "id": "3730ac3a3b62",
    "title": "Houthis: We may close Saudi airports",
@@ -119,6 +133,20 @@
    "sentiment": "positive",
    "domain": "biztoc.com",
    "published": "2026-09-20T11:37:22+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b5e38d358a2d",
+   "title": "San Francisco Tribune Releases List of Top Startups Shaping the Next Phase of Enterprise AI",
+   "link": "https://www.investing.com/news/company-news/san-francisco-tribune-releases-list-of-top-startups-shaping-the-next-phase-of-enterprise-ai-4908166",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-09-20T11:30:48+00:00",
    "tickers": []
   },
   {
@@ -469,6 +497,20 @@
    "sentiment": "neutral",
    "domain": "biztoc.com",
    "published": "2026-09-20T11:22:15+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c6697e7028c8",
+   "title": "These 3 factors \"remain significant risks\" to stock market valuations: analyst",
+   "link": "https://www.investing.com/news/stock-market-news/these-3-factors-remain-significant-risks-to-stock-market-valuations-analyst-4908164",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-20T11:19:02+00:00",
    "tickers": []
   },
   {
@@ -8737,53 +8779,6 @@
     "CASY",
     "TXRH"
    ]
-  },
-  {
-   "id": "e2c4685523f2",
-   "title": "Jim Cramer Suggests Against Holding Dominion (D) Through the NextEra (NEE) Share Conversion",
-   "link": "https://biztoc.com/x/7e287a26b8baf85a?ref=rss",
-   "summary": "During the September 16 episode of Mad Money, a caller holding Dominion Energy, Inc. (NYSE:D) shares asked for thoughts on NextEra Energy, Inc. (NYSE:NEE) and its outlook regarding the upcoming conversion of Dominion shares into NextEra stock if the merger is approved. Jim Cramer was quick to…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-19T20:03:39+00:00",
-   "tickers": [
-    "NEE",
-    "D"
-   ]
-  },
-  {
-   "id": "9ec6408af9c2",
-   "title": "Jim Cramer on Seanergy Maritime (SHIP): “I’d Be a Buyer”",
-   "link": "https://biztoc.com/x/1fcb03daf45d5949?ref=rss",
-   "summary": "On September 16, when a caller inquired about Seanergy Maritime Holdings Corp (NASDAQ:SHIP) during the lightning round of Mad Money, Jim Cramer commented: Bulk transportation is on fire. I think it's a terrific situation. It's not an expensive stock, and I think the yield is safe. I'd be a…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-19T20:03:34+00:00",
-   "tickers": []
-  },
-  {
-   "id": "1bb5279f691b",
-   "title": "Jim Cramer Says “Buy Reddit” (RDDT)",
-   "link": "https://biztoc.com/x/f4d36e616878be88?ref=rss",
-   "summary": "During the September 17 episode of Mad Money, a caller asked why Reddit, Inc. (NYSE:RDDT) has remained range-bound and gradually drifted downward despite a long-term bullish outlook. Jim Cramer replied: Alright, my take is that this is a $29 billion company. I think that there are companies that…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-19T20:03:24+00:00",
-   "tickers": [
-    "RDDT"
-   ]
   }
  ],
  "ticker_names": {
@@ -8833,7 +8828,6 @@
   "BAC": "Bank of America",
   "CAH": "Cardinal Health",
   "COIN": "Coinbase Global",
-  "D": "Dominion Energy",
   "DAL": "Delta Air Lines",
   "DIS": "The Walt Disney",
   "LMT": "Lockheed Martin",
@@ -8842,7 +8836,6 @@
   "TXRH": "Texas Roadhouse",
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
-  "NEE": "NextEra Energy",
   "STLD": "Steel Dynamics",
   "UEC": "Uranium Energy",
   "KO": "The Coca-Cola",
@@ -8892,7 +8885,6 @@
   "NTRA": "Natera",
   "ORCL": "Oracle",
   "PFE": "Pfizer",
-  "RDDT": "Reddit",
   "RMD": "ResMed",
   "SPCX": "SpaceX",
   "TWLO": "Twilio",
