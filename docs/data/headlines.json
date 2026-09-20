@@ -1,8 +1,55 @@
 {
- "generated": "2026-09-20T19:02:14.039226+00:00",
+ "generated": "2026-09-20T19:15:56.630401+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "5f694b74d993",
+   "title": "Trump to meet with NYC Mayor Zohran Mamdani on Monday ahead of UN General Assembly",
+   "link": "https://www.cnbc.com/2026/09/20/trump-mamdani-gracie-mansion-meeting.html",
+   "summary": "The mayor's press office said the meeting will take place at Gracie Mansion and \"will focus on issues affecting New York City and New Yorkers.\"",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-09-20T19:06:16+00:00",
+   "tickers": []
+  },
+  {
+   "id": "1986fed32145",
+   "title": "Stocks Finish Mostly Higher as Crude Prices Fall",
+   "link": "https://www.nasdaq.com/articles/stocks-finish-mostly-higher-crude-prices-fall",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed up by +0.17% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down by -0.18%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +0.67%. December E-mini S&P futures (ESZ26 ) rose +0.20%, and December E-mini...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-09-20T19:01:13+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
+  },
+  {
+   "id": "29afca593c83",
+   "title": "Gabelli Dividend & Income Trust Q2 2026 Commentary",
+   "link": "https://seekingalpha.com/article/4948154-gabelli-dividend-and-income-trust-q2-2026-commentary?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-20T18:59:00+00:00",
+   "tickers": []
+  },
   {
    "id": "921c70260b2c",
    "title": "FDA, Duke-Margolis workshop to examine evidence standards for rare diseases",
@@ -382,25 +429,6 @@
    "domain": "prnewswire.com",
    "published": "2026-09-20T18:39:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "1986fed32145",
-   "title": "Stocks Finish Mostly Higher as Crude Prices Fall",
-   "link": "https://www.nasdaq.com/articles/stocks-finish-mostly-higher-crude-prices-fall",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed up by +0.17% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down by -0.18%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +0.67%. December E-mini S&P futures (ESZ26 ) rose +0.20%, and December E-mini...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-09-20T18:37:11+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
-   ]
   },
   {
    "id": "fbda50a053e9",
@@ -3101,7 +3129,7 @@
    "link": "https://www.prnewswire.com/news-releases/bronstein-gewirtz--grossman-llc-urges-applovin-corporation-investors-to-act-class-action-filed-alleging-investor-harm-302882786.html",
    "summary": "NEW YORK, Sept. 20, 2026 /PRNewswire/ -- Bronstein, Gewirtz & Grossman, LLC, a nationally recognized investor-rights law firm, announces that a class action lawsuit has been filed against AppLovin Corporation (NASDAQ: APP) and certain of its officers. This lawsuit seeks to recover damages...",
    "article_text": "",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -3117,7 +3145,7 @@
    "link": "https://www.prnewswire.com/news-releases/bronstein-gewirtz--grossman-llc-urges-doximity-inc-investors-to-act-class-action-filed-alleging-investor-harm-302882789.html",
    "summary": "NEW YORK, Sept. 20, 2026 /PRNewswire/ -- Bronstein, Gewirtz & Grossman, LLC, a nationally recognized investor-rights law firm, announces that a class action lawsuit has been filed against Doximity, Inc. (NYSE: DOCS) and certain of its officers. This lawsuit seeks to recover damages...",
    "article_text": "",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -3133,7 +3161,7 @@
    "link": "https://www.prnewswire.com/news-releases/bronstein-gewirtz--grossman-llc-urges-ast-spacemobile-inc-investors-to-act-class-action-filed-alleging-investor-harm-302882771.html",
    "summary": "NEW YORK, Sept. 20, 2026 /PRNewswire/ -- Bronstein, Gewirtz & Grossman, LLC, a nationally recognized investor-rights law firm, announces that a class action lawsuit has been filed against AST SpaceMobile, Inc. (NASDAQ: ASTS) and certain of its officers. This lawsuit seeks to recover...",
    "article_text": "",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -3149,7 +3177,7 @@
    "link": "https://www.prnewswire.com/news-releases/bronstein-gewirtz--grossman-llc-urges-baidu-inc-investors-to-act-class-action-filed-alleging-investor-harm-302882769.html",
    "summary": "NEW YORK, Sept. 20, 2026 /PRNewswire/ -- Bronstein, Gewirtz & Grossman, LLC, a nationally recognized investor-rights law firm, announces that a class action lawsuit has been filed against Baidu, Inc. (NASDAQ: BIDU) and certain of its officers. This lawsuit seeks to recover damages against...",
    "article_text": "",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -4854,7 +4882,7 @@
    "type": "macro",
    "sentiment": "neutral",
    "domain": "nytimes.com",
-   "published": "2026-09-20T14:30:05+00:00",
+   "published": "2026-09-20T14:30:06+00:00",
    "tickers": []
   },
   {
@@ -8878,36 +8906,6 @@
    "domain": "biztoc.com",
    "published": "2026-09-20T11:07:08+00:00",
    "tickers": []
-  },
-  {
-   "id": "7178e10f293d",
-   "title": "Trump polls to rebrand AI",
-   "link": "https://seekingalpha.com/news/4644573-trump-polls-to-rebrand-ai?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-20T11:07:07+00:00",
-   "tickers": []
-  },
-  {
-   "id": "dfa0ee3fc79c",
-   "title": "Prediction: Here's What a $15,000 Investment in Coca-Cola (KO) Stock Could Be Worth in 5 Years",
-   "link": "https://www.nasdaq.com/articles/prediction-heres-what-15000-investment-coca-cola-ko-stock-could-be-worth-5-years",
-   "summary": "Key PointsCoca-Cola is a defensive stock, especially worth considering if you expect a market pullback.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-09-20T11:05:00+00:00",
-   "tickers": [
-    "KO"
-   ]
   }
  ],
  "ticker_names": {
@@ -8984,7 +8982,6 @@
   "GIS": "General Mills",
   "JOBY": "Joby Aviation",
   "KMI": "Kinder Morgan",
-  "KO": "The Coca-Cola",
   "LLY": "Eli Lilly and",
   "VLO": "Valero Energy",
   "MSTR": "MicroStrategy",
