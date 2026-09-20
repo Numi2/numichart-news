@@ -1,8 +1,22 @@
 {
- "generated": "2026-09-20T22:35:34.672685+00:00",
+ "generated": "2026-09-20T22:42:21.339728+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "391d70e35f6e",
+   "title": "Stock futures rise slightly after Dow posts third straight losing week: Live updates",
+   "link": "https://www.cnbc.com/2026/09/20/stock-market-today-live-updates.html",
+   "summary": "Wall Street is coming off a mixed week for the major averages.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "cnbc.com",
+   "published": "2026-09-20T22:35:25+00:00",
+   "tickers": []
+  },
   {
    "id": "773e06d41daf",
    "title": "Employment &amp; Labor Lawyers, at Blumenthal Nordrehaug Bhowmik De Blouw LLP, File Suit Against W.S. Balkhi Corporation, Alleging Failure to Provide Meal Periods and Rest Breaks",
@@ -16,6 +30,25 @@
    "domain": "prnewswire.com",
    "published": "2026-09-20T22:33:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "1986fed32145",
+   "title": "Stocks Finish Mostly Higher as Crude Prices Fall",
+   "link": "https://www.nasdaq.com/articles/stocks-finish-mostly-higher-crude-prices-fall",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed up by +0.17% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down by -0.18%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +0.67%. December E-mini S&P futures (ESZ26 ) rose +0.20%, and December E-mini...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-09-20T22:29:16+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
   },
   {
    "id": "75951d5b167e",
@@ -382,20 +415,6 @@
    "tickers": []
   },
   {
-   "id": "391d70e35f6e",
-   "title": "Stock futures are little changed after Dow posts third straight losing week: Live updates",
-   "link": "https://www.cnbc.com/2026/09/20/stock-market-today-live-updates.html",
-   "summary": "Wall Street is coming off a mixed week for the major averages.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-09-20T22:04:45+00:00",
-   "tickers": []
-  },
-  {
    "id": "16a06f343000",
    "title": "Jefferies stays bullish on S&P 500, sees 9,000 by end-2027",
    "link": "https://www.investing.com/news/stock-market-news/jefferies-stays-bullish-on-sp-500-sees-9000-by-end2027-4908198",
@@ -648,25 +667,6 @@
    "published": "2026-09-20T21:44:00+00:00",
    "tickers": [
     "HDB"
-   ]
-  },
-  {
-   "id": "1986fed32145",
-   "title": "Stocks Finish Mostly Higher as Crude Prices Fall",
-   "link": "https://www.nasdaq.com/articles/stocks-finish-mostly-higher-crude-prices-fall",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed up by +0.17% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down by -0.18%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +0.67%. December E-mini S&P futures (ESZ26 ) rose +0.20%, and December E-mini...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-09-20T21:42:20+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
    ]
   },
   {
@@ -1241,6 +1241,24 @@
    "domain": "investing.com",
    "published": "2026-09-20T21:20:03+00:00",
    "tickers": []
+  },
+  {
+   "id": "4b39294fb8e2",
+   "title": "3 Bullish Setups for the Week Ahead",
+   "link": "https://www.nasdaq.com/articles/3-bullish-setups-week-ahead",
+   "summary": "As the bulls reassert their power, leading stocks like SanDisk, Coinbase, and Moderna are setting up in constructive base structures.",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-20T21:14:00+00:00",
+   "tickers": [
+    "COIN",
+    "BLSH",
+    "MRNA"
+   ]
   },
   {
    "id": "760055f9db6b",
@@ -8939,20 +8957,6 @@
    "domain": "biztoc.com",
    "published": "2026-09-20T13:53:05+00:00",
    "tickers": []
-  },
-  {
-   "id": "1d9cedbb53b1",
-   "title": "Philanthropy leader at Warren Buffett and Bill Gates’ Giving Pledge says children of billionaires are pushing them to give their wealth away faster",
-   "link": "https://biztoc.com/x/b1544fc2508f2026?ref=rss",
-   "summary": "Millennials and Gen Xers are facing down one of the greatest transfers of wealth in history—with some $124 trillion expected to change hands by 2048. But as wealth inequities simultaneously reach new extremes, the transfer has amplified questions about whether wealthy families are moving fast in…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-20T13:53:01+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -9019,6 +9023,7 @@
   "GE": "General Electric",
   "ANET": "Arista Networks",
   "ASTS": "AST SpaceMobile",
+  "COIN": "Coinbase Global",
   "D": "Dominion Energy",
   "DAL": "Delta Air Lines",
   "DIS": "The Walt Disney",
@@ -9090,6 +9095,7 @@
   "BPOP": "Popular",
   "CVX": "Chevron",
   "IVZ": "Invesco",
+  "MRNA": "Moderna",
   "NDSN": "Nordson",
   "PEP": "PepsiCo",
   "SCI": "Service",
