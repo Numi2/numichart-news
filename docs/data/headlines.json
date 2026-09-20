@@ -1,8 +1,39 @@
 {
- "generated": "2026-09-20T06:44:59.305383+00:00",
+ "generated": "2026-09-20T06:56:43.009550+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "025b26caf369",
+   "title": "Key deals this week: SPGI, PSO, GEHC, and more",
+   "link": "https://seekingalpha.com/news/4644569-key-deals-this-week-spgi-pso-gehc-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-20T06:41:41+00:00",
+   "tickers": [
+    "SPGI",
+    "GEHC"
+   ]
+  },
+  {
+   "id": "1de33dadbd19",
+   "title": "US, China set for talks on AI, tariffs and critical minerals ahead of summit",
+   "link": "https://www.investing.com/news/economy-news/us-china-set-for-talks-on-ai-tariffs-and-critical-minerals-ahead-of-summit-4908147",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-20T06:41:22+00:00",
+   "tickers": []
+  },
   {
    "id": "30bfcb77ec0d",
    "title": "Japan: North Korea may have fired ballistic missile",
@@ -8866,36 +8897,6 @@
    "tickers": [
     "MS"
    ]
-  },
-  {
-   "id": "7010cb2d30a1",
-   "title": "Couples with a big age gap need more money — they have to plan for two retirements",
-   "link": "https://www.marketwatch.com/story/couples-with-a-big-age-gap-need-more-money-they-have-to-plan-for-two-retirements-1454b8c2?mod=mw_rss_topstories",
-   "summary": "These are the biggest issues to consider when there’s more than a 10-year age difference.",
-   "article_text": "",
-   "source": "MarketWatch",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "marketwatch.com",
-   "published": "2026-09-19T15:47:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e1c9f7237d7b",
-   "title": "Anthropic IPO: 1 Key Lesson Investors Can Learn From SpaceX",
-   "link": "https://biztoc.com/x/7e007872156e041b?ref=rss",
-   "summary": "The Space Exploration Technologies (NASDAQ: SPCX) IPO was one of the most highly anticipated public offerings in years. Within a few days of going public, SpaceX had a valuation of $2.7 trillion after raising nearly $86 billion in funding. Then things started going sideways. The stock began…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "offering",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-19T15:46:45+00:00",
-   "tickers": [
-    "SPCX"
-   ]
   }
  ],
  "ticker_names": {
@@ -8916,6 +8917,7 @@
   "WST": "West Pharmaceutical Services",
   "CHH": "Choice Hotels International",
   "QQQ": "Invesco QQQ Trust, Series 1",
+  "GEHC": "GE HealthCare Technologies",
   "IBKR": "Interactive Brokers Group",
   "ICE": "Intercontinental Exchange",
   "EWZ": "iShares MSCI Brazil ETF",
@@ -8981,6 +8983,7 @@
   "BA": "The Boeing",
   "BN": "Brookfield",
   "PLUG": "Plug Power",
+  "SPGI": "S&P Global",
   "MSFT": "Office 365",
   "QCOM": "Snapdragon",
   "C": "Citigroup",
