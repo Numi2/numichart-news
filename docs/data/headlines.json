@@ -1,8 +1,24 @@
 {
- "generated": "2026-09-20T02:46:51.214348+00:00",
+ "generated": "2026-09-20T02:54:40.668443+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "5715ada16f3b",
+   "title": "The children learning in a language they don't speak | The Pacific | ABC News",
+   "link": "https://biztoc.com/x/7c855acd603be734?ref=rss",
+   "summary": "In Timor-Leste, a generation of children are struggling in classrooms taught in a language that many don't speak at home. Despite ...",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-20T02:45:01+00:00",
+   "tickers": [
+    "NWSA"
+   ]
+  },
   {
    "id": "ff3851a63aa9",
    "title": "When 210 million people learn Chinese, they see more than a language",
@@ -71,6 +87,20 @@
    "sentiment": "negative",
    "domain": "biztoc.com",
    "published": "2026-09-20T02:34:07+00:00",
+   "tickers": []
+  },
+  {
+   "id": "19f0bec068a6",
+   "title": "Polymarket fraud concerns mount as company prepares for potential IPO - WSJ",
+   "link": "https://www.investing.com/news/company-news/polymarket-fraud-concerns-mount-as-company-prepares-for-potential-ipo--wsj-4908134",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-09-20T02:32:42+00:00",
    "tickers": []
   },
   {
@@ -8941,36 +8971,6 @@
    "domain": "investing.com",
    "published": "2026-09-19T14:31:05+00:00",
    "tickers": []
-  },
-  {
-   "id": "95bca7f1dc50",
-   "title": "Classic budgeting rules don’t work anymore — even if your household makes $100,000. Here’s what does.",
-   "link": "https://www.marketwatch.com/story/classic-budgeting-rules-dont-work-anymore-even-if-your-household-makes-100-000-heres-what-does-cfb235a8?mod=mw_rss_topstories",
-   "summary": "Spending guidelines designed to put diligent consumers in a solid financial position may not set them up to succeed in today’s economy.",
-   "article_text": "",
-   "source": "MarketWatch",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "marketwatch.com",
-   "published": "2026-09-19T14:31:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6c975c5e3ab8",
-   "title": "'We have lost control': Crypto pioneer warns AI could trigger systemic banking and infrastructure shocks",
-   "link": "https://biztoc.com/x/513e4e81e83a45b6?ref=rss",
-   "summary": "'We have lost control': Crypto pioneer warns AI could trigger systemic banking and infrastructure shocks Marc van der Chijs sold much of his bitcoin to invest in AI. Now, growing concerns about the technology accompany a move to put some profits back into crypto. - Hut 8 co-founder Marc van der…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-09-19T14:30:07+00:00",
-   "tickers": [
-    "HUT"
-   ]
   }
  ],
  "ticker_names": {
@@ -9104,7 +9104,6 @@
   "RMD": "ResMed",
   "SPCX": "SpaceX",
   "SRE": "Sempra",
-  "HUT": "Hut 8",
   "INTC": "Intel",
   "NE": "Noble",
   "EBAY": "eBay",
