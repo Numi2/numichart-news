@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-20T16:40:31.094807+00:00",
+ "generated": "2026-09-20T16:46:04.803489+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -66,6 +66,23 @@
    "domain": "biztoc.com",
    "published": "2026-09-20T16:25:12+00:00",
    "tickers": []
+  },
+  {
+   "id": "bb250c66a68a",
+   "title": "I'm Watching PG&E Closely, but Here's Why I Haven't Bought the Dip",
+   "link": "https://www.nasdaq.com/articles/im-watching-pge-closely-heres-why-i-havent-bought-dip",
+   "summary": "Key PointsPG&E stock is at the mercy of California politicians.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-20T16:25:00+00:00",
+   "tickers": [
+    "PCG",
+    "PG"
+   ]
   },
   {
    "id": "ee111e94ec33",
@@ -199,6 +216,22 @@
     "META",
     "GOOG",
     "GOOGL"
+   ]
+  },
+  {
+   "id": "ba8400bd329e",
+   "title": "3 Reasons CRISPR Therapeutics Stock Is Still a Buy After a Rocky 2026",
+   "link": "https://www.nasdaq.com/articles/3-reasons-crispr-therapeutics-stock-still-buy-after-rocky-2026",
+   "summary": "Key PointsEven if it’s not being officially reported yet, its drug Casgevy is accruing revenue that will show up in earnest beginning next year.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-20T16:15:00+00:00",
+   "tickers": [
+    "CRSP"
    ]
   },
   {
@@ -8822,34 +8855,6 @@
    "domain": "biztoc.com",
    "published": "2026-09-20T08:21:15+00:00",
    "tickers": []
-  },
-  {
-   "id": "969bbfd180f3",
-   "title": "Yen Is Vulnerable With Japan on Holiday After BOJ Disappoints",
-   "link": "https://biztoc.com/x/3694c5f1f1cb0e7d?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-09-20T08:21:10+00:00",
-   "tickers": []
-  },
-  {
-   "id": "7deaf60e9009",
-   "title": "Reform UK’s record donations face risk from election spending review",
-   "link": "https://biztoc.com/x/f3c60af79910531a?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-20T08:21:03+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8870,6 +8875,7 @@
   "CFG": "Citizens Financial Group",
   "ARR": "ARMOUR Residential REIT",
   "GS": "The Goldman Sachs Group",
+  "CRSP": "CRISPR Therapeutics AG",
   "RYTM": "Rhythm Pharmaceuticals",
   "SWK": "Stanley Black & Decker",
   "VZ": "Verizon Communications",
@@ -8880,6 +8886,7 @@
   "PLTR": "Palantir Technologies",
   "PNW": "Pinnacle West Capital",
   "BMY": "Bristol-Myers Squibb",
+  "PG": "The Procter & Gamble",
   "VOO": "Vanguard S&P 500 ETF",
   "LULU": "lululemon athletica",
   "ZM": "Zoom Communications",
@@ -8985,6 +8992,7 @@
   "EBAY": "eBay",
   "IONQ": "IonQ",
   "LYFT": "Lyft",
+  "PCG": "PG&E",
   "V": "Visa"
  }
 }
