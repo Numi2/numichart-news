@@ -1,8 +1,606 @@
 {
- "generated": "2026-09-22T19:31:08.039201+00:00",
+ "generated": "2026-09-22T19:38:16.690765+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "dccb7480d43c",
+   "title": "Nasdaq climbs to fresh all-time high; S&P 500 is little changed as traders monitor Middle East tensions: Live updates",
+   "link": "https://www.cnbc.com/2026/09/21/stock-market-today-live-updates.html",
+   "summary": "Traders continued to keep an eye on developments between the U.S. and Iran.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "cnbc.com",
+   "published": "2026-09-22T19:36:06+00:00",
+   "tickers": [
+    "NDAQ"
+   ]
+  },
+  {
+   "id": "a5b8acda7c73",
+   "title": "Direxion Daily MSCI Emerging Markets Bull 3X Shares declares quarterly distribution of $0.2236",
+   "link": "https://seekingalpha.com/news/4645676-direxion-daily-msci-emerging-markets-bull-3x-shares-declares-quarterly-distribution-of-02236?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-22T19:34:33+00:00",
+   "tickers": [
+    "MSCI",
+    "TECL"
+   ]
+  },
+  {
+   "id": "b6cfb9325faa",
+   "title": "Textron marks Aerosonde UAS flight, 500th Citation Latitude rollout",
+   "link": "https://seekingalpha.com/news/4645670-textron-marks-aerosonde-uas-flight-500th-citation-latitude-rollout?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-22T19:34:09+00:00",
+   "tickers": [
+    "TXT"
+   ]
+  },
+  {
+   "id": "2188e73d2d7a",
+   "title": "Royal Caribbean nears $3 billion deal to take 50% equity stake in Sandals",
+   "link": "https://www.cnbc.com/2026/09/22/royal-caribbean-sandals.html",
+   "summary": "Royal Caribbean has been trying to diversify beyond cruises and become a leader overall in vacations.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-09-22T19:33:37+00:00",
+   "tickers": []
+  },
+  {
+   "id": "37a4f8c82107",
+   "title": "Edgewise Therapeutics, Inc. (EWTX) Discusses Differentiated Mechanism of Action of Cardiac Sarcomere Modulator EDG-7500 - Slideshow",
+   "link": "https://seekingalpha.com/article/4948785-edgewise-therapeutics-inc-ewtx-discusses-differentiated-mechanism-of-action-of-cardiac?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-22T19:33:20+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b6ee5de741b8",
+   "title": "Climate risk is reshaping muni credit — and income opportunities",
+   "link": "https://www.cnbc.com/2026/09/22/climate-risk-is-reshaping-muni-credit-and-income-opportunities.html",
+   "summary": "Some local governments are issuing municipal bonds to protect against climate risks. Here's where Nuveen sees opportunity.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-09-22T19:33:04+00:00",
+   "tickers": []
+  },
+  {
+   "id": "99e7f0a9727d",
+   "title": "Minerals Technologies Inc. (MTX) Analyst/Investor Day - Slideshow",
+   "link": "https://seekingalpha.com/article/4948784-minerals-technologies-inc-mtx-analyst-investor-day-slideshow?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-22T19:32:47+00:00",
+   "tickers": []
+  },
+  {
+   "id": "1bd73d7943ce",
+   "title": "Eledon Pharmaceuticals, Inc. (ELDN) Presents at International Congress of The Transplantation Society 2026 - Slideshow",
+   "link": "https://seekingalpha.com/article/4948783-eledon-pharmaceuticals-inc-eldn-presents-at-international-congress-of-the-transplantation?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-22T19:32:02+00:00",
+   "tickers": []
+  },
+  {
+   "id": "67294cc4b91d",
+   "title": "Direxion Daily Gold Miners Index Bear 2X Shares declares quarterly distribution of $0.2796",
+   "link": "https://seekingalpha.com/news/4645674-direxion-daily-gold-miners-index-bear-2x-shares-declares-quarterly-distribution-of-02796?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-22T19:31:44+00:00",
+   "tickers": [
+    "DUST",
+    "TECL"
+   ]
+  },
+  {
+   "id": "4508237ddf3d",
+   "title": "MES Inc. Urges Robotics OEMs to Lock In Manufacturing Strategy Before Design Freeze as Global Robot Demand Hits Record Levels",
+   "link": "https://www.prnewswire.com/news-releases/mes-inc-urges-robotics-oems-to-lock-in-manufacturing-strategy-before-design-freeze-as-global-robot-demand-hits-record-levels-302886673.html",
+   "summary": "With industrial robot installations above 500,000 units for a fourth straight year, the Ohio-based sourcing and supply chain firm says structural aluminum components will decide how fast humanoid, mobile and collaborative robots can scale COLUMBUS, Ohio, Sept. 22, 2026 /PRNewswire/ -- As...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-09-22T19:31:00+00:00",
+   "tickers": [
+    "MSTR"
+   ]
+  },
+  {
+   "id": "d04a9150d3aa",
+   "title": "Trump discloses more than 1,100 July trades, including up to $25 million each in sales of Microsoft, Amazon",
+   "link": "https://www.cnbc.com/2026/09/22/trump-trades-microsoft-amazon-july-financial-disclosure.html",
+   "summary": "Trump sold tech stocks including Amazon and Microsoft when the Mag 7 stocks popped on July 20, adding $291 billion in market value in one day.",
+   "article_text": "Trump disclosure shows 1,100 July trades, Microsoft and Amazon sales Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Key Points President Donald Trump disclosed 1,156 securities transactions made on his behalf in July, totaling between roughly $79 million and $270 million, CNBC calculated. The largest were sales of between $5 million and $25 million each of Microsoft and Amazon on July 20. The filing shows another month of extensive trading across technology, defense, ETFs and bonds, continuing a pattern of heavy activity in Trump’s investment accounts. In this article AMZN MSFT Follow your favorite stocks CREATE FREE ACCOUNT watch now VIDEO 2:06 02:06 President Trump discloses more than 1,100 July securities trades The Exchange President Donald Trump disclosed, in a filing released Tuesday, more than 1,100 securities transactions made on his behalf in July, including sales of as much as $25 million each of Microsoft and Amazon shares, as his sprawling investment portfolio underwent another month of heavy trading. The 1,156 purchases and sales totaled between roughly $79 million and $270 million, according to a CNBC analysis of Trump's latest financial disclosure . Purchases totaled at least $43.6 million, while sales came to at least $35.6 million, CNBC calculated, in what appears to be a broad reshuffling of his portfolio. The largest transactions were July 20 sales of between $5 million and $25 million each of Microsoft and Amazon, according to the filing. Three days later, Trump reported buying between $100,001 and $250,000 of Microsoft and between $1,001 and $15,000 of Amazon. The same July 20 entries show sales of between $1 million and $5 million of Oracle , along with purchases that included between $500,001 and $1 million of Nvidia . The filing also shows a $250,001 to $500,000 sale of Northrop Grumman that day, when Trump signed an executive order tightening supply chain requirements for defense contractors and restricting waivers for certain critical materials sourced from China and other covered countries. The disclosure does not show what time the trade occurred or who made the investment decision. Read more on Trump investments Trump’s oil investments have gained millions during Iran war as his accounts keep tradin Trump’s foreign licensing business booms to $59.5 million as Gulf developers pay JPMorgan, Schwab and UBS manage millions in Trump’s $858 million investment portfolio Trump bought as much as $5 million in Axon stock before ICE sought $220 million Taser deal Company that bet big on Trump-backed crypto says its fortunes have improved Trump family got about $500M from crypto venture — but investors saw steep losses Trump Jr. calls banking a 'Ponzi scheme' that forced family to create crypto business The Trump family crypto empire looks to Asia: Eric Trump talks Bitcoin in Hong Kong Trump family says U.S. dollar needs an upgrade and they are the ones to do it While the filing shows activity conducted on Trump's behalf, broad value ranges obscure his exact holdings. Still, heavy trading has been a feature of his second term. In June, Trump disclosed 1,051 transactions totaling between $78.1 million and $263.1 million, including purchases and sales of stocks, bonds and exchange-traded funds. The president's 2025 annual financial disclosure showed more than 21,000 securities trades across eight accounts holding at least $858 million, compared with 86 stock transactions disclosed during his first year in office in 2017. The White House has repeatedly defended the trades and said independent advisors manage the portfolio without input from Trump or his family. Recent presidents, however, have generally divested individual stocks or relied on blind trusts or diversified funds to avoid even the appearance of conflicts of interest. \"President Trump's stock and bond portfolio is independently managed by third-party financial institutions,\" White House spokesman Davis Ingle said in response to CNBC's questions about Trump's latest disclosure. \"Neither President Trump nor any member of his family has any ability to direct, influence, or provide input regarding how the portfolio is invested or when investments are bought or sold.\" The Trump Organization did not immediately respond to a request for comment on the latest disclosure. The July 20 transactions were part of a wider rotation including purchases of between $1 million and $5 million each of Intuit , Marvell Technology , Salesforce and Church & Dwight . Trump also bought between $250,000 and $500,000 of taser maker Axon Enterprises , which works frequently with Immigration and Customs Enforcement. The president also continued moving money among ETFs. On July 8, Trump disclosed purchases worth between $1 million and $5 million each of the State Street SPDR Bloomberg International Treasury Bond ETF , Fidelity MSCI Communication Services Index ETF , Vanguard Short-Term Bond Index Fund ETF and Vanguard Dividend Appreciation Index Fund ETF . That same day, he sold between $1 million and $5 million each of the iShares U.S. Treasury Bond ETF, State Street Communication Services Select Sector SPDR ETF and iShares International Treasury Bond ETF . Ten-year yields climbed on July 8 , led by soaring oil prices, after Trump said at the NATO summit in Turkey that he thought a ceasefire with Iran was over. Trump also made several large purchases of municipal and other bonds. The filing shows purchases worth between $1 million and $5 million each of two Miami-Dade County aviation revenue bonds, a St. Louis County school district bond and a Main Street Natural Gas bond. Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-09-22T19:30:03+00:00",
+   "tickers": [
+    "MSFT",
+    "AMZN"
+   ]
+  },
+  {
+   "id": "145c2fbbb7d3",
+   "title": "Trump endorses diesel export ban. A decision is coming ‘fast, one way or the other.’",
+   "link": "https://www.marketwatch.com/story/trump-endorses-diesel-export-ban-a-decision-is-coming-fast-one-way-or-the-other-a49055bc?mod=mw_rss_topstories",
+   "summary": "President Donald Trump says his administration is considering a ban on diesel exports, amid skyrocketing prices for the fuel.",
+   "article_text": "",
+   "source": "MarketWatch",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "marketwatch.com",
+   "published": "2026-09-22T19:30:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "7b855b43a270",
+   "title": "Penicillin Allergy Awareness - Rethinking and Reevaluating Penicillin Allergy",
+   "link": "https://www.prnewswire.com/news-releases/penicillin-allergy-awareness--rethinking-and-reevaluating-penicillin-allergy-302886633.html",
+   "summary": "Prepare for National Penicillin Allergy Awareness Day by Utilizing AAAAI Resources and Sharing Educational Materials MILWAUKEE, Sept. 22, 2026 /PRNewswire/ -- September 28 is National Penicillin Allergy Day. More than 90% of patients with a documented penicillin allergy in their...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-09-22T19:30:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "be6b60ce3b48",
+   "title": "Viking Therapeutics, Inc. (VKTX) Discusses Top Line Data from VK2735 Maintenance Study in Obesity and Type 2 Diabetes Transcript",
+   "link": "https://seekingalpha.com/article/4948777-viking-therapeutics-inc-vktx-discusses-top-line-data-from-vk2735-maintenance-study-in-obesity?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-22T19:29:48+00:00",
+   "tickers": [
+    "VKTX",
+    "VIK"
+   ]
+  },
+  {
+   "id": "e1c25de49ddc",
+   "title": "Diplomatic Hopes in the Middle East Knock Crude Prices Lower",
+   "link": "https://biztoc.com/x/b4694e2ff1ed81b6?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-09-22T19:29:34+00:00",
+   "tickers": []
+  },
+  {
+   "id": "25e91da2f797",
+   "title": "Trump confirms talks with mediators on Iran deal",
+   "link": "https://biztoc.com/x/3b1c497e6fe4ec46?ref=rss",
+   "summary": "United States President Donald Trump confirmed on Tuesday that Special Envoy to the Middle East Steve Witkoff and Special Envoy for Peace Missions Jared Kushner met earlier in the day with mediators r...",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-22T19:29:28+00:00",
+   "tickers": []
+  },
+  {
+   "id": "dea5cbb29996",
+   "title": "Eli Lilly CEO reveals astonishing shift in GLP-1 pill market",
+   "link": "https://biztoc.com/x/2ec13d3bc990132e?ref=rss",
+   "summary": "There is a woman in her mid-50s somewhere in Texas, California, or another place who has tried injectable GLP-1 medications and hated the weekly shot. There is a 40-year-old father who cannot remember to take a medication that requires him to fast beforehand. There is a college student who wants…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-22T19:29:26+00:00",
+   "tickers": [
+    "LLY"
+   ]
+  },
+  {
+   "id": "c7c3a597d62b",
+   "title": "Nat-Gas Prices Jump as US Weather Forecasts Turn Hotter",
+   "link": "https://biztoc.com/x/f4294e7e69beac90?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-09-22T19:29:25+00:00",
+   "tickers": []
+  },
+  {
+   "id": "86e5423821d5",
+   "title": "Zelensky: US, Ukraine want war ended before winter",
+   "link": "https://biztoc.com/x/93e1f6d8187cb887?ref=rss",
+   "summary": "Ukrainian President Volodymyr Zelensky stated on Tuesday that both Ukraine and the United States want to see \"senseless Russian war end before winter.\"Zelensky took to Telegram to share more details a...",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-22T19:29:14+00:00",
+   "tickers": []
+  },
+  {
+   "id": "8839101ec704",
+   "title": "Cerity Partners Recruits 2 New York Financial Advisor Practices With $1.4 Billion in Client Assets",
+   "link": "https://biztoc.com/x/5842cbc8c69c1184?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-22T19:29:12+00:00",
+   "tickers": []
+  },
+  {
+   "id": "594acdcb23d3",
+   "title": "VKTX Stock Soars as Viking Therapeutics Announces Positive GLP-1 Trial Results",
+   "link": "https://biztoc.com/x/f110348654ed9e3a?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-09-22T19:29:12+00:00",
+   "tickers": [
+    "VKTX",
+    "VIK"
+   ]
+  },
+  {
+   "id": "9110a4269486",
+   "title": "Direxion Daily Industrials Bull 3X Shares declares quarterly distribution of $0.0083",
+   "link": "https://seekingalpha.com/news/4645669-direxion-daily-industrials-bull-3x-shares-declares-quarterly-distribution-of-00083?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-22T19:29:11+00:00",
+   "tickers": [
+    "TECL"
+   ]
+  },
+  {
+   "id": "9d258c9de8cc",
+   "title": "A $20 Million Reason Why Fervo Energy Stock Is in Focus Today",
+   "link": "https://biztoc.com/x/79fbd5d48c443f68?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-22T19:29:11+00:00",
+   "tickers": []
+  },
+  {
+   "id": "2ba1f3c40d96",
+   "title": "Apple could take on Whoop with a new fitness tracker, report says",
+   "link": "https://biztoc.com/x/04ea7addb3c67321?ref=rss",
+   "summary": "Apple may be developing a new fitness tracker as part of its new generation of hardware devices.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-22T19:29:08+00:00",
+   "tickers": [
+    "AAPL"
+   ]
+  },
+  {
+   "id": "86a484ca2863",
+   "title": "Fox News stars are going to new lengths to avoid bad news for Trump",
+   "link": "https://biztoc.com/x/8c03c95135bf7eaa?ref=rss",
+   "summary": "Fox News’ MAGA stars have spent Donald Trump’s second term lavishing praise on the president and his purported accomplishments, denouncing his opponents in vitriolic terms and telling their viewers which culture war enemies to hate. But any understanding of the goals of a political outlet like Fox…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-22T19:29:08+00:00",
+   "tickers": [
+    "FOX",
+    "NWSA"
+   ]
+  },
+  {
+   "id": "f92362cfa45e",
+   "title": "Turek's Surge Against Hinson Has Echoes of Democrats' Last Iowa Senate Win",
+   "link": "https://biztoc.com/x/7c36e0cf07c0a42d?ref=rss",
+   "summary": "A new Marist poll shows Democrat Josh Turek leading Republican Ashley Hinson in Iowa's Senate election, a competitive race that in some ways parallels the conditions present during Democrats' last victory in a statewide Senate election 18 years ago. The poll, released on Tuesday, found that 50…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-09-22T19:29:07+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a519a9a5984a",
+   "title": "Trump admin says it will save $2.2 billion by kicking off 760,000 Affordable Care Act enrollees over fraud claims",
+   "link": "https://biztoc.com/x/267f0cd22e8b38e8?ref=rss",
+   "summary": "Vice President JD Vance and other Trump administration officials said Tuesday they plan to remove 760,000 Affordable Care Act enrollees from public healthcare exchanges, alleging that the individuals were fraudulently enrolled in the program, or simply do not exist. Vance said the discovery and…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-09-22T19:29:04+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b6d846e56b80",
+   "title": "Trump administration removes around 760,000 Obamacare enrollments, alleging fraud",
+   "link": "https://biztoc.com/x/8ec4b7f6938b65e2?ref=rss",
+   "summary": "The Centers for Medicare and Medicaid Services said on Tuesday it canceled roughly 315,000 Affordable Care Act marketplace enrollments covering about 760,000 people last month, alleging \"rampant fraud\" and improper enrollments in the program. The enforcement action also involves verifying roughly…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-09-22T19:29:01+00:00",
+   "tickers": []
+  },
+  {
+   "id": "9287106ff795",
+   "title": "The Retirees Who Left Arizona for Good Say the Summers Were the Smallest Part of It",
+   "link": "https://biztoc.com/x/2bd7f3deb9d603fa?ref=rss",
+   "summary": "The post The Retirees Who Left Arizona for Good Say the Summers Were the Smallest Part of It appeared first on 24/7 Wall St.. Every winter, prospective retirees visit Phoenix or Tucson, drive neighborhoods in shirtsleeves, and price out trading a snow shovel for a golf cart. They visit in…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-22T19:29:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "4eee54223b3c",
+   "title": "The Simple Secret to Success as an Advisor: Return Phone Calls, Follow Through on Commitments",
+   "link": "https://biztoc.com/x/53c19d49b91812f6?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-22T19:29:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "bf97f8faaff6",
+   "title": "World Labs Founder Fei-Fei Li Urges Independent Oversight of AI",
+   "link": "https://biztoc.com/x/a33fe11dcd16d223?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-22T19:28:58+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c519bc393436",
+   "title": "Susan Collins Blasted by Troy Jackson Over FBI Probe Report—‘Corruption’",
+   "link": "https://biztoc.com/x/65101bf7940c6842?ref=rss",
+   "summary": "Senator Susan Collins, a Republican, was hit with criticism from her Democratic challenger Troy Jackson after ProPublica published a report about her alleged interactions with a major campaign donor, as polls show a tight race in Maine six weeks out from the 2026 midterms. The FBI sought to launch…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-09-22T19:28:57+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b1e5f6379468",
+   "title": "Network of State Conservatives Advance SAVE Laws",
+   "link": "https://biztoc.com/x/b1cba1fd8d69ddc6?ref=rss",
+   "summary": "By VIRGINIA GRACE MCKINNON, The Daily Signal | September 20, 2026 Ensuring America has secure elections might be the largest and most consequential fight for conservatives ahead of the November 2026 midterm elections. Requiring identification and proof of citizenship to vote is an 80-20 issue for…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-22T19:28:50+00:00",
+   "tickers": []
+  },
+  {
+   "id": "d4c23a3a54fc",
+   "title": "Lennar shares pop as Berkshire builds almost a 10% stake in beleaguered homebuilder",
+   "link": "https://biztoc.com/x/ea6f492cab3d66e0?ref=rss",
+   "summary": "The conglomerate built by Warren Buffett and led today by Greg Abel holds a sizable stake in Miami-based homebuilder Lennar.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-22T19:28:48+00:00",
+   "tickers": [
+    "LEN"
+   ]
+  },
+  {
+   "id": "2d29f6aa7749",
+   "title": "Cisco stock sinks 5% after Piper Sandler cuts price target on growth concerns",
+   "link": "https://biztoc.com/x/9d9d5aeee46c6cce?ref=rss",
+   "summary": "Cisco stock hit a record over the summer, but Piper Sandler analysts expressed concerns that growth is peaking in the industry.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-09-22T19:28:46+00:00",
+   "tickers": [
+    "CSCO"
+   ]
+  },
+  {
+   "id": "72840b82e288",
+   "title": "Ari Emanuel Dishes on Hollywood Feuds, Paramount Merger and Elon Musk Friendship",
+   "link": "https://biztoc.com/x/e6aaf81bed01bbc9?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-22T19:28:45+00:00",
+   "tickers": [
+    "PARA"
+   ]
+  },
+  {
+   "id": "badb109782fb",
+   "title": "GLP-1 Drugs Put $149 Billion in Food Spending at Risk. So Far, the Biggest Loser Isn’t Candy",
+   "link": "https://biztoc.com/x/ed320f5f27d1e3e1?ref=rss",
+   "summary": "Approximately one in eight U.S. adults is currently taking a GLP-1 drug. Usage is reshaping one of the country’s biggest industries.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-22T19:28:45+00:00",
+   "tickers": []
+  },
+  {
+   "id": "9f4a4b176b4b",
+   "title": "Trump says he would back US diesel export ban",
+   "link": "https://biztoc.com/x/9d9ba31ee5ab1736?ref=rss",
+   "summary": "President’s support for suspending foreign sales comes as conflicts in Middle East and Ukraine send price of vital fuel soaring",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-22T19:28:42+00:00",
+   "tickers": []
+  },
+  {
+   "id": "8a420bec7e8f",
+   "title": "Have You Seen The Surge In US Rough Rice Futures",
+   "link": "https://biztoc.com/x/71ff940b3b8afa38?ref=rss",
+   "summary": "Have You Seen The Surge In US Rough Rice Futures America's rice harvest is forecast to fall to its lowest level in 33 years. CBOT rough rice futures, the benchmark for US long-grain rice before milling, are surging higher at the end of summer after rising 69% so far this year. USDA forecasts…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-09-22T19:28:38+00:00",
+   "tickers": []
+  },
+  {
+   "id": "d6bcadc16075",
+   "title": "Saudi Arabia Plans To Compete With Tesla",
+   "link": "https://biztoc.com/x/0e7d35fe3b0ccb0a?ref=rss",
+   "summary": "The post Saudi Arabia Plans To Compete With Tesla appeared first on 24/7 Wall St.. A new EV company in Saudi Arabia has just launched its first EVs. Ceer has just released two models. It plans to launch five more by 2030. The company also has the backing of Saudi Arabia’s sovereign wealth fund,…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-22T19:28:37+00:00",
+   "tickers": [
+    "TSLA"
+   ]
+  },
   {
    "id": "597ef4fd859f",
    "title": "Sentry AI Brings Flexible, AI-Powered Remote Guarding to Multifamily Communities and HOAs",
@@ -48,6 +646,23 @@
    ]
   },
   {
+   "id": "4910b9a524f6",
+   "title": "Direxion Daily MSCI Real Estate Bear 3X Shares declares quarterly distribution of $0.1535",
+   "link": "https://seekingalpha.com/news/4645668-direxion-daily-msci-real-estate-bear-3x-shares-declares-quarterly-distribution-of-01535?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-22T19:27:31+00:00",
+   "tickers": [
+    "MSCI",
+    "TECL"
+   ]
+  },
+  {
    "id": "2a70bd5722b6",
    "title": "Invesco Summit Fund Q2 2026 Commentary",
    "link": "https://seekingalpha.com/article/4948762-invesco-summit-fund-q2-2026-commentary?source=feed_all_articles",
@@ -61,6 +676,23 @@
    "published": "2026-09-22T19:27:00+00:00",
    "tickers": [
     "IVZ"
+   ]
+  },
+  {
+   "id": "32896e6f6537",
+   "title": "Direxion Daily MSCI Real Estate Bull 3X Shares declares quarterly distribution of $0.0723",
+   "link": "https://seekingalpha.com/news/4645667-direxion-daily-msci-real-estate-bull-3x-shares-declares-quarterly-distribution-of-00723?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-22T19:26:45+00:00",
+   "tickers": [
+    "MSCI",
+    "TECL"
    ]
   },
   {
@@ -150,6 +782,40 @@
    "tickers": []
   },
   {
+   "id": "b9cc947a8c18",
+   "title": "Notable Tuesday Option Activity: ASTS, ILPT, CGON",
+   "link": "https://www.nasdaq.com/articles/notable-tuesday-option-activity-asts-ilpt-cgon",
+   "summary": "Among the underlying components of the Russell 3000 index, we saw noteworthy options trading volume today in AST SpaceMobile Inc (Symbol: ASTS), where a total of 118,093 contracts have traded so far, representing approximately 11.8 million underlying shares. That amounts to abo",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-22T19:21:48+00:00",
+   "tickers": [
+    "ASTS",
+    "CGON"
+   ]
+  },
+  {
+   "id": "2d9fa151ddbf",
+   "title": "Notable Tuesday Option Activity: CNXN, MSTR, HIMS",
+   "link": "https://www.nasdaq.com/articles/notable-tuesday-option-activity-cnxn-mstr-hims",
+   "summary": "Among the underlying components of the Russell 3000 index, we saw noteworthy options trading volume today in PC Connection, Inc. (Symbol: CNXN), where a total of 1,841 contracts have traded so far, representing approximately 184,100 underlying shares. That amounts to about 137.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-22T19:21:41+00:00",
+   "tickers": [
+    "MSTR",
+    "HIMS"
+   ]
+  },
+  {
    "id": "84243880c6f5",
    "title": "Leidos wins Army contract worth up to $127 million",
    "link": "https://seekingalpha.com/news/4645665-leidos-wins-army-contract-worth-up-to-127-million?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -224,6 +890,20 @@
    "tickers": []
   },
   {
+   "id": "951dc4f15e20",
+   "title": "Jack Bogle Offered 12 Words That Transformed Investing. Today, They're More Crucial Than Ever.",
+   "link": "https://www.nasdaq.com/articles/jack-bogle-offered-12-words-transformed-investing-today-theyre-more-crucial-ever",
+   "summary": "Key PointsJack Bogle believed in buying “all the stocks” at once, with low-cost index funds.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-22T19:20:00+00:00",
+   "tickers": []
+  },
+  {
    "id": "6399e40e80e6",
    "title": "Celldex Therapeutics, Inc. (CLDX) Discusses Positive Phase 3 Results for Barzolvolimab in Chronic Spontaneous Urticaria Transcript",
    "link": "https://seekingalpha.com/article/4948773-celldex-therapeutics-inc-cldx-discusses-positive-phase-3-results-for-barzolvolimab-in-chronic?source=feed_all_articles",
@@ -251,6 +931,22 @@
    "published": "2026-09-22T19:19:47+00:00",
    "tickers": [
     "ESTC"
+   ]
+  },
+  {
+   "id": "ce9454c6de87",
+   "title": "GameStop Director Buys 17,500 Shares for $402,175",
+   "link": "https://www.nasdaq.com/articles/gamestop-director-buys-17500-shares-402175",
+   "summary": "Key PointsThe 17,500 shares were purchased at a weighted average price of $22.97 per share, representing a $402,175 capital commitment.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-22T19:19:42+00:00",
+   "tickers": [
+    "GME"
    ]
   },
   {
@@ -1555,9 +2251,9 @@
    "link": "https://www.nasdaq.com/articles/dynex-capital-incs-690-series-c-fix-float-cumulative-redeemable-preferred-stock-crosses",
    "summary": "In trading on Tuesday, shares of Dynex Capital Inc's 6.90% Series C Fix/Float Cumulative Redeemable Preferred Stock (Symbol: DX.PRC) were yielding above the 9.5% mark based on its quarterly dividend (annualized to $2.4317), with shares changing hands as low as $25.59 on the day.",
    "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
    "sentiment": "neutral",
    "domain": "nasdaq.com",
    "published": "2026-09-22T19:04:00+00:00",
@@ -1599,8 +2295,8 @@
    "link": "https://www.nasdaq.com/articles/chimera-investment-corps-775-series-c-fixed-floating-rate-cumulative-redeemable-preferred",
    "summary": "In trading on Tuesday, shares of Chimera Investment Corp's 7.75% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock (Symbol: CIM.PRC) were yielding above the 10% mark based on its quarterly dividend (annualized to $2.2312), with shares changing hands as low as",
    "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
    "type": "macro",
    "sentiment": "neutral",
    "domain": "nasdaq.com",
@@ -1697,6 +2393,22 @@
    "tickers": []
   },
   {
+   "id": "5523d12b7fdc",
+   "title": "KB Home Q3 26 Earnings Conference Call At 5:00 PM ET",
+   "link": "https://www.nasdaq.com/articles/kb-home-q3-26-earnings-conference-call-5-00-pm-et",
+   "summary": "(RTTNews) - KB Home (KBH) will host a conference call at 5:00 PM ET on September 22, 2026, to discuss Q3 26 earnings results.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-22T19:03:16+00:00",
+   "tickers": [
+    "KBH"
+   ]
+  },
+  {
    "id": "2f48a6f8eea8",
    "title": "Lantronix Nominates Defense Technology Executive and Former Navy SEAL Jason Lamb to Board of Directors",
    "link": "https://www.globenewswire.com/news-release/2026/09/22/3366840/0/en/lantronix-nominates-defense-technology-executive-and-former-navy-seal-jason-lamb-to-board-of-directors.html",
@@ -1725,20 +2437,6 @@
    "tickers": [
     "TECL"
    ]
-  },
-  {
-   "id": "b6ee5de741b8",
-   "title": "Climate risk is reshaping muni credit — and income opportunities",
-   "link": "https://www.cnbc.com/2026/09/22/climate-risk-is-reshaping-muni-credit-and-income-opportunities.html",
-   "summary": "Some local governments are issuing municipal bonds to protect against climate risks. Here's where Nuveen sees opportunity.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-09-22T19:02:02+00:00",
-   "tickers": []
   },
   {
    "id": "5eaef27c94fb",
@@ -1877,6 +2575,22 @@
    "domain": "biztoc.com",
    "published": "2026-09-22T19:01:05+00:00",
    "tickers": []
+  },
+  {
+   "id": "7392161926e3",
+   "title": "Before You Invest a Dollar, Figure Out How Much You're Actually Allowed to Invest",
+   "link": "https://www.nasdaq.com/articles/you-invest-dollar-figure-out-how-much-youre-actually-allowed-invest",
+   "summary": "Key PointsYour buffer for rent and necessities comes off the top, before the first dollar reaches a brokerage account.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-22T19:01:01+00:00",
+   "tickers": [
+    "FIGR"
+   ]
   },
   {
    "id": "4e714b8d1098",
@@ -2616,23 +3330,6 @@
    "tickers": [
     "TECL",
     "AVGO"
-   ]
-  },
-  {
-   "id": "d04a9150d3aa",
-   "title": "Trump discloses more than 1,100 July trades, including up to $25 million each in sales of Microsoft, Amazon",
-   "link": "https://www.cnbc.com/2026/09/22/trump-trades-microsoft-amazon-july-financial-disclosure.html",
-   "summary": "Trump sold tech stocks including Amazon and Microsoft when the Mag 7 stocks popped on July 20, adding $291 billion in market value in one day.",
-   "article_text": "Trump disclosure shows 1,100 July trades, Microsoft and Amazon sales Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Key Points President Donald Trump disclosed 1,156 securities transactions made on his behalf in July, totaling between roughly $79 million and $270 million, CNBC calculated. The largest were sales of between $5 million and $25 million each of Microsoft and Amazon on July 20. The filing shows another month of extensive trading across technology, defense, ETFs and bonds, continuing a pattern of heavy activity in Trump’s investment accounts. In this article AMZN MSFT Follow your favorite stocks CREATE FREE ACCOUNT watch now VIDEO 2:06 02:06 President Trump discloses more than 1,100 July securities trades The Exchange President Donald Trump disclosed more than 1,100 securities transactions made on his behalf in July, including sales of as much as $25 million each of Microsoft and Amazon shares, as his sprawling investment portfolio underwent another month of heavy trading. The 1,156 purchases and sales totaled between roughly $79 million and $270 million, according to a CNBC analysis of Trump's latest financial disclosure . Purchases totaled at least $43.6 million, while sales came to at least $35.6 million, CNBC calculated, in what appears to be a broad reshuffling of his portfolio. The largest transactions were July 20 sales of between $5 million and $25 million each of Microsoft and Amazon, according to the filing. Three days later, Trump reported buying between $100,001 and $250,000 of Microsoft and between $1,001 and $15,000 of Amazon. The same July 20 entries show sales of between $1 million and $5 million of Oracle , along with purchases that included between $500,001 and $1 million of Nvidia . The filing also shows a $250,001 to $500,000 sale of Northrop Grumman that day, when Trump signed an executive order tightening supply chain requirements for defense contractors and restricting waivers for certain critical materials sourced from China and other covered countries. The disclosure does not show what time the trade occurred or who made the investment decision. Read more on Trump investments Trump’s oil investments have gained millions during Iran war as his accounts keep tradin Trump’s foreign licensing business booms to $59.5 million as Gulf developers pay JPMorgan, Schwab and UBS manage millions in Trump’s $858 million investment portfolio Trump bought as much as $5 million in Axon stock before ICE sought $220 million Taser deal Company that bet big on Trump-backed crypto says its fortunes have improved Trump family got about $500M from crypto venture — but investors saw steep losses Trump Jr. calls banking a 'Ponzi scheme' that forced family to create crypto business The Trump family crypto empire looks to Asia: Eric Trump talks Bitcoin in Hong Kong Trump family says U.S. dollar needs an upgrade and they are the ones to do it While the filing shows activity conducted on Trump's behalf, broad value ranges obscure his exact holdings. Still, heavy trading has been a feature of his second term. In June, Trump disclosed 1,051 transactions totaling between $78.1 million and $263.1 million, including purchases and sales of stocks, bonds and exchange-traded funds. The president's 2025 annual financial disclosure showed more than 21,000 securities trades across eight accounts holding at least $858 million, compared with 86 stock transactions disclosed during his first year in office in 2017. The White House has repeatedly defended the trades and said independent advisors manage the portfolio without input from Trump or his family. Recent presidents, however, have generally divested individual stocks or relied on blind trusts or diversified funds to avoid even the appearance of conflicts of interest. \"President Trump's stock and bond portfolio is independently managed by third-party financial institutions,\" White House spokesman Davis Ingle said in response to CNBC's questions about Trump's latest disclosure. \"Neither President Trump nor any member of his family has any ability to direct, influence, or provide input regarding how the portfolio is invested or when investments are bought or sold.\" The Trump Organization did not immediately respond to a request for comment on the latest disclosure. The July 20 transactions were part of a wider rotation including purchases of between $1 million and $5 million each of Intuit , Marvell Technology , Salesforce and Church & Dwight . Trump also bought between $250,000 and $500,000 of taser maker Axon Enterprises , which works frequently with Immigration and Customs Enforcement. The president also continued moving money among ETFs. On July 8, Trump disclosed purchases worth between $1 million and $5 million each of the State Street SPDR Bloomberg International Treasury Bond ETF , Fidelity MSCI Communication Services Index ETF , Vanguard Short-Term Bond Index Fund ETF and Vanguard Dividend Appreciation Index Fund ETF . That same day, he sold between $1 million and $5 million each of the iShares U.S. Treasury Bond ETF, State Street Communication Services Select Sector SPDR ETF and iShares International Treasury Bond ETF . Ten-year yields climbed on July 8 , led by soaring oil prices, after Trump said at the NATO summit in Turkey that he thought a ceasefire with Iran was over. Trump also made several large purchases of municipal and other bonds. The filing shows purchases worth between $1 million and $5 million each of two Miami-Dade County aviation revenue bonds, a St. Louis County school district bond and a Main Street Natural Gas bond. Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-09-22T18:57:01+00:00",
-   "tickers": [
-    "MSFT",
-    "AMZN"
    ]
   },
   {
@@ -3630,22 +4327,6 @@
    "domain": "nytimes.com",
    "published": "2026-09-22T18:37:12+00:00",
    "tickers": []
-  },
-  {
-   "id": "dccb7480d43c",
-   "title": "Nasdaq climbs to fresh all-time high; S&P 500 is little changed as traders monitor Middle East tensions: Live updates",
-   "link": "https://www.cnbc.com/2026/09/21/stock-market-today-live-updates.html",
-   "summary": "Traders continued to keep an eye on developments between the U.S. and Iran.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "cnbc.com",
-   "published": "2026-09-22T18:37:11+00:00",
-   "tickers": [
-    "NDAQ"
-   ]
   },
   {
    "id": "27f2adf12b64",
@@ -8245,674 +8926,13 @@
    "tickers": [
     "GS"
    ]
-  },
-  {
-   "id": "3db52be42eb3",
-   "title": "Top quantum computing ETFs: performance, risk profiles, and what to watch",
-   "link": "https://www.investing.com/news/stock-market-news/top-quantum-computing-etfs-performance-risk-profiles-and-what-to-watch-93CH-4911379",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-09-22T17:18:15+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ddb6e095e872",
-   "title": "Siemens bags big new contracts in Vietnam and Austria worth €2.3B",
-   "link": "https://seekingalpha.com/news/4645616-siemens-bags-big-new-contracts-in-vietnam-and-austria-worth-2_3b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-22T17:18:13+00:00",
-   "tickers": []
-  },
-  {
-   "id": "621648e23a9e",
-   "title": "El Servicio Postal recomienda las fechas para enviar correspondencia y paquetes durante las fiestas de 2026",
-   "link": "https://www.prnewswire.com/news-releases/el-servicio-postal-recomienda-las-fechas-para-enviar-correspondencia-y-paquetes-durante-las-fiestas-de-2026-876786276.html",
-   "summary": "WASHINGTON, 22 de septiembre de 2026 /PRNewswire-HISPANIC PR WIRE/ -- El United States Postal Service ha anunciado hoy las fechas recomendadas para el envío de correspondencia y paquetería durante la temporada navideña de 2026. Para garantizar la entrega antes del 25 de diciembre, el...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-09-22T17:18:00+00:00",
-   "tickers": [
-    "SCI"
-   ]
-  },
-  {
-   "id": "382b7f6e6f1a",
-   "title": "Elabscience® Launches EasySort™ Mouse CD4 Nanobeads, Its First Magnetic Bead Product for Positive Cell Selection",
-   "link": "https://www.prnewswire.com/news-releases/elabscience-launches-easysort-mouse-cd4-nanobeads-its-first-magnetic-bead-product-for-positive-cell-selection-302883942.html",
-   "summary": "HOUSTON, Sept. 22, 2026 /PRNewswire/ -- Elabscience® Bionovation Inc. (\"Elabscience®\" or \"the Company\") launched EasySort™ Mouse CD4 Nanobeads on September 22, 2026, the Company's first magnetic bead product for positive cell selection, designed to enrich mouse CD4+ cells for basic...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "positive",
-   "domain": "prnewswire.com",
-   "published": "2026-09-22T17:18:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "494932332e76",
-   "title": "Garrett Handy Named to 2026 Mountain States Super Lawyers List in Personal Injury",
-   "link": "https://www.prnewswire.com/news-releases/garrett-handy-named-to-2026-mountain-states-super-lawyers-list-in-personal-injury-302886522.html",
-   "summary": "SALT LAKE CITY, Sept. 22, 2026 /PRNewswire/ -- Handy & Handy, PC, a Salt Lake City-based personal injury law firm, is proud to announce that attorney Garrett S. Handy has been selected to the 2026 Mountain States Super Lawyers list in the Personal Injury – Plaintiff category. This marks...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-09-22T17:16:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b269066df280",
-   "title": "Brent Falls Below $100 a Barrel on U.S.-Iran Diplomacy Hopes",
-   "link": "https://biztoc.com/x/fd1ee0b4b7c3d822?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-09-22T17:15:27+00:00",
-   "tickers": []
-  },
-  {
-   "id": "1a138ad84369",
-   "title": "Massive AI-Fueled Hack Hit 100 Companies In Days",
-   "link": "https://biztoc.com/x/2b0c066e1453bc04?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-22T17:15:14+00:00",
-   "tickers": []
-  },
-  {
-   "id": "295ccbb748da",
-   "title": "Inside the SEC's 24-Hour Trading Roundtable: Nasdaq's Chuck Mack on Building a Resilient Overnight Market",
-   "link": "https://www.nasdaq.com/newsroom/sec-24-hour-trading-roundtable-chuck-mack-on-resilient-overnight-market",
-   "summary": "The Nasdaq Stock Market will introduce a new session running from 9:00 p.m. to 4:00 a.m. ET, to create “23/5” trading: 23 hours of continuous markets, five days a week, with a one-hour pause each night for processing and trade-date rollover.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-09-22T17:15:00+00:00",
-   "tickers": [
-    "NDAQ"
-   ]
-  },
-  {
-   "id": "09f34921d25f",
-   "title": "Life Montana Style TV Series Spotlights Bozeman Real Estate and Lifestyle on REAL Shows Network",
-   "link": "https://www.prnewswire.com/news-releases/life-montana-style-tv-series-spotlights-bozeman-real-estate-and-lifestyle-on-real-shows-network-302886520.html",
-   "summary": "Locally hosted series led by Laura Sacchi highlights the homes, people, businesses, and lifestyle that define Bozeman and the surrounding region. BOZEMAN, Mont., Sept. 22, 2026 /PRNewswire/ -- REAL Shows Network (RSN), the national television platform dedicated to elevating real estate...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-09-22T17:15:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "83bad4de29e0",
-   "title": "Blaize Holdings, Inc. (BZAI) Shareholders Who Lost Money Have Opportunity to Lead Securities Fraud Lawsuit",
-   "link": "https://www.prnewswire.com/news-releases/blaize-holdings-inc-bzai-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302885975.html",
-   "summary": "BENSALEM TOWNSHIP, Pa., Sept. 22, 2026 /PRNewswire/ -- The Law Offices of Howard G. Smith announces that investors with substantial losses have opportunity to lead the securities fraud class action lawsuit against Blaize Holdings, Inc. IF YOU ARE AN INVESTOR WHO SUFFERED A LOSS IN BLAIZE...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "prnewswire.com",
-   "published": "2026-09-22T17:15:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ad378be716de",
-   "title": "Revealed: Some of the Oracle Cloud Roles Hit Hardest in Layoffs",
-   "link": "https://biztoc.com/x/b9af8c7a675552f0?ref=rss",
-   "summary": "A leaked document has provided the clearest picture yet of how Oracle's latest layoffs have reorganized its vitally important cloud business. Oracle began a new round of layoffs last week as the tech giant continues to cut costs amid an expensive AI infrastructure push. Business Insider obtained a…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-09-22T17:14:46+00:00",
-   "tickers": [
-    "ORCL"
-   ]
-  },
-  {
-   "id": "5837b09514ef",
-   "title": "Sandisk has $93.9 billion in deals: Now comes the hard part",
-   "link": "https://biztoc.com/x/ff6bd85e272519df?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-22T17:14:41+00:00",
-   "tickers": [
-    "SNDK"
-   ]
-  },
-  {
-   "id": "26566e816b17",
-   "title": "Trump says he will probably let banned media back to White House if court decides",
-   "link": "https://biztoc.com/x/9f8ef9cc505ae386?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-22T17:14:15+00:00",
-   "tickers": []
-  },
-  {
-   "id": "8fbc8ec654c6",
-   "title": "Trump: US-UK ties better under Burnham",
-   "link": "https://biztoc.com/x/0c5bc957565e55fb?ref=rss",
-   "summary": "More to come......",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-22T17:14:07+00:00",
-   "tickers": []
-  },
-  {
-   "id": "38df925d0eda",
-   "title": "Former ambassador says Trump’s U.N. speech will be ‘forgotten’",
-   "link": "https://biztoc.com/x/34d6c8a66f937e85?ref=rss",
-   "summary": "MS NOW international affairs analyst Michael McFaul blasted Donald Trump after the president delivered what the former diplomat called a forgettable speech before the United Nations General Assembly on Tuesday morning. “I think we’re at the end of the Trump era,” he told MS NOW’s Stephanie…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-22T17:14:07+00:00",
-   "tickers": [
-    "MS"
-   ]
-  },
-  {
-   "id": "c3e26f476c1d",
-   "title": "Cisco Sinks 6% While the Tech Sector Rises; Arista and Ciena Hold Flat",
-   "link": "https://biztoc.com/x/890c7d3dbcaa7d9f?ref=rss",
-   "summary": "The post Cisco Sinks 6% While the Tech Sector Rises; Arista and Ciena Hold Flat appeared first on 24/7 Wall St.. Cisco Systems (NASDAQ:CSCO) stock is sliding through Tuesday’s session while the broader technology tape holds firm. Cisco stock is down 6% to $104.94, an outlier decline on a day when…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-22T17:14:07+00:00",
-   "tickers": [
-    "CSCO",
-    "ANET",
-    "CIEN"
-   ]
-  },
-  {
-   "id": "6f72fad336d6",
-   "title": "Trump says talks with Iran continue and he thinks settlement will be reached",
-   "link": "https://www.investing.com/news/commodities-news/trump-says-talks-with-iran-continue-and-he-thinks-settlement-will-be-reached-4911375",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-09-22T17:14:06+00:00",
-   "tickers": []
-  },
-  {
-   "id": "5bc05daf89f5",
-   "title": "Canadian dollar hits nearly seven-week low on wider yield spreads",
-   "link": "https://biztoc.com/x/9c17aba95cef9eba?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-22T17:14:05+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6b043cf33d84",
-   "title": "Iran seeks 20% fine for Hormuz transit breach",
-   "link": "https://biztoc.com/x/577b636fd0b146b7?ref=rss",
-   "summary": "Iranian Parliament's National Security Commission spokesperson said on Tuesday that new legislation envisages a 20% fine for all vessels engaging in \"unauthorized\" transit through the Strait of Hormuz...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-09-22T17:14:05+00:00",
-   "tickers": []
-  },
-  {
-   "id": "352a76a9ab28",
-   "title": "Austria's Raiffeisen Bank wins default judgment against Rasperia",
-   "link": "https://biztoc.com/x/e8b808796958f728?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-09-22T17:14:04+00:00",
-   "tickers": []
-  },
-  {
-   "id": "dcb1aaa930bc",
-   "title": "WATCH: Trump dismisses concerns about AI risks at UN, says he won't rein it in",
-   "link": "https://biztoc.com/x/b4f914ec4e7a022f?ref=rss",
-   "summary": "President Donald Trump said Tuesday at the United Nations that he is changing the term \"artificial intelligence\" to \"super intelligence\" because it's \"more accurate,\" as he dismissed global concerns about the technology and its effects on humanity.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-09-22T17:14:01+00:00",
-   "tickers": []
-  },
-  {
-   "id": "44f10c207fa2",
-   "title": "PolyAI, Taboola, Contentful and Docusign are 2026 Digiday Technology Awards winners",
-   "link": "https://biztoc.com/x/51c2bdbf36f75b84?ref=rss",
-   "summary": "This year’s Digiday Technology Awards honor the companies embracing AI and automation tools to enhance personalized experiences, enable precise targeting and drive performance across platforms and channels. Winners are also integrating advanced e-commerce technologies and focusing on integrated…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-22T17:13:59+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e5cc6bc0d346",
-   "title": "AMD is the latest tech company to hit a $1 trillion market cap. Here’s why",
-   "link": "https://biztoc.com/x/e912ca39dd2ccc5f?ref=rss",
-   "summary": "Yesterday, Advanced Micro Devices, Inc. (Nasdaq: AMD) became the latest member of one of the world’s most exclusive clubs: companies worth $1 trillion or more. AMD crossed the threshold after a remarkable run in the stock market recently, with the company’s stock price surging 30% in the last 30…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-22T17:13:57+00:00",
-   "tickers": [
-    "AMD",
-    "NDAQ"
-   ]
-  },
-  {
-   "id": "4b2ace3f4613",
-   "title": "Map Shows Where US Set To Open New Military Bases In Greenland",
-   "link": "https://biztoc.com/x/2c5e0338cae57849?ref=rss",
-   "summary": "A Newsweek map shows the reported locations of two new U.S. military bases to be built in Greenland. President Donald Trump announced last week that a security agreement had been struck over the semi-autonomous Arctic territory which is part of the kingdom of Denmark. It followed months of Trump's…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-22T17:13:52+00:00",
-   "tickers": []
-  },
-  {
-   "id": "465a328f13d7",
-   "title": "Fed’s Barkin says US economy firming but inflation risks persist",
-   "link": "https://biztoc.com/x/cf94df06812cb607?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-22T17:13:50+00:00",
-   "tickers": []
-  },
-  {
-   "id": "02cdb491bc8b",
-   "title": "Quantum computing stocks vs. crypto stocks: a value comparison",
-   "link": "https://www.investing.com/news/stock-market-news/quantum-computing-stocks-vs-crypto-stocks-a-value-comparison-93CH-4911374",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-22T17:13:48+00:00",
-   "tickers": []
-  },
-  {
-   "id": "313e298e3152",
-   "title": "Trump Signs Greenland Security Deal Expanding US Military Access",
-   "link": "https://biztoc.com/x/6f4547667f293db7?ref=rss",
-   "summary": "President Donald Trump, Greenland Premier Jens-Frederik Nielsen and Danish Prime Minister Mette Frederiksen signed a new security agreement Tuesday expanding US military access to Greenland, according to CBS News. 💡 The agreement reaffirms Greenland’s status within the Kingdom of Denmark while…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-22T17:13:47+00:00",
-   "tickers": [
-    "NWSA",
-    "PARA"
-   ]
-  },
-  {
-   "id": "a647f5d058a0",
-   "title": "Trump at UN Defends Iran War, Rejects AI Risks",
-   "link": "https://biztoc.com/x/6e78ef6c972d2dff?ref=rss",
-   "summary": "President Donald Trump defended the war in Iran, saying it will end after US midterm elections in his speech to the UN General Assembly on Monday. He also dismissed calls for an international agreement to put guardrails around the development of AI. #trump #iran #ai #politics #world #news #usa…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-22T17:13:47+00:00",
-   "tickers": []
-  },
-  {
-   "id": "9dfe828c3d4e",
-   "title": "The Next Chapter of Active Investing",
-   "link": "https://biztoc.com/x/7049d328211e3c63?ref=rss",
-   "summary": "The post The Next Chapter of Active Investing appeared first on The Daily Upside.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-22T17:13:46+00:00",
-   "tickers": []
-  },
-  {
-   "id": "f615712d47fb",
-   "title": "Nigeria minister touts ‘quite good’ relationship with US",
-   "link": "https://biztoc.com/x/04be1711f835f8f8?ref=rss",
-   "summary": "Nigeria’s trade minister on Tuesday described the country’s relationship with the US as “actually quite good” despite a 12.5% tariff Washington imposed on Nigerian exports in July as part of a broader action targeting 60 countries. “The US-Nigeria relationship is actually quite good,” Jumoke…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-22T17:13:45+00:00",
-   "tickers": []
-  },
-  {
-   "id": "39678d10d301",
-   "title": "15 Affordable Countries Where Your Travel Dollar Goes Further",
-   "link": "https://biztoc.com/x/a8de8451afbadf7e?ref=rss",
-   "summary": "The post 15 Affordable Countries Where Your Travel Dollar Goes Further appeared first on 24/7 Wall St.. Traveling is one of the best ways to spend money, but getting there and staying there can get expensive fast. A week in London, Paris, or Amsterdam can put a serious dent in a vacation budget…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-22T17:13:44+00:00",
-   "tickers": []
-  },
-  {
-   "id": "5ed0b33b95c3",
-   "title": "US closes rear-view camera probe into more than 129,000 Honda vehicles",
-   "link": "https://www.investing.com/news/stock-market-news/us-closes-rearview-camera-probe-into-more-than-129000-honda-vehicles-4910002",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-09-22T17:13:43+00:00",
-   "tickers": []
-  },
-  {
-   "id": "52d417e0a48c",
-   "title": "Turkish Airlines, Pegasus & AJet Cancel Iran Flights As US Sanctions Bite",
-   "link": "https://biztoc.com/x/77ee1ad6d7444d5c?ref=rss",
-   "summary": "Turkish Airlines, Pegasus & AJet Cancel Iran Flights As US Sanctions Bite Via Middle East Eye Turkey's national carrier, Turkish Airlines, and budget airlines AJet and Pegasus have cancelled flights to and from Iran from September 21 as US sanctions take effect, a review by Middle East Eye…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-22T17:13:41+00:00",
-   "tickers": []
-  },
-  {
-   "id": "7065383f71e3",
-   "title": "Silver Made America’s Critical Minerals List. This ETF Is the Easiest Way In",
-   "link": "https://biztoc.com/x/cc6cef559cbfdbb9?ref=rss",
-   "summary": "The post Silver Made America’s Critical Minerals List. This ETF Is the Easiest Way In appeared first on 24/7 Wall St.. Silver landed on the U.S. Critical Minerals List this year, and that designation has quietly changed how a lot of stock investors think about the metal. It sits alongside lithium,…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-22T17:13:38+00:00",
-   "tickers": []
-  },
-  {
-   "id": "16e2ac39c2d3",
-   "title": "Apple is reportedly working on a Whoop-like fitness tracker",
-   "link": "https://biztoc.com/x/8870286b619d297f?ref=rss",
-   "summary": "Apple is working on a new fitness tracker with a screenless design, similar to the one made by Whoop, according to a report from Bloomberg. A prototype of the device reportedly has “a thin fabric band with a sensor-equipped computing module.” Apple is reportedly working on a Whoop-like fitness…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-22T17:13:37+00:00",
-   "tickers": [
-    "AAPL"
-   ]
-  },
-  {
-   "id": "d548bb1815db",
-   "title": "Fed’s Barkin says economy may be firming, inflation not limited to energy, tariff shocks",
-   "link": "https://biztoc.com/x/82cae0b9a9710d46?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-22T17:13:37+00:00",
-   "tickers": []
-  },
-  {
-   "id": "bdc5571ee57f",
-   "title": "One Under-the-Radar Stock With 100% Upside Potential",
-   "link": "https://biztoc.com/x/842a3d1936bd1a5f?ref=rss",
-   "summary": "The post One Under-the-Radar Stock With 100% Upside Potential appeared first on 24/7 Wall St.. Silicon photonics has become one of the most closely watched corners of the AI infrastructure trade, and POET Technologies (NASDAQ:POET) sits right at the intersection of that story. Our 24/7 Wall St.…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-22T17:13:35+00:00",
-   "tickers": [
-    "POET"
-   ]
-  },
-  {
-   "id": "6a6a4d3e77e7",
-   "title": "AutoZone Climbs 6% as Profit Beat Offsets Revenue Miss; Advance Auto Parts Rises 6%, O’Reilly Automotive Gains 4%",
-   "link": "https://biztoc.com/x/7db0d20455f7a0f3?ref=rss",
-   "summary": "The post AutoZone Climbs 6% as Profit Beat Offsets Revenue Miss; Advance Auto Parts Rises 6%, O’Reilly Automotive Gains 4% appeared first on 24/7 Wall St.. AutoZone (NYSE:AZO) delivered a fourth quarter that beat on profit but missed on sales, and the reaction is running through auto parts…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-09-22T17:13:34+00:00",
-   "tickers": [
-    "AZO"
-   ]
-  },
-  {
-   "id": "da85b9d54b97",
-   "title": "Fed’s Barkin Warns Businesses Appear Willing to Pass on Higher Costs",
-   "link": "https://biztoc.com/x/5625931dd8d06914?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "macro",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-09-22T17:13:33+00:00",
-   "tickers": []
-  },
-  {
-   "id": "93f397a32efe",
-   "title": "Apple on Track to Close at $5 Trillion Market Cap for First Time Ahead of iPhone Duo Release",
-   "link": "https://biztoc.com/x/9d0c8ef2a3b26412?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-22T17:13:26+00:00",
-   "tickers": [
-    "AAPL"
-   ]
-  },
-  {
-   "id": "1b016fe874c3",
-   "title": "US awards $99 million for geothermal drilling, technology projects",
-   "link": "https://www.investing.com/news/stock-market-news/us-awards-99-million-for-geothermal-drilling-technology-projects-4909712",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-22T17:13:04+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ec509c3e63ce",
-   "title": "Parker Waichman Applauds NBC Nightly News Coverage Featuring Firm Client Diane Wirth and Highlighting GLP-1 Vision Loss and NAION",
-   "link": "https://www.prnewswire.com/news-releases/parker-waichman-applauds-nbc-nightly-news-coverage-featuring-firm-client-diane-wirth-and-highlighting-glp-1-vision-loss-and-naion-302886519.html",
-   "summary": "National NBC Nightly News Report Features Parker Waichman Client Diane Wirth and Senior Litigation Counsel Jason S. Goldstein and Brings Further Attention to the Alleged Causal Association Between GLP-1 Medications and Sudden, Permanent Vision Loss PORT WASHINGTON, N.Y., Sept. 22, 2026...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "negative",
-   "domain": "prnewswire.com",
-   "published": "2026-09-22T17:13:00+00:00",
-   "tickers": [
-    "NWSA"
-   ]
-  },
-  {
-   "id": "dad111fc9fff",
-   "title": "BYD's China Business Is Slowing. Here's the Part of the Company That's Taking Off",
-   "link": "https://www.nasdaq.com/articles/byds-china-business-slowing-heres-part-company-thats-taking",
-   "summary": "Key PointsBYD’s Chinese business continues to face challenges.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-09-22T17:13:00+00:00",
-   "tickers": [
-    "BYD"
-   ]
-  },
-  {
-   "id": "b43f3ad766b0",
-   "title": "8-K - Federal Home Loan Bank of Atlanta (0001331465) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1331465/000133146526000171/0001331465-26-000171-index.htm",
-   "summary": "Filed: 2026-09-22 AccNo: 0001331465-26-000171 Size: 185 KB Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-09-22T17:12:13+00:00",
-   "tickers": []
-  },
-  {
-   "id": "3c9bb7ec3657",
-   "title": "Corn Bulls Flock Back in on Monday as Export Shipments Remain Strong",
-   "link": "https://www.nasdaq.com/articles/corn-bulls-flock-back-monday-export-shipments-remain-strong",
-   "summary": "Corn futures saw money flow flock back in on Monday, with bulls adding back some risk ahead of the US/China meeting this week. Contracts were up 3 ¼ to 15 ½ cents at the close, led by the front months. The CmdtyView national average Cash Corn price was up 15...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-09-22T17:11:14+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
   "DRIP": "Direxion Daily S&P Oil & Gas Exp. & Prod. Bear 2X Shares",
   "JIRE": "JPMorgan International Research Enhanced Equity ETF",
   "SOXX": "iShares PHLX SOX Semiconductor Sector Index Fund",
+  "DUST": "Direxion Daily Gold Miners Index Bear 2X Shares",
   "VYMI": "Vanguard International High Dividend Yield ETF",
   "DIA": "SPDR Dow Jones Industrial Average ETF",
   "QYLD": "Global X NASDAQ 100 Covered Call ETF",
@@ -8922,6 +8942,7 @@
   "MDY": "SPDR S&P MidCap 400 ETF Trust",
   "WST": "West Pharmaceutical Services",
   "CHH": "Choice Hotels International",
+  "FIGR": "Figure Technology Solutions",
   "QQQ": "Invesco QQQ Trust, Series 1",
   "STX": "Seagate Technology Holdings",
   "FBIN": "Fortune Brands Innovations",
@@ -8959,7 +8980,6 @@
   "BEAM": "Beam Therapeutics",
   "CAR": "Avis Budget Group",
   "MU": "Micron Technology",
-  "POET": "POET Technologies",
   "RIVN": "Rivian Automotive",
   "TXN": "Texas Instruments",
   "AXP": "American Express",
@@ -8970,7 +8990,7 @@
   "ROIV": "Roivant Sciences",
   "GE": "General Electric",
   "AFRM": "Affirm Holdings",
-  "ANET": "Arista Networks",
+  "ASTS": "AST SpaceMobile",
   "BAC": "Bank of America",
   "COIN": "Coinbase Global",
   "CRML": "Critical Metals",
@@ -9005,6 +9025,7 @@
   "NVDA": "Grace Hopper",
   "ARM": "Arm Holdings",
   "BYD": "Boyd Gaming",
+  "CGON": "CG Oncology",
   "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
   "SHOP": "Shopify Inc",
@@ -9031,16 +9052,18 @@
   "BBY": "Best Buy",
   "DASH": "DoorDash",
   "EVR": "Evercore",
+  "GME": "GameStop",
   "GOOG": "Alphabet",
   "SQ": "Cash App",
   "SNAP": "Snapchat",
+  "FOX": "Fox Corp",
   "CNC": "Centene",
   "ESTC": "Elastic",
   "IVZ": "Invesco",
+  "KBH": "KB Home",
   "LINE": "Lineage",
   "PNR": "Pentair",
-  "SCI": "Service",
-  "SNDK": "Sandisk",
+  "TXT": "Textron",
   "NFLX": "Netflix",
   "BRKR": "Bruker",
   "CHE": "Chemed",
@@ -9048,17 +9071,16 @@
   "INCY": "Incyte",
   "LEN": "Lennar",
   "NDAQ": "Nasdaq",
-  "ORCL": "Oracle",
   "RDDT": "Reddit",
   "RMBS": "Rambus",
   "SPCX": "SpaceX",
   "TWLO": "Twilio",
   "AMGN": "Amgen",
-  "CIEN": "Ciena",
   "INTC": "Intel",
   "KEX": "Kirby",
   "NUE": "Nucor",
   "SYY": "Sysco",
-  "VICR": "Vicor"
+  "VICR": "Vicor",
+  "MSCI": "MSCI"
  }
 }
