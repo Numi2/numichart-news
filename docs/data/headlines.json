@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-22T01:52:14.117051+00:00",
+ "generated": "2026-09-22T01:59:42.721960+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -14,7 +14,68 @@
    "type": "markets",
    "sentiment": "neutral",
    "domain": "cnbc.com",
-   "published": "2026-09-22T01:46:50+00:00",
+   "published": "2026-09-22T01:55:37+00:00",
+   "tickers": []
+  },
+  {
+   "id": "7da1af0fb1fa",
+   "title": "Stocks Settle Sharply Higher as Crude Prices Plunge and Chipmakers Soar",
+   "link": "https://www.nasdaq.com/articles/stocks-settle-sharply-higher-crude-prices-plunge-and-chipmakers-soar",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed up by +1.49% on Monday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up by +0.71%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +2.83%. December E-mini S&P futures (ESZ26 ) rose +1.50%, and December E-mini...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-22T01:54:09+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
+  },
+  {
+   "id": "9244a195a3c0",
+   "title": "Inglewood Associates and Gordon Brothers Provide Update on Sale Process for 925 Euclid Avenue in Cleveland",
+   "link": "https://www.prnewswire.com/news-releases/inglewood-associates-and-gordon-brothers-provide-update-on-sale-process-for-925-euclid-avenue-in-cleveland-302885408.html",
+   "summary": "CLEVELAND, Sept. 21, 2026 /PRNewswire/ -- Inglewood Associates and Gordon Brothers today announced an update regarding the court-supervised sale process for the property located at 925 Euclid Avenue, Cleveland, Ohio, commonly known as The 925 Building and The Centennial Building, and...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-09-22T01:54:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "44a724cdece0",
+   "title": "TriplePoint Venture Growth: Likely More Pain Ahead (Rating Downgrade)",
+   "link": "https://seekingalpha.com/article/4948469-triplepoint-venture-growth-stock-likely-more-pain-ahead-rating-downgrade?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-22T01:51:52+00:00",
+   "tickers": []
+  },
+  {
+   "id": "71263acb60ad",
+   "title": "All Iranian airlines to be 'shut down' from Wednesday, Bessent tells CNBC",
+   "link": "https://www.cnbc.com/2026/09/22/us-iran-war-trump-hormuz.html",
+   "summary": "The Treasury Secretary said that Washington was pressuring Iran \"like never before\"",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-09-22T01:51:44+00:00",
    "tickers": []
   },
   {
@@ -149,20 +210,6 @@
    "tickers": [
     "NWSA"
    ]
-  },
-  {
-   "id": "71263acb60ad",
-   "title": "All Iranian airlines to be 'shut down' from Wednesday, Bessent tells CNBC",
-   "link": "https://www.cnbc.com/2026/09/22/us-iran-war-trump-hormuz.html",
-   "summary": "The Treasury Secretary said that Washington was pressuring Iran \"like never before\"",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-09-22T01:43:25+00:00",
-   "tickers": []
   },
   {
    "id": "5e651bcb3819",
@@ -375,25 +422,6 @@
    "domain": "prnewswire.com",
    "published": "2026-09-22T01:27:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "7da1af0fb1fa",
-   "title": "Stocks Settle Sharply Higher as Crude Prices Plunge and Chipmakers Soar",
-   "link": "https://www.nasdaq.com/articles/stocks-settle-sharply-higher-crude-prices-plunge-and-chipmakers-soar",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed up by +1.49% on Monday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up by +0.71%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +2.83%. December E-mini S&P futures (ESZ26 ) rose +1.50%, and December E-mini...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-09-22T01:24:47+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
-   ]
   },
   {
    "id": "bc43e1ea1968",
@@ -8852,36 +8880,6 @@
    "domain": "biztoc.com",
    "published": "2026-09-21T20:59:40+00:00",
    "tickers": []
-  },
-  {
-   "id": "17a68e3225f8",
-   "title": "Here's how bank stocks might perform if the Bank of Canada starts hiking rates",
-   "link": "https://biztoc.com/x/10d5429d37e92920?ref=rss",
-   "summary": "Canadian bank stocks did not perform well during previous Bank of Canada rate-hiking cycles, but some analysts say the impact of a potential hike before year-end may be different this time because Canada is looking to accelerate the growth of key sectors, such as energy and defence, and attract…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-21T20:59:37+00:00",
-   "tickers": []
-  },
-  {
-   "id": "bb53d12a2f2c",
-   "title": "Texas Gov. Abbott halts all state-issued permits for data centers until grid audit is complete",
-   "link": "https://biztoc.com/x/e907a68968de6f83?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-09-21T20:59:34+00:00",
-   "tickers": [
-    "ABT"
-   ]
   }
  ],
  "ticker_names": {
