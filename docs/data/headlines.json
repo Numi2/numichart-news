@@ -1,8 +1,36 @@
 {
- "generated": "2026-09-22T03:49:03.932829+00:00",
+ "generated": "2026-09-22T03:55:36.821421+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "1a5546b9efd0",
+   "title": "Xinhua Silk Road: \"My City, My Home\" global visual submission campaign kicks off in Fuzhou for World Cities Day",
+   "link": "https://www.prnewswire.com/news-releases/xinhua-silk-road-my-city-my-home-global-visual-submission-campaign-kicks-off-in-fuzhou-for-world-cities-day-302885518.html",
+   "summary": "BEIJING, Sept. 21, 2026 /PRNewswire/ -- A global call for \"My City, My Home\" visual submission campaign for the upcoming World Cities Day has officially kicked off in Fuzhou, southeast China's Fujian Province, inviting people around the world to submit photos and short videos to share...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-09-22T03:51:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f5c8d70e9c19",
+   "title": "Huawei представляет новую вычислительную архитектуру UnifiedBus для SuperPoD и кластеров",
+   "link": "https://www.prnewswire.com/news-releases/huawei-----unifiedbus--superpod---302885515.html",
+   "summary": "ШАНХАЙ, 22 сентября 2026 г. /PRNewswire/ -- В своей программной речи об инновациях в области вычислительной архитектуры на конференции HUAWEI CONNECT 2026 Ян Чаобин (Yang Chaobin), исполнительный директор совета директоров Huawei и генеральный директор ICT Business Group, представил новые...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-09-22T03:49:00+00:00",
+   "tickers": []
+  },
   {
    "id": "6e319d2fa07f",
    "title": "Canada Says India Trade Talks Making 'Great Headway'",
@@ -2434,7 +2462,7 @@
    "link": "https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-annonce-que-ses-avoirs-en-eth-selevent-a-5-98-millions-de-jetons-et-que-le-total-de-ses-avoirs-en-cryptomonnaies-et-en-liquidites-seleve-a-17-1-milliards-de-dollars-302885383.html",
    "summary": "Bitmine possède 4,9 % de l'offre totale de pièces d'ETH, qui s'élève à 122,1 millions Bitmine a parcouru 98 % du chemin menant à l'« Alchimie des 5 % » en seulement 15 mois L'ETH est l'actif macroéconomique le plus performant du troisième trimestre 2026 à ce jour, devançant l'indice S&P...",
    "article_text": "",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -8823,38 +8851,6 @@
    "tickers": [
     "GME"
    ]
-  },
-  {
-   "id": "c68ee9497c77",
-   "title": "Dynatrace EVP, CTO Bernd Greifeneder sells $2.86m in stock",
-   "link": "https://www.investing.com/news/insider-trading-news/dynatrace-evp-cto-bernd-greifeneder-sells-286m-in-stock-93CH-4909694",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-21T21:30:50+00:00",
-   "tickers": [
-    "DT"
-   ]
-  },
-  {
-   "id": "b899b546b1ec",
-   "title": "Patterson-UTI Energy CEO sells $2.98m in common stock",
-   "link": "https://www.investing.com/news/insider-trading-news/pattersonuti-energy-ceo-sells-298m-in-common-stock-93CH-4909695",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-21T21:30:50+00:00",
-   "tickers": [
-    "PTEN"
-   ]
   }
  ],
  "ticker_names": {
@@ -8884,7 +8880,6 @@
   "WBD": "Warner Bros. Discovery",
   "CRWD": "CrowdStrike Holdings",
   "PG": "The Procter & Gamble",
-  "PTEN": "Patterson-UTI Energy",
   "STZ": "Constellation Brands",
   "VOO": "Vanguard S&P 500 ETF",
   "ABT": "Abbott Laboratories",
@@ -8940,7 +8935,6 @@
   "BLK": "BlackRock",
   "CME": "CME Group",
   "CRWV": "CoreWeave",
-  "DT": "Dynatrace",
   "PKG": "Packaging",
   "RBA": "RB Global",
   "SBUX": "Starbucks",
