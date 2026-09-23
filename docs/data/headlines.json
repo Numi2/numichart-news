@@ -1,8 +1,22 @@
 {
- "generated": "2026-09-23T23:41:17.828386+00:00",
+ "generated": "2026-09-23T23:47:48.156948+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "0b9f790ce22d",
+   "title": "Imunon, Inc. (IMNN) Shareholder/Analyst Call Transcript",
+   "link": "https://seekingalpha.com/article/4949121-imunon-inc-imnn-shareholder-analyst-call-transcript?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-23T23:39:29+00:00",
+   "tickers": []
+  },
   {
    "id": "7f39d6720e71",
    "title": "Meta's standoff with Amazon over Muse could be a sign of things to come",
@@ -19,6 +33,20 @@
     "AMZN",
     "META"
    ]
+  },
+  {
+   "id": "6f7ecb06494b",
+   "title": "FDA panel endorses first-of-a-kind cancer blood test from Grail",
+   "link": "https://biztoc.com/x/2556b722ebdbe57f?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "fda",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-23T23:37:51+00:00",
+   "tickers": []
   },
   {
    "id": "18c17272686a",
@@ -243,6 +271,20 @@
    "sentiment": "neutral",
    "domain": "prnewswire.com",
    "published": "2026-09-23T23:33:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b1b1395563cf",
+   "title": "Stock futures are flat after soaring Treasury yields trigger a market sell-off: Live updates",
+   "link": "https://www.cnbc.com/2026/09/23/stock-market-today-live-updates.html",
+   "summary": "The major averages tumbled in Wednesday's regular trading as a spike in Treasury yields raised the specter of additional rate hikes from the Federal Reserve.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-09-23T23:32:13+00:00",
    "tickers": []
   },
   {
@@ -8796,52 +8838,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-09-23T20:35:54+00:00",
    "tickers": []
-  },
-  {
-   "id": "15e443d79184",
-   "title": "Data centers drive surge in U.S. construction starts, UBS says",
-   "link": "https://seekingalpha.com/news/4646308-data-centers-drive-surge-in-u-s-construction-starts-ubs-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-23T20:35:40+00:00",
-   "tickers": [
-    "UBS"
-   ]
-  },
-  {
-   "id": "40544bbb1980",
-   "title": "GMEX Robotics announces 1-for-9 share consolidation",
-   "link": "https://seekingalpha.com/news/4646340-gmex-robotics-announces-1-for-9-share-consolidation?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-23T20:34:34+00:00",
-   "tickers": []
-  },
-  {
-   "id": "73d91cbb3dcd",
-   "title": "Veralto declares $0.13 dividend",
-   "link": "https://seekingalpha.com/news/4646339-veralto-declares-0_13-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "dividend",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-23T20:34:32+00:00",
-   "tickers": [
-    "VLTO"
-   ]
   }
  ],
  "ticker_names": {
@@ -8952,7 +8948,6 @@
   "IVZ": "Invesco",
   "PNR": "Pentair",
   "SCI": "Service",
-  "VLTO": "Veralto",
   "NFLX": "Netflix",
   "ABBV": "AbbVie",
   "ABNB": "Airbnb",
