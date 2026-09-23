@@ -1,8 +1,22 @@
 {
- "generated": "2026-09-23T03:39:46.976259+00:00",
+ "generated": "2026-09-23T03:50:46.137891+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "5ad81901bb02",
+   "title": "Chinese beauty product exporters are sitting pretty despite US trade dispute",
+   "link": "https://www.investing.com/news/economy-news/chinese-beauty-product-exporters-are-sitting-pretty-despite-us-trade-dispute-4912049",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-23T03:42:32+00:00",
+   "tickers": []
+  },
   {
    "id": "9d431ae5d5bd",
    "title": "Angi Appoints Michael Steib As CEO",
@@ -15,6 +29,20 @@
    "sentiment": "neutral",
    "domain": "globenewswire.com",
    "published": "2026-09-23T03:35:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "6ab995c00d70",
+   "title": "China Vanke shares surge on report of regulatory debt intervention",
+   "link": "https://www.investing.com/news/stock-market-news/china-vanke-shares-surge-on-report-of-regulatory-debt-intervention-4912048",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-09-23T03:33:46+00:00",
    "tickers": []
   },
   {
@@ -47,6 +75,22 @@
    "domain": "seekingalpha.com",
    "published": "2026-09-23T03:32:19+00:00",
    "tickers": []
+  },
+  {
+   "id": "c728097e86d4",
+   "title": "PATEO Signs Strategic MoU with Arm to Advance Physical AI Innovation",
+   "link": "https://www.prnewswire.com/news-releases/pateo-signs-strategic-mou-with-arm-to-advance-physical-ai-innovation-302887025.html",
+   "summary": "SHANGHAI, Sept. 22, 2026 /PRNewswire/ -- PATEO (02889.HK) recently signed a strategic cooperation Memorandum of Understanding (MoU) with Arm to advance innovation in physical AI. As part of this collaboration, PATEO and Arm will explore innovative solutions for physical AI applications,...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-09-23T03:32:00+00:00",
+   "tickers": [
+    "ARM"
+   ]
   },
   {
    "id": "5761b411af61",
@@ -153,6 +197,23 @@
    ]
   },
   {
+   "id": "d9b5a9769a2c",
+   "title": "Pylontech lance la production en série des cellules LFP de 588 Ah et 601 Ah pour l'ESS",
+   "link": "https://www.prnewswire.com/news-releases/pylontech-lance-la-production-en-serie-des-cellules-lfp-de-588-ah-et-601-ah-pour-less-302887020.html",
+   "summary": "HEFEI, Chine, 23 septembre 2026 /PRNewswire/ -- Pylontech (688063:SH) a lancé le 21 septembre la production en série de ses cellules prismatiques LFP de 588 Ah et 601 Ah pour l'ESS sur son site de production de Hefei, marquant ainsi une nouvelle étape dans l'expansion de l'entreprise vers...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-09-23T03:30:00+00:00",
+   "tickers": [
+    "ESS",
+    "SH"
+   ]
+  },
+  {
    "id": "15840aefb2d5",
    "title": "Six Flags urged to explore sale by activist Jana Partners - WSJ",
    "link": "https://seekingalpha.com/news/4645796-six-flags-urged-to-explore-sale-by-activist-jana-partners-wsj?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -186,7 +247,7 @@
    "link": "https://www.prnewswire.com/news-releases/affordable-mortgage-advisors-data-breach-investigation-edelson-lechtzin-llp-probes-class-action-claims-after-customer-data-is-exposed-302887017.html",
    "summary": "National class action law firm offers free, confidential case evaluations to Affordable Mortgage Advisors (HMA Mortgage) customers whose personal information may have been exposed in the reported data breach. NEWTOWN, Pa., Sept. 22, 2026 /PRNewswire/ -- Edelson Lechtzin LLP, a national...",
    "article_text": "",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "legal",
    "sentiment": "negative",
@@ -426,7 +487,7 @@
    "link": "https://www.prnewswire.com/news-releases/jegi-leonis-hat-forge-ein-portfoliounternehmen-von-apollo-bei-der-endgultigen-vereinbarung-zur-ubernahme-von-beckers-healthcare-einem-portfoliounternehmen-von-pamlico-capital-beraten-302887000.html",
    "summary": "NEW YORK, 23. September 2026 /PRNewswire/ -- Forge, das von JEGI LEONIS beraten wird und ein Portfoliounternehmen von Apollo ist, hat sich auf die Übernahme von Becker's Healthcare, einem Portfoliounternehmen von Pamlico Capital, geeinigt. Becker's Healthcare mit Hauptsitz in Chicago ist...",
    "article_text": "",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -484,7 +545,7 @@
    "link": "https://www.prnewswire.com/news-releases/jegi-leonis-a-conseille-forge-une-societe-du-portefeuille-dapollo-dans-le-cadre-de-son-accord-definitif-en-vue-de-lacquisition-de-beckers-healthcare-une-societe-du-portefeuille-de-pamlico-capital-302886997.html",
    "summary": "NEW YORK, 23 septembre 2026 /PRNewswire/ -- Forge, conseillée par JEGI LEONIS et société du portefeuille d'Apollo, a conclu un accord en vue d'acquérir Becker's Healthcare, une société du portefeuille de Pamlico Capital. Basée à Chicago, Becker's Healthcare est une plateforme de référence...",
    "article_text": "",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "ma",
    "sentiment": "neutral",
@@ -8778,66 +8839,6 @@
    "domain": "investing.com",
    "published": "2026-09-22T21:30:50+00:00",
    "tickers": []
-  },
-  {
-   "id": "66446f719bf9",
-   "title": "Novartis secures new radioligand in $900M deal as competition strengthens",
-   "link": "https://biztoc.com/x/2658d7e954046823?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "ma",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-09-22T21:30:03+00:00",
-   "tickers": [
-    "NVS"
-   ]
-  },
-  {
-   "id": "0cd4a2f3e894",
-   "title": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting",
-   "link": "https://biztoc.com/x/273d96557ded14c2?ref=rss",
-   "summary": "The families of victims killed in one of the deadliest mass shootings in Canada’s history have already sued OpenAI over its failure to warn law enforcement after discovering in advance that the shooter was using ChatGPT to plan the violence. Now, British Columbia is suing, explaining for the first…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-09-22T21:30:03+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6f4ea1c4f7c3",
-   "title": "Mexico stocks higher at close of trade; S&P/BMV IPC up 1.45%",
-   "link": "https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-145-4911739",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-22T21:30:03+00:00",
-   "tickers": []
-  },
-  {
-   "id": "4b58232fab2d",
-   "title": "Sandisk’s stock is rising: Why one analyst says AI could help it reach new heights",
-   "link": "https://www.marketwatch.com/story/sandisks-stock-is-rising-why-one-analyst-says-ai-could-help-it-reach-new-heights-5541ded8?mod=mw_rss_topstories",
-   "summary": "Larger AI models and inference are turning NAND from a commodity into a critical component, a Rosenblatt analyst said.",
-   "article_text": "",
-   "source": "MarketWatch",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "marketwatch.com",
-   "published": "2026-09-22T21:30:00+00:00",
-   "tickers": [
-    "SNDK"
-   ]
   }
  ],
  "ticker_names": {
@@ -8911,7 +8912,6 @@
   "SPY": "SPDR S&P 500",
   "GOOGL": "Google Cloud",
   "ARM": "Arm Holdings",
-  "NVS": "Novartis AG",
   "XOM": "Exxon Mobil",
   "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
