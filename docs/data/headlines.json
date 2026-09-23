@@ -1,8 +1,504 @@
 {
- "generated": "2026-09-23T15:33:47.091502+00:00",
+ "generated": "2026-09-23T15:44:30.941791+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "a4f929627854",
+   "title": "8-K - HIGHWATER ETHANOL LLC (0001371451) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/1371451/000162828026063170/0001628280-26-063170-index.htm",
+   "summary": "Filed: 2026-09-23 AccNo: 0001628280-26-063170 Size: 2 MB Item 7.01: Regulation FD Disclosure Item 9.01: Financial Statements and Exhibits",
+   "article_text": "",
+   "source": "SEC 8-K Filings",
+   "category": "filings",
+   "type": "8k",
+   "sentiment": "neutral",
+   "domain": "sec.gov",
+   "published": "2026-09-23T15:41:34+00:00",
+   "tickers": []
+  },
+  {
+   "id": "9b069f5fb96f",
+   "title": "Kingsway at Small-Cap Virtual Conference: search fund model scales",
+   "link": "https://www.investing.com/news/transcripts/kingsway-at-smallcap-virtual-conference-search-fund-model-scales-93CH-4913526",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-23T15:40:51+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ddbe72121c9f",
+   "title": "ProShares Ultra FTSE China 50 declares quarterly distribution of $0.158863",
+   "link": "https://seekingalpha.com/news/4646158-proshares-ultra-ftse-china-50-declares-quarterly-distribution-of-0158863?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-23T15:40:44+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b568c2f22b68",
+   "title": "Bessent Mistakenly Failed to Report Holdings of JP Morgan Stock",
+   "link": "https://www.nytimes.com/2026/09/23/business/bessent-jp-morgan-stock.html",
+   "summary": "Treasury Secretary Scott Bessent’s finances were reviewed by the inspector general after Mr. Bessent incorrectly listed at least $100,000 of the stock, which was owned by his husband, as cash.",
+   "article_text": "",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-09-23T15:40:20+00:00",
+   "tickers": [
+    "JPM"
+   ]
+  },
+  {
+   "id": "0f5c7300e0cf",
+   "title": "Labor &amp; Employment Law Firm Zakay Law Group, APLC Files a Class Action Against Los Arboles Harvesting, Alleging Failure to Provide Meal and Rest Breaks",
+   "link": "https://www.prnewswire.com/news-releases/labor--employment-law-firm-zakay-law-group-aplc-files-a-class-action-against-los-arboles-harvesting-alleging-failure-to-provide-meal-and-rest-breaks-302887224.html",
+   "summary": "The lawsuit alleges Los Arboles Harvesting violated the California Labor Code by failing to provide its employees with meal and rest periods. LOS ANGELES, Sept. 23, 2026 /PRNewswire/ -- The Los Angeles labor law attorneys at Zakay Law Group, APLC, filed a class action complaint against...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-09-23T15:40:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "1ab5a5eab95d",
+   "title": "Rubin Rudman Plans Move to One Federal Street in Boston",
+   "link": "https://www.prnewswire.com/news-releases/rubin-rudman-plans-move-to-one-federal-street-in-boston-302887939.html",
+   "summary": "BOSTON, Sept. 23, 2026 /PRNewswire/ -- Rubin Rudman today announced that it has signed a 15-year lease to occupy 57,844 square feet at Tishman Speyer's One Federal Street in Boston. The law firm will relocate from 53 State Street in Boston to the 38-story, 1,115,059 s/f office tower in...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-09-23T15:40:00+00:00",
+   "tickers": [
+    "STT"
+   ]
+  },
+  {
+   "id": "4fcd1ccfcfd0",
+   "title": "Charles River Associates at Sidoti conference: growth, AI and talent",
+   "link": "https://www.investing.com/news/transcripts/charles-river-associates-at-sidoti-conference-growth-ai-and-talent-93CH-4913524",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-23T15:39:52+00:00",
+   "tickers": []
+  },
+  {
+   "id": "05e33c7c0c00",
+   "title": "ProShares Ultra Dow30 declares quarterly distribution of $0.152421",
+   "link": "https://seekingalpha.com/news/4646157-proshares-ultra-dow30-declares-quarterly-distribution-of-0152421?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-23T15:39:50+00:00",
+   "tickers": []
+  },
+  {
+   "id": "de34cb159e26",
+   "title": "LegalShield review: Basic legal services starting at $39.95 per month",
+   "link": "https://www.cnbc.com/select/legalshield-review/",
+   "summary": "CNBC Select’s LegalShield review covers its legal services, plans, pricing, features and what to know before signing up.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-09-23T15:39:04+00:00",
+   "tickers": []
+  },
+  {
+   "id": "06cc144d87c6",
+   "title": "Tennant at Small-Cap Virtual Conference: robotics drive takes center stage",
+   "link": "https://www.investing.com/news/transcripts/tennant-at-smallcap-virtual-conference-robotics-drive-takes-center-stage-93CH-4913523",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-23T15:38:59+00:00",
+   "tickers": []
+  },
+  {
+   "id": "287d81f8221e",
+   "title": "ProShares Ultra Consumer Services declares quarterly distribution of $0.197682",
+   "link": "https://seekingalpha.com/news/4646156-proshares-ultra-consumer-services-declares-quarterly-distribution-of-0197682?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-23T15:38:59+00:00",
+   "tickers": []
+  },
+  {
+   "id": "d8a59aa2e57f",
+   "title": "Odyssey Therapeutics at Stifel forum: pipeline bets and cash runway",
+   "link": "https://www.investing.com/news/transcripts/odyssey-therapeutics-at-stifel-forum-pipeline-bets-and-cash-runway-93CH-4913522",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-23T15:38:47+00:00",
+   "tickers": []
+  },
+  {
+   "id": "bc106551c004",
+   "title": "Aberforth Partners increases stake in Reach to 16.9%",
+   "link": "https://www.investing.com/news/company-news/aberforth-partners-increases-stake-in-reach-to-169-93CH-4913521",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-23T15:38:31+00:00",
+   "tickers": []
+  },
+  {
+   "id": "7d197c60b544",
+   "title": "IonQ shares rise after company says it made a major quantum computing breakthrough",
+   "link": "https://www.cnbc.com/2026/09/23/ionq-shares-rally-after-company-says-it-made-a-major-quantum-computing-breakthrough.html",
+   "summary": "Shares of quantum computing company IonQ rose following its successful test of the industry's first real-time end-to-end error decoder.",
+   "article_text": "IonQ shares rise after major quantum computing breakthrough Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Key Points The quantum computing firm announced a successful demonstration of the industry's first real-time error decoder Tuesday. Some quantum industry stocks surged following the news. In this article IONQ Follow your favorite stocks CREATE FREE ACCOUNT Cheng Xin | Getty Images Shares of IonQ rose Wednesday after the company said it demonstrated the quantum computing industry's first end-to-end real-time quantum error decoder. The company's stock was more than 5% higher in morning trading after surging over 10% before the bell. The milestone, which IonQ announced Tuesday , makes it possible for a single standard computer processor to find, fix and decode computer errors as they happen, as it runs continuously in the background. The successful test stands to alleviate a significant industry bottleneck in which previous systems became easily overwhelmed in fixing errors, leading to delays. IonQ past few days \"Successfully validating real-time decoding across hundreds of logical qubits and over millions of logical operations is an important milestone. Moreover, the fact that our decoder runs on a single CPU provides a practical path to commercial-scale fault-tolerant quantum computing,\" said Nicolas Delfosse, quantum research lead at IonQ, in a statement Tuesday. IonQ's partners include artificial intelligence boom titans Amazon Web Services and Nvidia and pharmaceutical companies such as AstraZeneca . IonQ recently raised its full-year revenue guidance following the company's acquisition of semiconductor manufacturer SkyWater Technology. Quantum stocks rose across the board on the news in premarket trading, but most gave back their gains after the open. \"Empirical evidence like this supports our vision for fault tolerance where time-to-solution, cost-to-solution, and energy-to-solution are always our North Star,\" John Gamble, vice president at IonQ Architecture, added in the release. Correction: IonQ acquired SkyWater Technology. An earlier version misstated a company name. John Gamble is vice president at IonQ Architecture. An earlier version misspelled his name. Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "cnbc.com",
+   "published": "2026-09-23T15:37:43+00:00",
+   "tickers": [
+    "IONQ"
+   ]
+  },
+  {
+   "id": "5f676314e01a",
+   "title": "McDonald's will spend big on restaurant upgrades, training to drive growth",
+   "link": "https://www.cnbc.com/2026/09/23/mcdonalds-investor-day-remodels-training-chicken-growth-plans.html",
+   "summary": "The plans are part of the fast-food giant's new growth strategy, called McDonald's > NEXT.",
+   "article_text": "McDonald's investor day: Remodels, training, chicken among growth plans Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Key Points McDonald's plans to raise operating margins, launch a new multiyear employee training program, and spend billions of dollars supporting franchisees' equipment and tech upgrades. The plans are part of the fast-food giant's new growth strategy, called McDonald's > NEXT. The company will share more details during an investor presentation that begins at 9:30 a.m. ET. In this article MCD Follow your favorite stocks CREATE FREE ACCOUNT McDonald's Corp. signage on the floor at the New York Stock Exchange (NYSE) in New York, US, on Monday, Aug. 25, 2025. Michael Nagle | Bloomberg | Getty Images McDonald's on Wednesday announced plans for its own media network, pricey restaurant upgrades and ways to win over GLP-1 users during an investor presentation at its Chicago headquarters. In June, the company unveiled its newest growth strategy , McDonald's > NEXT. The pillars of the plan include a new restaurant design, better-tasting food and drinks, consumer-led innovation, and improved hospitality from employees. But until Wednesday, executives had offered few details about how they would implement the plan and how it may affect its financial results over the coming years. The shifts come as McDonald's U.S. business tries to rebound from sluggish sales and as consumers hit by years of elevated inflation visit restaurants less often. The chain aims to win over more diners at a time the company expects inflation and flat traffic to restaurants overall will persist, CEO Chris Kempczinski told CNBC. The plan and Kempczinski's comments did not impress Wall Street, as McDonald's shares fell 5% in morning trading. A key part of the strategy is restaurant remodels, which McDonald's mandates roughly every decade for franchisees. The new design features updated PlayPlaces, which were previously being phased out, and more open kitchen layouts. Customers will be able to see their McCafe drinks being prepared. But the chain will also unveil what it calls Restaurant > NEXT, which includes improvements to equipment, technology and operations. It also will feature \"ArchIQ,\" an artificial intelligence-powered operating system for restaurants. The company said \"Archy\" can take orders in English and Spanish from customers, saving about 50 labor hours per week, while other elements of ArchIQ can manage inventory and schedule shifts, as well as use scales to assess order accuracy. \"Capabilities such as AI-enabled revenue management and Archy's suggestive sell will help increased average check over time,\" CFO Ian Borden said. McDonald's invests in restaurants All of those upgrades will require steep investment from franchisees. But McDonald's is also planning to provide financial support, through rent relief and actual capital. Through 2036, McDonald's plans to spend as much as $8.5 billion to accelerate franchisees' investment in the restaurant improvement plan. About $5 billion of that support will happen through 2030. McDonald's is projecting about $1.5 billion to $2 billion in capital spending from 2027 through 2030 to accelerate NEXT, in addition to about $3 billion every year on typical capital expenditures. (In 2025, McDonald's reported $3.4 billion in capital expenditures.) A standard lobby remodel of a drive-thru restaurant in the U.S. typically costs about $400,000 to $450,000, paid for by the franchisee. The additional investments tied to the plan will be \"incremental\" to the remodel expenses and cost roughly $800,000 per restaurant, although McDonald's will be providing financial support for some of that, according to Borden. Those investments will be phased, with tech, kitchen and operational upgrades adopted over time as they become available. Franchisees may protest the franchisor's expectations for their own investment in the restaurants, on top of standard cosmetic remodels. Beef and labor costs are already weighing on their profits. But executives think that the upgrades will pay off for their locations. McDonald's projects that efficiency improvements will result in an increase of roughly $100,000 in annual cash flow for the average U.S. restaurant, and the initiative will take about four years to return franchisees' investment. Average annual U.S. franchisee cash flow is currently about $500,000, up nearly 50% compared with 2019. While McDonald's plans to spend more to fuel restaurant improvements, the company said it aims to cut costs elsewhere, although it did not offer specifics. By 2030, McDonald's is targeting an operating margin in the low-to-mid 50% range. In 2025, the company reported operating margins of 46.1%, according to company filings. Some of that margin expansion will come from its general and administrative spending. By 2030, McDonald's is projecting that about 1.9% of its systemwide sales will go toward G&A. For comparison, the company is currently forecasting that 2.2% of its systemwide sales will be spent on G&A in 2026. \"At the company, AI will help enable a step-change improvement in corporate G&A,\" Borden said. Higher operating margins will also come from increased revenue. McDonald's is planning to build a media network that involves advertising other businesses on its digital drive-thru displays. Executives said it could grow to become a billion-dollar business. The company has started testing it over the last month at 450 company-owned restaurants. Media networks have become high-margin businesses for retailers like Amazon and Walmart. McDonald's also has an eye on growing its sales globally. Some of that will come from new locations. Next year, the company expects restaurant openings will make up about 2.5% of its systemwide sales growth. The company's accelerated expansion will slow in the following years. By 2030, McDonald's anticipates new restaurants will account for only about 2% of growth to systemwide sales. Menu changes and more chicken In recent years, the burger chain has leaned into menu items other than its core beef offerings to drive sales, namely chicken and beverages. By 2030, McDonald's wants to grow its global market share in those two categories by about 1.5 percentage points each. McDonald's already sees nearly $15 billion in system sales from Chicken McNuggets, $4 billion from its McChicken and $2.5 billion from McCrispy menu items, according to Jill McDonald, the company's global chief restaurant experience officer. Altogether, the chain accounts for about 20% of chicken sales out of the entire $130 billion global category. But McDonald's wants a bigger bite. To grow its share of chicken sales, the chain plans to introduced hand-breaded chicken options. Chicken specialists like Chick-fil-A, Popeyes and Raising Cane's already hand-bread or batter their chicken for a crispier exterior and better taste. However, the technique requires more time and labor from employees. U.S. restaurants will start seeing hand-breaded chicken menu items in 2027, McDonald said. Other chicken options coming to McDonald's menu include new grilled chicken sandwiches and wraps and new flavors and sauces for Chicken McNuggets. Likewise, McDonald's wants a bigger share of the global $230 billion beverage category, according to McDonald. Today, it holds a roughly 10% share and is the second-largest coffee player globally. But the category is growing quickly, presenting more opportunities for the chain to grow sales. \"Beverages are no longer just an add-on, but a reason to visit,\" McDonald said. In the U.S., McDonald's rolled out an expanded drink menu earlier this year, featuring refreshers, crafted sodas and energy drinks. The chain now plans to launch more beverages in its international markets. It also aims to upgrade the quality of its coffee; U.S. restaurants will receive new espresso machines and the opportunity to customize their drinks",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "cnbc.com",
+   "published": "2026-09-23T15:37:36+00:00",
+   "tickers": [
+    "MCD"
+   ]
+  },
+  {
+   "id": "001cfc35d859",
+   "title": "Editas raised to Buy at Guggenheim on cholesterol therapy",
+   "link": "https://seekingalpha.com/news/4646152-editas-stock-raised-buy-at-guggenheim?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-23T15:37:24+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c696eac564d1",
+   "title": "McDonald’s CEO Chris Kempczinski: AI ordering system allows us to put labor in other areas of restaurant",
+   "link": "https://www.cnbc.com/video/2026/09/23/mcdonaldas-ceo-chris-kempczinski-ai-ordering-system-allows-us-to-put-labor-in-other-areas-of-restaurant.html",
+   "summary": "McDonald’s CEO Chris Kempczinski joins 'Squawk on the Street' to discuss how the company will use AI, how the company will cater to customers on GLP-1 medicine, stock performance, and more.",
+   "article_text": "",
+   "source": "CNBC Investing",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-09-23T15:37:08+00:00",
+   "tickers": []
+  },
+  {
+   "id": "7d495faba29f",
+   "title": "1 Reason AMC Entertainment Stock Is Worth a Second Look Right Now",
+   "link": "https://www.nasdaq.com/articles/1-reason-amc-entertainment-stock-worth-second-look-right-now",
+   "summary": "Key PointsAMC shares are up 90% this year, but still down 99.3% over the last five years.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-23T15:37:00+00:00",
+   "tickers": [
+    "AMC"
+   ]
+  },
+  {
+   "id": "10ed41ea6488",
+   "title": "Paychex stock slumps after Q1 earnings beat; earnings, revenue guidance unchanged",
+   "link": "https://seekingalpha.com/news/4645990-paychex-stock-slumps-after-q1-earnings-beat-earnings-revenue-guidance-unchanged?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-23T15:36:59+00:00",
+   "tickers": [
+    "PAYX"
+   ]
+  },
+  {
+   "id": "1cca3d53228b",
+   "title": "Florida fund sues New York Times over Israel coverage, demands records",
+   "link": "https://www.investing.com/news/stock-market-news/florida-fund-sues-new-york-times-for-records-concerningeditorial-standards-4913446",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-23T15:36:49+00:00",
+   "tickers": [
+    "NYT"
+   ]
+  },
+  {
+   "id": "b506b33c94ce",
+   "title": "Aldi cuts U.S. grocery prices for fall season amid inflation, competition pressure",
+   "link": "https://www.investing.com/news/stock-market-news/aldi-cuts-us-grocery-prices-for-fall-season-amid-inflation-competition-pressure-4913519",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-09-23T15:36:35+00:00",
+   "tickers": []
+  },
+  {
+   "id": "58de6b365ce6",
+   "title": "Volta Finance Limited Net Asset Value(s) as at 31 August 2026",
+   "link": "https://www.globenewswire.com/news-release/2026/09/23/3367671/0/en/volta-finance-limited-net-asset-value-s-as-at-31-august-2026.html",
+   "summary": "Volta Finance Limited (VTA / VTAS)August 2026 monthly reportNOT FOR RELEASE, DISTRIBUTION, OR PUBLICATION, IN WHOLE OR PART, IN OR INTO THE UNITED STATESGuernsey, 23rd September 2026",
+   "article_text": "",
+   "source": "GlobeNewswire",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "globenewswire.com",
+   "published": "2026-09-23T15:36:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "93005ded57f0",
+   "title": "ServiceTitan, CCC and Via might receive boost from consumer agents: MS",
+   "link": "https://seekingalpha.com/news/4646074-servicetitan-ccc-and-via-might-receive-boost-from-consumer-agents-ms?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-23T15:35:23+00:00",
+   "tickers": [
+    "TTAN",
+    "CCC",
+    "MS"
+   ]
+  },
+  {
+   "id": "6b209f92423a",
+   "title": "Poland stocks lower at close of trade; WIG30 down 0.79%",
+   "link": "https://www.investing.com/news/stock-market-news/poland-stocks-lower-at-close-of-trade-wig30-down-079-4913518",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-09-23T15:35:03+00:00",
+   "tickers": []
+  },
+  {
+   "id": "bd8420f3e3d2",
+   "title": "The Elite Portfolio: Why Savvy Investors Are Backing These Overlooked Stocks",
+   "link": "https://www.nasdaq.com/articles/elite-portfolio-why-savvy-investors-are-backing-these-overlooked-stocks",
+   "summary": "Key PointsFerrari boasts nearly unmatched pricing power and brand image in the global auto industry.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-23T15:35:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a9049050742a",
+   "title": "Subsea 7 S.A. announces details of share related awards",
+   "link": "https://www.globenewswire.com/news-release/2026/09/23/3367669/0/en/subsea-7-s-a-announces-details-of-share-related-awards.html",
+   "summary": "Luxembourg – 23 September 2026 - Subsea 7 S.A. (Oslo Børs: SUBC, ADR: SUBCY) (the “Company”) in accordance with the Oslo Børs rules, today announces the details of awards under its 2022 Long-Term Incentive Plan (the “Plan”) approved by the Board on 23 September 2026.",
+   "article_text": "",
+   "source": "GlobeNewswire",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "globenewswire.com",
+   "published": "2026-09-23T15:35:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "9628cd83f42e",
+   "title": "The Rate Shock That Didn't Break REITs",
+   "link": "https://seekingalpha.com/article/4949054-the-rate-shock-that-didnt-break-reits?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-23T15:34:22+00:00",
+   "tickers": []
+  },
+  {
+   "id": "253f061066a1",
+   "title": "8-K - Aditxt, Inc. (0001726711) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/1726711/000121390026102469/0001213900-26-102469-index.htm",
+   "summary": "Filed: 2026-09-23 AccNo: 0001213900-26-102469 Size: 207 KB Item 3.01: Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing Item 9.01: Financial Statements and Exhibits",
+   "article_text": "",
+   "source": "SEC 8-K Filings",
+   "category": "filings",
+   "type": "8k",
+   "sentiment": "neutral",
+   "domain": "sec.gov",
+   "published": "2026-09-23T15:34:15+00:00",
+   "tickers": []
+  },
+  {
+   "id": "3037eb3cf074",
+   "title": "How to avoid the ‘widow tax’ and other financial headaches if your spouse dies",
+   "link": "https://www.marketwatch.com/story/how-to-avoid-the-widow-tax-and-other-financial-headaches-if-your-spouse-dies-e51f2af6?mod=mw_rss_topstories",
+   "summary": "A surviving spouse is sometimes left with less income and a higher tax bill. These tax-saving strategies can soften the impact.",
+   "article_text": "",
+   "source": "MarketWatch",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "marketwatch.com",
+   "published": "2026-09-23T15:34:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "918cd234bb8d",
+   "title": "BlackRock Mid-Cap Value Fund Q2 2026 Commentary",
+   "link": "https://seekingalpha.com/article/4949055-blackrock-mid-cap-value-fund-q2-2026-commentary?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-23T15:34:00+00:00",
+   "tickers": [
+    "BLK"
+   ]
+  },
+  {
+   "id": "6ceb2dc290dc",
+   "title": "ProShares Ultra 20+ Year Treasury declares quarterly distribution of $0.113278",
+   "link": "https://seekingalpha.com/news/4646151-proshares-ultra-20-year-treasury-declares-quarterly-distribution-of-0113278?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-23T15:33:14+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a198f0094eb4",
+   "title": "BioWound Solutions Selected to Exhibit Keramatrix at Vizient Innovative Technology Exchange",
+   "link": "https://www.prnewswire.com/news-releases/biowound-solutions-selected-to-exhibit-keramatrix-at-vizient-innovative-technology-exchange-302887930.html",
+   "summary": "Keramatrix is an innovative FDA 510(k) cleared keratin-based wound dressing indicated for a wide range of wounds, including pressure ulcers. LAS VEGAS, Sept. 23, 2026 /PRNewswire/ -- BioWound Solutions, Inc. (\"BioWound Solutions\") today announced it has been selected to exhibit...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-09-23T15:33:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "7a16fc969a1a",
+   "title": "EssilorLuxottica options show bullish conviction with 7:1 call-to-put ratio",
+   "link": "https://www.investing.com/news/stock-market-news/essilorluxottica-options-show-bullish-conviction-with-71-calltoput-ratio-93CH-4913516",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-23T15:31:53+00:00",
+   "tickers": []
+  },
+  {
+   "id": "8475c0c71ce9",
+   "title": "Turkey stocks higher at close of trade; BIST 100 up 0.40%",
+   "link": "https://www.investing.com/news/stock-market-news/turkey-stocks-higher-at-close-of-trade-bist-100-up-040-4913514",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-23T15:30:33+00:00",
+   "tickers": []
+  },
   {
    "id": "eb35d8d9de11",
    "title": "Meta's Muse reignites AI disruption fears. Traders are targeting this brokerage stock as next casualty",
@@ -18,6 +514,20 @@
    "tickers": [
     "META"
    ]
+  },
+  {
+   "id": "a70ddcff8aeb",
+   "title": "Denmark stocks lower at close of trade; OMX Copenhagen 20 down 0.95%",
+   "link": "https://www.investing.com/news/stock-market-news/denmark-stocks-lower-at-close-of-trade-omx-copenhagen-20-down-095-4913509",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-09-23T15:30:05+00:00",
+   "tickers": []
   },
   {
    "id": "9418c3d198a2",
@@ -122,6 +632,64 @@
    "tickers": []
   },
   {
+   "id": "b2fddb558519",
+   "title": "What's the Significance of the 10-Year Treasury Yield? Here's Why It Matters to Stock and Bond Investors",
+   "link": "https://www.nasdaq.com/articles/whats-significance-10-year-treasury-yield-heres-why-it-matters-stock-and-bond-investors",
+   "summary": "Key PointsHigher Treasury yields siphon investors away from riskier stocks.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-23T15:30:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "17d1c552b764",
+   "title": "Enterprise Products Partners Is Built For This Rate Environment And The AI Energy Buildout",
+   "link": "https://seekingalpha.com/article/4949063-enterprise-products-partners-stock-built-for-this-rate-environment-ai-energy-buildout?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-23T15:30:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "223a8580ca7a",
+   "title": "Fed Starts Tightening, But Monetary Policy Still Looks Accommodative",
+   "link": "https://seekingalpha.com/article/4949068-fed-starts-tightening-monetary-policy-still-looks-accommodative?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-23T15:30:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "2aa2d424e03d",
+   "title": "Cracker Barrel Old Country Store, Inc. (CBRL) Q4 2026 Earnings Call Transcript",
+   "link": "https://seekingalpha.com/article/4949032-cracker-barrel-old-country-store-inc-cbrl-q4-2026-earnings-call-transcript?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-23T15:29:29+00:00",
+   "tickers": [
+    "CBRL"
+   ]
+  },
+  {
    "id": "3c4f5d111956",
    "title": "Cornered, bagged and plucked with pliers: shocking footage exposes the cruelty behind fashion's ostrich feathers",
    "link": "https://www.prnewswire.com/news-releases/cornered-bagged-and-plucked-with-pliers-shocking-footage-exposes-the-cruelty-behind-fashions-ostrich-feathers-302887925.html",
@@ -169,6 +737,20 @@
    ]
   },
   {
+   "id": "c9f67b16f2b1",
+   "title": "Expedia options: large volatility strangle targets 2027 expiry",
+   "link": "https://www.investing.com/news/stock-market-news/expedia-options-large-volatility-strangle-targets-2027-expiry-93CH-4913505",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-23T15:27:06+00:00",
+   "tickers": []
+  },
+  {
    "id": "2e99ef21454a",
    "title": "YieldMax™ NFLX Option Income Strategy ETF declares $0.0349 dividend",
    "link": "https://seekingalpha.com/news/4646097-yieldmax-nflx-option-income-strategy-etf-declares-0_0349-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -200,6 +782,38 @@
    "tickers": [
     "PSQ",
     "QQQ"
+   ]
+  },
+  {
+   "id": "d2b631aed40d",
+   "title": "Losing to Win: A VC Lens Will Find the Next Nvidia",
+   "link": "https://www.nasdaq.com/articles/losing-win-vc-lens-will-find-next-nvidia",
+   "summary": "In the second half of 2009, Chief Rule Breaker David Gardner made a run of recommendations in Stock Advisor that, judged individually, look unremarkable at best. Adobe (NASDAQ:ADBE), selected in August, lags the S&P 500 by roughly 280%. Dassault Systèmes (OTC:DASTY), recommen",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-09-23T15:27:01+00:00",
+   "tickers": [
+    "ADBE"
+   ]
+  },
+  {
+   "id": "e9e9f9907161",
+   "title": "Why Booking Holdings Stock Was Sliding Today",
+   "link": "https://www.nasdaq.com/articles/why-booking-holdings-stock-was-sliding-today",
+   "summary": "Key PointsBooking was one of several travel stocks to fall today on a feared disruption from Muse.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-23T15:26:54+00:00",
+   "tickers": [
+    "BKNG"
    ]
   },
   {
@@ -331,6 +945,36 @@
    ]
   },
   {
+   "id": "47a3642dcc2b",
+   "title": "McDonald’s warns traffic recovery may lag; unveils $8.5 billion investment plan",
+   "link": "https://www.investing.com/news/stock-market-news/mcdonalds-outlines-85-billion-plan-to-support-franchisees-4912916",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-09-23T15:24:30+00:00",
+   "tickers": []
+  },
+  {
+   "id": "24a56939f165",
+   "title": "Prediction: Here's What a $5,000 Investment in Qualcomm Could Be Worth by 2030",
+   "link": "https://biztoc.com/x/3ea228371deecd06?ref=rss",
+   "summary": "The past five years have been painful for Qualcomm (NASDAQ: QCOM) investors. The company's dependence on the smartphone market for a significant chunk of revenue has weighed on the stock during this period. Qualcomm stock has appreciated just 47% over the past five years, underperforming the…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-23T15:24:09+00:00",
+   "tickers": [
+    "QCOM"
+   ]
+  },
+  {
    "id": "9b049921effe",
    "title": "The CEO of a $55 billion conglomerate explains why the Japanese concept of 'kosoryoku' is so important in the AI age",
    "link": "https://www.businessinsider.com/ai-workplace-imagination-future-japan-kosoryoku-sumitomo-ceo-2026-9",
@@ -342,6 +986,50 @@
    "sentiment": "neutral",
    "domain": "businessinsider.com",
    "published": "2026-09-23T15:24:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "59ae8d82e438",
+   "title": "New York Life Sciences Vacancy Hits 32.5% as VC Funding Jumps",
+   "link": "https://biztoc.com/x/879f5e27827276ea?ref=rss",
+   "summary": "This story was originally published on CRE Daily. Join 70,000+ commercial real estate professionals getting daily news, market insights, and industry analysis delivered straight to their inbox with the free CRE Daily newsletter. Key Takeaways - New York's life sciences vacancy rate rose 70 basis…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-09-23T15:23:57+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e1558d779b94",
+   "title": "Goldman Sachs' interest rate prediction hinges on oil prices",
+   "link": "https://biztoc.com/x/aeb07950c6f3548c?ref=rss",
+   "summary": "Goldman Sachs sees one more interest rate hike for 2026 at the Fed's Oct. 27 meeting, and then the Fed could be done for this cycle. However, a sustained pullback in oil prices that cools inflation is key to the two-and-done approach to rate hikes, Goldman said ahead of what many in the market…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-23T15:23:57+00:00",
+   "tickers": [
+    "GS"
+   ]
+  },
+  {
+   "id": "f2789f48af1d",
+   "title": "L&L Infinite Buys Midtown East Office Tower for $245M",
+   "link": "https://biztoc.com/x/6ce0501377e9750c?ref=rss",
+   "summary": "This story was originally published on CRE Daily. Join 70,000+ commercial real estate professionals getting daily news, market insights, and industry analysis delivered straight to their inbox with the free CRE Daily newsletter. Key Takeaways - L&L Infinite, the joint venture of Marty Burger and…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-23T15:23:53+00:00",
    "tickers": []
   },
   {
@@ -359,6 +1047,41 @@
    "tickers": [
     "MSTR",
     "MRNA"
+   ]
+  },
+  {
+   "id": "b302794a1f49",
+   "title": "Powered by Coinbase, Roundtable’s Real-Time DeFi Media Payment Platform Goes Live $100 Million Ad Ecosystem to Migrate; RTB Shares Begin Trading on Coinbase Today",
+   "link": "https://biztoc.com/x/ad5ec080bcb33c8d?ref=rss",
+   "summary": "Powered by Coinbase, Roundtable’s Real-Time DeFi Media Payment Platform Goes Live $100 Million Ad Ecosystem to Migrate; RTB Shares Begin Trading on Coinbase Today Roundtable (Nasdaq: RTB), an AI/DeFi-powered Enterprise MediaOS and marketplace, today announced that their DeFi/AI reporting and…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-23T15:23:49+00:00",
+   "tickers": [
+    "COIN",
+    "NDAQ"
+   ]
+  },
+  {
+   "id": "6a2ffe40f402",
+   "title": "Should You Really Invest in a Tech ETF in 2026? Here's What History Says",
+   "link": "https://biztoc.com/x/bc3fb91f3867c2f7?ref=rss",
+   "summary": "Technology stocks just keep moving higher, sparking fears of a bubble amid soaring valuations. The Nasdaq-100, a leading gauge of large-cap tech stocks, is now up 20% year to date. If it holds, this would mark the fourth straight year that it has returned more than 20%. The Invesco QQQ ETF…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-23T15:23:44+00:00",
+   "tickers": [
+    "IVZ",
+    "NDAQ",
+    "QQQ"
    ]
   },
   {
@@ -648,6 +1371,52 @@
    "domain": "biztoc.com",
    "published": "2026-09-23T15:21:19+00:00",
    "tickers": []
+  },
+  {
+   "id": "fee4370c2aaf",
+   "title": "Cattle Fade Back Lower on Turnaround Tuesday",
+   "link": "https://www.nasdaq.com/articles/cattle-fade-back-lower-turnaround-tuesday-0",
+   "summary": "Live cattle futures were down 45 cents to $2.55 at the Tuesday close. Open interest was up 1,267 contracts on Tuesday. Cash trade has started out on the quieter side this week, with feedlots compiling showlists. Feeder cattle futures fell back from the Monday strength, with contracts down 20 cents...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-09-23T15:21:19+00:00",
+   "tickers": []
+  },
+  {
+   "id": "5a7211af84a0",
+   "title": "Hogs Look to Midweek Trade Following Tuesday’s Rally",
+   "link": "https://www.nasdaq.com/articles/hogs-look-midweek-trade-following-tuesdays-rally",
+   "summary": "Lean hog futures were 32 cents to $1.20 higher across the board on Tuesday. Open interest was down 3,564 contracts on Tuesday. USDA’s national base hog price was $79.90 in the Tuesday PM report, down 45 cents from the day prior. The CME Lean Hog Index was down another 60...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-09-23T15:21:19+00:00",
+   "tickers": [
+    "CME"
+   ]
+  },
+  {
+   "id": "fd945157ac47",
+   "title": "Cattle Fade Back Lower on Turnaround Tuesday",
+   "link": "https://www.nasdaq.com/articles/cattle-fade-back-lower-turnaround-tuesday",
+   "summary": "Live cattle futures were down 45 cents to $2.55 at the Tuesday close. Cash trade has started out on the quieter side this week, with feedlots compiling showlists. Feeder cattle futures fell back from the Monday strength, with contracts down 20 cents to $3.55 The CME Feeder Cattle Index was...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-09-23T15:21:19+00:00",
+   "tickers": [
+    "CME"
+   ]
   },
   {
    "id": "faefbbae73b8",
@@ -1031,6 +1800,20 @@
    "tickers": []
   },
   {
+   "id": "b7e392340413",
+   "title": "3 Things Smart Investors Know About the Nuclear Power Comeback",
+   "link": "https://www.nasdaq.com/articles/3-things-smart-investors-know-about-nuclear-power-comeback",
+   "summary": "Key PointsGovernments and financial institutions are backing nuclear power, unlocking capital for new projects.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-23T15:20:00+00:00",
+   "tickers": []
+  },
+  {
    "id": "dc351ae12c36",
    "title": "As AI Faces a Number of Critical Bottlenecks, Exposures Now Available in One Ticker Via xETFs AI Bottlenecks ETF (NECK)",
    "link": "https://markets.businessinsider.com/news/stocks/as-ai-faces-a-number-of-critical-bottlenecks-exposures-now-available-in-one-ticker-via-xetfs-ai-bottlenecks-etf-neck-1036568037",
@@ -1104,22 +1887,6 @@
    "published": "2026-09-23T15:19:30+00:00",
    "tickers": [
     "PATH"
-   ]
-  },
-  {
-   "id": "5f676314e01a",
-   "title": "McDonald's will spend big on restaurant upgrades, training to drive growth",
-   "link": "https://www.cnbc.com/2026/09/23/mcdonalds-investor-day-remodels-training-chicken-growth-plans.html",
-   "summary": "The plans are part of the fast-food giant's new growth strategy, called McDonald's > NEXT.",
-   "article_text": "McDonald's investor day: Remodels, training, chicken among growth plans Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Key Points McDonald's plans to raise operating margins, launch a new multiyear employee training program, and spend billions of dollars supporting franchisees' equipment and tech upgrades. The plans are part of the fast-food giant's new growth strategy, called McDonald's > NEXT. The company will share more details during an investor presentation that begins at 9:30 a.m. ET. In this article MCD Follow your favorite stocks CREATE FREE ACCOUNT McDonald's Corp. signage on the floor at the New York Stock Exchange (NYSE) in New York, US, on Monday, Aug. 25, 2025. Michael Nagle | Bloomberg | Getty Images McDonald's on Wednesday announced plans for its own media network, pricey restaurant upgrades and ways to win over GLP-1 users during an investor presentation at its Chicago headquarters. In June, the company unveiled its newest growth strategy , McDonald's > NEXT. The pillars of the plan include a new restaurant design, better-tasting food and drinks, consumer-led innovation, and improved hospitality from employees. But until Wednesday, executives had offered few details about how they would implement the plan and how it may affect its financial results over the coming years. The shifts come as McDonald's U.S. business tries to rebound from sluggish sales and as consumers hit by years of elevated inflation visit restaurants less often. The chain aims to win over more diners at a time the company expects inflation and flat traffic to restaurants overall will persist, CEO Chris Kempczinski told CNBC. The plan and Kempczinski's comments did not impress Wall Street, as McDonald's shares fell 5% in morning trading. A key part of the strategy is restaurant remodels, which McDonald's mandates roughly every decade for franchisees. But the chain will also unveil what it calls Restaurant > NEXT, which includes improvements to equipment, technology and operations. It also will feature \"ArchIQ,\" an artificial intelligence-powered operating system for restaurants. The company said \"Archy\" can take orders in English and Spanish from customers, saving about 50 labor hours per week, while other elements of ArchIQ can manage inventory and schedule shifts, as well as use scales to assess order accuracy. McDonald's invests in restaurants All of those upgrades will require steep investment from franchisees. But McDonald's is also planning to provide financial support, through rent relief and actual capital. Through 2036, McDonald's plans to spend as much as $8.5 billion to accelerate franchisees' investment in the restaurant improvement plan. About $5 billion of that support will happen through 2030. McDonald's is projecting about $1.5 billion to $2 billion in capital spending from 2027 through 2030 to accelerate NEXT, in addition to about $3 billion every year on typical capital expenditures. (In 2025, McDonald's reported $3.4 billion in capital expenditures.) Franchisees may protest the franchisor's expectations for their own investment in the restaurants, on top of standard cosmetic remodels. Beef and labor costs are already weighing on their profits. But executives think that the upgrades will pay off for their locations. McDonald's projects that efficiency improvements will result in an increase of roughly $100,000 in annual cash flow for the average U.S. restaurant, and the initiative will take about four years to return franchisees' investment. While McDonald's plans to spend more to fuel restaurant improvements, the company said it aims to cut costs elsewhere, although it did not offer specifics. By 2030, McDonald's is targeting an operating margin in the low-to-mid 50% range. In 2025, the company reported operating margins of 46.1%, according to company filings. Some of that margin expansion will come from its general and administrative spending. By 2030, McDonald's is projecting that about 1.9% of its systemwide sales will go toward G&A. For comparison, the company is currently forecasting that 2.2% of its systemwide sales will be spent on G&A in 2026. Higher operating margins will also come from increased revenue. McDonald's is planning to build a media network that involves advertising other businesses on its digital drive-thru displays. Executives said it could grow to become a billion-dollar business. The company has started testing it over the last month at 450 company-owned restaurants. Media networks have become high-margin businesses for retailers like Amazon and Walmart. McDonald's also has an eye on growing its sales globally. Some of that will come from new locations. Next year, the company expects restaurant openings will make up about 2.5% of its systemwide sales growth. The company's accelerated expansion will slow in the following years. By 2030, McDonald's anticipates new restaurants will account for only about 2% of growth to systemwide sales. Menu changes and more chicken In recent years, the burger chain has leaned into menu items other than its core beef offerings to drive sales, namely chicken and beverages. By 2030, McDonald's wants to grow its global market share in those two categories by about 1.5 percentage points each. McDonald's already sees nearly $15 billion in system sales from Chicken McNuggets, $4 billion from its McChicken and $2.5 billion from McCrispy menu items, according to Jill McDonald, the company's global chief restaurant experience officer. Altogether, the chain accounts for about 20% of chicken sales out of the entire $130 billion global category. But McDonald's wants a bigger bite. To grow its share of chicken sales, the chain plans to introduced hand-breaded chicken options. Chicken specialists like Chick-fil-A, Popeyes and Raising Cane's already hand-bread or batter their chicken for a crispier exterior and better taste. However, the technique requires more time and labor from employees. U.S. restaurants will start seeing hand-breaded chicken menu items in 2027, McDonald said. Other chicken options coming to McDonald's menu include new grilled chicken sandwiches and wraps and new flavors and sauces for Chicken McNuggets. Likewise, McDonald's wants a bigger share of the global $230 billion beverage category, according to McDonald. Today, it holds a roughly 10% share and is the second-largest coffee player globally. But the category is growing quickly, presenting more opportunities for the chain to grow sales. \"Beverages are no longer just an add-on, but a reason to visit,\" McDonald said. In the U.S., McDonald's rolled out an expanded drink menu earlier this year, featuring refreshers, crafted sodas and energy drinks. The chain now plans to launch more beverages in its international markets. It also aims to upgrade the quality of its coffee; U.S. restaurants will receive new espresso machines and the opportunity to customize their drinks with alternative milk choices. And McDonald's has an eye on new food menu items, too. \"We're exploring bowls, grilled chicken and egg bites to expand protein-forward options across breakfast, lunch and dinner,\" McDonald's U.S. President Skye Anderson said. Some of that protein-focused innovation is spurred by the growing adoption of GLP-1 drugs. For several years, investor concerns about how the medication will affect McDonald's sales have weighed on the stock. But executives on Wednesday expressed confidence that the chain will not lose customers because of changes to their appetites. Anderson said that 84% of households with at least one GLP-1 user still visit McDonald's. \"This is an opportunity,\" she said. \"We don't need to win a new base of customers into McDonald's. Instead, we need to keep giving them more reasons to make McDonald's their first choice as their eating habits evolve.\" Still, McDonald's isn't abandoning burgers. The company wants to hold onto its leadership in beef, too. It",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "cnbc.com",
-   "published": "2026-09-23T15:18:52+00:00",
-   "tickers": [
-    "MCD"
    ]
   },
   {
@@ -1281,6 +2048,81 @@
    ]
   },
   {
+   "id": "09f2a00b678e",
+   "title": "Cotton Slipping to Start Wednesday Trade",
+   "link": "https://www.nasdaq.com/articles/cotton-slipping-start-wednesday-trade",
+   "summary": "Cotton is showing 40 to 50 point gains on Wednesday morning. Futures closed out the Tuesday session with contracts down 16 to 55 points across the board. Crude oil was down 57 cents per barrel on the session, with the US dollar index back up $0.084. USDA’s Cotton Ginnings report...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-23T15:15:33+00:00",
+   "tickers": []
+  },
+  {
+   "id": "28046cca7631",
+   "title": "Soybeans Slipping Back on Wednesday Morning",
+   "link": "https://www.nasdaq.com/articles/soybeans-slipping-back-wednesday-morning",
+   "summary": "Soybean price action is down 6 to 7 cents early on Wednesday morning. Futures faded back on Tuesday, with front months steady to 3 cents lower and deferreds firm to 1 ¼ cents higher. Open interest was up 7,942 contracts on Tuesday. The cmdtyView national average Cash Bean price was...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-23T15:15:32+00:00",
+   "tickers": []
+  },
+  {
+   "id": "66e79c830407",
+   "title": "Wheat Facing Early Wednesday Weakness",
+   "link": "https://www.nasdaq.com/articles/wheat-facing-early-wednesday-weakness",
+   "summary": "Wheat is showing modest losses on Wednesday morning. The wheat complex posted Tuesday weakness across the three markets. Chicago SRW were down 3 to 9 ½ cents at the close. Open interest rose 600 contracts. KC HRW futures were 2 ½ to 13 ¼ cents in the red. OI slipped...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-23T15:15:32+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a999e4c31775",
+   "title": "Corn Facing Extended Pullback on Wednesday Morning",
+   "link": "https://www.nasdaq.com/articles/corn-facing-extended-pullback-wednesday-morning",
+   "summary": "Corn prices are down 4 to 5 1/2 cents so far on Wednesday. Futures posted losses of 4 ¼ to 6 ¼ cents across most contracts on Tuesday, closing within a couple pennies of the low. Open interest was up just 52 contracts on Tuesday, suggesting a rotation of ownership....",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-23T15:15:32+00:00",
+   "tickers": []
+  },
+  {
+   "id": "02378e256b4f",
+   "title": "Stocks Settle Mixed as Chipmakers Climb and Financial Stocks Fall",
+   "link": "https://www.nasdaq.com/articles/stocks-settle-mixed-chipmakers-climb-and-financial-stocks-fall",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed unchanged on Tuesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down by -0.36%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +0.82%. December E-mini S&P futures (ESZ26 ) fell -0.02%, and December E-mini Nasdaq futures...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-23T15:15:32+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
+  },
+  {
    "id": "11d344483b14",
    "title": "Globee® Awards Invite Human Resources, Marketing, Operations, and Customer Experience Professionals Worldwide to Apply as Volunteer Judges",
    "link": "https://www.prnewswire.com/news-releases/globee-awards-invite-human-resources-marketing-operations-and-customer-experience-professionals-worldwide-to-apply-as-volunteer-judges-302887222.html",
@@ -1295,6 +2137,22 @@
    "tickers": []
   },
   {
+   "id": "759bd58a59ae",
+   "title": "Michael Burry Says SpaceX Isn't Worth $1 Trillion. Its AI Business Could Prove Him Wrong.",
+   "link": "https://www.nasdaq.com/articles/michael-burry-says-spacex-isnt-worth-1-trillion-its-ai-business-could-prove-him-wrong",
+   "summary": "Key PointsSpaceX's new AI contracts make its computing business look far more substantial than Michael Burry assumed.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-23T15:15:00+00:00",
+   "tickers": [
+    "SPCX"
+   ]
+  },
+  {
    "id": "495893b80323",
    "title": "StubHub, Trade Desk among mid-cap communications services stocks with weakest momentum grades",
    "link": "https://seekingalpha.com/news/4646090-stubhub-trade-desk-among-mid-cap-communications-services-stocks-with-weakest-momentum-grades?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -1307,6 +2165,23 @@
    "domain": "seekingalpha.com",
    "published": "2026-09-23T15:14:41+00:00",
    "tickers": []
+  },
+  {
+   "id": "37d721570e3e",
+   "title": "UBS Initiates Coverage of Core Scientific with Buy",
+   "link": "https://www.nasdaq.com/articles/ubs-initiates-coverage-core-scientific-buy",
+   "summary": "Fintel reports that on September 23, 2026, UBS initiated coverage of Core Scientific (NASDAQGS:CORZ) (BIT:1CORZ) with a Buy recommendation.This initiation follows other recent analyst actions for the company. On September 21, 2026, Rothschild & Co initiated coverage of Core S",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "analyst",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-23T15:14:35+00:00",
+   "tickers": [
+    "CORZ",
+    "UBS"
+   ]
   },
   {
    "id": "c44579c15d4e",
@@ -1453,22 +2328,6 @@
    ]
   },
   {
-   "id": "b568c2f22b68",
-   "title": "Bessent Failed to Report Holdings of JP Morgan Stock",
-   "link": "https://www.nytimes.com/2026/09/23/business/bessent-jp-morgan-stock.html",
-   "summary": "Treasury Secretary Scott Bessent’s finances were reviewed by the inspector general after Mr. Bessent incorrectly listed at least $100,000 of the stock, which was owned by his husband, as cash.",
-   "article_text": "",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "nytimes.com",
-   "published": "2026-09-23T15:12:23+00:00",
-   "tickers": [
-    "JPM"
-   ]
-  },
-  {
    "id": "e201001a524a",
    "title": "Bessent Failed to Report Holdings of JP Morgan Stock",
    "link": "https://www.nytimes.com/2026/09/23/business/bessent-failed-to-report-holdings-of-jp-morgan-stock.html",
@@ -1531,48 +2390,6 @@
    ]
   },
   {
-   "id": "28046cca7631",
-   "title": "Soybeans Slipping Back on Wednesday Morning",
-   "link": "https://www.nasdaq.com/articles/soybeans-slipping-back-wednesday-morning",
-   "summary": "Soybean price action is down 6 to 7 cents early on Wednesday morning. Futures faded back on Tuesday, with front months steady to 3 cents lower and deferreds firm to 1 ¼ cents higher. Open interest was up 7,942 contracts on Tuesday. The cmdtyView national average Cash Bean price was...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-09-23T15:11:20+00:00",
-   "tickers": []
-  },
-  {
-   "id": "66e79c830407",
-   "title": "Wheat Facing Early Wednesday Weakness",
-   "link": "https://www.nasdaq.com/articles/wheat-facing-early-wednesday-weakness",
-   "summary": "Wheat is showing modest losses on Wednesday morning. The wheat complex posted Tuesday weakness across the three markets. Chicago SRW were down 3 to 9 ½ cents at the close. Open interest rose 600 contracts. KC HRW futures were 2 ½ to 13 ¼ cents in the red. OI slipped...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-09-23T15:11:20+00:00",
-   "tickers": []
-  },
-  {
-   "id": "09f2a00b678e",
-   "title": "Cotton Slipping to Start Wednesday Trade",
-   "link": "https://www.nasdaq.com/articles/cotton-slipping-start-wednesday-trade",
-   "summary": "Cotton is showing 40 to 50 point gains on Wednesday morning. Futures closed out the Tuesday session with contracts down 16 to 55 points across the board. Crude oil was down 57 cents per barrel on the session, with the US dollar index back up $0.084. USDA’s Cotton Ginnings report...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-09-23T15:11:19+00:00",
-   "tickers": []
-  },
-  {
    "id": "e174040f4633",
    "title": "Paratus Energy: Announcement of Board Changes",
    "link": "https://www.prnewswire.com/news-releases/paratus-energy-announcement-of-board-changes-302887905.html",
@@ -1629,6 +2446,22 @@
    "domain": "globenewswire.com",
    "published": "2026-09-23T15:11:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "6e6d7b3ee159",
+   "title": "BTIG Initiates Coverage of ORIC Pharmaceuticals at Buy",
+   "link": "https://www.nasdaq.com/articles/btig-initiates-coverage-oric-pharmaceuticals-buy",
+   "summary": "Fintel reports that on September 23, 2026, BTIG initiated coverage of ORIC Pharmaceuticals (NASDAQGS:ORIC) (DB:4TZ) with a Buy recommendation.ORIC Pharmaceuticals, Inc., based in the United States, operates within the biotechnology sector, primarily focusing on the development of",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "analyst",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-23T15:10:54+00:00",
+   "tickers": [
+    "DB"
+   ]
   },
   {
    "id": "11453df5882e",
@@ -2384,66 +3217,6 @@
    ]
   },
   {
-   "id": "fee4370c2aaf",
-   "title": "Cattle Fade Back Lower on Turnaround Tuesday",
-   "link": "https://www.nasdaq.com/articles/cattle-fade-back-lower-turnaround-tuesday-0",
-   "summary": "Live cattle futures were down 45 cents to $2.55 at the Tuesday close. Open interest was up 1,267 contracts on Tuesday. Cash trade has started out on the quieter side this week, with feedlots compiling showlists. Feeder cattle futures fell back from the Monday strength, with contracts down 20 cents...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-09-23T15:04:37+00:00",
-   "tickers": []
-  },
-  {
-   "id": "a999e4c31775",
-   "title": "Corn Facing Extended Pullback on Wednesday Morning",
-   "link": "https://www.nasdaq.com/articles/corn-facing-extended-pullback-wednesday-morning",
-   "summary": "Corn prices are down 4 to 5 1/2 cents so far on Wednesday. Futures posted losses of 4 ¼ to 6 ¼ cents across most contracts on Tuesday, closing within a couple pennies of the low. Open interest was up just 52 contracts on Tuesday, suggesting a rotation of ownership....",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-09-23T15:04:36+00:00",
-   "tickers": []
-  },
-  {
-   "id": "5a7211af84a0",
-   "title": "Hogs Look to Midweek Trade Following Tuesday’s Rally",
-   "link": "https://www.nasdaq.com/articles/hogs-look-midweek-trade-following-tuesdays-rally",
-   "summary": "Lean hog futures were 32 cents to $1.20 higher across the board on Tuesday. Open interest was down 3,564 contracts on Tuesday. USDA’s national base hog price was $79.90 in the Tuesday PM report, down 45 cents from the day prior. The CME Lean Hog Index was down another 60...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-09-23T15:04:36+00:00",
-   "tickers": [
-    "CME"
-   ]
-  },
-  {
-   "id": "fd945157ac47",
-   "title": "Cattle Fade Back Lower on Turnaround Tuesday",
-   "link": "https://www.nasdaq.com/articles/cattle-fade-back-lower-turnaround-tuesday",
-   "summary": "Live cattle futures were down 45 cents to $2.55 at the Tuesday close. Cash trade has started out on the quieter side this week, with feedlots compiling showlists. Feeder cattle futures fell back from the Monday strength, with contracts down 20 cents to $3.55 The CME Feeder Cattle Index was...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-09-23T15:04:36+00:00",
-   "tickers": [
-    "CME"
-   ]
-  },
-  {
    "id": "f41ac93ca249",
    "title": "CQS New City High Yield Fund to issue 800,000 shares at 50.6p",
    "link": "https://www.investing.com/news/company-news/cqs-new-city-high-yield-fund-to-issue-800000-shares-at-506p-93CH-4913482",
@@ -2837,22 +3610,6 @@
    "published": "2026-09-23T15:01:47+00:00",
    "tickers": [
     "GLW"
-   ]
-  },
-  {
-   "id": "1cca3d53228b",
-   "title": "Florida fund sues New York Times for records concerning editorial standards",
-   "link": "https://www.investing.com/news/stock-market-news/florida-fund-sues-new-york-times-for-records-concerningeditorial-standards-4913446",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-23T15:01:31+00:00",
-   "tickers": [
-    "NYT"
    ]
   },
   {
@@ -4269,7 +5026,7 @@
    "title": "Michael Burry adds to shorts as Nasdaq-100 hits all time high. Why he's betting against chips",
    "link": "https://www.cnbc.com/2026/09/23/michael-burry-adds-to-shorts-as-nasdaq-100-hits-all-time-high-why-hes-betting-against-chips.html",
    "summary": "Chinese production capacity could determine whether cyclicality returns to the memory sector after a historic boom.",
-   "article_text": "Michael Burry adds to shorts as Nasdaq-100 hits all time high. Why he's betting against chips Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Michael Burry thinks the memory chip industry could return to its cyclical history and zap high-flying technology stocks that drove the Nasdaq-100 index to an all-time high this week. Burry, who rose to fame for calling the housing crash before the global financial crisis of 2007-2009, said Tuesday he thinks the structural shortage of memory chips that has minted new trillion dollar companies during the current AI buildout is temporary and that the sector is due to return to its old boom-and-bust ways. \"Over the next two years this shortage will blow off as production catches up, and memory will have a down cycle again,\" Burry wrote in a Substack post . Burry is increasing his short positions on memory maker Micron Technology , cloud platform Nebius Group , the SOXX iShares semiconductor ETF and data analytics and software provider Palantir , he said. MU 6M mountain Micron Technology over the past six months \"I will watch however, and look to cover should the market take these up to new highs again,\" he said. \"I continue to hold my puts.\" Chinese memory capacity Burry backed his position by citing a Taiwanese media report in which the CEO of electronics maker Acer noted increasing Chinese memory chip production capacity. \"How could there be a continuous shortage? China's production capacity has been consistently increasing, and there is absolutely no shortage issue. Contract prices are currently fluctuating at a high level, with some prices going up",
+   "article_text": "Michael Burry adds to shorts as Nasdaq-100 hits all time high. Why he's betting against chips Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Michael Burry thinks the memory chip industry could return to its cyclical history and zap high-flying technology stocks that drove the Nasdaq-100 index to an all-time high this week. Burry, who rose to fame for calling the housing crash before the global financial crisis of 2007-2009, said Tuesday he thinks the structural shortage of memory chips that has minted new trillion dollar companies during the current AI buildout is temporary and that the sector is due to return to its old boom-and-bust ways. \"Over the next two years this shortage will blow off as production catches up, and memory will have a down cycle again,\" Burry wrote in a Substack post . Burry is increasing his short positions on memory maker Micron Technology , cloud platform Nebius Group , the SOXX iShares semiconductor ETF and data analytics and software provider Palantir , he said. MU 6M mountain Micron Technology over the past six months \"I will watch however, and look to cover should the market take these up to new highs again,\" he said. \"I continue to hold my puts.\" Chinese memory capacity Burry backed his position by citing a Taiwanese media report in which the CEO of electronics maker Acer noted increasing Chinese memory chip production capacity. \"How could there be a continuous shortage? China's production capacity has been consistently increasing, and there is absolutely no shortage issue. Contract prices are currently fluctuating at a high level, with some prices going u",
    "source": "CNBC Top",
    "category": "markets",
    "type": "markets",
@@ -4875,25 +5632,6 @@
    "tickers": []
   },
   {
-   "id": "02378e256b4f",
-   "title": "Stocks Settle Mixed as Chipmakers Climb and Financial Stocks Fall",
-   "link": "https://www.nasdaq.com/articles/stocks-settle-mixed-chipmakers-climb-and-financial-stocks-fall",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed unchanged on Tuesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down by -0.36%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +0.82%. December E-mini S&P futures (ESZ26 ) fell -0.02%, and December E-mini Nasdaq futures...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-09-23T14:35:32+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
-   ]
-  },
-  {
    "id": "45246841f1e9",
    "title": "Alibaba, Dell among market cap stock movers on Wednesday",
    "link": "https://www.investing.com/news/stock-market-news/alibaba-dell-among-market-cap-stock-movers-on-wednesday-93CH-4913431",
@@ -5088,22 +5826,6 @@
    "tickers": []
   },
   {
-   "id": "7d197c60b544",
-   "title": "IonQ shares rise after company says it made a major quantum computing breakthrough",
-   "link": "https://www.cnbc.com/2026/09/23/ionq-shares-rally-after-company-says-it-made-a-major-quantum-computing-breakthrough.html",
-   "summary": "Shares of quantum computing company IonQ surged in premarket trading following its successful test of the industry's first real time end-to-end error decoder.",
-   "article_text": "IonQ shares rise after major quantum computing breakthrough Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Key Points The quantum computing firm announced a successful demonstration of the industry's first real-time error decoder Tuesday. Some quantum industry stocks surged following the news. In this article IONQ Follow your favorite stocks CREATE FREE ACCOUNT Cheng Xin | Getty Images Shares of IonQ rose Wednesday after the company said it demonstrated the quantum computing industry's first end-to-end real-time quantum error decoder. Shares were more than 5% higher in morning trading after surging more than 10% before the bell. The milestone, which IonQ announced Tuesday , makes it possible for a single standard computer processor to find, fix and decode computer errors as they happen, as it runs continuously in the background. The successful test stands to alleviate a significant industry bottleneck in which previous systems became easily overwhelmed in fixing errors in the sensitive systems, leading to delays in the system. IonQ past few days \"Successfully validating real-time decoding across hundreds of logical qubits and over millions of logical operations is an important milestone. Moreover, the fact that our decoder runs on a single CPU provides a practical path to commercial-scale fault-tolerant quantum computing,\" quantum research lead Nicolas Delfosse said in a statement Tuesday. IonQ's partners include AI boom titans Amazon Web Services and Nvidia and pharmaceuticals such as AstraZeneca . IonQ recently raised its full-year revenue guidance following the firm's acquisition of semiconductor manufacturer SkyWater Technologies. Quantum stocks rose across the board on the news in premarket trading, but most gave back their gains after the open. \"Empirical evidence like this supports our vision for fault tolerance where time-to-solution, cost-to-solution, and energy-to-solution are always our North Star,\" Jon Gable, VP at IonQ Architecture, added in the release. Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "cnbc.com",
-   "published": "2026-09-23T14:32:22+00:00",
-   "tickers": [
-    "IONQ"
-   ]
-  },
-  {
    "id": "72f7a7f3805c",
    "title": "9 in 10 Air Fryer Owners Want to Use it More -- Here's Where to Start",
    "link": "https://www.prnewswire.com/news-releases/9-in-10-air-fryer-owners-want-to-use-it-more--heres-where-to-start-302886715.html",
@@ -5205,20 +5927,6 @@
    "tickers": [
     "BA"
    ]
-  },
-  {
-   "id": "de34cb159e26",
-   "title": "LegalZoom review: Basic legal services starting at $39.95 per month",
-   "link": "https://www.cnbc.com/select/legalshield-review/",
-   "summary": "CNBC Select’s LegalShield review covers its legal services, plans, pricing, features and what to know before signing up.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-09-23T14:30:19+00:00",
-   "tickers": []
   },
   {
    "id": "1514aba81427",
@@ -7970,20 +8678,6 @@
    "tickers": []
   },
   {
-   "id": "47a3642dcc2b",
-   "title": "McDonald’s lays out $8.5 billion franchisee support plan, targets higher margins by 2030",
-   "link": "https://www.investing.com/news/stock-market-news/mcdonalds-outlines-85-billion-plan-to-support-franchisees-4912916",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-23T13:54:55+00:00",
-   "tickers": []
-  },
-  {
    "id": "c294a57c2d09",
    "title": "U.S. business growth spikes to fastest in over 5 years in September - S&P Global",
    "link": "https://www.investing.com/news/economic-indicators/us-business-growth-spikes-to-fastest-in-over-5-years-in-september--sp-global-4913338",
@@ -8265,703 +8959,6 @@
    "domain": "biztoc.com",
    "published": "2026-09-23T13:50:45+00:00",
    "tickers": []
-  },
-  {
-   "id": "551c473c9015",
-   "title": "OpenAI makes development moves to counter SpaceX and Meta",
-   "link": "https://biztoc.com/x/9228abe6fe942f1f?ref=rss",
-   "summary": "For most of the past three years, OpenAI has set the pace in artificial intelligence while everyone else played catch-up. Now, rivals SpaceX and Meta, long written off in the AI conversation, have built products that do something ChatGPT still struggles to sell to ordinary consumers: get real…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-23T13:50:42+00:00",
-   "tickers": [
-    "SPCX",
-    "META"
-   ]
-  },
-  {
-   "id": "c03d311ab85a",
-   "title": "Apple’s Next Health Wearable May Look Nothing Like an Apple Watch",
-   "link": "https://biztoc.com/x/5405ba5eae947b54?ref=rss",
-   "summary": "The tech giant is reportedly developing a screen-less fitness tracker to compete with Oura and Whoop.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-23T13:50:40+00:00",
-   "tickers": [
-    "AAPL"
-   ]
-  },
-  {
-   "id": "d111725a2450",
-   "title": "She Was 74 When Her 66-Year-Old Husband Died. Rolling His $350,000 IRA Into Her Own Name Started Withdrawals Immediately. Leaving It in His Name Would Have Bought Her Seven Years",
-   "link": "https://biztoc.com/x/8ec8e3d76e303a2e?ref=rss",
-   "summary": "The post She Was 74 When Her 66-Year-Old Husband Died. Rolling His $350,000 IRA Into Her Own Name Started Withdrawals Immediately. Leaving It in His Name Would Have Bought Her Seven Years appeared first on 24/7 Wall St.. When a spouse dies, the IRA custodian usually presents one path: roll the…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-23T13:50:40+00:00",
-   "tickers": []
-  },
-  {
-   "id": "07435deace10",
-   "title": "US composite PMI at 62-month high in September",
-   "link": "https://biztoc.com/x/49dcb901ff88a0fb?ref=rss",
-   "summary": "The United States Composite PMI Output Index came in at 58.4 in September, improving from 56 in August and reaching a 62-month high, S&P Global said in a preliminary report on Wednesday. More to c...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-23T13:50:39+00:00",
-   "tickers": [
-    "SPGI"
-   ]
-  },
-  {
-   "id": "ef3c7def2e0d",
-   "title": "McDonald's is spending $8.5 billion on restaurant refreshes and bringing diners back",
-   "link": "https://biztoc.com/x/ef057d04e7eb3c3f?ref=rss",
-   "summary": "McDonald's unveiled McDonald's Next, a plan to improve its results, on Wednesday. Gene J. Puskar/AP McDonald's is planning to spend billions to lure customers back. The chain's McDonald's Next plan calls for changes from employee training to store tech. McDonald's is facing stiff competition from…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-23T13:50:39+00:00",
-   "tickers": [
-    "MCD"
-   ]
-  },
-  {
-   "id": "7a5b0813f164",
-   "title": "Andreessen Horowitz Is Launching a $42 Million School With No Grades, Tests, or Degrees",
-   "link": "https://biztoc.com/x/9846a824d973e548?ref=rss",
-   "summary": "Instead of building a traditional academic environment, the venture capital firm says the school will enable students to start their own companies.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-23T13:50:38+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e62f7bc97741",
-   "title": "German Far Right Wargames Policy Agenda With Overture to Merz",
-   "link": "https://biztoc.com/x/568c719e4ca822a9?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-23T13:50:37+00:00",
-   "tickers": []
-  },
-  {
-   "id": "538403ec6aa3",
-   "title": "Activist Toms Capital urges Devon Energy in letter to explore alternatives, including a sale",
-   "link": "https://biztoc.com/x/aafabd3c2afc4793?ref=rss",
-   "summary": "Activist hedge fund Toms Capital Management sent a letter earlier this month to Devon Energy urging the Houston-based oil and gas company to review strategic alternatives, including a sale. Toms, which manages just over $4 billion in assets, says in the letter viewed by CNBC it is now one of…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-23T13:50:36+00:00",
-   "tickers": [
-    "DVN"
-   ]
-  },
-  {
-   "id": "78f06b7e662a",
-   "title": "Intel Skyrocketed 30% Higher in 1 Month: Here’s What to Do Now",
-   "link": "https://biztoc.com/x/c51859b085f2b30e?ref=rss",
-   "summary": "The post Intel Skyrocketed 30% Higher in 1 Month: Here’s What to Do Now appeared first on 24/7 Wall St.. At $123.86, Intel (NASDAQ:INTC) looks fully priced. The chipmaker has ripped 37.52% higher in the past month and now trades above the average Wall Street price target, which forces a hard…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-23T13:50:34+00:00",
-   "tickers": [
-    "INTC"
-   ]
-  },
-  {
-   "id": "47f830321ed6",
-   "title": "AppLovin Drops 5% as Edgewater Warns Market Share Growth Has Stalled; Magnite Slips, Trade Desk Slips 3%",
-   "link": "https://biztoc.com/x/96b1ad06a4368bea?ref=rss",
-   "summary": "The post AppLovin Drops 5% as Edgewater Warns Market Share Growth Has Stalled; Magnite Slips, Trade Desk Slips 3% appeared first on 24/7 Wall St.. AppLovin (NASDAQ:APP) stock is down 5% in Wednesday morning trading to $310.70 after Edgewater Research warned that the advertising technology…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-09-23T13:50:31+00:00",
-   "tickers": [
-    "APP"
-   ]
-  },
-  {
-   "id": "f4b52c7a07a0",
-   "title": "My New Hire Was Supposed to Move, but Hasn’t",
-   "link": "https://biztoc.com/x/905c5d696ef6a222?ref=rss",
-   "summary": "and two other tricky workplace dilemmas.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-23T13:50:31+00:00",
-   "tickers": []
-  },
-  {
-   "id": "58d52abf7c89",
-   "title": "I spent 2 nights at an all-inclusive resort. My biggest regret was going alone",
-   "link": "https://biztoc.com/x/b0c8c330db721b5b?ref=rss",
-   "summary": "Business Insider's reporter traveled solo to Mohonk Mountain House, an all-inclusive resort in New York. Joey Hadden/Business Insider I didn't think twice about booking a solo stay at an all-inclusive resort, but I should have. Even though I travel alone most of the time, my stay would have been…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-23T13:50:29+00:00",
-   "tickers": []
-  },
-  {
-   "id": "86a6cb60eb67",
-   "title": "US Business Activity Expands at the Fastest Pace Since 2021",
-   "link": "https://biztoc.com/x/bd96203c0365d158?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-09-23T13:50:27+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e822e4ac0294",
-   "title": "US stocks drift near their all time high as crude oil prices turn higher",
-   "link": "https://biztoc.com/x/9ba82bf36b122882?ref=rss",
-   "summary": "US stocks drift near their all time high as crude oil prices turn higher The U.S. stock market is drifting near its all-time high after oil prices halted their weeklong run of easing NEW YORK -- The U.S. stock market is drifting near its all-time high after oil prices halted their weeklong run of…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-09-23T13:50:27+00:00",
-   "tickers": []
-  },
-  {
-   "id": "262dbaf54822",
-   "title": "Jared Golden Joins Growing List Of Democrats Endorsing Republicans",
-   "link": "https://biztoc.com/x/96525394078f7672?ref=rss",
-   "summary": "By VIRGINIA GRACE MCKINNON, The Daily Signal | September 21, 2026 A Democrat may have just secured a midterm win for Republicans with one unexpected endorsement. House Democrat Jared Golden of Maine endorsed House Republican Mike Lawler of New York for reelection in an op-ed published in a…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-23T13:50:23+00:00",
-   "tickers": []
-  },
-  {
-   "id": "43324ad3b0b0",
-   "title": "Black Sea Upheaval Sends India Wheat Back to Neighbor Bangladesh",
-   "link": "https://biztoc.com/x/9cbf8e8e0650bfaf?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-23T13:50:22+00:00",
-   "tickers": []
-  },
-  {
-   "id": "4874c4795d2c",
-   "title": "Schwab 1000 ETF declares quarterly distribution of $0.1016",
-   "link": "https://seekingalpha.com/news/4646037-schwab-1000-etf-declares-quarterly-distribution-of-01016?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-23T13:50:14+00:00",
-   "tickers": [
-    "SCHF"
-   ]
-  },
-  {
-   "id": "1f9b13971dae",
-   "title": "Cohen & Steers Limited Duration Preferred and Income Fund declares $0.131 dividend",
-   "link": "https://seekingalpha.com/news/4646036-cohen-and-steers-limited-duration-preferred-and-income-fund-declares-0_131-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "dividend",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-23T13:50:09+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b12247a1f5a3",
-   "title": "Virtus SGA International Growth Portfolio Q2 2026 Portfolio Activity",
-   "link": "https://seekingalpha.com/article/4948997-virtus-sga-international-growth-portfolio-q2-2026-portfolio-activity?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-23T13:50:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d0b841069d8b",
-   "title": "Communiqué précisant les modalités de mise à disposition des Final Terms de l’émission de la BFCM séries 593 tranche 8",
-   "link": "https://www.globenewswire.com/news-release/2026/09/23/3367576/0/fr/communiqu%C3%A9-pr%C3%A9cisant-les-modalit%C3%A9s-de-mise-%C3%A0-disposition-des-final-terms-de-l-%C3%A9mission-de-la-bfcm-s%C3%A9ries-593-tranche-8.html",
-   "summary": "",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-09-23T13:50:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "1e87a3962334",
-   "title": "2 Under-the-Radar Auto Stocks Poised to Soar While Nobody Is Looking",
-   "link": "https://www.nasdaq.com/articles/2-under-radar-auto-stocks-poised-soar-while-nobody-looking",
-   "summary": "Key PointsCarvana has bounced back from its near-bankruptcy, and now it's once again fundamentally shifting its strategy.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-09-23T13:50:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ed613bfae203",
-   "title": "Cohen & Steers Limited Duration Preferred and Income Fund declares $0.131 dividend",
-   "link": "https://seekingalpha.com/news/4646035-cohen-and-steers-limited-duration-preferred-and-income-fund-declares-0_131-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "dividend",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-23T13:49:59+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e5e9398e82d4",
-   "title": "Keybanc Initiates Coverage of Guardian Pharmacy Services at Overweight",
-   "link": "https://www.nasdaq.com/articles/keybanc-initiates-coverage-guardian-pharmacy-services-overweight",
-   "summary": "Fintel reports that on September 23, 2026, Keybanc initiated coverage of Guardian Pharmacy Services (NYSE:GRDN) with a Overweight recommendation. Prior to this action, the stock closed at $44.67 on September 22, 2026. This latest close reflects a one-week price change of -6.94% f",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "analyst",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-09-23T13:49:57+00:00",
-   "tickers": []
-  },
-  {
-   "id": "0844fedb9e4e",
-   "title": "Cohen & Steers Limited Duration Preferred and Income Fund declares $0.131 dividend",
-   "link": "https://seekingalpha.com/news/4646034-cohen-and-steers-limited-duration-preferred-and-income-fund-declares-0_131-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "dividend",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-23T13:49:47+00:00",
-   "tickers": []
-  },
-  {
-   "id": "3fde1b4c7b4c",
-   "title": "Paychex, Inc. 2027 Q1 - Results - Earnings Call Presentation",
-   "link": "https://seekingalpha.com/article/4949021-paychex-inc-2027-q1-results-earnings-call-presentation?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-23T13:49:37+00:00",
-   "tickers": [
-    "PAYX"
-   ]
-  },
-  {
-   "id": "3a08e584be14",
-   "title": "Schwab U.S. Small-Cap ETF declares quarterly distribution of $0.1005",
-   "link": "https://seekingalpha.com/news/4646033-schwab-us-small-cap-etf-declares-quarterly-distribution-of-01005?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-23T13:49:33+00:00",
-   "tickers": [
-    "SCHA",
-    "SCHF"
-   ]
-  },
-  {
-   "id": "cecb22254582",
-   "title": "Cohen & Steers Quality Income Realty Fund Inc declares $0.09 dividend",
-   "link": "https://seekingalpha.com/news/4646031-cohen-and-steers-quality-income-realty-fund-inc-declares-0_09-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "dividend",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-23T13:49:09+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b8ead665f770",
-   "title": "Lockheed Martin says Mexico orders second Super Hercules",
-   "link": "https://seekingalpha.com/news/4646023-lockheed-martin-says-mexico-orders-second-super-hercules?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-23T13:49:05+00:00",
-   "tickers": [
-    "LMT"
-   ]
-  },
-  {
-   "id": "7da856dbbccb",
-   "title": "US says new air traffic control system will not suffer disruptions",
-   "link": "https://www.investing.com/news/stock-market-news/us-says-new-air-traffic-control-system-will-prevent-future-disruptions-4910996",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-23T13:48:32+00:00",
-   "tickers": []
-  },
-  {
-   "id": "36ee3e024bd0",
-   "title": "Communiqué précisant les modalités de mise à disposition des Final Terms de l’émission de la BFCM séries 598 tranche 4",
-   "link": "https://www.globenewswire.com/news-release/2026/09/23/3367575/0/fr/communiqu%C3%A9-pr%C3%A9cisant-les-modalit%C3%A9s-de-mise-%C3%A0-disposition-des-final-terms-de-l-%C3%A9mission-de-la-bfcm-s%C3%A9ries-598-tranche-4.html",
-   "summary": "",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-09-23T13:48:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "fac830929941",
-   "title": "FlashGrid adds support for Oracle AI Database 26ai deployments on native IaaS cloud services",
-   "link": "https://www.prnewswire.com/news-releases/flashgrid-adds-support-for-oracle-ai-database-26ai-deployments-on-native-iaas-cloud-services-302887785.html",
-   "summary": "FlashGrid is excited to announce that FlashGrid Cluster and FlashGrid Server version 26.05 now support Oracle AI Database 26ai, Oracle's next long-term support release and its most advanced AI-native database platform to date. SUNNYVALE, Calif., Sept. 22, 2026 /PRNewswire/ -- FlashGrid is...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-09-23T13:47:00+00:00",
-   "tickers": [
-    "ORCL"
-   ]
-  },
-  {
-   "id": "3082b1b3b41b",
-   "title": "Qantas’s New York-to-Sydney ‘Project Sunrise’ Flights to Take Off in 2028",
-   "link": "https://www.nytimes.com/2026/09/22/travel/qantas-project-sunrise-flights.html",
-   "summary": "Qantas Airways said the 18-hour flights, part of its Project Sunrise program, would come months after its 22-hour direct flights from Sydney to London begin.",
-   "article_text": "",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "nytimes.com",
-   "published": "2026-09-23T13:46:51+00:00",
-   "tickers": []
-  },
-  {
-   "id": "f73e15903731",
-   "title": "New model-based analysis further supports the potential of TECVAYLI® (teclistamab-cqyv) plus DARZALEX FASPRO® (daratumumab and hyaluronidase-fihj) to redefine long-term survival expectations in early line relapsed/refractory multiple myeloma",
-   "link": "https://www.prnewswire.com/news-releases/new-model-based-analysis-further-supports-the-potential-of-tecvayli-teclistamab-cqyv-plus-darzalex-faspro-daratumumab-and-hyaluronidase-fihj-to-redefine-long-term-survival-expectations-in-early-line-relapsedrefractory-multi-302887782.html",
-   "summary": "Analysis shows ~87% of patients treated with TECVAYLI® plus DARZALEX FASPRO® as early as second line were estimated to have comparable mortality risk to the general population A separate analysis shows the survival benefit was driven by a 90% reduction in the risk of multiple myeloma...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-09-23T13:46:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "a995bcce997c",
-   "title": "E-Power stock surges 6% as $51.2M Anode contract moves ahead",
-   "link": "https://seekingalpha.com/news/4646012-e-power-stock-surges-6-as-512m-anode-contract-moves-ahead?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-23T13:45:32+00:00",
-   "tickers": []
-  },
-  {
-   "id": "bd86a05e66ac",
-   "title": "Avalara Ushers in New Era of Agentic Tax and Compliance with Avalara Aviator",
-   "link": "https://www.prnewswire.com/news-releases/avalara-ushers-in-new-era-of-agentic-tax-and-compliance-with-avalara-aviator-302886866.html",
-   "summary": "Avalara's new agent hub brings together specialized AI agents to execute complex tax and compliance workflows while keeping people in control of the decisions that matter DURHAM, N.C., Sept. 23, 2026 /PRNewswire/ -- Avalara, Inc., the agentic AI leader in global tax and compliance, today...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-09-23T13:45:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "fc4fad9b658f",
-   "title": "Understood.org commits to combating misinformation about neurodivergence at Clinton Global Initiative Annual Meeting",
-   "link": "https://www.prnewswire.com/news-releases/understoodorg-commits-to-combating-misinformation-about-neurodivergence-at-clinton-global-initiative-annual-meeting-302887777.html",
-   "summary": "The \"Commitment to Action\" will expand Understood News, the organization's dedicated news and content studio Understood News has driven 140,000 people to expert-vetted information on neurodivergence in 2026 NEW YORK, Sept. 23, 2026 /PRNewswire/ -- Understood.org, a nonprofit supporting...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-09-23T13:45:00+00:00",
-   "tickers": [
-    "NWSA"
-   ]
-  },
-  {
-   "id": "4958da3340a4",
-   "title": "Arm Holdings: AI-Driven Melt-Up Overly Done - Growth Prospects Mostly Priced In",
-   "link": "https://seekingalpha.com/article/4948995-arm-holdings-ai-driven-melt-up-overly-done-growth-prospects-mostly-priced-in?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-23T13:44:55+00:00",
-   "tickers": [
-    "ARM"
-   ]
-  },
-  {
-   "id": "ccd409dcbeb9",
-   "title": "Schwab U.S. Large-Cap ETF declares quarterly distribution of $0.0822",
-   "link": "https://seekingalpha.com/news/4646022-schwab-us-large-cap-etf-declares-quarterly-distribution-of-00822?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-23T13:44:38+00:00",
-   "tickers": [
-    "SCHX",
-    "SCHF"
-   ]
-  },
-  {
-   "id": "fa4f02abad7f",
-   "title": "Virtus SGA International Growth Portfolio Q2 2026 Commentary",
-   "link": "https://seekingalpha.com/article/4948994-virtus-sga-international-growth-portfolio-q2-2026-commentary?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-23T13:44:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b4da69bcac9e",
-   "title": "Schwab U.S. Dividend Equity ETF declares quarterly distribution of $0.2665",
-   "link": "https://seekingalpha.com/news/4646020-schwab-us-dividend-equity-etf-declares-quarterly-distribution-of-02665?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-23T13:43:45+00:00",
-   "tickers": [
-    "SCHF"
-   ]
-  },
-  {
-   "id": "72940380fe94",
-   "title": "Just a few stocks are lifting the market to records these days. That's worrying traders",
-   "link": "https://www.cnbc.com/2026/09/23/just-a-few-stocks-are-lifting-the-market-to-records-these-days-that-worries-traders.html",
-   "summary": "The stock market isn't as well as it looks.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-09-23T13:43:09+00:00",
-   "tickers": []
-  },
-  {
-   "id": "45ce5eb294b4",
-   "title": "Want to retire with more money? Leave the U.S. early in your career — and then come back.",
-   "link": "https://www.marketwatch.com/story/want-to-retire-with-more-money-leave-the-country-for-work-early-in-your-career-7e568d03?mod=mw_rss_topstories",
-   "summary": "Gain experiences, memories and a substantial contribution to your future nest egg.",
-   "article_text": "",
-   "source": "MarketWatch",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "marketwatch.com",
-   "published": "2026-09-23T13:43:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "8f92b8475985",
-   "title": "Cross-border payment expectations outpace experiences with banks as businesses gain more choice, Nium and Celent research finds.",
-   "link": "https://www.prnewswire.com/news-releases/cross-border-payment-expectations-outpace-experiences-with-banks-as-businesses-gain-more-choice-nium-and-celent-research-finds-302887776.html",
-   "summary": "65% of businesses want payments completed within minutes or instantly, but only 18% get that speed from their banking partners, reflecting intensifying competition for cross-border volume amidst growing range of cross-border payment options. SAN FRANCISCO, Sept. 23, 2026 /PRNewswire/ --...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "press",
-   "sentiment": "positive",
-   "domain": "prnewswire.com",
-   "published": "2026-09-23T13:43:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "f14068d15a56",
-   "title": "Outdoor Living Expert Klint Reiber Explains the Value of a Design-Build Team in HelloNation",
-   "link": "https://www.prnewswire.com/news-releases/outdoor-living-expert-klint-reiber-explains-the-value-of-a-design-build-team-in-hellonation-302887775.html",
-   "summary": "The article explains how a unified design-build team can help homeowners address weather, terrain, construction needs, and long-term outdoor living goals. LOUISVILLE, Colo., Sept. 23, 2026 /PRNewswire/ -- What helps homeowners in Boulder County feel confident when creating an outdoor...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-09-23T13:43:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "3c2fabc1cfcb",
-   "title": "General Mills beats quarterly results estimates on resilient demand for pantry staples",
-   "link": "https://www.investing.com/news/stock-market-news/general-mills-beats-firstquarter-sales-estimates-4912719",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-09-23T13:43:00+00:00",
-   "tickers": [
-    "GIS"
-   ]
-  },
-  {
-   "id": "92491af5f83e",
-   "title": "Teva Pharmaceutical Industries Limited (TEVA) Presents at Bank of America Global Healthcare Conference 2026 Transcript",
-   "link": "https://seekingalpha.com/article/4948974-teva-pharmaceutical-industries-limited-teva-presents-at-bank-of-america-global-healthcare?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-23T13:41:42+00:00",
-   "tickers": [
-    "BAC"
-   ]
-  },
-  {
-   "id": "40d49285af60",
-   "title": "KWS SAAT SE & Co. KGaA (KNKZF) Q4 2026 Earnings Call Transcript",
-   "link": "https://seekingalpha.com/article/4948909-kws-saat-se-and-co-kgaa-knkzf-q4-2026-earnings-call-transcript?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-23T13:41:22+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8973,7 +8970,10 @@
   "IAGG": "iShares International Aggregate Bond Fund",
   "DIA": "SPDR Dow Jones Industrial Average ETF",
   "QUAL": "iShares MSCI USA Quality Factor ETF",
+  "CCC": "CCC Intelligent Solutions Holdings",
   "AVDE": "Avantis International Equity ETF",
+  "CBRL": "Cracker Barrel Old Country Store",
+  "DB": "Deutsche Bank Aktiengesellschaft",
   "SILJ": "Amplify Junior Silver Miners ETF",
   "IBM": "International Business Machines",
   "QSR": "Restaurant Brands International",
@@ -8995,12 +8995,11 @@
   "HPE": "Hewlett Packard Enterprise",
   "ICE": "Intercontinental Exchange",
   "REGN": "Regeneron Pharmaceuticals",
-  "SCHA": "Schwab U.S. Small-Cap ETF",
-  "SCHX": "Schwab U.S. Large-Cap ETF",
   "TD": "The Toronto-Dominion Bank",
   "APO": "Apollo Global Management",
   "IWM": "iShares Russell 2000 ETF",
   "ARR": "ARMOUR Residential REIT",
+  "GS": "The Goldman Sachs Group",
   "RCL": "Royal Caribbean Cruises",
   "AMD": "Advanced Micro Devices",
   "CHTR": "Charter Communications",
@@ -9035,6 +9034,7 @@
   "TJX": "The TJX Companies",
   "UBER": "Uber Technologies",
   "AR": "Antero Resources",
+  "BKNG": "Booking Holdings",
   "COST": "Costco Wholesale",
   "GTLS": "Chart Industries",
   "JPM": "JPMorgan Chase &",
@@ -9044,6 +9044,8 @@
   "APLD": "Applied Digital",
   "BAC": "Bank of America",
   "CI": "The Cigna Group",
+  "COIN": "Coinbase Global",
+  "CORZ": "Core Scientific",
   "DIS": "The Walt Disney",
   "ELV": "Elevance Health",
   "EXP": "Eagle Materials",
@@ -9065,19 +9067,18 @@
   "SPY": "SPDR S&P 500",
   "STT": "State Street",
   "TLN": "Talen Energy",
+  "TTAN": "ServiceTitan",
   "UBS": "UBS Group AG",
   "GOOGL": "Google Cloud",
   "TSLA": "Supercharger",
   "NVDA": "Grace Hopper",
   "SLB": "Schlumberger",
-  "ARM": "Arm Holdings",
   "BYD": "Boyd Gaming",
   "HAL": "Halliburton",
   "MORN": "Morningstar",
   "SHAK": "Shake Shack",
   "WPC": "W. P. Carey",
   "YUM": "Yum! Brands",
-  "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
   "TGT": "Target Corp",
   "SHOP": "Shopify Inc",
@@ -9091,6 +9092,7 @@
   "SPGI": "S&P Global",
   "STLA": "Stellantis",
   "MSFT": "Office 365",
+  "QCOM": "Snapdragon",
   "PARA": "Paramount+",
   "BLK": "BlackRock",
   "C": "Citigroup",
@@ -9100,6 +9102,7 @@
   "SM": "SM Energy",
   "TRP": "TC Energy",
   "WELL": "Welltower",
+  "ADBE": "Photoshop",
   "NWSA": "News Corp",
   "ALKS": "Alkermes",
   "APP": "AppLovin",
