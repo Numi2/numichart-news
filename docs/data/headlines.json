@@ -1,8 +1,52 @@
 {
- "generated": "2026-09-24T09:52:17.752435+00:00",
+ "generated": "2026-09-24T09:58:59.808570+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "c30e91ea4f23",
+   "title": "Transaction in Own Shares",
+   "link": "https://www.globenewswire.com/news-release/2026/09/24/3368106/0/en/transaction-in-own-shares.html",
+   "summary": "",
+   "article_text": "",
+   "source": "GlobeNewswire",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "globenewswire.com",
+   "published": "2026-09-24T09:51:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "fe4ee7caa6bd",
+   "title": "Man Group PLC : Form 8.3 - Senior plc",
+   "link": "https://www.globenewswire.com/news-release/2026/09/24/3368105/0/en/man-group-plc-form-8-3-senior-plc.html",
+   "summary": "FORM 8.3",
+   "article_text": "",
+   "source": "GlobeNewswire",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "globenewswire.com",
+   "published": "2026-09-24T09:51:00+00:00",
+   "tickers": [
+    "FORM"
+   ]
+  },
+  {
+   "id": "460f6634492b",
+   "title": "First Industrial: Favorable Supply Tailwinds Offset Interest Rate Overhang",
+   "link": "https://seekingalpha.com/article/4949334-first-industrial-favorable-supply-tailwinds-offset-interest-rate-overhang?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-24T09:50:07+00:00",
+   "tickers": []
+  },
   {
    "id": "2bfa2aac7a96",
    "title": "EmpCo Directive: Credible Sustainability Claims",
@@ -2293,7 +2337,7 @@
    "link": "https://www.prnewswire.com/news-releases/morgan-stanley-bv--six-months-interim-report-and-financial-statements-for-the-period-ended-30-june-2026-302889013.html",
    "summary": "AMSTERDAM, Sept. 24, 2026 /PRNewswire/ -- Morgan Stanley B.V. hereby announces that the interim report and financial statements for the six months period ended 30 June 2026 as expressed in article 5.25d of the Act on Financial Supervision (\"Wet op het financieel toezicht\") has been made...",
    "article_text": "",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -2596,7 +2640,7 @@
    "link": "https://www.prnewswire.com/news-releases/bairong-ai-rolls-out-marketcapitalizationlinked-equity-incentive-deeply-aligning-longterm-interests-between-key-leader-and-all-shareholders-302889007.html",
    "summary": "BEIJING, Sept. 24, 2026 /PRNewswire/ -- Bairong AI Inc. (HKEX: 6608) recently issued an announcement, announcing the conditional grant of 24,395,000 Share Awards to Mr. Zhang Shaofeng, founder, chairman of the Board and chief executive officer of the Company. Vesting of such Share Awards...",
    "article_text": "",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -8697,48 +8741,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-09-24T06:13:46+00:00",
    "tickers": []
-  },
-  {
-   "id": "55a90de41943",
-   "title": "DFS Furniture reports 48.7% profit growth, cuts debt by £38m",
-   "link": "https://www.investing.com/news/company-news/dfs-furniture-reports-487-profit-growth-cuts-debt-by-38m-93CH-4914469",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-09-24T06:13:27+00:00",
-   "tickers": []
-  },
-  {
-   "id": "2e2cd499d75a",
-   "title": "As 5% Treasury yields lose shock value, investors start worrying about 6%",
-   "link": "https://www.investing.com/news/economy-news/analysisas-5-treasury-yields-lose-shock-value-investors-start-worrying-about-6-4913678",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-24T06:13:12+00:00",
-   "tickers": []
-  },
-  {
-   "id": "911a2567a5f0",
-   "title": "H&M’s operating profit grows more than expected in third quarter",
-   "link": "https://www.investing.com/news/stock-market-news/hms-operating-profit-grows-more-than-expected-in-third-quarter-4914468",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-09-24T06:12:52+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8803,6 +8805,7 @@
   "BA": "The Boeing",
   "CVS": "CVS Health",
   "F": "Ford Motor",
+  "FORM": "FormFactor",
   "GEV": "GE Vernova",
   "STLA": "Stellantis",
   "MSFT": "Office 365",
