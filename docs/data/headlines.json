@@ -1,8 +1,54 @@
 {
- "generated": "2026-09-26T03:21:59.387727+00:00",
+ "generated": "2026-09-26T03:36:22.717382+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "8d462e05040b",
+   "title": "InMode: Hope Is Not An Effective Investment Strategy, But Neither Is Despair",
+   "link": "https://seekingalpha.com/article/4949896-inmode-hope-is-not-an-effective-investment-strategy-but-neither-is-despair?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-26T03:29:11+00:00",
+   "tickers": [
+    "MSTR"
+   ]
+  },
+  {
+   "id": "f325fb3b8086",
+   "title": "ASTS Investors Have Opportunity to Lead AST SpaceMobile, Inc. Securities Fraud Lawsuit",
+   "link": "https://www.prnewswire.com/news-releases/asts-investors-have-opportunity-to-lead-ast-spacemobile-inc-securities-fraud-lawsuit-302890702.html",
+   "summary": "NEW YORK, Sept. 25, 2026 /PRNewswire/ -- Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities of AST SpaceMobile, Inc. (NASDAQ: ASTS) between March 4, 2025 and July 15, 2026, inclusive (the \"Class Period\"), of the important November 13, 2026 lead plaintiff...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "prnewswire.com",
+   "published": "2026-09-26T03:25:00+00:00",
+   "tickers": [
+    "ASTS"
+   ]
+  },
+  {
+   "id": "57656d87de5f",
+   "title": "Soybeans Rally Off Early Lows as Traders Eye Monday Trade Announcement",
+   "link": "https://www.nasdaq.com/articles/soybeans-rally-early-lows-traders-eye-monday-trade-announcement",
+   "summary": "Soybeans came back to close Friday with contracts down 1 ¾ cent in some back months to November’s 1 ½ cent gain. Trade details set to be announced Monday calmed the selling. November saw 15 ½ cent gain on the week. The cmdtyView national average Cash Bean price was up...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-09-26T03:19:07+00:00",
+   "tickers": []
+  },
   {
    "id": "42d326a868f8",
    "title": "BellRing Investor News: Rosen Law Firm Announces Investigation of Breaches of Fiduciary Duties by the Directors and Officers of BellRing Brands, Inc. - BRBR",
@@ -35,20 +81,6 @@
    "tickers": [
     "LNT"
    ]
-  },
-  {
-   "id": "57656d87de5f",
-   "title": "Soybeans Rally Off Early Lows as Traders Eye Monday Trade Announcement",
-   "link": "https://www.nasdaq.com/articles/soybeans-rally-early-lows-traders-eye-monday-trade-announcement",
-   "summary": "Soybeans came back to close Friday with contracts down 1 ¾ cent in some back months to November’s 1 ½ cent gain. Trade details set to be announced Monday calmed the selling. November saw 15 ½ cent gain on the week. The cmdtyView national average Cash Bean price was up...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-09-26T03:12:48+00:00",
-   "tickers": []
   },
   {
    "id": "9af342110135",
@@ -8851,38 +8883,6 @@
    "domain": "sec.gov",
    "published": "2026-09-25T20:50:34+00:00",
    "tickers": []
-  },
-  {
-   "id": "55ef6f887c79",
-   "title": "RegenLab targets Nasdaq listing under ticker RGNA as revenues top $29 million",
-   "link": "https://www.investing.com/news/stock-market-news/regenlab-targets-nasdaq-listing-under-ticker-rgna-as-revenues-top-29-million-4918130",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-09-25T20:50:22+00:00",
-   "tickers": [
-    "NDAQ"
-   ]
-  },
-  {
-   "id": "c6baaba2e6ca",
-   "title": "WisdomTree Emerging Markets ex-State-Owned Enterprises Fund declares quarterly distribution of $0.2150",
-   "link": "https://seekingalpha.com/news/4647338-wisdomtree-emerging-markets-ex-state-owned-enterprises-fund-declares-quarterly-distribution-of-02150?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-25T20:50:19+00:00",
-   "tickers": [
-    "WT"
-   ]
   }
  ],
  "ticker_names": {
@@ -8936,6 +8936,7 @@
   "MNST": "Monster Beverage",
   "NOC": "Northrop Grumman",
   "NVO": "Novo Nordisk A/S",
+  "ASTS": "AST SpaceMobile",
   "BAC": "Bank of America",
   "BRBR": "BellRing Brands",
   "BSY": "Bentley Systems",
