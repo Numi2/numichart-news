@@ -1,8 +1,22 @@
 {
- "generated": "2026-09-26T17:17:45.650418+00:00",
+ "generated": "2026-09-26T17:28:42.073824+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "af0d8e902188",
+   "title": "Social Security checks are projected to be cut by $540 a month in just six years",
+   "link": "https://www.marketwatch.com/story/social-security-checks-are-projected-to-be-cut-by-540-a-month-in-just-six-years-a8842912?mod=mw_rss_topstories",
+   "summary": "Social Security’s future may be even more dire than expected as time is running out to shore up the program’s finances.",
+   "article_text": "",
+   "source": "MarketWatch",
+   "category": "markets",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "marketwatch.com",
+   "published": "2026-09-26T17:15:00+00:00",
+   "tickers": []
+  },
   {
    "id": "8178d05371cc",
    "title": "OpenAI expands review of model behavior after more rogue agent incidents emerge",
@@ -8748,22 +8762,6 @@
    "domain": "biztoc.com",
    "published": "2026-09-26T08:36:55+00:00",
    "tickers": []
-  },
-  {
-   "id": "d8c955e5bd95",
-   "title": "He washed dishes beneath BlackRock’s headquarters, landed his dream job there—then quit to build his family’s restaurant empire",
-   "link": "https://biztoc.com/x/47c89c13494798c6?ref=rss",
-   "summary": "Anthony Scotto III already knows what he wants to do when his rapidly expanding restaurant business finally gives him a moment to breathe: travel to the small Italian island of Ischia and, with a handwritten family address in hand, knock on the door and hope whoever answers doesn’t tell him to get…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-26T08:36:50+00:00",
-   "tickers": [
-    "BLK"
-   ]
   }
  ],
  "ticker_names": {
@@ -8851,7 +8849,6 @@
   "PARA": "Paramount+",
   "AL": "Air Lease",
   "BC": "Brunswick",
-  "BLK": "BlackRock",
   "CRWV": "CoreWeave",
   "SBUX": "Starbucks",
   "NWSA": "News Corp",
