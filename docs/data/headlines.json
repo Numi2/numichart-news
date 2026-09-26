@@ -1,8 +1,36 @@
 {
- "generated": "2026-09-26T08:56:28.978033+00:00",
+ "generated": "2026-09-26T09:05:11.432998+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "261d3910e00a",
+   "title": "This Screw Is Needed for Missiles and Planes. Buying One Can Take Years.",
+   "link": "https://www.nytimes.com/2026/09/26/business/ball-screws-military-production.html",
+   "summary": "As the Trump administration scrambles to increase the production of munitions, these special screws are expensive and hard to source.",
+   "article_text": "",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-09-26T09:01:01+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c820e69dca22",
+   "title": "Iran: We must strengthen resilience",
+   "link": "https://biztoc.com/x/8c91d5fe8388c379?ref=rss",
+   "summary": "Iranian Deputy Defense Minister Reza Talaei-Nik noted on Saturday that the country must recognize its defense vulnerabilities and strengthen its resilience.\"Although the war brought costs and damage t...",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-26T08:51:36+00:00",
+   "tickers": []
+  },
   {
    "id": "79e5063e63ef",
    "title": "M/I Homes Remains A Quality Play In This Rough Market",
@@ -32,6 +60,20 @@
    "tickers": [
     "GTLB"
    ]
+  },
+  {
+   "id": "551330b158d2",
+   "title": "The 2027 Social Security COLA Forecast Just Got an Upgrade: 3 Reasons It's Too Soon to Celebrate",
+   "link": "https://www.nasdaq.com/articles/2027-social-security-cola-forecast-just-got-upgrade-3-reasons-its-too-soon-celebrate",
+   "summary": "Key PointsRetirees may be pleased with the latest update on Social Security's 2027 COLA.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-09-26T08:38:00+00:00",
+   "tickers": []
   },
   {
    "id": "5f503e2af694",
@@ -92,6 +134,23 @@
    "domain": "biztoc.com",
    "published": "2026-09-26T08:36:32+00:00",
    "tickers": []
+  },
+  {
+   "id": "b34f018adc79",
+   "title": "Amazon Has No Dividend. Here's Why Long-Term Investors Should Own It Anyway.",
+   "link": "https://www.nasdaq.com/articles/amazon-has-no-dividend-heres-why-long-term-investors-should-own-it-anyway",
+   "summary": "Key PointsOne of the top dividend-paying stocks, Coca-Cola, lagged the S&P 500 index in the past decade.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-09-26T08:35:00+00:00",
+   "tickers": [
+    "KO",
+    "AMZN"
+   ]
   },
   {
    "id": "134bdbdd585f",
@@ -8802,66 +8861,6 @@
    "domain": "sec.gov",
    "published": "2026-09-25T21:29:41+00:00",
    "tickers": []
-  },
-  {
-   "id": "06bf3a15dbad",
-   "title": "8-K - TIDEWATER INC (0000098222) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/98222/000110465926111052/0001104659-26-111052-index.htm",
-   "summary": "Filed: 2026-09-25 AccNo: 0001104659-26-111052 Size: 323 KB Item 1.01: Entry into a Material Definitive Agreement Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-09-25T21:29:29+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b8645296f192",
-   "title": "8-K - Southland Holdings, Inc. (0001883814) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1883814/000182912626010433/0001829126-26-010433-index.htm",
-   "summary": "Filed: 2026-09-25 AccNo: 0001829126-26-010433 Size: 279 KB Item 3.01: Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-09-25T21:28:51+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d5b39698f36b",
-   "title": "8-K - United States 12 Month Oil Fund, LP (0001405528) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1405528/000207187626000222/0002071876-26-000222-index.htm",
-   "summary": "Filed: 2026-09-25 AccNo: 0002071876-26-000222 Size: 191 KB Item 1.01: Entry into a Material Definitive Agreement",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-09-25T21:28:50+00:00",
-   "tickers": [
-    "USO"
-   ]
-  },
-  {
-   "id": "0183156538c7",
-   "title": "8-K - United States Natural Gas Fund, LP (0001376227) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1376227/000207187626000221/0002071876-26-000221-index.htm",
-   "summary": "Filed: 2026-09-25 AccNo: 0002071876-26-000221 Size: 192 KB Item 1.01: Entry into a Material Definitive Agreement",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-09-25T21:28:41+00:00",
-   "tickers": [
-    "UNG"
-   ]
   }
  ],
  "ticker_names": {
@@ -8888,7 +8887,6 @@
   "HON": "Honeywell International",
   "CF": "CF Industries Holdings",
   "CHTR": "Charter Communications",
-  "USO": "United States Oil Fund",
   "WBD": "Warner Bros. Discovery",
   "DKS": "DICK'S Sporting Goods",
   "PLTR": "Palantir Technologies",
