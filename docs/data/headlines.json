@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-26T07:48:52.694271+00:00",
+ "generated": "2026-09-26T07:55:18.546472+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -78,6 +78,22 @@
    "published": "2026-09-26T07:30:56+00:00",
    "tickers": [
     "SPCX"
+   ]
+  },
+  {
+   "id": "6bcf00d10cc7",
+   "title": "Burger King Is Eating McDonald's Lunch. Here's What the Golden Arches Need to Do Now.",
+   "link": "https://www.nasdaq.com/articles/burger-king-eating-mcdonalds-lunch-heres-what-golden-arches-need-do-now",
+   "summary": "Key PointsMcDonald's stock has fallen approximately 22% this year.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-26T07:25:00+00:00",
+   "tickers": [
+    "MCD"
    ]
   },
   {
@@ -8842,23 +8858,6 @@
    "domain": "biztoc.com",
    "published": "2026-09-25T21:22:47+00:00",
    "tickers": []
-  },
-  {
-   "id": "a01abfbbd61f",
-   "title": "Selling JEPI at a Loss While Reinvesting Its Monthly Check Hands Part of the Tax Loss Back to the IRS",
-   "link": "https://biztoc.com/x/27573da6f86c4f45?ref=rss",
-   "summary": "The post Selling JEPI at a Loss While Reinvesting Its Monthly Check Hands Part of the Tax Loss Back to the IRS appeared first on 24/7 Wall St.. Picture this. It is late December. You sell JPMorgan Equity Premium Income ETF (NYSEARCA:JEPI) at a loss to harvest the deduction, feel good about the tax…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-09-25T21:22:44+00:00",
-   "tickers": [
-    "JEPI",
-    "JIRE"
-   ]
   }
  ],
  "ticker_names": {
@@ -8867,7 +8866,6 @@
   "CEF": "Sprott Physical Gold and Silver Trust Units",
   "DIA": "SPDR Dow Jones Industrial Average ETF",
   "BTC": "Grayscale Bitcoin Mini Trust (BTC)",
-  "JEPI": "JPMorgan Equity Premium Income ETF",
   "TSM": "Taiwan Semiconductor Manufacturing",
   "UNG": "United States Natural Gas Fund LP",
   "DB": "Deutsche Bank Aktiengesellschaft",
