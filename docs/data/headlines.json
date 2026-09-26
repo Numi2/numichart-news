@@ -1,8 +1,39 @@
 {
- "generated": "2026-09-26T13:54:23.346875+00:00",
+ "generated": "2026-09-26T14:01:26.613280+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "6b99cdc0146c",
+   "title": "Star Bulk Carriers: Richer H2 '26 Dividends With De-escalation Of Downside Risks; Reiterate Buy",
+   "link": "https://seekingalpha.com/article/4949923-star-bulk-carriers-richer-h226-dividends-with-de-escalation-downside-risks-reiterate-buy?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "analyst",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-26T13:56:19+00:00",
+   "tickers": []
+  },
+  {
+   "id": "bef43d32f5e2",
+   "title": "Mirum and Incyte gain approval of zilurgisertib for rare bone disorder",
+   "link": "https://seekingalpha.com/news/4647370-mirum-incyte-gain-approval-zilurgisertib-rare-bone-disorder?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "fda",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-26T13:54:08+00:00",
+   "tickers": [
+    "INCY",
+    "MIRM"
+   ]
+  },
   {
    "id": "50ce76b16bc7",
    "title": "Guardian Pharmacy Services: Slowing Growth In H2 2026",
@@ -32,6 +63,20 @@
    "tickers": [
     "BAC"
    ]
+  },
+  {
+   "id": "3d43881df6f7",
+   "title": "China, U.S. agree to $30 billion tariff cut, launch AI dialogue",
+   "link": "https://www.investing.com/news/economy-news/china-us-agree-to-30-billion-tariff-cut-launch-ai-dialogue-4918542",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-09-26T13:41:08+00:00",
+   "tickers": []
   },
   {
    "id": "ff85b88d99b2",
@@ -4180,20 +4225,6 @@
    "sentiment": "neutral",
    "domain": "nasdaq.com",
    "published": "2026-09-26T09:40:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "3d43881df6f7",
-   "title": "China, U.S. agree to $30 billion tariff cut, launch AI dialogue",
-   "link": "https://www.investing.com/news/economy-news/china-us-agree-to-30-billion-tariff-cut-launch-ai-dialogue-4918542",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-09-26T09:37:25+00:00",
    "tickers": []
   },
   {
@@ -8738,36 +8769,6 @@
    "tickers": [
     "ACGL"
    ]
-  },
-  {
-   "id": "5405b66a15e1",
-   "title": "Oil prices slide about 2% as US, Iran explore path out of war",
-   "link": "https://biztoc.com/x/ae693552398f4374?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-09-26T01:37:20+00:00",
-   "tickers": []
-  },
-  {
-   "id": "419ee7b44eaf",
-   "title": "If I Could Only Add 1 ETF to My Portfolio This Year, Here's Exactly What I'd Buy",
-   "link": "https://www.nasdaq.com/articles/if-i-could-only-add-1-etf-my-portfolio-year-heres-exactly-what-id-buy",
-   "summary": "Key PointsThe VanEck Semiconductor ETF has been one of the top ETFs over the last decade.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-09-26T01:35:00+00:00",
-   "tickers": [
-    "SMH"
-   ]
   }
  ],
  "ticker_names": {
@@ -8789,10 +8790,10 @@
   "QQQ": "Invesco QQQ Trust, Series 1",
   "FBIN": "Fortune Brands Innovations",
   "GEHC": "GE HealthCare Technologies",
-  "SMH": "VanEck Semiconductor ETF",
   "ALNY": "Alnylam Pharmaceuticals",
   "GS": "The Goldman Sachs Group",
   "HON": "Honeywell International",
+  "MIRM": "Mirum Pharmaceuticals",
   "PLTR": "Palantir Technologies",
   "CRWD": "CrowdStrike Holdings",
   "PG": "The Procter & Gamble",
@@ -8874,6 +8875,7 @@
   "NFLX": "Netflix",
   "FISV": "Fiserv",
   "GTLB": "GitLab",
+  "INCY": "Incyte",
   "LEN": "Lennar",
   "NDAQ": "Nasdaq",
   "NTRA": "Natera",
