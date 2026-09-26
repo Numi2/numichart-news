@@ -1,8 +1,38 @@
 {
- "generated": "2026-09-26T08:50:08.758497+00:00",
+ "generated": "2026-09-26T08:56:28.978033+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "79e5063e63ef",
+   "title": "M/I Homes Remains A Quality Play In This Rough Market",
+   "link": "https://seekingalpha.com/article/4949930-mi-homes-remains-quality-play-in-this-rough-market?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-26T08:51:26+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e0151e470224",
+   "title": "GitLab: Positioned To Benefit From Software Development Explosion",
+   "link": "https://seekingalpha.com/article/4949929-gitlab-positioned-to-benefit-from-software-development-explosion?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-26T08:49:10+00:00",
+   "tickers": [
+    "GTLB"
+   ]
+  },
   {
    "id": "5f503e2af694",
    "title": "Week Ahead for FX, Bonds: U.S. Jobs Data in Focus as Another Fed Rate Hike Looks Possible",
@@ -8832,36 +8862,6 @@
    "tickers": [
     "UNG"
    ]
-  },
-  {
-   "id": "c6a636e08c45",
-   "title": "8-K - United States Gasoline Fund, LP (0001396878) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1396878/000207187626000220/0002071876-26-000220-index.htm",
-   "summary": "Filed: 2026-09-25 AccNo: 0002071876-26-000220 Size: 189 KB Item 1.01: Entry into a Material Definitive Agreement",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-09-25T21:28:18+00:00",
-   "tickers": []
-  },
-  {
-   "id": "95a761184f2f",
-   "title": "8-K - United States Oil Fund, LP (0001327068) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1327068/000207187626000219/0002071876-26-000219-index.htm",
-   "summary": "Filed: 2026-09-25 AccNo: 0002071876-26-000219 Size: 192 KB Item 1.01: Entry into a Material Definitive Agreement",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-09-25T21:27:58+00:00",
-   "tickers": [
-    "USO"
-   ]
   }
  ],
  "ticker_names": {
@@ -8987,6 +8987,7 @@
   "SNDK": "Sandisk",
   "WMT": "Walmart",
   "ABBV": "AbbVie",
+  "GTLB": "GitLab",
   "LEN": "Lennar",
   "NDAQ": "Nasdaq",
   "NTRA": "Natera",
