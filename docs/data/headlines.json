@@ -1,8 +1,24 @@
 {
- "generated": "2026-09-26T13:41:47.455577+00:00",
+ "generated": "2026-09-26T13:48:37.362364+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "b9e233274b8d",
+   "title": "Bank of America says Nvidia and these other stocks are on sale",
+   "link": "https://www.cnbc.com/2026/09/26/nvidia-and-these-other-stocks-are-on-sale-bank-of-america-says.html",
+   "summary": "Bank of America named several stocks that it said are undervalued.",
+   "article_text": "Nvidia and these other stocks are on sale, Bank of America says Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Bank of America recently named several companies that it said are intriguing buying opportunities. The Wall Street investment bank said that investors should buy any weakness in stocks including Nvidia. Other stocks rated buy at Bank of America and screened by CNBC Pro include: Thor Industries, Lyntris, Natural Grocers by Vitamin Cottage and Dutch Bros. Natural Grocers by Vitamin Cottage The organic and specialty grocer is \"premium quality without the premium price,\" analyst Vicky Liu said in initiating research coverage of the stock with a buy rating. Liu cited multiple catalysts that could send the stock higher, ranging from margin expansion to product affordability and rapid expansion. The bank out a $35 price target on the shares. \"With the stock trading at 13x F27E EPS, we believe the market underestimates NGVC's growth runway & margin potential,\" she said. The stock is more than 5% over the past three months but ahead almost 19% in all of 2026. Dutch Bros Buy the weakness, analyst Sara Senatore said of the coffee chain. \"We think concerns about near term same-store sales hurdles and medium- to longer term competition from other drive through native concepts have weighed disproportionately on valuation,\" she said. The bank said the coffee category is one of the most rapidly growing segments in the restaurant industry. \"The tailwind from an increasing share of consumers reporting past week espresso based beverage consumption (43% in 2025 vs 37% in 2020) should persist,\" Senatore went on. Shares are down 43% in the past three months. Lyntris The connectivity systems defense company is best positioned for rising demand, according to analyst Ronald Epstein. Bank of America was a joint book-running manager for the Lyntris IPO on Aug. 18. \"Sensing strong upside opportunities,\" Epstein wrote in recently initiating research coverage with a buy rating. Bank of America sees \"market tailwinds\" across the company's three main businesses: space, maritime and air defense. \"As a merchant supplier of mission-critical componentry and software, LYNX is well aligned to ramping defense investment across the U.S. and international allie",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-09-26T13:43:15+00:00",
+   "tickers": [
+    "BAC"
+   ]
+  },
   {
    "id": "ff85b88d99b2",
    "title": "WHOOSH, Go Orders at US Manufacturers of “Core Capital Goods,” Fueled by the AI Infrastructure Boom",
@@ -284,6 +300,20 @@
    "sentiment": "neutral",
    "domain": "cnbc.com",
    "published": "2026-09-26T13:30:06+00:00",
+   "tickers": []
+  },
+  {
+   "id": "bac3880697a1",
+   "title": "Many homeowners have a big insurance coverage gap — and don't even know it",
+   "link": "https://www.cnbc.com/2026/09/26/homeowners-insurance-coverage-gap.html",
+   "summary": "Many consumers have a gap in their homeowners insurance coverage. This puts them at financial risk, and they are likely unaware, experts said.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-09-26T13:30:01+00:00",
    "tickers": []
   },
   {
@@ -8738,36 +8768,6 @@
    "domain": "investing.com",
    "published": "2026-09-26T01:30:26+00:00",
    "tickers": []
-  },
-  {
-   "id": "61eb59cae868",
-   "title": "StoneX Initiates Coverage of Origin Bancorp with Hold",
-   "link": "https://www.nasdaq.com/articles/stonex-initiates-coverage-origin-bancorp-hold",
-   "summary": "Fintel reports that on September 25, 2026, StoneX initiated coverage of Origin Bancorp (NYSE:OBK) (DB:36Z) with a Hold recommendation. Origin Bancorp operates in the US market, with financial figures reported in USD.On the day of the coverage initiation, September 25, 2026, the l",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "analyst",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-09-26T01:30:10+00:00",
-   "tickers": [
-    "DB"
-   ]
-  },
-  {
-   "id": "6d0a81f6f1b9",
-   "title": "Cotton Faces Friday Pressure",
-   "link": "https://www.nasdaq.com/articles/cotton-faces-friday-pressure",
-   "summary": "Cotton futures posted mixed trade at the Friday close, with front months down 51 to 60 points and deferreds up 8 to 11 points. December closed the week with a 156 point gain. Crude oil was down $2.17 per barrel on the session, with the US dollar index $0.253 lower....",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-09-26T01:29:04+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8816,6 +8816,7 @@
   "RKT": "Rocket Companies",
   "GE": "General Electric",
   "ASTS": "AST SpaceMobile",
+  "BAC": "Bank of America",
   "BRBR": "BellRing Brands",
   "BSY": "Bentley Systems",
   "DIS": "The Walt Disney",
