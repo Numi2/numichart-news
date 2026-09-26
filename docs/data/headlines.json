@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-26T06:53:26.264911+00:00",
+ "generated": "2026-09-26T07:01:29.676117+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -102,6 +102,37 @@
    "tickers": [
     "AKAM"
    ]
+  },
+  {
+   "id": "6e96ae58c858",
+   "title": "TSMC: The Crown Jewel In The World Of Silicon Is Trading At A Discount Today",
+   "link": "https://seekingalpha.com/article/4949914-tsmc-the-crown-jewel-in-the-world-of-silicon-is-trading-at-a-discount-today?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-26T06:50:01+00:00",
+   "tickers": [
+    "CCK",
+    "TSM"
+   ]
+  },
+  {
+   "id": "921c5d6f491d",
+   "title": "MSTY: A 43% Payout Jump Makes The 100% Distribution Rate Look Tempting",
+   "link": "https://seekingalpha.com/article/4949913-msty-a-43-percent-payout-jump-makes-the-100-percent-distribution-rate-look-tempting?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "macro",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-26T06:49:10+00:00",
+   "tickers": []
   },
   {
    "id": "deecc60caf42",
@@ -8832,38 +8863,6 @@
    "tickers": [
     "NDAQ"
    ]
-  },
-  {
-   "id": "761fb5c60cd5",
-   "title": "Stock Market Today, Sept. 25: Tesla Stock Under Pressure Despite Plans to Ramp Semi Truck Production",
-   "link": "https://www.nasdaq.com/articles/stock-market-today-sept-25-tesla-stock-under-pressure-despite-plans-ramp-semi-truck",
-   "summary": "Tesla (NASDAQ:TSLA), the global electric-vehicle, battery storage, and autonomous driving systems company, closed at $372.11, down 1.54%. Analyst cuts overshadowed plans for Tesla's Semi Truck production ramp. Trading volume reached 44.5 million shares, coming in nearly 14% above",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-09-25T21:17:38+00:00",
-   "tickers": [
-    "TSLA"
-   ]
-  },
-  {
-   "id": "a5569ab4576f",
-   "title": "Walmart chief rules out personalised pricing as AI transforms retail",
-   "link": "https://www.ft.com/content/632e21a3-b889-4423-a1d9-be16b3e680bd?syn-25a6b1a6=1",
-   "summary": "Largest US retailer issues open letter saying it will not use electronic shelf labels to change costs based on shopper identity",
-   "article_text": "",
-   "source": "FT Companies",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "ft.com",
-   "published": "2026-09-25T21:16:49+00:00",
-   "tickers": [
-    "WMT"
-   ]
   }
  ],
  "ticker_names": {
@@ -8873,6 +8872,7 @@
   "DIA": "SPDR Dow Jones Industrial Average ETF",
   "BTC": "Grayscale Bitcoin Mini Trust (BTC)",
   "JEPI": "JPMorgan Equity Premium Income ETF",
+  "TSM": "Taiwan Semiconductor Manufacturing",
   "UNG": "United States Natural Gas Fund LP",
   "DB": "Deutsche Bank Aktiengesellschaft",
   "SCHF": "Schwab International Equity ETF",
@@ -8928,6 +8928,7 @@
   "GPOR": "Gulfport Energy",
   "RRC": "Range Resources",
   "VIK": "Viking Holdings",
+  "CCK": "Crown Holdings",
   "GM": "General Motors",
   "LNT": "Alliant Energy",
   "META": "Meta Platforms",
