@@ -1,8 +1,22 @@
 {
- "generated": "2026-09-26T19:49:17.869947+00:00",
+ "generated": "2026-09-26T19:56:15.666164+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "c8b2a58c3789",
+   "title": "Hurricane Nolo expected to unleash powerful winds, flash flooding on Hawaii",
+   "link": "https://www.cnbc.com/2026/09/26/hurricane-nolo-to-unleash-powerful-winds-flash-flooding-on-hawaii.html",
+   "summary": "Heavy rain and powerful winds are expected to bring flash floods and extreme surf as Hurricane Nolo bears down on areas still recovering from previous storms.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-09-26T19:47:51+00:00",
+   "tickers": []
+  },
   {
    "id": "0b8eb5ad2fe1",
    "title": "Rosen Law Firm Encourages Gildan Activewear Inc. Investors to Inquire About Securities Class Action Investigation - GIL",
@@ -293,6 +307,22 @@
    ]
   },
   {
+   "id": "45e5e0588dc9",
+   "title": "Here's How Oracle's &quot;Force Majeure&quot; Changes the AI Data Center Thesis",
+   "link": "https://www.nasdaq.com/articles/heres-how-oracles-force-majeure-changes-ai-data-center-thesis",
+   "summary": "Key PointsPermits, power, and public protests are three barriers for any company that wants to build data centers.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-26T19:20:00+00:00",
+   "tickers": [
+    "ORCL"
+   ]
+  },
+  {
    "id": "f303bd14e7d6",
    "title": "Sports tech CEO On The Role Of Faith In His Entrepreneurial Journey",
    "link": "https://biztoc.com/x/aa6a8142d138ab58?ref=rss",
@@ -394,6 +424,23 @@
    "domain": "biztoc.com",
    "published": "2026-09-26T19:05:22+00:00",
    "tickers": []
+  },
+  {
+   "id": "69d66359fee0",
+   "title": "VIG's Strange Rule: The Highest-Yielding Dividend Growers Aren't Allowed In",
+   "link": "https://www.nasdaq.com/articles/vigs-strange-rule-highest-yielding-dividend-growers-arent-allowed",
+   "summary": "Key PointsOne of the criticisms of the Vanguard Dividend Appreciation ETF is that it offers a relatively low yield.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-09-26T19:05:00+00:00",
+   "tickers": [
+    "VYMI",
+    "VIG"
+   ]
   },
   {
    "id": "e2b64f594ccd",
@@ -8747,50 +8794,6 @@
    "tickers": [
     "AMZN"
    ]
-  },
-  {
-   "id": "ed0d20c9d6c2",
-   "title": "Meta turned Muse into a viral hit. Now comes the hard part.",
-   "link": "https://www.marketwatch.com/story/meta-turned-muse-into-a-viral-hit-now-comes-the-hard-part-fb3177a8?mod=mw_rss_topstories",
-   "summary": "Meta is quickly racking up downloads for its Muse AI assistant, but the next step for Mark Zuckerberg is getting users to make the agent part of their everyday routines.",
-   "article_text": "",
-   "source": "MarketWatch",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "marketwatch.com",
-   "published": "2026-09-26T11:00:00+00:00",
-   "tickers": [
-    "META"
-   ]
-  },
-  {
-   "id": "9c5279d38d87",
-   "title": "What The AI Investment Boom Means For Bonds",
-   "link": "https://seekingalpha.com/article/4949947-what-the-ai-investment-boom-means-for-bonds?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-26T11:00:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "3a6dd4f38450",
-   "title": "China, U.S. agree to $30 billion tariff cut, AI dialogue during Xi visit, Beijing says",
-   "link": "https://www.cnbc.com/2026/09/26/china-us-tariff-cut-ai-dialogue.html",
-   "summary": "The three-day summit ​between Xi and President Donald Trump, which ended on Friday, showcased personal diplomacy rather than big public breakthroughs.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "cnbc.com",
-   "published": "2026-09-26T10:58:02+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8805,6 +8808,7 @@
   "IBM": "International Business Machines",
   "QSR": "Restaurant Brands International",
   "SCHF": "Schwab International Equity ETF",
+  "VIG": "Vanguard Div Appreciation ETF",
   "WST": "West Pharmaceutical Services",
   "CHH": "Choice Hotels International",
   "QQQ": "Invesco QQQ Trust, Series 1",
