@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-27T19:33:55.010512+00:00",
+ "generated": "2026-09-27T19:41:46.667459+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -88,6 +88,41 @@
    "domain": "biztoc.com",
    "published": "2026-09-27T19:31:37+00:00",
    "tickers": []
+  },
+  {
+   "id": "89c3fe7ac68d",
+   "title": "GUNR: Broad Resource Exposure, But Not My First Choice",
+   "link": "https://seekingalpha.com/article/4950073-gunr-broad-resource-exposure-but-not-my-first-choice?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-27T19:30:30+00:00",
+   "tickers": [
+    "CHH"
+   ]
+  },
+  {
+   "id": "9af342110135",
+   "title": "Stocks Settle Higher as Crude Prices Fall on US-Iran Deal Hopes",
+   "link": "https://www.nasdaq.com/articles/stocks-settle-higher-crude-prices-fall-us-iran-deal-hopes",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed up by +0.51% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up by +0.93%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +0.42%. December E-mini S&P futures (ESZ26 ) rose +0.47%, and December E-mini...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "ma",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-09-27T19:30:16+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
   },
   {
    "id": "9ae26ec9027c",
@@ -1335,25 +1370,6 @@
    "domain": "investing.com",
    "published": "2026-09-27T18:00:58+00:00",
    "tickers": []
-  },
-  {
-   "id": "9af342110135",
-   "title": "Stocks Settle Higher as Crude Prices Fall on US-Iran Deal Hopes",
-   "link": "https://www.nasdaq.com/articles/stocks-settle-higher-crude-prices-fall-us-iran-deal-hopes",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed up by +0.51% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up by +0.93%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +0.42%. December E-mini S&P futures (ESZ26 ) rose +0.47%, and December E-mini...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "ma",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-09-27T17:55:52+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
-   ]
   },
   {
    "id": "a770bda81213",
@@ -8828,20 +8844,6 @@
    "domain": "biztoc.com",
    "published": "2026-09-27T10:47:42+00:00",
    "tickers": []
-  },
-  {
-   "id": "0ccfa476147f",
-   "title": "China Conducts Air-Sea Exercise Near Scarborough Shoal on Sunday",
-   "link": "https://biztoc.com/x/63a9c2af3e66beb8?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-27T10:47:38+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8856,6 +8858,7 @@
   "VIG": "Vanguard Div Appreciation ETF",
   "VTEB": "Vanguard Tax-Exempt Bond ETF",
   "WST": "West Pharmaceutical Services",
+  "CHH": "Choice Hotels International",
   "QQQ": "Invesco QQQ Trust, Series 1",
   "FBIN": "Fortune Brands Innovations",
   "GEHC": "GE HealthCare Technologies",
