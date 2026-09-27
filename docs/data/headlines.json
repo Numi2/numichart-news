@@ -1,8 +1,22 @@
 {
- "generated": "2026-09-27T03:26:42.844695+00:00",
+ "generated": "2026-09-27T03:41:17.409204+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "bd9754fa599a",
+   "title": "Qualcomm CEO Cristiano Amon sells $1.95 million in stock",
+   "link": "https://www.investing.com/news/insider-trading-news/qualcomm-ceo-cristiano-amon-sells-195-million-in-stock-93CH-4918767",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-27T03:30:54+00:00",
+   "tickers": []
+  },
   {
    "id": "c2e2205a9d00",
    "title": "A Storied Indian Business Empire Is Being Torn Apart by Infighting",
@@ -109,6 +123,37 @@
    ]
   },
   {
+   "id": "432d04d8cb98",
+   "title": "Ibotta CEO Bryan Leach sells $625,981 in company shares",
+   "link": "https://www.investing.com/news/insider-trading-news/ibotta-ceo-bryan-leach-sells-625981-in-company-shares-93CH-4918759",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-27T03:16:15+00:00",
+   "tickers": []
+  },
+  {
+   "id": "db76d981b448",
+   "title": "2026 IMS | IASO Bio Presented FUCASO China Real-World Data",
+   "link": "https://www.prnewswire.com/news-releases/2026-ims--iaso-bio-presented-fucaso-china-real-world-data-302890814.html",
+   "summary": "--- In a large China real-world study of 281 heavily pretreated, predominantly high-risk patients with relapsed/refractory plasma cell neoplasms, FUCASO achieved a 95.9% objective response rate, a 77.2% CR/sCR rate, and a 94.1% MRD negativity rate --- with median PFS and OS not yet...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-09-27T03:16:00+00:00",
+   "tickers": [
+    "CR",
+    "OS"
+   ]
+  },
+  {
    "id": "e2133daa763d",
    "title": "Trump says he ended Biden electric vehicle rule, updated fuel economy standards",
    "link": "https://biztoc.com/x/cc32d87523cc207d?ref=rss",
@@ -149,6 +194,22 @@
    "domain": "biztoc.com",
    "published": "2026-09-27T03:04:10+00:00",
    "tickers": []
+  },
+  {
+   "id": "6c4fdd45f21a",
+   "title": "2026 IMS | IASO Bio Presented First-in-Human Data of BCMA-Targeted In Vivo CAR-T Cell Therapy IASO206",
+   "link": "https://www.prnewswire.com/news-releases/2026-ims--iaso-bio-presented-first-in-human-data-of-bcma-targeted-in-vivo-car-t-cell-therapy-iaso206-302890813.html",
+   "summary": "— Late-breaking oral presentation of first-in-human data (LBA-11) showed that a single intravenous infusion of IASO206 generated functional BCMA CAR-T cells in vivo without lymphodepleting chemotherapy. The study demonstrated a 90% objective response rate and a 90% MRD negativity rate in...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-09-27T03:03:00+00:00",
+   "tickers": [
+    "CAR"
+   ]
   },
   {
    "id": "64c69376d7bc",
@@ -297,6 +358,22 @@
    "domain": "nytimes.com",
    "published": "2026-09-27T02:40:41+00:00",
    "tickers": []
+  },
+  {
+   "id": "151c4878329c",
+   "title": "A $1,000 Investment Split Between Alphabet and Nvidia Will Be Worth This Much by 2030",
+   "link": "https://www.nasdaq.com/articles/1000-investment-split-between-alphabet-and-nvidia-will-be-worth-much-2030",
+   "summary": "Key PointsNvidia's GPU sales are projected to skyrocket over the next few years.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-27T02:35:00+00:00",
+   "tickers": [
+    "GOOG"
+   ]
   },
   {
    "id": "1872a5be148e",
@@ -899,7 +976,7 @@
    "link": "https://www.prnewswire.com/news-releases/medimpact-data-breach-edelson-lechtzin-llp-launches-investigation-into-exposure-of-social-security-numbers-and-health-information-302890807.html",
    "summary": "National class action firm Edelson Lechtzin LLP is offering free case evaluations to individuals affected by the MedImpact Healthcare Systems data breach, which may have exposed names, Social Security numbers, and sensitive health information. SAN DIEGO, Sept. 26, 2026 /PRNewswire/ --...",
    "article_text": "",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "legal",
    "sentiment": "negative",
@@ -6694,7 +6771,7 @@
    "link": "https://www.prnewswire.com/news-releases/guillermo-ochoa-est-lambassadeur-dune-nouvelle-campagne-mettant-en-avant-lengagement-de-bcgame-en-faveur-dun-marche-mexicain-reglemente-302890786.html",
    "summary": "Le gardien de but, quintuple vainqueur de la Coupe du monde, explique le processus d'évaluation qui a conduit à ce partenariat, alors que BC.GAME renforce ses activités agréées par la SEGOB, ses canaux de paiement locaux et la rapidité de ses versements aux joueurs mexicains. MEXICO, 26...",
    "article_text": "",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -8745,80 +8822,6 @@
    "tickers": [
     "ORCL"
    ]
-  },
-  {
-   "id": "3006c8ac9b3f",
-   "title": "If You Invest $500 a Month in AMD Starting Now, This is What You’d Have in 2030",
-   "link": "https://biztoc.com/x/700d03d50bff239a?ref=rss",
-   "summary": "The post If You Invest $500 a Month in AMD Starting Now, This is What You’d Have in 2030 appeared first on 24/7 Wall St.. Advanced Micro Devices (NASDAQ:AMD) has become one of the loudest AI stories on Wall Street, with shares changing hands near $614.09 and the company recently touching the $1…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-26T14:06:37+00:00",
-   "tickers": [
-    "AMD"
-   ]
-  },
-  {
-   "id": "31564ac0e322",
-   "title": "$2,500 a Month in Costa Rica: Here’s How to Retire to the Beach at 59 Without Touching Your Savings",
-   "link": "https://biztoc.com/x/e85683e025a6d5b7?ref=rss",
-   "summary": "The post $2,500 a Month in Costa Rica: Here’s How to Retire to the Beach at 59 Without Touching Your Savings appeared first on 24/7 Wall St.. People ask some version of this question all the time: whether they could stop working at 59, move to a Costa Rican beach town, live on about $2,500 a…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-26T14:06:36+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b8879a7e3f77",
-   "title": "Kraken’s parent Payward is betting billions on becoming financial infrastructure, not just a crypto exchange",
-   "link": "https://biztoc.com/x/11803100307a2c85?ref=rss",
-   "summary": "Kraken’s parent Payward is betting billions on becoming financial infrastructure, not just a crypto exchange Kraken parent Payward is unifying trading, payments, asset management and institutional services on common rails, co-CEO Arjun Sethi said. - Payward is unifying trading, banking, asset…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-26T14:06:33+00:00",
-   "tickers": []
-  },
-  {
-   "id": "7c127f02b4ce",
-   "title": "Trump confirms rejection of Iran's Hormuz plan",
-   "link": "https://biztoc.com/x/539370b06852c4db?ref=rss",
-   "summary": "More to come......",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-26T14:06:31+00:00",
-   "tickers": []
-  },
-  {
-   "id": "9aa54c6f1d63",
-   "title": "Set It and Forget It: 1 Dividend ETF Built for Retirees Who Want Rising Income for 30 Years",
-   "link": "https://biztoc.com/x/72861fb376816563?ref=rss",
-   "summary": "The post Set It and Forget It: 1 Dividend ETF Built for Retirees Who Want Rising Income for 30 Years appeared first on 24/7 Wall St.. Retirees need a yield that grows faster than their grocery bill for the next three decades. That is the specific job the Schwab U.S. Dividend Equity ETF…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "dividend",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-09-26T14:06:30+00:00",
-   "tickers": [
-    "SCHF"
-   ]
   }
  ],
  "ticker_names": {
@@ -8852,6 +8855,7 @@
   "NYT": "The New York Times",
   "SPOT": "Spotify Technology",
   "TPL": "Texas Pacific Land",
+  "CAR": "Avis Budget Group",
   "CG": "The Carlyle Group",
   "GIL": "Gildan Activewear",
   "MU": "Micron Technology",
@@ -8911,6 +8915,7 @@
   "BLK": "BlackRock",
   "CME": "CME Group",
   "CRWV": "CoreWeave",
+  "OS": "OneStream",
   "SBUX": "Starbucks",
   "TE": "T1 Energy",
   "NWSA": "News Corp",
@@ -8936,6 +8941,7 @@
   "AFL": "Aflac",
   "AMGN": "Amgen",
   "CIEN": "Ciena",
+  "CR": "Crane",
   "KEX": "Kirby",
   "ONDS": "Ondas",
   "OKLO": "Oklo"
