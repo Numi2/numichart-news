@@ -1,8 +1,41 @@
 {
- "generated": "2026-09-27T20:54:31.812614+00:00",
+ "generated": "2026-09-27T21:01:21.722197+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "9af342110135",
+   "title": "Stocks Settle Higher as Crude Prices Fall on US-Iran Deal Hopes",
+   "link": "https://www.nasdaq.com/articles/stocks-settle-higher-crude-prices-fall-us-iran-deal-hopes",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed up by +0.51% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up by +0.93%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +0.42%. December E-mini S&P futures (ESZ26 ) rose +0.47%, and December E-mini...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "ma",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-09-27T20:56:31+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
+  },
+  {
+   "id": "c272e67c8674",
+   "title": "Soybeans Pulling Off Early Lows as Monday Announcement Calms Selling",
+   "link": "https://www.nasdaq.com/articles/soybeans-pulling-early-lows-monday-announcement-calms-selling",
+   "summary": "Soybeans are rallying nearly 20 cents off the early session lows, with contracts up ½ cent to a penny lower in the nearbys. The cmdtyView national average Cash Bean price was up 1 cent at $12.61. Soymeal futures are down $1.30 to $1.60, with Soy Oil up 12 to 14...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-27T20:56:31+00:00",
+   "tickers": []
+  },
   {
    "id": "ebdec923fb10",
    "title": "Why an AI-fueled jobs crisis is not inevitable",
@@ -305,6 +338,22 @@
    "tickers": []
   },
   {
+   "id": "eed0ee7e1a80",
+   "title": "Hogs Bulls Failing to Follow Through with Friendly Hogs & Pigs Report",
+   "link": "https://www.nasdaq.com/articles/hogs-bulls-failing-follow-through-friendly-hogs-pigs-report",
+   "summary": "Lean hog futures are down 45 to 65 cents at midday. USDA’s national base hog price was $79.19 in the Friday morning report, up 18 cents from the day prior. The CME Lean Hog Index was down another 27 cents on September 23 at $82.20. USDA’s Hogs & Pigs report...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-27T20:33:28+00:00",
+   "tickers": [
+    "CME"
+   ]
+  },
+  {
    "id": "f323235b75f7",
    "title": "Travis Hunter's First NFL Interception Comes on a Massive Play vs Patriots",
    "link": "https://biztoc.com/x/8b13d00bb19c0b47?ref=rss",
@@ -468,41 +517,6 @@
    "domain": "nytimes.com",
    "published": "2026-09-27T20:23:35+00:00",
    "tickers": []
-  },
-  {
-   "id": "9af342110135",
-   "title": "Stocks Settle Higher as Crude Prices Fall on US-Iran Deal Hopes",
-   "link": "https://www.nasdaq.com/articles/stocks-settle-higher-crude-prices-fall-us-iran-deal-hopes",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed up by +0.51% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up by +0.93%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +0.42%. December E-mini S&P futures (ESZ26 ) rose +0.47%, and December E-mini...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "ma",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-09-27T20:23:25+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
-   ]
-  },
-  {
-   "id": "eed0ee7e1a80",
-   "title": "Hogs Bulls Failing to Follow Through with Friendly Hogs & Pigs Report",
-   "link": "https://www.nasdaq.com/articles/hogs-bulls-failing-follow-through-friendly-hogs-pigs-report",
-   "summary": "Lean hog futures are down 45 to 65 cents at midday. USDA’s national base hog price was $79.19 in the Friday morning report, up 18 cents from the day prior. The CME Lean Hog Index was down another 27 cents on September 23 at $82.20. USDA’s Hogs & Pigs report...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-09-27T20:23:25+00:00",
-   "tickers": [
-    "CME"
-   ]
   },
   {
    "id": "9bb72918d647",
@@ -8844,20 +8858,6 @@
    "tickers": [
     "GOOGL"
    ]
-  },
-  {
-   "id": "4c77c9d65da1",
-   "title": "Juniper investment company sells $2.73m of Orthofix Medical shares",
-   "link": "https://www.investing.com/news/insider-trading-news/juniper-investment-company-sells-273m-of-orthofix-medical-shares-93CH-4918965",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-27T11:46:13+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
