@@ -1,8 +1,25 @@
 {
- "generated": "2026-09-27T17:08:22.344382+00:00",
+ "generated": "2026-09-27T17:20:55.675080+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "536bbff6387a",
+   "title": "Key deals this week: Qualcomm, Smurfit Westrock, Capri Holdings, and more",
+   "link": "https://seekingalpha.com/news/4647401-key-deals-this-week-qualcomm-evonik-capri-holdings-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-27T17:14:13+00:00",
+   "tickers": [
+    "SW",
+    "CPRI"
+   ]
+  },
   {
    "id": "a51ff17d8213",
    "title": "What are the bond yield effects on European equities? UBS answers",
@@ -8805,23 +8822,6 @@
    "domain": "investing.com",
    "published": "2026-09-27T08:31:31+00:00",
    "tickers": []
-  },
-  {
-   "id": "fd263efdb6c0",
-   "title": "The Next Phase of Trumpflation Has Arrived, and It's Terrible News for the Federal Reserve and Wall Street",
-   "link": "https://www.nasdaq.com/articles/next-phase-trumpflation-has-arrived-and-its-terrible-news-federal-reserve-and-wall-street",
-   "summary": "Key PointsAlthough the Dow Jones Industrial Average, S&P 500, and Nasdaq Composite have soared under President Donald Trump, persistently elevated inflation threatens these gains.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-09-27T08:26:01+00:00",
-   "tickers": [
-    "NDAQ",
-    "NWSA"
-   ]
   }
  ],
  "ticker_names": {
@@ -8845,6 +8845,7 @@
   "GS": "The Goldman Sachs Group",
   "ADM": "Archer-Daniels-Midland",
   "AMD": "Advanced Micro Devices",
+  "CPRI": "Capri Holdings Limited",
   "MDLZ": "Mondelez International",
   "WMB": "The Williams Companies",
   "DKS": "DICK'S Sporting Goods",
