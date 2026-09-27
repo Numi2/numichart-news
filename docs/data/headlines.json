@@ -1,8 +1,187 @@
 {
- "generated": "2026-09-27T20:21:20.526472+00:00",
+ "generated": "2026-09-27T20:31:54.065822+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "79c8efa188e9",
+   "title": "TV Networks to Resume Trump Coverage, Even as White House Excludes CNN",
+   "link": "https://www.nytimes.com/2026/09/26/business/media/trump-white-house-tv-pool-cnn.html",
+   "summary": "The White House TV pool went dark this past week amid a standoff between CNN and the president. Network leaders, however, believe an indefinite suspension may be untenable.",
+   "article_text": "",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-09-27T20:23:35+00:00",
+   "tickers": []
+  },
+  {
+   "id": "9af342110135",
+   "title": "Stocks Settle Higher as Crude Prices Fall on US-Iran Deal Hopes",
+   "link": "https://www.nasdaq.com/articles/stocks-settle-higher-crude-prices-fall-us-iran-deal-hopes",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed up by +0.51% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up by +0.93%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +0.42%. December E-mini S&P futures (ESZ26 ) rose +0.47%, and December E-mini...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "ma",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-09-27T20:17:05+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
+  },
+  {
+   "id": "eed0ee7e1a80",
+   "title": "Hogs Bulls Failing to Follow Through with Friendly Hogs & Pigs Report",
+   "link": "https://www.nasdaq.com/articles/hogs-bulls-failing-follow-through-friendly-hogs-pigs-report",
+   "summary": "Lean hog futures are down 45 to 65 cents at midday. USDA’s national base hog price was $79.19 in the Friday morning report, up 18 cents from the day prior. The CME Lean Hog Index was down another 27 cents on September 23 at $82.20. USDA’s Hogs & Pigs report...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-27T20:17:05+00:00",
+   "tickers": [
+    "CME"
+   ]
+  },
+  {
+   "id": "9bb72918d647",
+   "title": "Cotton Holding onto Midday Losses on Friday",
+   "link": "https://www.nasdaq.com/articles/cotton-holding-midday-losses-friday",
+   "summary": "Cotton futures are trading with midday losses of 100 to 110 points at midday, with nearby and thin October up 60 points. Crude oil is down $2.55 per barrel on the session, with the US dollar index $0.253 lower. Limited information has been released on what was discussed between US...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-09-27T20:17:04+00:00",
+   "tickers": []
+  },
+  {
+   "id": "65d5f53e290c",
+   "title": "Iran's team in NY has no plans for new talks with US",
+   "link": "https://biztoc.com/x/a750d628d1d2ae35?ref=rss",
+   "summary": "The Iranian delegation in New York attending the annual session of the United Nations General Assembly has no plans for a new round of negotiations with the United States, IRNA reported on Sunday, cit...",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-27T20:16:47+00:00",
+   "tickers": []
+  },
+  {
+   "id": "1c071f9c3f9f",
+   "title": "Halloween Spending Expected to Set Record. Bargain-Hunting Dominates",
+   "link": "https://biztoc.com/x/62a481632d6ba166?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-27T20:16:44+00:00",
+   "tickers": []
+  },
+  {
+   "id": "aaf4dda9a5f7",
+   "title": "Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation",
+   "link": "https://biztoc.com/x/ee35ae4f221e1f9b?ref=rss",
+   "summary": "Two critical vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway that allow remote code execution have been exploited in the wild, Citrix confirmed on September 27. It released fixes for both, along with six other flaws. One of the two affects every deployment on an affected version,…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-09-27T20:16:43+00:00",
+   "tickers": [
+    "ADC"
+   ]
+  },
+  {
+   "id": "cee98adb0e46",
+   "title": "The $450,000 Mistake: Why Dave Ramsey Says Concentration in Company Stock Ruins Retirements",
+   "link": "https://biztoc.com/x/bf992449540a2b7f?ref=rss",
+   "summary": "The post The $450,000 Mistake: Why Dave Ramsey Says Concentration in Company Stock Ruins Retirements appeared first on 24/7 Wall St.. A caller to The Ramsey Show had let a very large share of their savings build up in their own employer’s stock, a position tied to the same company that signed…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-27T20:16:41+00:00",
+   "tickers": [
+    "DAVE"
+   ]
+  },
+  {
+   "id": "c4dc47842137",
+   "title": "I Urge You to Urge Others to Watch the ‘SNL’ Segment About Dario Amodei",
+   "link": "https://biztoc.com/x/8b9f36da517904e9?ref=rss",
+   "summary": "I have nothing against the honorable profession of writing blog posts on Sunday morning about the previous night’s episode of Saturday Night Live. I’ve edited many such blog posts in my time, while generally thinking, deep down, that watching SNL is mostly not worth it. However, if you’re someone…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-27T20:16:28+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e3aa1ccbf636",
+   "title": "Japan Has No Space for Solar Farms Apart From Old Golf Courses",
+   "link": "https://biztoc.com/x/ba8b245c9829e2bf?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-27T20:16:24+00:00",
+   "tickers": []
+  },
+  {
+   "id": "5b63c4c6ea29",
+   "title": "Stock Futures to Begin Trading After Trump Rejects Iran’s Deal",
+   "link": "https://biztoc.com/x/60bbaf8db01f3541?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-27T20:16:18+00:00",
+   "tickers": []
+  },
+  {
+   "id": "24ebf0cd3e73",
+   "title": "The Save America From California Act",
+   "link": "https://biztoc.com/x/1ab0a1e83e2e3c13?ref=rss",
+   "summary": "Senate Republicans could blow a chance to repeal climate coercion.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-27T20:16:17+00:00",
+   "tickers": []
+  },
   {
    "id": "7e1ce92ede22",
    "title": "VRP Vs. PFFV: Now Is The Time To Buy Variable Rate Preferred Stocks",
@@ -437,25 +616,6 @@
    "published": "2026-09-27T19:30:30+00:00",
    "tickers": [
     "CHH"
-   ]
-  },
-  {
-   "id": "9af342110135",
-   "title": "Stocks Settle Higher as Crude Prices Fall on US-Iran Deal Hopes",
-   "link": "https://www.nasdaq.com/articles/stocks-settle-higher-crude-prices-fall-us-iran-deal-hopes",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed up by +0.51% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up by +0.93%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +0.42%. December E-mini S&P futures (ESZ26 ) rose +0.47%, and December E-mini...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "ma",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-09-27T19:30:16+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
    ]
   },
   {
@@ -8680,167 +8840,6 @@
     "FBIN",
     "AAPL"
    ]
-  },
-  {
-   "id": "b4a2f34b5b49",
-   "title": "EY Global Vice Chair: AI’s biggest paradox comes down to what AI can’t do",
-   "link": "https://biztoc.com/x/ed84715a4a1978d0?ref=rss",
-   "summary": "I’ve spent two decades inside a professional services firm where human judgment is foundational to the business model. Clients come to EY not just for analysis, but for the experience, insight, and perspective needed to navigate uncertainty and make better decisions. That is exactly the skill AI…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-27T11:17:48+00:00",
-   "tickers": []
-  },
-  {
-   "id": "27911124053e",
-   "title": "‘China has arrived’: From $1,000 Gucci sneakers to German cars, China is coming for the industries that made Europe rich",
-   "link": "https://biztoc.com/x/f454c358ac49a7e5?ref=rss",
-   "summary": "Gucci built its luxury reputation on Italian craftsmanship, but its newest $1,000 sneakers break with its 105-year-old tradition with a new label: Made in China. But instead of citing the cheap labor long associated with Chinese factories, the fashion house said it picked a Chinese manufacturer…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-27T11:17:48+00:00",
-   "tickers": []
-  },
-  {
-   "id": "833c88b2ef84",
-   "title": "My sister and I started a small business reselling vintage items. Here's what everyone gets wrong about our business",
-   "link": "https://biztoc.com/x/68e36ed20d1df627?ref=rss",
-   "summary": "and her sister run a small business together. Courtesy of Amanda Leigh Lichtenstein My sister and I ruin a small business together, reselling vintage items we find in thrift stores. It's not as simple as it seems because we have to sift through thrift stores and estate sales. I don't worry about…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-27T11:17:47+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6c42d6d97f86",
-   "title": "Burnham’s plan for a radical reset collides with economic reality",
-   "link": "https://biztoc.com/x/024d95150750dbf1?ref=rss",
-   "summary": "Surging energy bills, higher borrowing costs and rising inflation have left the PM and his chancellor in a fiscal bind As Labour heads to Liverpool this week, Andy Burnham has promised to deliver “stability” in the public finances; but the economic backdrop is anything but stable. The longer the…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-27T11:17:47+00:00",
-   "tickers": []
-  },
-  {
-   "id": "35629d3eb597",
-   "title": "Mom Finds WWII Coat While Costume Shopping—Name Inside Sets Her on Mission",
-   "link": "https://biztoc.com/x/2840f70c4d66dfcb?ref=rss",
-   "summary": "A routine trip to look for Halloween costumes took an unexpected turn when a woman in Indiana discovered a coat worn by a soldier during World War II. Zuleika King Rivera was browsing at the St. Vincent de Paul thrift store in Fort Wayne, searching for outfits for her children, when a coat priced…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-27T11:17:47+00:00",
-   "tickers": []
-  },
-  {
-   "id": "a16b54799352",
-   "title": "Trump’s heavy-handed approach to China leaves trade partners with stark choice",
-   "link": "https://biztoc.com/x/3653cfe8a9c68a1d?ref=rss",
-   "summary": "Over the past 18 months, the Trump administration has tried to remake the global trading system in an effort to isolate Beijing and force trade partners to trim ties with China. But when U.S. President Donald Trump met with Chinese President Xi Jinping last week in Washington, it was not as the…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-27T11:17:42+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e08d6b79b08b",
-   "title": "Debt-hungry AI companies face increased risk as bond yields spike",
-   "link": "https://biztoc.com/x/d68c6acdc07010a9?ref=rss",
-   "summary": "With Treasury yields climbing this week to their highest levels since 2007, companies reliant on debt are poised to see their borrowing costs rise. That means the AI infrastructure buildout, which has already reached historic levels, is about to get even more expensive. JPMorgan Chase estimated in…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-27T11:17:40+00:00",
-   "tickers": [
-    "JPM",
-    "JIRE"
-   ]
-  },
-  {
-   "id": "c6ef315b48c5",
-   "title": "Tony Blair would like Andy Burnham to take his advice on rejoining the EU. Should he? | Tom Baldwin",
-   "link": "https://biztoc.com/x/4c56525be71a768e?ref=rss",
-   "summary": "The former PM has been consulted by many who came after him – but Burnham might want to shake his New Labour past once and for all Tony Blair can, apparently, sound slightly wistful when he describes how he once had a cloak-and-dagger meeting with Andy Burnham, who wanted to talk to him about…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-27T11:17:35+00:00",
-   "tickers": []
-  },
-  {
-   "id": "97c403db1f93",
-   "title": "Oscar Health director Vanessa Wittman sells $806,000 in stock",
-   "link": "https://www.investing.com/news/insider-trading-news/oscar-health-director-vanessa-wittman-sells-806000-in-stock-93CH-4918950",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-27T11:16:02+00:00",
-   "tickers": [
-    "OSCR"
-   ]
-  },
-  {
-   "id": "eef5776ac23c",
-   "title": "Upwork chief accounting officer Sabrina Mekhalfa sells $10,977 in shares",
-   "link": "https://www.investing.com/news/insider-trading-news/upwork-chief-accounting-officer-sabrina-mekhalfa-sells-10977-in-shares-93CH-4918949",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-27T11:16:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "1aecd9f58f66",
-   "title": "Upwork GM & COO Anthony Kappus sells $386,471 in UPWK stock on Sept. 18",
-   "link": "https://www.investing.com/news/insider-trading-news/upwork-gm--coo-anthony-kappus-sells-386471-in-upwk-stock-on-sept-18-93CH-4918948",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-09-27T11:15:56+00:00",
-   "tickers": [
-    "GM"
-   ]
   }
  ],
  "ticker_names": {
@@ -8915,7 +8914,7 @@
   "SMR": "NuScale Power",
   "UNP": "Union Pacific",
   "MSTR": "MicroStrategy",
-  "OSCR": "Oscar Health",
+  "ADC": "Agree Realty",
   "SPY": "SPDR S&P 500",
   "UBS": "UBS Group AG",
   "GOOGL": "Google Cloud",
@@ -8933,6 +8932,7 @@
   "QCOM": "Snapdragon",
   "DE": "John Deere",
   "BLK": "BlackRock",
+  "CME": "CME Group",
   "CRWV": "CoreWeave",
   "SBUX": "Starbucks",
   "NWSA": "News Corp",
