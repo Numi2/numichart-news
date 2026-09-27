@@ -1,8 +1,24 @@
 {
- "generated": "2026-09-27T05:44:56.339933+00:00",
+ "generated": "2026-09-27T05:51:46.120793+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "31196f99ee97",
+   "title": "'Funflation' is on the rise as hobbies get pricier, but consumers keep spending anyway",
+   "link": "https://biztoc.com/x/b737ab7004555ab9?ref=rss",
+   "summary": "It's getting more expensive to have fun in America, but consumers are splurging anyway, seeking out experiences ranging from outdoor activities to video games. The Bank of America's latest analysis suggested that \"funflation\" — the increased cost of fun — may be rising, but consumers aren't…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-09-27T05:48:21+00:00",
+   "tickers": [
+    "BAC"
+   ]
+  },
   {
    "id": "d0ef30713efb",
    "title": "Ukraine downs 147 of 170 Russian drones",
@@ -60,6 +76,22 @@
    "domain": "nasdaq.com",
    "published": "2026-09-27T05:22:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "39f9eb815472",
+   "title": "Prediction: This Space Stock Will Outperform SpaceX Over the Next 10 Years",
+   "link": "https://www.nasdaq.com/articles/prediction-space-stock-will-outperform-spacex-over-next-10-years",
+   "summary": "Key PointsRocket Lab has fantastic growth potential, at least the same or better than SpaceX.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-09-27T05:20:00+00:00",
+   "tickers": [
+    "SPCX"
+   ]
   },
   {
    "id": "987fb3bb66d8",
@@ -248,6 +280,20 @@
    "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-09-27T05:01:14+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e2115aebdfe5",
+   "title": "'Funflation' is on the rise as hobbies get pricier, but consumers keep spending anyway",
+   "link": "https://www.cnbc.com/2026/09/27/funflation-consumer-spending-pricier-hobbies.html",
+   "summary": "Consumers are spending more on hobbies like arts and crafts and outdoor sports, as it gets more expensive to travel due to increased airfare.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "cnbc.com",
+   "published": "2026-09-27T05:00:02+00:00",
    "tickers": []
   },
   {
@@ -8744,50 +8790,6 @@
    "domain": "biztoc.com",
    "published": "2026-09-26T15:06:04+00:00",
    "tickers": []
-  },
-  {
-   "id": "e38e7728b195",
-   "title": "The Commercial Real Estate Crash Is Moving From Paper Losses To Realized Losses",
-   "link": "https://biztoc.com/x/f7eff838f4c81b7f?ref=rss",
-   "summary": "The Commercial Real Estate Crash Is Moving From Paper Losses To Realized Losses The great commercial real estate waiting game may finally be running out of time, according to Bloomberg. For years after Covid fundamentally changed how Americans use office space, lenders and property owners…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-09-26T15:06:03+00:00",
-   "tickers": []
-  },
-  {
-   "id": "3deae9fb0015",
-   "title": "The Opportunity Behind AST SpaceMobile Stock Is Hard to Ignore",
-   "link": "https://biztoc.com/x/fa8ea7be22d9759e?ref=rss",
-   "summary": "The post The Opportunity Behind AST SpaceMobile Stock Is Hard to Ignore appeared first on 24/7 Wall St.. My AST SpaceMobile (NASDAQ:ASTS) call is straightforward: the stock trades at $62.24, and the 24/7 Wall St. price target sits at $89.40, implying 44.08% upside over the next 12 months. That is…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-26T15:05:59+00:00",
-   "tickers": [
-    "ASTS"
-   ]
-  },
-  {
-   "id": "2cd4a14f468d",
-   "title": "Court Rulings Throw a Loop Into Braskem's Double Debt Rework",
-   "link": "https://biztoc.com/x/f3b5baa208288e6f?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-26T15:05:53+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8827,6 +8829,7 @@
   "JPM": "JPMorgan Chase &",
   "MEDP": "Medpace Holdings",
   "ASTS": "AST SpaceMobile",
+  "BAC": "Bank of America",
   "BSY": "Bentley Systems",
   "COIN": "Coinbase Global",
   "CORZ": "Core Scientific",
