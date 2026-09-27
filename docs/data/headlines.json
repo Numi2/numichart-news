@@ -1,8 +1,36 @@
 {
- "generated": "2026-09-27T14:42:09.778405+00:00",
+ "generated": "2026-09-27T14:48:36.068339+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "2d5fcb4d3b48",
+   "title": "AI-driven stock swings revive hedge fund interest in dispersion trades",
+   "link": "https://seekingalpha.com/news/4647395-ai-driven-stock-swings-revive-hedge-fund-interest-in-dispersion-trades?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-27T14:43:43+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b0d804fa722f",
+   "title": "Federal Agricultural Mortgage: Locking In 7.28% With Preferred Shares",
+   "link": "https://seekingalpha.com/article/4949860-federal-agricultural-mortgage-locking-in-7-percent-preferred-shares?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-27T14:40:00+00:00",
+   "tickers": []
+  },
   {
    "id": "d937f9a340df",
    "title": "IBM: Buy The Reset, Not The Growth Story (Rating Upgrade)",
@@ -36,6 +64,22 @@
     "NDAQ",
     "SPY",
     "DIA"
+   ]
+  },
+  {
+   "id": "124b2bb91fa4",
+   "title": "Meta's Muse agent is attacking one of the economy's most profitable weak spots",
+   "link": "https://www.cnbc.com/2026/09/27/meta-muse-ai-personal-agent.html",
+   "summary": "Meta's Muse AI personal agent will work over your credit card spending if you don't mind the invasion. How big a threat is it to the subscription economy?",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-09-27T14:33:22+00:00",
+   "tickers": [
+    "META"
    ]
   },
   {
@@ -314,6 +358,20 @@
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
    "published": "2026-09-27T14:20:52+00:00",
+   "tickers": []
+  },
+  {
+   "id": "4cdec502fe13",
+   "title": "Trump: Oil prices will plummet after war ends ‘very soon’",
+   "link": "https://www.investing.com/news/economy-news/iran-says-it-wont-soften-hormuz-demands-after-trump-rejects-proposal-4918887",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-27T14:20:18+00:00",
    "tickers": []
   },
   {
@@ -6273,20 +6331,6 @@
    ]
   },
   {
-   "id": "4cdec502fe13",
-   "title": "Iran says it won’t soften Hormuz demands after Trump rejects proposal",
-   "link": "https://www.investing.com/news/economy-news/iran-says-it-wont-soften-hormuz-demands-after-trump-rejects-proposal-4918887",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-09-27T08:51:14+00:00",
-   "tickers": []
-  },
-  {
    "id": "e6bdfa90e655",
    "title": "Kadant: Razor-And-Blades Model Behind EBITDA At Its New High",
    "link": "https://seekingalpha.com/article/4950017-kadant-razor-and-blades-model-behind-ebitda-at-its-new-high?source=feed_all_articles",
@@ -8753,50 +8797,6 @@
    "domain": "ft.com",
    "published": "2026-09-27T04:00:11+00:00",
    "tickers": []
-  },
-  {
-   "id": "a7367baa13a1",
-   "title": "Politics And The Markets 09/27/26",
-   "link": "https://seekingalpha.com/article/4941679-politics-and-the-markets-092726?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-27T04:00:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b5a31650821e",
-   "title": "Alliant Energy: Growing Demand Still Has To Earn Its Cost Of Capital",
-   "link": "https://seekingalpha.com/article/4950001-alliant-energy-growing-demand-still-has-to-earn-its-cost-of-capital?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-27T03:59:00+00:00",
-   "tickers": [
-    "LNT"
-   ]
-  },
-  {
-   "id": "84a7f7f0cb8b",
-   "title": "Envision Energy uvádza na trh pevninskú veternú turbínu Model T - EN175/8.0, ktorá zlepšuje optimalizáciu celej elektrárne a zvyšuje hodnotu životného cyklu budúcich energetických systémov",
-   "link": "https://www.prnewswire.com/news-releases/envision-energy-uvadza-na-trh-pevninsku-veternu-turbinu-model-t--en1758-0--ktora-zlepuje-optimalizaciu-celej-elektrarne-a-zvyuje-hodnotu-ivotneho-cyklu-buducich-energetickych-systemov-302890816.html",
-   "summary": "HAMBURG, Nemecko, 27. septembra 2026 /PRNewswire/ -- Spoločnosť Envision Energy, globálny líder v oblasti zelených technológií, dnes na veľtrhu WindEnergy Hamburg predstavila Model T – EN175/8.0, inteligentnú pevninskú veternú turbínu s výkonom 8 MW a rotorom s priemerom 175 metrov. Nová...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-09-27T03:50:00+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8862,7 +8862,6 @@
   "GM": "General Motors",
   "IR": "Ingersoll Rand",
   "LBRT": "Liberty Energy",
-  "LNT": "Alliant Energy",
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
   "JOBY": "Joby Aviation",
