@@ -1,8 +1,68 @@
 {
- "generated": "2026-09-27T21:29:22.117765+00:00",
+ "generated": "2026-09-27T21:39:11.620302+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "a9fcac3e8561",
+   "title": "IDT Corporation Q4 2026 Earnings Preview",
+   "link": "https://seekingalpha.com/news/4647262-idt-corporation-q4-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-27T21:35:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a5d4bba788a3",
+   "title": "Jefferies Financial Group Q3 2026 Earnings Preview",
+   "link": "https://seekingalpha.com/news/4647263-jefferies-financial-group-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-27T21:35:00+00:00",
+   "tickers": [
+    "JEF"
+   ]
+  },
+  {
+   "id": "50c2f9585bd8",
+   "title": "Vail Resorts Q4 2026 Earnings Preview",
+   "link": "https://seekingalpha.com/news/4647264-vail-resorts-q4-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-27T21:35:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e0433bf16979",
+   "title": "3 Simple Reasons I'd Rather Own Nvidia Than SpaceX",
+   "link": "https://www.nasdaq.com/articles/3-simple-reasons-id-rather-own-nvidia-spacex",
+   "summary": "Key PointsNvidia trades at a much better valuation than SpaceX.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-27T21:27:01+00:00",
+   "tickers": [
+    "SPCX"
+   ]
+  },
   {
    "id": "ce7acd9a2844",
    "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
@@ -190,6 +250,55 @@
    "domain": "biztoc.com",
    "published": "2026-09-27T21:15:42+00:00",
    "tickers": []
+  },
+  {
+   "id": "9af342110135",
+   "title": "Stocks Settle Higher as Crude Prices Fall on US-Iran Deal Hopes",
+   "link": "https://www.nasdaq.com/articles/stocks-settle-higher-crude-prices-fall-us-iran-deal-hopes",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed up by +0.51% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up by +0.93%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +0.42%. December E-mini S&P futures (ESZ26 ) rose +0.47%, and December E-mini...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "ma",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-09-27T21:10:04+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
+  },
+  {
+   "id": "c272e67c8674",
+   "title": "Soybeans Pulling Off Early Lows as Monday Announcement Calms Selling",
+   "link": "https://www.nasdaq.com/articles/soybeans-pulling-early-lows-monday-announcement-calms-selling",
+   "summary": "Soybeans are rallying nearly 20 cents off the early session lows, with contracts up ½ cent to a penny lower in the nearbys. The cmdtyView national average Cash Bean price was up 1 cent at $12.61. Soymeal futures are down $1.30 to $1.60, with Soy Oil up 12 to 14...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-27T21:10:03+00:00",
+   "tickers": []
+  },
+  {
+   "id": "eed0ee7e1a80",
+   "title": "Hogs Bulls Failing to Follow Through with Friendly Hogs & Pigs Report",
+   "link": "https://www.nasdaq.com/articles/hogs-bulls-failing-follow-through-friendly-hogs-pigs-report",
+   "summary": "Lean hog futures are down 45 to 65 cents at midday. USDA’s national base hog price was $79.19 in the Friday morning report, up 18 cents from the day prior. The CME Lean Hog Index was down another 27 cents on September 23 at $82.20. USDA’s Hogs & Pigs report...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-27T21:10:03+00:00",
+   "tickers": [
+    "CME"
+   ]
   },
   {
    "id": "15a2da0fa3db",
@@ -484,39 +593,6 @@
    "tickers": [
     "UBS"
    ]
-  },
-  {
-   "id": "9af342110135",
-   "title": "Stocks Settle Higher as Crude Prices Fall on US-Iran Deal Hopes",
-   "link": "https://www.nasdaq.com/articles/stocks-settle-higher-crude-prices-fall-us-iran-deal-hopes",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed up by +0.51% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up by +0.93%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +0.42%. December E-mini S&P futures (ESZ26 ) rose +0.47%, and December E-mini...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "ma",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-09-27T20:56:31+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
-   ]
-  },
-  {
-   "id": "c272e67c8674",
-   "title": "Soybeans Pulling Off Early Lows as Monday Announcement Calms Selling",
-   "link": "https://www.nasdaq.com/articles/soybeans-pulling-early-lows-monday-announcement-calms-selling",
-   "summary": "Soybeans are rallying nearly 20 cents off the early session lows, with contracts up ½ cent to a penny lower in the nearbys. The cmdtyView national average Cash Bean price was up 1 cent at $12.61. Soymeal futures are down $1.30 to $1.60, with Soy Oil up 12 to 14...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-09-27T20:56:31+00:00",
-   "tickers": []
   },
   {
    "id": "dc0d8ffb859b",
@@ -850,22 +926,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-09-27T20:37:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "eed0ee7e1a80",
-   "title": "Hogs Bulls Failing to Follow Through with Friendly Hogs & Pigs Report",
-   "link": "https://www.nasdaq.com/articles/hogs-bulls-failing-follow-through-friendly-hogs-pigs-report",
-   "summary": "Lean hog futures are down 45 to 65 cents at midday. USDA’s national base hog price was $79.19 in the Friday morning report, up 18 cents from the day prior. The CME Lean Hog Index was down another 27 cents on September 23 at $82.20. USDA’s Hogs & Pigs report...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-09-27T20:33:28+00:00",
-   "tickers": [
-    "CME"
-   ]
   },
   {
    "id": "f323235b75f7",
@@ -8795,62 +8855,6 @@
    "tickers": [
     "IVZ"
    ]
-  },
-  {
-   "id": "9b0f6b33c835",
-   "title": "Googlebooks might be the real deal",
-   "link": "https://biztoc.com/x/a7c1f37ca2eedcc1?ref=rss",
-   "summary": "Hi, friends! Welcome to Installer No. 145, your guide to the best and Verge-iest stuff in the world. (If you’re new here, welcome, I’m happy to be done traveling for a bit, and also you can read all the old editions at the Installer homepage.) Googlebooks might be the real deal Plus, in this…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-27T12:02:46+00:00",
-   "tickers": []
-  },
-  {
-   "id": "779927c9c894",
-   "title": "Gaza death toll rises to 74,018",
-   "link": "https://biztoc.com/x/8e016b97e48e9dbe?ref=rss",
-   "summary": "The number of Palestinians killed in Gaza since the restart of Hamas' armed conflict with Israel in October 2023 has risen to at least 74,018, with 175,079 people wounded, the enclave's Health Ministr...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-09-27T12:02:46+00:00",
-   "tickers": []
-  },
-  {
-   "id": "57d0afc12235",
-   "title": "I moved countries for love in my late 40s. I had to rebuild my career, friendships, and identity",
-   "link": "https://biztoc.com/x/59f7887c0f58dba7?ref=rss",
-   "summary": "The author moved after being long distance. Courtesy of the author I moved from India to Austria for my partner in my late 40s. I left an established career, close friendships, and a life I'd spent decades building. Starting over taught me that reinvention is possible at any age. I was in a…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-27T12:02:39+00:00",
-   "tickers": []
-  },
-  {
-   "id": "47dad55ecf76",
-   "title": "Trump and Xi Are the Only VIPs That Matter",
-   "link": "https://biztoc.com/x/cd0f81c940a907f0?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-27T12:02:32+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8871,6 +8875,7 @@
   "CHH": "Choice Hotels International",
   "QQQ": "Invesco QQQ Trust, Series 1",
   "ICE": "Intercontinental Exchange",
+  "JEF": "Jefferies Financial Group",
   "PFG": "Principal Financial Group",
   "APO": "Apollo Global Management",
   "GS": "The Goldman Sachs Group",
