@@ -1,8 +1,38 @@
 {
- "generated": "2026-09-27T07:24:42.075887+00:00",
+ "generated": "2026-09-27T07:35:35.416128+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "84f7559bb2f7",
+   "title": "The Kurdish peace deal reshaping Turkey",
+   "link": "https://biztoc.com/x/2f36a438cf0f6178?ref=rss",
+   "summary": "Bullet holes riddle the walls near Turan Rapsur's shuttered bakery – a reminder of the deadly violence that broke out last time ...",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-27T07:29:06+00:00",
+   "tickers": []
+  },
+  {
+   "id": "08b081a8074d",
+   "title": "In Germany, Volkswagen hinders gas-car shift as entry-level EVs overtake ICE orders",
+   "link": "https://biztoc.com/x/5602b8252d757976?ref=rss",
+   "summary": "After years of automakers trying to crack the affordable EV market, Volkswagen is now facing a different conundrum: demand for its lower-cost electric models is strong enough that it is scaling back gas car production in Germany. The reversal stood out most in Volkswagen's home market, where new…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-09-27T07:24:06+00:00",
+   "tickers": [
+    "ICE"
+   ]
+  },
   {
    "id": "715a58fcd50d",
    "title": "Kunst am Wasser: Das 4. Internationale Kanal-Kunst- -Festival in Peking beginnt in Tongzhou",
@@ -90,6 +120,20 @@
    "tickers": [
     "POST"
    ]
+  },
+  {
+   "id": "d0c80115ee31",
+   "title": "Horizon Kinetics Asset Management, RENN Fund 10% owner, buys $2,305",
+   "link": "https://www.investing.com/news/insider-trading-news/horizon-kinetics-asset-management-renn-fund-10-owner-buys-2305-93CH-4918848",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-27T07:15:58+00:00",
+   "tickers": []
   },
   {
    "id": "dc056810bb6f",
@@ -206,6 +250,34 @@
    "tickers": [
     "UBS"
    ]
+  },
+  {
+   "id": "5b5f9ee08937",
+   "title": "Nwpx infrastructure CFO Aaron Wilkins sells $2,038 in company stock",
+   "link": "https://www.investing.com/news/insider-trading-news/nwpx-infrastructure-cfo-aaron-wilkins-sells-2038-in-company-stock-93CH-4918844",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-27T07:01:28+00:00",
+   "tickers": []
+  },
+  {
+   "id": "27b9a7517167",
+   "title": "Nwpx director Keith Larson sells $102,310 in company stock",
+   "link": "https://www.investing.com/news/insider-trading-news/nwpx-director-keith-larson-sells-102310-in-company-stock-93CH-4918843",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-27T07:01:13+00:00",
+   "tickers": []
   },
   {
    "id": "ddf242380602",
@@ -8717,76 +8789,6 @@
    "sentiment": "positive",
    "domain": "biztoc.com",
    "published": "2026-09-26T15:50:52+00:00",
-   "tickers": []
-  },
-  {
-   "id": "bb20ea912546",
-   "title": "CNN barred from travelling with Trump on Air Force One on Saturday",
-   "link": "https://seekingalpha.com/news/4647373-cnn-barred-travelling-trump-air-force-one-saturday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-26T15:50:04+00:00",
-   "tickers": []
-  },
-  {
-   "id": "73118bf84a91",
-   "title": "Diversifying A Momentum-Driven Market",
-   "link": "https://seekingalpha.com/article/4949988-diversifying-momentum-driven-market?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-26T15:50:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "fdf153f80d59",
-   "title": "The 3 &quot;Magnificent Seven&quot; Stocks That I'm Buying Now",
-   "link": "https://www.nasdaq.com/articles/3-magnificent-seven-stocks-im-buying-now",
-   "summary": "Key PointsNvidia's stock could double over the next year if it just meets expectations.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-09-26T15:50:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "27b72f47856a",
-   "title": "Tax-free bond yields are in a sweet spot. Get in before it’s too late.",
-   "link": "https://www.marketwatch.com/story/tax-free-bond-yields-are-in-a-sweet-spot-get-in-before-its-too-late-94b8adac?mod=mw_rss_topstories",
-   "summary": "Yields on municipal bonds — adjusted for taxable-equivalent comparisons — have widened dramatically over those of corporate bonds over the past two months.",
-   "article_text": "",
-   "source": "MarketWatch",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "marketwatch.com",
-   "published": "2026-09-26T15:48:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "881a009d79c8",
-   "title": "Manchester City rule breaches — potential punishments, appeals and next steps",
-   "link": "https://www.ft.com/content/88e06322-9910-4675-8f7c-5e884cc0ad2d?syn-25a6b1a6=1",
-   "summary": "The case could run for several years, legal experts warn",
-   "article_text": "",
-   "source": "FT Companies",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "ft.com",
-   "published": "2026-09-26T15:45:26+00:00",
    "tickers": []
   }
  ],
