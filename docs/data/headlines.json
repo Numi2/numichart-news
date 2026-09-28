@@ -1,8 +1,38 @@
 {
- "generated": "2026-09-28T22:32:41.859106+00:00",
+ "generated": "2026-09-28T22:42:07.894048+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "0c22688dfe1c",
+   "title": "OpenAI abandons plan to release upcoming model as safety concerns escalate",
+   "link": "https://www.cnbc.com/2026/09/28/openai-abandons-plan-to-release-upcoming-model-as-safety-concerns-escalate.html",
+   "summary": "",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-09-28T22:37:47+00:00",
+   "tickers": []
+  },
+  {
+   "id": "070c85411747",
+   "title": "Brixmor Property Group Inc. (BRX) Everview Partners, L.P., Slate Grocery REIT - M&A Call - Slideshow",
+   "link": "https://seekingalpha.com/article/4950413-brixmor-property-group-inc-brx-everview-partners-l-p-slate-grocery-reit-m-and-a-call?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-09-28T22:31:03+00:00",
+   "tickers": [
+    "BRX"
+   ]
+  },
   {
    "id": "890d47d23c51",
    "title": "Galaxy Gaming's MONOPOLY Table Games Progressive Named Product Innovation of the Year at Global Gaming Awards Americas 2026",
@@ -346,6 +376,55 @@
    "tickers": []
   },
   {
+   "id": "2a25f820ae49",
+   "title": "Nat-Gas Prices Fall as Force Majeure Lifted on Appalachian Pipeline",
+   "link": "https://www.nasdaq.com/articles/nat-gas-prices-fall-force-majeure-lifted-appalachian-pipeline",
+   "summary": "October Nymex natural gas (NGV26 ) on Monday closed down -0.196 (-6.13%). Nat-gas prices settled sharply lower on Monday after a force majeure was lifted on a gas pipeline in West Virginia, reducing fears of a prolonged outage. TC Energy on Sunday notified customers that the force majeure on the...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-09-28T22:24:35+00:00",
+   "tickers": [
+    "TRP",
+    "WST"
+   ]
+  },
+  {
+   "id": "ca98903f7e7e",
+   "title": "Cattle Slipping Back to Start the Week",
+   "link": "https://www.nasdaq.com/articles/cattle-slipping-back-start-week",
+   "summary": "Live cattle futures are showing modest losses of 85 cents to $1.15 at midday. Cash trade was reported at $345-350 dressed in the North, with $222-223 live sales. Feeder cattle futures are falling $1.60 to $2.35 on Monday. The CME Feeder Cattle Index was $1.72 on September 24 to $338.79....",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-28T22:24:34+00:00",
+   "tickers": [
+    "CME"
+   ]
+  },
+  {
+   "id": "6a861b52b03b",
+   "title": "Hogs Showing Steadier Trade on Monday",
+   "link": "https://www.nasdaq.com/articles/hogs-showing-steadier-trade-monday",
+   "summary": "Lean hog futures are up 50 cents to 22 cents lower on Monday, showing mixed trade. USDA’s national base hog price was not reported on Monday morning due to thin volume. The CME Lean Hog Index was down another 44 cents on September 24 at $81.76. Managed money extended their...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-28T22:24:34+00:00",
+   "tickers": [
+    "CME"
+   ]
+  },
+  {
    "id": "c4d7bf8f708e",
    "title": "American Infrastructure Alliance Launches First Nationwide Partnership Between Labor &amp; Business to Advance Responsible Data Center Infrastructure Growth",
    "link": "https://www.prnewswire.com/news-releases/american-infrastructure-alliance-launches-first-nationwide-partnership-between-labor--business-to-advance-responsible-data-center-infrastructure-growth-302892027.html",
@@ -371,6 +450,20 @@
    "sentiment": "negative",
    "domain": "prnewswire.com",
    "published": "2026-09-28T22:24:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e9b31d6781dc",
+   "title": "Stock futures are little changed after higher yields lead to losing session: Live updates",
+   "link": "https://www.cnbc.com/2026/09/28/stock-market-today-live-updates.html",
+   "summary": "Higher Treasury yields dragged stocks lower to start the week.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-09-28T22:22:17+00:00",
    "tickers": []
   },
   {
@@ -810,23 +903,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-09-28T22:07:22+00:00",
    "tickers": []
-  },
-  {
-   "id": "2a25f820ae49",
-   "title": "Nat-Gas Prices Fall as Force Majeure Lifted on Appalachian Pipeline",
-   "link": "https://www.nasdaq.com/articles/nat-gas-prices-fall-force-majeure-lifted-appalachian-pipeline",
-   "summary": "October Nymex natural gas (NGV26 ) on Monday closed down -0.196 (-6.13%). Nat-gas prices settled sharply lower on Monday after a force majeure was lifted on a gas pipeline in West Virginia, reducing fears of a prolonged outage. TC Energy on Sunday notified customers that the force majeure on the...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-09-28T22:05:59+00:00",
-   "tickers": [
-    "TRP",
-    "WST"
-   ]
   },
   {
    "id": "42b534007e15",
@@ -7278,38 +7354,6 @@
    "tickers": []
   },
   {
-   "id": "ca98903f7e7e",
-   "title": "Cattle Slipping Back to Start the Week",
-   "link": "https://www.nasdaq.com/articles/cattle-slipping-back-start-week",
-   "summary": "Live cattle futures are showing modest losses of 85 cents to $1.15 at midday. Cash trade was reported at $345-350 dressed in the North, with $222-223 live sales. Feeder cattle futures are falling $1.60 to $2.35 on Monday. The CME Feeder Cattle Index was $1.72 on September 24 to $338.79....",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-09-28T20:21:13+00:00",
-   "tickers": [
-    "CME"
-   ]
-  },
-  {
-   "id": "6a861b52b03b",
-   "title": "Hogs Showing Steadier Trade on Monday",
-   "link": "https://www.nasdaq.com/articles/hogs-showing-steadier-trade-monday",
-   "summary": "Lean hog futures are up 50 cents to 22 cents lower on Monday, showing mixed trade. USDA’s national base hog price was not reported on Monday morning due to thin volume. The CME Lean Hog Index was down another 44 cents on September 24 at $81.76. Managed money extended their...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-09-28T20:21:12+00:00",
-   "tickers": [
-    "CME"
-   ]
-  },
-  {
    "id": "1e0926d65dbe",
    "title": "Wheat Facing Early Monday Losses",
    "link": "https://www.nasdaq.com/articles/wheat-facing-early-monday-losses",
@@ -8846,54 +8890,6 @@
    "domain": "cnbc.com",
    "published": "2026-09-28T20:05:55+00:00",
    "tickers": []
-  },
-  {
-   "id": "3e840a97e600",
-   "title": "Notable Two Hundred Day Moving Average Cross - CLF",
-   "link": "https://www.nasdaq.com/articles/notable-two-hundred-day-moving-average-cross-clf",
-   "summary": "In trading on Monday, shares of Cleveland-Cliffs Inc (Symbol: CLF) crossed below their 200 day moving average of $11.42, changing hands as low as $11.00 per share. Cleveland-Cliffs Inc shares are currently trading down about 8.9% on the day. The chart below shows the one year",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-09-28T20:05:52+00:00",
-   "tickers": [
-    "CLF"
-   ]
-  },
-  {
-   "id": "f409a899584e",
-   "title": "Relative Strength Alert For Cincinnati Financial",
-   "link": "https://www.nasdaq.com/articles/relative-strength-alert-cincinnati-financial",
-   "summary": "The DividendRank formula at Dividend Channel ranks a coverage universe of thousands of dividend stocks, according to a proprietary formula designed to identify those stocks that combine two important characteristics — strong fundamentals and a valuation that looks inexpensive.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-09-28T20:05:49+00:00",
-   "tickers": [
-    "CINF"
-   ]
-  },
-  {
-   "id": "c17a829b12f9",
-   "title": "iShares Global Materials (MXI) Shares Cross Below 200 DMA",
-   "link": "https://www.nasdaq.com/articles/ishares-global-materials-mxi-shares-cross-below-200-dma",
-   "summary": "In trading on Monday, shares of the iShares Global Materials ETF (Symbol: MXI) crossed below their 200 day moving average of $108.23, changing hands as low as $107.49 per share. iShares Global Materials shares are currently trading off about 1.1% on the day. The chart below sh",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-09-28T20:05:44+00:00",
-   "tickers": [
-    "IAGG"
-   ]
   }
  ],
  "ticker_names": {
@@ -8924,9 +8920,9 @@
   "GS": "The Goldman Sachs Group",
   "HON": "Honeywell International",
   "AMD": "Advanced Micro Devices",
+  "BRX": "Brixmor Property Group",
   "NVTS": "Navitas Semiconductor",
   "AWK": "American Water Works",
-  "CINF": "Cincinnati Financial",
   "MANH": "Manhattan Associates",
   "SMCI": "Super Micro Computer",
   "STZ": "Constellation Brands",
