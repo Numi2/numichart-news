@@ -1,8 +1,22 @@
 {
- "generated": "2026-09-28T23:49:49.754287+00:00",
+ "generated": "2026-09-28T23:56:16.163857+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "e9b31d6781dc",
+   "title": "Stock futures are little changed after higher yields lead to losing session: Live updates",
+   "link": "https://www.cnbc.com/2026/09/28/stock-market-today-live-updates.html",
+   "summary": "Higher Treasury yields dragged stocks lower to start the week.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-09-28T23:48:58+00:00",
+   "tickers": []
+  },
   {
    "id": "8d43712763c4",
    "title": "Energy Income Fund Announces Annual Redemption of up to 253,384 Units",
@@ -378,6 +392,20 @@
    "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-09-28T23:37:59+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f8965d835084",
+   "title": "Guggenheim Initiates Coverage of Korsana Biosciences with Buy",
+   "link": "https://www.nasdaq.com/articles/guggenheim-initiates-coverage-korsana-biosciences-buy",
+   "summary": "Fintel reports that on September 28, 2026, Guggenheim initiated coverage of Korsana Biosciences (NASDAQCM:KRSA) with a Buy recommendation. This rating action on September 28, 2026, represents a new coverage initiation by the analyst firm.In the market session corresponding to the",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "analyst",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-28T23:37:12+00:00",
    "tickers": []
   },
   {
@@ -842,7 +870,7 @@
    "link": "https://www.prnewswire.com/news-releases/blue-shield-of-california-launches-food-as-health-initiative-with-support-for-alameda-county-community-food-bank-302892061.html",
    "summary": "Nonprofit health plan commits $600,000 for a statewide initiative; Alameda County Community Food Bank is first collaboration with $300,000 support to improve health and well-being OAKLAND, Calif., Sept. 28, 2026 /PRNewswire/ -- Blue Shield of California today announced a new statewide...",
    "article_text": "",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "positive",
@@ -2312,7 +2340,7 @@
    "link": "https://www.prnewswire.com/news-releases/rocket-mortgage-becomes-first-home-lender-to-use-vantagescore-as-its-preferred-scoring-model-on-all-eligible-loans-302892051.html",
    "summary": "Announcement follows testing showing more clients meet credit requirements and benefit from lower costs using VantageScore 4.0 DETROIT, Sept. 28, 2026 /PRNewswire/ -- Rocket Mortgage, part of Rocket Companies (NYSE: RKT), today announced it will become the first mortgage lender to use...",
    "article_text": "",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -2334,20 +2362,6 @@
    "sentiment": "positive",
    "domain": "investing.com",
    "published": "2026-09-28T22:55:23+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e9b31d6781dc",
-   "title": "Stock futures are little changed after higher yields lead to losing session: Live updates",
-   "link": "https://www.cnbc.com/2026/09/28/stock-market-today-live-updates.html",
-   "summary": "Higher Treasury yields dragged stocks lower to start the week.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-09-28T22:52:35+00:00",
    "tickers": []
   },
   {
@@ -3296,7 +3310,7 @@
    "link": "https://www.prnewswire.com/news-releases/azp-insurance-specialists-certifies-gateless-smart-underwrite-under-new-ai-and-insurance-backed-risk-framework-302892024.html",
    "summary": "Decades of mortgage-risk and claims experience lay the foundation for a framework designed to drive AI trust, adoption and insurable risk management. PHOENIX, Sept. 28, 2026 /PRNewswire/ -- AZP Insurance Specialists (\"AZP\"), a mortgage-risk insurance and technology-certification...",
    "article_text": "",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -8802,24 +8816,6 @@
    "domain": "sec.gov",
    "published": "2026-09-28T20:38:05+00:00",
    "tickers": []
-  },
-  {
-   "id": "4d8ecf45134f",
-   "title": "Pfizer, BioNTech, Moderna dealt blow in effort to dismiss mRNA patent lawsuits",
-   "link": "https://seekingalpha.com/news/4647773-pfizer-biontech-moderna-dealt-blow-effort-dismiss-mrna-patent-lawsuits?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-09-28T20:38:01+00:00",
-   "tickers": [
-    "BNTX",
-    "MRNA",
-    "PFE"
-   ]
   }
  ],
  "ticker_names": {
@@ -8920,21 +8916,18 @@
   "SNAP": "Snapchat",
   "RTX": "Raytheon",
   "UL": "Unilever",
-  "BNTX": "BioNTech",
   "BLSH": "Bullish",
   "GDDY": "GoDaddy",
   "GKOS": "Glaukos",
   "IVZ": "Invesco",
   "MDB": "MongoDB",
   "MRK": "Merck &",
-  "MRNA": "Moderna",
   "NEM": "Newmont",
   "SCI": "Service",
   "WMT": "Walmart",
   "AEE": "Ameren",
   "GTLB": "GitLab",
   "NDAQ": "Nasdaq",
-  "PFE": "Pfizer",
   "RMD": "ResMed",
   "SPCX": "SpaceX",
   "AMGN": "Amgen",
