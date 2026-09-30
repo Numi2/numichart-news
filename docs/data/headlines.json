@@ -1,8 +1,74 @@
 {
- "generated": "2026-09-29T23:55:07.971669+00:00",
+ "generated": "2026-09-30T00:01:37.475559+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "b8e230fe4b44",
+   "title": "Robbins LLP Urges CELH Stockholders to Contact the Firm for Information About the Class Action Against Celsius Holdings, Inc.",
+   "link": "https://www.prnewswire.com/news-releases/robbins-llp-urges-celh-stockholders-to-contact-the-firm-for-information-about-the-class-action-against-celsius-holdings-inc-302893557.html",
+   "summary": "SAN DIEGO, Sept. 29, 2026 /PRNewswire/ -- Shareholder rights law firm Robbins LLP reminds investors that a class action was filed on behalf of all persons and entities who purchased or otherwise acquired Celsius Holdings, Inc. (NASDAQ: CELH) securities between February 21, 2025 and June...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-09-29T23:57:00+00:00",
+   "tickers": [
+    "CELH"
+   ]
+  },
+  {
+   "id": "57998f335b99",
+   "title": "Google pays 100 publishers for AI-powered search content- The Information",
+   "link": "https://www.investing.com/news/stock-market-news/google-pays-100-publishers-for-aipowered-search-content-the-information-93CH-4923899",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-29T23:54:16+00:00",
+   "tickers": [
+    "GOOGL"
+   ]
+  },
+  {
+   "id": "dc239e813d85",
+   "title": "Meta Platforms President Dina Powell McCormick goes one-on-one with Jim Cramer",
+   "link": "https://www.cnbc.com/video/2026/09/29/meta-platforms-president-dina-powell-mccormick-goes-one-on-one-with-jim-cramer.html",
+   "summary": "Meta Platforms President and Vice Chairman Dina Powell McCormick joins 'Mad Money' host Jim Cramer to talk the launch of Muse AI, its data center buildout, the state of Meta's core business and much more.",
+   "article_text": "",
+   "source": "CNBC Investing",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-09-29T23:53:51+00:00",
+   "tickers": [
+    "META",
+    "POWL"
+   ]
+  },
+  {
+   "id": "7de4d7d522aa",
+   "title": "SBA Communications at RBC conference: eyes 6g, buybacks and growth",
+   "link": "https://www.investing.com/news/transcripts/sba-communications-at-rbc-conference-eyes-6g-buybacks-and-growth-93CH-4923898",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-09-29T23:53:29+00:00",
+   "tickers": [
+    "SBAC",
+    "RBC"
+   ]
+  },
   {
    "id": "dda75325fd94",
    "title": "Robbins LLP Urges BBNX Stockholders to Contact the Firm for Information About the Class Action Against Beta Bionics, Inc.",
@@ -620,6 +686,69 @@
    "tickers": []
   },
   {
+   "id": "83f7a468f23e",
+   "title": "Corn Back to Steady Trade on Tuesday",
+   "link": "https://www.nasdaq.com/articles/corn-back-steady-trade-tuesday",
+   "summary": "Corn futures are trading with contracts steady to fractionally lower on Tuesday. The CmdtyView national average Cash Corn price is down 1/2 cent at $4.78 1/2. The Monday NASS Crop Progress report showed 72% of the US corn crop listed as mature as of September 27, with harvest at 18%...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-29T23:29:12+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ecfdf9184488",
+   "title": "Nat-Gas Prices Tumble as Output Recovers",
+   "link": "https://www.nasdaq.com/articles/nat-gas-prices-tumble-output-recovers",
+   "summary": "November Nymex natural gas (NGX26 ) on Tuesday closed down -0.095 (-3.06%). Nat-gas prices settled sharply lower on Tuesday for a second day after gas production returned to near normal after repairs were made to a ruptured gas pipeline in West Virginia, easing supply fears. TC Energy on Sunday notified...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-09-29T23:29:12+00:00",
+   "tickers": [
+    "TRP",
+    "WST"
+   ]
+  },
+  {
+   "id": "f92c12a39e79",
+   "title": "Hogs Rallying Back on Tuesday",
+   "link": "https://www.nasdaq.com/articles/hogs-rallying-back-tuesday-0",
+   "summary": "Lean hog futures are higher on Tuesday, with contracts 80 cents to $1.10 higher. USDA’s national base hog price was tallied at $78.01 in the Tuesday AM report at $78.01. The CME Lean Hog Index was down another 55 cents on September 24 at $81.21. USDA’s pork carcass cutout value...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-09-29T23:29:12+00:00",
+   "tickers": [
+    "CME"
+   ]
+  },
+  {
+   "id": "d39e7cef8e1e",
+   "title": "Sugar Prices Jump on Lower EU Sugar Beet Yields",
+   "link": "https://www.nasdaq.com/articles/sugar-prices-jump-lower-eu-sugar-beet-yields",
+   "summary": "October NY world sugar #11 (SBV26 ) closed up +0.36 (+2.06%) on Tuesday, and December London ICE white sugar #5 (SWZ26 ) closed up +5.40 (+1.07%). Sugar prices moved higher on Tuesday, with London sugar posting a 1-week high. Sugar prices rallied on Tuesday after the European Union’s Monitoring Agricultural...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-09-29T23:29:12+00:00",
+   "tickers": [
+    "ICE"
+   ]
+  },
+  {
    "id": "86a9d683bc34",
    "title": "The Fed's main inflation measure will be released Wednesday. Here's what to expect",
    "link": "https://biztoc.com/x/9723a8e16154581d?ref=rss",
@@ -993,20 +1122,6 @@
    "tickers": []
   },
   {
-   "id": "83f7a468f23e",
-   "title": "Corn Back to Steady Trade on Tuesday",
-   "link": "https://www.nasdaq.com/articles/corn-back-steady-trade-tuesday",
-   "summary": "Corn futures are trading with contracts steady to fractionally lower on Tuesday. The CmdtyView national average Cash Corn price is down 1/2 cent at $4.78 1/2. The Monday NASS Crop Progress report showed 72% of the US corn crop listed as mature as of September 27, with harvest at 18%...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-09-29T23:19:15+00:00",
-   "tickers": []
-  },
-  {
    "id": "615f005eeb18",
    "title": "Cocoa Prices Fall on Dollar Strength and Robust Supplies",
    "link": "https://www.nasdaq.com/articles/cocoa-prices-fall-dollar-strength-and-robust-supplies",
@@ -1128,39 +1243,6 @@
    "domain": "biztoc.com",
    "published": "2026-09-29T23:13:30+00:00",
    "tickers": []
-  },
-  {
-   "id": "ecfdf9184488",
-   "title": "Nat-Gas Prices Tumble as Output Recovers",
-   "link": "https://www.nasdaq.com/articles/nat-gas-prices-tumble-output-recovers",
-   "summary": "November Nymex natural gas (NGX26 ) on Tuesday closed down -0.095 (-3.06%). Nat-gas prices settled sharply lower on Tuesday for a second day after gas production returned to near normal after repairs were made to a ruptured gas pipeline in West Virginia, easing supply fears. TC Energy on Sunday notified...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-09-29T23:13:01+00:00",
-   "tickers": [
-    "TRP",
-    "WST"
-   ]
-  },
-  {
-   "id": "f92c12a39e79",
-   "title": "Hogs Rallying Back on Tuesday",
-   "link": "https://www.nasdaq.com/articles/hogs-rallying-back-tuesday-0",
-   "summary": "Lean hog futures are higher on Tuesday, with contracts 80 cents to $1.10 higher. USDA’s national base hog price was tallied at $78.01 in the Tuesday AM report at $78.01. The CME Lean Hog Index was down another 55 cents on September 24 at $81.21. USDA’s pork carcass cutout value...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-09-29T23:13:00+00:00",
-   "tickers": [
-    "CME"
-   ]
   },
   {
    "id": "c27fca4e47b0",
@@ -1797,22 +1879,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-09-29T23:07:44+00:00",
    "tickers": []
-  },
-  {
-   "id": "d39e7cef8e1e",
-   "title": "Sugar Prices Jump on Lower EU Sugar Beet Yields",
-   "link": "https://www.nasdaq.com/articles/sugar-prices-jump-lower-eu-sugar-beet-yields",
-   "summary": "October NY world sugar #11 (SBV26 ) closed up +0.36 (+2.06%) on Tuesday, and December London ICE white sugar #5 (SWZ26 ) closed up +5.40 (+1.07%). Sugar prices moved higher on Tuesday, with London sugar posting a 1-week high. Sugar prices rallied on Tuesday after the European Union’s Monitoring Agricultural...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-09-29T23:07:14+00:00",
-   "tickers": [
-    "ICE"
-   ]
   },
   {
    "id": "0deb4ee37427",
@@ -3075,7 +3141,7 @@
    "link": "https://www.prnewswire.com/news-releases/cohen--steers-total-return-realty-fund-inc-rfi-notification-of-sources-of-distribution-under-section-19a-302893537.html",
    "summary": "NEW YORK, Sept. 29, 2026 /PRNewswire/ -- This press release provides shareholders of Cohen & Steers Total Return Realty Fund, Inc. (NYSE: RFI) (the \"Fund\") with information regarding the sources of the distribution to be paid on September 30, 2026 and cumulative distributions paid fiscal...",
    "article_text": "",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -8813,64 +8879,6 @@
    "domain": "biztoc.com",
    "published": "2026-09-29T20:57:58+00:00",
    "tickers": []
-  },
-  {
-   "id": "a6e3d32da737",
-   "title": "Popular blood pressure drug recalled over dissolution issues",
-   "link": "https://biztoc.com/x/93ea190da6b7ddf4?ref=rss",
-   "summary": "Thousands of bottles of a popular blood pressure medication are being recalled over concerns about effectiveness. Inventia Healthcare Limited is voluntarily recalling 13,567 bottles of Chlorthalidone Tablets, USP, 25 mg (NDC: 64980-599-01, Batch No. RISA24002, expiration date April 2027) after…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-09-29T20:57:40+00:00",
-   "tickers": [
-    "BPOP"
-   ]
-  },
-  {
-   "id": "3ebf09507694",
-   "title": "8-K - SL Investment Fund II LLC (0002028686) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/2028686/000119312526407719/0001193125-26-407719-index.htm",
-   "summary": "Filed: 2026-09-29 AccNo: 0001193125-26-407719 Size: 126 KB Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-09-29T20:57:08+00:00",
-   "tickers": []
-  },
-  {
-   "id": "dc0fe5fc1d72",
-   "title": "Medicare Advantage plans will be cheaper next year. Here’s the new cost.",
-   "link": "https://www.marketwatch.com/story/medicare-advantage-plans-will-be-cheaper-next-year-heres-the-new-cost-2f7ab55b?mod=mw_rss_topstories",
-   "summary": "Medicare beneficiaries can change their coverage during open enrollment, which begins Oct. 15.",
-   "article_text": "",
-   "source": "MarketWatch",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "marketwatch.com",
-   "published": "2026-09-29T20:57:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "96693c3686dd",
-   "title": "Gaming & Leisure Properties is Oversold",
-   "link": "https://www.nasdaq.com/articles/gaming-leisure-properties-oversold",
-   "summary": "The DividendRank formula at Dividend Channel ranks a coverage universe of thousands of dividend stocks, according to a proprietary formula designed to identify those stocks that combine two important characteristics — strong fundamentals and a valuation that looks inexpensive.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-09-29T20:56:43+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8915,9 +8923,11 @@
   "TPL": "Texas Pacific Land",
   "HOOD": "Robinhood Markets",
   "MU": "Micron Technology",
+  "POWL": "Powell Industries",
   "RIVN": "Rivian Automotive",
   "VERA": "Vera Therapeutics",
   "BWXT": "BWX Technologies",
+  "CELH": "Celsius Holdings",
   "CLF": "Cleveland-Cliffs",
   "COST": "Costco Wholesale",
   "EXK": "Endeavour Silver",
