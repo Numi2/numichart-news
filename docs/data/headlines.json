@@ -1,8 +1,597 @@
 {
- "generated": "2026-10-01T19:06:27.178814+00:00",
+ "generated": "2026-10-01T19:23:00.617596+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "bfd68a1229fb",
+   "title": "United Airlines gets aggressive in battle for top Delta, American flyers",
+   "link": "https://www.cnbc.com/2026/10/01/united-airlines-status-match-delta-american.html",
+   "summary": "United Airlines launched an aggressive status match program for Delta and American's top frequent flyer elites.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "cnbc.com",
+   "published": "2026-10-01T19:18:51+00:00",
+   "tickers": []
+  },
+  {
+   "id": "9c352128d96e",
+   "title": "Cattle Posting Mostly Higher Trade on Thursday",
+   "link": "https://www.nasdaq.com/articles/cattle-posting-mostly-higher-trade-thursday",
+   "summary": "Live cattle futures are trading with contracts 10 to 65 cents higher and other contracts lower. Cash trade saw some light $348-350 dressed action in the North so far this week as reported by USDA, with live sales at $219-219.50. The Thursday Fed Cattle Exchange online auction showed no sales...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-01T19:16:51+00:00",
+   "tickers": []
+  },
+  {
+   "id": "1e670e487c87",
+   "title": "Hogs Falling on Thursday",
+   "link": "https://www.nasdaq.com/articles/hogs-falling-thursday-0",
+   "summary": "Lean hog futures are trading with losses of 85 cents to $1.10 in the front months on Thursday. USDA’s national base hog price was not reported on Thursday due to thin trade. The CME Lean Hog Index was up a penny on September 29 at $80.95. Export Sales data showed...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-01T19:16:51+00:00",
+   "tickers": [
+    "CME"
+   ]
+  },
+  {
+   "id": "a0d71deccb69",
+   "title": "Cocoa Prices Recover on Supply Risks",
+   "link": "https://www.nasdaq.com/articles/cocoa-prices-recover-supply-risks",
+   "summary": "December ICE NY cocoa (CCZ26 ) is up +24 (+0.45%) today, and December ICE London cocoa #7 (CAZ26 ) is up +15 (+0.37%). Cocoa prices recovered from early losses today, with NY cocoa rebounding from a 2-month low. Short covering emerged in cocoa futures today amid concern that Ghana's move...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-01T19:16:51+00:00",
+   "tickers": [
+    "ICE"
+   ]
+  },
+  {
+   "id": "57a86adff327",
+   "title": "Stocks Climb on a Strong Forecast from Micron",
+   "link": "https://www.nasdaq.com/articles/stocks-climb-strong-forecast-micron",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) is up by +0.17% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down by -0.40%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +0.15%. December E-mini S&P futures (ESZ26 ) are up +0.13%, and December E-mini...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "guidance",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-10-01T19:16:50+00:00",
+   "tickers": [
+    "QQQ",
+    "MU",
+    "NDAQ",
+    "SPY"
+   ]
+  },
+  {
+   "id": "56b4e06bf3d5",
+   "title": "Dollar Strength Spurs Long Liquidation in Coffee Futures",
+   "link": "https://www.nasdaq.com/articles/dollar-strength-spurs-long-liquidation-coffee-futures",
+   "summary": "December arabica coffee (KCZ26 ) is down -3.25 (-1.12%) today, and November ICE robusta coffee (RMX26 ) is down -23 (-0.67%). Coffee prices are retreating today as a rally in the dollar index ($DXY ) to a 1.5-year high has prompted long liquidation in coffee futures. On Wednesday, arabica coffee...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-01T19:16:50+00:00",
+   "tickers": [
+    "ICE"
+   ]
+  },
+  {
+   "id": "b2289cb400d4",
+   "title": "Soybeans Slipping on Thursday Morning",
+   "link": "https://www.nasdaq.com/articles/soybeans-slipping-thursday-morning",
+   "summary": "Soybeans are posting 2 to 3 cent losses early on Thursday. Futures failed to see strength on a friendly stocks number on Wednesday, with contracts down 2 ¼ to 5 cents at the close. Sharp losses in corn were a spillover pressure factor. Open interest was up 3,340 contracts. The...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-01T19:16:50+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e0e98e2da050",
+   "title": "What to Know About Trump Accounts as More Than 60 Million Children Are Auto-Enrolled",
+   "link": "https://www.nytimes.com/2026/10/01/business/trump-accounts-auto-enrollment.html",
+   "summary": "The Trump administration may have just signed up your child — and more than 60 million others — for a 530A savings account (if you haven’t already done so).",
+   "article_text": "",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-10-01T19:16:44+00:00",
+   "tickers": []
+  },
+  {
+   "id": "788dd3db71ce",
+   "title": "Uriage Presents New Scientific Advances in Triple Barrier Science at EADV Congress 2026 in Vienna",
+   "link": "https://www.prnewswire.com/news-releases/uriage-presents-new-scientific-advances-in-triple-barrier-science-at-eadv-congress-2026-in-vienna-302896474.html",
+   "summary": "Clinical and microbiology research showed a correlation between skin barrier repair and microbiome improvement. XEMOSE C8+® introduces a new generation of biomimetic ceramides to support skin barrier repair in atopic dermatitis. BARIEDERM-CICA+® Repairing Cream supports controlled skin...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-10-01T19:16:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b754a1c0af91",
+   "title": "Brent oil jumps more than 4% as U.S. reportedly sends third aircraft carrier to Middle East",
+   "link": "https://www.cnbc.com/2026/10/01/oil-prices-today-wti-brent.html",
+   "summary": "Oil prices rose sharply Thursday following a report the U.S. is sending a third aircraft carrier strike group to the Middle East.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "cnbc.com",
+   "published": "2026-10-01T19:15:31+00:00",
+   "tickers": []
+  },
+  {
+   "id": "38e4b04e6d1c",
+   "title": "UWorld and Goldwater Foundation Invest in the Future of Medicine and Scientific Discovery",
+   "link": "https://www.prnewswire.com/news-releases/uworld-and-goldwater-foundation-invest-in-the-future-of-medicine-and-scientific-discovery-302896473.html",
+   "summary": "Four-year partnership helps promising undergraduate researchers take the next step toward becoming physician-scientists and advancing discoveries that can improve lives. DALLAS, Oct. 1, 2026 /PRNewswire/ -- Amir Etemadi has a big goal: become a surgeon-scientist whose research doesn't...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-10-01T19:15:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "8baea174d360",
+   "title": "SpaceX launches Google AI chips into orbit in push toward space-based data centers",
+   "link": "https://www.cnbc.com/2026/10/01/spacex-to-launch-google-ai-chips-to-orbit-with-planet-labs-satellites.html",
+   "summary": "Google's tensor processing units were launched into orbit on Planet Labs satellites.",
+   "article_text": "SpaceX launched Google AI chips to orbit with Planet Labs satellites Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Key Points SpaceX launched Google tensor processing units into orbit on Planet Labs satellites on Thursday. The Transporter-18 mission marks the first in-orbit test for Alphabet's Project Suncatcher, ​a \"moonshot\" initiative to develop reliable AI computing infrastructure in space. Alphabet holds a stake worth more than $82 billion in SpaceX, which went public in June in a record IPO. In this article SPCX GOOGL Follow your favorite stocks CREATE FREE ACCOUNT A SpaceX Falcon 9 rocket carrying Northrop Grumman's Mission Robotic Vehicle (MRV) and Mission Extension Pods (MEPs) launches from Space Force Station's Launch Complex 40 in Cape Canaveral, Florida, on July 21, 2026. Chandan Khanna | AFP | Getty Images Alphabet launched its homegrown AI chips into orbit on Thursday in a SpaceX Falcon 9 rocket, a step towards making data centers in space a reality. The launch window opened at 11:15 am PT from Vandenberg Air Force Base in California's Santa Barbara County, with liftoff occurring without incident. Just after noon local time, the spacecraft was rising with the payloads on board. SpaceX has promoted supercomputers in space as the next frontier in artificial intelligence infrastructure, touting \"infinite real estate\" in orbit as a means of escaping the data center backlash on the ground. During the uncrewed Transporter-18 mission, SpaceX will carry Planet Labs satellites, including a solar-powered prototype equipped with Google's tensor processing units (TPUs). The Thursday launch marks the first in-orbit test for Alphabet's Project Suncatcher, a \"moonshot\" initiative Google first revealed in November 2025. The company aims to develop reliable, solar-powered AI computing infrastructure that can operate continuously in space. In a post announcing the launch plan, Alphabet said Project Suncatcher is a means of \"exploring whether space could one day host scalable machine learning infrastructure.\" Alphabet is a significant investor in SpaceX, which went public in June in a record IPO, and the businesses are close partners even as their AI divisions compete with one another. Alphabet's stake in SpaceX is currently valued at over $82 billion. watch now VIDEO 5:50 05:50 Planet Labs CEO on satellite launch: The first time we're launching TPUs into space Power Lunch In low Earth orbit, satellites can \"access near-constant sunlight, generating up to eight times more solar power than on Earth,\" Alphabet said in the post. Eventually, they expect to be able to \"link together multiple constellations of satellites, allowing them to manage larger AI workloads while in orbit.\" The Google parent has already tested its TPUs running AI workloads in a facility at the University of California at Davis, but doesn't yet know how its chips will perform in the challenging conditions of low Earth orbit. SpaceX, led by Elon Musk , has also announced that it plans to build and launch its own orbital data centers. They will be comprised of swarms of satellites the company develops in Redmond, Washington, equipped with graphics processing units and solar arrays it plans to produce with Tesla , Musk's automaker. Earlier this year, Musk said data centers in space would be the cheapest way to train AI, \"and that will be true within two years, maybe three at the latest.\" SpaceX COO Gwynne Shotwell said at an event in September that the company will deploy \"supercompute in space\" in 2027. Industry experts say space-based data centers represent a far-out mission, if they can even become feasible, in part because rocket launches remain capacity-constrained and expensive. Orbital data centers would also require cooling systems and chips that can withstand extreme temperatures, as well as protection from radiation. Clutter and orbital debris could also impede their viability. The Transporter-18 flight will be the second potentially historic launch in a single day for SpaceX, which is is also carrying astronauts to the International Space Station from Florida's Space Coast for NASA on Thursday, marking the start of a six-month mission in orbit. Liftoff took place late morning. WATCH: SpaceX launches its massive Starship rocket into orbit for first time watch now VIDEO 4:02 04:02 SpaceX launches its massive Starship rocket into orbit for the first time: What you need to know Squawk on the Street Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "cnbc.com",
+   "published": "2026-10-01T19:14:30+00:00",
+   "tickers": [
+    "SPCX",
+    "GOOGL"
+   ]
+  },
+  {
+   "id": "df0eee2bf277",
+   "title": "General Motor Q3 sales drop 5.5%, while Toyota buoyed by EVs, hybrids",
+   "link": "https://www.cnbc.com/2026/10/01/us-auto-sales-q3.html",
+   "summary": "GM's sales of all-electric vehicles are down across the board, as enthusiasm for electric vehicles wanes.",
+   "article_text": "GM Q3 sales drop 5.5% while Toyota buoyed by electrified vehicle sales Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Key Points GM reported new vehicle sales declined 5.5% during the third quarter. The automaker's sales of all-electric vehicles were down across the board. Toyota, meanwhile, reported sales were up 0.6% for the most recent quarter, with particular strength reported in its electrified-vehicle sector, which includes hybrids. In this article GM Follow your favorite stocks CREATE FREE ACCOUNT Signage at a General Motors Co. Chevrolet dealership in Colma, California, US, on Friday, Jan. 23, 2026. David Paul Morris | Bloomberg | Getty Images General Motors on Thursday reported a year-over-year sales decline of 5.5%, with 670,974 new vehicles sold during the third quarter. GM's sales of all-electric vehicles are down across the board, as enthusiasm for EVs wanes. EV demand spiked last year ahead of the Trump administration ending up to $7,500 in federal incentives for consumers to purchase an electric vehicle. During the same period last year, GM reported record sales of its electric vehicles. Against those comparisons, EVs this year saw dramatic drops, with the Equinox EV down 92.4% during the most recent quarter, at 1,905 vehicles sold. The Blazer EV was down 84.4% and Hummer EV sales fell 72.9%. The report comes after Cox Automotive said last week that new vehicle sales have been stronger than expected this year and raised its 2026 forecast by roughly 2%, to 16.1 million units. Hybrid vehicle sales are expected to capture a growing market share of car sales, as inflated gas prices pressure consumers. Despite offering a broad EV lineup, the Detroit automaker only offers one hybrid vehicle, a Corvette. Experts expect GM's weakness in the sector to impact its overall sales. Hybrids assisted other automakers in outperforming GM in third-quarter sales. Toyota Motor reported that its EV and hybrid vehicles made up over 57% of the Japanese automaker's sales this quarter. Toyota said sales were up 0.6% for the most recent quarter, with 633,223 vehicles sold. Sales of its electrified vehicles, which include hybrids, were up 28.5%, with 363,367 units sold. That helped Toyota continue to narrow its gap with U.S. sales leader GM, which is now less than 136,000 units. That compares to a full-year gap of roughly 335,000 units last year. Cox Automotive earlier this year said if such sales trends continue, Toyota could once again overtake GM to become the U.S. sales leader in the coming years. Honda Motor, which also offers several hybrids and leads major automakers in fuel economy in the U.S., reported a 9.3% increase in U.S. third-quarter sales. Its hybrid sales were a record of more than 106,000 units during the quarter. \"We've got really high demand for hybrids,\" Lance Woelfer, head of American Honda Motor's U.S. sales, told CNBC. \"We're finding more and more consumers are figuring out hybrids meet their needs.\" High fuel prices, with an AAA national average of $4.41, were also expected to impact sales of big trucks and SUVs, sectors that GM relies on. GM's full-size pickups were relatively flat. Each of the automaker's brands are down so far year to date, led by a 25% decline in Cadillac. GM's lower-cost vehicles are a bright spot for the company as consumers face high inflation. The Chevrolet Trailblazer was up 51% for the third quarter, while sales of Buick Envista were up 18.4% and Chevrolet Trax up 16.3%. Despite falling sales, Duncan Aldred, president of GM North America, remained optimistic. GM noted sales of vehicles with traditional internal combustion engines were roughly level compared to a year earlier. \"Our business is performing very well, the launch of our next-generation full-size pickup trucks is on track, and we are making investments in new vehicles, innovative technologies, and our U.S. manufacturing footprint to drive our next phase of growth,\" Aldred said in a statement . GM last month announced additional details about its new V-8 engines for its pickup trucks, as it attempts to maintain leadership in truck sales. Other automakers to release U.S. vehicle sales on Thursday for the third quarter include: Chrysler and Jeep parent Stellantis , which reported roughly level sales compared with last year, led by a 29% sales increase in its Ram pickup truck and van brand. Its Jeep brand was off roughly 20%. Nissan Motor , which reported a 1.4% increase in sales, led by increases in retail sales of its namesake brand and luxury Infiniti unit. The Hyundai brand reported a roughly 3% increase in sales, while its luxury Genesis unit recorded a 6% uptick. Kia announced a 7.8% increase for the quarter, including a roughly 18% increase during September. The company said its 236,659 units sold during the third quarter marks a new quarterly record for the company. Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "negative",
+   "domain": "cnbc.com",
+   "published": "2026-10-01T19:12:59+00:00",
+   "tickers": [
+    "GM"
+   ]
+  },
+  {
+   "id": "96cb9081f50c",
+   "title": "Weekly Losses Deepen As Small Caps Lag And Yields Edge Higher Into Earnings Gauntlet",
+   "link": "https://www.prnewswire.com/news-releases/weekly-losses-deepen-as-small-caps-lag-and-yields-edge-higher-into-earnings-gauntlet-302896471.html",
+   "summary": "Stock Preachers News Commentary NEW YORK, Oct. 1, 2026 /PRNewswire/ -- Stocks closed out a choppy week on the back foot, with the Dow shedding nearly 2% and small caps underperforming as the Russell 2000 fell more than 1% on the week. The 10-year Treasury yield ticked up 6 basis points...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "negative",
+   "domain": "prnewswire.com",
+   "published": "2026-10-01T19:12:00+00:00",
+   "tickers": [
+    "IWM",
+    "NWSA"
+   ]
+  },
+  {
+   "id": "970d1f86cdf4",
+   "title": "Cotton Extending Losses to Thursday",
+   "link": "https://www.nasdaq.com/articles/cotton-extending-losses-thursday",
+   "summary": "Cotton futures are trading with contracts 34 to 123 points lower across most contracts on Thursday. Crude oil is back up $166 per barrel on the session, with the US dollar index shooting $0.714 higher. USDA’s Export Sales report showed 202,567 RB of cotton sales in the week ending in...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-10-01T19:11:26+00:00",
+   "tickers": []
+  },
+  {
+   "id": "9b36ccddbf03",
+   "title": "Corn Selling Extends to Start October",
+   "link": "https://www.nasdaq.com/articles/corn-selling-extends-start-october",
+   "summary": "Corn futures are trading with contracts 4 to 5 cents lower so far on Thursday. The CmdtyView national average Cash Corn price is down 2 cents at $4.56 3/4. Export Sales data from this morning showed just 535,989 MT in corn sales for 2026/27, which edged in the 0.5-1.3 MMT...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-01T19:11:26+00:00",
+   "tickers": [
+    "MT"
+   ]
+  },
+  {
+   "id": "d300e8f084b9",
+   "title": "Soybeans Losses Extending to Thursday",
+   "link": "https://www.nasdaq.com/articles/soybeans-losses-extending-thursday",
+   "summary": "Soybeans are trading with losses of 16 to 17 cents so far on Thursday. The cmdtyView national average Cash Bean price is down 19 1/4 cents at $12.20 1/4. Soymeal futures are down $6 to $7.30, with Soy Oil 140 to 145 points lower. Export Sales data from USDA was...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-10-01T19:11:26+00:00",
+   "tickers": []
+  },
+  {
+   "id": "cd6f73a33e26",
+   "title": "Horizon Media Expands HorizonOS Labs with Third Cohort, Bringing New Partners into its Open Ecosystem to Tackle Marketers' Growth Challenges",
+   "link": "https://www.prnewswire.com/news-releases/horizon-media-expands-horizonos-labs-with-third-cohort-bringing-new-partners-into-its-open-ecosystem-to-tackle-marketers-growth-challenges-302896469.html",
+   "summary": "Cohort 3 Reflects Market Acceleration and Client Priorities as Marketing Technology Shifts From Insight to Action NEW YORK, Oct. 1, 2026 /PRNewswire/ -- Horizon Media today unveiled 11 companies named to the third cohort of HorizonOS Labs, the agency's structured innovation accelerator....",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "positive",
+   "domain": "prnewswire.com",
+   "published": "2026-10-01T19:11:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a4da73e427fc",
+   "title": "NextEra Energy, Inc. (NEE) Presents at Wolfe Research Utilities, Midstream & Clean Energy Conference 2026-New York Transcript",
+   "link": "https://seekingalpha.com/article/4951436-nextera-energy-inc-nee-presents-at-wolfe-research-utilities-midstream-and-clean-energy?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-01T19:10:24+00:00",
+   "tickers": [
+    "NEE"
+   ]
+  },
+  {
+   "id": "28a788bdabd0",
+   "title": "Papa John's International, Inc. (PZZA) Shareholders Who Lost Money Have Opportunity to Lead Securities Fraud Lawsuit",
+   "link": "https://www.prnewswire.com/news-releases/papa-johns-international-inc-pzza-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302896342.html",
+   "summary": "LOS ANGELES, Oct. 1, 2026 /PRNewswire/ -- The Law Offices of Frank R. Cruz announces that investors with losses related to Papa John's International, Inc. (PZZA) have opportunity to lead the securities fraud class action lawsuit. IF YOU ARE AN INVESTOR WHO SUFFERED A LOSS IN PAPA JOHN'S...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "prnewswire.com",
+   "published": "2026-10-01T19:10:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e3925a75a08e",
+   "title": "CELH Investors Have Opportunity to Lead Celsius Holdings, Inc. Securities Fraud Lawsuit",
+   "link": "https://www.prnewswire.com/news-releases/celh-investors-have-opportunity-to-lead-celsius-holdings-inc-securities-fraud-lawsuit-302896353.html",
+   "summary": "NEW YORK, Oct. 1, 2026 /PRNewswire/ -- Rosen Law Firm, a global investor rights law firm, announces a class action lawsuit on behalf of purchasers of securities of Celsius Holdings, Inc. (NASDAQ: CELH) between February 21, 2025 and June 3, 2026, both dates inclusive (the \"Class Period\")....",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "prnewswire.com",
+   "published": "2026-10-01T19:10:00+00:00",
+   "tickers": [
+    "CELH"
+   ]
+  },
+  {
+   "id": "9e2c3b8f1f2c",
+   "title": "S&amp;P Global Ratings Revises BlueHub Loan Fund's Outlook to Positive and Affirms 'A+' Rating",
+   "link": "https://www.prnewswire.com/news-releases/sp-global-ratings-revises-bluehub-loan-funds-outlook-to-positive-and-affirms-a-rating-302896466.html",
+   "summary": "Positive outlook reflects above-average capital adequacy and continued financial strength BOSTON, Oct. 1, 2026 /PRNewswire/ -- BlueHub Capital, a national nonprofit community development finance organization, today announced that S&P Global Ratings has enhanced the outlook for its...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "guidance",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-10-01T19:09:00+00:00",
+   "tickers": [
+    "SPGI"
+   ]
+  },
+  {
+   "id": "44036af3bb9b",
+   "title": "Borrowers are cutting back but still struggling to escape debt, Freedom Debt Relief and Money.com study finds",
+   "link": "https://www.prnewswire.com/news-releases/borrowers-are-cutting-back-but-still-struggling-to-escape-debt-freedom-debt-relief-and-moneycom-study-finds-302896467.html",
+   "summary": "Nearly half can make only minimum payments or are behind, while 79% would accept a credit-score decline to become debt free faster SAN MATEO, Calif., Oct. 1, 2026 /PRNewswire/ -- Americans carrying substantial unsecured debt are cutting everyday expenses, drawing from retirement savings...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-10-01T19:09:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "adb28291e295",
+   "title": "KALDVÍK AS (KLDVK): Waiver from lenders",
+   "link": "https://www.globenewswire.com/news-release/2026/10/01/3373349/0/en/kaldv%C3%ADk-as-kldvk-waiver-from-lenders.html",
+   "summary": "Frøya, 1 October 2026 – Kaldvik AS (“Kaldvik” or the “Company”) has entered into a waiver agreement with its lenders in relation to the Company’s financing facilities.",
+   "article_text": "",
+   "source": "GlobeNewswire",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "globenewswire.com",
+   "published": "2026-10-01T19:08:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c3ca59d0d2e2",
+   "title": "September AAII Asset Allocation Survey: Cash Allocations Fall",
+   "link": "https://seekingalpha.com/article/4951442-september-aaii-asset-allocation-survey-cash-allocations-fall?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-01T19:07:51+00:00",
+   "tickers": []
+  },
+  {
+   "id": "15c28802bc53",
+   "title": "Wheat Pushing Higher on Thursday",
+   "link": "https://www.nasdaq.com/articles/wheat-pushing-higher-thursday",
+   "summary": "Wheat bulls are trying to battle back on Thursday morning, with 4 to 7 cent gains. The wheat complex ignored USDA Grain Stocks report showing tighter stocks on Wednesday, posting losses across the three exchanges. Chicago SRW closed the day with contracts down 5 ½ to 17 cents to lead...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-01T19:06:15+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ab72b4beacc4",
+   "title": "Cotton Starting Off Thursday with Losses",
+   "link": "https://www.nasdaq.com/articles/cotton-starting-thursday-losses",
+   "summary": "Cotton is starting Thursday with AM losses of 6 to 10 points. Futures closed the Wednesday session with contracts 16 to 43 pints lower across the board. Crude oil is back up $2.06 per barrel on the session, with the US dollar index $0.074 higher. The Cotlook A index was...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-10-01T19:06:15+00:00",
+   "tickers": []
+  },
+  {
+   "id": "13c3273b89f5",
+   "title": "NAMI Applauds the Restoration of 988 'Press 3' Services for LGBTQ+ Youth",
+   "link": "https://www.prnewswire.com/news-releases/nami-applauds-the-restoration-of-988-press-3-services-for-lgbtq-youth-302896464.html",
+   "summary": "ARLINGTON, Va., Oct. 1, 2026 /PRNewswire/ -- LGBTQ+ youth and young adults in crisis can once again connect with specialized support through the 988 Suicide and Crisis Lifeline's \"Press 3\" option, which returned yesterday after being abruptly eliminated last year. This restoration marks...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-10-01T19:06:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e32bd6e68e4a",
+   "title": "Dressings and Sauces Manufacturers Nominate Laminar for the 2026 ADS Supplier Partner of the Year Award",
+   "link": "https://www.prnewswire.com/news-releases/dressings-and-sauces-manufacturers-nominate-laminar-for-the-2026-ads-supplier-partner-of-the-year-award-302896465.html",
+   "summary": "The physical AI startup's Process-Aware Autonomy is nominated in the Equipment and Service category by the ADS manufacturer members running Laminar Clean-in-Place models to improve productivity and sustainability BOSTON, Oct. 1, 2026 /PRNewswire/ -- Laminar, creator of Process-Aware...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-10-01T19:06:00+00:00",
+   "tickers": [
+    "SCI"
+   ]
+  },
+  {
+   "id": "0246ccafef5a",
+   "title": "Top Midday Decliners",
+   "link": "https://biztoc.com/x/c8cfcbcc4fbcc415?ref=rss",
+   "summary": "said Thursday that a federal court in California denied its request to temporarily bl",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-10-01T19:05:28+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b9ef7e9838de",
+   "title": "Another Fed Leader Suggests Next Rate Increase Can Wait",
+   "link": "https://biztoc.com/x/7f4427edfa56f31f?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-01T19:05:16+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b5ab4f5d71d6",
+   "title": "Bank stocks extend second half of the year slump as interest rates rise",
+   "link": "https://biztoc.com/x/fdfb0b7bb63d01b9?ref=rss",
+   "summary": "Bank stocks tumbled on Thursday, extending losses in recent weeks amid a sharp rise in interest rates. The KBW Nasdaq Bank Index (^BKX), which closely tracks the nation's large banks, tumbled as much as 2.4% before paring some of those losses to trade 0.7% below its Wednesday closing price. The…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-01T19:05:13+00:00",
+   "tickers": [
+    "NDAQ"
+   ]
+  },
+  {
+   "id": "c25f20c825d2",
+   "title": "Robert Half selected by Fortune as one of the Best Workplaces in Consulting &amp; Professional Services 2026",
+   "link": "https://www.prnewswire.com/news-releases/robert-half-selected-by-fortune-as-one-of-the-best-workplaces-in-consulting--professional-services-2026-302896330.html",
+   "summary": "MENLO PARK, Calif., Oct. 1, 2026 /PRNewswire/ -- Global talent solutions and business consulting firm Robert Half (NYSE: RHI) has been named one of Fortune's Best Workplaces in Consulting & Professional Services for 2026. Robert Half's consulting subsidiary, Protiviti, was also...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-10-01T19:05:00+00:00",
+   "tickers": [
+    "RHI",
+    "FBIN"
+   ]
+  },
+  {
+   "id": "483dc0dbc408",
+   "title": "‘Triple-G’ weight loss drug update: Even on the lowest dose, trial patients lost 12.7% of their weight",
+   "link": "https://biztoc.com/x/8442a9902bb84d60?ref=rss",
+   "summary": "We’re learning more about the super-effective “triple-G” weight loss drug retatrutide. The drug, the first of its kind to target three metabolic receptors (GLP-1, GIP, and glucagon), is nearing the end of clinical trials and is expected to be submitted to the FDA for approval early next year. New…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-10-01T19:04:44+00:00",
+   "tickers": []
+  },
+  {
+   "id": "32b8ace8fd39",
+   "title": "John Fetterman and Dave McCormick: How to Regulate AI",
+   "link": "https://biztoc.com/x/a77c08e40770c796?ref=rss",
+   "summary": "Recently, a 27-year-old Anthropic employee posted on X that AI could end humanity. All hell broke loose. The post has since been viewed more than 170 million times; it prompted some AI leaders to endorse a slowdown in development; and it pushed AI doomerism into mainstream political and media…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-01T19:04:21+00:00",
+   "tickers": [
+    "DAVE"
+   ]
+  },
+  {
+   "id": "f70c17195658",
+   "title": "Paramount stumps up high borrowing costs to fund Warner Bros deal",
+   "link": "https://biztoc.com/x/6ef14e0b04c29c60?ref=rss",
+   "summary": "Security Verification For help please visit help.ft.com. We apologise for any inconvenience. The following information can help our support team to resolve this issue. - Error Code - CG000 / 403 - Request ID - a43dbbad081e07d6",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-01T19:04:17+00:00",
+   "tickers": [
+    "WBD",
+    "PARA"
+   ]
+  },
+  {
+   "id": "9448bd7f711a",
+   "title": "/C O R R E C T I O N -- Blue Bottle Coffee/",
+   "link": "https://www.prnewswire.com/news-releases/blue-bottle-coffee-debuts-notes-in-repose-a-limited-edition-vinyl-celebrating-coffee-jazz-and-the-art-of-composition-302891641.html",
+   "summary": "In the news release, Blue Bottle Coffee Debuts Notes in Repose, a Limited-Edition Vinyl Celebrating Coffee, Jazz and the Art of Composition, issued 29-Sep-2026 by Blue Bottle Coffee over PR Newswire, we are advised by the company that the list of artists in the first paragraph has been...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-10-01T19:04:00+00:00",
+   "tickers": [
+    "JAZZ"
+   ]
+  },
+  {
+   "id": "87a088bbdfd1",
+   "title": "US Energy Secretary Wright 'highly confident' Europe will release diesel stocks",
+   "link": "https://biztoc.com/x/2b0c77c09c64017b?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-01T19:03:48+00:00",
+   "tickers": []
+  },
+  {
+   "id": "4407a8751fd2",
+   "title": "Why Jerome Powell Will Likely Stock Around The Fed",
+   "link": "https://biztoc.com/x/9c40ad1acd4398f6?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-01T19:03:42+00:00",
+   "tickers": [
+    "POWL"
+   ]
+  },
   {
    "id": "038739b3df71",
    "title": "September’s Top Commodity Performers and Underperformers",
@@ -46,6 +635,22 @@
    "tickers": []
   },
   {
+   "id": "f6ac8935f100",
+   "title": "Trump could target three Fed governors. Removing them may be harder than it looks",
+   "link": "https://www.cnbc.com/2026/10/01/trump-fed-powell-lisa-cook-michael-barr-removal.html",
+   "summary": "Trump could seek to remove Jerome Powell, Lisa Cook and Michael Barr from the Federal Reserve, but court rulings and lengthy litigation could limit him.",
+   "article_text": "Trump could target three Fed governors. Removing them may be hard Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Key Points Trump could potentially pursue the removal of three members of the Fed's Board of Governors: Jerome Powell, Lisa Cook and Michael Barr. The Fed inspector general criticized management of the central bank headquarters renovation but found no criminal violations or administrative misconduct. The Supreme Court’s June ruling in the Lisa Cook case required notice and an opportunity to respond before removing her from her post, while allowing Cook to remain on the board during the litigation. Former Fed general counsel Scott Alvarez argues that prolonged litigation could keep targeted governors in their seats and complicate Trump’s effort to reshape the board. U.S. President Donald Trump points towards Federal Reserve Chair Jerome Powell holding a document during a tour of the Federal Reserve Board building, which is currently undergoing renovations, in Washington, D.C., U.S., July 24, 2025. Kent Nishimura | Reuters President Donald Trump has new ammunition he can use in his campaign against his perceived opponents at the Federal Reserve , although a watchdog report released Wednesday found no basis for criminal charges stemming from the Fed's costly headquarters renovations. Combined with separate disputes involving governors Lisa Cook and Michael Barr , Trump's decision to pin the headquarters spending issues on former Chair Jerome Powell means the president could potentially seek the removal of as many as three of the Fed's seven board members. But recent court rulings suggest any attempt would face significant legal hurdles. Any legal maneuvers could take months to play out and may in practice have the effect of persuading his targets to postpone any plans to leave the Fed, as Powell has already done. Trump's ability to force the Fed off its recent decision to raise interest rates appears limited, despite the institutional damage he could do if he took further legal action. Trump appears to be weighing his options for how to proceed. The Fed is scheduled to announce its latest interest-rate decision on Oct. 28, only days before the Nov. 3 midterm election . The administration faces a deadline in the Cook case shortly after the vote. If the administration does move against any of the three governors, it may backfire for Trump, former Fed General Counsel Scott Alvarez said. \"All have an incentive to litigate and stay,\" Alvarez said. \"The Supreme Court said that Lisa Cook can stay while the litigation goes on. If they all stay while he goes on, then all he's done is hurt his own agenda,\" Alvarez said of Trump. Read more CNBC politics and policy coverage Inside the China espionage case that ensnared former Fed advisor John Rogers AI's coming roadblock in regulation: Antitrust hawks Trump holds up to $1 billion in bonds tied to institutions he can affect Rep. James Comer expands House investigation into prediction market insider trading Trump fumed in the wake of Wednesday's IG report. \"Powell is a disaster,\" the president said Wednesday when asked by reporters about the findings. Powell \"should not be sitting on the Federal Reserve Board.\" Trump appointed Powell during his first term, then quickly soured on him. Trump asked Attorney General Todd Blanche to review the inspector general's report. A spokesman for Jeanine Pirro, the U.S. attorney for the District of Columbia said her office was also reviewing the report. The DOJ didn't respond to emailed questions about its plans and how Blanche's review might differ from Pirro's. Pirro previously oversaw a criminal investigation into Powell. A judge quashed her subpoenas in the matter, saying their \"dominant (if not sole) purpose is to harass and pressure Powell.\" The Fed declined to comment on Trump's remarks about Powell. The long-awaited IG report found a raft of managerial problems had allowed construction costs to jump by about a billion dollars as the Fed renovated its Washington office space. But the report found no evidence of administrative misconduct and saw nothing meriting a criminal referral to prosecutors. \"I personally don't think the renovation report would be enough for a court to remove Jay for cause,\" said Scott Alvarez, a former Fed general counsel. \"It exonerates him on the criminal side, but it also says they didn't identify any administrative misconduct.\" The report details how bureaucratic disorganization left the Fed vulnerable to overspending on a project to renovate and connect a pair of historical federal buildings in Washington. The IG's office faults the Fed for failing to enforce a guaranteed maximum price for the project, among other issues. But the backward-looking report can't directly prove the Fed would have saved money had it operated better. It acknowledges in a footnote that better management \"does not necessarily mean the project's overall cost will be lower.\" Nor does it pin the cost overruns on Powell or any individual governor, instead describing failures in project management, contracting and the board's governance and oversight systems. The IG's office notes that the board delegated responsibility to the staff, as it would have expected for a construction project at a large organization. Powell can stay on the Fed as a governor through January 2028. He said in March he would remain until the legal threat was \"well and truly over, with transparency and finality.\" The Supreme Court in June blocked Trump's attempt to remove Cook over allegations that she had lied on a mortgage application . The court said she was owed notice of the allegations and a chance to respond, and issued guidance for what a later finding of cause might entail. As of August, Cook has received the notice and opportunity to respond, removing one obstacle to her potential removal. The administration would still need to show courts it has met the threshold for cause, which would likely require another Supreme Court review. The White House hasn't publicly addressed the issue since Cook's response, though in an interview published by Time on Thursday Trump complained about Cook . Newly confirmed Fed Chairman Kevin Warsh is \"controlled to a certain extent\" by the board, Trump said. \"We have Lisa on there,\" he said. For now, the Cook case is pending before U.S. District Court Judge Jia Cobb. She has asked the parties for a joint status report by Nov. 6 on how the litigation should proceed. Meanwhile an outside investigation into the Fed's handling of the 2023 failure of Silicon Valley Bank is ongoing. A preliminary report by the investigative firm Starling Advisory Group faulted the Fed's bank supervisors, whom it said should have known about the risks to the bank as much as a year ahead of its failure. The preliminary review doesn't assign responsibility to Barr personally. But the White House heaped the blame for the episode at Barr's feet, while stopping short of calling for his firing. There may not be evidence enough in that report to justify his removal to a skeptical judiciary. But some in the Fed believe Trump has already proved the administration is willing to act on thin evidence. Powell issued an extraordinary statement in January after subpoenas for evidence involving the renovation. \"This new threat is not about my testimony last June or about the renovation of the Federal Reserve buildings,\" Powell said. \"Those are pretexts.\" Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-10-01T19:03:35+00:00",
+   "tickers": [
+    "POWL"
+   ]
+  },
+  {
    "id": "aea9736193cb",
    "title": "RDW Stock Alert: What to Know as Redwire Teams Up With Honda on Robotics",
    "link": "https://biztoc.com/x/7cf4dcd55471b268?ref=rss",
@@ -60,6 +665,36 @@
    "tickers": [
     "RDW"
    ]
+  },
+  {
+   "id": "fbf9f0c33ac3",
+   "title": "iShares GNMA Bond ETF declares monthly distribution of $0.2314",
+   "link": "https://seekingalpha.com/news/4649477-ishares-gnma-bond-etf-declares-monthly-distribution-of-02314?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-01T19:03:34+00:00",
+   "tickers": [
+    "IAGG"
+   ]
+  },
+  {
+   "id": "5c6e96e91573",
+   "title": "US mortgage rates jump by most in 4 years in latest week",
+   "link": "https://biztoc.com/x/ef21c3a66a70ef67?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "macro",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-10-01T19:03:33+00:00",
+   "tickers": []
   },
   {
    "id": "15d18d2b601a",
@@ -104,20 +739,6 @@
    "tickers": []
   },
   {
-   "id": "b754a1c0af91",
-   "title": "Brent oil jumps more than 4% as U.S. reportedly sends third aircraft carrier to Middle East",
-   "link": "https://www.cnbc.com/2026/10/01/oil-prices-today-wti-brent.html",
-   "summary": "Oil prices rose sharply Thursday, following a report the U.S. is sending a third aircraft-carrier strike group to the Middle East.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "cnbc.com",
-   "published": "2026-10-01T19:03:25+00:00",
-   "tickers": []
-  },
-  {
    "id": "f4d4e8777553",
    "title": "Republicans are taking a kitchen-sink approach to the diesel crisis",
    "link": "https://biztoc.com/x/3076507687b4f16e?ref=rss",
@@ -157,6 +778,20 @@
    "sentiment": "neutral",
    "domain": "biztoc.com",
    "published": "2026-10-01T19:03:20+00:00",
+   "tickers": []
+  },
+  {
+   "id": "8cbf2043f7d5",
+   "title": "Another Trump memecoin dinner advertised for token's top investors",
+   "link": "https://biztoc.com/x/76441a5f587dc00b?ref=rss",
+   "summary": "President Donald Trump’s memecoin investors will get another chance to have dinner with the leader of the U.S. executive branch, with the token managers marketing another “gala dinner” for November. - Though Trump is set to attend the event at his Washington, D.C,-area club, the three “legends”…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-10-01T19:03:19+00:00",
    "tickers": []
   },
   {
@@ -398,6 +1033,22 @@
    ]
   },
   {
+   "id": "7651048a2cf1",
+   "title": "iShares Government Money Market ETF declares monthly distribution of $0.2314",
+   "link": "https://seekingalpha.com/news/4649475-ishares-government-money-market-etf-declares-monthly-distribution-of-02314?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-01T19:01:29+00:00",
+   "tickers": [
+    "IAGG"
+   ]
+  },
+  {
    "id": "86c830ddf4ab",
    "title": "MP Materials: Overreliance On The DoD Agreement And Deteriorating Core Business Fundamentals",
    "link": "https://seekingalpha.com/article/4951373-mp-materials-not-looking-to-be-on-the-wrong-side-of-this-rating-downgrade?source=feed_all_articles",
@@ -428,6 +1079,48 @@
    "tickers": []
   },
   {
+   "id": "6996e48cf70d",
+   "title": "Generate more portfolio income in volatile times with these options strategies",
+   "link": "https://www.cnbc.com/2026/10/01/generate-more-portfolio-income-in-volatile-times-with-these-options-strategies.html",
+   "summary": "When times get rocky, options strategies can boost your portfolio's income — if they're done right.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-10-01T19:00:46+00:00",
+   "tickers": []
+  },
+  {
+   "id": "cf902576fd47",
+   "title": "Lowest Fee Bitcoin ATMs Announces Launch of More Than 400 ATMs Nationwide",
+   "link": "https://www.investing.com/news/cryptocurrency-news/lowest-fee-bitcoin-atms-announces-launch-of-more-than-400-atms-nationwide-4928141",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-01T19:00:37+00:00",
+   "tickers": []
+  },
+  {
+   "id": "00c6414e8ea3",
+   "title": "US Energy Secretary Wright ’highly confident’ Europe will release diesel stocks",
+   "link": "https://www.investing.com/news/commodities-news/us-energy-secretary-wright-highly-confident-europe-will-release-diesel-stocks-4928140",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-01T19:00:27+00:00",
+   "tickers": []
+  },
+  {
    "id": "d4f55c666aa7",
    "title": "Wärtsilä Oyj Abp (WRTBY) Discusses Financial Impact of Global Energy Storage Joint Venture Closing and IFRS 18 Implications Transcript",
    "link": "https://seekingalpha.com/article/4951366-wartsila-oyj-abp-wrtby-discusses-financial-impact-of-global-energy-storage-joint-venture?source=feed_all_articles",
@@ -440,99 +1133,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-10-01T19:00:25+00:00",
    "tickers": []
-  },
-  {
-   "id": "970d1f86cdf4",
-   "title": "Cotton Extending Losses to Thursday",
-   "link": "https://www.nasdaq.com/articles/cotton-extending-losses-thursday",
-   "summary": "Cotton futures are trading with contracts 34 to 123 points lower across most contracts on Thursday. Crude oil is back up $166 per barrel on the session, with the US dollar index shooting $0.714 higher. USDA’s Export Sales report showed 202,567 RB of cotton sales in the week ending in...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-10-01T19:00:02+00:00",
-   "tickers": []
-  },
-  {
-   "id": "9b36ccddbf03",
-   "title": "Corn Selling Extends to Start October",
-   "link": "https://www.nasdaq.com/articles/corn-selling-extends-start-october",
-   "summary": "Corn futures are trading with contracts 4 to 5 cents lower so far on Thursday. The CmdtyView national average Cash Corn price is down 2 cents at $4.56 3/4. Export Sales data from this morning showed just 535,989 MT in corn sales for 2026/27, which edged in the 0.5-1.3 MMT...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-01T19:00:02+00:00",
-   "tickers": [
-    "MT"
-   ]
-  },
-  {
-   "id": "9c352128d96e",
-   "title": "Cattle Posting Mostly Higher Trade on Thursday",
-   "link": "https://www.nasdaq.com/articles/cattle-posting-mostly-higher-trade-thursday",
-   "summary": "Live cattle futures are trading with contracts 10 to 65 cents higher and other contracts lower. Cash trade saw some light $348-350 dressed action in the North so far this week as reported by USDA, with live sales at $219-219.50. The Thursday Fed Cattle Exchange online auction showed no sales...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-01T19:00:02+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d300e8f084b9",
-   "title": "Soybeans Losses Extending to Thursday",
-   "link": "https://www.nasdaq.com/articles/soybeans-losses-extending-thursday",
-   "summary": "Soybeans are trading with losses of 16 to 17 cents so far on Thursday. The cmdtyView national average Cash Bean price is down 19 1/4 cents at $12.20 1/4. Soymeal futures are down $6 to $7.30, with Soy Oil 140 to 145 points lower. Export Sales data from USDA was...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-10-01T19:00:02+00:00",
-   "tickers": []
-  },
-  {
-   "id": "57a86adff327",
-   "title": "Stocks Climb on a Strong Forecast from Micron",
-   "link": "https://www.nasdaq.com/articles/stocks-climb-strong-forecast-micron",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) is up by +0.17% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down by -0.40%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +0.15%. December E-mini S&P futures (ESZ26 ) are up +0.13%, and December E-mini...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "guidance",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-10-01T19:00:01+00:00",
-   "tickers": [
-    "QQQ",
-    "MU",
-    "NDAQ",
-    "SPY"
-   ]
-  },
-  {
-   "id": "1e670e487c87",
-   "title": "Hogs Falling on Thursday",
-   "link": "https://www.nasdaq.com/articles/hogs-falling-thursday-0",
-   "summary": "Lean hog futures are trading with losses of 85 cents to $1.10 in the front months on Thursday. USDA’s national base hog price was not reported on Thursday due to thin trade. The CME Lean Hog Index was up a penny on September 29 at $80.95. Export Sales data showed...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-01T19:00:01+00:00",
-   "tickers": [
-    "CME"
-   ]
   },
   {
    "id": "53041ff716de",
@@ -556,7 +1156,7 @@
    "link": "https://www.prnewswire.com/news-releases/diversis-capital-acquires-majority-ownership-of-tideworks-technology-from-carrix-302896434.html",
    "summary": "LOS ANGELES, Oct. 1, 2026 /PRNewswire/ -- Diversis Capital LLC (\"Diversis\"), a Los Angeles-based software and technology services-focused private equity firm, today announced that it has acquired majority ownership of Tideworks Technology® Inc. (\"Tideworks\") from Carrix, Inc. which is...",
    "article_text": "",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "ma",
    "sentiment": "neutral",
@@ -570,7 +1170,7 @@
    "link": "https://www.prnewswire.com/news-releases/bold-penguin-and-bolttech-announce-global-strategic-partnership-302896448.html",
    "summary": "Partnership brings commercial and personal lines together in a unified offering for agents, insurers and embedded partners across the U.S., Europe and Asia LAS VEGAS, Oct. 1, 2026 /PRNewswire/ -- Bold Penguin, the Digital Broker for commercial insurance, announced a global strategic...",
    "article_text": "",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -589,6 +1189,48 @@
    "type": "press",
    "sentiment": "neutral",
    "domain": "globenewswire.com",
+   "published": "2026-10-01T19:00:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "5a5176543e67",
+   "title": "SUJA INVESTIGATION ALERT: Investigation Launched into Suja Life, Inc., Robbins Geller Rudman &amp; Dowd LLP Attorneys Encourage Investors and Potential Witnesses to Contact Law Firm",
+   "link": "https://www.prnewswire.com/news-releases/suja-investigation-alert-investigation-launched-into-suja-life-inc-robbins-geller-rudman--dowd-llp-attorneys-encourage-investors-and-potential-witnesses-to-contact-law-firm-302894201.html",
+   "summary": "SAN DIEGO, Oct. 1, 2026 /PRNewswire/ -- Robbins Geller Rudman & Dowd LLP is investigating potential violations of United States federal securities laws involving Suja Life, Inc. (NASDAQ: SUJA). If you have any information that could assist in the Suja Life investigation or if you are a...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "prnewswire.com",
+   "published": "2026-10-01T19:00:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "56c113e51a3a",
+   "title": "Jimmy Kimmel Live's Guillermo Rodriguez Takes Guillermo's Salsa Nationwide After Surpassing 1M Tubs Sold",
+   "link": "https://www.prnewswire.com/news-releases/jimmy-kimmel-lives-guillermo-rodriguez-takes-guillermos-salsa-nationwide-after-surpassing-1m-tubs-sold-302896244.html",
+   "summary": "Now You Can Eat The American Dream Across the Country! IMAGES FOR DOWNLOAD HERE LOS ANGELES, Oct. 1, 2026 /PRNewswire/ -- Best known as Jimmy Kimmel's late-night sidekick and America's newest dancing sweetheart, Guillermo Rodriguez is taking Guillermo's Salsa nationwide, showing us what's...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-10-01T19:00:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "6fc5bea608d2",
+   "title": "York Space Systems, Inc. (YSS) Shareholders Who Lost Money Have Opportunity to Lead Securities Fraud Lawsuit",
+   "link": "https://www.prnewswire.com/news-releases/york-space-systems-inc-yss-shareholders-who-lost-money-have-opportunity-to-lead-securities-fraud-lawsuit-302896337.html",
+   "summary": "LOS ANGELES, Oct. 1, 2026 /PRNewswire/ -- The Law Offices of Frank R. Cruz announces that investors with losses related to York Space Systems, Inc. (YSS) have opportunity to lead the securities fraud class action lawsuit. IF YOU ARE AN INVESTOR WHO SUFFERED A LOSS IN YORK SPACE SYSTEMS,...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "prnewswire.com",
    "published": "2026-10-01T19:00:00+00:00",
    "tickers": []
   },
@@ -657,6 +1299,20 @@
    ]
   },
   {
+   "id": "93bb720faf9d",
+   "title": "Batteries Plus Fuels Franchise Growth with 19 New Q3 Signings",
+   "link": "https://www.prnewswire.com/news-releases/batteries-plus-fuels-franchise-growth-with-19-new-q3-signings-302896456.html",
+   "summary": "Additional Franchise Agreements in Florida, Texas, and More Highlight Strong Momentum for Nation's Leading Specialty Battery Franchise HARTLAND, Wis., Oct. 1, 2026 /PRNewswire/ -- Batteries Plus, the nation's leading battery and power solutions service center, is fully charged heading...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-10-01T18:58:00+00:00",
+   "tickers": []
+  },
+  {
    "id": "f0a837a0714b",
    "title": "CNBC AI Forum live updates: How companies are scaling and securing AI",
    "link": "https://www.cnbc.com/2026/10/01/cnbc-ai-forum-2026-live-updates.html",
@@ -704,6 +1360,20 @@
    ]
   },
   {
+   "id": "3e9373fa0f36",
+   "title": "WOW! Named Cablefax's 2026 \"Top Ops Market Mover\"",
+   "link": "https://www.prnewswire.com/news-releases/wow-named-cablefaxs-2026-top-ops-market-mover-302896454.html",
+   "summary": "Recognition highlights WOW!'s continued innovation and investment in network expansion and modernization ENGLEWOOD, Colo., Oct. 1, 2026 /PRNewswire/ -- WideOpenWest, Inc. a leading provider of fiber-broadband internet services and advanced connectivity solutions, today announced it has...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "positive",
+   "domain": "prnewswire.com",
+   "published": "2026-10-01T18:56:00+00:00",
+   "tickers": []
+  },
+  {
    "id": "6cf692e451c4",
    "title": "iShares ESG Advanced Total USD Bond Market ETF declares monthly distribution of $0.1459",
    "link": "https://seekingalpha.com/news/4649469-ishares-esg-advanced-total-usd-bond-market-etf-declares-monthly-distribution-of-01459?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -720,6 +1390,36 @@
    ]
   },
   {
+   "id": "7eec1cfbd1e0",
+   "title": "Equities turn higher as Treasury yields drop from highs",
+   "link": "https://www.investing.com/news/economy-news/dow-futures-hit-threemonth-low-as-yields-surge-micron-earnings-offer-support-4926657",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-10-01T18:55:15+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c9c292b1105d",
+   "title": "Accenture earnings analysis: questions answered and next catalysts",
+   "link": "https://www.investing.com/news/stock-market-news/accenture-earnings-analysis-questions-answered-and-next-catalysts-93CH-4928129",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-01T18:55:05+00:00",
+   "tickers": [
+    "ACN"
+   ]
+  },
+  {
    "id": "e200ddc05730",
    "title": "The September jobs report will be released Friday. Here's what to expect",
    "link": "https://www.cnbc.com/2026/10/01/the-september-jobs-report-will-be-released-friday-heres-what-to-expect.html",
@@ -732,6 +1432,66 @@
    "domain": "cnbc.com",
    "published": "2026-10-01T18:55:02+00:00",
    "tickers": []
+  },
+  {
+   "id": "07d303af90eb",
+   "title": "US mortgage rates jump by most in 4 years in latest week",
+   "link": "https://www.investing.com/news/economy-news/us-mortgage-rates-jump-by-most-in-4-years-in-latest-week-4928128",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "macro",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-10-01T18:54:55+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a0da75269bfb",
+   "title": "Wintrust Financial Corp ADR stock hits 52-week low at $25.49",
+   "link": "https://www.investing.com/news/company-news/wintrust-financial-corp-adr-stock-hits-52week-low-at-2549-93CH-4928127",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-01T18:54:45+00:00",
+   "tickers": []
+  },
+  {
+   "id": "397be02f03dc",
+   "title": "Cal-Maine Foods earnings analysis: questions answered and next catalysts",
+   "link": "https://www.investing.com/news/stock-market-news/calmaine-foods-earnings-analysis-questions-answered-and-next-catalysts-93CH-4928126",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-01T18:54:38+00:00",
+   "tickers": [
+    "CALM"
+   ]
+  },
+  {
+   "id": "d72c48463cb1",
+   "title": "US FAA set to convene review of Boeing 737 max software issue on Friday",
+   "link": "https://www.investing.com/news/stock-market-news/us-faa-set-to-convene-review-of-boeing-737-max-software-issue-on-friday-4928125",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-01T18:54:37+00:00",
+   "tickers": [
+    "BA"
+   ]
   },
   {
    "id": "74aeb59c9d8a",
@@ -764,18 +1524,20 @@
    "tickers": []
   },
   {
-   "id": "15c28802bc53",
-   "title": "Wheat Pushing Higher on Thursday",
-   "link": "https://www.nasdaq.com/articles/wheat-pushing-higher-thursday",
-   "summary": "Wheat bulls are trying to battle back on Thursday morning, with 4 to 7 cent gains. The wheat complex ignored USDA Grain Stocks report showing tighter stocks on Wednesday, posting losses across the three exchanges. Chicago SRW closed the day with contracts down 5 ½ to 17 cents to lead...",
+   "id": "c0114d0abdc0",
+   "title": "Micron earnings analysis: questions answered and next catalysts",
+   "link": "https://www.investing.com/news/stock-market-news/micron-earnings-analysis-questions-answered-and-next-catalysts-93CH-4928124",
+   "summary": "",
    "article_text": "",
-   "source": "NASDAQ Stocks",
+   "source": "Investing Stock",
    "category": "stocks",
    "type": "stocks",
    "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-01T18:53:31+00:00",
-   "tickers": []
+   "domain": "investing.com",
+   "published": "2026-10-01T18:53:43+00:00",
+   "tickers": [
+    "MU"
+   ]
   },
   {
    "id": "b15b1374de4c",
@@ -808,18 +1570,34 @@
    ]
   },
   {
-   "id": "bfd68a1229fb",
-   "title": "United Airlines goes after top frequent flyers at Delta, American with status match",
-   "link": "https://www.cnbc.com/2026/10/01/united-airlines-status-match-delta-american.html",
-   "summary": "United Airlines launched an aggressive status match program for Delta and American's top frequent flyer elites.",
+   "id": "465b55f0929b",
+   "title": "Chemung Canal Trust Company completes conversion to national bank",
+   "link": "https://www.investing.com/news/sec-filings/chemung-canal-trust-company-completes-conversion-to-national-bank-93CH-4928123",
+   "summary": "",
    "article_text": "",
-   "source": "CNBC Top",
+   "source": "Investing.com",
    "category": "markets",
    "type": "markets",
-   "sentiment": "positive",
-   "domain": "cnbc.com",
-   "published": "2026-10-01T18:52:08+00:00",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-01T18:52:44+00:00",
    "tickers": []
+  },
+  {
+   "id": "f52e8fd48c36",
+   "title": "Lumentum options activity analysis: calls, condors, and volatility signals",
+   "link": "https://www.investing.com/news/stock-market-news/lumentum-options-activity-analysis-calls-condors-and-volatility-signals-93CH-4928120",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-01T18:51:58+00:00",
+   "tickers": [
+    "LITE"
+   ]
   },
   {
    "id": "ee7d267b53d4",
@@ -902,6 +1680,22 @@
     "LITE",
     "CIEN",
     "ANET"
+   ]
+  },
+  {
+   "id": "8a86027bcdb6",
+   "title": "AppLovin options flow: puts edge out calls as shares slip 2.73%",
+   "link": "https://www.investing.com/news/stock-market-news/applovin-options-flow-puts-edge-out-calls-as-shares-slip-273-93CH-4928116",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-01T18:49:45+00:00",
+   "tickers": [
+    "APP"
    ]
   },
   {
@@ -1424,22 +2218,6 @@
    ]
   },
   {
-   "id": "df0eee2bf277",
-   "title": "General Motor Q3 sales drop 5.5%, while Toyota buoyed by EVs, hybrids",
-   "link": "https://www.cnbc.com/2026/10/01/us-auto-sales-q3.html",
-   "summary": "GM's sales of all-electric vehicles are down across the board, as enthusiasm for electric vehicles wanes.",
-   "article_text": "GM Q3 sales drop 5.5% while Toyota buoyed by electrified vehicle sales Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Key Points GM reported new vehicle sales declined 5.5% during the third quarter. The automaker's sales of all-electric vehicles were down across the board. Toyota, meanwhile, reported sales were up 0.6% for the most recent quarter, with particular strength reported in its electrified-vehicle sector, which includes hybrids. In this article GM Follow your favorite stocks CREATE FREE ACCOUNT Signage at a General Motors Co. Chevrolet dealership in Colma, California, US, on Friday, Jan. 23, 2026. David Paul Morris | Bloomberg | Getty Images General Motors on Thursday reported a year-over-year sales decline of 5.5%, with 670,974 new vehicles sold during the third quarter. GM's sales of all-electric vehicles are down across the board, as enthusiasm for EVs wanes. EV demand spiked last year ahead of the Trump administration ending up to $7,500 in federal incentives for consumers to purchase an electric vehicle. During the same period last year, GM reported record sales of its electric vehicles. Against those comparisons, EVs this year saw dramatic drops, with the Equinox EV down 92.4% during the most recent quarter, at 1,905 vehicles sold. The Blazer EV was down 84.4% and Hummer EV sales fell 72.9%. The report comes after Cox Automotive said last week that new vehicle sales have been stronger than expected this year and raised its 2026 forecast by roughly 2%, to 16.1 million units. Hybrid vehicle sales are expected to capture a growing market share of car sales, as inflated gas prices pressure consumers. Despite offering a broad EV lineup, the Detroit automaker only offers one hybrid vehicle, a Corvette. Experts expect GM's weakness in the sector to impact its overall sales. Hybrids assisted other automakers in outperforming GM in third-quarter sales. Toyota Motor reported that its EV and hybrid vehicles made up over 57% of the Japanese automaker's sales this quarter. Toyota said sales were up 0.6% for the most recent quarter, with 633,223 vehicles sold. Sales of its electrified vehicles, which include hybrids, were up 28.5%, with 363,367 units sold. That helped Toyota continue to narrow its gap with U.S. sales leader GM, which is now less than 136,000 units. That compares to a full-year gap of roughly 335,000 units last year. Cox Automotive earlier this year said if such sales trends continue, Toyota could once again overtake GM to become the U.S. sales leader in the coming years. Honda Motor, which also offers several hybrids and leads major automakers in fuel economy in the U.S., reported a 9.3% increase in U.S. third-quarter sales. Its hybrid sales were a record of more than 106,000 units during the quarter. \"We've got really high demand for hybrids,\" Lance Woelfer, head of American Honda Motor's U.S. sales, told CNBC. \"We're finding more and more consumers are figuring out hybrids meet their needs.\" High fuel prices, with an AAA national average of $4.41, were also expected to impact sales of big trucks and SUVs, sectors that GM relies on. GM's full-size pickups were relatively flat. Each of the automaker's brands are down so far year to date, led by a 25% decline in Cadillac. GM's lower-cost vehicles are a bright spot for the company as consumers face high inflation. The Chevrolet Trailblazer was up 51% for the third quarter, while sales of Buick Envista were up 18.4% and Chevrolet Trax up 16.3%. Despite falling sales, Duncan Aldred, president of GM North American, remained optimistic. \"Our business is performing very well, the launch of our next-generation full-size pickup trucks is on track, and we are making investments in new vehicles, innovative technologies, and our U.S. manufacturing footprint to drive our next phase of growth,\" Aldred said in a statement . General Motors last month announced additional details about its new V-8 engines for its pickup trucks, as it attempts to maintain leadership in truck sales. Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "negative",
-   "domain": "cnbc.com",
-   "published": "2026-10-01T18:43:00+00:00",
-   "tickers": [
-    "GM"
-   ]
-  },
-  {
    "id": "3d3e4e9dd677",
    "title": "Q/C Technologies Announces Research Collaboration with Sandia National Laboratories, a $5 Billion U.S. Department of Energy Lab",
    "link": "https://www.globenewswire.com/news-release/2026/10/01/3373340/0/en/q-c-technologies-announces-research-collaboration-with-sandia-national-laboratories-a-5-billion-u-s-department-of-energy-lab.html",
@@ -1590,22 +2368,6 @@
    "tickers": []
   },
   {
-   "id": "56b4e06bf3d5",
-   "title": "Dollar Strength Spurs Long Liquidation in Coffee Futures",
-   "link": "https://www.nasdaq.com/articles/dollar-strength-spurs-long-liquidation-coffee-futures",
-   "summary": "December arabica coffee (KCZ26 ) is down -3.25 (-1.12%) today, and November ICE robusta coffee (RMX26 ) is down -23 (-0.67%). Coffee prices are retreating today as a rally in the dollar index ($DXY ) to a 1.5-year high has prompted long liquidation in coffee futures. On Wednesday, arabica coffee...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-01T18:40:18+00:00",
-   "tickers": [
-    "ICE"
-   ]
-  },
-  {
    "id": "b99ea782fa0d",
    "title": "Stocks Erase Gains as Inflation Risks Push Bond Yields Higher",
    "link": "https://www.nasdaq.com/articles/stocks-erase-gains-inflation-risks-push-bond-yields-higher",
@@ -1623,34 +2385,6 @@
     "SPY",
     "DIA"
    ]
-  },
-  {
-   "id": "ab72b4beacc4",
-   "title": "Cotton Starting Off Thursday with Losses",
-   "link": "https://www.nasdaq.com/articles/cotton-starting-thursday-losses",
-   "summary": "Cotton is starting Thursday with AM losses of 6 to 10 points. Futures closed the Wednesday session with contracts 16 to 43 pints lower across the board. Crude oil is back up $2.06 per barrel on the session, with the US dollar index $0.074 higher. The Cotlook A index was...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-10-01T18:40:17+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b2289cb400d4",
-   "title": "Soybeans Slipping on Thursday Morning",
-   "link": "https://www.nasdaq.com/articles/soybeans-slipping-thursday-morning",
-   "summary": "Soybeans are posting 2 to 3 cent losses early on Thursday. Futures failed to see strength on a friendly stocks number on Wednesday, with contracts down 2 ¼ to 5 cents at the close. Sharp losses in corn were a spillover pressure factor. Open interest was up 3,340 contracts. The...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-01T18:40:17+00:00",
-   "tickers": []
   },
   {
    "id": "3f933c4ccf21",
@@ -1680,6 +2414,23 @@
    "published": "2026-10-01T18:40:00+00:00",
    "tickers": [
     "COMP"
+   ]
+  },
+  {
+   "id": "8ef577c83031",
+   "title": "X-Energy Just Went Public in 2026. Here's How It Stacks Up Against Oklo, NuScale, and BWX Technologies.",
+   "link": "https://www.nasdaq.com/articles/x-energy-just-went-public-2026-heres-how-it-stacks-against-oklo-nuscale-and-bwx",
+   "summary": "Key PointsX-Energy’s stock has dropped nearly 40% below its IPO price.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-01T18:40:00+00:00",
+   "tickers": [
+    "BWXT",
+    "OKLO"
    ]
   },
   {
@@ -1908,6 +2659,20 @@
    ]
   },
   {
+   "id": "8d932b1c929f",
+   "title": "TSX Remains In Negative Territory; Tech, Energy Stocks Climb Higher",
+   "link": "https://www.nasdaq.com/articles/tsx-remains-negative-territory-tech-energy-stocks-climb-higher",
+   "summary": "(RTTNews) - Canadian stocks languish in negative territory on Thursday, tracking a sell-off in global markets due to rising oil prices and elevated bond yields.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-10-01T18:37:03+00:00",
+   "tickers": []
+  },
+  {
    "id": "510bad5bddbf",
    "title": "Petrus Advisers &amp; Petrus Legal Strategies (\"Petrus\") on SNP Schneider-Neureither &amp; Partner SE",
    "link": "https://www.prnewswire.com/news-releases/petrus-advisers--petrus-legal-strategies-petrus-on-snp-schneider-neureither--partner-se-302896433.html",
@@ -2038,22 +2803,6 @@
    "category": "stocks",
    "type": "stocks",
    "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-10-01T18:34:36+00:00",
-   "tickers": [
-    "ICE"
-   ]
-  },
-  {
-   "id": "a0d71deccb69",
-   "title": "Cocoa Prices Recover on Supply Risks",
-   "link": "https://www.nasdaq.com/articles/cocoa-prices-recover-supply-risks",
-   "summary": "December ICE NY cocoa (CCZ26 ) is up +24 (+0.45%) today, and December ICE London cocoa #7 (CAZ26 ) is up +15 (+0.37%). Cocoa prices recovered from early losses today, with NY cocoa rebounding from a 2-month low. Short covering emerged in cocoa futures today amid concern that Ghana's move...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
    "domain": "nasdaq.com",
    "published": "2026-10-01T18:34:36+00:00",
    "tickers": [
@@ -2522,6 +3271,20 @@
    ]
   },
   {
+   "id": "44d6cf46f831",
+   "title": "US mortgage rates jump the most in four years amid bond sell-off",
+   "link": "https://www.ft.com/content/22779c05-8bda-423e-b5bf-6839d597f499?syn-25a6b1a6=1",
+   "summary": "Homebuilders and prospective buyers continue to face challenging market conditions",
+   "article_text": "",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "macro",
+   "sentiment": "positive",
+   "domain": "ft.com",
+   "published": "2026-10-01T18:29:38+00:00",
+   "tickers": []
+  },
+  {
    "id": "f005fc57fa3d",
    "title": "U.S. Bond Yields Hit Highest Level Since 2002",
    "link": "https://www.nytimes.com/2026/10/01/business/bond-yields-10-year-treasury.html",
@@ -2626,6 +3389,22 @@
    ]
   },
   {
+   "id": "b823beb9e5d4",
+   "title": "Stocks rise in choppy first October session as Treasury yields ease from multidecade highs: Live updates",
+   "link": "https://www.cnbc.com/2026/09/30/stock-market-today-live-updates.html",
+   "summary": "Stocks seesawed Thursday, with traders closely watching neck-breaking moves in Treasury yields, while a blockbuster earnings report failed to boost Micron shares.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "cnbc.com",
+   "published": "2026-10-01T18:25:27+00:00",
+   "tickers": [
+    "MU"
+   ]
+  },
+  {
    "id": "52d2bfe080ec",
    "title": "Where Healthcare Innovation Meets Investment Opportunity",
    "link": "https://seekingalpha.com/article/4951434-healthcare-innovation-investment-opportunity?source=feed_all_articles",
@@ -2654,20 +3433,6 @@
    "tickers": [
     "POST"
    ]
-  },
-  {
-   "id": "e0e98e2da050",
-   "title": "What to Know About Trump Accounts as More Than 60 Million Children Are Auto-Enrolled",
-   "link": "https://www.nytimes.com/2026/10/01/business/trump-accounts-auto-enrollment.html",
-   "summary": "The Trump administration may have just signed up your child — and more than 60 million others — for a 530A savings account (if you haven’t already done so).",
-   "article_text": "",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "nytimes.com",
-   "published": "2026-10-01T18:24:55+00:00",
-   "tickers": []
   },
   {
    "id": "b504317692f5",
@@ -8159,756 +8924,6 @@
    "tickers": [
     "NWSA"
    ]
-  },
-  {
-   "id": "bde7e05f5607",
-   "title": "SupplySide Global Brings Together Ingredient and Supplement Ecosystem for Discovery, Education and Business Acceleration",
-   "link": "https://markets.businessinsider.com/news/stocks/supplyside-global-brings-together-ingredient-and-supplement-ecosystem-for-discovery-education-and-business-acceleration-1036590538",
-   "summary": "LAS VEGAS, Oct. 01, 2026 (GLOBE NEWSWIRE) -- SupplySide Global , the world's leading trade show and conference for the supplement, food, and beverage industries, returns to the Mandalay Bay Convention Center , October 26-30, 2026, with the Expo...",
-   "article_text": "",
-   "source": "Markets Insider",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "markets.businessinsider.com",
-   "published": "2026-10-01T17:00:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ac1bf6aca751",
-   "title": "Camden National Corporation to Announce Quarter Ended September 30, 2026 Financial Results on October 27, 2026",
-   "link": "https://www.prnewswire.com/news-releases/camden-national-corporation-to-announce-quarter-ended-september-30-2026-financial-results-on-october-27-2026-302896204.html",
-   "summary": "CAMDEN, Maine, Oct. 1, 2026 /PRNewswire/ -- Camden National Corporation (NASDAQ: CAC) will report financial and operating results for the quarter ended September 30, 2026 on Tuesday, October 27, 2026. A conference call and webcast will be held at 3:00 p.m. Eastern on Tuesday, October 27,...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-01T17:00:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "a4653c1b0572",
-   "title": "Fulton Financial Corporation Announces Dates for Third Quarter 2026 Earnings Release and Webcast",
-   "link": "https://www.prnewswire.com/news-releases/fulton-financial-corporation-announces-dates-for-third-quarter-2026-earnings-release-and-webcast-302896285.html",
-   "summary": "LANCASTER, Pa., Oct. 1, 2026 /PRNewswire/ -- Fulton Financial Corporation (\"Fulton\") (Nasdaq: FULT) today announced that it will distribute its third quarter 2026 earnings release and accompanying charts on Wednesday, October 21, at approximately 4:30 p.m. Eastern Time. Fulton will host a...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-01T17:00:00+00:00",
-   "tickers": [
-    "NDAQ"
-   ]
-  },
-  {
-   "id": "5d43327df52e",
-   "title": "The Loan Store Is Now Averra Financial",
-   "link": "https://www.prnewswire.com/news-releases/the-loan-store-is-now-averra-financial-302896306.html",
-   "summary": "Top-four national wholesale lender unveils new name and brand built around broker partnership, technology and product breadth TUCSON, Ariz., Oct. 1, 2026 /PRNewswire/ -- The Loan Store, Inc., one of the four largest wholesale mortgage lenders in the United States, today announced it has...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-01T17:00:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "973c3c61a442",
-   "title": "Florida Governor Candidate Frank Russo Issues Open Letter to President Trump: \"Help Me Build Homes for Working Families in All 67 Counties\"",
-   "link": "https://www.prnewswire.com/news-releases/florida-governor-candidate-frank-russo-issues-open-letter-to-president-trump-help-me-build-homes-for-working-families-in-all-67-counties-302896246.html",
-   "summary": "Russo challenges Trump to bring America's builders to the table for a privately funded housing push in every Florida county NEW SMYRNA BEACH, Fla., Oct. 1, 2026 /PRNewswire/ -- Frank Russo, Non-party affiliated candidate for Governor of Florida, today released an open letter to President...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-01T17:00:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "25d501ffb299",
-   "title": "Se inaugura el Toyota Battery Center of North America en el campus de I+D de Míchigan",
-   "link": "https://www.prnewswire.com/news-releases/se-inaugura-el-toyota-battery-center-of-north-america-en-el-campus-de-i-d-de-michigan-888020081.html",
-   "summary": "El nuevo centro de desarrollo potencia las capacidades de ensayo y evaluación en el camino hacia la electrificación SALINE, Míchigan, 1 de octubre de 2026 /PRNewswire-HISPANICPRWIRE/ -- El siguiente capítulo de la transformación hacia la electrificación de Toyota comienza hoy con la...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-01T17:00:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "dc582f892adb",
-   "title": "Pivot Point Consulting Names Gwen Cantarera Head of Marketing",
-   "link": "https://www.prnewswire.com/news-releases/pivot-point-consulting-names-gwen-cantarera-head-of-marketing-302896325.html",
-   "summary": "Healthcare IT marketing veteran to lead brand and growth strategy as the firm expands into international markets PANAMA CITY, Fla., Oct. 1, 2026 /PRNewswire/ -- Pivot Point Consulting, a Best in KLAS healthcare IT consulting leader, today announced the appointment of Gwen Cantarera as...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-01T17:00:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e5437a1c7ff0",
-   "title": "BOSGAME Brings Everyday Computing Upgrades to Amazon Prime Big Deal Days 2026",
-   "link": "https://www.prnewswire.com/news-releases/bosgame-brings-everyday-computing-upgrades-to-amazon-prime-big-deal-days-2026-302890863.html",
-   "summary": "Selected Mini PCs will be available at 20% to 35% off for a limited time on October 6–7 NEW YORK, Oct. 1, 2026 /PRNewswire/ -- BOSGAME, a technology-based electronic product brand, will participate in Amazon Prime Big Deal Days 2026, offering limited-time savings on selected Mini PCs from...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "prnewswire.com",
-   "published": "2026-10-01T17:00:00+00:00",
-   "tickers": [
-    "AMZN"
-   ]
-  },
-  {
-   "id": "a41b36cff827",
-   "title": "Governor Newsom Signs Landmark Genetic Privacy Act, Protecting Californians from Insurance Discrimination",
-   "link": "https://www.prnewswire.com/news-releases/governor-newsom-signs-landmark-genetic-privacy-act-protecting-californians-from-insurance-discrimination-302896139.html",
-   "summary": "ALS Association helped lead a coalition of patient advocates in securing groundbreaking protections for Californians living with ALS and other genetic conditions ARLINGTON, Va., Oct. 1, 2026 /PRNewswire/ -- In a significant victory for people living with ALS and their families, Governor...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-01T17:00:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "81c620ab6520",
-   "title": "EAIGLE Unveils the Yard of the Future as AI Reshapes Freight Operations",
-   "link": "https://www.prnewswire.com/news-releases/eaigle-unveils-the-yard-of-the-future-as-ai-reshapes-freight-operations-302896321.html",
-   "summary": "Inaugural Summit brought together supply chain leaders to examine how AI-native automation, connected data and emerging technologies are moving from concept to real-world deployment across gate and yard operations TORONTO, Oct. 1, 2026 /PRNewswire/ -- EAIGLE, the leader in AI-native gate...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-01T17:00:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "50a765cde9de",
-   "title": "EnPower Is Now CAMINUS",
-   "link": "https://www.prnewswire.com/news-releases/enpower-is-now-caminus-302896295.html",
-   "summary": "Indianapolis lithium-ion cell maker adopts new name as it matures into a domestic volume manufacturer for defense, uncrewed systems, and industrial customers INDIANAPOLIS, Oct. 1, 2026 /PRNewswire/ -- EnPower, Inc., a U.S. manufacturer of lithium-ion battery cells, today announced that it...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-01T17:00:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "df32360151e1",
-   "title": "Avimer Bio and CNIO Advance Protein Cage Design for Targeted Medicine",
-   "link": "https://www.prnewswire.com/news-releases/avimer-bio-and-cnio-advance-protein-cage-design-for-targeted-medicine-302896293.html",
-   "summary": "Avimer Bio and CNIO announce JACS publication detailing computational methods to build self-assembling protein cages with atomic precision for targeted medicine. SAN DIEGO, Oct. 1, 2026 /PRNewswire/ -- Avimer Bio, in collaboration with structural biologists at the Spanish National Cancer...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-01T17:00:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d0bc70607a20",
-   "title": "Josephine Moran Named One of American Banker’s 2026 Most Powerful Women in Banking to Watch",
-   "link": "https://www.globenewswire.com/news-release/2026/10/01/3373291/0/en/josephine-moran-named-one-of-american-banker-s-2026-most-powerful-women-in-banking-to-watch.html",
-   "summary": "HANOVER, N.H., Oct. 01, 2026 (GLOBE NEWSWIRE) -- Ledyard Financial Group, Inc. (OTCQX®: LFGP), the holding company for Ledyard National Bank, is proud to announce that Josephine Moran, President and CEO, has been named to American Banker’s 2026 list of The Most Powerful Women in Banking™’s Women to Watch, one of the most prestigious recognitions in the financial services industry.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-10-01T17:00:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d6fcffbb8b58",
-   "title": "General Motors Is On A Bumpy Ride In A Rough Market",
-   "link": "https://seekingalpha.com/article/4951420-general-motors-is-on-a-bumpy-ride-in-a-rough-market?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-01T16:59:07+00:00",
-   "tickers": [
-    "GM"
-   ]
-  },
-  {
-   "id": "f2e9620b31d1",
-   "title": "Diego Mesa Puyo takes over as CEO and Chairperson of the Global Environment Facility",
-   "link": "https://www.prnewswire.com/news-releases/diego-mesa-puyo-takes-over-as-ceo-and-chairperson-of-the-global-environment-facility-302896335.html",
-   "summary": "First term for the former Colombian Minister of Energy and Mines aligns with global push to 2030 environmental goals Country pledges to Global Environment Facility ninth replenishment grow to over $4 billion WASHINGTON, Oct. 1, 2026 /PRNewswire/ -- Colombian-Canadian economist and...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-01T16:59:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "5535407904fc",
-   "title": "Oracle Just Sent A Notice That Has Everyone Staring At The Wrong Place",
-   "link": "https://seekingalpha.com/article/4951419-oracle-just-sent-a-notice-that-has-everyone-staring-at-the-wrong-place?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-01T16:56:59+00:00",
-   "tickers": [
-    "ORCL"
-   ]
-  },
-  {
-   "id": "2b6a7b0ee387",
-   "title": "Judge dismisses Reflecting Pool case permanently, cites risk Trump will force new charges",
-   "link": "https://www.cnbc.com/2026/10/01/reflecting-pool-vandalism-dismissed-hearn-trump.html",
-   "summary": "President Donald Trump had criticized U.S. Attorney for D.C. Jeanine Pirro after she moved to drop the Reflecting Pool case.",
-   "article_text": "Judge drops Reflecting Pool case permanently, cites Trump pressure Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Key Points A Washington judge dismissed the Reflecting Pool vandalism case against former U.S. Olympic canoeist David Hearn with prejudice. Judge Todd Edelman said he was blocking the possibility of a revived prosecution in light of the case's \"exceptional circumstances\" — including \"political pressure\" from President Donald Trump. Prosecutors sought a dismissal without prejudice after U.S. Attorney for the District of Columbia Jeanine Pirro moved to drop the case, admitting that damage to the Lincoln Memorial's pool was caused by a \"flawed installation.\" Former Olympian David Hearn exits Superior Court in Washington, July 9, 2026. Daniel Heuer | Bloomberg | Getty Images A judge on Thursday dismissed the criminal case accusing former U.S. Olympic canoeist David Hearn of vandalizing the Lincoln Memorial Reflecting Pool and permanently barred prosecutors from refiling the same charges. District of Columbia Superior Court Judge Todd Edelman, in his order tossing the case \"with prejudice,\" cited the \"exceptional circumstances\" of the risk that President Donald Trump would pressure prosecutors to re-charge Hearn. A dismissal with prejudice prevents a case from being refiled. Edelman noted that Trump, who ordered renovations to the Lincoln Memorial's pool this year, angrily lashed out at U.S. Attorney for the District of Columbia Jeanine Pirro when she moved to dismiss the case after admitting damage to the landmark was caused by \"flawed installation,\" not from Hearn ripping up its liner. Trump has repeatedly insisted that the damage to the Reflecting Pool resulted from intentional vandalism. He has continued to claim that vandals cut a gash hundreds of feet long in the pool's protective lining. Pirro asked Edelman to dismiss the case without prejudice, which would allow charges to be refiled later. \"I do think there is a public interest in allowing a grand jury at a future date\" to issue an indictment if new information comes to light, Assistant U.S. Attorney Michael Spence told Edelman in a court hearing in September. Hearn's attorneys argued that there was \"no valid reason\" to keep the case alive given the new evidence cited by Pirro. In his ruling Thursday siding with that argument, Edelman wrote, \"While all defendants deal with some degree of uncertainty regarding the odds of re-prosecution after a case has been dismissed, Mr. Hearn faces the unique possibility that the government will revive this case — one that it has already announced to be meritless — based on political pressure brought by the President of the United States upon his subordinate officers.\" The judge wrote that he respected the U.S. Attorney's authority to decide which cases to prosecute and which to dismiss. \"However, in the exceptional circumstances posed by this case, the government has no right to retain the ability to compound the errors it has already made, or even to threaten to do so, at Mr. Hearn's expense,\" Edelman wrote in the order, which Hearn's lawyers shared with CNBC. In a statement Thursday, Hearn's attorneys called Edelman's dismissal of the case with prejudice \"a victory for the rule of law and for an innocent American seeking justice.\" \"This case never should have been brought in the first place,\" the statement said. \"What happened to Mr. Hearn is an outrage that should shock every American.\" The White House and Pirro's office did not immediately respond to requests for comment on the judge's order. — CNBC's Dan Mangan contributed to this article Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "cnbc.com",
-   "published": "2026-10-01T16:56:34+00:00",
-   "tickers": [
-    "POOL"
-   ]
-  },
-  {
-   "id": "8d0e480ad753",
-   "title": "Greenlight review: A family financial platform built around kids’ money",
-   "link": "https://www.cnbc.com/select/greenlight-review/",
-   "summary": "Greenlight is a family finance platform that combines kids’ debit cards, investing, financial education and safety tools under one roof.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-10-01T16:56:13+00:00",
-   "tickers": []
-  },
-  {
-   "id": "45d1fe075ef4",
-   "title": "iShares iBonds 2031 Term High Yield And Income ETF declares monthly distribution of $0.1389",
-   "link": "https://seekingalpha.com/news/4649267-ishares-ibonds-2031-term-high-yield-and-income-etf-declares-monthly-distribution-of-01389?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-01T16:56:00+00:00",
-   "tickers": [
-    "IAGG"
-   ]
-  },
-  {
-   "id": "1e6976f97c0b",
-   "title": "Benji Pays Joins the Sherweb Marketplace, Bringing Accounts Receivable Automation to More North American MSPs",
-   "link": "https://www.prnewswire.com/news-releases/benji-pays-joins-the-sherweb-marketplace-bringing-accounts-receivable-automation-to-more-north-american-msps-302896328.html",
-   "summary": "VANCOUVER, BC, Oct. 1, 2026 /PRNewswire/ -- Benji Pays today announced that its accounts receivable automation platform is now available through the Sherweb Marketplace. Sherweb partners across North America can now discover and purchase Benji Pays directly within the vendor ecosystem...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-01T16:56:00+00:00",
-   "tickers": [
-    "BC"
-   ]
-  },
-  {
-   "id": "16f583bb5fc1",
-   "title": "FlexShares Ultra-Short Income Fund declares monthly distribution of $0.2537",
-   "link": "https://seekingalpha.com/news/4649266-flexshares-ultra-short-income-fund-declares-monthly-distribution-of-02537?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-01T16:55:30+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6dc9cf960d46",
-   "title": "8-K - Federal Home Loan Bank of Chicago (0001331451) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1331451/000133145126000182/0001331451-26-000182-index.htm",
-   "summary": "Filed: 2026-10-01 AccNo: 0001331451-26-000182 Size: 196 KB Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-10-01T16:55:20+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6210960ea882",
-   "title": "Northern Trust 2055 Tax-Exempt Distributing Ladder ETF declares monthly distribution of $0.1888",
-   "link": "https://seekingalpha.com/news/4649265-northern-trust-2055-tax-exempt-distributing-ladder-etf-declares-monthly-distribution-of-01888?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-01T16:54:56+00:00",
-   "tickers": []
-  },
-  {
-   "id": "7eec1cfbd1e0",
-   "title": "Wall Street dips as rising Treasury yields outweigh software gains",
-   "link": "https://www.investing.com/news/economy-news/dow-futures-hit-threemonth-low-as-yields-surge-micron-earnings-offer-support-4926657",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-10-01T16:54:48+00:00",
-   "tickers": []
-  },
-  {
-   "id": "88fef651f717",
-   "title": "iShares iBonds 2030 Term High Yield and Income ETF declares monthly distribution of $0.1457",
-   "link": "https://seekingalpha.com/news/4649264-ishares-ibonds-2030-term-high-yield-and-income-etf-declares-monthly-distribution-of-01457?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-01T16:54:46+00:00",
-   "tickers": [
-    "IAGG"
-   ]
-  },
-  {
-   "id": "dbb6aff19be2",
-   "title": "Yields fall after US 10-year hits highest since 2002; stocks, euro also decline",
-   "link": "https://www.investing.com/news/economy-news/asian-stocks-dip-bonds-in-focus-after-torrid-september-4926176",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-10-01T16:54:31+00:00",
-   "tickers": []
-  },
-  {
-   "id": "000ea0985eac",
-   "title": "4 Signs Of A Bear Market, And Why I Am Still Fully Invested",
-   "link": "https://seekingalpha.com/article/4951416-4-signs-bear-market-why-i-still-fully-invested?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-01T16:54:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d56b1aef9a6a",
-   "title": "/C O R R E C T I O N -- Keter/",
-   "link": "https://www.prnewswire.com/news-releases/keter-opens-new-north-american-headquarters-in-alpharetta-georgia-302893841.html",
-   "summary": "/C O R R E C T I O N – Keter/ In the news release, Keter Opens New North American Headquarters in Alpharetta, Georgia, issued 30-Sep-2026 by Keter over PR Newswire, we are advised by the company that changes have been made. The complete, corrected release follows, with additional details...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-01T16:54:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "42b6fd77c54b",
-   "title": "Denver Museum of Nature &amp; Science appoints Kirk Johnson as president and CEO",
-   "link": "https://www.prnewswire.com/news-releases/denver-museum-of-nature--science-appoints-kirk-johnson-as-president-and-ceo-302896326.html",
-   "summary": "Smithsonian museum director brings national leadership and deep knowledge of the Museum to its next chapter DENVER, Oct. 1, 2026 /PRNewswire/ -- The Denver Museum of Nature & Science Board of Trustees has appointed Kirk Johnson, Sant Director of the Smithsonian's National Museum of...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-01T16:54:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d347004fbce8",
-   "title": "The Inner Circle acknowledges Dawn Delise Pelon as a Pinnacle Professional of The Year",
-   "link": "https://www.prnewswire.com/news-releases/the-inner-circle-acknowledges-dawn-delise-pelon-as-a-pinnacle-professional-of-the-year-302896222.html",
-   "summary": "COLLEGEVILLE, Pa., Oct. 1, 2026 /PRNewswire/ -- Prominently featured in The Inner Circle, Dawn Delise Pelon is acknowledged as a Pinnacle Professional of The Year for his contributions to Brand Development and Strategic Marketing. Dawn Delise Pelon has established herself as a respected...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-01T16:54:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d978f9705b52",
-   "title": "Northern Trust 2045 Tax-Exempt Distributing Ladder ETF declares monthly distribution of $0.2669",
-   "link": "https://seekingalpha.com/news/4649262-northern-trust-2045-tax-exempt-distributing-ladder-etf-declares-monthly-distribution-of-02669?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-01T16:53:46+00:00",
-   "tickers": []
-  },
-  {
-   "id": "7ddeca472ef0",
-   "title": "iShares iBonds 2029 Term High Yield and Income ETF declares monthly distribution of $0.1265",
-   "link": "https://seekingalpha.com/news/4649261-ishares-ibonds-2029-term-high-yield-and-income-etf-declares-monthly-distribution-of-01265?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-01T16:53:24+00:00",
-   "tickers": [
-    "IAGG"
-   ]
-  },
-  {
-   "id": "1e971d9c37bb",
-   "title": "NexBank Capital, Inc. Completes $150 Million Common Equity Capital Raise",
-   "link": "https://www.prnewswire.com/news-releases/nexbank-capital-inc-completes-150-million-common-equity-capital-raise-302896323.html",
-   "summary": "Raised $540 Million in Equity over Last Five Years DALLAS, Oct. 1, 2026 /PRNewswire/ -- NexBank Capital, Inc., a financial holding company and parent company of NexBank, today announced that it closed a $150 million capital raise through the sale of non-voting common stock on September...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "prnewswire.com",
-   "published": "2026-10-01T16:53:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6ffe2533728c",
-   "title": "L&amp;L HAWAIIAN BARBECUE ENTERS CANADA WITH 5-UNIT FRANCHISE AGREEMENT",
-   "link": "https://www.prnewswire.com/news-releases/ll-hawaiian-barbecue-enters-canada-with-5-unit-franchise-agreement-302896291.html",
-   "summary": "Iconic Hawai'i plate-lunch brand to expand into Edmonton, marking its first location north of the U.S. border while opening doors for franchise growth HONOLULU, Oct. 1, 2026 /PRNewswire/ -- L&L Hawaiian Barbecue, the Hawai'i-based restaurant concept known for its authentic plate lunches...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-01T16:53:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b324602f730e",
-   "title": "Anchor Packaging's Innovative Invertibles™ Container Earns Convenience Store News Best New Product Award",
-   "link": "https://www.prnewswire.com/news-releases/anchor-packagings-innovative-invertibles-container-earns-convenience-store-news-best-new-product-award-302896322.html",
-   "summary": "ATLANTA, Oct. 1, 2026 /PRNewswire/ -- Anchor Packaging, a Georgia-Pacific company and leading manufacturer of foodservice packaging solutions, has received a Convenience Store News Best New Product Award for Foodservice Packaging for its groundbreaking Invertibles™ Single-Piece...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-01T16:53:00+00:00",
-   "tickers": [
-    "PKG",
-    "NWSA"
-   ]
-  },
-  {
-   "id": "1bac095bbb1b",
-   "title": "Argus Research Upgrades Regeneron Pharmaceuticals to Buy from Hold",
-   "link": "https://www.nasdaq.com/articles/argus-research-upgrades-regeneron-pharmaceuticals-buy-hold",
-   "summary": "Fintel reports that on October 1, 2026, Argus Research upgraded their outlook for Regeneron Pharmaceuticals (NASDAQGS:REGN) (BIT:1REGN) from Hold to Buy.Regeneron Pharmaceuticals, Inc. is an American biotechnology company primarily engaged in the research, development, and commer",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-10-01T16:52:44+00:00",
-   "tickers": [
-    "REGN"
-   ]
-  },
-  {
-   "id": "ef4c963de817",
-   "title": "FAA is said to weigh Boeing 737 Max software review as Max 10 faces delay",
-   "link": "https://seekingalpha.com/news/4649254-faa-is-said-to-weigh-boeing-737-max-software-review-as-max-10-faces-delay?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-01T16:52:39+00:00",
-   "tickers": [
-    "BA"
-   ]
-  },
-  {
-   "id": "603c3e7237b3",
-   "title": "All-Weather Portfolio: I Like Suncor Energy Better Than Occidental Petroleum",
-   "link": "https://seekingalpha.com/article/4951413-all-weather-portfolio-i-like-suncor-energy-better-than-occidental-petroleum?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-01T16:52:32+00:00",
-   "tickers": [
-    "OXY",
-    "SU"
-   ]
-  },
-  {
-   "id": "e2abdc3d4a8f",
-   "title": "Trump Accounts have auto-enrolled more than 60 million children, Treasury says",
-   "link": "https://www.cnbc.com/2026/10/01/treasury-trump-accounts-auto-enroll-more-than-60-million-children.html",
-   "summary": "More than 60 million children have been automatically enrolled in Trump Accounts, according to a Treasury Department announcement exclusively provided to CNBC.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-10-01T16:52:22+00:00",
-   "tickers": []
-  },
-  {
-   "id": "77561895dad2",
-   "title": "iShares iBonds 2028 Term High Yield and Income ETF declares monthly distribution of $0.1177",
-   "link": "https://seekingalpha.com/news/4649259-ishares-ibonds-2028-term-high-yield-and-income-etf-declares-monthly-distribution-of-01177?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-01T16:51:54+00:00",
-   "tickers": [
-    "IAGG"
-   ]
-  },
-  {
-   "id": "ed2cba31a055",
-   "title": "Northern Trust 2035 Tax-Exempt Distributing Ladder ETF declares monthly distribution of $0.2042",
-   "link": "https://seekingalpha.com/news/4649260-northern-trust-2035-tax-exempt-distributing-ladder-etf-declares-monthly-distribution-of-02042?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-01T16:51:54+00:00",
-   "tickers": []
-  },
-  {
-   "id": "9443d81436b4",
-   "title": "Dollar Rallies on Higher T-note Yields and US Economic Strength",
-   "link": "https://www.nasdaq.com/articles/dollar-rallies-higher-t-note-yields-and-us-economic-strength",
-   "summary": "The dollar index (DXY00 ) rallied to a near 1.5-year high today, up +0.34%. Soaring T-note yields are strengthening the dollar’s interest rate differentials after the 10-year T-note yield rose to a 24-year high of 5.34% today. Also, signs of strength in the US labor market are hawkish for Fed...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-10-01T16:51:51+00:00",
-   "tickers": []
-  },
-  {
-   "id": "718a26b5475d",
-   "title": "This couple took out an adjustable-rate mortgage when rates were over 8%. Here’s how it worked out.",
-   "link": "https://www.marketwatch.com/story/this-couple-took-out-an-adjustable-rate-mortgage-when-rates-were-over-8-heres-how-it-worked-out-d52e592a?mod=mw_rss_topstories",
-   "summary": "Adjustable-rate mortgages have made a comeback as mortgage rates surge and buyers seek relief from high housing costs.",
-   "article_text": "",
-   "source": "MarketWatch",
-   "category": "markets",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "marketwatch.com",
-   "published": "2026-10-01T16:51:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ab34f5220427",
-   "title": "AB to Report Third Quarter 2026 Results on October 27, 2026",
-   "link": "https://www.prnewswire.com/news-releases/ab-to-report-third-quarter-2026-results-on-october-27-2026-302896318.html",
-   "summary": "NASHVILLE, Tenn., Oct. 1, 2026 /PRNewswire/ -- AllianceBernstein L.P. and AllianceBernstein Holding L.P. (NYSE: AB) today announced that third quarter 2026 financial and operating results will be released before the market opens on Tuesday, October 27, 2026. Management will host a...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-01T16:51:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "0445e9ba741f",
-   "title": "Red Cat’s Blue Ops Expands Maritime Defense Operations Through Strategic Partnership with Florida Atlantic University",
-   "link": "https://www.globenewswire.com/news-release/2026/10/01/3373280/0/en/red-cat-s-blue-ops-expands-maritime-defense-operations-through-strategic-partnership-with-florida-atlantic-university.html",
-   "summary": "FAU Harbor Branch adds deep-water access and maritime testing capabilities to Blue Ops’ growing U.S. footprint supporting the development and production of autonomous systems for U.S. and allied forces FAU Harbor Branch adds deep-water access and maritime testing capabilities to Blue Ops’ growing U.S. footprint supporting the development and production of autonomous systems for U.S. and allied forces",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "positive",
-   "domain": "globenewswire.com",
-   "published": "2026-10-01T16:51:00+00:00",
-   "tickers": [
-    "RCAT"
-   ]
-  },
-  {
-   "id": "198d76b1e1db",
-   "title": "Northern Trust 2030 Tax-Exempt Distributing Ladder ETF declares monthly distribution of $0.2079",
-   "link": "https://seekingalpha.com/news/4649258-northern-trust-2030-tax-exempt-distributing-ladder-etf-declares-monthly-distribution-of-02079?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-01T16:50:57+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b43f2fbd835c",
-   "title": "Fed could be in pause mode and make next move a cut, says Citi's Chronert",
-   "link": "https://www.cnbc.com/2026/10/01/fed-could-be-in-pause-mode-and-make-next-move-a-cut-says-citis-chronert.html",
-   "summary": "Chronert anticipates the Fed could be in a holding pattern until mid 2027.",
-   "article_text": "Fed could be in pause mode and make next move a cut, says Citi's Chronert Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu The Federal Reserve 's next move could be to cut rates, despite markets widely expecting another hike, according to Scott Chronert , head of U.S. equity strategy at Citi Research. Chronert anticipates the Fed could be in a holding pattern until mid 2027 when it can then lower borrowing costs. But fed funds futures suggest a roughly 85% likelihood that the Fed will increase rates again at its meeting in December, according to CME's FedWatch tool. Citi economists believe \"we've got the September hike and they're probably in pause mode 'til middle of next year,\" Chronert said Thursday on CNBC's \"Squawk on the Street.\" The Fed hiked rates by 25 basis points in September, marking its first increase to borrowing costs in three years. The central bank signaled that another hike could be in the cards. Following the Fed's hike, Chronert said inflation could begin to pullback and the labor market could feel more intense pressure. To be sure, Chronert acknowledged that the September rate hike alone wouldn't \"do much\" to establish a narrative that the Fed is focused on bringing down inflation. Because of that, he said one or two additional increases could be useful for assuring traders that the central bank is stable. \"I can take another Fed rate hike and probably spin that as a positive,\" Chronert said.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "cnbc.com",
-   "published": "2026-10-01T16:50:31+00:00",
-   "tickers": [
-    "C"
-   ]
-  },
-  {
-   "id": "e160e9c53e71",
-   "title": "Next OpenAIs and Anthropics may come straight to retail market. Here's what to know before investing",
-   "link": "https://www.cnbc.com/2026/10/01/sec-private-equity-hedge-funds-stock-investing.html",
-   "summary": "The SEC wants retail investors to access private markets, and with all the hype around tech darlings going public, there's plenty of potential reward and risk.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-10-01T16:50:28+00:00",
-   "tickers": []
-  },
-  {
-   "id": "af89a942828d",
-   "title": "Stolt-Nielsen Limited (SOIEF) Q3 2026 Earnings Call Transcript",
-   "link": "https://seekingalpha.com/article/4951390-stolt-nielsen-limited-soief-q3-2026-earnings-call-transcript?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-01T16:50:26+00:00",
-   "tickers": []
-  },
-  {
-   "id": "68cbfb74d126",
-   "title": "Nektar Therapeutics (NKTR) Shareholder/Analyst Call Transcript",
-   "link": "https://seekingalpha.com/article/4951374-nektar-therapeutics-nktr-shareholder-analyst-call-transcript?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-01T16:50:25+00:00",
-   "tickers": []
-  },
-  {
-   "id": "bb5bdff974f3",
-   "title": "iShares iBonds 2027 Term High Yield and Income ETF declares monthly distribution of $0.0993",
-   "link": "https://seekingalpha.com/news/4649257-ishares-ibonds-2027-term-high-yield-and-income-etf-declares-monthly-distribution-of-00993?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-01T16:50:14+00:00",
-   "tickers": [
-    "IAGG"
-   ]
   }
  ],
  "ticker_names": {
@@ -8932,12 +8947,14 @@
   "JCPB": "JPMorgan Core Plus Bond ETF",
   "QQQ": "Invesco QQQ Trust, Series 1",
   "AMC": "AMC Entertainment Holdings",
+  "FBIN": "Fortune Brands Innovations",
   "HPE": "Hewlett Packard Enterprise",
   "ADP": "Automatic Data Processing",
   "ICE": "Intercontinental Exchange",
   "JEF": "Jefferies Financial Group",
   "REGN": "Regeneron Pharmaceuticals",
   "TD": "The Toronto-Dominion Bank",
+  "IWM": "iShares Russell 2000 ETF",
   "GS": "The Goldman Sachs Group",
   "AMD": "Advanced Micro Devices",
   "CMG": "Chipotle Mexican Grill",
@@ -8946,9 +8963,9 @@
   "KEYS": "Keysight Technologies",
   "CEG": "Constellation Energy",
   "EIX": "Edison International",
+  "JAZZ": "Jazz Pharmaceuticals",
   "KBWB": "Invesco KBW Bank ETF",
   "LW": "Lamb Weston Holdings",
-  "OXY": "Occidental Petroleum",
   "STZ": "Constellation Brands",
   "ED": "Consolidated Edison",
   "FITB": "Fifth Third Bancorp",
@@ -8965,6 +8982,8 @@
   "MU": "Micron Technology",
   "POWL": "Powell Industries",
   "VERA": "Vera Therapeutics",
+  "BWXT": "BWX Technologies",
+  "CELH": "Celsius Holdings",
   "COST": "Costco Wholesale",
   "GTLS": "Chart Industries",
   "JPM": "JPMorgan Chase &",
@@ -8973,6 +8992,7 @@
   "MARA": "Marathon Digital",
   "ANET": "Arista Networks",
   "BAC": "Bank of America",
+  "CALM": "Cal-Maine Foods",
   "DAL": "Delta Air Lines",
   "DIS": "The Walt Disney",
   "EXP": "Eagle Materials",
@@ -8994,7 +9014,6 @@
   "MT": "ArcelorMittal",
   "POST": "Post Holdings",
   "SMR": "NuScale Power",
-  "SU": "Suncor Energy",
   "TOL": "Toll Brothers",
   "VLO": "Valero Energy",
   "WFC": "Wells Fargo &",
@@ -9010,25 +9029,26 @@
   "SLB": "Schlumberger",
   "DUK": "Duke Energy",
   "MKC": "McCormick &",
+  "RHI": "Robert Half",
   "XOM": "Exxon Mobil",
   "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
   "BA": "The Boeing",
   "CVS": "CVS Health",
   "RKLB": "Rocket Lab",
+  "SPGI": "S&P Global",
   "STLA": "Stellantis",
   "MSFT": "Office 365",
   "PARA": "Paramount+",
   "ACN": "Accenture",
-  "BC": "Brunswick",
   "BLK": "BlackRock",
   "C": "Citigroup",
   "CME": "CME Group",
-  "PKG": "Packaging",
   "RBA": "RB Global",
   "SBUX": "Starbucks",
   "TEAM": "Atlassian",
   "NWSA": "News Corp",
+  "APP": "AppLovin",
   "AVGO": "Broadcom",
   "BBY": "Best Buy",
   "BCS": "Barclays",
@@ -9056,7 +9076,6 @@
   "MAT": "Mattel",
   "NDAQ": "Nasdaq",
   "NTAP": "NetApp",
-  "ORCL": "Oracle",
   "PFE": "Pfizer",
   "RMBS": "Rambus",
   "RMD": "ResMed",
@@ -9065,6 +9084,7 @@
   "CIEN": "Ciena",
   "KKR": "KKR &",
   "VICR": "Vicor",
+  "DAVE": "Dave",
   "MSCI": "MSCI",
   "NKE": "NIKE",
   "OKLO": "Oklo",
