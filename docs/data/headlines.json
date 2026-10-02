@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02T05:47:43.034022+00:00",
+ "generated": "2026-10-02T05:55:51.485348+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -14,8 +14,24 @@
    "type": "markets",
    "sentiment": "neutral",
    "domain": "cnbc.com",
-   "published": "2026-10-02T05:43:52+00:00",
+   "published": "2026-10-02T05:49:09+00:00",
    "tickers": []
+  },
+  {
+   "id": "3c1ce98ad2bd",
+   "title": "Comcast's NBCUniversal reportedly slashes streaming tech jobs",
+   "link": "https://seekingalpha.com/news/4649725-comcasts-nbcuniversal-reportedly-slashes-streaming-tech-jobs?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-02T05:46:50+00:00",
+   "tickers": [
+    "CMCSA"
+   ]
   },
   {
    "id": "c1f7aeef55d0",
@@ -8856,22 +8872,6 @@
    "tickers": [
     "AAPL"
    ]
-  },
-  {
-   "id": "3fba6aa27a39",
-   "title": "SpaceX CEO Elon Musk has 7 words for Delta Airlines after snub",
-   "link": "https://biztoc.com/x/aa3545e3a3e8c994?ref=rss",
-   "summary": "SpaceX had one of its biggest weeks in months, with a long-awaited engineering milestone and a very public war of words playing out almost side by side. One story involved a rocket climbing into orbit for the very first time. The other involved a plane, or rather, the lack of a specific feature…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-01T23:04:13+00:00",
-   "tickers": [
-    "SPCX"
-   ]
   }
  ],
  "ticker_names": {
@@ -8980,6 +8980,7 @@
   "SNPS": "Synopsys",
   "SQ": "Cash App",
   "RTX": "Raytheon",
+  "CMCSA": "Comcast",
   "COMP": "Compass",
   "IOT": "Samsara",
   "MRNA": "Moderna",
