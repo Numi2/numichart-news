@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-04T22:24:13.799031+00:00",
+ "generated": "2026-10-04T22:33:08.566744+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -163,6 +163,20 @@
    "sentiment": "neutral",
    "domain": "cnbc.com",
    "published": "2026-10-04T22:08:34+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a71cc3d2342b",
+   "title": "Bloom Energy Says Its Fuel Cells Can Save a Big AI Data Center $3.6 Billion. I'd Still Wait to Buy the Stock.",
+   "link": "https://www.nasdaq.com/articles/bloom-energy-says-its-fuel-cells-can-save-big-ai-data-center-36-billion-id-still-wait-buy",
+   "summary": "Key PointsBloom's own model says its fuel cells cut $3.6 billion, or 27%, off a 1-gigawatt AI data center's non-chip construction costs.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-04T22:06:01+00:00",
    "tickers": []
   },
   {
@@ -8801,23 +8815,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-10-04T09:33:28+00:00",
    "tickers": []
-  },
-  {
-   "id": "78291ed61763",
-   "title": "Berkshire buys more Lennar shares, but pace of purchases slows",
-   "link": "https://www.cnbc.com/2026/10/03/berkshire-buys-more-lennar-shares-but-pace-of-purchases-slows.html",
-   "summary": "Berkshire Hathaway added to its bet on Lennar this week, raising its stake in the homebuilder to 11.2%, although the pace of its buying appears to be slowing.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-10-04T09:33:19+00:00",
-   "tickers": [
-    "BRK-A",
-    "LEN"
-   ]
   }
  ],
  "ticker_names": {
@@ -8943,7 +8940,6 @@
   "WMT": "Walmart",
   "NFLX": "Netflix",
   "BTG": "B2Gold",
-  "LEN": "Lennar",
   "MAT": "Mattel",
   "NDAQ": "Nasdaq",
   "ORCL": "Oracle",
