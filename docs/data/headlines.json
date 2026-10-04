@@ -1,8 +1,137 @@
 {
- "generated": "2026-10-04T21:57:01.544574+00:00",
+ "generated": "2026-10-04T22:07:02.474058+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "b80ef8a7a213",
+   "title": "Stock futures are flat as investors grapple with higher yields, await Fed minutes: Live updates",
+   "link": "https://www.cnbc.com/2026/10/04/stock-market-today-live-updates.html",
+   "summary": "Stocks are coming off a week defined by surging Treasury yields and a surprisingly weak jobs report that helped ease concerns about another Fed rate hike.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-10-04T22:04:05+00:00",
+   "tickers": []
+  },
+  {
+   "id": "45d91473f579",
+   "title": "P.&G.’s Chief on Whether Brand Loyalty Is Enough When Prices Keep Climbing",
+   "link": "https://www.nytimes.com/2026/10/04/business/procter-gamble-shailesh-jejurikar.html",
+   "summary": "Procter & Gamble’s new boss, Shailesh Jejurikar, talks about how the company is thinking about higher costs, what gets passed on to consumers and how A.I. helps it compete.",
+   "article_text": "",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-10-04T22:01:11+00:00",
+   "tickers": [
+    "PG"
+   ]
+  },
+  {
+   "id": "98716ed25d8b",
+   "title": "Oracle Announces $10 Million Partnership with the Nashville Symphony",
+   "link": "https://www.prnewswire.com/news-releases/oracle-announces-10-million-partnership-with-the-nashville-symphony-302897808.html",
+   "summary": "The investment will allow Music City's orchestra to reinstate its 2026-27 season and recall furloughed musicians and staff NASHVILLE, Tenn., Oct. 4, 2026 /PRNewswire/ -- Oracle today announced that it is investing $10 million and creating a strategic partnership to help sustain the...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-10-04T22:00:00+00:00",
+   "tickers": [
+    "ORCL"
+   ]
+  },
+  {
+   "id": "cd25f2596859",
+   "title": "Fans Call for Ref to be Punished for Behavior Toward Cardinals TE Trey McBride",
+   "link": "https://biztoc.com/x/400bc5dc8ebacc5b?ref=rss",
+   "summary": "NFL officiating has been under fire for years, but through the first four games of the 2026 season, things seem to have gotten particularly out of hand. Several players, including Kansas City Chiefs quarterback Patrick Mahomes, among others, seem to get preferential treatment from certain…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-04T21:58:10+00:00",
+   "tickers": [
+    "TE"
+   ]
+  },
+  {
+   "id": "344cae6a247e",
+   "title": "Singapore leads surveyed Asian markets in real-time payment links at 28%, followed by the Philippines at 26% and Thailand at 23%. Project Nexus could further connect domestic payment systems across India, Malaysia, the Philippines, Singapore and Thailand",
+   "link": "https://biztoc.com/x/162dabc2b5323112?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-04T21:57:57+00:00",
+   "tickers": []
+  },
+  {
+   "id": "8cc1027160d2",
+   "title": "Tom Cruise suffers one of the worst movie debuts of his career. Reviews were so bad Warner Bros. ran ‘decide for yourself’ ads",
+   "link": "https://biztoc.com/x/254e7ad384f8652f?ref=rss",
+   "summary": "On the cusp of the studio’s merger with Paramount, Warner Bros.’ “Digger” flopped in its opening weekend, handing Tom Cruise one of the worst debuts of his career and serving as a bitter final note for Warner Bros. as a standalone studio. No. 1 in North American theaters instead went to Amazon…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-04T21:57:55+00:00",
+   "tickers": [
+    "WBD",
+    "PARA",
+    "AMZN"
+   ]
+  },
+  {
+   "id": "5b724ed5ac06",
+   "title": "Dave Ramsey warns Americans on 401(k)s, IRAs, Social Security",
+   "link": "https://biztoc.com/x/c2fd67fe289ec8a8?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-10-04T21:57:50+00:00",
+   "tickers": [
+    "DAVE"
+   ]
+  },
+  {
+   "id": "d2e55df51515",
+   "title": "Stocks Settle Higher as Fed Rate Hike Concerns Ease",
+   "link": "https://www.nasdaq.com/articles/stocks-settle-higher-fed-rate-hike-concerns-ease",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed up by +0.73% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up by +0.49%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +1.00%. December E-mini S&P futures (ESZ26 ) rose +0.73%, and December E-mini...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-10-04T21:51:57+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
+  },
   {
    "id": "e72108f1257d",
    "title": "Schneider Electric nears deal to buy software group PTC for $20bn",
@@ -137,6 +266,20 @@
    "tickers": []
   },
   {
+   "id": "197d544615fe",
+   "title": "UK set to impose Chinese EV levies amid EU trade pressure - report",
+   "link": "https://www.investing.com/news/stock-market-news/uk-set-to-impose-chinese-ev-levies-amid-eu-trade-pressure--report-4930962",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-04T21:42:57+00:00",
+   "tickers": []
+  },
+  {
    "id": "7ec381e972af",
    "title": "Merz heads back to Berlin after Kyiv visit",
    "link": "https://biztoc.com/x/427f6f007f00504e?ref=rss",
@@ -222,6 +365,22 @@
    "published": "2026-10-04T21:42:00+00:00",
    "tickers": [
     "CSL"
+   ]
+  },
+  {
+   "id": "9c088bea87f8",
+   "title": "Adobe stock: Here are 5 strategic questions into new leadership",
+   "link": "https://www.investing.com/news/stock-market-news/adobe-stock-here-are-5-strategic-questions-into-new-leadership-4930961",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-04T21:41:12+00:00",
+   "tickers": [
+    "ADBE"
    ]
   },
   {
@@ -2500,25 +2659,6 @@
    "domain": "biztoc.com",
    "published": "2026-10-04T19:12:42+00:00",
    "tickers": []
-  },
-  {
-   "id": "d2e55df51515",
-   "title": "Stocks Settle Higher as Fed Rate Hike Concerns Ease",
-   "link": "https://www.nasdaq.com/articles/stocks-settle-higher-fed-rate-hike-concerns-ease",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed up by +0.73% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up by +0.49%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +1.00%. December E-mini S&P futures (ESZ26 ) rose +0.73%, and December E-mini...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-10-04T19:12:31+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
-   ]
   },
   {
    "id": "255d9fd945a5",
@@ -8676,138 +8816,6 @@
    "tickers": [
     "NWSA"
    ]
-  },
-  {
-   "id": "c2ee99437781",
-   "title": "Russians Snap Up Chinese E.V.s as Ukrainian Attacks Make Fuel Scarce",
-   "link": "https://www.nytimes.com/2026/10/04/world/europe/russia-ukraine-war-ev-sales.html",
-   "summary": "As Ukraine increasingly takes the war to Russia, the effects may be most visible on the roads.",
-   "article_text": "",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "nytimes.com",
-   "published": "2026-10-04T09:01:49+00:00",
-   "tickers": [
-    "SNAP"
-   ]
-  },
-  {
-   "id": "4c44757eaf96",
-   "title": "Transcure Expands athenahealth Billing Services to Help Healthcare Practices Strengthen Revenue Performance",
-   "link": "https://www.investing.com/news/press-releases/transcure-expands-athenahealth-billing-services-to-help-healthcare-practices-strengthen-revenue-performance-4930916",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-10-04T09:01:21+00:00",
-   "tickers": []
-  },
-  {
-   "id": "45d91473f579",
-   "title": "P.&G.’s Chief on Whether Brand Loyalty Is Enough When Prices Keep Climbing",
-   "link": "https://www.nytimes.com/2026/10/04/business/procter-gamble-shailesh-jejurikar.html",
-   "summary": "Procter & Gamble’s new boss, Shailesh Jejurikar, talks about how the company is thinking about higher costs, what gets passed on to consumers and how A.I. helps it compete.",
-   "article_text": "",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "nytimes.com",
-   "published": "2026-10-04T09:01:03+00:00",
-   "tickers": [
-    "PG"
-   ]
-  },
-  {
-   "id": "0fe4708a6385",
-   "title": "US to receive potash shipment from Belarus as relations thaw",
-   "link": "https://www.ft.com/content/9cbc0aea-259a-41eb-bbf4-ad8a674ca8b7?syn-25a6b1a6=1",
-   "summary": "Washington has begun to ease sanctions on Minsk in exchange for the release of political prisoners",
-   "article_text": "",
-   "source": "FT Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "ft.com",
-   "published": "2026-10-04T09:00:07+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b1faf3e7ce24",
-   "title": "Politics And The Markets 10/04/26",
-   "link": "https://seekingalpha.com/article/4950139-politics-and-the-markets-100426?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-04T09:00:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d385d8e7d974",
-   "title": "Blokees představila na veletrhu Festival zázraků Šanghaj 2026 více než 90 nových produktů",
-   "link": "https://www.prnewswire.com/news-releases/blokees-pedstavila-na-veletrhu-festival-zazrak-anghaj-2026-vice-ne-90-novych-produkt-302897735.html",
-   "summary": "ŠANGHAJ, 4. října 2026 /PRNewswire/ -- Ve dnech 3. až 4. října se značka sestavitelných hraček Blokees zúčastnila veletrhu Festival zázraků Šanghaj 2026, kde představila téměř 500 produktů ze svých dvou hlavních kategorií: stavebnice modelů Blokees a KOLA BLOKEES. Poprvé bylo předvedeno...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-04T09:00:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "59e05e6f0529",
-   "title": "3 Australian Penny Stocks With Fair Value Gaps Up To 83%",
-   "link": "https://biztoc.com/x/0875272889063dbd?ref=rss",
-   "summary": "Global turmoil has the Australian treasurer preparing fresh budget cuts to keep inflation in check and avoid recession. That mix of restraint and resilience can reward investors who focus on smaller, overlooked companies with strong finances rather than chasing hype. This article looks at three…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-04T08:57:48+00:00",
-   "tickers": []
-  },
-  {
-   "id": "9f6acf1cf5f4",
-   "title": "Enerflex (TSX:EFX) Stock Fair Value Edges Higher After Data Center Power Contract",
-   "link": "https://biztoc.com/x/28218624521497bb?ref=rss",
-   "summary": "The latest analyst update on Enerflex centers on a higher price target of CA$30, up from CA$27.50, following recent model changes. Analysts link this move to the new 450 MW data center power contract and to earlier commentary on Engineered Systems bookings and earnings, which together shape a more…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-04T08:57:47+00:00",
-   "tickers": [
-    "EFX"
-   ]
-  },
-  {
-   "id": "2456aa4a6984",
-   "title": "Medvedev: Blocking Russian satellites could trigger 'space war'",
-   "link": "https://biztoc.com/x/0ec52940bab6b73c?ref=rss",
-   "summary": "Russian Security Council Deputy Chairman Dmitry Medvedev warned on Sunday that an attempt to block the Russian satellite constellation could trigger a 'full-scale space war.' \"'Blocking' the Russian '...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-04T08:57:46+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8912,6 +8920,7 @@
   "HRB": "H&R Block",
   "MDT": "Medtronic",
   "OS": "OneStream",
+  "TE": "T1 Energy",
   "ADBE": "Photoshop",
   "NWSA": "News Corp",
   "AVGO": "Broadcom",
@@ -8924,7 +8933,6 @@
   "FOX": "Fox Corp",
   "BLSH": "Bullish",
   "BPOP": "Popular",
-  "EFX": "Equifax",
   "OSK": "Oshkosh",
   "PCVX": "Vaxcyte",
   "PEP": "PepsiCo",
@@ -8936,6 +8944,7 @@
   "LEN": "Lennar",
   "MAT": "Mattel",
   "NDAQ": "Nasdaq",
+  "ORCL": "Oracle",
   "PFE": "Pfizer",
   "SPCX": "SpaceX",
   "CR": "Crane",
