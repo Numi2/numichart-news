@@ -1,8 +1,57 @@
 {
- "generated": "2026-10-10T23:31:40.739907+00:00",
+ "generated": "2026-10-10T23:42:33.499370+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "55be238a4d3d",
+   "title": "Robinhood CEO Tenev sells $42.6m in shares on October 5",
+   "link": "https://www.investing.com/news/insider-trading-news/robinhood-ceo-tenev-sells-426m-in-shares-on-october-5-93CH-4942319",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-10T23:31:23+00:00",
+   "tickers": [
+    "HOOD"
+   ]
+  },
+  {
+   "id": "8834934a23d3",
+   "title": "Justice Department probes TV networks over Trump pool coverage, New York Times reports",
+   "link": "https://www.investing.com/news/stock-market-news/justice-department-probes-tv-networks-over-trump-pool-coverage-new-york-times-reports-4942303",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-10T23:30:23+00:00",
+   "tickers": [
+    "NYT"
+   ]
+  },
+  {
+   "id": "c33204346b98",
+   "title": "Joe SLAMS ICE ‘thugs’ after NYC shooting | Morning Joe Weekly Highlights",
+   "link": "https://biztoc.com/x/fdc7f20133255251?ref=rss",
+   "summary": "Watch some of the best segments this week from 'Morning Joe' and watch weekday mornings from 6AM-9AM EST on MS NOW.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-10T23:26:41+00:00",
+   "tickers": [
+    "ICE",
+    "MS"
+   ]
+  },
   {
    "id": "144b1193b039",
    "title": "Stock Could Be 33% Undervalued After AI Testing News",
@@ -149,22 +198,6 @@
    "domain": "cnbc.com",
    "published": "2026-10-10T23:13:02+00:00",
    "tickers": []
-  },
-  {
-   "id": "8834934a23d3",
-   "title": "Justice Department probes TV networks over Trump pool coverage, New York Times reports",
-   "link": "https://www.investing.com/news/stock-market-news/justice-department-probes-tv-networks-over-trump-pool-coverage-new-york-times-reports-4942303",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-10-10T23:12:20+00:00",
-   "tickers": [
-    "NYT"
-   ]
   },
   {
    "id": "0bd5b98c9944",
@@ -8831,34 +8864,6 @@
     "PARA",
     "PSKY"
    ]
-  },
-  {
-   "id": "b467474b96f2",
-   "title": "Riyadh airport issues notice amid reported blasts",
-   "link": "https://biztoc.com/x/a1ee04ec4f5cdaad?ref=rss",
-   "summary": "More to come......",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-10T13:33:24+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e4c4076e1558",
-   "title": "Anthropic bars \"abusive or cruel\" behavior toward its Claude AI model",
-   "link": "https://biztoc.com/x/2c33d15ee6532036?ref=rss",
-   "summary": "Anthropic wants users to make like Elvis Presley and \"Don't be cruel.\" The Silicon Valley company behind the popular Claude chatbot said it's banning \"sustained and needless abusive or cruel behavior\" toward its artificial intelligence models, part of broader policy changes announced on Thursday.…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-10T13:33:19+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8912,6 +8917,7 @@
   "RBLX": "Roblox Corporation",
   "CL": "Colgate-Palmolive",
   "DELL": "Dell Technologies",
+  "HOOD": "Robinhood Markets",
   "LITE": "Lumentum Holdings",
   "MU": "Micron Technology",
   "QUBT": "Quantum Computing",
@@ -8930,6 +8936,7 @@
   "LNG": "Cheniere Energy",
   "GM": "General Motors",
   "META": "Meta Platforms",
+  "MS": "Morgan Stanley",
   "VG": "Venture Global",
   "NET": "Cloudflare Inc",
   "CB": "Chubb Limited",
