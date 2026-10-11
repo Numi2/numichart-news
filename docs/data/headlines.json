@@ -1,8 +1,38 @@
 {
- "generated": "2026-10-11T11:50:25.291539+00:00",
+ "generated": "2026-10-11T11:57:36.093646+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "59e33ae35dff",
+   "title": "Trump says he is 'going to look at' joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike",
+   "link": "https://www.cnbc.com/2026/10/11/trump-saudi-arabia-iran-houthis.html",
+   "summary": "U.S. military involvement in the fight against the Houthis would stretch resources in the Middle East already committed to fighting Iran, analysts said.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-10-11T11:52:01+00:00",
+   "tickers": []
+  },
+  {
+   "id": "01bed83204f1",
+   "title": "Amazon: The Economic Challenge Gets Bigger (Rating Downgrade)",
+   "link": "https://seekingalpha.com/article/4953334-amazon-economic-challenge-gets-bigger-rating-downgrade?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-11T11:50:49+00:00",
+   "tickers": [
+    "AMZN"
+   ]
+  },
   {
    "id": "57854ebaf800",
    "title": "24 days to midterms: GOP shifts resources, NEW Paxton audio is released | MS NOW Highlights",
@@ -34,14 +64,30 @@
    "tickers": []
   },
   {
+   "id": "323fd1c25b0b",
+   "title": "Penguin Solutions: Why I'm Bullish After A Blowout Q4",
+   "link": "https://seekingalpha.com/article/4953332-penguin-solutions-stock-why-bullish-after-blowout-q4?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-11T11:47:11+00:00",
+   "tickers": [
+    "BLSH"
+   ]
+  },
+  {
    "id": "7cb04fd52520",
    "title": "JPMorgan Chase, Goldman and other big banks report earnings this week. What to expect",
    "link": "https://www.cnbc.com/2026/10/11/bank-earnings-jpmorgan-goldman.html",
    "summary": "The biggest banks in the U.S. are due to report third-quarter results this week, setting the tone for the rest of the reporting period.",
    "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
+   "source": "CNBC Earnings",
+   "category": "earnings",
+   "type": "earnings",
    "sentiment": "neutral",
    "domain": "cnbc.com",
    "published": "2026-10-11T11:46:11+00:00",
@@ -8768,50 +8814,6 @@
    "domain": "prnewswire.com",
    "published": "2026-10-10T21:07:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "46a3f90fd639",
-   "title": "America’s Gig Workers Turn to an Old-School Union",
-   "link": "https://biztoc.com/x/f94eb975ba701602?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-10T21:05:32+00:00",
-   "tickers": []
-  },
-  {
-   "id": "94b1ee46f2e0",
-   "title": "Crumbl store closures reveal a bigger problem",
-   "link": "https://biztoc.com/x/2ad7716944960043?ref=rss",
-   "summary": "Crumbl faces two massive problems. First, the chain sells a pricey indulgence customers don’t actually need. Second, millions of Americans are taking GLP-1 drugs that curb their appetites. “People just don’t feel great about the economy,” Zions Bank Senior Economist Robert Spendlove told KSL.…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-10T21:05:31+00:00",
-   "tickers": []
-  },
-  {
-   "id": "9c2e30ebe434",
-   "title": "Spot Is Four Times The Hurdle: What $50 Billion-A-Gigawatt Neocloud Rents Say About The AI Revenue Gap",
-   "link": "https://biztoc.com/x/b3ffcecf63c7a721?ref=rss",
-   "summary": "Spot Is Four Times The Hurdle: What $50 Billion-A-Gigawatt Neocloud Rents Say About The AI Revenue Gap In the AI trade, everyone wants to know what a gigawatt is worth. Thanks to a chart buried on page 7 of Goldman's latest SpaceX note, we now have an answer, or rather three of them: $40-50…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-10T21:05:19+00:00",
-   "tickers": [
-    "SPCX"
-   ]
   }
  ],
  "ticker_names": {
