@@ -1,8 +1,68 @@
 {
- "generated": "2026-10-13T23:35:40.846401+00:00",
+ "generated": "2026-10-13T23:42:55.114605+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "4b310c0e5e56",
+   "title": "Stock futures are little changed as traders await consumer inflation report: Live updates",
+   "link": "https://www.cnbc.com/2026/10/13/stock-market-today-live-updates-.html",
+   "summary": "A slide in chip stocks and mixed bank results on Tuesday weighed on the major averages.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-10-13T23:40:37+00:00",
+   "tickers": []
+  },
+  {
+   "id": "0125ccb02d8d",
+   "title": "Saudi Aramco Headquarters Hit During Houthi Attacks",
+   "link": "https://biztoc.com/x/2c013db43d499b6e?ref=rss",
+   "summary": "\"Balance of Power\" focuses on the intersection of politics and global business. On today's show, Rep. Julia Letlow (R-LA), ...",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-13T23:35:10+00:00",
+   "tickers": []
+  },
+  {
+   "id": "d5f532a253fd",
+   "title": "SICK OF IT! 'Red Wall' crisis has 47 defending ex-Red States as POLLS CRATER on 'corruption'",
+   "link": "https://biztoc.com/x/63d66689181f07e0?ref=rss",
+   "summary": "MS NOW's Ari Melber is joined by former Vermont Gov. and former DNC Chair Howard Dean to discuss the upcoming midterm ...",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-13T23:35:07+00:00",
+   "tickers": [
+    "MS"
+   ]
+  },
+  {
+   "id": "a3034eef94c1",
+   "title": "Character.ai Files For Bankruptcy—Disney Bids $20 Million After Copyright Dispute",
+   "link": "https://biztoc.com/x/c65f0d0f106d4627?ref=rss",
+   "summary": "AI chatbot platform Character.ai, which faced lawsuits over teen suicides and copyright disputes, filed for Chapter 11 bankruptcy ...",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-10-13T23:35:03+00:00",
+   "tickers": [
+    "DIS"
+   ]
+  },
   {
    "id": "fee16ce754b9",
    "title": "Banks And Tech Stocks Dominate",
@@ -213,6 +273,23 @@
    "tickers": []
   },
   {
+   "id": "032ce65f3d19",
+   "title": "Morgan Stanley Upgrades SLM Corporation - Preferred Stock to Overweight from Equal-Weight",
+   "link": "https://www.nasdaq.com/articles/morgan-stanley-upgrades-slm-corporation-preferred-stock-overweight-equal-weight",
+   "summary": "Fintel reports that on October 12, 2026, Morgan Stanley upgraded their outlook for SLM Corporation - Preferred Stock (NASDAQGS:SLMBP) from Equal-Weight to Overweight. This rating action follows a prior action by Morgan Stanley on July 20, 2026, when the firm maintained its rating",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-10-13T23:24:09+00:00",
+   "tickers": [
+    "MS",
+    "SLM"
+   ]
+  },
+  {
    "id": "3744ea1cbd68",
    "title": "Premier Inn owner urges investors to resist pressure from activist hedge fund",
    "link": "https://www.ft.com/content/1cf8da1d-8abd-40a6-bcd2-055ee49c7fcb?syn-25a6b1a6=1",
@@ -253,6 +330,54 @@
    "domain": "seekingalpha.com",
    "published": "2026-10-13T23:22:42+00:00",
    "tickers": []
+  },
+  {
+   "id": "66f2b3bf2976",
+   "title": "Cocoa Prices Settle Higher on Ivory Coast Harvest Delays",
+   "link": "https://www.nasdaq.com/articles/cocoa-prices-settle-higher-ivory-coast-harvest-delays",
+   "summary": "December ICE NY cocoa (CCZ26 ) closed up +0.57 (+1.00%) on Tuesday, and December ICE London cocoa #7 (CAZ26 ) closed up +13 (+0.30%). Cocoa prices moved higher on Tuesday, with NY cocoa posting a 1-month high and London cocoa a 6-week high. Reports that heavy rains in the Ivory...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-13T23:19:35+00:00",
+   "tickers": [
+    "ICE"
+   ]
+  },
+  {
+   "id": "f884c50bda2e",
+   "title": "Sugar Prices Climb as Brazil Rains Disrupt Cane Crushing",
+   "link": "https://www.nasdaq.com/articles/sugar-prices-climb-brazil-rains-disrupt-cane-crushing",
+   "summary": "March NY world sugar #11 (SBH27 ) is up +0.21 (+1.01%) today, and December London ICE white sugar #5 (SWZ26 ) is up +1.20 (+0.21%). Sugar prices are moving higher today and are just below last week’s significant highs. Last Wednesday, NY sugar climbed to a 19-month nearest-futures high and...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-10-13T23:19:35+00:00",
+   "tickers": [
+    "ICE"
+   ]
+  },
+  {
+   "id": "d559337b41f5",
+   "title": "Ivory Coast Harvest Delays Boost Cocoa Prices",
+   "link": "https://www.nasdaq.com/articles/ivory-coast-harvest-delays-boost-cocoa-prices",
+   "summary": "December ICE NY cocoa (CCZ26 ) is up +0.66 (+1.16%) today, and December ICE London cocoa #7 (CAZ26 ) is up +15 (+0.35%). Cocoa prices are moving higher today, with NY cocoa posting a 1-month high and London cocoa posting a 6-week high. Reports that heavy rains in the Ivory...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-10-13T23:19:35+00:00",
+   "tickers": [
+    "ICE"
+   ]
   },
   {
    "id": "5925cdfb5e38",
@@ -691,22 +816,6 @@
    ]
   },
   {
-   "id": "66f2b3bf2976",
-   "title": "Cocoa Prices Settle Higher on Ivory Coast Harvest Delays",
-   "link": "https://www.nasdaq.com/articles/cocoa-prices-settle-higher-ivory-coast-harvest-delays",
-   "summary": "December ICE NY cocoa (CCZ26 ) closed up +0.57 (+1.00%) on Tuesday, and December ICE London cocoa #7 (CAZ26 ) closed up +13 (+0.30%). Cocoa prices moved higher on Tuesday, with NY cocoa posting a 1-month high and London cocoa a 6-week high. Reports that heavy rains in the Ivory...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-13T23:03:34+00:00",
-   "tickers": [
-    "ICE"
-   ]
-  },
-  {
    "id": "3018ef9cb07d",
    "title": "Stocks Mixed on Lower Crude Prices and Weakness in Chipmakers",
    "link": "https://www.nasdaq.com/articles/stocks-mixed-lower-crude-prices-and-weakness-chipmakers",
@@ -757,6 +866,20 @@
     "SPY",
     "DIA"
    ]
+  },
+  {
+   "id": "be6f21a9afa4",
+   "title": "KOSPI May Find Support At Key 6,000-Point Level",
+   "link": "https://www.nasdaq.com/articles/kospi-may-find-support-key-6000-point-level",
+   "summary": "(RTTNews) - The South Korea stock market has finished lower in five straight sessions, plummeting more than 970 points or 14.5 percent along the way. The KOSPI now sits just above the 6,030-point plateau and it's overdue for support on Wednesday.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-13T23:03:13+00:00",
+   "tickers": []
   },
   {
    "id": "22be2ae302ec",
@@ -1516,20 +1639,6 @@
    "sentiment": "positive",
    "domain": "biztoc.com",
    "published": "2026-10-13T22:43:25+00:00",
-   "tickers": []
-  },
-  {
-   "id": "4b310c0e5e56",
-   "title": "Stock futures are little changed as traders await consumer inflation report: Live updates",
-   "link": "https://www.cnbc.com/2026/10/13/stock-market-today-live-updates-.html",
-   "summary": "A slide in chip stocks and mixed bank results on Tuesday weighed on the major averages.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-10-13T22:38:58+00:00",
    "tickers": []
   },
   {
@@ -2531,7 +2640,7 @@
    "link": "https://www.prnewswire.com/news-releases/vietnamese-american-business-association-vaba-marks-15-years-of-uniting-entrepreneurs-under-speak-with-one-voice-302907679.html",
    "summary": "Founded by David Duong in Silicon Valley, the Vietnamese American Business Association connects business owners through support, advocacy, investment relationships and community service in the United States and abroad. OAKLAND, Calif., Oct. 13, 2026 /PRNewswire/ -- David Duong founded the...",
    "article_text": "",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -2545,7 +2654,7 @@
    "link": "https://www.prnewswire.com/news-releases/huntington-bank-lanceert-internationale-corporate-banking-302907677.html",
    "summary": "De bank breidt haar mogelijkheden uit om de groei van internationale klanten in de VS en hun grensoverschrijdende activiteiten te ondersteunen COLUMBUS, Ohio, 14 oktober 2026 /PRNewswire/ -- The Huntington National Bank breidt haar divisie voor corporate, specialty en government banking...",
    "article_text": "",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -2738,22 +2847,6 @@
    "published": "2026-10-13T22:01:06+00:00",
    "tickers": [
     "LNG"
-   ]
-  },
-  {
-   "id": "f884c50bda2e",
-   "title": "Sugar Prices Climb as Brazil Rains Disrupt Cane Crushing",
-   "link": "https://www.nasdaq.com/articles/sugar-prices-climb-brazil-rains-disrupt-cane-crushing",
-   "summary": "March NY world sugar #11 (SBH27 ) is up +0.21 (+1.01%) today, and December London ICE white sugar #5 (SWZ26 ) is up +1.20 (+0.21%). Sugar prices are moving higher today and are just below last week’s significant highs. Last Wednesday, NY sugar climbed to a 19-month nearest-futures high and...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-10-13T22:01:05+00:00",
-   "tickers": [
-    "ICE"
    ]
   },
   {
@@ -5662,22 +5755,6 @@
    "domain": "prnewswire.com",
    "published": "2026-10-13T21:13:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "d559337b41f5",
-   "title": "Ivory Coast Harvest Delays Boost Cocoa Prices",
-   "link": "https://www.nasdaq.com/articles/ivory-coast-harvest-delays-boost-cocoa-prices",
-   "summary": "December ICE NY cocoa (CCZ26 ) is up +0.66 (+1.16%) today, and December ICE London cocoa #7 (CAZ26 ) is up +15 (+0.35%). Cocoa prices are moving higher today, with NY cocoa posting a 1-month high and London cocoa posting a 6-week high. Reports that heavy rains in the Ivory...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-10-13T21:12:58+00:00",
-   "tickers": [
-    "ICE"
-   ]
   },
   {
    "id": "85c3baa2dc25",
@@ -8819,78 +8896,6 @@
    "domain": "nasdaq.com",
    "published": "2026-10-13T20:29:05+00:00",
    "tickers": []
-  },
-  {
-   "id": "5f0f6ad29355",
-   "title": "GPZ Crowded With Sellers",
-   "link": "https://www.nasdaq.com/articles/gpz-crowded-sellers",
-   "summary": "In trading on Tuesday, shares of the VanEck Alternative Asset Manager ETF (Symbol: GPZ) entered into oversold territory, changing hands as low as $21.14 per share. We define oversold territory using the Relative Strength Index, or RSI, which is a technical analysis indicator us",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-13T20:29:03+00:00",
-   "tickers": []
-  },
-  {
-   "id": "37ccc4640b7a",
-   "title": "Shares of HYGV Now Oversold",
-   "link": "https://www.nasdaq.com/articles/shares-hygv-now-oversold",
-   "summary": "In trading on Tuesday, shares of the FlexShares High Yield Value-Scored Bond Index Fund ETF (Symbol: HYGV) entered into oversold territory, changing hands as low as $38.585 per share. We define oversold territory using the Relative Strength Index, or RSI, which is a technical a",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-13T20:29:01+00:00",
-   "tickers": []
-  },
-  {
-   "id": "a255a33d14d3",
-   "title": "UnitedHealth keeps medical costs under control — and raises its outlook again",
-   "link": "https://www.marketwatch.com/story/unitedhealth-keeps-medical-costs-under-control-and-raises-its-outlook-again-71abc99c?mod=mw_rss_topstories",
-   "summary": "The health-insurance giant said its medical-cost ratio was 88.4% in the third quarter of this year, as the company tries to rein in spending on medical care.",
-   "article_text": "",
-   "source": "MarketWatch",
-   "category": "markets",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "marketwatch.com",
-   "published": "2026-10-13T20:29:00+00:00",
-   "tickers": [
-    "UNH"
-   ]
-  },
-  {
-   "id": "0dfd6211aef8",
-   "title": "Wednesday's Inflation Report Will Lock In Social Security's 2027 Cost-of-Living Adjustment (COLA). Here's the Number to Watch.",
-   "link": "https://www.nasdaq.com/articles/wednesdays-inflation-report-will-lock-social-securitys-2027-cost-living-adjustment-cola",
-   "summary": "Key PointsThe next inflation report is coming out Wednesday, Oct. 14.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-13T20:29:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "a98dde94a217",
-   "title": "Lawyers cancel Trump's deposition in BBC case",
-   "link": "https://biztoc.com/x/aae31d2f198c42c6?ref=rss",
-   "summary": "United States President Donald Trump will not be deposed in his defamation case against the BBC, as his lawyers canceled the session set for October 16, a court filing showed on Tuesday.BBC attorneys,...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-13T20:28:36+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8978,7 +8983,6 @@
   "SMR": "NuScale Power",
   "VEEV": "Veeva Systems",
   "WFC": "Wells Fargo &",
-  "UNH": "United Health",
   "MSTR": "MicroStrategy",
   "ASML": "ASML Holding",
   "CRUS": "Cirrus Logic",
