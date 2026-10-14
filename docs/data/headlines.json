@@ -1,8 +1,53 @@
 {
- "generated": "2026-10-14T22:46:21.860208+00:00",
+ "generated": "2026-10-14T22:53:27.301635+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "e90206804bb2",
+   "title": "Jim Cramer explains why even strong bank earnings couldn't save their stocks",
+   "link": "https://www.cnbc.com/2026/10/14/cramer-big-bank-earnings-stock-reaction.html",
+   "summary": "All six banks fell following their earnings reports, even as some delivered strong results, reflecting concerns about interest rates and the economic outlook.",
+   "article_text": "",
+   "source": "CNBC Earnings",
+   "category": "earnings",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "cnbc.com",
+   "published": "2026-10-14T22:48:06+00:00",
+   "tickers": []
+  },
+  {
+   "id": "485456661a69",
+   "title": "Anthropic tells investors quarterly revenue up 50% to $16.8bn ahead of IPO",
+   "link": "https://www.ft.com/content/11632d03-358c-454b-af95-d06d4072932b?syn-25a6b1a6=1",
+   "summary": "AI start-up gathered investors for presentations in San Francisco on Wednesday ahead of its expected public listing",
+   "article_text": "",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "ft.com",
+   "published": "2026-10-14T22:47:45+00:00",
+   "tickers": []
+  },
+  {
+   "id": "1d67ca122bb1",
+   "title": "PG&amp;E Urges Customers to Prepare as Planned Public Safety Power Shutoff Approaches",
+   "link": "https://www.prnewswire.com/news-releases/pge-urges-customers-to-prepare-as-planned-public-safety-power-shutoff-approaches-302909213.html",
+   "summary": "Approximately 88,000 Customers in 29 Counties Are Being Notified of the Shutoff, and Provided Resources for Information and Support OAKLAND, Calif., Oct. 14, 2026 /PRNewswire/ -- Pacific Gas and Electric Company (PG&E) continues to closely monitor a statewide fire weather system that...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-10-14T22:45:00+00:00",
+   "tickers": [
+    "PCG",
+    "PG"
+   ]
+  },
   {
    "id": "908596f91ff5",
    "title": "AppLovin Corporation (APP) Class Action Lawsuit Seeks Recovery for Investors; November 16, 2026, Deadline - Contact Kessler Topaz Meltzer &amp; Check, LLP",
@@ -132,6 +177,54 @@
    "domain": "biztoc.com",
    "published": "2026-10-14T22:39:35+00:00",
    "tickers": []
+  },
+  {
+   "id": "b4cae0b17ba5",
+   "title": "Dollar Ticks Up and Gold Slides on US Inflation News",
+   "link": "https://www.nasdaq.com/articles/dollar-ticks-and-gold-slides-us-inflation-news",
+   "summary": "The dollar index (DXY00 ) rallied to a 1.5-year high on Wednesday and finished up by +0.37%. The dollar advanced on Wednesday on the stronger-than-expected US Sep CPI report, which bolsters speculation that the Fed will keep interest rates higher for longer. The CPI report boosted the chance of a...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "macro",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-10-14T22:39:26+00:00",
+   "tickers": [
+    "NWSA"
+   ]
+  },
+  {
+   "id": "67c2b4e67874",
+   "title": "Cocoa Prices Edge Higher on Demand Strength",
+   "link": "https://www.nasdaq.com/articles/cocoa-prices-edge-higher-demand-strength",
+   "summary": "December ICE NY cocoa (CCZ26 ) closed up +2 (+0.03%) on Wednesday, and December ICE London cocoa #7 (CAZ26 ) closed up +25 (+0.58%). Cocoa prices extended this week’s rally on Wednesday, with NY cocoa posting a 1-month high and London cocoa a 6-week high. Stronger cocoa demand is bullish...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-14T22:39:26+00:00",
+   "tickers": [
+    "ICE"
+   ]
+  },
+  {
+   "id": "394a32625617",
+   "title": "Supply Risks Boost Coffee Prices",
+   "link": "https://www.nasdaq.com/articles/supply-risks-boost-coffee-prices",
+   "summary": "December arabica coffee (KCZ26 ) closed up +5.35 (+1.83%) on Wednesday, and November ICE robusta coffee (RMX26 ) closed up +24 (+0.69%). Coffee prices moved higher on Wednesday on supply concerns. Last Friday, Colombia’s Coffee Federation reported that 2025/26 Colombia coffee production (Oct-Sep) fell -15% y/y to 12.65 million bags,...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-10-14T22:39:26+00:00",
+   "tickers": [
+    "ICE"
+   ]
   },
   {
    "id": "c69b38c3b066",
@@ -366,6 +459,20 @@
    "tickers": []
   },
   {
+   "id": "6eb267d10772",
+   "title": "Anthropic’s Q3 revenue surges 45% to nearly $17 billion",
+   "link": "https://www.investing.com/news/stock-market-news/anthropics-q3-revenue-surges-45-to-nearly-17-billion-4950208",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-10-14T22:36:21+00:00",
+   "tickers": []
+  },
+  {
    "id": "15262b8922d5",
    "title": "Missy Key announced as next President and CEO of America First Credit Union",
    "link": "https://www.prnewswire.com/news-releases/missy-key-announced-as-next-president-and-ceo-of-america-first-credit-union-302909201.html",
@@ -399,38 +506,6 @@
    ]
   },
   {
-   "id": "b4cae0b17ba5",
-   "title": "Dollar Ticks Up and Gold Slides on US Inflation News",
-   "link": "https://www.nasdaq.com/articles/dollar-ticks-and-gold-slides-us-inflation-news",
-   "summary": "The dollar index (DXY00 ) rallied to a 1.5-year high on Wednesday and finished up by +0.37%. The dollar advanced on Wednesday on the stronger-than-expected US Sep CPI report, which bolsters speculation that the Fed will keep interest rates higher for longer. The CPI report boosted the chance of a...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "macro",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-10-14T22:33:09+00:00",
-   "tickers": [
-    "NWSA"
-   ]
-  },
-  {
-   "id": "67c2b4e67874",
-   "title": "Cocoa Prices Edge Higher on Demand Strength",
-   "link": "https://www.nasdaq.com/articles/cocoa-prices-edge-higher-demand-strength",
-   "summary": "December ICE NY cocoa (CCZ26 ) closed up +2 (+0.03%) on Wednesday, and December ICE London cocoa #7 (CAZ26 ) closed up +25 (+0.58%). Cocoa prices extended this week’s rally on Wednesday, with NY cocoa posting a 1-month high and London cocoa a 6-week high. Stronger cocoa demand is bullish...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-14T22:33:08+00:00",
-   "tickers": [
-    "ICE"
-   ]
-  },
-  {
    "id": "8f44d7a9608c",
    "title": "Sugar Prices Fall on Long Liquidation Pressures",
    "link": "https://www.nasdaq.com/articles/sugar-prices-fall-long-liquidation-pressures",
@@ -440,22 +515,6 @@
    "category": "stocks",
    "type": "stocks",
    "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-10-14T22:33:08+00:00",
-   "tickers": [
-    "ICE"
-   ]
-  },
-  {
-   "id": "394a32625617",
-   "title": "Supply Risks Boost Coffee Prices",
-   "link": "https://www.nasdaq.com/articles/supply-risks-boost-coffee-prices",
-   "summary": "December arabica coffee (KCZ26 ) closed up +5.35 (+1.83%) on Wednesday, and November ICE robusta coffee (RMX26 ) closed up +24 (+0.69%). Coffee prices moved higher on Wednesday on supply concerns. Last Friday, Colombia’s Coffee Federation reported that 2025/26 Colombia coffee production (Oct-Sep) fell -15% y/y to 12.65 million bags,...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "upgrade",
-   "sentiment": "positive",
    "domain": "nasdaq.com",
    "published": "2026-10-14T22:33:08+00:00",
    "tickers": [
@@ -508,6 +567,22 @@
    "domain": "prnewswire.com",
    "published": "2026-10-14T22:32:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "3ef17a632d80",
+   "title": "Meta COO Javier Olivan sells $1.15m in Meta shares",
+   "link": "https://www.investing.com/news/insider-trading-news/meta-coo-javier-olivan-sells-115m-in-meta-shares-93CH-4950211",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-14T22:30:56+00:00",
+   "tickers": [
+    "META"
+   ]
   },
   {
    "id": "080c00ab1e4b",
@@ -676,6 +751,20 @@
    ]
   },
   {
+   "id": "4dbf16b1a554",
+   "title": "Earnings call transcript: Comtech Q4 2026 loss narrows, but revenue misses",
+   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-comtech-q4-2026-loss-narrows-but-revenue-misses-93CH-4950201",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-10-14T22:25:13+00:00",
+   "tickers": []
+  },
+  {
    "id": "b4bc671c0843",
    "title": "Skydance Shares Skid Down 25% After Company Issues 471 Million Stock Warrants to Paramount Investors",
    "link": "https://biztoc.com/x/7c0d543dea6c0c25?ref=rss",
@@ -704,6 +793,20 @@
    "type": "markets",
    "sentiment": "neutral",
    "domain": "marketwatch.com",
+   "published": "2026-10-14T22:25:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "6dbff36dd7c1",
+   "title": "Prediction: UPS Will Miss Estimates (but the Stock Could Still Be a Good Value)",
+   "link": "https://www.nasdaq.com/articles/prediction-ups-will-miss-estimates-stock-could-still-be-good-value",
+   "summary": "Key PointsDespite possible earnings misses, UPS stock could still offer value.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
    "published": "2026-10-14T22:25:00+00:00",
    "tickers": []
   },
@@ -8842,106 +8945,6 @@
    "domain": "prnewswire.com",
    "published": "2026-10-14T20:18:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "21a66eecc774",
-   "title": "Longleaf Partners Global Fund Q3 2026 Commentary",
-   "link": "https://seekingalpha.com/article/4954226-longleaf-partners-global-fund-q3-2026-commentary?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-14T20:17:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "8b171c4d6b6c",
-   "title": "Apple clears regulatory hurdles as it prepares to launch AI features in China: report",
-   "link": "https://seekingalpha.com/news/4653115-apple-clears-regulatory-hurdles-as-it-prepares-to-launch-ai-features-in-china-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-14T20:16:42+00:00",
-   "tickers": [
-    "AAPL"
-   ]
-  },
-  {
-   "id": "dec153d333fa",
-   "title": "Perella Weinberg and Piper Sandler abandon merger talks",
-   "link": "https://www.ft.com/content/dadac221-a4dd-4935-897e-7f7faebe8f17?syn-25a6b1a6=1",
-   "summary": "A deal would have created an independent investment bank with an equity value of more than $6bn",
-   "article_text": "",
-   "source": "FT Companies",
-   "category": "stocks",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "ft.com",
-   "published": "2026-10-14T20:16:29+00:00",
-   "tickers": []
-  },
-  {
-   "id": "758f27af75ef",
-   "title": "8-K - Jackson Financial Inc. (0001822993) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1822993/000110465926115848/0001104659-26-115848-index.htm",
-   "summary": "Filed: 2026-10-14 AccNo: 0001104659-26-115848 Size: 281 KB Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers Item 7.01: Regulation FD Disclosure Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-10-14T20:16:23+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d76fae2fc42f",
-   "title": "8-K - COSTCO WHOLESALE CORP /NEW (0000909832) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000096/0000909832-26-000096-index.htm",
-   "summary": "Filed: 2026-10-14 AccNo: 0000909832-26-000096 Size: 159 KB Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-10-14T20:16:05+00:00",
-   "tickers": []
-  },
-  {
-   "id": "990cf3cd50f1",
-   "title": "8-K - Flyte Aviation, Inc. (0001716621) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1716621/000143774926032622/0001437749-26-032622-index.htm",
-   "summary": "Filed: 2026-10-14 AccNo: 0001437749-26-032622 Size: 373 KB Item 7.01: Regulation FD Disclosure Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-10-14T20:15:55+00:00",
-   "tickers": []
-  },
-  {
-   "id": "fc1c35066718",
-   "title": "8-K - Pine Tree Acquisition Corp. (0002076561) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/2076561/000147793226006216/0001477932-26-006216-index.htm",
-   "summary": "Filed: 2026-10-14 AccNo: 0001477932-26-006216 Size: 349 KB Item 3.02: Unregistered Sales of Equity Securities Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-10-14T20:15:38+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -9023,6 +9026,7 @@
   "VIAV": "Viavi Solutions",
   "HPQ": "Hewlett-Packard",
   "FLNC": "Fluence Energy",
+  "META": "Meta Platforms",
   "MS": "Morgan Stanley",
   "RIOT": "Riot Platforms",
   "KO": "The Coca-Cola",
