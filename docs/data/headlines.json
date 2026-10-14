@@ -1,8 +1,22 @@
 {
- "generated": "2026-10-14T23:35:34.132190+00:00",
+ "generated": "2026-10-14T23:41:52.676155+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "b6e41dd29191",
+   "title": "The AI trade is splintering as inflation fears rattle hyped-up tech stocks",
+   "link": "https://www.marketwatch.com/story/the-ai-trade-is-splintering-as-inflation-fears-rattle-hyped-up-tech-stocks-dbf49369?mod=mw_rss_topstories",
+   "summary": "Investors are wondering if steep inflation and increased borrowing costs could derail the AI buildout.",
+   "article_text": "",
+   "source": "MarketWatch",
+   "category": "markets",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "marketwatch.com",
+   "published": "2026-10-14T23:36:00+00:00",
+   "tickers": []
+  },
   {
    "id": "14e6d68fcd8d",
    "title": "NCPL Investors Have Opportunity to Lead Netcapital Inc. Securities Fraud Lawsuit Filed by The Rosen Law Firm",
@@ -15,6 +29,69 @@
    "sentiment": "negative",
    "domain": "prnewswire.com",
    "published": "2026-10-14T23:33:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a5bb916a8065",
+   "title": "Corn Posts Modest Wednesday Weakness",
+   "link": "https://www.nasdaq.com/articles/corn-posts-modest-wednesday-weakness",
+   "summary": "Corn futures held onto Wednesday’s weakness into the close though the $4.80 area held on December, with contracts just fractionally to 2 ¼ cents lower. The CmdtyView national average Cash Corn price was down 1 ¼ cents at $4.41. The delayed Tuesday Crop Progress report showed 33% of the US...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-14T23:31:54+00:00",
+   "tickers": []
+  },
+  {
+   "id": "65b98b82fb48",
+   "title": "Stocks Sharply Lower on Inflation Woes and Slumping Chipmakers",
+   "link": "https://www.nasdaq.com/articles/stocks-sharply-lower-inflation-woes-and-slumping-chipmakers",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down by -1.11% on Wednesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down by -0.09%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -2.02%. December E-mini S&P futures (ESZ26 ) fell -1.16%, and December E-mini...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-10-14T23:31:53+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
+  },
+  {
+   "id": "89eef13e8f3f",
+   "title": "Corn Weakness Holding on Wednesday",
+   "link": "https://www.nasdaq.com/articles/corn-weakness-holding-wednesday",
+   "summary": "Corn futures are showing 2 to 3 cent losses on Wednesday. The CmdtyView national average Cash Corn price is down 2 ¼ cents at $4.40. Rains fell in parts of the TX panhandle, KS, MO and IL overnight, putting a pause on some harvest. More rain is expected in those...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-14T23:31:53+00:00",
+   "tickers": [
+    "MO"
+   ]
+  },
+  {
+   "id": "4023fe730fa1",
+   "title": "Cotton Slips to Close Mixed on Wednesday",
+   "link": "https://www.nasdaq.com/articles/cotton-slips-close-mixed-wednesday",
+   "summary": "Cotton futures closed the midweek session, with contracts up 15 to 21 points in the front months and down 2 to 35 in the deferreds. Crude oil was up $1.03 per barrel on the session, with the US dollar index $0.326 higher. The weekly Crop Progress report showed 82% of...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-14T23:31:53+00:00",
    "tickers": []
   },
   {
@@ -48,6 +125,36 @@
    "tickers": []
   },
   {
+   "id": "fe922719a3f6",
+   "title": "Apple Just Passed $5 Trillion. Here’s What Comes Next",
+   "link": "https://biztoc.com/x/cc1c4700528416a4?ref=rss",
+   "summary": "Apple Just Passed $5 Trillion. Here’s What Comes Next. Apple just crossed a threshold no company has reached before, but the real debate is whether its loftiest valuation yet rests on a foundation strong enough to hold as margins compress and rivals grow faster. Apple (NASDAQ:AAPL | AAPL Price…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-14T23:25:53+00:00",
+   "tickers": [
+    "AAPL"
+   ]
+  },
+  {
+   "id": "7e4a40b963f0",
+   "title": "Southern California woman added to FBI Most Wanted Fraudsters list",
+   "link": "https://biztoc.com/x/3b8aaaabb73785f9?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-14T23:25:48+00:00",
+   "tickers": []
+  },
+  {
    "id": "cd6ea19cb3dd",
    "title": "S&P 500 futures fall as traders await more U.S. economic data: Live updates",
    "link": "https://www.cnbc.com/2026/10/14/stock-market-today-live-updates.html",
@@ -59,6 +166,20 @@
    "sentiment": "negative",
    "domain": "cnbc.com",
    "published": "2026-10-14T23:25:27+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ff75f5ca8f48",
+   "title": "Gas Prices Break Unwanted Record Under Donald Trump",
+   "link": "https://biztoc.com/x/5cf69a503190bcee?ref=rss",
+   "summary": "U.S. gas prices hit a record high on Wednesday, with the average cost per gallon of gasoline remaining well over $4 for the 158th day in a row, breaking the record set in 2022 under the Biden administration. The new record comes less than three weeks before the midterm elections, when tight races…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-14T23:25:26+00:00",
    "tickers": []
   },
   {
@@ -254,6 +375,92 @@
    "tickers": []
   },
   {
+   "id": "41b3d6be3e5d",
+   "title": "Wheat Closes Mixed on Wednesday as Winter Wheat Holds Higher",
+   "link": "https://www.nasdaq.com/articles/wheat-closes-mixed-wednesday-winter-wheat-holds-higher",
+   "summary": "The wheat complex was mixed at the Wednesday close. Chicago SRW contracts were steady to 4 cents higher in the front months, with deferreds slightly lower. KC HRW futures was also mixed, with contracts anywhere from 3 cents higher to a penny lower. MPLS spring wheat was fractionally to 4...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-14T23:21:01+00:00",
+   "tickers": []
+  },
+  {
+   "id": "bfccad85e99d",
+   "title": "Hogs Face Continued Weakness on Wednesday, with Pork Collapse Continuing",
+   "link": "https://www.nasdaq.com/articles/hogs-face-continued-weakness-wednesday-pork-collapse-continuing",
+   "summary": "Lean hog futures saw losses of 10 cents to $1.95 on the day, with a couple deferreds up 5 to 12 cents. October expired down a nickel. USDA’s national base hog price was reported at $69.14 on Wednesday afternoon, down $1.12 from the day prior. The CME Lean Hog Index...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-14T23:21:00+00:00",
+   "tickers": [
+    "CME"
+   ]
+  },
+  {
+   "id": "cde921686d52",
+   "title": "Soybeans Sell the Fact on Chinese Buying",
+   "link": "https://www.nasdaq.com/articles/soybeans-sell-fact-chinese-buying",
+   "summary": "Soybeans faded the early/overnight gains and Chinese business on Wednesday, with contracts down 6 ½ to 8 ¾ cents at the close. The cmdtyView national average Cash Bean price was down 6 1/4 cents at $12.18 1/2. Soymeal futures were steady to $1.30 higher at the close, with Soy Oil...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-14T23:21:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a6aa1582598c",
+   "title": "Cattle Slip Back on Wednesday",
+   "link": "https://www.nasdaq.com/articles/cattle-slip-back-wednesday",
+   "summary": "Live cattle futures were down 30 cents to $1.25 across the board on Wednesday The Wednesday Fed Cattle Exchange online auction showed $226 sales on one lot of the 2,914 head offered, with other bids of $223. Feeder cattle futures slipped into the close, with contract down $1.90 to $2.57...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-14T23:21:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "fc2e311b4741",
+   "title": "Nat-Gas Prices Retreat as Warm US Temps Curb Heating Demand",
+   "link": "https://www.nasdaq.com/articles/nat-gas-prices-retreat-warm-us-temps-curb-heating-demand",
+   "summary": "November Nymex natural gas (NGX26 ) on Wednesday closed down -0.085 (-2.59%). Nat-gas prices fell from a 3-month nearest-futures high on Wednesday and settled sharply lower after forecasts for above-normal US temperatures sparked long liquidation in nat-gas futures. The Commodity Weather Group said Wednesday that it expects above-average temperatures to...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-14T23:20:59+00:00",
+   "tickers": []
+  },
+  {
+   "id": "6f32abbf006e",
+   "title": "Wheat Trying to Hold Higher on Wednesday",
+   "link": "https://www.nasdaq.com/articles/wheat-trying-hold-higher-wednesday",
+   "summary": "The wheat complex is showing mixed trade so far on Wednesday. Chicago SRW contracts are trading with 2 to 3 cent gains so far on the session. KC HRW futures are showing steady to 1 ½ cent gains at midday. MPLS spring wheat is down 4 to 6 cents so...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-14T23:20:59+00:00",
+   "tickers": []
+  },
+  {
    "id": "09bac0f10114",
    "title": "TYGO Investors Have Opportunity to Lead Tigo Energy, Inc. Securities Fraud Lawsuit Filed by The Rosen Law Firm",
    "link": "https://www.prnewswire.com/news-releases/tygo-investors-have-opportunity-to-lead-tigo-energy-inc-securities-fraud-lawsuit-filed-by-the-rosen-law-firm-302909127.html",
@@ -282,6 +489,22 @@
    "tickers": []
   },
   {
+   "id": "a21ec5df7efd",
+   "title": "Prediction: Alphabet Will Soar After Oct. 28",
+   "link": "https://www.nasdaq.com/articles/prediction-alphabet-will-soar-after-oct-28",
+   "summary": "Key PointsAlphabet has some factors that will boost its growth rate this quarter.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-10-14T23:20:00+00:00",
+   "tickers": [
+    "GOOG"
+   ]
+  },
+  {
    "id": "bb7d58aed14b",
    "title": "Wayfair CEO Niraj Shah sells $7.3m of company stock",
    "link": "https://www.investing.com/news/insider-trading-news/wayfair-ceo-niraj-shah-sells-73m-of-company-stock-93CH-4950250",
@@ -296,6 +519,20 @@
    "tickers": [
     "W"
    ]
+  },
+  {
+   "id": "54f3a068c27e",
+   "title": "Japan Stock Market May Extend Losing Streak On Thursday",
+   "link": "https://www.nasdaq.com/articles/japan-stock-market-may-extend-losing-streak-thursday",
+   "summary": "(RTTNews) - The Japan stock market has tracked lower in five straight sessions, slumping more than 2,930 points or 4.2 percent in that span. The Nikkei now sits just beneath the 67,750-point plateau and it's looking at another soft start again on Thursday.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-14T23:18:12+00:00",
+   "tickers": []
   },
   {
    "id": "a16075726e48",
@@ -324,6 +561,22 @@
    "domain": "investing.com",
    "published": "2026-10-14T23:16:16+00:00",
    "tickers": []
+  },
+  {
+   "id": "394a32625617",
+   "title": "Supply Risks Boost Coffee Prices",
+   "link": "https://www.nasdaq.com/articles/supply-risks-boost-coffee-prices",
+   "summary": "December arabica coffee (KCZ26 ) closed up +5.35 (+1.83%) on Wednesday, and November ICE robusta coffee (RMX26 ) closed up +24 (+0.69%). Coffee prices moved higher on Wednesday on supply concerns. Last Friday, Colombia’s Coffee Federation reported that 2025/26 Colombia coffee production (Oct-Sep) fell -15% y/y to 12.65 million bags,...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-10-14T23:16:03+00:00",
+   "tickers": [
+    "ICE"
+   ]
   },
   {
    "id": "88f8bc962593",
@@ -502,6 +755,22 @@
    "domain": "seekingalpha.com",
    "published": "2026-10-14T23:10:46+00:00",
    "tickers": []
+  },
+  {
+   "id": "b4cae0b17ba5",
+   "title": "Dollar Ticks Up and Gold Slides on US Inflation News",
+   "link": "https://www.nasdaq.com/articles/dollar-ticks-and-gold-slides-us-inflation-news",
+   "summary": "The dollar index (DXY00 ) rallied to a 1.5-year high on Wednesday and finished up by +0.37%. The dollar advanced on Wednesday on the stronger-than-expected US Sep CPI report, which bolsters speculation that the Fed will keep interest rates higher for longer. The CPI report boosted the chance of a...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "macro",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-10-14T23:10:21+00:00",
+   "tickers": [
+    "NWSA"
+   ]
   },
   {
    "id": "567615c01472",
@@ -819,6 +1088,22 @@
    ]
   },
   {
+   "id": "d083faa16397",
+   "title": "Tesla's Elon Musk Might Have Gone Back on His Word, but It's Working in China",
+   "link": "https://www.nasdaq.com/articles/teslas-elon-musk-might-have-gone-back-his-word-its-working-china",
+   "summary": "Key PointsChina's automotive market is spiraling this year, and its brutal price war doesn't seem to be easing.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-14T23:05:00+00:00",
+   "tickers": [
+    "TSLA"
+   ]
+  },
+  {
    "id": "36f63efa43b8",
    "title": "IBM survey finds 80% of EMEA firms report AI incidents to board",
    "link": "https://www.investing.com/news/company-news/ibm-survey-finds-80-of-emea-firms-report-ai-incidents-to-board-93CH-4950241",
@@ -833,69 +1118,6 @@
    "tickers": [
     "IBM"
    ]
-  },
-  {
-   "id": "65b98b82fb48",
-   "title": "Stocks Sharply Lower on Inflation Woes and Slumping Chipmakers",
-   "link": "https://www.nasdaq.com/articles/stocks-sharply-lower-inflation-woes-and-slumping-chipmakers",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down by -1.11% on Wednesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down by -0.09%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -2.02%. December E-mini S&P futures (ESZ26 ) fell -1.16%, and December E-mini...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-10-14T23:04:22+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
-   ]
-  },
-  {
-   "id": "b4cae0b17ba5",
-   "title": "Dollar Ticks Up and Gold Slides on US Inflation News",
-   "link": "https://www.nasdaq.com/articles/dollar-ticks-and-gold-slides-us-inflation-news",
-   "summary": "The dollar index (DXY00 ) rallied to a 1.5-year high on Wednesday and finished up by +0.37%. The dollar advanced on Wednesday on the stronger-than-expected US Sep CPI report, which bolsters speculation that the Fed will keep interest rates higher for longer. The CPI report boosted the chance of a...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "macro",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-10-14T23:04:21+00:00",
-   "tickers": [
-    "NWSA"
-   ]
-  },
-  {
-   "id": "fc2e311b4741",
-   "title": "Nat-Gas Prices Retreat as Warm US Temps Curb Heating Demand",
-   "link": "https://www.nasdaq.com/articles/nat-gas-prices-retreat-warm-us-temps-curb-heating-demand",
-   "summary": "November Nymex natural gas (NGX26 ) on Wednesday closed down -0.085 (-2.59%). Nat-gas prices fell from a 3-month nearest-futures high on Wednesday and settled sharply lower after forecasts for above-normal US temperatures sparked long liquidation in nat-gas futures. The Commodity Weather Group said Wednesday that it expects above-average temperatures to...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-14T23:04:21+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6f32abbf006e",
-   "title": "Wheat Trying to Hold Higher on Wednesday",
-   "link": "https://www.nasdaq.com/articles/wheat-trying-hold-higher-wednesday",
-   "summary": "The wheat complex is showing mixed trade so far on Wednesday. Chicago SRW contracts are trading with 2 to 3 cent gains so far on the session. KC HRW futures are showing steady to 1 ½ cent gains at midday. MPLS spring wheat is down 4 to 6 cents so...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-14T23:04:21+00:00",
-   "tickers": []
   },
   {
    "id": "908dddc84bd1",
@@ -915,6 +1137,20 @@
     "SPY",
     "DIA"
    ]
+  },
+  {
+   "id": "d483154f93df",
+   "title": "Dramatically Oversold KOSPI Still Called Lower On Thursday",
+   "link": "https://www.nasdaq.com/articles/dramatically-oversold-kospi-still-called-lower-thursday",
+   "summary": "(RTTNews) - The South Korea stock market has finished lower in six straight sessions, plummeting more than 1,000 points or 15 percent along the way. The KOSPI now sits just above the 6,000-point plateau and it's got another weak lead for Thursday's trade.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-10-14T23:03:12+00:00",
+   "tickers": []
   },
   {
    "id": "3424df46bedc",
@@ -1059,22 +1295,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-10-14T23:00:55+00:00",
    "tickers": []
-  },
-  {
-   "id": "394a32625617",
-   "title": "Supply Risks Boost Coffee Prices",
-   "link": "https://www.nasdaq.com/articles/supply-risks-boost-coffee-prices",
-   "summary": "December arabica coffee (KCZ26 ) closed up +5.35 (+1.83%) on Wednesday, and November ICE robusta coffee (RMX26 ) closed up +24 (+0.69%). Coffee prices moved higher on Wednesday on supply concerns. Last Friday, Colombia’s Coffee Federation reported that 2025/26 Colombia coffee production (Oct-Sep) fell -15% y/y to 12.65 million bags,...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-10-14T22:57:27+00:00",
-   "tickers": [
-    "ICE"
-   ]
   },
   {
    "id": "7eeb2efde801",
@@ -2319,22 +2539,6 @@
    "domain": "marketwatch.com",
    "published": "2026-10-14T22:23:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "89eef13e8f3f",
-   "title": "Corn Weakness Holding on Wednesday",
-   "link": "https://www.nasdaq.com/articles/corn-weakness-holding-wednesday",
-   "summary": "Corn futures are showing 2 to 3 cent losses on Wednesday. The CmdtyView national average Cash Corn price is down 2 ¼ cents at $4.40. Rains fell in parts of the TX panhandle, KS, MO and IL overnight, putting a pause on some harvest. More rain is expected in those...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-14T22:21:16+00:00",
-   "tickers": [
-    "MO"
-   ]
   },
   {
    "id": "7002095a1f2e",
@@ -8725,214 +8929,6 @@
    "domain": "prnewswire.com",
    "published": "2026-10-14T20:34:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "21c28ff72251",
-   "title": "Northern Trust Becomes Oversold",
-   "link": "https://www.nasdaq.com/articles/northern-trust-becomes-oversold",
-   "summary": "The DividendRank formula at Dividend Channel ranks a coverage universe of thousands of dividend stocks, according to a proprietary formula designed to identify those stocks that combine two important characteristics — strong fundamentals and a valuation that looks inexpensive.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-14T20:33:50+00:00",
-   "tickers": []
-  },
-  {
-   "id": "7c093dee7a35",
-   "title": "THM Crosses Critical Technical Indicator",
-   "link": "https://www.nasdaq.com/articles/thm-crosses-critical-technical-indicator",
-   "summary": "In trading on Wednesday, shares of International Tower Hill Mines Ltd (Symbol: THM) entered into oversold territory, changing hands as low as $1.98 per share. We define oversold territory using the Relative Strength Index, or RSI, which is a technical analysis indicator used to",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-14T20:33:45+00:00",
-   "tickers": []
-  },
-  {
-   "id": "420e6c0083a6",
-   "title": "Notable Two Hundred Day Moving Average Cross - KF",
-   "link": "https://www.nasdaq.com/articles/notable-two-hundred-day-moving-average-cross-kf",
-   "summary": "In trading on Wednesday, shares of Korea Fund Inc New (Symbol: KF) crossed below their 200 day moving average of $58.21, changing hands as low as $57.43 per share. Korea Fund Inc New shares are currently trading off about 2.6% on the day. The chart below shows the one year per",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-14T20:33:41+00:00",
-   "tickers": []
-  },
-  {
-   "id": "9bf028007449",
-   "title": "T. Rowe Price Group Becomes Oversold",
-   "link": "https://www.nasdaq.com/articles/t-rowe-price-group-becomes-oversold",
-   "summary": "The DividendRank formula at Dividend Channel ranks a coverage universe of thousands of dividend stocks, according to a proprietary formula designed to identify those stocks that combine two important characteristics — strong fundamentals and a valuation that looks inexpensive.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-14T20:33:38+00:00",
-   "tickers": [
-    "TROW"
-   ]
-  },
-  {
-   "id": "03c05da2317c",
-   "title": "Nuveen Arizona Dividend Advantage Municipal Fund III (NXE) Shares Enter Oversold Territory",
-   "link": "https://www.nasdaq.com/articles/nuveen-arizona-dividend-advantage-municipal-fund-iii-nxe-shares-enter-oversold-territory",
-   "summary": "In trading on Wednesday, shares of Nuveen Arizona Dividend Advantage Municipal Fund III (Symbol: NXE) entered into oversold territory, changing hands as low as $7.88 per share. We define oversold territory using the Relative Strength Index, or RSI, which is a technical analysis",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "dividend",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-10-14T20:33:35+00:00",
-   "tickers": [
-    "NXE"
-   ]
-  },
-  {
-   "id": "5b3f16a2c148",
-   "title": "BNY Crosses Below Key Moving Average Level",
-   "link": "https://www.nasdaq.com/articles/bny-crosses-below-key-moving-average-level",
-   "summary": "In trading on Wednesday, shares of BlackRock New York Municipal Income Trust (Symbol: BNY) crossed below their 200 day moving average of $137.61, changing hands as low as $135.27 per share. BlackRock New York Municipal Income Trust shares are currently trading off about 3.3% on",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-14T20:33:32+00:00",
-   "tickers": [
-    "BLK"
-   ]
-  },
-  {
-   "id": "cc43e8532c97",
-   "title": "FS KKR Capital is Oversold",
-   "link": "https://www.nasdaq.com/articles/fs-kkr-capital-oversold",
-   "summary": "The DividendRank formula at Dividend Channel ranks a coverage universe of thousands of dividend stocks, according to a proprietary formula designed to identify those stocks that combine two important characteristics — strong fundamentals and a valuation that looks inexpensive.",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-14T20:33:27+00:00",
-   "tickers": [
-    "KKR"
-   ]
-  },
-  {
-   "id": "978c80ae3882",
-   "title": "MCI Makes Notable Cross Below Critical Moving Average",
-   "link": "https://www.nasdaq.com/articles/mci-makes-notable-cross-below-critical-moving-average",
-   "summary": "In trading on Wednesday, shares of Babson Capital Corporate Investors Fund (Symbol: MCI) crossed below their 200 day moving average of $18.39, changing hands as low as $18.00 per share. Babson Capital Corporate Investors Fund shares are currently trading off about 2.9% on the d",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-14T20:33:22+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e77174142eb1",
-   "title": "8-K - CD 2016-CD1 Mortgage Trust (0001679327) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1679327/000188852426018534/0001888524-26-018534-index.htm",
-   "summary": "Filed: 2026-10-14 AccNo: 0001888524-26-018534 Size: 16 KB Item 8.01: Other Events",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-10-14T20:33:11+00:00",
-   "tickers": []
-  },
-  {
-   "id": "f0237729b551",
-   "title": "8-K - Corvex, Inc. (0001734750) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1734750/000121390026109462/0001213900-26-109462-index.htm",
-   "summary": "Filed: 2026-10-14 AccNo: 0001213900-26-109462 Size: 562 KB Item 1.01: Entry into a Material Definitive Agreement Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-10-14T20:32:35+00:00",
-   "tickers": []
-  },
-  {
-   "id": "18d3ff021280",
-   "title": "U.S. stocks lower at close of trade; Dow Jones Industrial Average down 0.09%",
-   "link": "https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-009-4950017",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-10-14T20:31:06+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e53e6cd2809f",
-   "title": "Shopify: Wait For The Next Golden Buying Opportunity (Downgrade)",
-   "link": "https://seekingalpha.com/article/4954232-shopify-wait-for-next-golden-buying-opportunity-downgrade?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-14T20:31:05+00:00",
-   "tickers": [
-    "SHOP"
-   ]
-  },
-  {
-   "id": "976fd4375649",
-   "title": "8-K - SLM Student Loan Trust 2005-7 (0001331696) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1331696/000114036126039580/0001140361-26-039580-index.htm",
-   "summary": "Filed: 2026-10-14 AccNo: 0001140361-26-039580 Size: 3 MB Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-10-14T20:30:56+00:00",
-   "tickers": [
-    "SLM"
-   ]
-  },
-  {
-   "id": "630fa1a3a7ae",
-   "title": "Canada stocks lower at close of trade; S&P/TSX Composite down 1.11%",
-   "link": "https://www.investing.com/news/stock-market-news/canada-stocks-lower-at-close-of-trade-sptsx-composite-down-111-4950015",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-10-14T20:30:34+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8974,7 +8970,6 @@
   "PG": "The Procter & Gamble",
   "SMCI": "Super Micro Computer",
   "IP": "International Paper",
-  "TROW": "T. Rowe Price Group",
   "BEN": "Franklin Resources",
   "BRK-A": "Berkshire Hathaway",
   "CNP": "CenterPoint Energy",
@@ -9015,7 +9010,6 @@
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
   "KO": "The Coca-Cola",
-  "NXE": "NexGen Energy",
   "OC": "Owens Corning",
   "OMC": "Omnicom Group",
   "VERO": "Venus Concept",
@@ -9033,7 +9027,6 @@
   "MORN": "Morningstar",
   "YUM": "Yum! Brands",
   "AAPL": "Apple Watch",
-  "SHOP": "Shopify Inc",
   "CVS": "CVS Health",
   "F": "Ford Motor",
   "FIVE": "Five Below",
@@ -9048,6 +9041,7 @@
   "BC": "Brunswick",
   "BLK": "BlackRock",
   "C": "Citigroup",
+  "CME": "CME Group",
   "CRWV": "CoreWeave",
   "OS": "OneStream",
   "SM": "SM Energy",
@@ -9087,7 +9081,6 @@
   "STE": "STERIS",
   "CIEN": "Ciena",
   "INTC": "Intel",
-  "KKR": "KKR &",
   "BALL": "Ball",
   "DAVE": "Dave",
   "IONQ": "IonQ",
