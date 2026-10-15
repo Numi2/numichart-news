@@ -1,8 +1,38 @@
 {
- "generated": "2026-10-15T03:52:28.661410+00:00",
+ "generated": "2026-10-15T03:59:33.221655+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "724f13db3af7",
+   "title": "Repligen: A Buy As Its Growth Engine Gears Up",
+   "link": "https://seekingalpha.com/article/4954289-repligen-stock-a-buy-as-its-growth-engine-gears-up?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-15T03:57:00+00:00",
+   "tickers": [
+    "RGEN"
+   ]
+  },
+  {
+   "id": "9ee7e2d280e7",
+   "title": "Elon Musk says Trump is 'ultimately' responsible for any curbs on Ukraine's Starshield systems",
+   "link": "https://www.cnbc.com/2026/10/15/elon-musk-starlink-ukraine-trump-energy-ceasefire.html",
+   "summary": "\"Any limits on speed or usage are decided by the US military and ultimately POTUS,\" Musk wrote.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-10-15T03:55:35+00:00",
+   "tickers": []
+  },
   {
    "id": "15c9c5182542",
    "title": "Anthropic's third-quarter revenue is said to hit $16.8 billion ahead of IPO",
@@ -492,20 +522,6 @@
    "sentiment": "neutral",
    "domain": "biztoc.com",
    "published": "2026-10-15T03:25:50+00:00",
-   "tickers": []
-  },
-  {
-   "id": "9ee7e2d280e7",
-   "title": "Elon Musk says Trump is 'ultimately' responsible for any curbs on Ukraine's Starshield systems",
-   "link": "https://www.cnbc.com/2026/10/15/elon-musk-starlink-ukraine-trump-energy-ceasefire.html",
-   "summary": "\"Any limits on speed or usage are decided by the US military and ultimately POTUS,\" Musk wrote.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-10-15T03:24:36+00:00",
    "tickers": []
   },
   {
@@ -8807,23 +8823,6 @@
    "domain": "biztoc.com",
    "published": "2026-10-14T21:38:03+00:00",
    "tickers": []
-  },
-  {
-   "id": "a75d01e32574",
-   "title": "Forget SCHD’s Home Bias: Schwab’s International Fund Charges 0.08% and Nearly Matched It Over Five Years",
-   "link": "https://biztoc.com/x/86e263f0b7268525?ref=rss",
-   "summary": "The post Forget SCHD’s Home Bias: Schwab’s International Fund Charges 0.08% and Nearly Matched It Over Five Years appeared first on 24/7 Wall St.. Many income investors ground their portfolios with the Schwab U.S. Dividend Equity ETF (NYSEARCA:SCHD), and the record explains why. SCHD owns…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-10-14T21:38:02+00:00",
-   "tickers": [
-    "SCHD",
-    "SCHF"
-   ]
   }
  ],
  "ticker_names": {
@@ -8833,9 +8832,7 @@
   "TSM": "Taiwan Semiconductor Manufacturing",
   "DB": "Deutsche Bank Aktiengesellschaft",
   "IBM": "International Business Machines",
-  "SCHF": "Schwab International Equity ETF",
   "MUFG": "Mitsubishi UFJ Financial Group",
-  "SCHD": "Schwab US Dividend Equity ETF",
   "WST": "West Pharmaceutical Services",
   "QQQ": "Invesco QQQ Trust, Series 1",
   "ARWR": "Arrowhead Pharmaceuticals",
@@ -8930,6 +8927,7 @@
   "DOCS": "Doximity",
   "DUOL": "Duolingo",
   "GOOG": "Alphabet",
+  "RGEN": "Repligen",
   "RS": "Reliance",
   "SQ": "Cash App",
   "FOX": "Fox Corp",
