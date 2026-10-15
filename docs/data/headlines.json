@@ -1,8 +1,411 @@
 {
- "generated": "2026-10-15T03:05:05.389799+00:00",
+ "generated": "2026-10-15T03:26:51.163378+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "c1b640507953",
+   "title": "IYRI: Unpacking This Covered Call REIT ETF",
+   "link": "https://seekingalpha.com/article/4954282-iyri-unpacking-this-covered-call-etf?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-15T03:16:36+00:00",
+   "tickers": []
+  },
+  {
+   "id": "fba9c04c14ec",
+   "title": "Meta: The Muse Rally Has Priced In The Good News Before Q3",
+   "link": "https://seekingalpha.com/article/4954281-meta-the-muse-rally-has-priced-in-the-good-news-before-q3?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-15T03:15:42+00:00",
+   "tickers": [
+    "NWSA",
+    "META"
+   ]
+  },
+  {
+   "id": "06674a140491",
+   "title": "Global chip sell-off deepens as South Korean market plunges",
+   "link": "https://biztoc.com/x/fa783425e12d935e?ref=rss",
+   "summary": "A global sell-off in memory-chip stocks deepened overnight as South Korea's benchmark KOSPI (^KS11) tanked 7%. Micron (MU) and SK Hynix (SKHY) were poised to open lower on Wednesday as SK Hynix (000660.KS) and Samsung Electronics (005930.KS) fell 10% and 8%, respectively, after tanking earlier…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-10-15T03:11:22+00:00",
+   "tickers": [
+    "MU"
+   ]
+  },
+  {
+   "id": "08ed895f907f",
+   "title": "Lithium Extends Deep Slump as Battery Demand Concerns Mount",
+   "link": "https://biztoc.com/x/4ca88b38469f0e98?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-10-15T03:11:04+00:00",
+   "tickers": []
+  },
+  {
+   "id": "8281a7a1dce4",
+   "title": "Jim Cramer Says Bank Stocks Are Hard to Own Despite Strong Earnings",
+   "link": "https://biztoc.com/x/5834f07d1bb8257b?ref=rss",
+   "summary": "Jim Cramer says investors are punishing bank stocks even when earnings beat estimates. Morgan Stanley (MS) fell nearly 3% on Wednesday after its revenue grew 12% and topped forecasts. Cramer attributes the sell-off to worries about sticky inflation and climbing rates, not weak results. Goldman…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-10-15T03:11:02+00:00",
+   "tickers": [
+    "MS"
+   ]
+  },
+  {
+   "id": "96590c1de911",
+   "title": "Global tech sell-off deepens as Asian markets tumble",
+   "link": "https://biztoc.com/x/efee73e0b673cfcc?ref=rss",
+   "summary": "AI-related stocks in South Korea and Japan suffer after Wall Street falls on hot US inflation",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-10-15T03:11:01+00:00",
+   "tickers": []
+  },
+  {
+   "id": "20b4dd410c75",
+   "title": "NHK restarts home visits to grow subscribers amid falling numbers",
+   "link": "https://biztoc.com/x/0a607b6efcde03cd?ref=rss",
+   "summary": "Starting this month, staff affiliated with NHK have been knocking on doors where contracts haven't been signed or there are unpaid subscription fees.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-15T03:11:01+00:00",
+   "tickers": []
+  },
+  {
+   "id": "46d2ddaf1b21",
+   "title": "HSBC launches discretionary portfolio management service for retail investors",
+   "link": "https://biztoc.com/x/3a0a8a5eeaaf809a?ref=rss",
+   "summary": "HSBC has launched a discretionary portfolio management service for retail investors with a minimum investment threshold as low as HK$1,000 (US$128) per month, as Hong Kong’s largest lender aims to attract younger, tech-savvy customers. The new service, named Portfolio+, allows HSBC’s retail…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-10-15T03:10:59+00:00",
+   "tickers": [
+    "HSBC"
+   ]
+  },
+  {
+   "id": "30d6860b357b",
+   "title": "Musk: Time for Zelensky to go",
+   "link": "https://biztoc.com/x/3123bac02e8713d5?ref=rss",
+   "summary": "SpaceX CEO and the wealthiest man in the world, Elon Musk, wrote on X that it is \"time for Zelensky to go\" after claims regarding the Ukrainian President's political fears.\"And so the slaughter contin...",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-15T03:10:57+00:00",
+   "tickers": [
+    "SPCX"
+   ]
+  },
+  {
+   "id": "c18c9b10ff78",
+   "title": "\"It's A Pity...\": Zelensky Feels 'Betrayed' By Trump & Elon Musk",
+   "link": "https://biztoc.com/x/b7c1f97db1d65d28?ref=rss",
+   "summary": "\"It's A Pity...\": Zelensky Feels 'Betrayed' By Trump & Elon Musk Ukrainian President Volodymyr Zelensky says he feels betrayed by President Trump in the wake of the US deal to buy Russian fuel from Moscow, which was announced last week. Zelensky went on a newly aired episode of Piers Morgan's…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-15T03:10:54+00:00",
+   "tickers": []
+  },
+  {
+   "id": "6ef34fc99e7d",
+   "title": "India and the World in the Age of AI: Bloomberg New Economy Forum Live Q&A",
+   "link": "https://biztoc.com/x/5e3f25a30b7808a0?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-15T03:10:49+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a7aaa79aae42",
+   "title": "Ilhan Omar’s Phone Seized, Trump Admin Targeting Her Citizenship: Reports",
+   "link": "https://biztoc.com/x/da44c1788e6495a4?ref=rss",
+   "summary": "Federal authorities investigating Minnesota U.S. Representative Ilhan Omar have seized her phone and issued more than a dozen grand jury subpoenas, including to some of her relatives, according to reports. The moves escalate a probe into her immigration paperwork as President Donald Trump renews…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-15T03:10:48+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ccb8d05e7984",
+   "title": "Meta’s Smart Glasses May Have Been Recording People Without Their Knowledge",
+   "link": "https://biztoc.com/x/382b6438c9649b4a?ref=rss",
+   "summary": "If you needed another reason to be skeptical of Meta’s smart glasses, congratulations—you can add “may record without my knowledge” to the seemingly never-ending list. As noted by Android Authority, people who own Meta’s smart glasses have noticed that, after a recent firmware update, their smart…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-15T03:10:45+00:00",
+   "tickers": [
+    "GOOGL",
+    "META"
+   ]
+  },
+  {
+   "id": "bb94ba83cfb9",
+   "title": "Vera Bradley: Despite 140% Rally, The Stock Is Still Undervalued",
+   "link": "https://seekingalpha.com/article/4954279-vera-bradley-despite-140-percent-rally-stock-still-undervalued?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-15T03:08:14+00:00",
+   "tickers": [
+    "VERA"
+   ]
+  },
+  {
+   "id": "c94eb9d3f52f",
+   "title": "Shanghai lantern show lights up Spanish celebration",
+   "link": "https://www.prnewswire.com/news-releases/shanghai-lantern-show-lights-up-spanish-celebration-302909375.html",
+   "summary": "SHANGHAI, Oct. 14, 2026 /PRNewswire/ -- A news report from english.shanghai.gov.cn A centuries-old folk tradition from Shanghai took center stage recently at La Merce Festival, one of Barcelona's biggest cultural celebrations, as performers carrying giant bamboo lanterns rolled, spun and...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-10-15T03:08:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ea0e610732af",
+   "title": "LIVE: President Trump delivers remarks in Montana amid midterm blitz",
+   "link": "https://biztoc.com/x/ebe5e51fdd450103?ref=rss",
+   "summary": "With less than three weeks until the 2026 midterm elections, President Trump delivers remarks at midterm rally in Kalispell, ...",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-15T03:07:01+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e0b73b3027c7",
+   "title": "Global tech sell-off deepens as Asian markets tumble",
+   "link": "https://www.ft.com/content/cf5f1209-da29-4ce1-b425-0e83818bf9ec?syn-25a6b1a6=1",
+   "summary": "AI-related stocks in South Korea and Japan suffer after Wall Street falls on hot US inflation",
+   "article_text": "",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "ft.com",
+   "published": "2026-10-15T03:06:15+00:00",
+   "tickers": []
+  },
+  {
+   "id": "4023fe730fa1",
+   "title": "Cotton Slips to Close Mixed on Wednesday",
+   "link": "https://www.nasdaq.com/articles/cotton-slips-close-mixed-wednesday",
+   "summary": "Cotton futures closed the midweek session, with contracts up 15 to 21 points in the front months and down 2 to 35 in the deferreds. Crude oil was up $1.03 per barrel on the session, with the US dollar index $0.326 higher. The weekly Crop Progress report showed 82% of...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-15T03:04:22+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a6aa1582598c",
+   "title": "Cattle Slip Back on Wednesday",
+   "link": "https://www.nasdaq.com/articles/cattle-slip-back-wednesday",
+   "summary": "Live cattle futures were down 30 cents to $1.25 across the board on Wednesday The Wednesday Fed Cattle Exchange online auction showed $226 sales on one lot of the 2,914 head offered, with other bids of $223. Feeder cattle futures slipped into the close, with contract down $1.90 to $2.57...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-15T03:04:22+00:00",
+   "tickers": []
+  },
+  {
+   "id": "cde921686d52",
+   "title": "Soybeans Sell the Fact on Chinese Buying",
+   "link": "https://www.nasdaq.com/articles/soybeans-sell-fact-chinese-buying",
+   "summary": "Soybeans faded the early/overnight gains and Chinese business on Wednesday, with contracts down 6 ½ to 8 ¾ cents at the close. The cmdtyView national average Cash Bean price was down 6 1/4 cents at $12.18 1/2. Soymeal futures were steady to $1.30 higher at the close, with Soy Oil...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-15T03:04:22+00:00",
+   "tickers": []
+  },
+  {
+   "id": "65b98b82fb48",
+   "title": "Stocks Sharply Lower on Inflation Woes and Slumping Chipmakers",
+   "link": "https://www.nasdaq.com/articles/stocks-sharply-lower-inflation-woes-and-slumping-chipmakers",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down by -1.11% on Wednesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down by -0.09%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -2.02%. December E-mini S&P futures (ESZ26 ) fell -1.16%, and December E-mini...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-10-15T03:04:21+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
+  },
+  {
+   "id": "fc2e311b4741",
+   "title": "Nat-Gas Prices Retreat as Warm US Temps Curb Heating Demand",
+   "link": "https://www.nasdaq.com/articles/nat-gas-prices-retreat-warm-us-temps-curb-heating-demand",
+   "summary": "November Nymex natural gas (NGX26 ) on Wednesday closed down -0.085 (-2.59%). Nat-gas prices fell from a 3-month nearest-futures high on Wednesday and settled sharply lower after forecasts for above-normal US temperatures sparked long liquidation in nat-gas futures. The Commodity Weather Group said Wednesday that it expects above-average temperatures to...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-15T03:04:21+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a5bb916a8065",
+   "title": "Corn Posts Modest Wednesday Weakness",
+   "link": "https://www.nasdaq.com/articles/corn-posts-modest-wednesday-weakness",
+   "summary": "Corn futures held onto Wednesday’s weakness into the close though the $4.80 area held on December, with contracts just fractionally to 2 ¼ cents lower. The CmdtyView national average Cash Corn price was down 1 ¼ cents at $4.41. The delayed Tuesday Crop Progress report showed 33% of the US...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-15T03:04:21+00:00",
+   "tickers": []
+  },
+  {
+   "id": "bfccad85e99d",
+   "title": "Hogs Face Continued Weakness on Wednesday, with Pork Collapse Continuing",
+   "link": "https://www.nasdaq.com/articles/hogs-face-continued-weakness-wednesday-pork-collapse-continuing",
+   "summary": "Lean hog futures saw losses of 10 cents to $1.95 on the day, with a couple deferreds up 5 to 12 cents. October expired down a nickel. USDA’s national base hog price was reported at $69.14 on Wednesday afternoon, down $1.12 from the day prior. The CME Lean Hog Index...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-15T03:04:21+00:00",
+   "tickers": [
+    "CME"
+   ]
+  },
+  {
+   "id": "8f44d7a9608c",
+   "title": "Sugar Prices Fall on Long Liquidation Pressures",
+   "link": "https://www.nasdaq.com/articles/sugar-prices-fall-long-liquidation-pressures",
+   "summary": "March NY world sugar #11 (SBH27 ) closed down -0.27 (-1.28%) on Wednesday, and December London ICE white sugar #5 (SWZ26 ) closed down -7.00 (-1.25%). Sugar prices gave up an early advance on Wednesday and moved sharply lower after a rally in the dollar index ($DXY ) to a...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-10-15T03:04:20+00:00",
+   "tickers": [
+    "ICE"
+   ]
+  },
+  {
+   "id": "6f32abbf006e",
+   "title": "Wheat Trying to Hold Higher on Wednesday",
+   "link": "https://www.nasdaq.com/articles/wheat-trying-hold-higher-wednesday",
+   "summary": "The wheat complex is showing mixed trade so far on Wednesday. Chicago SRW contracts are trading with 2 to 3 cent gains so far on the session. KC HRW futures are showing steady to 1 ½ cent gains at midday. MPLS spring wheat is down 4 to 6 cents so...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-15T03:04:20+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c2e6cab5f6d2",
+   "title": "Ferguson COO William Thees Jr. sells $772,200 in company stock at $220",
+   "link": "https://www.investing.com/news/insider-trading-news/ferguson-coo-william-thees-jr-sells-772200-in-company-stock-at-220-93CH-4950430",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-15T03:02:56+00:00",
+   "tickers": []
+  },
   {
    "id": "85e0320bc0bd",
    "title": "National Fuel Gas Company (NFG) Discusses Planned Spin-Off of Integrated Upstream and Gathering Business - Slideshow",
@@ -33,6 +436,38 @@
    "published": "2026-10-15T03:00:00+00:00",
    "tickers": [
     "IP"
+   ]
+  },
+  {
+   "id": "394a32625617",
+   "title": "Supply Risks Boost Coffee Prices",
+   "link": "https://www.nasdaq.com/articles/supply-risks-boost-coffee-prices",
+   "summary": "December arabica coffee (KCZ26 ) closed up +5.35 (+1.83%) on Wednesday, and November ICE robusta coffee (RMX26 ) closed up +24 (+0.69%). Coffee prices moved higher on Wednesday on supply concerns. Last Friday, Colombia’s Coffee Federation reported that 2025/26 Colombia coffee production (Oct-Sep) fell -15% y/y to 12.65 million bags,...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-10-15T02:57:54+00:00",
+   "tickers": [
+    "ICE"
+   ]
+  },
+  {
+   "id": "67c2b4e67874",
+   "title": "Cocoa Prices Edge Higher on Demand Strength",
+   "link": "https://www.nasdaq.com/articles/cocoa-prices-edge-higher-demand-strength",
+   "summary": "December ICE NY cocoa (CCZ26 ) closed up +2 (+0.03%) on Wednesday, and December ICE London cocoa #7 (CAZ26 ) closed up +25 (+0.58%). Cocoa prices extended this week’s rally on Wednesday, with NY cocoa posting a 1-month high and London cocoa a 6-week high. Stronger cocoa demand is bullish...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-15T02:57:54+00:00",
+   "tickers": [
+    "ICE"
    ]
   },
   {
@@ -169,85 +604,18 @@
    ]
   },
   {
-   "id": "65b98b82fb48",
-   "title": "Stocks Sharply Lower on Inflation Woes and Slumping Chipmakers",
-   "link": "https://www.nasdaq.com/articles/stocks-sharply-lower-inflation-woes-and-slumping-chipmakers",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down by -1.11% on Wednesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down by -0.09%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -2.02%. December E-mini S&P futures (ESZ26 ) fell -1.16%, and December E-mini...",
+   "id": "adb75c22979f",
+   "title": "Asia stocks tumble, S.Korea’s KOSPI slumps 7% on chip rout, Fed rate fears",
+   "link": "https://www.investing.com/news/stock-market-news/asia-stocks-slump-as-chip-rout-deepens-after-hotter-us-inflation-4950421",
+   "summary": "",
    "article_text": "",
-   "source": "NASDAQ Stocks",
+   "source": "Investing Stock",
    "category": "stocks",
-   "type": "downgrade",
+   "type": "macro",
    "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-10-15T02:51:32+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
-   ]
-  },
-  {
-   "id": "fc2e311b4741",
-   "title": "Nat-Gas Prices Retreat as Warm US Temps Curb Heating Demand",
-   "link": "https://www.nasdaq.com/articles/nat-gas-prices-retreat-warm-us-temps-curb-heating-demand",
-   "summary": "November Nymex natural gas (NGX26 ) on Wednesday closed down -0.085 (-2.59%). Nat-gas prices fell from a 3-month nearest-futures high on Wednesday and settled sharply lower after forecasts for above-normal US temperatures sparked long liquidation in nat-gas futures. The Commodity Weather Group said Wednesday that it expects above-average temperatures to...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-15T02:51:31+00:00",
+   "domain": "investing.com",
+   "published": "2026-10-15T02:53:44+00:00",
    "tickers": []
-  },
-  {
-   "id": "8f44d7a9608c",
-   "title": "Sugar Prices Fall on Long Liquidation Pressures",
-   "link": "https://www.nasdaq.com/articles/sugar-prices-fall-long-liquidation-pressures",
-   "summary": "March NY world sugar #11 (SBH27 ) closed down -0.27 (-1.28%) on Wednesday, and December London ICE white sugar #5 (SWZ26 ) closed down -7.00 (-1.25%). Sugar prices gave up an early advance on Wednesday and moved sharply lower after a rally in the dollar index ($DXY ) to a...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-10-15T02:51:31+00:00",
-   "tickers": [
-    "ICE"
-   ]
-  },
-  {
-   "id": "394a32625617",
-   "title": "Supply Risks Boost Coffee Prices",
-   "link": "https://www.nasdaq.com/articles/supply-risks-boost-coffee-prices",
-   "summary": "December arabica coffee (KCZ26 ) closed up +5.35 (+1.83%) on Wednesday, and November ICE robusta coffee (RMX26 ) closed up +24 (+0.69%). Coffee prices moved higher on Wednesday on supply concerns. Last Friday, Colombia’s Coffee Federation reported that 2025/26 Colombia coffee production (Oct-Sep) fell -15% y/y to 12.65 million bags,...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-10-15T02:51:31+00:00",
-   "tickers": [
-    "ICE"
-   ]
-  },
-  {
-   "id": "67c2b4e67874",
-   "title": "Cocoa Prices Edge Higher on Demand Strength",
-   "link": "https://www.nasdaq.com/articles/cocoa-prices-edge-higher-demand-strength",
-   "summary": "December ICE NY cocoa (CCZ26 ) closed up +2 (+0.03%) on Wednesday, and December ICE London cocoa #7 (CAZ26 ) closed up +25 (+0.58%). Cocoa prices extended this week’s rally on Wednesday, with NY cocoa posting a 1-month high and London cocoa a 6-week high. Stronger cocoa demand is bullish...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-15T02:51:31+00:00",
-   "tickers": [
-    "ICE"
-   ]
   },
   {
    "id": "68554a7289ce",
@@ -266,75 +634,35 @@
    ]
   },
   {
-   "id": "a5bb916a8065",
-   "title": "Corn Posts Modest Wednesday Weakness",
-   "link": "https://www.nasdaq.com/articles/corn-posts-modest-wednesday-weakness",
-   "summary": "Corn futures held onto Wednesday’s weakness into the close though the $4.80 area held on December, with contracts just fractionally to 2 ¼ cents lower. The CmdtyView national average Cash Corn price was down 1 ¼ cents at $4.41. The delayed Tuesday Crop Progress report showed 33% of the US...",
+   "id": "55cc26102a07",
+   "title": "Joby Aviation CLO Kate DeHoff sells $42,140 in shares",
+   "link": "https://www.investing.com/news/insider-trading-news/joby-aviation-clo-kate-dehoff-sells-42140-in-shares-93CH-4950415",
+   "summary": "",
    "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
    "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-15T02:45:11+00:00",
-   "tickers": []
-  },
-  {
-   "id": "4023fe730fa1",
-   "title": "Cotton Slips to Close Mixed on Wednesday",
-   "link": "https://www.nasdaq.com/articles/cotton-slips-close-mixed-wednesday",
-   "summary": "Cotton futures closed the midweek session, with contracts up 15 to 21 points in the front months and down 2 to 35 in the deferreds. Crude oil was up $1.03 per barrel on the session, with the US dollar index $0.326 higher. The weekly Crop Progress report showed 82% of...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-15T02:45:11+00:00",
-   "tickers": []
-  },
-  {
-   "id": "a6aa1582598c",
-   "title": "Cattle Slip Back on Wednesday",
-   "link": "https://www.nasdaq.com/articles/cattle-slip-back-wednesday",
-   "summary": "Live cattle futures were down 30 cents to $1.25 across the board on Wednesday The Wednesday Fed Cattle Exchange online auction showed $226 sales on one lot of the 2,914 head offered, with other bids of $223. Feeder cattle futures slipped into the close, with contract down $1.90 to $2.57...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-15T02:45:11+00:00",
-   "tickers": []
-  },
-  {
-   "id": "cde921686d52",
-   "title": "Soybeans Sell the Fact on Chinese Buying",
-   "link": "https://www.nasdaq.com/articles/soybeans-sell-fact-chinese-buying",
-   "summary": "Soybeans faded the early/overnight gains and Chinese business on Wednesday, with contracts down 6 ½ to 8 ¾ cents at the close. The cmdtyView national average Cash Bean price was down 6 1/4 cents at $12.18 1/2. Soymeal futures were steady to $1.30 higher at the close, with Soy Oil...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-15T02:45:11+00:00",
-   "tickers": []
-  },
-  {
-   "id": "bfccad85e99d",
-   "title": "Hogs Face Continued Weakness on Wednesday, with Pork Collapse Continuing",
-   "link": "https://www.nasdaq.com/articles/hogs-face-continued-weakness-wednesday-pork-collapse-continuing",
-   "summary": "Lean hog futures saw losses of 10 cents to $1.95 on the day, with a couple deferreds up 5 to 12 cents. October expired down a nickel. USDA’s national base hog price was reported at $69.14 on Wednesday afternoon, down $1.12 from the day prior. The CME Lean Hog Index...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-15T02:45:10+00:00",
+   "domain": "investing.com",
+   "published": "2026-10-15T02:46:06+00:00",
    "tickers": [
-    "CME"
+    "JOBY"
+   ]
+  },
+  {
+   "id": "89aa2a5e63ae",
+   "title": "Joby Aviation CPO Eric Allison sells $140,448 in stock",
+   "link": "https://www.investing.com/news/insider-trading-news/joby-aviation-cpo-eric-allison-sells-140448-in-stock-93CH-4950414",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-15T02:45:59+00:00",
+   "tickers": [
+    "JOBY"
    ]
   },
   {
@@ -352,20 +680,6 @@
    "tickers": [
     "MO"
    ]
-  },
-  {
-   "id": "6f32abbf006e",
-   "title": "Wheat Trying to Hold Higher on Wednesday",
-   "link": "https://www.nasdaq.com/articles/wheat-trying-hold-higher-wednesday",
-   "summary": "The wheat complex is showing mixed trade so far on Wednesday. Chicago SRW contracts are trading with 2 to 3 cent gains so far on the session. KC HRW futures are showing steady to 1 ½ cent gains at midday. MPLS spring wheat is down 4 to 6 cents so...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-15T02:45:10+00:00",
-   "tickers": []
   },
   {
    "id": "965f7877bc3c",
@@ -1469,20 +1783,6 @@
    "tickers": [
     "DB"
    ]
-  },
-  {
-   "id": "e0b73b3027c7",
-   "title": "Global tech sell-off deepens as Asian markets tumble",
-   "link": "https://www.ft.com/content/cf5f1209-da29-4ce1-b425-0e83818bf9ec?syn-25a6b1a6=1",
-   "summary": "AI-related stocks in South Korea and Japan suffer after Wall Street falls on hot US inflation",
-   "article_text": "",
-   "source": "FT Companies",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "negative",
-   "domain": "ft.com",
-   "published": "2026-10-15T01:44:46+00:00",
-   "tickers": []
   },
   {
    "id": "75313bbfa064",
@@ -8536,299 +8836,6 @@
    "domain": "sec.gov",
    "published": "2026-10-14T21:27:42+00:00",
    "tickers": []
-  },
-  {
-   "id": "c43a1d6a6038",
-   "title": "Bacon Plumbing Heating Air Electric Urges Homeowners to Prepare HVAC Systems for Colder Weather",
-   "link": "https://www.prnewswire.com/news-releases/bacon-plumbing-heating-air-electric-urges-homeowners-to-prepare-hvac-systems-for-colder-weather-302909162.html",
-   "summary": "Fall maintenance can help homeowners catch heating problems before the first cold snap DALLAS-FORT WORTH METROPLEX, Texas, Oct. 14, 2026 /PRNewswire/ -- Bacon Plumbing Heating Air Electric encourages homeowners to schedule heating maintenance before colder weather arrives in the coming...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-14T21:27:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "26284fd74461",
-   "title": "Omega Holdings Acquires O2 COOL Manufacturing LLC, to Reinforce HVAC Systems Business",
-   "link": "https://www.prnewswire.com/news-releases/omega-holdings-acquires-o2-cool-manufacturing-llc-to-reinforce-hvac-systems-business-302909163.html",
-   "summary": "DECATUR, Texas, Oct. 14, 2026 /PRNewswire/ -- Omega Holdings, today announced the acquisition of the O2 COOL Manufacturing LLC, a leading source of HVAC Systems Manufacturing. The acquisition expands Omega Holdings' capabilities in the systems category. \"We are excited to welcome the O2...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-14T21:27:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "19a012c29945",
-   "title": "Goodwin University Expands No-Cost Education and Career Training to Massachusetts Through SNAP Path to Work",
-   "link": "https://www.prnewswire.com/news-releases/goodwin-university-expands-no-cost-education-and-career-training-to-massachusetts-through-snap-path-to-work-302909164.html",
-   "summary": "The Connecticut-based nonprofit continues to expand access to workforce training and educational opportunities for eligible SNAP participants across New England. EAST HARTFORD, Conn., Oct. 14, 2026 /PRNewswire/ -- Goodwin University is expanding its no-cost education and career training...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "positive",
-   "domain": "prnewswire.com",
-   "published": "2026-10-14T21:27:00+00:00",
-   "tickers": [
-    "SNAP"
-   ]
-  },
-  {
-   "id": "6b3c2f2f1538",
-   "title": "8-K - Fox Corp (0001754301) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1754301/000119312526421830/0001193125-26-421830-index.htm",
-   "summary": "Filed: 2026-10-14 AccNo: 0001193125-26-421830 Size: 175 KB Item 5.07: Submission of Matters to a Vote of Security Holders",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-10-14T21:26:48+00:00",
-   "tickers": [
-    "FOX"
-   ]
-  },
-  {
-   "id": "72e35a5f6647",
-   "title": "Stock Market Today, Oct. 14: Plug Power Falls on Analyst Target Cuts and Concerns Over Rising Interest Rates",
-   "link": "https://www.nasdaq.com/articles/stock-market-today-oct-14-plug-power-falls-analyst-target-cuts-and-concerns-over-rising",
-   "summary": "Plug Power (NASDAQ:PLUG), a clean hydrogen and fuel-cell solutions provider, closed at $1.45, down 7.05%. Price target cuts from Susquehanna and Morgan Stanley pressured shares, and investors are watching hydrogen adoption and guidance.Trading volume reached 81.5 million shares,",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-10-14T21:26:45+00:00",
-   "tickers": [
-    "PLUG",
-    "MS"
-   ]
-  },
-  {
-   "id": "979576e192bb",
-   "title": "8-K - SLM Student Loan Trust 2006-5 (0001358239) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1358239/000114036126039581/0001140361-26-039581-index.htm",
-   "summary": "Filed: 2026-10-14 AccNo: 0001140361-26-039581 Size: 3 MB Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-10-14T21:26:00+00:00",
-   "tickers": [
-    "SLM"
-   ]
-  },
-  {
-   "id": "bd511238e912",
-   "title": "Why Trump’s Russian Diesel Deal Is Unlikely to Lower Fuel Costs",
-   "link": "https://www.nytimes.com/2026/10/14/business/energy-environment/trump-russia-diesel-prices.html",
-   "summary": "President Trump’s deal with Russia will probably not lower diesel prices that have soared because of his war with Iran and Ukrainian attacks on Russian refineries.",
-   "article_text": "",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "nytimes.com",
-   "published": "2026-10-14T21:25:25+00:00",
-   "tickers": []
-  },
-  {
-   "id": "7917deaa0e16",
-   "title": "Colombia stocks higher at close of trade; COLCAP up 0.44%",
-   "link": "https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-044-4950140",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-10-14T21:25:03+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e15f4f4d7979",
-   "title": "Got $5,000? 2 Stocks Supplying the AI Data Center Power Crunch.",
-   "link": "https://www.nasdaq.com/articles/got-5000-2-stocks-supplying-ai-data-center-power-crunch",
-   "summary": "Key PointsVistra is seeing profits soar, as power demand hits record highs across the mid-Atlantic, Midwest, and Texas markets.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-14T21:25:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "740441ff760c",
-   "title": "Why Berkshire’s $930 Million Bending Spoons Buy Is Such a Curveball",
-   "link": "https://biztoc.com/x/fe89ec79c246d16c?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-14T21:24:57+00:00",
-   "tickers": []
-  },
-  {
-   "id": "f9b57cc4c88a",
-   "title": "Vanda Pharmaceuticals stock falls after anxiety drug trial fails",
-   "link": "https://www.investing.com/news/stock-market-news/vanda-pharmaceuticals-stock-falls-after-anxiety-drug-trial-fails-4950139",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-10-14T21:24:48+00:00",
-   "tickers": []
-  },
-  {
-   "id": "69f5050bc07e",
-   "title": "8-K - Star Equity Holdings, Inc. (0001210708) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1210708/000121070826000086/0001210708-26-000086-index.htm",
-   "summary": "Filed: 2026-10-14 AccNo: 0001210708-26-000086 Size: 7 MB Item 7.01: Regulation FD Disclosure Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-10-14T21:24:46+00:00",
-   "tickers": []
-  },
-  {
-   "id": "47d151876169",
-   "title": "Mizuho cuts Range Resources stock price target on lower gas outlook",
-   "link": "https://www.investing.com/news/analyst-ratings/mizuho-cuts-range-resources-stock-price-target-on-lower-gas-outlook-93CH-4950138",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-10-14T21:24:43+00:00",
-   "tickers": [
-    "RRC"
-   ]
-  },
-  {
-   "id": "c4525d745af0",
-   "title": "Enerpac Tool Group Schedules Fourth Quarter Fiscal 2026 Earnings Release and Conference Call",
-   "link": "https://www.globenewswire.com/news-release/2026/10/14/3381192/0/en/enerpac-tool-group-schedules-fourth-quarter-fiscal-2026-earnings-release-and-conference-call.html",
-   "summary": "MILWAUKEE, Oct. 14, 2026 (GLOBE NEWSWIRE) -- Enerpac Tool Group Corp. (NYSE: EPAC) announced today that it will release its fourth quarter fiscal 2026 earnings after the market closes on Wednesday, October 28, 2026. Management will conduct a conference call to discuss the results on Thursday, October 29, 2026, beginning at 8:30 a.m. ET / 7:30 a.m. CT.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-10-14T21:24:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "7b6e67bdcb9c",
-   "title": "Top CFTC official reportedly intervened to kill insider trading referral regarding oil trades",
-   "link": "https://biztoc.com/x/3db8fdb5261f18b3?ref=rss",
-   "summary": "There’s steep competition as to which federal outfit under Donald Trump stinks of corruption the most. Certainly, the Justice Department is in the running, as is the Department of Homeland Security. But the Commodity Futures Trading Commission — the body tasked with regulating some of the…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-10-14T21:23:11+00:00",
-   "tickers": []
-  },
-  {
-   "id": "88b39208a528",
-   "title": "Flock CEO praises S.F.'s Lurie as Bay Area cities ditch camera contracts",
-   "link": "https://biztoc.com/x/f88eac482ebe7127?ref=rss",
-   "summary": "On a stage in San Francisco, the CEO of the embattled surveillance tech company defended his products.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-14T21:23:07+00:00",
-   "tickers": []
-  },
-  {
-   "id": "31cc141e8781",
-   "title": "US states seek children's data protections in Character.AI bankruptcy",
-   "link": "https://biztoc.com/x/0421bac7af069836?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-10-14T21:23:05+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e4104eca05c9",
-   "title": "De-Extinction Breakthrough: How AI Just Brought the Dodo 1 Step Closer to Reality",
-   "link": "https://biztoc.com/x/e93022525d63c4af?ref=rss",
-   "summary": "De-extinction firm Colossal Biosciences has unveiled GenoMorph, an AI tool that identifies key DNA targets to fast-track the return of the dodo.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-14T21:23:01+00:00",
-   "tickers": []
-  },
-  {
-   "id": "7aa2fb24b62a",
-   "title": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
-   "link": "https://biztoc.com/x/5dcb2693148cc2d4?ref=rss",
-   "summary": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separately by Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho, and…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-10-14T21:23:00+00:00",
-   "tickers": [
-    "WST"
-   ]
-  },
-  {
-   "id": "a63025824032",
-   "title": "Hot September CPI numbers, possible Fed rate hikes spark anxiety for midterm voters",
-   "link": "https://biztoc.com/x/ebbeda4d32d98002?ref=rss",
-   "summary": "There have been a host of reactions to the hot September CPI numbers released Oct. 14 across the U.S. economy, from the spiking 10-year Treasury yield to traders surging the probability of a Fed rate hike to 32.7% at its Oct. 27-28 meeting to new questions around the sustainable run rate for AI…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-10-14T21:23:00+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8872,10 +8879,12 @@
   "AMAT": "Applied Materials",
   "DELL": "Dell Technologies",
   "JNJ": "Johnson & Johnson",
+  "MU": "Micron Technology",
   "NFG": "National Fuel Gas",
   "RF": "Regions Financial",
   "SOFI": "SoFi Technologies",
   "UBER": "Uber Technologies",
+  "VERA": "Vera Therapeutics",
   "CLF": "Cleveland-Cliffs",
   "COST": "Costco Wholesale",
   "ENSG": "The Ensign Group",
@@ -8891,6 +8900,8 @@
   "FLNC": "Fluence Energy",
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
+  "HSBC": "HSBC Holdings",
+  "JOBY": "Joby Aviation",
   "KO": "The Coca-Cola",
   "OC": "Owens Corning",
   "MSTR": "MicroStrategy",
@@ -8914,7 +8925,6 @@
   "CVS": "CVS Health",
   "F": "Ford Motor",
   "FORM": "FormFactor",
-  "PLUG": "Plug Power",
   "RKLB": "Rocket Lab",
   "TECH": "Bio-Techne",
   "DE": "John Deere",
@@ -8937,7 +8947,6 @@
   "GOOG": "Alphabet",
   "RS": "Reliance",
   "SQ": "Cash App",
-  "SNAP": "Snapchat",
   "FOX": "Fox Corp",
   "GLW": "Corning",
   "IVZ": "Invesco",
