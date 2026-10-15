@@ -1,21 +1,946 @@
 {
- "generated": "2026-10-15T13:45:48.348875+00:00",
+ "generated": "2026-10-15T13:55:04.686440+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "a16075726e48",
+   "title": "Energy Dept. Issues Emergency Order Amid Above-Average Temperatures",
+   "link": "https://www.nytimes.com/2026/10/14/business/department-of-energy-emergency-power-order.html",
+   "summary": "The order as a precaution allows grid operators to use backup generation this week. There were no widespread outages reported.",
+   "article_text": "",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-10-15T13:50:37+00:00",
+   "tickers": []
+  },
+  {
+   "id": "1b3abce3c21a",
+   "title": "Amazon launches new Bee 'personal AI' devices that listen to conversations",
+   "link": "https://www.cnbc.com/2026/10/15/amazon-bee-frontier-eclipse-ai-devices.html",
+   "summary": "The $75 Bee Frontier is an upgraded version of Amazon's wearable bracelet, while the $100 Bee Eclipse attaches to a user's smartphone.",
+   "article_text": "Amazon launches Bee Frontier and Eclipse AI devices Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Key Points Amazon is releasing two new Bee listening devices as it moves further into the AI hardware market. The $75 Bee Frontier is an upgraded version of its wearable bracelet, while the $100 Bee Eclipse attaches to a user's smartphone. It marks the first update to the Bee lineup since Amazon acquired the startup in July 2025. In this article AMZN Follow your favorite stocks CREATE FREE ACCOUNT Amazon's Bee Frontier device can be worn on a wrist or clipped on to clothing. Amazon Amazon on Thursday unveiled two new Bee listening devices, including a wearable and a credit card-sized voice recorder, marking its latest push into the AI gadget market. The Bee Frontier is an upgraded version of Amazon's existing wearable that can either be worn on a wrist or clipped to clothing. Similar to earlier generations, the Bee Frontier has up to seven days of battery life, but it's also more expensive, costing $75 compared with its $50 predecessor. Amazon acquired Bee , a San Francisco startup known for its always-listening bracelet, in July 2025 for an undisclosed amount. Bee bracelets are equipped with artificial intelligence and microphones that can record, transcribe and analyze conversations. The dual mics on the Bee Frontier have upgraded noise filtering, \"so it can take note of what matters and ignore what doesn't, even in noisy environments like a crowded restaurant or open office,\" Amazon said in a blog post. Amazon also debuted the $100 Bee Eclipse, which functions like other Bee devices, but instead of being worn, the credit card-sized gadget magnetically snaps on to the back of a smartphone. The Bee Frontier is available Thursday, while the Bee Eclipse \"will be available soon,\" the company said. Amazon is refreshing its Bee lineup as tech companies gear up for the holiday season with a slew of new AI hardware . Amazon nixed its budget-friendly Fire family of tablets in favor of three new AI-infused Alexa Tablets , while Microsoft showcased an Nvidia -powered Windows laptop and Apple unveiled its HomeView smart home hub with Siri AI. The Bee gadgets will compete with other AI wearables already on the market. The $100 Bee Eclipse is a credit card-sized device that magnetically snaps on to the back of a smartphone. Meta has seen growing momentum from its smart glasses that are infused with AI and have a built-in camera. The glasses have also generated widespread privacy and civil rights concerns from users, advocacy groups and lawmakers. Meta has also announced a palm-sized pendant called Muse Charm that runs its latest Muse AI assistant. Plaud developed a card-shaped note-taking device, and Friend offers an AI necklace. Amazon's voice-activated Echo smart speaker got users comfortable with interacting with its Alexa AI assistant, but the devices were designed to only start listening when prompted with a so-called wake word. When turned on, Bee devices are always recording. Amazon says this enables key features like conversation summaries and the ability to \"review memories from the past few days to remember what you discussed.\" It can also track \"trends or themes that recur\" to give personalized goals or actions. With a Bee Pro subscription, which costs $12 per month, users can get unlimited conversation summaries and daily memories as well as integrations with Amazon's webstore, its Alexa+ AI assistant and third-party apps. For example, if a user mentions they need to buy dish soap, they might see the product recommended on the Amazon homepage, or in the Bee mobile and desktop apps. The company said Bee devices are designed so that \"no one, including Amazon, can access your data.\" Users can delete their transcripts and summaries at any time and \"no audio is ever stored,\" Amazon said. An LED light signals when Bee gadgets are recording, Amazon said. WATCH: First look at Amazon's Alexa tablets watch now VIDEO 2:50 02:50 First look: Amazon's new Alexa tablets Tech Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "cnbc.com",
+   "published": "2026-10-15T13:50:00+00:00",
+   "tickers": [
+    "AMZN"
+   ]
+  },
+  {
+   "id": "921ef1b9ea2a",
+   "title": "Brighthouse Financial stock hits 52-week low at 10.43 USD",
+   "link": "https://www.investing.com/news/company-news/brighthouse-financial-stock-hits-52week-low-at-1043-usd-93CH-4952075",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-15T13:49:51+00:00",
+   "tickers": []
+  },
+  {
+   "id": "de055038dea3",
+   "title": "Wall Street trades mixed as investors digest PPI inflation data",
+   "link": "https://seekingalpha.com/news/4653402-wall-street-trades-mixed-as-investors-digest-ppi-inflation-data?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-15T13:49:47+00:00",
+   "tickers": []
+  },
+  {
+   "id": "2e376be68acd",
+   "title": "Higher CPI Inflation In September, But Rate Hike Unlikely",
+   "link": "https://seekingalpha.com/article/4954472-higher-cpi-inflation-in-september-but-rate-hike-unlikely?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-15T13:49:05+00:00",
+   "tickers": []
+  },
+  {
+   "id": "61146ab2f58e",
+   "title": "Noor Companies Acquires FlatRate, Announces Plans for National Franchise Expansion",
+   "link": "https://www.prnewswire.com/news-releases/noor-companies-acquires-flatrate-announces-plans-for-national-franchise-expansion-302910183.html",
+   "summary": "Strategic acquisition combines FlatRate's 35-year legacy with Noor's operational expertise to accelerate growth in logistics, warehousing, and moving services. NEW YORK, Oct. 15, 2026 /PRNewswire/ -- Noor Companies announced its acquisition of FlatRate, the New York-based company founded...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-10-15T13:49:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f17f6ac6ad6e",
+   "title": "webhotelier | primalres rebrands as revplus, entering the era of a unified ecosystem",
+   "link": "https://www.prnewswire.com/news-releases/webhotelier--primalres-rebrands-as-revplus-entering-the-era-of-a-unified-ecosystem-302910184.html",
+   "summary": "One of Europe's largest hospitality technology groups, by properties served, adopts a single identity, reflecting its evolution into a complete e-business ecosystem for hospitality ATHENS, Greece, Oct. 15, 2026 /PRNewswire/ -- webhotelier | primalres, one of Europe's largest hospitality...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-10-15T13:49:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "4d3f6f3a277c",
+   "title": "BlackRock Corporate High Yield Fund stock hits 52-week low at $7.69",
+   "link": "https://www.investing.com/news/company-news/blackrock-corporate-high-yield-fund-stock-hits-52week-low-at-769-93CH-4952072",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-15T13:48:58+00:00",
+   "tickers": [
+    "BLK"
+   ]
+  },
+  {
+   "id": "3c40571f23c4",
+   "title": "Small-cap stocks quietly slide into correction territory",
+   "link": "https://www.cnbc.com/2026/10/15/small-cap-stocks-slide-into-correction-territory.html",
+   "summary": "For the week, the Russell 2000 is down 2.8%, slightly underperforming the Nasdaq Composite's 2.5% decline.",
+   "article_text": "Small-cap stocks quietly slide into correction territory Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Tech is getting all the headlines this week — and rightfully so — but other parts of the stock market are faring even worse. The Russell 2000 , which tracks the performance of small-cap stocks, fell into correction territory on Wednesday, end",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "cnbc.com",
+   "published": "2026-10-15T13:48:56+00:00",
+   "tickers": [
+    "IWM",
+    "NDAQ"
+   ]
+  },
+  {
+   "id": "6ce01c5ba68f",
+   "title": "Verisk Analytics stock price target maintained at $230 by RBC Capital",
+   "link": "https://www.investing.com/news/analyst-ratings/verisk-analytics-stock-price-target-maintained-at-230-by-rbc-capital-93CH-4952070",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "analyst",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-15T13:48:52+00:00",
+   "tickers": [
+    "VRSK",
+    "RBC"
+   ]
+  },
+  {
+   "id": "225f4cbbb0de",
+   "title": "Piper Sandler reiterates Cooper Companies stock rating at Neutral",
+   "link": "https://www.investing.com/news/analyst-ratings/piper-sandler-reiterates-cooper-companies-stock-rating-at-neutral-93CH-4952069",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "analyst",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-15T13:48:49+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f99afb544d75",
+   "title": "CoreWeave’s slump puts spotlight on debt behind AI boom",
+   "link": "https://www.investing.com/news/stock-market-news/coreweave-shares-bonds-slide-further-as-ai-debt-fears-mount-4951350",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-10-15T13:48:46+00:00",
+   "tickers": [
+    "CRWV"
+   ]
+  },
+  {
+   "id": "801af75f6acb",
+   "title": "Piper Sandler reiterates Orchestra BioMed stock rating on AVIM trial",
+   "link": "https://www.investing.com/news/analyst-ratings/piper-sandler-reiterates-orchestra-biomed-stock-rating-on-avim-trial-93CH-4952068",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "analyst",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-15T13:48:43+00:00",
+   "tickers": []
+  },
+  {
+   "id": "31647b61fb2c",
+   "title": "Axis Bank grants stock options to employees",
+   "link": "https://www.investing.com/news/company-news/axis-bank-grants-stock-options-to-employees-93CH-4952067",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-15T13:48:35+00:00",
+   "tickers": []
+  },
+  {
+   "id": "1c90c80f8bd0",
+   "title": "Stocks and dollar slide as tech rout deepens",
+   "link": "https://www.investing.com/news/economy-news/asian-markets-sell-off-as-ai-trades-crumble-after-hot-us-cpi-data-4950348",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-10-15T13:48:21+00:00",
+   "tickers": []
+  },
+  {
+   "id": "732fe2b883e5",
+   "title": "Micron, Nvidia and other chip stocks face renewed pressure as AI fears swell",
+   "link": "https://www.marketwatch.com/story/micron-nvidia-and-other-chip-stocks-face-renewed-pressure-as-ai-fears-swell-4e0dc989?mod=mw_rss_topstories",
+   "summary": "Reported details about Anthropic’s financial progress are adding to concerns about the health of the AI ecosystem.",
+   "article_text": "",
+   "source": "MarketWatch",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "marketwatch.com",
+   "published": "2026-10-15T13:48:00+00:00",
+   "tickers": [
+    "MU"
+   ]
+  },
+  {
+   "id": "f8b216230383",
+   "title": "Alimentiv and International Bowel Ultrasound Group Expand Partnership to Include Ultrasound Training for Clinical Trials",
+   "link": "https://www.prnewswire.com/news-releases/alimentiv-and-international-bowel-ultrasound-group-expand-partnership-to-include-ultrasound-training-for-clinical-trials-302910182.html",
+   "summary": "Partnership launches IUS-STAR, a structured training and certification program for clinical trial imaging professionals. LONDON, ON and BERLIN, Oct. 15, 2026 /PRNewswire/ -- Alimentiv Inc., a global full-service GI clinical research organization providing clinical trials, medical imaging,...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "positive",
+   "domain": "prnewswire.com",
+   "published": "2026-10-15T13:48:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "3fbdd689d65a",
+   "title": "Quaint Oak Bancorp, Inc. Declares Quarterly Cash Dividend",
+   "link": "https://www.globenewswire.com/news-release/2026/10/15/3381787/9909/en/quaint-oak-bancorp-inc-declares-quarterly-cash-dividend.html",
+   "summary": "SOUTHAMPTON, Pa., Oct. 15, 2026 (GLOBE NEWSWIRE) -- Quaint Oak Bancorp, Inc. (OTCQB: QNTO) (the \"Company\"), the holding company for Quaint Oak Bank, announced today that its Board of Directors declared a quarterly cash dividend of $0.04 per share on the common stock of the Company on October 14, 2026. The dividend is payable on November 9, 2026, to the shareholders of record at the close of business on October 26, 2026.",
+   "article_text": "",
+   "source": "GlobeNewswire",
+   "category": "press",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "globenewswire.com",
+   "published": "2026-10-15T13:48:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "678e207a099f",
+   "title": "Musk floats Amazon rival as AI shopping battle comes into focus",
+   "link": "https://www.investing.com/news/stock-market-news/musk-floats-amazon-rival-as-ai-shopping-battle-comes-into-focus-4952059",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-15T13:47:47+00:00",
+   "tickers": [
+    "AMZN"
+   ]
+  },
+  {
+   "id": "53fe17ac1cfc",
+   "title": "Scoop: The FTC demanded documents from AI giants over recent safety incidents",
+   "link": "https://biztoc.com/x/6e3018126194c1e0?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-15T13:46:56+00:00",
+   "tickers": []
+  },
+  {
+   "id": "d7d770d6c782",
+   "title": "PPI report today: September wholesale prices rose faster than expected, putting new pressure on Fed — live updates",
+   "link": "https://biztoc.com/x/bb496914b5ecd647?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "macro",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-10-15T13:46:55+00:00",
+   "tickers": []
+  },
+  {
+   "id": "8fc7aca0c6aa",
+   "title": "OpenAI agrees not to use alleged Apple trade secrets amid ongoing lawsuit",
+   "link": "https://biztoc.com/x/031b4c960a89690f?ref=rss",
+   "summary": "Bloomberg reports that during a hearing today, OpenAI voluntarily agreed not to use Apple’s alleged trade secrets while the legal battle between the two companies plays out. Here are the details. Apple scores second win in a row against OpenAI Earlier today, OpenAI filed a new motion in the…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-10-15T13:46:45+00:00",
+   "tickers": [
+    "AAPL"
+   ]
+  },
+  {
+   "id": "f1d63c6c41db",
+   "title": "PayPal Has Weakened in 2026, but David Einhorn Is Buying Up PYPL. How to Play the Stock Here",
+   "link": "https://biztoc.com/x/6edfbfd1abb7990a?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-15T13:46:44+00:00",
+   "tickers": [
+    "PYPL"
+   ]
+  },
+  {
+   "id": "aabccbfe46f0",
+   "title": "US Treasury yields plunge as oil prices ease",
+   "link": "https://biztoc.com/x/49f65acf996dd397?ref=rss",
+   "summary": "The yield on the 30-year bond plunged 12.8 basis points to 5.396%. The return on the 10-year Treasury note tumbled 14.2 basis points to 5.042%. The yield on the 2-year bond slipped 9.8 basis points to...",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-10-15T13:46:42+00:00",
+   "tickers": []
+  },
+  {
+   "id": "609304bcbae4",
+   "title": "Tesla’s Delivery Beat Isn’t Enough to Make TSLA Stock a Buy Ahead of Q3 Earnings",
+   "link": "https://biztoc.com/x/8814e0557ae29878?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-10-15T13:46:41+00:00",
+   "tickers": [
+    "TSLA"
+   ]
+  },
+  {
+   "id": "032c817e8dc7",
+   "title": "Why It’s Time To Load Up on GE Aerospace Stock",
+   "link": "https://biztoc.com/x/40da57f497fdd4cb?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-15T13:46:40+00:00",
+   "tickers": [
+    "GE"
+   ]
+  },
+  {
+   "id": "e4800ca1d078",
+   "title": "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022",
+   "link": "https://www.cnbc.com/2026/10/15/september-producer-price-index-retail-sales-data.html",
+   "summary": "September producer prices were expected to increase 0.6% month-over-month and 5.5% annually, according to the consensus estimate by Dow Jones.",
+   "article_text": "",
+   "source": "CNBC Economy",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "positive",
+   "domain": "cnbc.com",
+   "published": "2026-10-15T13:46:36+00:00",
+   "tickers": []
+  },
+  {
+   "id": "afa773e085c4",
+   "title": "Israeli firm’s digital ads enabling installation of ‘zero-click’ spyware, researchers say",
+   "link": "https://biztoc.com/x/060f61ad7f4bba6b?ref=rss",
+   "summary": "An Israeli advertising agency has been serving millions of online adverts that allow “zero-click” spyware to be used against targets, researchers at a Canadian university have said. Citizen Lab, a digital investigations research unit at the University of Toronto, said it believed dozens of devices…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-15T13:46:29+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e76cd2ff23a4",
+   "title": "Sam’s Club expands Thanksgiving meal, keeping cost under $10 a person as inflation weighs on consumers",
+   "link": "https://biztoc.com/x/83d6ddcf34a5712c?ref=rss",
+   "summary": "Sam’s Club announced Thursday it is rolling out its largest Thanksgiving meal offering to date, expanding holiday offerings while keeping the price under $10 per person. The Walmart-owned membership club said its 2026 Thanksgiving meal, designed for 16 people, includes 11 different offerings,…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "macro",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-10-15T13:46:25+00:00",
+   "tickers": [
+    "WMT"
+   ]
+  },
+  {
+   "id": "6ca4b08d4f5f",
+   "title": "China Opens Bridge to North Korea; Tech Sell-off Hits Asia Markets",
+   "link": "https://biztoc.com/x/a0b45e292b6c44b5?ref=rss",
+   "summary": "North Korea's isolation has eased with the opening of a bridge to China on Thursday; meanwhile jitters over AI investment and US inflation data weighed on stocks in Japan and Korea.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-15T13:46:25+00:00",
+   "tickers": []
+  },
+  {
+   "id": "5394dee824c4",
+   "title": "Five Questions with Blackstone President Jonathan Gray",
+   "link": "https://biztoc.com/x/7216f46cd1c7a91f?ref=rss",
+   "summary": "Would Blackstone President Jonathan Gray hire someone who brought iced coffee to an interview? We caught up with Gray at the Bloomberg #NewEconomyForum for Five Questions. -------- Subscribe to our YouTube channel: Subscribe to Bloomberg Originals: Bloomberg Quicktake brings you global social…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-15T13:46:24+00:00",
+   "tickers": [
+    "BX",
+    "GOOGL"
+   ]
+  },
+  {
+   "id": "2e2237fbac3b",
+   "title": "Data Center Stocks Tumble as Financing Costs Draw Scrutiny: Cipher Digital Tumbles 9%, Applied Digital Falls 6%",
+   "link": "https://biztoc.com/x/3ae71d5821aacac8?ref=rss",
+   "summary": "The post Data Center Stocks Tumble as Financing Costs Draw Scrutiny: Cipher Digital Tumbles 9%, Applied Digital Falls 6% appeared first on 24/7 Wall St.. Data center developers that borrow heavily to build ahead of their rent checks are under pressure as financing costs draw fresh scrutiny. Cipher…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-10-15T13:46:22+00:00",
+   "tickers": [
+    "APLD",
+    "AMAT"
+   ]
+  },
+  {
+   "id": "108279a4ecab",
+   "title": "Wall Street mixed at open, rates in spotlight",
+   "link": "https://biztoc.com/x/da47e907578c9d1f?ref=rss",
+   "summary": "Major stock indexes in the United States traded mixed at the open on Thursday, as investors tried to gauge what the Federal Reserve's next monetary policy move might be, following a hotter-than-antici...",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-15T13:46:22+00:00",
+   "tickers": []
+  },
+  {
+   "id": "19d3e8391d27",
+   "title": "U.S. producer prices jump at fastest pace in more than four years",
+   "link": "https://biztoc.com/x/87df368d3dd510f7?ref=rss",
+   "summary": "U.S. producer prices increased by the most in 4-1/2 years in September amid rising costs for goods and services, the latest indication of inflation broadening out beyond energy products. The Producer Price Index for final demand jumped 1.3 per cent last month, the largest gain since in March,…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-10-15T13:46:21+00:00",
+   "tickers": []
+  },
+  {
+   "id": "2e8929c8b88f",
+   "title": "Microsoft’s president warns White House against skilled immigration crackdown",
+   "link": "https://biztoc.com/x/fa5672f2b7e179e7?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-10-15T13:46:19+00:00",
+   "tickers": [
+    "MSFT"
+   ]
+  },
+  {
+   "id": "4972e7592543",
+   "title": "S&P 500, Nasdaq open lower as tech stocks remain under pressure",
+   "link": "https://biztoc.com/x/d84a385016158f7e?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-10-15T13:46:19+00:00",
+   "tickers": [
+    "NDAQ"
+   ]
+  },
+  {
+   "id": "d813117e8042",
+   "title": "My Microsoft Price Prediction Looks Well Beyond the Current AI Cycle",
+   "link": "https://biztoc.com/x/14c5811c1c13c484?ref=rss",
+   "summary": "The post My Microsoft Price Prediction Looks Well Beyond the Current AI Cycle appeared first on 24/7 Wall St.. The 24/7 Wall St. price target for Microsoft (NASDAQ:MSFT) is $646.49 over the next 12 months. That means 20.82% upside from the latest close of $535.07. Our model rates the stock a buy…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-15T13:46:19+00:00",
+   "tickers": [
+    "MSFT"
+   ]
+  },
+  {
+   "id": "d1ac317a8b3b",
+   "title": "Nasdaq Tumbles as AI Fears Overshadow Inflation Data",
+   "link": "https://biztoc.com/x/c56f89f7239f5133?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "macro",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-10-15T13:46:18+00:00",
+   "tickers": [
+    "NDAQ"
+   ]
+  },
+  {
+   "id": "af425681307b",
+   "title": "Europe’s changing trade rules put new demands on suppliers [Partner Content]",
+   "link": "https://biztoc.com/x/c863857c47067a9a?ref=rss",
+   "summary": "Due diligence laws and trade measures are reshaping what global suppliers must show to do business with European buyers",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-15T13:46:18+00:00",
+   "tickers": []
+  },
+  {
+   "id": "d375d5c31548",
+   "title": "GTCR, Elliott Acquire Software Firm CCC for $4.6 Billion",
+   "link": "https://biztoc.com/x/77f79e3ad5f2d0c3?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-15T13:46:17+00:00",
+   "tickers": [
+    "CCC"
+   ]
+  },
+  {
+   "id": "64ba23b070da",
+   "title": "Apple Is Reportedly Bringing AI to China in December, but Not the New Siri",
+   "link": "https://biztoc.com/x/4366d2ad1700c9a6?ref=rss",
+   "summary": "The post Apple Is Reportedly Bringing AI to China in December, but Not the New Siri appeared first on 24/7 Wall St.. Apple (NASDAQ:AAPL) closed on Wednesday, October 14, 2026, at a market value of about $5.01 trillion. That made it the second company ever to close above five trillion dollars.…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-15T13:46:16+00:00",
+   "tickers": [
+    "AAPL"
+   ]
+  },
+  {
+   "id": "8e93992d5482",
+   "title": "AI Cloud Stocks Sink as Gartner Warns Most Neoclouds Won’t Survive Independently: IREN and CoreWeave Fall 5%, Nebius Drops 4%",
+   "link": "https://biztoc.com/x/7c9a47c7001fdcc1?ref=rss",
+   "summary": "The post AI Cloud Stocks Sink as Gartner Warns Most Neoclouds Won’t Survive Independently: IREN and CoreWeave Fall 5%, Nebius Drops 4% appeared first on 24/7 Wall St.. A Gartner warning that most neoclouds, the AI providers that rent out graphics processing unit (GPU) capacity, won’t survive as…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-15T13:46:16+00:00",
+   "tickers": [
+    "CRWV",
+    "IREN"
+   ]
+  },
+  {
+   "id": "1b8111bad688",
+   "title": "How Non-State Alliances Are Reshaping the Global Order",
+   "link": "https://biztoc.com/x/d58a0a5db6b87a03?ref=rss",
+   "summary": "Yves here. The prevalence and effectiveness of rebel groups and their external backers is not terrain I know well, so I very much encourage reader commentary on John Ruehl’s observation. I am old enough to remember Peru’s feared Sendero Luminoso in its heyday. My understanding is gangs have long…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-15T13:46:16+00:00",
+   "tickers": []
+  },
+  {
+   "id": "7c44eecfda45",
+   "title": "US lawmakers unveil bill to hold Wall Street’s ‘Epstein-connected’ bosses to account",
+   "link": "https://biztoc.com/x/4b3755f613c00b1e?ref=rss",
+   "summary": "Move comes as Senator Elizabeth Warren condemns Barclays response to questions over ex-boss’s ties to sex offender US lawmakers have unveiled a new bill to hold Wall Street’s “Epstein-connected” bosses to account for helping finance the late sex offender’s crimes. It came as top Democratic senator…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-15T13:46:15+00:00",
+   "tickers": [
+    "BCS"
+   ]
+  },
+  {
+   "id": "fc9e8f6edf79",
+   "title": "Eight People Arrested for Child Abuse in Kentucky Home",
+   "link": "https://biztoc.com/x/0bca8a27f37e6158?ref=rss",
+   "summary": "Eight people living in a Kentucky residence were arrested in connection with a child abuse investigation involving seven victims, authorities said. The defendants face numerous charges, including criminal abuse, incest, rape and human trafficking, the Richmond Police Department said in a news…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-15T13:46:13+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f9c4ffd3943f",
+   "title": "Dell Falls 8%, Hewlett Packard Enterprise Drops 4% as Barclays Cuts Both to Hold; Super Micro Slides 5%",
+   "link": "https://biztoc.com/x/893dbd8c1f2aadc5?ref=rss",
+   "summary": "The post Dell Falls 8%, Hewlett Packard Enterprise Drops 4% as Barclays Cuts Both to Hold; Super Micro Slides 5% appeared first on 24/7 Wall St.. Dell Technologies (NYSE:DELL) is leading a fresh retreat in artificial intelligence (AI) hardware, as doubts about the timing of enterprise spending hit…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-10-15T13:46:12+00:00",
+   "tickers": [
+    "DELL",
+    "HPE",
+    "SMCI",
+    "BCS"
+   ]
+  },
+  {
+   "id": "838b88cfcaa6",
+   "title": "Rocket Lab Stock Sinks. Why Its Neutron Launch Is Such a Big Deal",
+   "link": "https://biztoc.com/x/c50dacb7322b9c5b?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "ma",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-10-15T13:46:06+00:00",
+   "tickers": [
+    "RKLB"
+   ]
+  },
+  {
+   "id": "6e3fa9dbf26a",
+   "title": "Ukraine resumes attacks on Russian oil refineries as relations with Trump sour",
+   "link": "https://biztoc.com/x/1df17615273f149e?ref=rss",
+   "summary": "Ukrainian drones attacked a refinery in Russia's Ryazan region early Thursday, hours after Ukrainian President Volodymyr Zelenskyy said that a brief truce spurned by Moscow was over amid deepening tensions with Washington.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-15T13:46:06+00:00",
+   "tickers": []
+  },
+  {
+   "id": "cb48c5c35329",
+   "title": "The future energy mix",
+   "link": "https://biztoc.com/x/4c9dbb70ee34434c?ref=rss",
+   "summary": "Decades of policy have sought to diversify not only sources of oil and natural gas but the energy mix as a whole.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-15T13:46:03+00:00",
+   "tickers": []
+  },
+  {
+   "id": "86a86a564bec",
+   "title": "Trump Admin Floats Unfreezing Russian Assets In Big Move To Restart Talks",
+   "link": "https://biztoc.com/x/a144f49989ff85de?ref=rss",
+   "summary": "Trump Admin Floats Unfreezing Russian Assets In Big Move To Restart Talks President Trump appears to be busy rolling back years of entrenched Ukraine policy. Starting last week he announced the controversial diesel deal with Putin, and this week Ukraine's Zelensky is complaining that…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-15T13:46:01+00:00",
+   "tickers": []
+  },
+  {
+   "id": "085940348376",
+   "title": "Microsoft says Windows 11 is now ‘more responsive’ and runs better on 8GB of RAM",
+   "link": "https://biztoc.com/x/4b3e188b068d8a14?ref=rss",
+   "summary": "Earlier this year Microsoft laid out a plan to fix Windows 11, with a focus on performance, reliability, and the overall OS experience. After months of fixes, Microsoft now says the “result is a Windows experience that’s up to 20 percent more responsive.” Microsoft says Windows 11 is now ‘more…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-15T13:45:59+00:00",
+   "tickers": [
+    "MSFT",
+    "OS"
+   ]
+  },
+  {
+   "id": "3518cd2e3a70",
+   "title": "Wholesale inflation jumped last month by most in four years as gas prices soared",
+   "link": "https://biztoc.com/x/c23ac4ed28c775f1?ref=rss",
+   "summary": "Wholesale inflation rose more quickly than expected last month on a big jump in fuel costs, a sign that stubbornly rising prices remain an economic challenge for consumers and a political problem for Republicans in the midterm elections",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "macro",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-10-15T13:45:59+00:00",
+   "tickers": []
+  },
+  {
+   "id": "12e98b3dbe11",
+   "title": "I-Bonds And New TIPS Looking Their Best In 4 Years If You Buy In November",
+   "link": "https://seekingalpha.com/article/4954471-i-bonds-and-new-tips-looking-their-best-in-4-years-if-you-buy-in-november?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-15T13:45:58+00:00",
+   "tickers": []
+  },
+  {
+   "id": "1fdce5ff49a4",
+   "title": "War Against Yemen Endangers Saudi Crown Prince’s Position",
+   "link": "https://biztoc.com/x/0d50e28c3d0d71d0?ref=rss",
+   "summary": "By Moon of Alabama via Ron Paul Institute for Peace and Prosperity | October 13, 2026 In the 1930s, during the formation of Saudi Arabia, three provinces were taken from Yemen. The Yemeni have always wanted them back. They are now in a position where they may eventually achieve that aim. The…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-15T13:45:56+00:00",
+   "tickers": [
+    "CCK"
+   ]
+  },
   {
    "id": "fd689cf5e81f",
    "title": "Wyld Oaks® Goes Vertical: Construction Underway in Northwest Orlando",
    "link": "https://www.prnewswire.com/news-releases/wyld-oaks-goes-vertical-construction-underway-in-northwest-orlando-302910172.html",
    "summary": "Exchange at Wyld Oaks, developed by Dewfall Hathaway and backed by renowned institutional investor Carlyle Realty Partners X, brings 325 new residences to the 215-acre mixed-use destination APOPKA, Fla., Oct. 15, 2026 /PRNewswire/ -- Vertical construction is officially underway at Wyld...",
    "article_text": "",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
    "domain": "prnewswire.com",
    "published": "2026-10-15T13:45:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "02c2399f2535",
+   "title": "FISU and ViewLift Announce Strategic Collaboration to Elevate World University Sports",
+   "link": "https://www.prnewswire.com/news-releases/fisu-and-viewlift-announce-strategic-collaboration-to-elevate-world-university-sports-302910180.html",
+   "summary": "ViewLift joins forces with technology partner Bornan to enhance the digital ecosystem of world university sports LAUSANNE, Switzerland and NEW YORK, Oct. 15, 2026 /PRNewswire/ -- ViewLift, a DAZN company, and The International University Sports Federation (FISU), today announced an...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-10-15T13:45:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "1594836e448c",
+   "title": "Revolution Medicines’ RASONQUE™ (daraxonrasib) Receives Positive CHMP Opinion Recommending Marketing Authorization in European Union for Metastatic Pancreatic Cancer",
+   "link": "https://www.globenewswire.com/news-release/2026/10/15/3381786/0/en/revolution-medicines-rasonque-daraxonrasib-receives-positive-chmp-opinion-recommending-marketing-authorization-in-european-union-for-metastatic-pancreatic-cancer.html",
+   "summary": "REDWOOD CITY, Calif., Oct. 15, 2026 (GLOBE NEWSWIRE) -- Revolution Medicines, Inc. (Nasdaq: RVMD), a global, commercial-stage oncology company dedicated to discovering, developing and delivering innovative medicines for patients with RAS-addicted cancers, today announced that the European Medicines Agency’s (EMA) Committee for Medicinal Products for Human Use (CHMP) has adopted a positive opinion of RASONQUE (daraxonrasib) once-daily oral tablets as a monotherapy indicated for the treatment of adult patients with metastatic pancreatic adenocarcinoma who have received at least one prior systemic therapy. If approved by the European Commission (EC), RASONQUE would provide the first broad RAS-targeted treatment option in the European Union for adults with metastatic pancreatic adenocarcinoma.",
+   "article_text": "",
+   "source": "GlobeNewswire",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "globenewswire.com",
+   "published": "2026-10-15T13:45:00+00:00",
+   "tickers": [
+    "RVMD",
+    "NDAQ"
+   ]
+  },
+  {
+   "id": "69b7cd62760d",
+   "title": "Dogfish Head’s Most-Requested Rare Beer, Midas Touch, Returns",
+   "link": "https://www.globenewswire.com/news-release/2026/10/15/3381785/0/en/dogfish-head-s-most-requested-rare-beer-midas-touch-returns.html",
+   "summary": "A “liquid gold” recreation of a millennia-old beverage enjoyed by King Midas, this “Ancient Ale” was created using chemical evidence found in the Turkish ruler’s tomb A “liquid gold” recreation of a millennia-old beverage enjoyed by King Midas, this “Ancient Ale” was created using chemical evidence found in the Turkish ruler’s tomb",
+   "article_text": "",
+   "source": "GlobeNewswire",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "globenewswire.com",
+   "published": "2026-10-15T13:45:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "48b1f19a13d4",
+   "title": "Ardagh can proceed with metals packaging unit sale after court ruling",
+   "link": "https://seekingalpha.com/news/4653408-ardagh-can-proceed-with-metals-packaging-unit-sale-after-court-ruling?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-15T13:44:41+00:00",
+   "tickers": []
+  },
+  {
+   "id": "2415ae161bae",
+   "title": "PayPal reinstated at Sell equivalent at BofA; FIS, GPN, TOST reinstated at Buy",
+   "link": "https://seekingalpha.com/news/4653388-paypal-reinstated-at-sell-equivalent-at-bofa-fis-gpn-tost-reinstated-at-buy?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-15T13:44:15+00:00",
+   "tickers": [
+    "PYPL",
+    "FIS",
+    "GPN",
+    "TOST"
+   ]
+  },
+  {
+   "id": "a7b300fc58ee",
+   "title": "BACARDÍ® Rum Resurrects Halloween Icons Past and Present with the Crypt Keeper, HalloQUEEN Janelle Monáe's Wondaween and New Limited-Edition Ghost Bottle",
+   "link": "https://www.prnewswire.com/news-releases/bacardi-rum-resurrects-halloween-icons-past-and-present-with-the-crypt-keeper-halloqueen-janelle-monaes-wondaween-and-new-limited-edition-ghost-bottle-302909314.html",
+   "summary": "From bringing the legendary Crypt Keeper back from the crypt to stepping inside the imaginative world of Janelle Monáe's Wondaween, BACARDÍ is celebrating the spooktacular creatures that make Halloween unforgettable HAMILTON, Bermuda, Oct. 15, 2026 /PRNewswire/ -- This Halloween, BACARDÍ®...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-10-15T13:44:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "fe35a4dd87e3",
+   "title": "Canadian Banc Corp. Announces Successful Overnight Offering",
+   "link": "https://www.globenewswire.com/news-release/2026/10/15/3381783/0/en/canadian-banc-corp-announces-successful-overnight-offering.html",
+   "summary": "TORONTO, Oct. 15, 2026 (GLOBE NEWSWIRE) -- Canadian Banc Corp. (the “Company”) is pleased to announce it has completed the overnight marketing of Preferred Shares (TSX: BK.PR.A) and Class A Shares (TSX: BK) of the Company. Total gross proceeds of the offering are expected to be approximately $60.0 million.",
+   "article_text": "",
+   "source": "GlobeNewswire",
+   "category": "press",
+   "type": "offering",
+   "sentiment": "neutral",
+   "domain": "globenewswire.com",
+   "published": "2026-10-15T13:44:00+00:00",
+   "tickers": [
+    "BK"
+   ]
   },
   {
    "id": "f0aebd24ba18",
@@ -46,6 +971,36 @@
    "tickers": []
   },
   {
+   "id": "d988daf9904d",
+   "title": "Tiger Group and Hyper Group Announce Total Liquidation of American Sale Stores and Online Inventory",
+   "link": "https://www.prnewswire.com/news-releases/tiger-group-and-hyper-group-announce-total-liquidation-of-american-sale-stores-and-online-inventory-302910174.html",
+   "summary": "Customers can save up to 70% on premium pools, hot tubs, patio furniture, recreation products, Christmas décor and more, with financing, delivery and installation services still available. CHICAGO, Oct. 15, 2026 /PRNewswire/ -- American Sale, the 66-year-old family-owned retailer known...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-10-15T13:43:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "25503411a610",
+   "title": "Service Corporation International Announces Schedule For Third Quarter 2026 Earnings Release and Conference Call",
+   "link": "https://www.prnewswire.com/news-releases/service-corporation-international-announces-schedule-for-third-quarter-2026-earnings-release-and-conference-call-302910175.html",
+   "summary": "HOUSTON, October 15, 2026 /PRNewswire/ -- Service Corporation International (NYSE: SCI) announced it expects to issue a press release with financial results for the third quarter 2026 on Wednesday, October 28, 2026. A conference call will be hosted by SCI Management on Thursday, October...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-10-15T13:43:00+00:00",
+   "tickers": [
+    "SCI"
+   ]
+  },
+  {
    "id": "20290f615678",
    "title": "U.S. Treasury dismisses IMF debt warning and 'messy' forecasting",
    "link": "https://www.cnbc.com/2026/10/15/zervos-imf-us-debt-warning.html",
@@ -57,20 +1012,6 @@
    "sentiment": "negative",
    "domain": "cnbc.com",
    "published": "2026-10-15T13:42:32+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e4800ca1d078",
-   "title": "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022",
-   "link": "https://www.cnbc.com/2026/10/15/september-producer-price-index-retail-sales-data.html",
-   "summary": "September producer prices were expected to increase 0.6% month-over-month and 5.5% annually, according to the consensus estimate by Dow Jones.",
-   "article_text": "",
-   "source": "CNBC Economy",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "positive",
-   "domain": "cnbc.com",
-   "published": "2026-10-15T13:42:13+00:00",
    "tickers": []
   },
   {
@@ -130,6 +1071,20 @@
    "tickers": [
     "INTU"
    ]
+  },
+  {
+   "id": "b6430fecec64",
+   "title": "ICF International: Someone Has To Make The Grid Work",
+   "link": "https://seekingalpha.com/article/4954467-icf-international-someone-has-to-make-the-grid-work-reiterate-buy?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-15T13:40:27+00:00",
+   "tickers": []
   },
   {
    "id": "1d536d932031",
@@ -261,6 +1216,23 @@
    "domain": "globenewswire.com",
    "published": "2026-10-15T13:38:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "f0b03479f9e1",
+   "title": "SMCI taps former Western Digital CFO as new finance boss; shares tumble",
+   "link": "https://www.investing.com/news/stock-market-news/smci-taps-former-western-digital-cfo-as-new-finance-boss-shares-tumble-4952015",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-10-15T13:36:35+00:00",
+   "tickers": [
+    "WDC",
+    "SMCI"
+   ]
   },
   {
    "id": "48760e13db64",
@@ -465,6 +1437,22 @@
    ]
   },
   {
+   "id": "be798690e2a8",
+   "title": "Nasdaq falls over 1% at the open, S&P and Dow mixed amid tech slide and hot PPI",
+   "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-fall-as-hot-inflation-revives-fed-hike-concerns-4950317",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-10-15T13:33:32+00:00",
+   "tickers": [
+    "NDAQ"
+   ]
+  },
+  {
    "id": "e53b1955069c",
    "title": "Form 8.3 - The Vanguard Group, Inc.: Tate & Lyle plc",
    "link": "https://markets.businessinsider.com/news/stocks/form-8-3-the-vanguard-group-inc-tate-lyle-plc-1036630136",
@@ -524,6 +1512,24 @@
    "published": "2026-10-15T13:32:13+00:00",
    "tickers": [
     "VYMI"
+   ]
+  },
+  {
+   "id": "95226c1856f0",
+   "title": "Tesla-SpaceX Merger could be announced before December, Barclays says",
+   "link": "https://www.investing.com/news/stock-market-news/teslaspacex-merger-could-be-announced-before-december-barclays-says-4951979",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-15T13:32:10+00:00",
+   "tickers": [
+    "BCS",
+    "SPCX",
+    "TSLA"
    ]
   },
   {
@@ -1121,9 +2127,9 @@
    "link": "https://www.nasdaq.com/articles/99-yield-13-100-year-old-fund-too-cheap",
    "summary": "Let's break down this cloud of pessimism hanging over the economy. As far as I can tell, it's mainly coming from two sources:",
    "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
    "sentiment": "neutral",
    "domain": "nasdaq.com",
    "published": "2026-10-15T13:30:02+00:00",
@@ -1135,7 +2141,7 @@
    "link": "https://www.prnewswire.com/news-releases/troops-inc-nasdaq-troo-strengthens-leadership-team-with-appointment-of-jacopo-visetti-as-director-and-sergio-carloni-as-chief-operating-officer-302910119.html",
    "summary": "HONG KONG, Oct. 15, 2026 /PRNewswire/ -- TROOPS, Inc. (NASDAQ: TROO) (\"TROOPS\" or the \"Company\") today announced the appointment of Jacopo Visetti as Independent Director and Sergio Carloni as Chief Operating Officer. These appointments further strengthen the Company's leadership team as...",
    "article_text": "",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -1802,6 +2808,22 @@
    "tickers": []
   },
   {
+   "id": "34a8652c5fe5",
+   "title": "Super Micro Computer Names Mark Long SVP & CFO",
+   "link": "https://www.nasdaq.com/articles/super-micro-computer-names-mark-long-svp-cfo",
+   "summary": "(RTTNews) - Super Micro Computer (SMCI) announced the appointment of Mark Long as Senior Vice President and Chief Financial Officer, effective immediately. Long succeeds David Weigand. David will assist in the transition and shift his focus to helping optimize and accelerate the",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-15T13:24:40+00:00",
+   "tickers": [
+    "SMCI"
+   ]
+  },
+  {
    "id": "92dee477a0a9",
    "title": "Groupon relaunches LivingSocial as AI agent marketplace",
    "link": "https://www.investing.com/news/company-news/groupon-relaunches-livingsocial-as-ai-agent-marketplace-93CH-4951937",
@@ -2022,22 +3044,6 @@
    "domain": "globenewswire.com",
    "published": "2026-10-15T13:20:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "f99afb544d75",
-   "title": "CoreWeave’s slump puts spotlight on debt behind AI boom",
-   "link": "https://www.investing.com/news/stock-market-news/coreweave-shares-bonds-slide-further-as-ai-debt-fears-mount-4951350",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-10-15T13:18:28+00:00",
-   "tickers": [
-    "CRWV"
-   ]
   },
   {
    "id": "ca482874942b",
@@ -2727,6 +3733,22 @@
    "tickers": []
   },
   {
+   "id": "425d5685fe3b",
+   "title": "CCC Intelligent Solutions To Be Acquired By GTCR, Elliott In $6.1 Bln Deal",
+   "link": "https://www.nasdaq.com/articles/ccc-intelligent-solutions-be-acquired-gtcr-elliott-61-bln-deal",
+   "summary": "(RTTNews) - Software company CCC Intelligent Solutions Holdings Inc. (CCC) announced on Thursday that it has agreed to be acquired by a consortium led by private equity firm GTCR and including Elliott Investment Management L.P.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-15T13:15:13+00:00",
+   "tickers": [
+    "CCC"
+   ]
+  },
+  {
    "id": "675d0f2165fe",
    "title": "Higher Fuel Costs Spike AIER's Everyday Price Index",
    "link": "https://seekingalpha.com/article/4954454-higher-fuel-costs-spike-aier-everyday-price-index?source=feed_all_articles",
@@ -2813,6 +3835,20 @@
    "tickers": [
     "NDAQ"
    ]
+  },
+  {
+   "id": "ce009e72c9aa",
+   "title": "Will mortgage rates stay above 7% in 2027? Signs point to yes.",
+   "link": "https://www.marketwatch.com/story/will-mortgage-rates-stay-above-7-in-2027-437873bd?mod=mw_rss_topstories",
+   "summary": "Two new forecasts spell bad news for home buyers and sellers",
+   "article_text": "",
+   "source": "MarketWatch",
+   "category": "markets",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "marketwatch.com",
+   "published": "2026-10-15T13:14:00+00:00",
+   "tickers": []
   },
   {
    "id": "57fbb647e58a",
@@ -3131,21 +4167,18 @@
    "tickers": []
   },
   {
-   "id": "be798690e2a8",
-   "title": "Nasdaq 100 futures hold on to losses after hot U.S. producer inflation report",
-   "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-fall-as-hot-inflation-revives-fed-hike-concerns-4950317",
-   "summary": "",
+   "id": "e4c16902ed43",
+   "title": "Meet the baby chasers — they’re transforming the housing market and solving the childcare crisis",
+   "link": "https://www.marketwatch.com/story/meet-the-baby-chasers-theyre-transforming-the-housing-market-and-solving-the-childcare-crisis-574b5bcc?mod=mw_rss_topstories",
+   "summary": "Baby boomers have been the biggest force driving home sales over the last few years. Many of them are moving to be close to family, and in particular, their grandchildren.",
    "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "macro",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-10-15T13:08:57+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ"
-   ]
+   "source": "MarketWatch",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "marketwatch.com",
+   "published": "2026-10-15T13:09:00+00:00",
+   "tickers": []
   },
   {
    "id": "db564a3f5302",
@@ -3715,6 +4748,20 @@
    "tickers": [
     "AA"
    ]
+  },
+  {
+   "id": "02f39e1b497a",
+   "title": "Medicare open enrollment is here. What to know about deadlines, options and more.",
+   "link": "https://www.marketwatch.com/story/medicare-open-enrollment-is-here-what-to-know-about-deadlines-options-and-more-eac92756?mod=mw_rss_topstories",
+   "summary": "The open-enrollment period goes from Oct. 15 to Dec. 7.",
+   "article_text": "",
+   "source": "MarketWatch",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "marketwatch.com",
+   "published": "2026-10-15T13:02:00+00:00",
+   "tickers": []
   },
   {
    "id": "7ce32e5205b9",
@@ -5268,6 +6315,20 @@
    "tickers": []
   },
   {
+   "id": "156f70964de5",
+   "title": "You may never work with an Elizabeth Holmes—but here's how to handle a co-worker who makes false claims",
+   "link": "https://www.cnbc.com/make-it/2026/10/15/how-to-handle-coworker-giving-false-information-expert.html",
+   "summary": "You may never a co-worker as enigmatic as Elizabeth Holmes. But you might have one who doesn't deliver or misrepresents situations. Try these strategies.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-10-15T12:49:01+00:00",
+   "tickers": []
+  },
+  {
    "id": "28c16d235d15",
    "title": "Bold Therapeutics Reaches Enrollment Midpoint in Randomized Phase 2 Trial of BOLD-100 in Second-Line Metastatic Colorectal Cancer",
    "link": "https://www.prnewswire.com/news-releases/bold-therapeutics-reaches-enrollment-midpoint-in-randomized-phase-2-trial-of-bold-100-in-second-line-metastatic-colorectal-cancer-302909446.html",
@@ -6246,22 +7307,6 @@
    "published": "2026-10-15T12:43:19+00:00",
    "tickers": [
     "JAZZ"
-   ]
-  },
-  {
-   "id": "732fe2b883e5",
-   "title": "Micron, Nvidia and other chip stocks face renewed pressure as AI fears swell",
-   "link": "https://www.marketwatch.com/story/micron-nvidia-and-other-chip-stocks-face-renewed-pressure-as-ai-fears-swell-4e0dc989?mod=mw_rss_topstories",
-   "summary": "Reported details about Anthropic’s financial progress are adding to concerns about the health of the AI ecosystem.",
-   "article_text": "",
-   "source": "MarketWatch",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "marketwatch.com",
-   "published": "2026-10-15T12:43:00+00:00",
-   "tickers": [
-    "MU"
    ]
   },
   {
@@ -7810,1043 +8855,6 @@
    "domain": "globenewswire.com",
    "published": "2026-10-15T12:30:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "52814f02797a",
-   "title": "CytoDyn to Host Investor Webcast",
-   "link": "https://www.globenewswire.com/news-release/2026/10/15/3381630/19782/en/cytodyn-to-host-investor-webcast.html",
-   "summary": "VANCOUVER, Wash., Oct. 15, 2026 (GLOBE NEWSWIRE) -- CytoDyn Inc. (OTCQB: CYDY) (\"CytoDyn\" or the \"Company\"), a clinical-stage oncology company advancing leronlimab, a first-in-class humanized monoclonal antibody targeting the CCR5 receptor with therapeutic potential across multiple solid-tumor oncology indications, including colorectal cancer (“mCRC”) and metastatic triple-negative breast cancer (“mTNBC”), today announced it will host an investor webcast on October 19, 2026, at 1 p.m. PT, to provide a corporate and clinical update.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-10-15T12:30:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "187d925eaa3c",
-   "title": "Bond Announces Effective Date of Previously Announced 1-for-20 Reverse Stock Split",
-   "link": "https://www.globenewswire.com/news-release/2026/10/15/3381631/0/en/bond-announces-effective-date-of-previously-announced-1-for-20-reverse-stock-split.html",
-   "summary": "Common Stock Expected to Begin Trading on a Split-Adjusted Basis on October 19, 2026 Common Stock Expected to Begin Trading on a Split-Adjusted Basis on October 19, 2026",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "dividend",
-   "sentiment": "positive",
-   "domain": "globenewswire.com",
-   "published": "2026-10-15T12:30:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "c50b34473c79",
-   "title": "DeFi Development Corp. Increases CHAD Annual Dividend Rate to 14%",
-   "link": "https://www.globenewswire.com/news-release/2026/10/15/3381633/0/en/defi-development-corp-increases-chad-annual-dividend-rate-to-14.html",
-   "summary": "Higher rate delivers approximately 7.7% more annual dividend income per share, strengthening CHAD’s daily income offering as the Company expands its productive SOL treasury Higher rate delivers approximately 7.7% more annual dividend income per share, strengthening CHAD’s daily income offering as the Company expands its productive SOL treasury",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "dividend",
-   "sentiment": "positive",
-   "domain": "globenewswire.com",
-   "published": "2026-10-15T12:30:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "0f757477b742",
-   "title": "AZIO AI Holdings Inc. (NASDAQ: AZIO) Building Solution to Growing Data Center Demands, Announces First Hosting Agreement at Power-Backed Compute Campus",
-   "link": "https://www.globenewswire.com/news-release/2026/10/15/3381634/0/en/azio-ai-holdings-inc-nasdaq-azio-building-solution-to-growing-data-center-demands-announces-first-hosting-agreement-at-power-backed-compute-campus.html",
-   "summary": "NEW YORK, Oct. 15, 2026 (GLOBE NEWSWIRE) -- via AINewsWire — AZIO AI Holdings Inc. (NASDAQ: AZIO) today announces its placement in an editorial published by AINewsWire (\"AINW\"), one of 75+ brands within the Dynamic Brand Portfolio@IBN (InvestorBrandNetwork), a specialized communications platform with a focus on financial news and content distribution for private and public companies and the investment community.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-10-15T12:30:00+00:00",
-   "tickers": [
-    "IBN"
-   ]
-  },
-  {
-   "id": "73ee76a799b0",
-   "title": "ECGI Holdings Completes Acquisition of Avanta Group, Establishing Foundation for AI-Enabled Healthcare Platform",
-   "link": "https://www.globenewswire.com/news-release/2026/10/15/3381635/0/en/ecgi-holdings-completes-acquisition-of-avanta-group-establishing-foundation-for-ai-enabled-healthcare-platform.html",
-   "summary": "October 13 closing adds Avanta's network of existing healthcare providers, management services and benefits commerce to ECGI's AI-focused healthcare strategy October 13 closing adds Avanta's network of existing healthcare providers, management services and benefits commerce to ECGI's AI-focused healthcare strategy",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-10-15T12:30:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "0d0dd4d26de0",
-   "title": "Snail Games Subsidiary Interactive Films Launches The Fame Game II: L.A. Heartbreaker, Expanding Its Interactive Hollywood Drama Franchise",
-   "link": "https://www.globenewswire.com/news-release/2026/10/15/3381636/0/en/snail-games-subsidiary-interactive-films-launches-the-fame-game-ii-l-a-heartbreaker-expanding-its-interactive-hollywood-drama-franchise.html",
-   "summary": "CULVER CITY, Calif., Oct. 15, 2026 (GLOBE NEWSWIRE) -- Snail, Inc. (Nasdaq: SNAL) (“Snail Games” or the “Company”), a leading global independent developer and publisher of interactive digital entertainment, today announced the launch of The Fame Game II: L.A. Heartbreaker, the next installment in its interactive entertainment franchise developed and published by its subsidiary Interactive Films LLC.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "positive",
-   "domain": "globenewswire.com",
-   "published": "2026-10-15T12:30:00+00:00",
-   "tickers": [
-    "NDAQ"
-   ]
-  },
-  {
-   "id": "9c26e91dcda8",
-   "title": "Recursion raises $200M, reports trial data for two drug candidates",
-   "link": "https://www.investing.com/news/company-news/recursion-raises-200m-reports-trial-data-for-two-drug-candidates-93CH-4951629",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-10-15T12:28:43+00:00",
-   "tickers": [
-    "RXRX"
-   ]
-  },
-  {
-   "id": "e3c88e6ba95c",
-   "title": "Alpha Modus to test AI platform at three grocery stores",
-   "link": "https://www.investing.com/news/company-news/alpha-modus-to-test-ai-platform-at-three-grocery-stores-93CH-4951628",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-10-15T12:28:36+00:00",
-   "tickers": []
-  },
-  {
-   "id": "f83b0d54b916",
-   "title": "Rates need to stabilize for stocks to move higher again, says Greg Fleming",
-   "link": "https://biztoc.com/x/8c0a4f698a59c7fd?ref=rss",
-   "summary": "Greg Fleming, Rockefeller Capital Management president and CEO, joins 'Squawk Box' to discuss the latest market trends, state ...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-15T12:28:10+00:00",
-   "tickers": []
-  },
-  {
-   "id": "9073a0615814",
-   "title": "8-K - TheRealReal, Inc. (0001573221) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1573221/000119312526422329/0001193125-26-422329-index.htm",
-   "summary": "Filed: 2026-10-15 AccNo: 0001193125-26-422329 Size: 1 MB Item 1.01: Entry into a Material Definitive Agreement Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant Item 7.01: Regulation FD Disclosure Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-10-15T12:27:43+00:00",
-   "tickers": []
-  },
-  {
-   "id": "8bab0103b5f6",
-   "title": "Insitro, AstraZeneca Sign AI Drug Discovery Deal",
-   "link": "https://www.nasdaq.com/articles/insitro-astrazeneca-sign-ai-drug-discovery-deal",
-   "summary": "(RTTNews) - Thursday, insitro announced a strategic collaboration with AstraZeneca (AZN) to use artificial intelligence to discover new treatments for metabolic dysfunction-associated steatohepatitis (MASH) and cardiomyopathies.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-15T12:26:16+00:00",
-   "tickers": [
-    "AZN"
-   ]
-  },
-  {
-   "id": "ee12a0848ed2",
-   "title": "Banks Want To Lend: The New Constraint Of This Earnings Season",
-   "link": "https://seekingalpha.com/article/4954424-banks-want-to-lend-the-new-constraint-of-this-earnings-season?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-15T12:25:51+00:00",
-   "tickers": []
-  },
-  {
-   "id": "238d3d77d14c",
-   "title": "Marvell's Optical Business Could Win Long Term, But Not Yet",
-   "link": "https://seekingalpha.com/article/4954421-marvells-optical-business-could-win-long-term-but-not-yet?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-15T12:25:35+00:00",
-   "tickers": [
-    "MRVL"
-   ]
-  },
-  {
-   "id": "2abdb490e634",
-   "title": "2 Revolutionary Developments That Should Change Your Investing Thesis on Ford and General Motors",
-   "link": "https://www.nasdaq.com/articles/2-revolutionary-developments-should-change-your-investing-thesis-ford-and-general-motors",
-   "summary": "Key PointsBoth Ford and GM are unlocking gross margins unheard of in the automotive industry with digital services.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-15T12:25:00+00:00",
-   "tickers": [
-    "GM",
-    "F"
-   ]
-  },
-  {
-   "id": "e9b51fc745df",
-   "title": "Oil prices slips as US weighs easing sanctions on ’shadow fleet’",
-   "link": "https://www.investing.com/news/commodities-news/oil-prices-fall-as-investors-weigh-supply-outlook-middle-east-tensions-4950372",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-10-15T12:24:46+00:00",
-   "tickers": []
-  },
-  {
-   "id": "2e723c7a705e",
-   "title": "AI credit jitters drive US tech default insurance to record highs",
-   "link": "https://www.investing.com/news/stock-market-news/ai-credit-default-swap-spreads-widen-sharply-4950549",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-10-15T12:24:36+00:00",
-   "tickers": []
-  },
-  {
-   "id": "dc6e592149ea",
-   "title": "Gulf Oil Is Still Flowing Despite a Surge in Attacks on Ships",
-   "link": "https://www.nytimes.com/2026/10/15/business/hormuz-oil-tanker-attacks.html",
-   "summary": "Shipping operators are braving the Strait of Hormuz, but the risks are high and transportation costs have skyrocketed.",
-   "article_text": "",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "positive",
-   "domain": "nytimes.com",
-   "published": "2026-10-15T12:24:20+00:00",
-   "tickers": []
-  },
-  {
-   "id": "86d1ac455c73",
-   "title": "QEP Co. Inc. Q2 Income Advances",
-   "link": "https://www.nasdaq.com/articles/qep-co-inc-q2-income-advances",
-   "summary": "(RTTNews) - QEP Co. Inc. (QEPC.PK) released a profit for its second quarter that Increased, from last year",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-15T12:23:48+00:00",
-   "tickers": []
-  },
-  {
-   "id": "009badd7b20a",
-   "title": "8-K - ASP Isotopes Inc. (0001921865) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1921865/000119312526422325/0001193125-26-422325-index.htm",
-   "summary": "Filed: 2026-10-15 AccNo: 0001193125-26-422325 Size: 212 KB Item 7.01: Regulation FD Disclosure Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-10-15T12:22:40+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6d8d2f8983d0",
-   "title": "The Outlook For S&P 500 Dividends In October 2026",
-   "link": "https://seekingalpha.com/article/4954420-outlook-sp500-dividends-october-2026?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "guidance",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-15T12:22:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "2b8a01233015",
-   "title": "Prologis Q3 Core FFO Rises; Updates FY26 Guidance",
-   "link": "https://www.nasdaq.com/articles/prologis-q3-core-ffo-rises-updates-fy26-guidance",
-   "summary": "(RTTNews) - Prologis, Inc. (PLD) reported that its third quarter core FFO attributable to common stockholders/unitholders increased to $1.55 billion from $1.43 billion, a year ago. Core funds from operations per diluted share was $1.60, compared with $1.49 for the same period in",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-10-15T12:21:07+00:00",
-   "tickers": [
-    "PLD"
-   ]
-  },
-  {
-   "id": "fc530c1ede3f",
-   "title": "Here are Thursday's biggest analyst calls: Nvidia, CoreWeave, Walmart, Crocs, CarMax, Regeneron & more",
-   "link": "https://www.cnbc.com/2026/10/15/thursday-big-wall-street-analyst-calls-like-coreweave.html",
-   "summary": "Here are Thursday's biggest calls on Wall Street.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-10-15T12:20:23+00:00",
-   "tickers": [
-    "CRWV",
-    "REGN",
-    "WMT",
-    "KMX"
-   ]
-  },
-  {
-   "id": "2422e6f63605",
-   "title": "France's 2027 Budget Is Only The First Fiscal Test",
-   "link": "https://seekingalpha.com/article/4954453-france-2027-budget-first-fiscal-test?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-15T12:20:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "0b929a972e42",
-   "title": "Elon Musk Just Gave Investors Another Reason to Buy Micron Stock",
-   "link": "https://www.nasdaq.com/articles/elon-musk-just-gave-investors-another-reason-buy-micron-stock",
-   "summary": "Key PointsMemory is becoming a critical bottleneck for artificial intelligence (AI) infrastructure.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-15T12:20:00+00:00",
-   "tickers": [
-    "MU"
-   ]
-  },
-  {
-   "id": "0ad97b4e27d2",
-   "title": "The Stock Market Is Facing 3 Huge Problems Right Now, and History Is Clear About What's Coming",
-   "link": "https://www.nasdaq.com/articles/stock-market-facing-3-huge-problems-right-now-and-history-clear-about-whats-coming",
-   "summary": "Key PointsDespite surging stock prices, the market faces multiple headwinds right now.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-15T12:20:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "039beed79122",
-   "title": "Venture Global: The Stock Needs $4.49 LNG Fees, Contracts Pay $3",
-   "link": "https://seekingalpha.com/article/4954419-venture-global-the-stock-needs-4_49-lng-fees-contracts-pay-3?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-15T12:19:44+00:00",
-   "tickers": [
-    "VG",
-    "LNG"
-   ]
-  },
-  {
-   "id": "8832c86e0e48",
-   "title": "Wall Street Might Open Broadly Lower",
-   "link": "https://www.nasdaq.com/articles/wall-street-might-open-broadly-lower-1",
-   "summary": "(RTTNews) - Supply concerns due to the restrictions in the Strait of Hormuz and attack on Saudi Arabia continues on Thursday also.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-10-15T12:18:04+00:00",
-   "tickers": []
-  },
-  {
-   "id": "1bdc482a8f7f",
-   "title": "Tesla Debuts 2026 Roadster, an EV Sports Car at Least $200,000",
-   "link": "https://www.nytimes.com/2026/10/15/business/tesla-roadster-2026-ev-sports-car.html",
-   "summary": "Elon Musk’s company and other automakers, like Jaguar and Bentley, are trying to sell very expensive electric cars to people who usually prefer gasoline-fueled luxury and performance.",
-   "article_text": "",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "nytimes.com",
-   "published": "2026-10-15T12:17:34+00:00",
-   "tickers": [
-    "TSLA",
-    "BSY"
-   ]
-  },
-  {
-   "id": "32091f319a28",
-   "title": "StoneX cuts Spotify to Hold on margin pressure, label costs",
-   "link": "https://www.investing.com/news/stock-market-news/stonex-cuts-spotify-to-hold-on-margin-pressure-label-costs-4951550",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-10-15T12:17:24+00:00",
-   "tickers": [
-    "SPOT"
-   ]
-  },
-  {
-   "id": "b42ae4271a58",
-   "title": "Nvidia CEO Jensen Huang urges U.S.-China dialogue on 'potentially dangerous' AI",
-   "link": "https://www.cnbc.com/2026/10/15/jensen-huang-nvidia-china-ai.html",
-   "summary": "Huang told CNBC he has ongoing \"dialogs\" with researchers in China.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-10-15T12:17:13+00:00",
-   "tickers": []
-  },
-  {
-   "id": "9a2d2292308e",
-   "title": "8-K - CCC Intelligent Solutions Holdings Inc. (0001818201) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1818201/000119312526422320/0001193125-26-422320-index.htm",
-   "summary": "Filed: 2026-10-15 AccNo: 0001193125-26-422320 Size: 971 KB Item 1.01: Entry into a Material Definitive Agreement Item 7.01: Regulation FD Disclosure Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-10-15T12:16:46+00:00",
-   "tickers": [
-    "CCC"
-   ]
-  },
-  {
-   "id": "22486b29dc33",
-   "title": "Gulf cost edge keeps chemical buyers hooked despite Hormuz risks",
-   "link": "https://biztoc.com/x/85e74e0cba384293?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-15T12:16:36+00:00",
-   "tickers": []
-  },
-  {
-   "id": "605ef150065c",
-   "title": "NYC Comptroller Levine urges Anthropic to pause US IPO, CNBC reports",
-   "link": "https://biztoc.com/x/63bc5cff344ec2da?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "offering",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-15T12:16:26+00:00",
-   "tickers": []
-  },
-  {
-   "id": "561c820bbbf3",
-   "title": "Rabot Energy secures $50M to transform homes into a virtual power plant",
-   "link": "https://biztoc.com/x/4498556d65c8ffc7?ref=rss",
-   "summary": "Rabot Energy, a provider of dynamic electricity tariffs, has raised $50 million in a Series B funding round to expand its technology platform and support its next phase of growth. The round was led by Endeit, a growth capital investor focused on European tech scale-ups, alongside the DeepTech &…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-10-15T12:15:55+00:00",
-   "tickers": []
-  },
-  {
-   "id": "772931c56e1d",
-   "title": "Hong Kong plans just two land sales in next quarter despite housing rebound",
-   "link": "https://biztoc.com/x/7621d0fe1b4ce8d8?ref=rss",
-   "summary": "The Hong Kong government will release two parcels of land for sale – one for a residential development and another for a student hostel project – in the October to December quarter, as officials maintain a cautious stance towards housing supply even as the market rebounds. One residential site –…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-15T12:15:49+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b40b181b13fc",
-   "title": "Zelensky: Ukraine hits Russian jets, Black Sea target",
-   "link": "https://biztoc.com/x/aeca31143bce05c4?ref=rss",
-   "summary": "Ukrainian President Volodymyr Zelensky said on Thursday that Kyiv's forces destroyed four Russian Su-34 fighter-bombers and damaged two others in an overnight strike on an airfield in Russia's Voronez...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-15T12:15:49+00:00",
-   "tickers": []
-  },
-  {
-   "id": "eefacb233db6",
-   "title": "Posthaste: U.S. businesses feel fresh pain from trade war with Canada, says this hot take on the economy",
-   "link": "https://biztoc.com/x/ef37240f46f05b44?ref=rss",
-   "summary": "Tariffs and the trade war with Canada are hurting United States businesses, according to the latest U.S. Federal Reserve ‘s Beige Book released Wednesday. “Most of the trade tensions are mentioned in terms of the negative effect on manufacturing,” Robert Embree, vice-president and senior…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-15T12:15:42+00:00",
-   "tickers": []
-  },
-  {
-   "id": "da6d2a3ad09c",
-   "title": "Elon Musk Could Announce A Tesla-SpaceX Merger In Coming Weeks, Analyst",
-   "link": "https://biztoc.com/x/81280957b4a858da?ref=rss",
-   "summary": "SpaceX and Tesla could announce a merger before Tesla's annual meeting likely scheduled for early December, according to Barclays. The post Elon Musk Could Announce A Tesla-SpaceX Merger In Coming Weeks, Analyst appeared first on Investor's Business Daily.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-15T12:15:36+00:00",
-   "tickers": [
-    "BCS",
-    "SPCX",
-    "TSLA"
-   ]
-  },
-  {
-   "id": "30c945a3fe79",
-   "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
-   "link": "https://biztoc.com/x/9b6c7449c9a5ec1d?ref=rss",
-   "summary": "Amazon’s personal AI wearable maker, Bee, is announcing its first new products since being acquired by the retail giant last year. The tech company on Thursday introduced the Bee Frontier, the next generation of its device that can be worn on the wrist or pinned to clothes, along with Bee Eclipse,…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-10-15T12:15:34+00:00",
-   "tickers": [
-    "AMZN"
-   ]
-  },
-  {
-   "id": "a5599a9e6cd5",
-   "title": "Roth IRA vs Brokerage Account: 5 High-Yielding Dividend Stocks You Should Never Own Outside a Roth",
-   "link": "https://biztoc.com/x/aa69523830425c78?ref=rss",
-   "summary": "The post Roth IRA vs Brokerage Account: 5 High-Yielding Dividend Stocks You Should Never Own Outside a Roth appeared first on 24/7 Wall St.. At the 24% federal bracket, a $500,000 portfolio split across five high-yield dividend stocks generates $48,400 in annual distributions. It sends $11,616 to…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "dividend",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-10-15T12:15:34+00:00",
-   "tickers": []
-  },
-  {
-   "id": "f7438d316f94",
-   "title": "Supreme Court Hands Trump Admin 7-2 Win in Political Ad Dispute",
-   "link": "https://biztoc.com/x/c0d87e1c74638c8d?ref=rss",
-   "summary": "The Supreme Court has handed the Trump administration a 7-2 win in an escalating fight over discounted political advertising rates ahead of the midterm elections. In an unsigned order issued Wednesday in FCC v. Brown, the justices blocked a Fourth Circuit ruling that would have required the…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-10-15T12:15:32+00:00",
-   "tickers": []
-  },
-  {
-   "id": "3a1e1c4e23a1",
-   "title": "Here's What to Expect From Chevron’s Next Earnings Report",
-   "link": "https://biztoc.com/x/00a95ff74bdd210c?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-15T12:15:32+00:00",
-   "tickers": [
-    "CVX"
-   ]
-  },
-  {
-   "id": "02322b0e9f80",
-   "title": "Rocket Lab Stock Tumbles On Latest Neutron Launch Delay",
-   "link": "https://biztoc.com/x/515e58fbf5a1e85d?ref=rss",
-   "summary": "Rocket Lab stock falls after the SpaceX rival announced another delay to its medium-lift Neutron rocket, missing a 2026 launch target. The post Rocket Lab Stock Tumbles On Latest Neutron Launch Delay appeared first on Investor's Business Daily.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-10-15T12:15:31+00:00",
-   "tickers": [
-    "RKLB",
-    "SPCX"
-   ]
-  },
-  {
-   "id": "a8754c323f4c",
-   "title": "What You Need to Know Ahead of Colgate-Palmolive Earnings Release",
-   "link": "https://biztoc.com/x/a2d3e236e4ef22c6?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-15T12:15:29+00:00",
-   "tickers": [
-    "CL"
-   ]
-  },
-  {
-   "id": "a1a2926b9644",
-   "title": "FMC Stock Plummets 38% on Horrendous Guidance",
-   "link": "https://biztoc.com/x/6b7d6de76b8aadcd?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-15T12:15:23+00:00",
-   "tickers": [
-    "FMC"
-   ]
-  },
-  {
-   "id": "eab0f35e0048",
-   "title": "Severe Drought Hits Parts of England for First Time Since 1995",
-   "link": "https://biztoc.com/x/500e8205bccb0409?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-15T12:15:22+00:00",
-   "tickers": []
-  },
-  {
-   "id": "a05f49c76291",
-   "title": "Cboe to expand options trading hours for major stocks and ETFs",
-   "link": "https://biztoc.com/x/66933dddd3fbe2a2?ref=rss",
-   "summary": "The options market is about to get even bigger on Monday when Cboe Global Markets extends trading hours for options on two-dozen stocks and a handful of ETFs. After first receiving approval by the SEC in May, regulators have now given the green light to the exchange and the Options Clearing Corp.…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-10-15T12:15:22+00:00",
-   "tickers": []
-  },
-  {
-   "id": "3a87a142438b",
-   "title": "Korea’s Stock Market Is in Free Fall, and Hot U.S. Inflation Just Made It Worse",
-   "link": "https://biztoc.com/x/23fb66dd5ad9c501?ref=rss",
-   "summary": "The post Korea’s Stock Market Is in Free Fall, and Hot U.S. Inflation Just Made It Worse appeared first on 24/7 Wall St.. The Korea Exchange suspended program trading shortly after the open on Thursday, October 15, 2026, when benchmark futures breached the exchange’s trigger. That pause is a…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "macro",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-10-15T12:15:19+00:00",
-   "tickers": []
-  },
-  {
-   "id": "8e23cfbcd2f5",
-   "title": "Here Are Thursday’s Top Wall Street Analyst Research Calls: AngloGold Ashanti, Bank of America, Cirrus Logic, Crocs, Diamondback Energy, Devon Energy, Netflix, PayPal, Spotify Technolgy , and More",
-   "link": "https://biztoc.com/x/6efac4039c1fda0f?ref=rss",
-   "summary": "The post Here Are Thursday’s Top Wall Street Analyst Research Calls: AngloGold Ashanti, Bank of America, Cirrus Logic, Crocs, Diamondback Energy, Devon Energy, Netflix, PayPal, Spotify Technolgy , and More appeared first on 24/7 Wall St.. Pre-Market Stock Futures: Futures are trading mixed, but…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-10-15T12:15:16+00:00",
-   "tickers": [
-    "FANG",
-    "AU",
-    "BAC",
-    "CRUS"
-   ]
-  },
-  {
-   "id": "10b065483eca",
-   "title": "Kimberly-Clark Forecasts Quarterly Sales Decline Following Social-Media Firestorm in China",
-   "link": "https://biztoc.com/x/014d0c619fccf188?ref=rss",
-   "summary": "Kimberly-Clark forecast a decline in third-quarter sales and backed its outlook for the year, following a social-media firestorm in China over the company’s diapers this past summer.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-15T12:15:16+00:00",
-   "tickers": [
-    "KMB"
-   ]
-  },
-  {
-   "id": "1ae0939db2c1",
-   "title": "Amazon Debuts Revamped Bee AI Wearables, $12-a-Month Subscription Plan",
-   "link": "https://biztoc.com/x/b1e7c0b0173333e5?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-15T12:15:14+00:00",
-   "tickers": [
-    "AMZN"
-   ]
-  },
-  {
-   "id": "8fc198c57ca2",
-   "title": "The PPI report is moments away. Follow reactions and analysis here",
-   "link": "https://biztoc.com/x/d48fa3d16badd49e?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-15T12:15:13+00:00",
-   "tickers": []
-  },
-  {
-   "id": "f0da66ec6cd0",
-   "title": "Ledger Unveils $899 Smartphone-Like Device After $90 Million Crypto Theft",
-   "link": "https://biztoc.com/x/cbfc266ec1e87d97?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-15T12:15:13+00:00",
-   "tickers": []
-  },
-  {
-   "id": "078041da75b8",
-   "title": "Trump Admin Offers Migrant Children $3,000 To Voluntarily Leave US",
-   "link": "https://biztoc.com/x/de37a4d864c23ced?ref=rss",
-   "summary": "Trump Admin Offers Migrant Children $3,000 To Voluntarily Leave US Authored by AG News Staff via American Greatness, The Trump administration is offering unaccompanied migrant children $3,000 to voluntarily return to their home countries, expanding an immigration enforcement initiative aimed at…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-15T12:15:12+00:00",
-   "tickers": [
-    "NWSA"
-   ]
-  },
-  {
-   "id": "840e8d082836",
-   "title": "Memory stocks are getting hammered. China and a 2029 oversupply are the big worries",
-   "link": "https://www.cnbc.com/2026/10/15/memory-stocks-micron-sk-hynix-samsung-china.html",
-   "summary": "SK Hynix, Samsung and Micron have been some of the hardest-hit names in the latest tech sell-off.",
-   "article_text": "Memory stocks get hit. China and oversupply are the big worries Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Key Points SK Hynix, Samsung and Micron have been some of the hardest-hit names in the recent tech sell-off. Investor concern over competition from China's CXMT and potential oversupply of memory chips has created headwinds for memory stocks. A column in a South Korean business newspaper suggested oversupply of memory in 2029 added to pressure on the market. In this article SKHY MU Follow your favorite stocks CREATE FREE ACCOUNT Korea KOSPI Index displayed on a smartphone with SK hynix and Samsung logo displayed. Cfoto | Future Publishing | Getty Images Memory chip stocks have taken a particularly bad beating this week amid broader equity market turmoil. Two concerns are adding to the pressure — the debate over whether Chinese competition is threatening memory incumbents and speculation about when the market could become oversupplied. Over the last five days, SK Hynix has plunged 26%, Samsung has tanked 22% and Micron has dropped around 11%. China worries The initial jitters came at the start of the week after China's leading memory chipmaker ChangXin Memory Technologies, or CXMT , announced plans to roll out a server memory product based on new architecture . CXMT's design would allow higher storage density, raising concerns that the breakthrough could result in the Chinese company taking global market share from rivals Samsung, SK Hynix and Micron. However, a number of analysts questioned whether CXMT would be able to scale the production of such an advanced technology. watch now VIDEO 6:59 06:59 Kospi on track for weakest close since April as global AI sell-off deepens Squawk Box Europe \"The issue, of course, was with any architectural change ... you can make the chips, but what yield are you getting? If you're only getting a 50% yield, you're literally putting half the chips in the bin because they don't work very well,\" Ben Barringer, global head of technology research at Quilter Cheviot, told CNBC's \"Squawk Box Europe\" on Wednesday. Kevin Cassidy, a senior research analyst at Rosenblatt Securities, also said the developments at CXMT are unlikely to add more supply of memory onto the market. \"We don't think this is going to swing the supply-demand equation at all,\" Cassidy told CNBC. Oversupply by 2029? Traders are also discussing comments from an opinion column in Maeil Business Newspaper , a prominent South Korean publication, in which a reporter urged the country's government to prepare for a slowdown in the AI boom and to identify and develop the next big growth engine. The writer said that two people — Professor Hwang of the Seoul National University and Ahn Ki-hyun, executive director of the Korea Semiconductor Industry Association — expect to see a \"flood of new supply\" that will turn the memory market \"into a red ocean\" in 2029, according to a CNBC translation. By 2030, \"the supercycle could be over and the industry could enter a downturn,\" the writer said. SpaceX and Tesla CEO Elon Musk responded to the article in a post on X , saying that China \"will be making a LOT of RAM in 2028.\" watch now VIDEO 5:07 05:07 Rosenblatt's Kevin Cassidy on CXMT's new memory design: Don't think it will swing supply-demand equation Squawk Box Random access memory (RAM) is produced by the likes of SK Hynix, Samsung and Micron as well as CXMT in China. An oversupply of RAM in 2029 would pose yet another headwind for memory stocks, with lower prices and a squeeze on profit margins. But a forecast that far out hasn't been echoed by other analysts. Typically, the biggest customers for memory chips have been consumer electronics companies, because memory is a key component of devices like smartphones and laptops. But with the AI boom picking up pace, memory has also become a key component of Nvidia chips and other parts of the data center supply chain. With demand increasing, supply has tightened, leading to unprecedented price rises. That has led to huge rallies in the share price of Samsung, SK Hynix and Micron, the three biggest memory makers. But a key question for investors is whether the industry’s typical boom-and-bust cycle is finally changing. Memory prices have traditionally surged when demand outstrips supply, only to fall as manufacturers ramp up production and the market becomes oversupplied. Investors are trying to work out if that cycle no longer exists or whether there has been a fundamental change. All of the major memory makers are currently in the process of expanding capacity, but it takes around three to five years for a factory to be built and come online. That has led many analysts to forecast that the shortage won't ease until 2028 — but that might not necessarily lead to huge price declines. Counterpoint Research sees the price of DRAM, another key type of memory, falling around 23% in 2028 compared with 2027. However, the DRAM price would still be up around 230% compared to 2025. \"The current memory market is considered to be in a 'New Normal' era, and the down cycle will differ from previous ones,\" Jeongku Choi, senior research analyst at Counterpoint Research, told CNBC. \"Suppliers and buyers enter into 3- to 5-year Long-Term Agreements (LTAs), involving substantial upfront payments and established upper and lower price limits to ensure consistency. Consequently, even if a down cycle occurs, it is not expected to show the same sharp decline seen in the past.\" — CNBC's Lisa Kim helped contribute to this report. Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-10-15T12:15:09+00:00",
-   "tickers": [
-    "MU"
-   ]
-  },
-  {
-   "id": "1d4059878622",
-   "title": "Ripple Opens $9 Billion Perp-Trading Boom to Wall Street Clients",
-   "link": "https://biztoc.com/x/658b703f30ddbc36?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-15T12:15:06+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d4a40254d0da",
-   "title": "US Stock Futures Today: CoreWeave, Dell, FMC, Intel, Micron, Penske",
-   "link": "https://biztoc.com/x/7b49ee8904527496?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-15T12:15:05+00:00",
-   "tickers": [
-    "CRWV",
-    "MU",
-    "INTC",
-    "DELL"
-   ]
-  },
-  {
-   "id": "91a6bf5881e4",
-   "title": "Skydance: Here Comes The Flood",
-   "link": "https://seekingalpha.com/article/4954372-skydance-here-comes-flood?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-15T12:15:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "bfb8ddb440ba",
-   "title": "THE REALREAL ANNOUNCES REFINANCING OF 2029 SENIOR SECURED NOTES WITH NEW $150 MILLION TERM LOAN AND $25 MILLION REVOLVING CREDIT FACILITY",
-   "link": "https://www.prnewswire.com/news-releases/the-realreal-announces-refinancing-of-2029-senior-secured-notes-with-new-150-million-term-loan-and-25-million-revolving-credit-facility-302910031.html",
-   "summary": "Refinancing Extends Secured Debt Maturity to 2033 and Reduces Interest Expense Outlines Medium-Term Target for Leverage SAN FRANCISCO, Oct. 15, 2026 /PRNewswire/ -- The RealReal, Inc. (Nasdaq: REAL) (the \"Company\"), the world's largest online marketplace for authenticated, resale luxury...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "press",
-   "sentiment": "positive",
-   "domain": "prnewswire.com",
-   "published": "2026-10-15T12:15:00+00:00",
-   "tickers": [
-    "NDAQ"
-   ]
-  },
-  {
-   "id": "1a61edbcdb89",
-   "title": "Altius Minerals: Great Company At A Bad Price",
-   "link": "https://seekingalpha.com/article/4954417-altius-minerals-great-company-at-a-bad-price?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-15T12:14:16+00:00",
-   "tickers": []
-  },
-  {
-   "id": "9cd9ed73aa9a",
-   "title": "IGEL nombra a Randy Resnick para impulsar estrategia de la plataforma IGEL Adaptive Secure Endpoint Platform™",
-   "link": "https://www.prnewswire.com/news-releases/igel-nombra-a-randy-resnick-para-impulsar-estrategia-de-la-plataforma-igel-adaptive-secure-endpoint-platform-302910034.html",
-   "summary": "-IGEL nombra a Randy Resnick, líder estadounidense en seguridad Zero Trust, para impulsar la estrategia de la plataforma IGEL Adaptive Secure Endpoint Platform™ Este exejecutivo de ciberseguridad del Departamento de Defensa y la NSA aporta casi cuatro décadas de experiencia en liderazgo...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "positive",
-   "domain": "prnewswire.com",
-   "published": "2026-10-15T12:14:00+00:00",
-   "tickers": [
-    "NSA"
-   ]
-  },
-  {
-   "id": "8a674953f26d",
-   "title": "Microsoft president warns green-card curbs could hurt US tech, Politico reports",
-   "link": "https://www.investing.com/news/stock-market-news/microsoft-president-warns-greencard-curbs-could-hurt-us-tech-politico-reports-4951538",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-10-15T12:12:46+00:00",
-   "tickers": [
-    "MSFT"
-   ]
-  },
-  {
-   "id": "1bf41579821b",
-   "title": "Tech Stocks Plunge as Doubts Over A.I. Spending Intensify",
-   "link": "https://www.nytimes.com/2026/10/15/business/chip-stocks-technology.html",
-   "summary": "Tech stocks plunged, led by a steep drop in South Korea’s benchmark index, as concerns over soaring A.I. spending and stubborn inflation fueled a sell-off.",
-   "article_text": "",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "negative",
-   "domain": "nytimes.com",
-   "published": "2026-10-15T12:12:46+00:00",
-   "tickers": []
-  },
-  {
-   "id": "4d86502ad810",
-   "title": "ManpowerGroup Names Becky Frankiewicz CEO, Shares Fall In Pre-Market",
-   "link": "https://www.nasdaq.com/articles/manpowergroup-names-becky-frankiewicz-ceo-shares-fall-pre-market",
-   "summary": "(RTTNews) - Staffing firm ManpowerGroup Inc. (MAN), announced on Thursday that its board has elected Becky Frankiewicz chief executive officer, effective January 1, 2027. Frankiewicz, who currently serves as president and chief strategy officer, will also join the board.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-10-15T12:12:45+00:00",
-   "tickers": []
-  },
-  {
-   "id": "1ba77cd349b8",
-   "title": "Frommer's Names Best Places to Go in 2027",
-   "link": "https://www.prnewswire.com/news-releases/frommers-names-best-places-to-go-in-2027-302909704.html",
-   "summary": "15 great destinations for 2027, as chosen by Frommer's travel pros NEW YORK, Oct. 15, 2026 /PRNewswire/ -- Frommer's, the award-winning publisher of travel news and guide books, turns 70 in 2027, and in the spirit of the brand's long tradition of sharing the spirit-restoring benefits of...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-15T12:12:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "f12472ada297",
-   "title": "BofA names its top pick for the year and its Q3 favourite among UK banks",
-   "link": "https://www.investing.com/news/stock-market-news/bofa-names-its-top-pick-for-the-year-and-its-q3-favourite-among-uk-banks-4951521",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-10-15T12:11:53+00:00",
-   "tickers": []
-  },
-  {
-   "id": "20ae6bd37cf8",
-   "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
-   "link": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
-   "summary": "Treasury yields above 5% are raising borrowing costs for households and the federal government, highlighting the challenge of financing $2 trillion deficits.",
-   "article_text": "",
-   "source": "CNBC Economy",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-10-15T12:11:15+00:00",
-   "tickers": []
-  },
-  {
-   "id": "0e2bbf3273da",
-   "title": "Futu's 2026 Outlook: Scalable Brokerage Model Delivers 62% Operating Margin",
-   "link": "https://www.nasdaq.com/articles/futus-2026-outlook-scalable-brokerage-model-delivers-62-operating-margin",
-   "summary": "Key PointsFutu maintains high margins through a scalable, proprietary digital brokerage platform.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "guidance",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-15T12:11:01+00:00",
-   "tickers": []
-  },
-  {
-   "id": "78e470eaab7c",
-   "title": "F&G Annuities & Life: Cheap For A Reason",
-   "link": "https://seekingalpha.com/article/4954414-f-and-g-annuities-and-life-cheap-for-a-reason?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-15T12:09:10+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8865,18 +8873,21 @@
   "CRDO": "Credo Technology Group Holding",
   "VIG": "Vanguard Div Appreciation ETF",
   "WST": "West Pharmaceutical Services",
+  "BK": "The Bank of New York Mellon",
   "CHH": "Choice Hotels International",
   "QQQ": "Invesco QQQ Trust, Series 1",
   "STX": "Seagate Technology Holdings",
   "AMC": "AMC Entertainment Holdings",
   "APD": "Air Products and Chemicals",
   "FBIN": "Fortune Brands Innovations",
+  "HPE": "Hewlett Packard Enterprise",
   "ARWR": "Arrowhead Pharmaceuticals",
   "ICE": "Intercontinental Exchange",
   "JEF": "Jefferies Financial Group",
   "REGN": "Regeneron Pharmaceuticals",
   "RXRX": "Recursion Pharmaceuticals",
   "APO": "Apollo Global Management",
+  "IWM": "iShares Russell 2000 ETF",
   "ROLR": "High Roller Technologies",
   "ARR": "ARMOUR Residential REIT",
   "HON": "Honeywell International",
@@ -8887,17 +8898,14 @@
   "VRTX": "Vertex Pharmaceuticals",
   "JAZZ": "Jazz Pharmaceuticals",
   "PG": "The Procter & Gamble",
+  "RVMD": "Revolution Medicines",
   "SMCI": "Super Micro Computer",
   "CAI": "Caris Life Sciences",
   "IP": "International Paper",
-  "FANG": "Diamondback Energy",
-  "IBN": "ICICI Bank Limited",
   "IDXX": "IDEXX Laboratories",
-  "MRVL": "Marvell Technology",
   "SCHW": "The Charles Schwab",
-  "SPOT": "Spotify Technology",
   "TKO": "TKO Group Holdings",
-  "AU": "AngloGold Ashanti",
+  "AMAT": "Applied Materials",
   "CL": "Colgate-Palmolive",
   "DELL": "Dell Technologies",
   "HOOD": "Robinhood Markets",
@@ -8909,20 +8917,20 @@
   "AR": "Antero Resources",
   "COST": "Costco Wholesale",
   "LNC": "Lincoln National",
+  "VRSK": "Verisk Analytics",
   "WM": "Waste Management",
+  "GE": "General Electric",
+  "APLD": "Applied Digital",
   "ASTS": "AST SpaceMobile",
   "AXON": "Axon Enterprise",
-  "BAC": "Bank of America",
-  "BSY": "Bentley Systems",
   "DAL": "Delta Air Lines",
   "GPN": "Global Payments",
   "LNG": "Cheniere Energy",
   "MRCY": "Mercury Systems",
+  "PYPL": "PayPal Holdings",
   "WDC": "Western Digital",
   "ALLY": "Ally Financial",
   "CCK": "Crown Holdings",
-  "GM": "General Motors",
-  "KMB": "Kimberly-Clark",
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
   "VG": "Venture Global",
@@ -8934,7 +8942,8 @@
   "ASML": "ASML Holding",
   "ATO": "Atmos Energy",
   "BKR": "Baker Hughes",
-  "CRUS": "Cirrus Logic",
+  "IREN": "IREN Limited",
+  "RBC": "RBC Bearings",
   "SARO": "StandardAero",
   "SPY": "SPDR S&P 500",
   "UBS": "UBS Group AG",
@@ -8946,9 +8955,8 @@
   "ROST": "Ross Stores",
   "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
-  "AZN": "AstraZeneca",
   "BA": "The Boeing",
-  "F": "Ford Motor",
+  "BX": "Blackstone",
   "GEV": "GE Vernova",
   "MA": "Mastercard",
   "RKLB": "Rocket Lab",
@@ -8957,6 +8965,7 @@
   "BC": "Brunswick",
   "BLK": "BlackRock",
   "CRWV": "CoreWeave",
+  "OS": "OneStream",
   "PKG": "Packaging",
   "NWSA": "News Corp",
   "BCS": "Barclays",
