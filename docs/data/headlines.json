@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-16T23:46:08.362586+00:00",
+ "generated": "2026-10-16T23:53:17.804749+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -276,6 +276,39 @@
    "tickers": []
   },
   {
+   "id": "1552c7971742",
+   "title": "Prediction: Alphabet Will Be a Larger Company Than Apple by the End of 2027",
+   "link": "https://www.nasdaq.com/articles/prediction-alphabet-will-be-larger-company-apple-end-2027",
+   "summary": "Key PointsApple has become a safe-haven stock for those who want tech sector options with less exposure to AI.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-16T23:29:00+00:00",
+   "tickers": [
+    "GOOG",
+    "AAPL"
+   ]
+  },
+  {
+   "id": "9f40990466aa",
+   "title": "Interactive Brokers (IBKR) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/interactive-brokers-ibkr-q3-2026-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-16T23:27:49+00:00",
+   "tickers": [
+    "IBKR"
+   ]
+  },
+  {
    "id": "3e0531f55b4d",
    "title": "Stock Indexes Finish Sharply Lower as Tech Stocks Plunge",
    "link": "https://www.nasdaq.com/articles/stock-indexes-finish-sharply-lower-tech-stocks-plunge",
@@ -350,6 +383,22 @@
    "published": "2026-10-16T23:22:21+00:00",
    "tickers": [
     "NFLX"
+   ]
+  },
+  {
+   "id": "03ed5ea0e32f",
+   "title": "Fastenal: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/fastenal-3-key-takeaways-long-term-investors",
+   "summary": "Key PointsContract customers generated over 76% of Fastenal total sales.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-16T23:20:08+00:00",
+   "tickers": [
+    "FAST"
    ]
   },
   {
@@ -8834,50 +8883,6 @@
    "domain": "prnewswire.com",
    "published": "2026-10-16T20:13:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "6780916a2bfc",
-   "title": "Nanox reports preliminary Q3 revenue up to $4.4 million",
-   "link": "https://www.investing.com/news/company-news/nanox-reports-preliminary-q3-revenue-up-to-44-million-93CH-4954794",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-10-16T20:12:34+00:00",
-   "tickers": []
-  },
-  {
-   "id": "dd22be7bd5a3",
-   "title": "8-K - FIRST FINANCIAL BANKSHARES INC (0000036029) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/36029/000119312526424085/0001193125-26-424085-index.htm",
-   "summary": "Filed: 2026-10-16 AccNo: 0001193125-26-424085 Size: 2 MB Item 2.02: Results of Operations and Financial Condition Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-10-16T20:12:31+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ba6ce53716f0",
-   "title": "Viatris receives FDA approval for presbyopia treatment",
-   "link": "https://www.investing.com/news/company-news/viatris-receives-fda-approval-for-presbyopia-treatment-93CH-4954793",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "fda",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-10-16T20:12:30+00:00",
-   "tickers": [
-    "VTRS"
-   ]
   }
  ],
  "ticker_names": {
@@ -8898,6 +8903,7 @@
   "AMC": "AMC Entertainment Holdings",
   "FBIN": "Fortune Brands Innovations",
   "ARWR": "Arrowhead Pharmaceuticals",
+  "IBKR": "Interactive Brokers Group",
   "ICE": "Intercontinental Exchange",
   "JEF": "Jefferies Financial Group",
   "LYB": "LyondellBasell Industries",
@@ -8978,6 +8984,7 @@
   "NWSA": "News Corp",
   "CE": "Celanese",
   "DOCS": "Doximity",
+  "FAST": "Fastenal",
   "GOOG": "Alphabet",
   "MTB": "M&T Bank",
   "RAL": "Ralliant",
@@ -8992,7 +8999,6 @@
   "MRNA": "Moderna",
   "PEP": "PepsiCo",
   "SCI": "Service",
-  "VTRS": "Viatris",
   "NFLX": "Netflix",
   "ABBV": "AbbVie",
   "BIIB": "Biogen",
