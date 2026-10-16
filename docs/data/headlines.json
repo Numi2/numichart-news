@@ -1,8 +1,605 @@
 {
- "generated": "2026-10-16T19:07:52.828377+00:00",
+ "generated": "2026-10-16T19:20:49.102697+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "23f6337bb553",
+   "title": "Ravens RB Derrick Henry on Verge of NFL History Ahead of Browns Matchup",
+   "link": "https://biztoc.com/x/9cfee9826c4740de?ref=rss",
+   "summary": "Derrick Henry is one of the greatest running backs in NFL history. And in Sunday's Week 6 matchup against the Cleveland Browns, the 32-year-old ball carrier could further that reputation with yet another historic accomplishment. Henry has seven touchdowns on the season thus far, bringing his…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-16T19:18:39+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c9c26cd1bce6",
+   "title": "Patrick Mahomes Could Join Tom Brady in NFL Record Books With Week 6 Win",
+   "link": "https://biztoc.com/x/28808f35afc03208?ref=rss",
+   "summary": "Kansas City Chiefs quarterback Patrick Mahomes has a 99-31 regular-season record as a starting quarterback, setting him up to secure his 100th career win against the Los Angeles Chargers in Week 6. A victory over the division-rival Chargers would see Mahomes join Tom Brady as the quickest players…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-10-16T19:18:36+00:00",
+   "tickers": []
+  },
+  {
+   "id": "9a950368b3f5",
+   "title": "Falcons Reveal Michael Penix Jr's Injury Status Days Ahead of Bears Game",
+   "link": "https://biztoc.com/x/dac80534e3ab4e32?ref=rss",
+   "summary": "The Atlanta Falcons received good news on Michael Penix Jr. before Week 6. Penix fully participated in Friday's practice and has no game designation on Atlanta's injury report. Barring a setback, the quarterback should start Sunday's game against the Chicago Bears. Penix suffered a rib injury…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-16T19:18:22+00:00",
+   "tickers": []
+  },
+  {
+   "id": "23bda2992af6",
+   "title": "NBA Insider Shares Brutal Truth Behind Hornets' LaMelo Ball Trade",
+   "link": "https://biztoc.com/x/354a24d7d3fddb38?ref=rss",
+   "summary": "The Minnesota Timberwolves took a big swing this offseason, acquiring former All-Star guard LaMelo Ball from the Charlotte Hornets in a move designed to give Anthony Edwards one of the NBA's most dangerous backcourt partners. Minnesota also acquired wing Josh Green, sending Naz Reid and a package…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-16T19:18:19+00:00",
+   "tickers": [
+    "BALL"
+   ]
+  },
+  {
+   "id": "f79e48f64f6d",
+   "title": "Elon Musk shows off ‘flying’ Tesla Roadster after years of delays",
+   "link": "https://biztoc.com/x/0f4272c3503dd73d?ref=rss",
+   "summary": "Elon Musk showed off a new vehicle prototype Thursday that can briefly launch itself into the air using rocket-inspired thrusters. The Tesla Roadster made its debut eight years after it was first announced. The company has yet to announce a price or release date, though the Tesla and SpaceX CEO…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-16T19:18:12+00:00",
+   "tickers": [
+    "TSLA",
+    "SPCX"
+   ]
+  },
+  {
+   "id": "a6e9e559c39b",
+   "title": "Patriots HC Mike Vrabel Reveals How AJ Brown Has Looked After Ankle Injury",
+   "link": "https://biztoc.com/x/2f9f18d00884028c?ref=rss",
+   "summary": "The New England Patriots designated wide receiver AJ Brown eligible to return from the injured reserve list this week, allowing him to participate in limited practices on Wednesday and Thursday. He suffered a high ankle sprain in Week 1. However, the Patriots haven't officially determined if Brown…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-16T19:18:03+00:00",
+   "tickers": []
+  },
+  {
+   "id": "fb03ab7d4095",
+   "title": "Cowboys Coach Responds to Mike Tomlin's Comments on Players-Only Meeting",
+   "link": "https://biztoc.com/x/412b54d0ef93df6a?ref=rss",
+   "summary": "After last Thursday night's horrific loss to the Tampa Bay Buccaneers, the Dallas Cowboys defense held a players-only meeting. This fact alone has caused an uproar amongst the NFL community as fans think coach Brian Schottenheimer's job could be in danger. Former Pittsburgh Steelers coach Mike…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-16T19:17:53+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ab78b139856a",
+   "title": "Jared Verse Delivers High Praise for Lamar Jackson Before Browns-Ravens Clash",
+   "link": "https://biztoc.com/x/8093078d6ecbcd51?ref=rss",
+   "summary": "Cleveland Browns pass rusher Jared Verse has a great deal of respect for Baltimore Ravens quarterback Lamar Jackson. When speaking to reporters on Friday, Verse didn't hold back on his praise for the two-time NFL MVP. \"He's the standard of what running quarterbacks are nowadays. How fast they are,…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-16T19:17:47+00:00",
+   "tickers": []
+  },
+  {
+   "id": "825108e83033",
+   "title": "Anthropic assigned highest junk credit rating in June",
+   "link": "https://biztoc.com/x/3777d8503988b389?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-16T19:17:44+00:00",
+   "tickers": []
+  },
+  {
+   "id": "6ba02846ab60",
+   "title": "Oil prices jump sharply, to nearly $110 per barrel",
+   "link": "https://biztoc.com/x/dfb6635290337792?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-10-16T19:17:43+00:00",
+   "tickers": []
+  },
+  {
+   "id": "9c14ebd6cabd",
+   "title": "Softbank falls amid report it's evaluating bid for US security firm Allied",
+   "link": "https://seekingalpha.com/news/4653964-softbank-falls-amid-report-its-evaluating-bid-for-us-security-firm-allied?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-16T19:17:21+00:00",
+   "tickers": []
+  },
+  {
+   "id": "4135f038e413",
+   "title": "Nasdaq tumbles 2%, heads for worst week since April 2025 as investors rotate out of AI trade and oil rises: Live updates",
+   "link": "https://www.cnbc.com/2026/10/15/stock-market-today-live-updates.html",
+   "summary": "The three major averages are coming off of a winning session on Thursday.",
+   "article_text": "Stock market today: Live updates Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Traders work on the floor of the New York Stock Exchange during morning trading on Oct. 14, 2026 in New York City. Michael M. Santiago | Getty Images Stocks slid on Friday as traders headed for a mostly losing week amid a shift away from tech and artificial intelligence-related names as well as a rise in oil prices. The S&P 500 traded down 1.3%, while the Nasdaq Composite shed 2.4%. The Dow Jones Industrial Average outperformed as it fell 275 points, or 0.5%. Chipmakers were lower again. The VanEck Semiconductor ETF (SMH) lost 1%, led by declines in Micron Technology , Advanced Micro Devices and Sandisk . Semiconductors have struggled this week amid jitters about competition from China . The SMH is down 8% week to date, on pace for its biggest weekly decline since July. Those declines, coupled with drops in other stocks linked to AI, put the S&P 500 on pace for a losing week. The benchmark index is down more than 2% this week, while the Nasdaq has shed nearly 5%. The tech-heavy index was on track for its worst week since April 2025 . The Dow, on the other hand, has moved higher by less than 1% on the week. Investors have also grown concerned that tech companies are borrowing too much for the AI buildout . Shares of neoclouds like CoreWeave , which has seen its total debt rise to more than $51 billion , were down 10%, putting the stock's week-to-date losses at more than 23%. \"The question is: Is this a systemic issue?\" said Michael Rosen, Angeles' chief investment officer. \"Obviously, increased debt issuance is something to observe and continue to watch and be concerned about if it continues to get to levels of excessiveness. But we're not remotely close to that right now.\" Other areas of the market such as energy saw gains Friday, with stocks like Chevron helping to keep the Dow's losses in check. That's as oil prices moved higher amid rising tensions between the U.S. and Iran as well as between Russian and Ukraine. West Texas Intermediate crude futures increased 3.51% to settle at $101.41 per barrel, while Brent crude futures advanced 3.72% to $109.86. Simultaneously, investors have been grappling with hotter-than-expected inflation data, which has been exacerbated by elevated energy prices in the wake of the U.S.-Iran war. Wholesale inflation this week saw its biggest gain since 2022 , while consumer inflation remained well above the Federal Reserve's target of 2%. Fed Chairman Kevin Warsh spoke at an IMF event in Bangkok overnight. And while he didn't comment on whether the Fed would raise rates before year-end, traders took that as a sign that the central bank will hold policy steady later this month. The CME Group's FedWatch tool points to an 85% chance the Fed keeps its overnight rate unchanged at its Oct. 27-28 meeting. Moments Ago Volatility index rises to highest level since June As the market sell-off intensified Friday afternoon, the Cboe Volatility Index (VIX) rose to levels it last closed at four months ago. The VIX rose to 21.32, as of 3:10 p.m., rising more than 4.8 points on the session. It's on pace for its highest close since June 10, when it closed at 22.22. Typically, when the VIX is above 20 that indicates greater fear in the market. The index last closed above that level on July 29 , when markets fell after the Federal Reserve kept interest rates steady at its meeting that month. The next day , stocks rose, and the day marked a bottom in a market where many AI-related stocks had been selling off in the previous month . Cboe Volatility Index 6-month. — Davis Giangiulio 9 Min Ago Nasdaq heads for worst week since April 2025 The Nasdaq Composite was down about 2.5% in afternoon trading on Friday, bringing its loss on the week to almost 5%. With that move, the tech-heavy index on pace for its worst weekly performance since the week ended April 4, 2025, when the index recorded a roughly 10% drop. Nasdaq Composite, 5-day — Sean Conlon 55 Min Ago Communication services, information technology lead S&P 500 lower Communication services and information technology led the S&P 500 lower on Friday. The two sectors were down 2.7% and 2.4%, respectively, becoming the two biggest laggards among the 11 S&P 500 sectors. Consumer discretionary followed behind them, falling 1.5%. However, a look beneath the surface showed that the S&P 500 — which was last down 1.3% — was more evenly split despite the losses at the index level. There were about 280 losers in the index and 222 gainers. In total, five out of the 11 S&P 500 sectors were in positive territory, led by energy with its 2.1% gain and utilities with its rise of 1.2%. — Sean Conlon and Sarah Min 2 Hours Ago U.S. crude oil surpasses $100 In an aerial view, oil storage tanks are seen at the rail-fed diesel base, Exxon/Mobil Wink Transloading facility on Aug. 13, 2026 in Wink, Texas. Brandon Bell | Getty Images U.S. crude oil prices rose sharply Friday as Iran escalated its attacks in the Strait of Hormuz this week and Ukraine vowed to keep striking Russian refineries. U.S. West Texas Intermediate futures were up 2.9% to $100.78 per barrel. Brent crude, the international benchmark, was 3.3% higher at $109.37 per barrel. Read more . WTI, 1-day — Spencer Kimball 2 Hours Ago Moog, Fox Factory among the stocks making big moves midday Federal-Mogul Holdings Corp. Moog brand steering and suspension parts sit on a shelf in an auto parts store in Princeton, Illinois, U.S. Daniel Acker | Bloomberg | Getty Images Here are the stocks making moves in midday trading: Independent Bank — Shares of the Michigan-based bank holding company jumped almost 5% after third-quarter earnings surpassed estimates. Independent Bank earned $1.90 per share, topping the FactSet consensus call for $1.85 per share. Net interest income of $220.7 million also beat the $218.5 million estimate. The bank sees home equity loans growing by a high single-digit annualized percentage in the fourth quarter. Moog — The manufacturer of precision motor control systems rose more than 4%. Morgan Stanley upgraded shares to overweight from equal weight. The firm also lifted its price target to $448 from $405, suggesting about 23% upside from Thursday's close. Shares have been on a tear in 2026, up more than 55%. Fox Factory — The vehicle suspension maker tumbled 9% after CEO Mike Dennison stepped down from his role. Fox's board appointed Douglas Grimm as interim chief executive. The company also trimmed its full-year revenue outlook. Read the full list here . — Deena Zaidi 4 Hours Ago Where investors are looking next after the pullback in semiconductors Early in the \"SaaSpocalypse\" that roiled software companies this year, Manish Gupta, a portfolio manager at First Eagle Investments, added to Workday as he parsed through the wreckage for some bargains. In recent months, that bet has paid off for the value investor. After falling about 40% in the first quarter of 2026, during which the enterprise software stock at various points was trading at not even three times revenue, the stock went on to surge more than 55% in the third. It's also outperforming this week, rising more than 2% amid a broader tech sell-off as investors exit for safer assets. Gupta, who attended the company's analyst day this week, remains confident in Workday, which he said is trading at a discount to similar businesses in the private markets. Workday is a top 10 holding in the First Eagle Global Fund (SGENX) , which he co-manages and which had nearly $75 billion in total net assets as of Sept. 30. \"The price has moved up, but the business has also become better,\" Gupta said. \"The 'SaaSpocalypse' has also turned around, but the stock's still attractive.\" CNBC Pro subscribers can read more here . — Sarah Min 4 Hours Ago Why Bank of America is in ‘risk-off’ mode for the next month People walk by a Bank of America office in New",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-10-16T19:16:52+00:00",
+   "tickers": [
+    "NDAQ"
+   ]
+  },
+  {
+   "id": "7a391245c2d7",
+   "title": "US appeals court blocks class actions over Tesla's self-driving claims",
+   "link": "https://biztoc.com/x/56ed3a4f8f88785b?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-16T19:16:39+00:00",
+   "tickers": [
+    "TSLA"
+   ]
+  },
+  {
+   "id": "7f73e5194c9b",
+   "title": "8-K - Goldman Sachs Private Credit Corp. (0001920145) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/1920145/000119312526423960/0001193125-26-423960-index.htm",
+   "summary": "Filed: 2026-10-16 AccNo: 0001193125-26-423960 Size: 158 KB Item 3.02: Unregistered Sales of Equity Securities Item 7.01: Regulation FD Disclosure Item 8.01: Other Events",
+   "article_text": "",
+   "source": "SEC 8-K Filings",
+   "category": "filings",
+   "type": "8k",
+   "sentiment": "neutral",
+   "domain": "sec.gov",
+   "published": "2026-10-16T19:16:36+00:00",
+   "tickers": [
+    "GS"
+   ]
+  },
+  {
+   "id": "b71fa7da62a1",
+   "title": "Tiny air pockets stall Rocket Lab’s answer to SpaceX",
+   "link": "https://biztoc.com/x/0747ea3f5aaf8239?ref=rss",
+   "summary": "Many Rocket Lab investors weren’t paying for the small rockets it flies today. They were paying for Neutron, a bigger reusable rocket that hasn’t flown yet. That rocket just slipped again, for a reason almost too small to see. Rocket Lab Corporation (RKLB) said on Wednesday, Oct. 14, 2026, that…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-16T19:16:22+00:00",
+   "tickers": [
+    "RKLB",
+    "SPCX"
+   ]
+  },
+  {
+   "id": "052bc77849dc",
+   "title": "Michael Steele says Americans ‘turned the hand’ of Trump on execution livestream",
+   "link": "https://biztoc.com/x/a4998a1e68eecb65?ref=rss",
+   "summary": "MS NOW’s Michael Steele said the American people “turned the hand” of Donald Trump after the president announced the government would not livestream the execution of the Fort Hood shooter. “I think we need to sometimes put a check on ourselves, and in this instance, we did,” he said. Last week,…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-16T19:16:17+00:00",
+   "tickers": [
+    "MS"
+   ]
+  },
+  {
+   "id": "c49d723e37dc",
+   "title": "ICE agent placed on leave after striking immigrant in Houston, DHS confirms",
+   "link": "https://biztoc.com/x/437961f43dbfdb01?ref=rss",
+   "summary": "An Immigration and Customs Enforcement agent has been placed on leave after striking a man with his vehicle in Houston on Saturday, a Department of Homeland Security spokesperson confirmed to MS NOW. The unnamed agent struck 48-year-old Miguel Parra, an undocumented immigrant, shortly after 7 a.m.…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-16T19:16:13+00:00",
+   "tickers": [
+    "ICE",
+    "MS"
+   ]
+  },
+  {
+   "id": "6b7419df5aff",
+   "title": "Trump Media Declines 6% as Broad Selloff Weighs on High-Beta Stocks; Rumble Drops 8%",
+   "link": "https://biztoc.com/x/e546267060a7b444?ref=rss",
+   "summary": "The post Trump Media Declines 6% as Broad Selloff Weighs on High-Beta Stocks; Rumble Drops 8% appeared first on 24/7 Wall St.. Smaller, more volatile stocks are taking oversized losses, and two social media names are near the front of that group. Trump Media & Technology Group (NASDAQ:DJT) stock…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-10-16T19:16:01+00:00",
+   "tickers": [
+    "DJT"
+   ]
+  },
+  {
+   "id": "56d05141978d",
+   "title": "Adding the Right Amount of Mischief Can Make Anything Go Viral—Here’s How",
+   "link": "https://biztoc.com/x/8ac596863d041e48?ref=rss",
+   "summary": "From holy water sneakers to a wealth-ranking ATM. Inside the playbook of MSCHF co-founder Gabe Whaley and how brands can run the same play.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-16T19:16:01+00:00",
+   "tickers": []
+  },
+  {
+   "id": "097ee0d52169",
+   "title": "Kreate Named The Home Depot Partner of the Year for Third Consecutive Year",
+   "link": "https://www.prnewswire.com/news-releases/kreate-named-the-home-depot-partner-of-the-year-for-third-consecutive-year-302911587.html",
+   "summary": "Recognition follows $100 million Tiffin expansion, resin manufacturing integration and continued investment in people, autonomous manufacturing, AI vision technology and innovative products SARASOTA, Fla., Oct. 16, 2026 /PRNewswire/ -- Kreate, a product development and manufacturing...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-10-16T19:16:00+00:00",
+   "tickers": [
+    "HD"
+   ]
+  },
+  {
+   "id": "fe5f5d4bba05",
+   "title": "TRADESFUTURES HOSTS THE LARGEST GATHERING OF TRADESWOMEN IN THE WORLD",
+   "link": "https://www.prnewswire.com/news-releases/tradesfutures-hosts-the-largest-gathering-of-tradeswomen-in-the-world-302911588.html",
+   "summary": "Over 6,000 participants from North America gathered in Houston to celebrate progress and advancing opportunities for women in the building trades. WASHINGTON, Oct. 16, 2026 /PRNewswire/ -- Thousands of tradeswomen, industry representatives, labor leaders, and allied organizations from...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-10-16T19:16:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "50cc455ae5c4",
+   "title": "He Sold the Duplex to His Daughter for $540,000 and Took It Back in Fifteen Years of Monthly Checks. The Rent Pays the Note, and Most of Each Year’s Slice of Gain Has Landed in His 0% Bracket Since 2019",
+   "link": "https://biztoc.com/x/2d4cb46dacb3b63a?ref=rss",
+   "summary": "The post He Sold the Duplex to His Daughter for $540,000 and Took It Back in Fifteen Years of Monthly Checks. The Rent Pays the Note, and Most of Each Year’s Slice of Gain Has Landed in His 0% Bracket Since 2019 appeared first on 24/7 Wall St.. Owners of a rental property that has gained…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-10-16T19:15:56+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b6e8a46bba6a",
+   "title": "US budget deficit widens to $1.99 trillion for fiscal 2026",
+   "link": "https://biztoc.com/x/c3dd3d95f4c0c880?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-16T19:15:53+00:00",
+   "tickers": []
+  },
+  {
+   "id": "14a2e984c45d",
+   "title": "EU agrees to fund Ukraine – but not itself",
+   "link": "https://biztoc.com/x/0e853c23f4c54470?ref=rss",
+   "summary": "EU leaders put on a united front for Zelenskyy, but budget divisions persist",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-16T19:15:50+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ae019835f002",
+   "title": "Millions Watched Zuckerberg Sip A Guinness. Nobody Heard What He Said Next",
+   "link": "https://biztoc.com/x/c9d00713ce7e9e7d?ref=rss",
+   "summary": "Millions Watched Zuckerberg Sip A Guinness. Nobody Heard What He Said Next. Authored by Patrick Feeley via Substack, The Sip On the October 12 episode of John Collison's Cheeky Pint, Mark Zuckerberg picked up a full pint of Guinness, took what looked like a mouthful of foam and held it there…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-16T19:15:47+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c8180068aad1",
+   "title": "‘Should Have Acted Sooner’: Kamala Harris Takes Aim At Biden Over Israel In Potential 2028 Preview",
+   "link": "https://biztoc.com/x/1458c02adf777c65?ref=rss",
+   "summary": "By FRED LUCAS, The Daily Signal | October 15, 2026 Former Vice President Kamala Harris said the Biden administration “should have acted sooner and more forcefully” to pressure Israel to scale back its military action during the conflict in Gaza. The 2024 Democratic presidential nominee discussed…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-16T19:15:47+00:00",
+   "tickers": []
+  },
+  {
+   "id": "04cf3238efe0",
+   "title": "Man who stopped the Oregon elementary school shooter has 2 daughters at the school, his mom says",
+   "link": "https://biztoc.com/x/af4b3a96b0c6129e?ref=rss",
+   "summary": "Kenda Freeman said her son, Kaylub Giamanco, intervened in Thursday's attack at Silver Rail Elementary School in Bend and shot the teenage shooter.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-16T19:15:40+00:00",
+   "tickers": []
+  },
+  {
+   "id": "50186254b17a",
+   "title": "Nvidia's communications team has undergone a shake-up as its public profile exploded",
+   "link": "https://biztoc.com/x/a4f2eca55428eed5?ref=rss",
+   "summary": "Jensen Huang, CEO of Nvidia. Bloomberg/Getty Images Nvidia's communications operation has been reshaped as the company became the face of the AI boom. Roughly 15 staffers have left the lean team since 2025 as Nvidia reorganized its communications org. Former employees described growing workloads…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-16T19:15:35+00:00",
+   "tickers": []
+  },
+  {
+   "id": "988d3ed98adf",
+   "title": "Wisconsin Democrat's 'Number One Priority' As Secretary Of State: Driver's Licenses For Illegal Immigrants",
+   "link": "https://biztoc.com/x/cd244ec78460b9f2?ref=rss",
+   "summary": "Wisconsin Democrat's 'Number One Priority' As Secretary Of State: Driver's Licenses For Illegal Immigrants JoCasta Zamarripa, the Democratic nominee for Wisconsin secretary of state, told WMTV that her top priority if elected is getting driver's licenses for people in the country illegally - and…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-16T19:15:33+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ac58dffbc681",
+   "title": "Anthropic says Claude solved 25-year cryptography mystery in 30 minutes",
+   "link": "https://biztoc.com/x/1a7096ad80810fa7?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-16T19:15:29+00:00",
+   "tickers": []
+  },
+  {
+   "id": "92a5d143542e",
+   "title": "FRDM Over EEM Amidst The Chip Crash",
+   "link": "https://seekingalpha.com/article/4954875-frdm-over-eem-amidst-the-chip-crash?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-16T19:10:39+00:00",
+   "tickers": [
+    "EEM"
+   ]
+  },
+  {
+   "id": "4b570a387978",
+   "title": "8-K - Lion Copper Corp. (0001339688) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/1339688/000106299326005378/0001062993-26-005378-index.htm",
+   "summary": "Filed: 2026-10-16 AccNo: 0001062993-26-005378 Size: 236 KB Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
+   "article_text": "",
+   "source": "SEC 8-K Filings",
+   "category": "filings",
+   "type": "8k",
+   "sentiment": "neutral",
+   "domain": "sec.gov",
+   "published": "2026-10-16T19:10:26+00:00",
+   "tickers": []
+  },
+  {
+   "id": "879b65acefbb",
+   "title": "Le groupe CSL acquiert SIMPL Wireless pour proposer son offre « Critical Connectivity® » en Amérique du Nord",
+   "link": "https://www.prnewswire.com/news-releases/le-groupe-csl-acquiert-simpl-wireless-pour-proposer-son-offre--critical-connectivity--en-amerique-du-nord-302911581.html",
+   "summary": "Intégration d'une eSIM multi-opérateurs, d'une plateforme unifiée de gestion de la connectivité et de partenariats avec des opérateurs américains de premier plan à la plateforme mondiale de connectivité IoT de CSL LONDRES et DULUTH, Géorgie, 16 octobre 2026 /PRNewswire/ -- CSL Group,...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-10-16T19:10:00+00:00",
+   "tickers": [
+    "CSL"
+   ]
+  },
+  {
+   "id": "5b753fc8e512",
+   "title": "Data Center Fire Detection and Suppression Market to Reach USD 10.35 Billion by 2035 as Battery and AI Risks Drive Protection Upgrades - DC Market Insights",
+   "link": "https://www.prnewswire.com/news-releases/data-center-fire-detection-and-suppression-market-to-reach-usd-10-35-billion-by-2035-as-battery-and-ai-risks-drive-protection-upgrades---dc-market-insights-302911580.html",
+   "summary": "Market expands at 8.75% CAGR; water mist and hybrid systems gain share while inspection, testing and maintenance reaches a larger recurring revenue pool LONDON, Oct. 16, 2026 /PRNewswire/ -- The \"Data Center Fire Detection and Suppression Market - Growth, Share, Opportunities &...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "prnewswire.com",
+   "published": "2026-10-16T19:09:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "1b5403a962a6",
+   "title": "8-K - Invesco Commercial Real Estate Finance Trust, Inc. (0001976927) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/1976927/000197692726000078/0001976927-26-000078-index.htm",
+   "summary": "Filed: 2026-10-16 AccNo: 0001976927-26-000078 Size: 178 KB Item 8.01: Other Events",
+   "article_text": "",
+   "source": "SEC 8-K Filings",
+   "category": "filings",
+   "type": "8k",
+   "sentiment": "neutral",
+   "domain": "sec.gov",
+   "published": "2026-10-16T19:08:25+00:00",
+   "tickers": [
+    "IVZ"
+   ]
+  },
+  {
+   "id": "057b5ede93cf",
+   "title": "WaFd outlines EverBank deal economics with 29% EPS accretion target and first calendar quarter 2027 close timeline",
+   "link": "https://seekingalpha.com/news/4653965-wafd-outlines-everbank-deal-economics-with-29-percent-eps-accretion-target-and-first-calendar?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-16T19:08:08+00:00",
+   "tickers": []
+  },
+  {
+   "id": "5b65fcab97c0",
+   "title": "What happens after bankruptcy? A debt attorney explains what comes next",
+   "link": "https://www.cnbc.com/select/how-to-rebuild-your-credit-after-bankruptcy/",
+   "summary": "Learn what happens after bankruptcy, how it affects your credit, plus steps to rebuild with guidance from a debt attorney.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "cnbc.com",
+   "published": "2026-10-16T19:06:24+00:00",
+   "tickers": []
+  },
+  {
+   "id": "8b4ee122a51d",
+   "title": "JPMorgan Chase: Leverage A Concern To Future Earnings (Downgrade To Hold)",
+   "link": "https://seekingalpha.com/article/4954874-jpmorgan-chase-leverage-a-concern-to-future-earnings-downgrade-to-hold?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-16T19:05:36+00:00",
+   "tickers": [
+    "JPM",
+    "JIRE"
+   ]
+  },
+  {
+   "id": "eeee392f097d",
+   "title": "AES wins European Union approval for sale to GIM and EQT Fund Management",
+   "link": "https://seekingalpha.com/news/4653961-aes-wins-european-union-approval-for-sale-to-gim-and-eqt-fund-management?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "fda",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-16T19:05:28+00:00",
+   "tickers": [
+    "AES",
+    "EQT"
+   ]
+  },
+  {
+   "id": "6c3e151dc0ed",
+   "title": "ExxonMobil’s Refining Profits Are Set to Jump $4.5 Billion. Here’s What XOM Investors Need to Know.",
+   "link": "https://www.nasdaq.com/articles/exxonmobils-refining-profits-are-set-jump-45-billion-heres-what-xom-investors-need-know",
+   "summary": "Key PointsExxonMobil got a big boost from strong refining margins in the third quarter.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-10-16T19:05:01+00:00",
+   "tickers": [
+    "XOM"
+   ]
+  },
   {
    "id": "c7f65242c501",
    "title": "Independent Bank Corp. (INDB) Q3 2026 Earnings Call Transcript",
@@ -64,6 +661,20 @@
    ]
   },
   {
+   "id": "3ccf35fdd4ff",
+   "title": "Sports Doctor Fears Eagles QB Jalen Hurts’ Season Could Be Over",
+   "link": "https://biztoc.com/x/301682698f3e7bb2?ref=rss",
+   "summary": "The Philadelphia Eagles were dealt a brutal and unexpected blow on Thursday when they announced that quarterback Jalen Hurts would miss Sunday’s Week 6 matchup against the Carolina Panthers due to a blood clot. An ultrasound was first performed on Hurts the day before Philadelphia’s game against…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-16T19:03:43+00:00",
+   "tickers": []
+  },
+  {
    "id": "9fa29ddff172",
    "title": "TIPS Are Safer Than They Seem",
    "link": "https://seekingalpha.com/article/4954871-tips-safer-than-they-seem?source=feed_all_articles",
@@ -76,22 +687,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-10-16T19:03:18+00:00",
    "tickers": []
-  },
-  {
-   "id": "4135f038e413",
-   "title": "Nasdaq tumbles 2%, heads for worst week since April 2025 as investors rotate out of AI trade and oil rises: Live updates",
-   "link": "https://www.cnbc.com/2026/10/15/stock-market-today-live-updates.html",
-   "summary": "The three major averages are coming off of a winning session on Thursday.",
-   "article_text": "Stock market today: Live updates Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Traders work on the floor of the New York Stock Exchange during morning trading on Oct. 14, 2026 in New York City. Michael M. Santiago | Getty Images Stocks slid on Friday as traders headed for a mostly losing week amid a shift away from tech and artificial intelligence-related names as well as a rise in oil prices. The S&P 500 traded down 1.3%, while the Nasdaq Composite shed 2.4%. The Dow Jones Industrial Average outperformed as it fell 275 points, or 0.5%. Chipmakers were lower again. The VanEck Semiconductor ETF (SMH) lost 1%, led by declines in Micron Technology , Advanced Micro Devices and Sandisk . Semiconductors have struggled this week amid jitters about competition from China . The SMH is down 8% week to date, on pace for its biggest weekly decline since July. Those declines, coupled with drops in other stocks linked to AI, put the S&P 500 on pace for a losing week. The benchmark index is down more than 2% this week, while the Nasdaq has shed nearly 5%. The tech-heavy index was on track for its worst weekly performance since April 2025. The Dow, on the other hand, has moved higher by less than 1% on the week. Investors have also grown concerned that tech companies are borrowing too much for the AI buildout . Shares of neoclouds like CoreWeave , which has seen its total debt rise to more than $51 billion , were down 10%, putting the stock's week-to-date losses at more than 23%. \"The question is: Is this a systemic issue?\" said Michael Rosen, Angeles' chief investment officer. \"Obviously, increased debt issuance is something to observe and continue to watch and be concerned about if it continues to get to levels of excessiveness. But we're not remotely close to that right now.\" Other areas of the market such as energy saw gains Friday, with stocks like Chevron helping to keep the Dow's losses in check. That's as oil prices moved higher amid rising tensions between the U.S. and Iran as well as between Russian and Ukraine. West Texas Intermediate crude futures increased 2% to above $100 per barrel, while Brent crude futures advanced 3% to above $109. Simultaneously, investors have been grappling with hotter-than-expected inflation data, which has been exacerbated by elevated energy prices in the wake of the U.S.-Iran war. Wholesale inflation this week saw its biggest gain since 2022 , while consumer inflation remained well above the Federal Reserve's target of 2%. Fed Chairman Kevin Warsh spoke at an IMF event in Bangkok overnight. And while he didn't comment on whether the Fed would raise rates before year-end, traders took that as a sign that the central bank will hold policy steady later this month. The CME Group's FedWatch tool points to an 85% chance the Fed keeps its overnight rate unchanged at its Oct. 27-28 meeting. 42 Min Ago Communication services, information technology lead S&P 500 lower Communication services and information technology led the S&P 500 lower on Friday. The two sectors were down 2.7% and 2.4%, respectively, becoming the two biggest laggards among the 11 S&P 500 sectors. Consumer discretionary followed behind them, falling 1.5%. However, a look beneath the surface showed that the S&P 500 — which was last down 1.3% — was more evenly split despite the losses at the index level. There were about 280 losers in the index and 222 gainers. In total, five out of the 11 S&P 500 sectors were in positive territory, led by energy with its 2.1% gain and utilities with its rise of 1.2%. — Sean Conlon and Sarah Min 1 Hour Ago U.S. crude oil surpasses $100 U.S. crude oil prices rose sharply Friday as Iran escalated its attacks in the Strait of Hormuz this week and Ukraine vowed to keep striking Russian refineries. U.S. West Texas Intermediate futures were up 2.9% to $100.78 per barrel. Brent crude, the international benchmark, was 3.3% higher at $109.37 per barrel. Read more . WTI, 1-day — Spencer Kimball 2 Hours Ago Moog, Fox Factory among the stocks making big moves midday Federal-Mogul Holdings Corp. Moog brand steering and suspension parts sit on a shelf in an auto parts store in Princeton, Illinois, U.S. Daniel Acker | Bloomberg | Getty Images Here are the stocks making moves in midday trading: Independent Bank — Shares of the Michigan-based bank holding company jumped almost 5% after third-quarter earnings surpassed estimates. Independent Bank earned $1.90 per share, topping the FactSet consensus call for $1.85 per share. Net interest income of $220.7 million also beat the $218.5 million estimate. The bank sees home equity loans growing by a high single-digit annualized percentage in the fourth quarter. Moog — The manufacturer of precision motor control systems rose more than 4%. Morgan Stanley upgraded shares to overweight from equal weight. The firm also lifted its price target to $448 from $405, suggesting about 23% upside from Thursday's close. Shares have been on a tear in 2026, up more than 55%. Fox Factory — The vehicle suspension maker tumbled 9% after CEO Mike Dennison stepped down from his role. Fox's board appointed Douglas Grimm as interim chief executive. The company also trimmed its full-year revenue outlook. Read the full list here . — Deena Zaidi 3 Hours Ago Where investors are looking next after the pullback in semiconductors Early in the \"SaaSpocalypse\" that roiled software companies this year, Manish Gupta, a portfolio manager at First Eagle Investments, added to Workday as he parsed through the wreckage for some bargains. In recent months, that bet has paid off for the value investor. After falling about 40% in the first quarter of 2026, during which the enterprise software stock at various points was trading at not even three times revenue, the stock went on to surge more than 55% in the third. It's also outperforming this week, rising more than 2% amid a broader tech sell-off as investors exit for safer assets. Gupta, who attended the company's analyst day this week, remains confident in Workday, which he said is trading at a discount to similar businesses in the private markets. Workday is a top 10 holding in the First Eagle Global Fund (SGENX) , which he co-manages and which had nearly $75 billion in total net assets as of Sept. 30. \"The price has moved up, but the business has also become better,\" Gupta said. \"The 'SaaSpocalypse' has also turned around, but the stock's still attractive.\" CNBC Pro subscribers can read more here . — Sarah Min 4 Hours Ago Why Bank of America is in ‘risk-off’ mode for the next month People walk by a Bank of America office in New York City, U.S., Sept. 1, 2026. Jordan Tovin | Reuters The near-term case against stocks is growing, according to Bank of America. Strategist Michael Hartnett laid out four reasons why the bank is taking a \"risk-off\" approach for the next month: Higher yields and the \"need for [the Federal Reserve] to hike on Oct. 28;\" Elevated oil prices due to the wars in the Middle East and Ukraine; \"Rising risk of 'wave-like' [Democratic] sweep midterms;\" The recent price action in artificial intelligence-linked names CNBC Pro subscribers can read more here . — Fred Imbert 5 Hours Ago How the CoreWeave sell-off is affecting OpenAI vs. Anthropic valuations Imen Ben Youssef | Afp | Getty Images The spread is widening between AI leaders OpenAI and Anthropic as a sell-off in CoreWeave leads neocloud stocks lower. OpenAI's valuation is down more than 4% the past 24 hours after briefly slipping under $1.5 trillion, according to perpetual futures pricing on decentralized exchange Hyperliquid. Meanwhile, Anthropic perps are up 2.4% over the same time period, recovering an overnight dip and indicating a valuation of just over $2 trillion. Read the full story here . — Oliver Renick 6 Hours Ago S&P 500 opens slightly higher The S&P 500 kicked off Friday's session in positive territory. The broad market average moved up",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-10-16T19:03:07+00:00",
-   "tickers": [
-    "NDAQ"
-   ]
   },
   {
    "id": "6c9ff5cce8c5",
@@ -108,6 +703,22 @@
    "tickers": []
   },
   {
+   "id": "ab6e5abe0ade",
+   "title": "CoreWeave stock, bond set for weekly plunge as rate-hike fears hit AI bet",
+   "link": "https://biztoc.com/x/02c4b2a69e651fc6?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-10-16T19:02:38+00:00",
+   "tickers": [
+    "CRWV"
+   ]
+  },
+  {
    "id": "9d8de9203e1a",
    "title": "Katie Zacharia 'transitioning out' of her role as press secretary",
    "link": "https://seekingalpha.com/news/4653952-katie-zacharia-has-been-ousted-from-her-role-as-press-secretary-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -122,6 +733,156 @@
    "tickers": []
   },
   {
+   "id": "7443945fc2ca",
+   "title": "Inside Porsche’s Revival Bid: Pricier Cars, Tougher Bonuses and Less Remote Work",
+   "link": "https://biztoc.com/x/4a5952bb47302946?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-16T19:02:19+00:00",
+   "tickers": []
+  },
+  {
+   "id": "60b94393d321",
+   "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
+   "link": "https://biztoc.com/x/16d25a97972d7694?ref=rss",
+   "summary": "Following a string of incidents where AI models hacked websites and breached government systems during testing phases, the Federal Trade Commission is officially probing Anthropic and OpenAI over consumer harms, an insider told Axios. On Wednesday, the FTC sent out civil investigative demands…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-16T19:02:13+00:00",
+   "tickers": []
+  },
+  {
+   "id": "83e1444a9f4a",
+   "title": "US arms firm Anduril could make interceptors in Europe, executive says",
+   "link": "https://biztoc.com/x/739080083bbb3dee?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-16T19:01:33+00:00",
+   "tickers": []
+  },
+  {
+   "id": "84c8efabf82a",
+   "title": "Bad News in the Bond Market May Be Good News",
+   "link": "https://biztoc.com/x/425110e8c3963d61?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-16T19:01:27+00:00",
+   "tickers": [
+    "NWSA"
+   ]
+  },
+  {
+   "id": "4764b9353b57",
+   "title": "Tesla Energy Chief Reportedly Out; AI Pivot Kicks In",
+   "link": "https://biztoc.com/x/3365059e9332cf27?ref=rss",
+   "summary": "Tesla Energy chief Mike Snyder reportedly has stepped down. Elon Musk's AI focus trumps his old sustainable-energy message. The post Tesla Energy Chief Reportedly Out; AI Pivot Kicks In appeared first on Investor's Business Daily.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-16T19:01:14+00:00",
+   "tickers": [
+    "TSLA"
+   ]
+  },
+  {
+   "id": "d694dde6f03b",
+   "title": "German American Bancorp director Ryan buys $100 in stock",
+   "link": "https://www.investing.com/news/insider-trading-news/german-american-bancorp-director-ryan-buys-100-in-stock-93CH-4954753",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-16T19:01:13+00:00",
+   "tickers": []
+  },
+  {
+   "id": "288905186b0d",
+   "title": "9 Dow Jones Stocks Make Bullish Moves In A Defensive Market Rotation",
+   "link": "https://biztoc.com/x/fd895654f2390c0f?ref=rss",
+   "summary": "A week that tested the financial markets showed the resilience of Dow Jones stocks. Apple and Coca-Cola were among nine standouts. The post 9 Dow Jones Stocks Make Bullish Moves In A Defensive Market Rotation appeared first on Investor's Business Daily.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-16T19:01:11+00:00",
+   "tickers": [
+    "KO",
+    "BLSH",
+    "AAPL"
+   ]
+  },
+  {
+   "id": "12591d113be7",
+   "title": "German American Bancorp director Bawel buys $17,100 in stock",
+   "link": "https://www.investing.com/news/insider-trading-news/german-american-bancorp-director-bawel-buys-17100-in-stock-93CH-4954752",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-16T19:01:07+00:00",
+   "tickers": []
+  },
+  {
+   "id": "d9f57f478c59",
+   "title": "Apple’s $1,999 iPhone Duo puts the company's status-symbol power to the test",
+   "link": "https://biztoc.com/x/6bdf1ae0652b9574?ref=rss",
+   "summary": "Apple's iPhone Duo, its most expensive iPhone ever, went up for preorder Friday, with launch-day pickup inventory selling out and some online delivery estimates already slipping into late January. The company said in a statement that the pre-order demand was \"nothing short of extraordinary.\" \"We…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-16T19:01:02+00:00",
+   "tickers": [
+    "AAPL"
+   ]
+  },
+  {
+   "id": "ac5dddcda4d9",
+   "title": "German American Bancorp director Andrew Seger buys $100 in shares",
+   "link": "https://www.investing.com/news/insider-trading-news/german-american-bancorp-director-andrew-seger-buys-100-in-shares-93CH-4954751",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-16T19:01:01+00:00",
+   "tickers": []
+  },
+  {
    "id": "3f12445bd8d4",
    "title": "Malaga Financial Corporation Reports Record Earnings for the Third Quarter and First Nine Months of 2026",
    "link": "https://www.globenewswire.com/news-release/2026/10/16/3382773/0/en/malaga-financial-corporation-reports-record-earnings-for-the-third-quarter-and-first-nine-months-of-2026.html",
@@ -132,6 +893,20 @@
    "type": "press",
    "sentiment": "neutral",
    "domain": "globenewswire.com",
+   "published": "2026-10-16T19:01:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "9a067c5a34a3",
+   "title": "Trump: White House didn't impede satellite system in Ukraine",
+   "link": "https://biztoc.com/x/789fb2538c9880cf?ref=rss",
+   "summary": "President Trump said Friday that his administration did not disrupt an Elon Musk-owned satellite system used by Ukraine to wage war against Russia. Why it matters: The restrictions imposed earlier this week on the system hampered the Ukrainian military's ability to intercept Russian attack drones…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
    "published": "2026-10-16T19:01:00+00:00",
    "tickers": []
   },
@@ -166,6 +941,50 @@
    ]
   },
   {
+   "id": "578cf071a801",
+   "title": "How Weight-Loss Drugs Could Drive Victoria’s Secret’s Next Chapter",
+   "link": "https://biztoc.com/x/163b19e08f7afb1f?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-10-16T19:00:41+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f620d29f64f7",
+   "title": "Dollar heads for weekly loss as Fed hike bets fade, AI jitters linger",
+   "link": "https://www.investing.com/news/economy-news/euro-gets-muchneeded-reprieve-as-ai-wobbles-rock-the-dollar-4952939",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-10-16T19:00:39+00:00",
+   "tickers": []
+  },
+  {
+   "id": "02b35d977ff2",
+   "title": "Nasdaq slumps over 2%, heads for worst week in over 18 months as AI trade suffers",
+   "link": "https://www.investing.com/news/stock-market-news/nasdaq-futures-edge-lower-as-ai-spending-fed-rate-concerns-weigh-4952930",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-10-16T19:00:37+00:00",
+   "tickers": [
+    "NDAQ"
+   ]
+  },
+  {
    "id": "b5658a29af9d",
    "title": "Here's who Netflix just brought in to run content — and what it means for the streamer",
    "link": "https://www.cnbc.com/2026/10/16/netflix-peter-rice-chief-content-officer.html",
@@ -196,6 +1015,20 @@
    "tickers": []
   },
   {
+   "id": "44c3eba0c43e",
+   "title": "CTW (CTW) Q4 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/ctw-ctw-q4-2026-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-16T18:59:55+00:00",
+   "tickers": []
+  },
+  {
    "id": "de5f474a80f7",
    "title": "Eastman Chemical cut at J.P. Morgan as commodity spreads no longer favorable",
    "link": "https://seekingalpha.com/news/4653960-eastman-chemical-cut-at-j-p-morgan-as-commodity-spreads-no-longer-favorable?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -210,6 +1043,48 @@
    "tickers": [
     "EMN"
    ]
+  },
+  {
+   "id": "d1b645cd9199",
+   "title": "SoftBank weighs $30 billion Allied Universal deal as Son eyes security robots",
+   "link": "https://www.investing.com/news/stock-market-news/softbank-weighs-30-billion-allied-universal-deal-as-son-eyes-security-robots-4954745",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-16T18:59:03+00:00",
+   "tickers": []
+  },
+  {
+   "id": "47e21b157075",
+   "title": "Anduril may produce new Steelfin missiles in Europe, VP says",
+   "link": "https://www.investing.com/news/stock-market-news/anduril-may-produce-new-steelfin-missiles-in-europe-vp-says-4954746",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-16T18:59:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f1b86108d4b3",
+   "title": "Independent Bank (INDB) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/independent-bank-indb-q3-2026-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-16T18:58:52+00:00",
+   "tickers": []
   },
   {
    "id": "d1437760e4b5",
@@ -238,6 +1113,22 @@
    "domain": "globenewswire.com",
    "published": "2026-10-16T18:58:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "e07147a02209",
+   "title": "Forget Zepbound: 3 Newer Drugs That Could Power Eli Lilly's Next Leg Higher",
+   "link": "https://www.nasdaq.com/articles/forget-zepbound-3-newer-drugs-could-power-eli-lillys-next-leg-higher",
+   "summary": "Key PointsEli Lilly could continue to dominate the weight-loss market thanks to medicines like Foundayo and retatrutide.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-16T18:58:00+00:00",
+   "tickers": [
+    "LLY"
+   ]
   },
   {
    "id": "38d0c10056f5",
@@ -300,6 +1191,20 @@
    ]
   },
   {
+   "id": "15ac98bbbb86",
+   "title": "US budget deficit widens to $1.99 trillion for fiscal 2026",
+   "link": "https://www.investing.com/news/economy-news/us-budget-deficit-widens-to-199-trillion-for-fiscal-2026-4954742",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-16T18:54:17+00:00",
+   "tickers": []
+  },
+  {
    "id": "22017b180efe",
    "title": "Anavex: Downgrading To Sell On Blarcamesine MAA Withdrawal For AD, Pipeline Change",
    "link": "https://seekingalpha.com/article/4954868-anavex-downgrading-to-sell-on-blarcamesine-maa-withdrawal-for-ad-pipeline-change?source=feed_all_articles",
@@ -325,6 +1230,217 @@
    "sentiment": "neutral",
    "domain": "prnewswire.com",
    "published": "2026-10-16T18:54:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "028f96388240",
+   "title": "Hogs Popping Higher on Friday, with Pork Finally Getting Some Bids",
+   "link": "https://www.nasdaq.com/articles/hogs-popping-higher-friday-pork-finally-getting-some-bids",
+   "summary": "Lean hog futures are rallying on Friday with contracts up 45 cents to $1.10 at midday. USDA’s national base hog price was reported at $70.35 on Friday morning, down $2.06 from the day prior. The CME Lean Hog Index was down another 66 cents on October 14 at $75.09. Export...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-16T18:53:22+00:00",
+   "tickers": [
+    "CME"
+   ]
+  },
+  {
+   "id": "da84e02100d5",
+   "title": "Cattle Rallying on Friday, with Cash Firming",
+   "link": "https://www.nasdaq.com/articles/cattle-rallying-friday-cash-firming",
+   "summary": "Live cattle futures are rallying as cash trade picks up, with futures up 97 cents to $1.20 at midday. USDA reported a few dressed northern sales at $345-355 in the north. The Friday morning Fed Cattle Exchange online auction showed sales of $228-228.50 on 571 of the 2,596 head offered,...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-16T18:53:22+00:00",
+   "tickers": []
+  },
+  {
+   "id": "46ca9fcd7889",
+   "title": "Wheat Bears Pushing Losses into Friday’s Midday",
+   "link": "https://www.nasdaq.com/articles/wheat-bears-pushing-losses-fridays-midday",
+   "summary": "The wheat complex is heading into the weekend with losses across the three exchanges. Chicago SRW contracts are slipping back 7 to 8 cents to round out the week. KC HRW futures are trading with 7 to 8 cent losses at midday. MPLS spring wheat is down 6 to 7...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-10-16T18:53:22+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f7bb77dc4fa1",
+   "title": "Corn Bulls Failing to See Strength on a Pick-up in Export Business",
+   "link": "https://www.nasdaq.com/articles/corn-bulls-failing-see-strength-pick-export-business",
+   "summary": "Corn futures are trading with contracts down 2 to 4 cents at midday, getting some slight midday bids off the lows. The CmdtyView national average Cash Corn price was down 2 3/4 cents at $4.36. USDA reported a private export sale of 127,000 MT of corn for 2026/27 to Japan...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-16T18:53:22+00:00",
+   "tickers": [
+    "MT"
+   ]
+  },
+  {
+   "id": "f52fa2180da6",
+   "title": "Soybeans Finding Some Buyers at Midday, Still Facing Weaker",
+   "link": "https://www.nasdaq.com/articles/soybeans-finding-some-buyers-midday-still-facing-weaker",
+   "summary": "Soybeans are trying to pull off the early near double digit losses on Friday, with contracts down 1 to 3 cents at midday. The cmdtyView national average Cash Bean price is down 1 ¼ cents at $12.03 1/2. Soymeal futures are down $3.20 to $3.40, with Soy Oil futures up...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-16T18:53:22+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ae8bf4d05c74",
+   "title": "Losses in Soybeans Extending to Friday Morning",
+   "link": "https://www.nasdaq.com/articles/losses-soybeans-extending-friday-morning",
+   "summary": "Soybeans are showing extended weakness on Friday morning, with losses of 4 to 6 cents. Futures fell further into the close on Thursday, down 10 to 14 ¼ cents as futures faded Chinese purchases and sell a bearish NOPA report. Open interest was up 3,241 contracts on Thursday, with November...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-10-16T18:53:21+00:00",
+   "tickers": []
+  },
+  {
+   "id": "15f6c2bc9a11",
+   "title": "Sugar Prices Sink on Forecasts for Drier Weather in Brazil",
+   "link": "https://www.nasdaq.com/articles/sugar-prices-sink-forecasts-drier-weather-brazil",
+   "summary": "March NY world sugar #11 (SBH27 ) is down -0.41 (-1.94%) today, and December London ICE white sugar #5 (SWZ26 ) is down -7.20 (-1.28%). Sugar prices are falling today as forecasts for hot, dry weather next week in Brazil’s Center-South region, the country’s largest sugar-producing area, sparked long liquidation...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-10-16T18:53:21+00:00",
+   "tickers": [
+    "ICE"
+   ]
+  },
+  {
+   "id": "533d279aedd9",
+   "title": "Coffee Prices Climb on El Niño Weather Concerns",
+   "link": "https://www.nasdaq.com/articles/coffee-prices-climb-el-nino-weather-concerns",
+   "summary": "December arabica coffee (KCZ26 ) is up +6.60 (+2.24%) today, and November ICE robusta coffee (RMX26 ) is up +12 (+0.36%). Coffee prices are moving higher today, with arabica posting a 5-week high. Concerns that an El Niño weather pattern could hurt Brazil's and Vietnam’s coffee crops next year are...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-10-16T18:53:21+00:00",
+   "tickers": [
+    "ICE"
+   ]
+  },
+  {
+   "id": "006b939be8e0",
+   "title": "Stocks are Mixed on Rotation Out of Chipmakers and AI Stocks",
+   "link": "https://www.nasdaq.com/articles/stocks-are-mixed-rotation-out-chipmakers-and-ai-stocks",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) is up by +0.03% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up by +0.65%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -0.82%. December E-mini S&P futures (ESZ26 ) are up +0.05%, and December E-mini...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-16T18:53:21+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
+  },
+  {
+   "id": "3e078d166615",
+   "title": "Cattle Look to Friday Following Thursday Rally",
+   "link": "https://www.nasdaq.com/articles/cattle-look-friday-following-thursday-rally",
+   "summary": "Live cattle futures were up $1.57 to $2.12 higher across the board on Thursday. There still have been no deliveries against October live cattle. Open interest was down 630 contracts on Thursday. USDA reported a few dressed northern sales at $345-355 in the north. The Thursday Fed Cattle Exchange online...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-10-16T18:53:20+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b17e3f76012b",
+   "title": "Hogs Get a Bounce on Thursday, as Traders Look to Round Out the Week",
+   "link": "https://www.nasdaq.com/articles/hogs-get-bounce-thursday-traders-look-round-out-week",
+   "summary": "Lean hog futures found some strength, despite continued pork weakness, with contracts up 35 to 60 cents at the close. Open interest was up 2,643 contracts on Thursday. USDA’s national base hog price was reported at $71.70 on Thursday afternoon, up $2.56 from the day prior. The CME Lean Hog...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-16T18:53:20+00:00",
+   "tickers": [
+    "CME"
+   ]
+  },
+  {
+   "id": "ba3b60be9a77",
+   "title": "Weakness in the Corn Market Continues on Friday Trade",
+   "link": "https://www.nasdaq.com/articles/weakness-corn-market-continues-friday-trade",
+   "summary": "Corn prices are down 1 to 2 cents as futures round out the week of trade. Futures faced late pressure on Thursday, with contracts closing down 1 to 4 cents at the closing bell. Open interest was down 5,434 contracts on Thursday, heavily in the December contract. The CmdtyView national...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-16T18:53:20+00:00",
+   "tickers": []
+  },
+  {
+   "id": "8c9ba06aefeb",
+   "title": "Wheat Weakness Extending on Friday",
+   "link": "https://www.nasdaq.com/articles/wheat-weakness-extending-friday",
+   "summary": "Wheat is falling across the three exchanges on Friday morning. The wheat complex faded some early Thursday gains, to close the session with losses. Chicago SRW contracts were 1 ¾ to 4 ¾ cents lower across most contracts on Thursday. Open interest was down 8,327 contracts. KC HRW futures slipped...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-16T18:53:20+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b98733de4651",
+   "title": "Anthropic says Claude solved 25-year cryptography mystery in 30 minutes",
+   "link": "https://www.investing.com/news/economy-news/anthropic-says-claude-solved-25year-cryptography-mystery-in-30-minutes-4954741",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-16T18:53:20+00:00",
    "tickers": []
   },
   {
@@ -356,6 +1472,20 @@
    "tickers": []
   },
   {
+   "id": "1639b343e4f1",
+   "title": "Pony Ai stock hits 52-week low at 4.93 USD",
+   "link": "https://www.investing.com/news/company-news/pony-ai-stock-hits-52week-low-at-493-usd-93CH-4954739",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-16T18:50:46+00:00",
+   "tickers": []
+  },
+  {
    "id": "a365334dc11b",
    "title": "QGRW: Factor Mix, Outstanding Performance, Make It A Buy (Rating Upgrade)",
    "link": "https://seekingalpha.com/article/4954867-qgrw-factor-mix-outstanding-performance-make-it-a-buy-rating-upgrade?source=feed_all_articles",
@@ -382,6 +1512,22 @@
    "domain": "prnewswire.com",
    "published": "2026-10-16T18:50:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "4b93f1a06383",
+   "title": "QQQ’s biggest down days of 2026: today ranks third",
+   "link": "https://www.investing.com/news/stock-market-news/qqqs-biggest-down-days-of-2026-today-ranks-third-93CH-4954737",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-16T18:49:40+00:00",
+   "tickers": [
+    "QQQ"
+   ]
   },
   {
    "id": "d1f866a29259",
@@ -489,64 +1635,6 @@
    "tickers": []
   },
   {
-   "id": "028f96388240",
-   "title": "Hogs Popping Higher on Friday, with Pork Finally Getting Some Bids",
-   "link": "https://www.nasdaq.com/articles/hogs-popping-higher-friday-pork-finally-getting-some-bids",
-   "summary": "Lean hog futures are rallying on Friday with contracts up 45 cents to $1.10 at midday. USDA’s national base hog price was reported at $70.35 on Friday morning, down $2.06 from the day prior. The CME Lean Hog Index was down another 66 cents on October 14 at $75.09. Export...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-16T18:47:03+00:00",
-   "tickers": [
-    "CME"
-   ]
-  },
-  {
-   "id": "da84e02100d5",
-   "title": "Cattle Rallying on Friday, with Cash Firming",
-   "link": "https://www.nasdaq.com/articles/cattle-rallying-friday-cash-firming",
-   "summary": "Live cattle futures are rallying as cash trade picks up, with futures up 97 cents to $1.20 at midday. USDA reported a few dressed northern sales at $345-355 in the north. The Friday morning Fed Cattle Exchange online auction showed sales of $228-228.50 on 571 of the 2,596 head offered,...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-16T18:47:03+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ae8bf4d05c74",
-   "title": "Losses in Soybeans Extending to Friday Morning",
-   "link": "https://www.nasdaq.com/articles/losses-soybeans-extending-friday-morning",
-   "summary": "Soybeans are showing extended weakness on Friday morning, with losses of 4 to 6 cents. Futures fell further into the close on Thursday, down 10 to 14 ¼ cents as futures faded Chinese purchases and sell a bearish NOPA report. Open interest was up 3,241 contracts on Thursday, with November...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-10-16T18:47:02+00:00",
-   "tickers": []
-  },
-  {
-   "id": "3e078d166615",
-   "title": "Cattle Look to Friday Following Thursday Rally",
-   "link": "https://www.nasdaq.com/articles/cattle-look-friday-following-thursday-rally",
-   "summary": "Live cattle futures were up $1.57 to $2.12 higher across the board on Thursday. There still have been no deliveries against October live cattle. Open interest was down 630 contracts on Thursday. USDA reported a few dressed northern sales at $345-355 in the north. The Thursday Fed Cattle Exchange online...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-10-16T18:47:02+00:00",
-   "tickers": []
-  },
-  {
    "id": "b67c4054ecd8",
    "title": "Stock Indexes Mostly Lower as Chipmaker Weakness Persists",
    "link": "https://www.nasdaq.com/articles/stock-indexes-mostly-lower-chipmaker-weakness-persists",
@@ -563,36 +1651,6 @@
     "NDAQ",
     "SPY",
     "DIA"
-   ]
-  },
-  {
-   "id": "46ca9fcd7889",
-   "title": "Wheat Bears Pushing Losses into Friday’s Midday",
-   "link": "https://www.nasdaq.com/articles/wheat-bears-pushing-losses-fridays-midday",
-   "summary": "The wheat complex is heading into the weekend with losses across the three exchanges. Chicago SRW contracts are slipping back 7 to 8 cents to round out the week. KC HRW futures are trading with 7 to 8 cent losses at midday. MPLS spring wheat is down 6 to 7...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-10-16T18:47:02+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b17e3f76012b",
-   "title": "Hogs Get a Bounce on Thursday, as Traders Look to Round Out the Week",
-   "link": "https://www.nasdaq.com/articles/hogs-get-bounce-thursday-traders-look-round-out-week",
-   "summary": "Lean hog futures found some strength, despite continued pork weakness, with contracts up 35 to 60 cents at the close. Open interest was up 2,643 contracts on Thursday. USDA’s national base hog price was reported at $71.70 on Thursday afternoon, up $2.56 from the day prior. The CME Lean Hog...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-16T18:47:01+00:00",
-   "tickers": [
-    "CME"
    ]
   },
   {
@@ -1059,87 +2117,6 @@
    "domain": "nasdaq.com",
    "published": "2026-10-16T18:40:27+00:00",
    "tickers": []
-  },
-  {
-   "id": "f7bb77dc4fa1",
-   "title": "Corn Bulls Failing to See Strength on a Pick-up in Export Business",
-   "link": "https://www.nasdaq.com/articles/corn-bulls-failing-see-strength-pick-export-business",
-   "summary": "Corn futures are trading with contracts down 2 to 4 cents at midday, getting some slight midday bids off the lows. The CmdtyView national average Cash Corn price was down 2 3/4 cents at $4.36. USDA reported a private export sale of 127,000 MT of corn for 2026/27 to Japan...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-16T18:40:27+00:00",
-   "tickers": [
-    "MT"
-   ]
-  },
-  {
-   "id": "15f6c2bc9a11",
-   "title": "Sugar Prices Sink on Forecasts for Drier Weather in Brazil",
-   "link": "https://www.nasdaq.com/articles/sugar-prices-sink-forecasts-drier-weather-brazil",
-   "summary": "March NY world sugar #11 (SBH27 ) is down -0.41 (-1.94%) today, and December London ICE white sugar #5 (SWZ26 ) is down -7.20 (-1.28%). Sugar prices are falling today as forecasts for hot, dry weather next week in Brazil’s Center-South region, the country’s largest sugar-producing area, sparked long liquidation...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-10-16T18:40:26+00:00",
-   "tickers": [
-    "ICE"
-   ]
-  },
-  {
-   "id": "533d279aedd9",
-   "title": "Coffee Prices Climb on El Niño Weather Concerns",
-   "link": "https://www.nasdaq.com/articles/coffee-prices-climb-el-nino-weather-concerns",
-   "summary": "December arabica coffee (KCZ26 ) is up +6.60 (+2.24%) today, and November ICE robusta coffee (RMX26 ) is up +12 (+0.36%). Coffee prices are moving higher today, with arabica posting a 5-week high. Concerns that an El Niño weather pattern could hurt Brazil's and Vietnam’s coffee crops next year are...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-10-16T18:40:26+00:00",
-   "tickers": [
-    "ICE"
-   ]
-  },
-  {
-   "id": "f52fa2180da6",
-   "title": "Soybeans Finding Some Buyers at Midday, Still Facing Weaker",
-   "link": "https://www.nasdaq.com/articles/soybeans-finding-some-buyers-midday-still-facing-weaker",
-   "summary": "Soybeans are trying to pull off the early near double digit losses on Friday, with contracts down 1 to 3 cents at midday. The cmdtyView national average Cash Bean price is down 1 ¼ cents at $12.03 1/2. Soymeal futures are down $3.20 to $3.40, with Soy Oil futures up...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-16T18:40:26+00:00",
-   "tickers": []
-  },
-  {
-   "id": "006b939be8e0",
-   "title": "Stocks are Mixed on Rotation Out of Chipmakers and AI Stocks",
-   "link": "https://www.nasdaq.com/articles/stocks-are-mixed-rotation-out-chipmakers-and-ai-stocks",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) is up by +0.03% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up by +0.65%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -0.82%. December E-mini S&P futures (ESZ26 ) are up +0.05%, and December E-mini...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-16T18:40:25+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
-   ]
   },
   {
    "id": "e783cad487dc",
@@ -1775,20 +2752,6 @@
    "tickers": [
     "SPCX"
    ]
-  },
-  {
-   "id": "ba3b60be9a77",
-   "title": "Weakness in the Corn Market Continues on Friday Trade",
-   "link": "https://www.nasdaq.com/articles/weakness-corn-market-continues-friday-trade",
-   "summary": "Corn prices are down 1 to 2 cents as futures round out the week of trade. Futures faced late pressure on Thursday, with contracts closing down 1 to 4 cents at the closing bell. Open interest was down 5,434 contracts on Thursday, heavily in the December contract. The CmdtyView national...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-16T18:24:48+00:00",
-   "tickers": []
   },
   {
    "id": "1c8136816573",
@@ -2713,20 +3676,6 @@
    ]
   },
   {
-   "id": "8c9ba06aefeb",
-   "title": "Wheat Weakness Extending on Friday",
-   "link": "https://www.nasdaq.com/articles/wheat-weakness-extending-friday",
-   "summary": "Wheat is falling across the three exchanges on Friday morning. The wheat complex faded some early Thursday gains, to close the session with losses. Chicago SRW contracts were 1 ¾ to 4 ¾ cents lower across most contracts on Thursday. Open interest was down 8,327 contracts. KC HRW futures slipped...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-16T18:10:41+00:00",
-   "tickers": []
-  },
-  {
    "id": "c5ab276444f1",
    "title": "8-K - TUCSON ELECTRIC POWER CO (0000100122) (Filer)",
    "link": "https://www.sec.gov/Archives/edgar/data/100122/000092963826003936/0000929638-26-003936-index.htm",
@@ -2815,7 +3764,7 @@
    "type": "macro",
    "sentiment": "neutral",
    "domain": "nytimes.com",
-   "published": "2026-10-16T18:06:40+00:00",
+   "published": "2026-10-16T18:06:41+00:00",
    "tickers": []
   },
   {
@@ -3640,22 +4589,6 @@
    "domain": "biztoc.com",
    "published": "2026-10-16T17:45:56+00:00",
    "tickers": []
-  },
-  {
-   "id": "02b35d977ff2",
-   "title": "Nasdaq slumps nearly 2%, heads for worst week since late June as AI trade suffers",
-   "link": "https://www.investing.com/news/stock-market-news/nasdaq-futures-edge-lower-as-ai-spending-fed-rate-concerns-weigh-4952930",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-10-16T17:45:43+00:00",
-   "tickers": [
-    "NDAQ"
-   ]
   },
   {
    "id": "a57d168ad566",
@@ -7968,929 +8901,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-10-16T16:30:57+00:00",
    "tickers": []
-  },
-  {
-   "id": "d46ed5a8a723",
-   "title": "Why Rocket Lab Stock Plummeted as Much as 16% Today",
-   "link": "https://biztoc.com/x/2a9b35ec51c651e7?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-16T16:30:45+00:00",
-   "tickers": [
-    "RKLB"
-   ]
-  },
-  {
-   "id": "82686b72c470",
-   "title": "Woman arrested after blocking delivery robot in Center City Philadelphia confrontation",
-   "link": "https://biztoc.com/x/b720cba3c1127c19?ref=rss",
-   "summary": "A Center City woman was arrested after allegedly refusing to move out of the path of a delivery robot. The confrontation was captured on video and has since drawn online attention. Philadelphia police said officers responded to the 1200 block of Filbert Street after witnesses reported a…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-16T16:30:28+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6219348f9a1d",
-   "title": "US federal bankruptcy court operations disrupted by cybersecurity incident",
-   "link": "https://www.investing.com/news/stock-market-news/usfederal-bankruptcy-court-operations-disrupted-bycybersecurity-incident-4954551",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-10-16T16:30:27+00:00",
-   "tickers": []
-  },
-  {
-   "id": "bce9936eef43",
-   "title": "CHPY: The Chip Dip Makes It A Buy For Income (Rating Upgrade)",
-   "link": "https://seekingalpha.com/article/4954841-chpy-the-chip-dip-makes-it-a-buy-for-income-rating-upgrade?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-16T16:30:14+00:00",
-   "tickers": []
-  },
-  {
-   "id": "0cbe2d80faea",
-   "title": "Strata Critical Medical gains as activist Third Point takes stake, pushes for sale",
-   "link": "https://seekingalpha.com/news/4653913-strata-critical-medical-gains-as-activist-third-point-takes-stake-pushes-for-sale?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-16T16:29:52+00:00",
-   "tickers": []
-  },
-  {
-   "id": "1d81f2b2fc6a",
-   "title": "Putin: Air defense can be improved further",
-   "link": "https://biztoc.com/x/2bc573c72629d4b7?ref=rss",
-   "summary": "Russian President Vladimir Putin praised the country's air defense combat crews on Friday, saying that overall, they are operating \"professionally.\" Nonetheless, he added that there is \"still room for...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-16T16:29:41+00:00",
-   "tickers": []
-  },
-  {
-   "id": "257c09058000",
-   "title": "Danielle Smith on the feds and the future of Alberta",
-   "link": "https://biztoc.com/x/134a8f6b2441442b?ref=rss",
-   "summary": "Alberta Premier Danielle Smith talks to Financial Post’s Larysa Harapyn about how it’s a “new day” in the province’s relationship with Ottawa on the eve of an important vote . • Email: lharapyn@postmedia.com",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-16T16:29:32+00:00",
-   "tickers": [
-    "POST"
-   ]
-  },
-  {
-   "id": "2ea9b6b09d1d",
-   "title": "U.S. raises Mastercard, Citigroup China market access in bilateral Bangkok talks, official says",
-   "link": "https://biztoc.com/x/3a66abc609190bf1?ref=rss",
-   "summary": "BANGKOK – U.S. officials pressed Beijing on market access issues for Mastercard Inc and Citigroup Inc during at least two bilateral meetings with Chinese counterparts in Bangkok this week, according to a U.S. Treasury official. The Treasury delegation, led by Deputy Secretary Francis Brooke, held…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-10-16T16:29:31+00:00",
-   "tickers": [
-    "MA",
-    "C"
-   ]
-  },
-  {
-   "id": "3447cb859a02",
-   "title": "Older Americans feel less of the affordability crunch. How that could affect the midterm elections",
-   "link": "https://biztoc.com/x/2dc5ceb69d25f7ee?ref=rss",
-   "summary": "Younger Americans face higher inflation and housing costs than baby boomers, widening the affordability divide ahead of the 2026 midterm elections.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-16T16:29:30+00:00",
-   "tickers": []
-  },
-  {
-   "id": "3e45acf66af9",
-   "title": "Cocoa Prices Retreat as North American Cocoa Demand Unexpectedly Falters",
-   "link": "https://biztoc.com/x/592390a15d9c651f?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-16T16:29:27+00:00",
-   "tickers": []
-  },
-  {
-   "id": "1a3320884957",
-   "title": "Second Time Smarter: What Successful Founders Do Differently",
-   "link": "https://biztoc.com/x/e0cc6550a64592fa?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-16T16:29:26+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ab3476f3bb73",
-   "title": "A rogue OpenAI agent robbed a crypto wallet to obtain funds to carry out a task",
-   "link": "https://biztoc.com/x/b7a066274a2b9e38?ref=rss",
-   "summary": "OpenAI has seen another case of its AI agents going rogue—and this time, crypto is involved. In a recent report, the company detailed how an internal research model used a crypto wallet without permission to pay the fees needed to test an app on Ethereum’s Sepolia test network. Although the tokens…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-16T16:29:25+00:00",
-   "tickers": []
-  },
-  {
-   "id": "bd7eda23d362",
-   "title": "OpenAI discloses four more rogue incidents involving financial, medical, and government data",
-   "link": "https://biztoc.com/x/1ad1768e335ee0e7?ref=rss",
-   "summary": "OpenAI has added four more cases of misbehaving AI agents to a disclosures page it stood up following the Hugging Face hack in July in an effort to be more transparent. The incidents OpenAI disclosed this week all occurred in June, but OpenAI was not aware of three of them until months later in…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-16T16:29:25+00:00",
-   "tickers": []
-  },
-  {
-   "id": "73e17c70f840",
-   "title": "A Chicago Monument Honors Washingtons Not Named George: CityLab Weekly",
-   "link": "https://biztoc.com/x/3ca5ee0a10d180e1?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-16T16:29:19+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e954e59e4334",
-   "title": "The Blue Wave Trade: JPMorgan's \"Democrat Factor\" Soars 20% As Wall Street Prices A Sweep",
-   "link": "https://biztoc.com/x/addce280abf5142c?ref=rss",
-   "summary": "The Blue Wave Trade: JPMorgan's \"Democrat Factor\" Soars 20% As Wall Street Prices A Sweep Prediction markets aren't the only place where traders are betting on a Democratic sweep. Over the weekend, we laid out Goldman's case that gas prices are steering the midterms, with Polymarket pricing a…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-10-16T16:29:18+00:00",
-   "tickers": [
-    "JIRE"
-   ]
-  },
-  {
-   "id": "d0737be5952d",
-   "title": "Why Fox Can Finally Breathe a Sigh of Relief With Roku Deal—and Why the NFL Can’t",
-   "link": "https://biztoc.com/x/ea689b5900a1410d?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-16T16:29:18+00:00",
-   "tickers": [
-    "ROKU"
-   ]
-  },
-  {
-   "id": "6a35c7cd5294",
-   "title": "Why Trump and the GOP's billion-dollar midterm blitz isn’t working",
-   "link": "https://biztoc.com/x/21d312ab05a0aceb?ref=rss",
-   "summary": "A billion-dollar war chest was meant to be Republicans' great equalizer heading into a bleak midterm election environment defined by economic frustration, President Donald Trump's unpopularity and fallout from the war in Iran. So far it hasn't worked. From Labor Day through Oct 14., GOP groups…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-16T16:29:18+00:00",
-   "tickers": []
-  },
-  {
-   "id": "eef3a5117e3e",
-   "title": "Stocks making the biggest moves midday: CoreWeave, Moog, J.B. Hunt, Alcoa & more",
-   "link": "https://www.cnbc.com/2026/10/16/stocks-making-the-biggest-moves-midday-crwv-moga-jbht-aa.html",
-   "summary": "These are the stocks posting the largest moves midday.",
-   "article_text": "Stocks making the biggest moves midday: CRWV, MOG.A, JBHT, AA Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Check out the companies making the biggest moves midday: Independent Bank — Shares of the Michigan-based bank holding company jumped almost 5% after third-quarter earnings surpassed estimates. Independent Bank earned $1.90 per share, topping the FactSet consensus call for $1.85 per share. Net interest income of $220.7 million also beat the $218.5 million estimate. The bank sees home equity loans growing by a high single-digit annualized percentage in the fourth quarter. Moog — The manufacturer of precision motor control systems rose more than 4%. Morgan Stanley upgraded shares to overweight from equal weight. The firm also lifted its price target to $448 from $405, suggesting about 23% upside from Thursday's close. Shares have been on a tear in 2026, up more than 55%. Fox Factory — The vehicle suspension maker tumbled 9% after CEO Mike Dennison stepped down from his role. Fox's board appointed Douglas Grimm as interim chief executive. The company also trimmed its full-year revenue outlook. Truist Financial — Shares ticked 2% higher after the regional bank posted third-quarter results. Adjusted earnings per share came in at $1.16, up 12% year over year. Adjusted revenue totaled $5.3 billion. Regions Financial — The bank gained nearly 2% on third-quarter earnings that beat the Street. Regions earned 73 cents per share, excluding certain items, while analysts polled by FactSet expected a profit of 66 cents per share. J.B. Hunt — The trucking giant slipped 3% on mixed third-quarter results. Revenue of $3.68 billion exceeded an LSEG forecast of $3.57 billion. However, adjusted earnings per share of $1.82 were just below the consensus of $1.89 per share. Tesla — Shares shed 1% after the EV maker unveiled its long-awaited second-generation Roadster . The vehicle uses SpaceX-developed rocket-style thrusters and demonstrated aerial maneuvers at the event Thursday. Tesla describes it as the world's first flying car and expects production to begin in 2028. Alcoa — The aluminum producer rose more than 6% on better-than-expected earnings for the third quarter, helped by a rebound in its alumina business . CoreWeave — Shares of the neocloud provider fell 10% as Thursday's bounce was short-lived. The stock has come under pressure this week as investors brace for higher interest rates that might impact the highly indebted company. Netflix — Shares fell 2% after the streaming giant announced a leadership shake-up. Chief content officer Bela Bajaria is leaving the company and will be replaced by former Disney executive Peter Rice. The change comes only a day after Netflix said it would cut roughly 6% of its workforce , or about 1,000 jobs. — CNBC's Fred Imbert and Darla Mercado contributed reporting.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-10-16T16:29:16+00:00",
-   "tickers": [
-    "CRWV",
-    "AA"
-   ]
-  },
-  {
-   "id": "7340815b6abc",
-   "title": "Friday’s Campaign Round-Up, 10.16.26: Elon Musk spends massively for Ken Paxton",
-   "link": "https://biztoc.com/x/5c995ca4de91d56a?ref=rss",
-   "summary": "Today’s installment of campaign-related news items from across the country. * According to the latest third-quarter fundraising reports to the Federal Elections Commission, Democratic Senate hopeful James Talarico raised $64 million between July and September, which is the best quarter any Senate…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-16T16:29:15+00:00",
-   "tickers": []
-  },
-  {
-   "id": "299f8d731c1e",
-   "title": "EU Plans Arctic Surveillance Program as Russia and Trump Loom",
-   "link": "https://biztoc.com/x/6a5b025d44d36636?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-16T16:29:14+00:00",
-   "tickers": []
-  },
-  {
-   "id": "5cfabe2eb36e",
-   "title": "These 6 Dividend Stocks Generate $7,273 a Year. Here’s What Taxes Could Cost You",
-   "link": "https://biztoc.com/x/9ce652797fd3f96b?ref=rss",
-   "summary": "The post These 6 Dividend Stocks Generate $7,273 a Year. Here’s What Taxes Could Cost You appeared first on 24/7 Wall St.. At the 24% bracket, the six-stock, $200,000 portfolio below produces about $7,273 a year in dividends. Taxed at the ordinary rate, roughly $1,746 of that goes to the IRS every…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "dividend",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-10-16T16:29:10+00:00",
-   "tickers": []
-  },
-  {
-   "id": "96e5a0c045d2",
-   "title": "Paschi Top 10 Investor Goldstone Backs Intesa Takeover Bid",
-   "link": "https://biztoc.com/x/744e460c7952c190?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "ma",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-10-16T16:29:10+00:00",
-   "tickers": []
-  },
-  {
-   "id": "911cf78aa7fb",
-   "title": "RNAi Developer City Therapeutics Jumps 28% After Upsized US IPO",
-   "link": "https://biztoc.com/x/a8dd079e8db560a4?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "offering",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-10-16T16:29:06+00:00",
-   "tickers": []
-  },
-  {
-   "id": "288cc4677edf",
-   "title": "Nike Stock Has Been Dismal. Why It’s Time to Be Bullish",
-   "link": "https://biztoc.com/x/6684e59825190409?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-16T16:29:01+00:00",
-   "tickers": [
-    "BLSH"
-   ]
-  },
-  {
-   "id": "e52c68cd96d8",
-   "title": "The Tech Trade Needs a Life Raft. Mag 7 Earnings Can’t Come Soon Enough",
-   "link": "https://biztoc.com/x/b3a0a16f77976a7c?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-16T16:29:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6a8906e269e7",
-   "title": "The Big 55+ Community With the Lowest Monthly Fee Will Be the One Residents Say Costs the Most",
-   "link": "https://biztoc.com/x/5bb879bd531c365b?ref=rss",
-   "summary": "The post The Big 55+ Community With the Lowest Monthly Fee Will Be the One Residents Say Costs the Most appeared first on 24/7 Wall St.. If you’ve visited 55+ communities, you know the drill. The sales office hands you a sheet, and one community’s monthly fee is half of what the place down the…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-16T16:28:59+00:00",
-   "tickers": []
-  },
-  {
-   "id": "816da9a600e1",
-   "title": "Big Tech Earnings Suddenly Matter for the Bond Market",
-   "link": "https://biztoc.com/x/e0fc09807d909c9d?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-16T16:28:55+00:00",
-   "tickers": []
-  },
-  {
-   "id": "bf07061fd353",
-   "title": "Private Bancorp of America GAAP EPS of $1.97 misses by $0.10, revenue of $35.5M beats by $0.43M",
-   "link": "https://seekingalpha.com/news/4653919-private-bancorp-of-america-gaap-eps-of-1_97-misses-by-0_10-revenue-of-35_5m-beats-by-0_43m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-16T16:28:20+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e3c84ba80213",
-   "title": "OpenAI Saudi national bugging case shows threat to U.S. leadership in AI: DNI Clayton",
-   "link": "https://www.cnbc.com/2026/10/16/ai-espionage-openai-jay-clayton.html",
-   "summary": "AI \"amplifies\" existing cybersecurity risks toward U.S. digital infrastructure, Clayton said on \"Squawk Box.\"",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-10-16T16:27:44+00:00",
-   "tickers": []
-  },
-  {
-   "id": "897304aca427",
-   "title": "Analysis: Everyone expects the Fed to hold rates in October. Kevin Warsh could surprise us all",
-   "link": "https://www.cnbc.com/2026/10/16/kevin-warsh-fed-october-rate-hike-interest-rates-markets.html",
-   "summary": "Investors expect the Fed to pause rate hikes in October, but Kevin Warsh's rejection of traditional communications practices and continued concern about inflation leave the decision uncertain.",
-   "article_text": "",
-   "source": "CNBC Economy",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-10-16T16:27:31+00:00",
-   "tickers": []
-  },
-  {
-   "id": "95728e593e56",
-   "title": "Sunwoda Digital Battery Passport Solution Among Finalists at 2026 edie Energy &amp; Tech Awards",
-   "link": "https://www.prnewswire.com/news-releases/sunwoda-digital-battery-passport-solution-among-finalists-at-2026-edie-energy--tech-awards-302911450.html",
-   "summary": "LONDON, Oct. 16, 2026 /PRNewswire/ -- The 2026 edie Energy & Tech Awards ceremony took place in London today, with Wang Qiao, General Manager of Sunwoda Hungary, attending on behalf of the company. Sunwoda's Digital Battery Passport Solution was among the nine finalists in the Supply...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-16T16:26:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "9902906a9788",
-   "title": "European stocks post best week since June on easing yields",
-   "link": "https://www.investing.com/news/stock-market-news/european-stocks-on-course-for-best-week-since-aug-on-easing-yields-4953245",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-10-16T16:25:30+00:00",
-   "tickers": []
-  },
-  {
-   "id": "8fbfa17234d1",
-   "title": "Biomerica GAAP EPS of -$0.37, revenue of $1.3M",
-   "link": "https://seekingalpha.com/news/4653918-biomerica-gaap-eps-of-0_37-revenue-of-1_3m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-16T16:25:23+00:00",
-   "tickers": []
-  },
-  {
-   "id": "905d591958bb",
-   "title": "If I Had $5,000 to Put Toward Just 1 Dividend Stock, This Would Be It",
-   "link": "https://www.nasdaq.com/articles/if-i-had-5000-put-toward-just-1-dividend-stock-would-be-it",
-   "summary": "Key PointsAltria is a Dividend King that pays a 6% yield.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "dividend",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-10-16T16:25:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "cbce049fcd52",
-   "title": "Simmons First National Corporation (SFNC) Q3 2026 Earnings Call Transcript",
-   "link": "https://seekingalpha.com/article/4954794-simmons-first-national-corporation-sfnc-q3-2026-earnings-call-transcript?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-16T16:24:40+00:00",
-   "tickers": []
-  },
-  {
-   "id": "0eaac210d68f",
-   "title": "Stocks edge lower as dollar heads for weekly loss",
-   "link": "https://www.investing.com/news/economy-news/most-asian-stocks-rise-as-calm-returns-after-coreweave-shock-indonesia-faces-market-downgrade-4952993",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-10-16T16:24:22+00:00",
-   "tickers": []
-  },
-  {
-   "id": "bd813adaf71d",
-   "title": "Brighthouse Financial stock hits 52-week low at 12.75 USD",
-   "link": "https://www.investing.com/news/company-news/brighthouse-financial-stock-hits-52week-low-at-1275-usd-93CH-4954622",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-10-16T16:24:01+00:00",
-   "tickers": []
-  },
-  {
-   "id": "c865069345b4",
-   "title": "Performance Trust Short Term Bond ETF declares $0.0897 dividend",
-   "link": "https://seekingalpha.com/news/4653917-performance-trust-short-term-bond-etf-declares-0_0897-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "dividend",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-16T16:23:55+00:00",
-   "tickers": []
-  },
-  {
-   "id": "dcdfd1c4cd3e",
-   "title": "Ladder Capital Non-GAAP EPS of $0.35 beats by $0.02, revenue of $118.9M beats by $39.23M",
-   "link": "https://seekingalpha.com/news/4653916-ladder-capital-non-gaap-eps-of-0_35-beats-by-0_02-revenue-of-118_9m-beats-by-39_23m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-16T16:22:23+00:00",
-   "tickers": []
-  },
-  {
-   "id": "8e97d4594cb8",
-   "title": "NBA and sportsbooks agree to ban multiple types of bets",
-   "link": "https://www.cnbc.com/video/2026/10/16/nba-and-sportsbooks-agree-to-ban-multiple-types-of-bets.html",
-   "summary": "CNBC’s Julia Boorstin reports on Netflix’s big executive shakeup.",
-   "article_text": "",
-   "source": "CNBC Investing",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-10-16T16:22:16+00:00",
-   "tickers": [
-    "NFLX"
-   ]
-  },
-  {
-   "id": "4a5c96bdd50a",
-   "title": "Snowflake's rapid migrations create expansion opportunities: JP Morgan",
-   "link": "https://seekingalpha.com/news/4653912-snowflakes-rapid-migrations-create-expansion-opportunities-jp-morgan?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-16T16:22:03+00:00",
-   "tickers": [
-    "SNOW",
-    "JPM"
-   ]
-  },
-  {
-   "id": "d317727671dd",
-   "title": "By Any Means: The Album Artists to Embark on 7 Date November Tour Celebrating '60s Soul Music Anthems",
-   "link": "https://www.prnewswire.com/news-releases/by-any-means-the-album-artists-to-embark-on-7-date-november-tour-celebrating-60s-soul-music-anthems-302911446.html",
-   "summary": "Ole Smoky Roadshow Presents 'Moonshine & Music' Tour Tickets Just $10, or Free at Ole Smoky Venues By Any Means: The Album musical director Pynk Beard is on tour with album artists Steve Ray Ladson, Elsie, and Stella Prince — plus special guests Tone Stith, Reyna Roberts, 2'Live Bre,...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-16T16:22:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "31cc58fd1ee6",
-   "title": "Why Alcoa Stock Popped on Friday",
-   "link": "https://www.nasdaq.com/articles/why-alcoa-stock-popped-friday",
-   "summary": "Key PointsAlcoa doubled its profit in Q3 and grew sales 24%.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-16T16:21:18+00:00",
-   "tickers": [
-    "AA"
-   ]
-  },
-  {
-   "id": "5ea71e09a9a0",
-   "title": "Schwab to create 'tax-aware' strategy that's been attracting billions from wealthy investors",
-   "link": "https://www.cnbc.com/2026/10/16/tax-strategies-capital-gains-wealthy-investors-schwab.html",
-   "summary": "Wealthy investors are flocking to tax-aware long short strategies, adding billions into these super-powered versions of tax-loss harvesting accounts.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-10-16T16:21:14+00:00",
-   "tickers": [
-    "SCHF"
-   ]
-  },
-  {
-   "id": "61300eb90980",
-   "title": "Prediction: $3,000 Invested in SpaceX Will Be Worth This Much by 2030",
-   "link": "https://www.nasdaq.com/articles/prediction-3000-invested-spacex-will-be-worth-much-2030",
-   "summary": "Key PointsSpaceX is primarily known for launching rockets.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-16T16:20:00+00:00",
-   "tickers": [
-    "SPCX"
-   ]
-  },
-  {
-   "id": "6e550d660960",
-   "title": "Brighthouse Financial stock hits 52-week low at $13.08",
-   "link": "https://www.investing.com/news/company-news/brighthouse-financial-stock-hits-52week-low-at-1308-93CH-4954620",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-10-16T16:19:32+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b26606625312",
-   "title": "Royalty Pharma declares $0.235 dividend",
-   "link": "https://seekingalpha.com/news/4653915-royalty-pharma-declares-0_235-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "dividend",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-16T16:19:28+00:00",
-   "tickers": [
-    "RPRX"
-   ]
-  },
-  {
-   "id": "9e66059d2e9e",
-   "title": "Silicon Motion Technology raises quarterly dividend by 15% to $0.575/share",
-   "link": "https://seekingalpha.com/news/4653914-silicon-motion-technology-raises-quarterly-dividend-by-15-to-0575share?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-16T16:18:51+00:00",
-   "tickers": []
-  },
-  {
-   "id": "82bcb6480c20",
-   "title": "Highpeak Energy stock hits 52-week high at 10.57 USD",
-   "link": "https://www.investing.com/news/company-news/highpeak-energy-stock-hits-52week-high-at-1057-usd-93CH-4954617",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-10-16T16:17:27+00:00",
-   "tickers": []
-  },
-  {
-   "id": "bdffc6733b08",
-   "title": "Morgan Stanley: Strong Earnings And More Growth Ahead At An Attractive Valuation",
-   "link": "https://seekingalpha.com/article/4954821-morgan-stanley-strong-earnings-and-more-growth-ahead-attractive-valuation?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-16T16:16:14+00:00",
-   "tickers": [
-    "MS"
-   ]
-  },
-  {
-   "id": "3fd26417401a",
-   "title": "Syndax Pharmaceuticals stock hits 52-week low at 12.98 USD",
-   "link": "https://www.investing.com/news/company-news/syndax-pharmaceuticals-stock-hits-52week-low-at-1298-usd-93CH-4954616",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-10-16T16:16:10+00:00",
-   "tickers": []
-  },
-  {
-   "id": "502f2f565851",
-   "title": "Cloudastructure founder Bentley sells $3,330 in stock",
-   "link": "https://www.investing.com/news/insider-trading-news/cloudastructure-founder-bentley-sells-3330-in-stock-93CH-4954615",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-10-16T16:16:06+00:00",
-   "tickers": [
-    "BSY"
-   ]
-  },
-  {
-   "id": "5e5543456b11",
-   "title": "Micron Stock’s Drop Triggers ‘Buy the Dip’ Calls. No One’s Listening",
-   "link": "https://biztoc.com/x/c2be4e27b18532be?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-10-16T16:15:31+00:00",
-   "tickers": [
-    "MU"
-   ]
-  },
-  {
-   "id": "a29ba35b44ee",
-   "title": "Fractyl Health, Inc. (GUTS) Discusses Positive Top Line 6-Month Results From REMAIN-1 Study of Revita in Post GLP-1 Weight Maintenance - Slideshow",
-   "link": "https://seekingalpha.com/article/4954837-fractyl-health-inc-guts-discusses-positive-top-line-6-month-results-from-remainminus-1-study?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-16T16:15:29+00:00",
-   "tickers": [
-    "POST"
-   ]
-  },
-  {
-   "id": "51d6f1ebe675",
-   "title": "Wall Street trades lower as tech struggles continue",
-   "link": "https://seekingalpha.com/news/4653818-wall-street-trades-mixed-as-tech-struggles-continue?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-16T16:15:20+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b0847bd8046e",
-   "title": "Judge rejects CFTC, Gemini bid to vacate $5 million settlement",
-   "link": "https://biztoc.com/x/676cdef8260e252c?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-10-16T16:15:20+00:00",
-   "tickers": []
-  },
-  {
-   "id": "65b439cfa842",
-   "title": "What this bankruptcy says about AI startups",
-   "link": "https://biztoc.com/x/9912eebc9b4095ec?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-10-16T16:15:18+00:00",
-   "tickers": []
-  },
-  {
-   "id": "784d06577fde",
-   "title": "8-K - CHAMPIONS ONCOLOGY, INC. (0000771856) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/771856/000162828026066087/0001628280-26-066087-index.htm",
-   "summary": "Filed: 2026-10-16 AccNo: 0001628280-26-066087 Size: 169 KB Item 5.07: Submission of Matters to a Vote of Security Holders",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-10-16T16:15:14+00:00",
-   "tickers": []
-  },
-  {
-   "id": "c4aa0b0a924b",
-   "title": "US lawmakers introduce bill to block diesel deal with Russia",
-   "link": "https://biztoc.com/x/fbe7e9c3f87fbac3?ref=rss",
-   "summary": "United States bipartisan lawmakers introduced a bill on Friday aimed at blocking President Donald Trump's \"corrupt deal\" with Russian President Vladimir Putin on the import of Russian diesel.\"This dea...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-16T16:14:49+00:00",
-   "tickers": []
-  },
-  {
-   "id": "48c6c20b8440",
-   "title": "Canada to boost immigration points for high-wage earners in bid to drive economic growth",
-   "link": "https://biztoc.com/x/ecdd2c29a52fe755?ref=rss",
-   "summary": "Canada will provide extra immigration points in its Express Entry program to candidates with high-wage occupations, such as engineers and electricians, in an effort to drive economic growth, the federal government said Friday. The boost, which starts in November, aims to attract and retain…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-10-16T16:14:40+00:00",
-   "tickers": []
-  },
-  {
-   "id": "f17fc6dfe177",
-   "title": "Elorian’s first AI model wants to reason with images, not just about them",
-   "link": "https://biztoc.com/x/0659184e77488fa6?ref=rss",
-   "summary": "Elorian, the Palo Alto AI startup that raised a $55 million seed round at a $300 million valuation before it launched a product, released its first model on Friday, TechCrunch has exclusively learned. The model, Glimpse, is launching as a research preview with API access and a chat interface is…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-16T16:14:35+00:00",
-   "tickers": [
-    "PANW"
-   ]
-  },
-  {
-   "id": "65107843328f",
-   "title": "Elon Musk shows off ‘flying’ Tesla Roadster after years of delays",
-   "link": "https://biztoc.com/x/c663110ae6ce873a?ref=rss",
-   "summary": "Elon Musk showed off the new Tesla Roadster prototype Thursday that can briefly launch itself into the air using rocket-inspired thrusters.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-16T16:14:35+00:00",
-   "tickers": [
-    "TSLA"
-   ]
-  },
-  {
-   "id": "51a940bf6949",
-   "title": "CT Global Managed Portfolio issues 75,000 income shares at 131.25p",
-   "link": "https://www.investing.com/news/company-news/ct-global-managed-portfolio-issues-75000-income-shares-at-13125p-93CH-4954609",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-10-16T16:14:35+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8899,7 +8909,9 @@
   "CCC": "CCC Intelligent Solutions Holdings",
   "TSM": "Taiwan Semiconductor Manufacturing",
   "DB": "Deutsche Bank Aktiengesellschaft",
+  "EEM": "iShares MSCI Emerging Index Fund",
   "SCHF": "Schwab International Equity ETF",
+  "DJT": "Trump Media & Technology Group",
   "HII": "Huntington Ingalls Industries",
   "TTWO": "Take-Two Interactive Software",
   "JBHT": "J.B. Hunt Transport Services",
@@ -8923,6 +8935,7 @@
   "LULU": "lululemon athletica",
   "BEN": "Franklin Resources",
   "BRK-A": "Berkshire Hathaway",
+  "CSL": "Carlisle Companies",
   "MRVL": "Marvell Technology",
   "PANW": "Palo Alto Networks",
   "SCHW": "The Charles Schwab",
@@ -8941,7 +8954,6 @@
   "JPM": "JPMorgan Chase &",
   "TFC": "Truist Financial",
   "BAC": "Bank of America",
-  "BSY": "Bentley Systems",
   "COIN": "Coinbase Global",
   "DIS": "The Walt Disney",
   "JBLU": "JetBlue Airways",
@@ -8956,9 +8968,9 @@
   "MS": "Morgan Stanley",
   "NVT": "nVent Electric",
   "QBTS": "D-Wave Quantum",
-  "RPRX": "Royalty Pharma",
   "FNV": "Franco-Nevada",
   "KO": "The Coca-Cola",
+  "LLY": "Eli Lilly and",
   "MT": "ArcelorMittal",
   "OC": "Owens Corning",
   "POST": "Post Holdings",
@@ -8994,7 +9006,6 @@
   "C": "Citigroup",
   "CME": "CME Group",
   "CRWV": "CoreWeave",
-  "SNOW": "Snowflake",
   "NWSA": "News Corp",
   "ALKS": "Alkermes",
   "AVGO": "Broadcom",
@@ -9004,6 +9015,7 @@
   "MTB": "M&T Bank",
   "RS": "Reliance",
   "FOX": "Fox Corp",
+  "AES": "The AES",
   "BLSH": "Bullish",
   "COMP": "Compass",
   "CVX": "Chevron",
@@ -9022,9 +9034,9 @@
   "TWLO": "Twilio",
   "AA": "Alcoa",
   "ETN": "Eaton",
+  "BALL": "Ball",
   "MSCI": "MSCI",
   "NVMI": "Nova",
-  "ROKU": "Roku",
   "V": "Visa"
  }
 }
