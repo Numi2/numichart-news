@@ -1,8 +1,71 @@
 {
- "generated": "2026-10-16T23:25:17.184254+00:00",
+ "generated": "2026-10-16T23:31:20.101138+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "3e0531f55b4d",
+   "title": "Stock Indexes Finish Sharply Lower as Tech Stocks Plunge",
+   "link": "https://www.nasdaq.com/articles/stock-indexes-finish-sharply-lower-tech-stocks-plunge",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down by -1.09% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down by -0.34%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -2.50%. December E-mini S&P futures (ESZ26 ) fell -1.14%, and December E-mini...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-10-16T23:24:42+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
+  },
+  {
+   "id": "f52fa2180da6",
+   "title": "Soybeans Finding Some Buyers at Midday, Still Facing Weaker",
+   "link": "https://www.nasdaq.com/articles/soybeans-finding-some-buyers-midday-still-facing-weaker",
+   "summary": "Soybeans are trying to pull off the early near double digit losses on Friday, with contracts down 1 to 3 cents at midday. The cmdtyView national average Cash Bean price is down 1 ¼ cents at $12.03 1/2. Soymeal futures are down $3.20 to $3.40, with Soy Oil futures up...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-16T23:24:42+00:00",
+   "tickers": []
+  },
+  {
+   "id": "defa403e8c0d",
+   "title": "Panzani y Cerealis unen sus fuerzas para crear un importante grupo alimentario europeo",
+   "link": "https://www.prnewswire.com/news-releases/panzani-y-cerealis-unen-sus-fuerzas-para-crear-un-importante-grupo-alimentario-europeo-302911710.html",
+   "summary": "La operación reuniría a dos fabricantes europeos de productos alimentarios consolidados, con unos ingresos anuales conjuntos de 1.000 millones de euros, y contaría con el respaldo de las familias fundadoras de Cerealis, así como de Sofina y CVC Capital Partners. OPORTO, Portugal, 17 de...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-10-16T23:24:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "5d5f053e25dc",
+   "title": "Netflix Hurries to Rewrite Its Narrative With Layoffs and a Sudden Firing",
+   "link": "https://www.nytimes.com/2026/10/16/business/media/netflix-layoffs-bela-bajaria.html",
+   "summary": "Despite strong revenues and profits, the streaming service cut 1,000 jobs and jettisoned its chief content officer. Drops in the stock price and viewer engagement are to blame.",
+   "article_text": "",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "negative",
+   "domain": "nytimes.com",
+   "published": "2026-10-16T23:22:21+00:00",
+   "tickers": [
+    "NFLX"
+   ]
+  },
   {
    "id": "6e15667d254e",
    "title": "New Troy Aikman Career News Emerges Amid Rumored ESPN Exit",
@@ -345,22 +408,6 @@
    "tickers": []
   },
   {
-   "id": "5d5f053e25dc",
-   "title": "Netflix Hurries to Rewrite Its Narrative With Layoffs and a Sudden Firing",
-   "link": "https://www.nytimes.com/2026/10/16/business/media/netflix-layoffs-bela-bajaria.html",
-   "summary": "Despite strong revenues and profits, the streaming service cut 1,000 jobs and jettisoned its chief content officer. Drops in the stock price and viewer engagement are to blame.",
-   "article_text": "",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "negative",
-   "domain": "nytimes.com",
-   "published": "2026-10-16T23:13:35+00:00",
-   "tickers": [
-    "NFLX"
-   ]
-  },
-  {
    "id": "2549a3aa1e04",
    "title": "Buy VCV, Short VPV: Arbitrage Opportunity With Municipal Funds",
    "link": "https://seekingalpha.com/article/4954914-buy-vcv-short-vpv-arbitrage-opportunity-with-municipal-funds?source=feed_all_articles",
@@ -375,6 +422,22 @@
    "tickers": []
   },
   {
+   "id": "10f7f14ed105",
+   "title": "Sugar Prices Decline on Drier Weather Forecasts for Brazil",
+   "link": "https://www.nasdaq.com/articles/sugar-prices-decline-drier-weather-forecasts-brazil",
+   "summary": "March NY world sugar #11 (SBH27 ) closed down -0.28 (-1.33%) on Friday, and December London ICE white sugar #5 (SWZ26 ) closed down -6.20 (-1.10%). Sugar prices came under pressure on Friday as forecasts for hot, dry weather next week in Brazil’s Center-South region, the country’s largest sugar-producing area,...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-16T23:12:07+00:00",
+   "tickers": [
+    "ICE"
+   ]
+  },
+  {
    "id": "f8b1596f6aff",
    "title": "Anthropic signs lease for first Canadian data center",
    "link": "https://www.investing.com/news/stock-market-news/anthropic-signs-lease-for-first-canadian-data-center-4954967",
@@ -387,6 +450,22 @@
    "domain": "investing.com",
    "published": "2026-10-16T23:06:30+00:00",
    "tickers": []
+  },
+  {
+   "id": "fbae229f6186",
+   "title": "U.S. Bancorp: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/us-bancorp-3-key-takeaways-long-term-investors",
+   "summary": "Key PointsCapital markets fee revenue grew 69% year over year.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-16T23:05:59+00:00",
+   "tickers": [
+    "USB"
+   ]
   },
   {
    "id": "719904ff1b22",
@@ -500,6 +579,20 @@
    "sentiment": "neutral",
    "domain": "nytimes.com",
    "published": "2026-10-16T23:04:17+00:00",
+   "tickers": []
+  },
+  {
+   "id": "998d61f1829e",
+   "title": "1 Obvious Metric That Makes Nvidia a Top Stock to Buy Now",
+   "link": "https://www.nasdaq.com/articles/1-obvious-metric-makes-nvidia-top-stock-buy-now",
+   "summary": "Key PointsNone of 2027's expected growth has been priced into Nvidia's stock.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-10-16T23:04:00+00:00",
    "tickers": []
   },
   {
@@ -873,41 +966,6 @@
    "published": "2026-10-16T22:55:00+00:00",
    "tickers": [
     "GIL"
-   ]
-  },
-  {
-   "id": "3e0531f55b4d",
-   "title": "Stock Indexes Finish Sharply Lower as Tech Stocks Plunge",
-   "link": "https://www.nasdaq.com/articles/stock-indexes-finish-sharply-lower-tech-stocks-plunge",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down by -1.09% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down by -0.34%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -2.50%. December E-mini S&P futures (ESZ26 ) fell -1.14%, and December E-mini...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-10-16T22:54:57+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
-   ]
-  },
-  {
-   "id": "10f7f14ed105",
-   "title": "Sugar Prices Decline on Drier Weather Forecasts for Brazil",
-   "link": "https://www.nasdaq.com/articles/sugar-prices-decline-drier-weather-forecasts-brazil",
-   "summary": "March NY world sugar #11 (SBH27 ) closed down -0.28 (-1.33%) on Friday, and December London ICE white sugar #5 (SWZ26 ) closed down -6.20 (-1.10%). Sugar prices came under pressure on Friday as forecasts for hot, dry weather next week in Brazil’s Center-South region, the country’s largest sugar-producing area,...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-16T22:54:57+00:00",
-   "tickers": [
-    "ICE"
    ]
   },
   {
@@ -6141,20 +6199,6 @@
    ]
   },
   {
-   "id": "f52fa2180da6",
-   "title": "Soybeans Finding Some Buyers at Midday, Still Facing Weaker",
-   "link": "https://www.nasdaq.com/articles/soybeans-finding-some-buyers-midday-still-facing-weaker",
-   "summary": "Soybeans are trying to pull off the early near double digit losses on Friday, with contracts down 1 to 3 cents at midday. The cmdtyView national average Cash Bean price is down 1 ¼ cents at $12.03 1/2. Soymeal futures are down $3.20 to $3.40, with Soy Oil futures up...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-16T20:46:12+00:00",
-   "tickers": []
-  },
-  {
    "id": "bd68c0e4e4ed",
    "title": "Cocoa Prices Retreat as North American Cocoa Demand Unexpectedly Falters",
    "link": "https://www.nasdaq.com/articles/cocoa-prices-retreat-north-american-cocoa-demand-unexpectedly-falters",
@@ -8840,52 +8884,6 @@
    "tickers": [
     "COMP"
    ]
-  },
-  {
-   "id": "05fe5a77edda",
-   "title": "8-K - SCOTTS MIRACLE-GRO CO (0000825542) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/825542/000082554226000058/0000825542-26-000058-index.htm",
-   "summary": "Filed: 2026-10-16 AccNo: 0000825542-26-000058 Size: 253 KB Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-10-16T20:06:42+00:00",
-   "tickers": []
-  },
-  {
-   "id": "5cf4be025556",
-   "title": "8-K - Jefferies Credit Partners BDC Inc. (0001959604) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1959604/000119312526424073/0001193125-26-424073-index.htm",
-   "summary": "Filed: 2026-10-16 AccNo: 0001193125-26-424073 Size: 181 KB Item 1.01: Entry into a Material Definitive Agreement Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-10-16T20:06:39+00:00",
-   "tickers": [
-    "JEF"
-   ]
-  },
-  {
-   "id": "e8a0f321d486",
-   "title": "8-K - FOX FACTORY HOLDING CORP (0001424929) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1424929/000142492926000061/0001424929-26-000061-index.htm",
-   "summary": "Filed: 2026-10-16 AccNo: 0001424929-26-000061 Size: 387 KB Item 2.02: Results of Operations and Financial Condition Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-10-16T20:06:27+00:00",
-   "tickers": [
-    "FOX"
-   ]
   }
  ],
  "ticker_names": {
@@ -8965,6 +8963,7 @@
   "NBIS": "Nebius Group",
   "SPY": "SPDR S&P 500",
   "UBS": "UBS Group AG",
+  "USB": "U.S. Bancorp",
   "GOOGL": "Google Cloud",
   "TSLA": "Supercharger",
   "LCID": "Lucid Group",
