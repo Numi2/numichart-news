@@ -1,8 +1,52 @@
 {
- "generated": "2026-10-17T21:52:44.107180+00:00",
+ "generated": "2026-10-17T21:59:01.405740+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "0c41faaf1470",
+   "title": "Hurricane Trudy strengthens to Category 2 as it approaches Mexico coast",
+   "link": "https://www.cnbc.com/2026/10/17/hurricane-trudy-mexico-typhoon-champi-guam.html",
+   "summary": "Trudy's center was expected to approach the coast on Saturday and pass near it into Sunday.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-10-17T21:54:47+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f761b15e86a0",
+   "title": "Crude Oil Prices Surge as Global Supply Risks Multiply",
+   "link": "https://www.nasdaq.com/articles/crude-oil-prices-surge-global-supply-risks-multiply",
+   "summary": "November WTI crude oil (CLX26 ) closed up +3.44 (+3.51%) on Friday, and November RBOB gasoline (RBX26 ) closed up +0.552 (+1.74%). Crude oil and gasoline prices rallied sharply on Friday, with crude posting a 1-month high. Crude prices rose Friday amid a weaker dollar and concerns that escalating hostilities...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-10-17T21:52:33+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b29293e45ae5",
+   "title": "Dollar Weakens on Reduced Fed Rate Hike Chances This Month",
+   "link": "https://www.nasdaq.com/articles/dollar-weakens-reduced-fed-rate-hike-chances-month",
+   "summary": "The dollar index (DXY00 ) tumbled to a 2-week low on Friday and finished down by -0.19%. The dollar came under pressure Friday after Fed Chair Powell refrained from providing guidance on monetary policy or the economy during a speech at the annual IMF meeting in Bangkok. Mr. Powell’s lack...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-10-17T21:52:33+00:00",
+   "tickers": [
+    "POWL"
+   ]
+  },
   {
    "id": "4a547958f346",
    "title": "HIMS Deadline: HIMS Investors Have Opportunity to Lead Hims &amp; Hers Health, Inc. Securities Fraud Lawsuit",
@@ -3928,20 +3972,6 @@
    "tickers": [
     "QUBT"
    ]
-  },
-  {
-   "id": "0c41faaf1470",
-   "title": "Hurricane Trudy approaches Mexico coast as Typhoon Champi threatens Guam",
-   "link": "https://www.cnbc.com/2026/10/17/hurricane-trudy-mexico-typhoon-champi-guam.html",
-   "summary": "Hurricane Trudy moved toward Mexico's Pacific coast and could keep growing through Saturday, forecasters said.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-10-17T17:16:58+00:00",
-   "tickers": []
   },
   {
    "id": "345bb6026879",
@@ -8907,42 +8937,11 @@
    "domain": "seekingalpha.com",
    "published": "2026-10-17T12:36:16+00:00",
    "tickers": []
-  },
-  {
-   "id": "92ec23d889b3",
-   "title": "CEF Weekly Review: Weakness In CCCs",
-   "link": "https://seekingalpha.com/article/4954979-cef-weekly-review-weakness-in-cccs?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-17T12:35:26+00:00",
-   "tickers": [
-    "CEF"
-   ]
-  },
-  {
-   "id": "8e5f6ede89fa",
-   "title": "Influencers and biohackers swear by fasting. Here’s what the science says.",
-   "link": "https://www.marketwatch.com/story/influencers-and-biohackers-swear-by-fasting-heres-what-the-science-says-3318191f?mod=mw_rss_topstories",
-   "summary": "Fasting can help some people reduce how many calories they eat — but it’s not “effortless” as some would have you believe.",
-   "article_text": "",
-   "source": "MarketWatch",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "marketwatch.com",
-   "published": "2026-10-17T12:31:00+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
   "JIRE": "JPMorgan International Research Enhanced Equity ETF",
   "VYMI": "Vanguard International High Dividend Yield ETF",
-  "CEF": "Sprott Physical Gold and Silver Trust Units",
   "DIA": "SPDR Dow Jones Industrial Average ETF",
   "KTOS": "Kratos Defense & Security Solutions",
   "JEPI": "JPMorgan Equity Premium Income ETF",
