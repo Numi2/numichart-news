@@ -1,8 +1,53 @@
 {
- "generated": "2026-10-17T11:30:30.528312+00:00",
+ "generated": "2026-10-17T11:38:34.358997+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "6ac349c9c55c",
+   "title": "DT Midstream: A Period Of No Growth May Lie Ahead",
+   "link": "https://seekingalpha.com/article/4954970-dt-midstream-period-of-no-growth-may-lie-ahead?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-17T11:34:32+00:00",
+   "tickers": [
+    "DTM",
+    "DT"
+   ]
+  },
+  {
+   "id": "8763fea7eb86",
+   "title": "It was another great week for the average stock as market leadership shifts away from tech",
+   "link": "https://www.marketwatch.com/story/it-was-another-great-week-for-the-average-stock-as-market-leadership-shifts-away-from-tech-8e8516da?mod=mw_rss_topstories",
+   "summary": "The S&P 500’s tech sector just had its worst week in a year and a half, while an equal-weighted version of the index cemented a second-straight weekly advance.",
+   "article_text": "",
+   "source": "MarketWatch",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "marketwatch.com",
+   "published": "2026-10-17T11:30:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a45ae0e2528a",
+   "title": "York Water: Buy This Under-The-Radar Dividend Champion Now",
+   "link": "https://seekingalpha.com/article/4954910-york-water-buy-this-under-the-radar-dividend-champion-now?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-17T11:30:00+00:00",
+   "tickers": []
+  },
   {
    "id": "94cb20def148",
    "title": "PNC Financial: Fed Pivot And NII Growth (Rating Upgrade)",
@@ -8789,52 +8834,6 @@
    "domain": "biztoc.com",
    "published": "2026-10-17T00:18:54+00:00",
    "tickers": []
-  },
-  {
-   "id": "eb01da65c582",
-   "title": "Hong Kong Restaurant Review: Vesu's Signature Is Peking Duck Pizza",
-   "link": "https://biztoc.com/x/84248f599c4db910?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-17T00:18:53+00:00",
-   "tickers": [
-    "QSR"
-   ]
-  },
-  {
-   "id": "6a609c11dce1",
-   "title": "Anthropic’s $2 trillion IPO dream hits a new reality",
-   "link": "https://biztoc.com/x/e9ddb81216c75b1c?ref=rss",
-   "summary": "Anthropic is producing the kind of growth that would normally make Wall Street salivate. Investors continue to lower their estimates of the artificial intelligence company’s potential value. Some current and prospective Anthropic investors have discussed valuing the Claude maker at roughly $1.5…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "offering",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-17T00:18:47+00:00",
-   "tickers": []
-  },
-  {
-   "id": "8df47e61763a",
-   "title": "Beam Therapeutics CEO John Evans sells $1.19m in company stock",
-   "link": "https://www.investing.com/news/insider-trading-news/beam-therapeutics-ceo-john-evans-sells-119m-in-company-stock-93CH-4955042",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-10-17T00:16:35+00:00",
-   "tickers": [
-    "BEAM"
-   ]
   }
  ],
  "ticker_names": {
@@ -8906,6 +8905,7 @@
   "POST": "Post Holdings",
   "UNH": "United Health",
   "MSTR": "MicroStrategy",
+  "DTM": "DT Midstream",
   "SPY": "SPDR S&P 500",
   "STT": "State Street",
   "UBS": "UBS Group AG",
@@ -8930,6 +8930,7 @@
   "C": "Citigroup",
   "CME": "CME Group",
   "CRWV": "CoreWeave",
+  "DT": "Dynatrace",
   "SM": "SM Energy",
   "NWSA": "News Corp",
   "BCS": "Barclays",
