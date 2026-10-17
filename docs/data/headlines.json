@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-17T10:51:46.295334+00:00",
+ "generated": "2026-10-17T10:58:17.735348+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -216,7 +216,7 @@
    "link": "https://www.prnewswire.com/news-releases/agfund-wins-international-award-for-excellence-in-inclusive-banking-and-social-impact-302911811.html",
    "summary": "Prince Abdulaziz bin Talal credits the founders of AGFUND's microfinance banks for laying the foundations of its development impact BANGKOK, Oct. 17, 2026 /PRNewswire/ -- The Arab Gulf Programme for Development (AGFUND) won the \"Excellence in Inclusive Banking and Social Impact\" award at...",
    "article_text": "",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "positive",
@@ -1222,6 +1222,22 @@
    "domain": "biztoc.com",
    "published": "2026-10-17T09:36:34+00:00",
    "tickers": []
+  },
+  {
+   "id": "1391a913aaec",
+   "title": "Raymond James Upgrades Greif to Outperform from Market Perform",
+   "link": "https://www.nasdaq.com/articles/raymond-james-upgrades-greif-outperform-market-perform",
+   "summary": "Fintel reports that on October 16, 2026, Raymond James upgraded their outlook for Greif (NYSE:GEF.B) (DB:GB6B) from Market Perform to Outperform.Greif, Inc., headquartered in Delaware, Ohio, USA, is a global leader in industrial packaging products and services. Established in the",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-10-17T09:36:09+00:00",
+   "tickers": [
+    "DB"
+   ]
   },
   {
    "id": "0aacbfedb411",
@@ -8826,20 +8842,6 @@
    "tickers": [
     "IBKR"
    ]
-  },
-  {
-   "id": "f52fa2180da6",
-   "title": "Soybeans Finding Some Buyers at Midday, Still Facing Weaker",
-   "link": "https://www.nasdaq.com/articles/soybeans-finding-some-buyers-midday-still-facing-weaker",
-   "summary": "Soybeans are trying to pull off the early near double digit losses on Friday, with contracts down 1 to 3 cents at midday. The cmdtyView national average Cash Bean price is down 1 ¼ cents at $12.03 1/2. Soymeal futures are down $3.20 to $3.40, with Soy Oil futures up...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-16T23:24:42+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8848,6 +8850,7 @@
   "DIA": "SPDR Dow Jones Industrial Average ETF",
   "KTOS": "Kratos Defense & Security Solutions",
   "TSM": "Taiwan Semiconductor Manufacturing",
+  "DB": "Deutsche Bank Aktiengesellschaft",
   "VYM": "Vanguard High Dividend Yield ETF",
   "QSR": "Restaurant Brands International",
   "SCHF": "Schwab International Equity ETF",
