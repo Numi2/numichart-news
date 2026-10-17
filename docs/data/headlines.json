@@ -1,8 +1,39 @@
 {
- "generated": "2026-10-17T19:16:04.065574+00:00",
+ "generated": "2026-10-17T19:24:12.653141+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "be236d7380d0",
+   "title": "Trump Offers Putin Economic Relief in Hopes That Russia Will Return the Favor",
+   "link": "https://www.nytimes.com/2026/10/17/business/trump-russia-sanctions-congress.html",
+   "summary": "The Trump administration is ignoring the will of Congress and waiving new Russia sanctions amid fears that high energy prices will cost Republicans in next month’s elections.",
+   "article_text": "",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-10-17T19:17:57+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f80a9c02c3ba",
+   "title": "Key deals this week: International Paper, IonQ, Bumble, and more",
+   "link": "https://seekingalpha.com/news/4654028-key-deals-this-week-international-paper-ionq-bumble-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-17T19:15:55+00:00",
+   "tickers": [
+    "IP",
+    "IONQ"
+   ]
+  },
   {
    "id": "83d0254e3d47",
    "title": "How Mike Lyons, Truist's new CEO, is plotting a turnaround",
@@ -73,6 +104,154 @@
    "sentiment": "neutral",
    "domain": "biztoc.com",
    "published": "2026-10-17T19:10:11+00:00",
+   "tickers": []
+  },
+  {
+   "id": "03fca0596b69",
+   "title": "UnitedHealth: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/unitedhealth-3-key-takeaways-long-term-investors",
+   "summary": "Key PointsAI chart summarization expanded to 40% of clinicians, cutting review time by 33%.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-17T19:07:01+00:00",
+   "tickers": [
+    "UNH"
+   ]
+  },
+  {
+   "id": "94d09d8c2938",
+   "title": "As Chip Stocks Sell Off, This Is the Flight-to-Safety Play I Would Choose",
+   "link": "https://www.nasdaq.com/articles/chip-stocks-sell-flight-safety-play-i-would-choose",
+   "summary": "Key PointsTSMC's revenue grew by more than 50% in the third quarter.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-17T19:05:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "028f96388240",
+   "title": "Hogs Popping Higher on Friday, with Pork Finally Getting Some Bids",
+   "link": "https://www.nasdaq.com/articles/hogs-popping-higher-friday-pork-finally-getting-some-bids",
+   "summary": "Lean hog futures are rallying on Friday with contracts up 45 cents to $1.10 at midday. USDA’s national base hog price was reported at $70.35 on Friday morning, down $2.06 from the day prior. The CME Lean Hog Index was down another 66 cents on October 14 at $75.09. Export...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-17T19:02:35+00:00",
+   "tickers": [
+    "CME"
+   ]
+  },
+  {
+   "id": "46ca9fcd7889",
+   "title": "Wheat Bears Pushing Losses into Friday’s Midday",
+   "link": "https://www.nasdaq.com/articles/wheat-bears-pushing-losses-fridays-midday",
+   "summary": "The wheat complex is heading into the weekend with losses across the three exchanges. Chicago SRW contracts are slipping back 7 to 8 cents to round out the week. KC HRW futures are trading with 7 to 8 cent losses at midday. MPLS spring wheat is down 6 to 7...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-10-17T19:02:34+00:00",
+   "tickers": []
+  },
+  {
+   "id": "da84e02100d5",
+   "title": "Cattle Rallying on Friday, with Cash Firming",
+   "link": "https://www.nasdaq.com/articles/cattle-rallying-friday-cash-firming",
+   "summary": "Live cattle futures are rallying as cash trade picks up, with futures up 97 cents to $1.20 at midday. USDA reported a few dressed northern sales at $345-355 in the north. The Friday morning Fed Cattle Exchange online auction showed sales of $228-228.50 on 571 of the 2,596 head offered,...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-17T19:02:34+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f7bb77dc4fa1",
+   "title": "Corn Bulls Failing to See Strength on a Pick-up in Export Business",
+   "link": "https://www.nasdaq.com/articles/corn-bulls-failing-see-strength-pick-export-business",
+   "summary": "Corn futures are trading with contracts down 2 to 4 cents at midday, getting some slight midday bids off the lows. The CmdtyView national average Cash Corn price was down 2 3/4 cents at $4.36. USDA reported a private export sale of 127,000 MT of corn for 2026/27 to Japan...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-17T19:02:34+00:00",
+   "tickers": [
+    "MT"
+   ]
+  },
+  {
+   "id": "f52fa2180da6",
+   "title": "Soybeans Finding Some Buyers at Midday, Still Facing Weaker",
+   "link": "https://www.nasdaq.com/articles/soybeans-finding-some-buyers-midday-still-facing-weaker",
+   "summary": "Soybeans are trying to pull off the early near double digit losses on Friday, with contracts down 1 to 3 cents at midday. The cmdtyView national average Cash Bean price is down 1 ¼ cents at $12.03 1/2. Soymeal futures are down $3.20 to $3.40, with Soy Oil futures up...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-17T19:02:34+00:00",
+   "tickers": []
+  },
+  {
+   "id": "15f6c2bc9a11",
+   "title": "Sugar Prices Sink on Forecasts for Drier Weather in Brazil",
+   "link": "https://www.nasdaq.com/articles/sugar-prices-sink-forecasts-drier-weather-brazil",
+   "summary": "March NY world sugar #11 (SBH27 ) is down -0.41 (-1.94%) today, and December London ICE white sugar #5 (SWZ26 ) is down -7.20 (-1.28%). Sugar prices are falling today as forecasts for hot, dry weather next week in Brazil’s Center-South region, the country’s largest sugar-producing area, sparked long liquidation...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-10-17T19:02:34+00:00",
+   "tickers": [
+    "ICE"
+   ]
+  },
+  {
+   "id": "54e31f67c037",
+   "title": "Bitcoin coils at 23.6% Fib level near $81,495: Live levels",
+   "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-wedged-at-84175-between-key-support-and-resistance-live-93CH-4943299",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-17T19:02:16+00:00",
+   "tickers": []
+  },
+  {
+   "id": "d5ea5734a027",
+   "title": "Bitcoin price holds above $81,000 as ETF outflows weigh on sentiment",
+   "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-price-holds-above-81000-as-etf-outflows-weigh-on-sentiment-4955253",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-17T19:00:45+00:00",
    "tickers": []
   },
   {
@@ -386,6 +565,22 @@
    ]
   },
   {
+   "id": "68bcd0f7d628",
+   "title": "Should You Buy Vistra After an 11% 1-Day Jump on a $4.2 Billion DOE Loan? The Catch Most Investors Are Missing.",
+   "link": "https://www.nasdaq.com/articles/should-you-buy-vistra-after-11-1-day-jump-42-billion-doe-loan-catch-most-investors-are",
+   "summary": "Key PointsVistra’s conditional federal financing could add 433 megawatts of nuclear capacity and extend three plants’ operating lives by 20 years.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-10-17T18:50:00+00:00",
+   "tickers": [
+    "VST"
+   ]
+  },
+  {
    "id": "6989fe511178",
    "title": "Huawei onthult een verbeterde Stellar Intelligent Network-oplossing voor de Europese regio, gebaseerd op de filosofie van \"veilige en intelligente connectiviteit\"",
    "link": "https://www.prnewswire.com/news-releases/huawei-onthult-een-verbeterde-stellar-intelligent-network-oplossing-voor-de-europese-regio-gebaseerd-op-de-filosofie-van-veilige-en-intelligente-connectiviteit-302911865.html",
@@ -397,6 +592,20 @@
    "sentiment": "neutral",
    "domain": "prnewswire.com",
    "published": "2026-10-17T18:49:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "9f5658b1021a",
+   "title": "Travelers: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/travelers-3-key-takeaways-long-term-investors",
+   "summary": "Key PointsCore income reached $1.95 billion in the third quarter.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-17T18:47:18+00:00",
    "tickers": []
   },
   {
@@ -412,6 +621,22 @@
    "domain": "seekingalpha.com",
    "published": "2026-10-17T18:47:14+00:00",
    "tickers": []
+  },
+  {
+   "id": "cad5c1f7b583",
+   "title": "Should you Buy Amazon Stock Before October 29? History Has a Clear Answer.",
+   "link": "https://www.nasdaq.com/articles/should-you-buy-amazon-stock-october-29-history-has-clear-answer",
+   "summary": "Key PointsIt is unclear how a recent sell-off in AI-related stocks may affect Amazon.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-17T18:47:00+00:00",
+   "tickers": [
+    "AMZN"
+   ]
   },
   {
    "id": "4adca316472a",
@@ -1585,7 +1810,7 @@
    "link": "https://www.prnewswire.com/news-releases/agfund-erhalt-internationale-auszeichnung-fur-herausragende-leistungen-im-bereich-inklusives-bankwesen-und-soziale-wirkung-302911845.html",
    "summary": "Prinz Abdulaziz bin Talal würdigt die Gründer der Mikrofinanzbanken des AGFUND, die den Grundstein für dessen Entwicklungswirkung gelegt haben. BANGKOK, 17. Oktober 2026 /PRNewswire/ -- Das Arabische Golf-Programm für Entwicklung (AGFUND) gewann den Preis \"Excellence in Inclusive Banking...",
    "article_text": "",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -4694,20 +4919,6 @@
    "tickers": [
     "ISRG"
    ]
-  },
-  {
-   "id": "d5ea5734a027",
-   "title": "Bitcoin price holds near $81,000 as ETF outflows weigh on sentiment",
-   "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-price-holds-above-81000-as-etf-outflows-weigh-on-sentiment-4955253",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-10-17T14:14:28+00:00",
-   "tickers": []
   },
   {
    "id": "9892f14ca84c",
@@ -8701,222 +8912,10 @@
    "domain": "biztoc.com",
    "published": "2026-10-17T10:37:34+00:00",
    "tickers": []
-  },
-  {
-   "id": "4137c36befc7",
-   "title": "Rebuilding Buffers Without the Luxury of Time",
-   "link": "https://biztoc.com/x/443a6bbc4087ceed?ref=rss",
-   "summary": "Rebuilding Buffers Without the Luxury of Time IMF News, October 16, 2026 Source details - Canonical URL - Rebuilding Buffers Without the Luxury of Time Other formats Bibliographic details - Published: October 16, 2026 Overview of the world economy (speech by Kristalina Georgieva, Managing…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-17T10:37:31+00:00",
-   "tickers": [
-    "NWSA"
-   ]
-  },
-  {
-   "id": "965fbc1f6c37",
-   "title": "Tesla is taking $250,000 deposits for a Roadster with SpaceX thrusters. The FAA says it isn’t an aircraft",
-   "link": "https://biztoc.com/x/17cabcaa1be4a957?ref=rss",
-   "summary": "The flying car just got a little closer to reality. Tesla’s long-awaited Roadster drove upside down along a curved ramp, launched into the air, rolled 180 degrees using bursts of compressed air and landed on its wheels during a livestreamed demonstration Thursday at SpaceX’s rocket test facility…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-17T10:37:31+00:00",
-   "tickers": [
-    "TSLA",
-    "SPCX"
-   ]
-  },
-  {
-   "id": "d0b8940c627f",
-   "title": "JPMorgan CEO raises new safety question about your money",
-   "link": "https://biztoc.com/x/c5f10007fb23034d?ref=rss",
-   "summary": "I bet everyone has felt that uncomfortable little jolt when a subscription renewal hits their account, and they barely remember signing up. I suspect most of us have a few charges we’d rather not continue paying. That’s why the idea of an AI assistant handling my financial chores sounds appealing.…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-10-17T10:37:26+00:00",
-   "tickers": [
-    "JIRE"
-   ]
-  },
-  {
-   "id": "f35d2d9d222f",
-   "title": "Anthropic's Clark warns AI action window is shrinking",
-   "link": "https://biztoc.com/x/7753a7762742f144?ref=rss",
-   "summary": "Anthropic co-founder Jack Clark warned on Saturday that artificial intelligence is advancing faster than people can anticipate, leaving a limited window for action.Speaking at a lecture during the IMF...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-10-17T10:37:26+00:00",
-   "tickers": []
-  },
-  {
-   "id": "5eef5dcebc58",
-   "title": "I'm a Walmart store manager at 23. I worked hard to get this life and started as a cashier — here's my career journey",
-   "link": "https://biztoc.com/x/9dfbb8e5c800513a?ref=rss",
-   "summary": "Kiley Pulley transitioned from cashier to store manager within seven years. Kiley Pulley Kiley Pulley became Walmart's youngest US store manager at 21, starting as a cashier at 16. Her former store manager helped her through her succession plan and interviews. Pulley emphasizes learning daily and…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-17T10:37:23+00:00",
-   "tickers": [
-    "WMT"
-   ]
-  },
-  {
-   "id": "ae66f20e3fd4",
-   "title": "Trump waives broad new Russia sanctions and tariffs under Graham Act, citing national interest",
-   "link": "https://biztoc.com/x/d2cffde105358ce7?ref=rss",
-   "summary": "President Donald Trump signed an executive order late Friday waiving parts of a recently enacted package of sanctions aimed at curbing Russia's ability to prosecute its war against Ukraine. \"I have submitted to the Congress a certification that the issuance of such a waiver is in the national…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-17T10:37:22+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b50781793a7c",
-   "title": "I Spent Years Searching for My Sister. Finding Her Wasn’t What I Expected",
-   "link": "https://biztoc.com/x/9b9709baa1297f97?ref=rss",
-   "summary": "When we were young, my sister and I were separated. Due to our parents' personal circumstances, I was placed in foster care while she continued to live with them. We were three years apart; whenever I saw her, I took on a protective, caring role. I remember a photograph of us sitting together in…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-17T10:37:14+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d821f6ca4171",
-   "title": "Skip Form 706 After a Spouse Dies With $4 Million and the Estate Will Lose a $15 Million Exemption It Can Never Get Back",
-   "link": "https://biztoc.com/x/a5829a959d093c45?ref=rss",
-   "summary": "The post Skip Form 706 After a Spouse Dies With $4 Million and the Estate Will Lose a $15 Million Exemption It Can Never Get Back. appeared first on 24/7 Wall St.. A 72-year-old retired surgeon dies in 2026 with $4 million in his name: a brokerage account, his half of the house, and a paid-up life…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-17T10:37:04+00:00",
-   "tickers": []
-  },
-  {
-   "id": "092d35a27cc4",
-   "title": "The Fed Will Have to Raise Interest Rates More, Even If It Pauses in October",
-   "link": "https://biztoc.com/x/46cd83a31d1cc82e?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-10-17T10:37:01+00:00",
-   "tickers": []
-  },
-  {
-   "id": "7c863db2d8c8",
-   "title": "What Moved Markets This Week",
-   "link": "https://seekingalpha.com/article/4954971-what-moved-markets-this-week?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-17T10:35:57+00:00",
-   "tickers": []
-  },
-  {
-   "id": "1437ae065e29",
-   "title": "Johnson & Johnson Just Raised Its Sales Outlook Again. Here's Why the Dividend King Is Still a Buy.",
-   "link": "https://www.nasdaq.com/articles/johnson-johnson-just-raised-its-sales-outlook-again-heres-why-dividend-king-still-buy",
-   "summary": "Key PointsPharmaceutical outfit Johnson & Johnson recently reported solid overall Q3 numbers with one alarming red flag.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-10-17T10:35:00+00:00",
-   "tickers": [
-    "JNJ"
-   ]
-  },
-  {
-   "id": "d74ee44b1efe",
-   "title": "SPTM vs. SCHB Compared: What to Look for in a Broad Market Index Fund",
-   "link": "https://www.nasdaq.com/articles/sptm-vs-schb-compared-what-look-broad-market-index-fund",
-   "summary": "Key PointsSchwab U.S. Broad Market ETF and State Street SPDR Portfolio S&P 1500 Composite Stock Market ETF both feature an exceptionally low 0.03% expense ratio.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-17T10:34:01+00:00",
-   "tickers": [
-    "SPTM",
-    "STT",
-    "SCHB"
-   ]
-  },
-  {
-   "id": "6df996a524bb",
-   "title": "BoE’s Bailey tells G30 they ‘have got to address’ AI agent concerns",
-   "link": "https://www.ft.com/content/3185b4cd-ab35-4efc-9d75-dcecc1631625?syn-25a6b1a6=1",
-   "summary": "Central Bank governor warns rapid development of AI is a major issue for financial stability",
-   "article_text": "",
-   "source": "FT Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "ft.com",
-   "published": "2026-10-17T10:31:21+00:00",
-   "tickers": []
-  },
-  {
-   "id": "687b6cc235fb",
-   "title": "AGFUND wins international award for excellence in inclusive banking and social impact",
-   "link": "https://www.prnewswire.com/news-releases/agfund-wins-international-award-for-excellence-in-inclusive-banking-and-social-impact-302911811.html",
-   "summary": "Prince Abdulaziz bin Talal credits the founders of AGFUND's microfinance banks for laying the foundations of its development impact BANGKOK, Oct. 17, 2026 /PRNewswire/ -- The Arab Gulf Programme for Development (AGFUND) won the \"Excellence in Inclusive Banking and Social Impact\" award at...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "press",
-   "sentiment": "positive",
-   "domain": "prnewswire.com",
-   "published": "2026-10-17T10:30:00+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
   "SPTM": "State Street SPDR Portfolio S&P 1500 Composite Stock Market ETF",
-  "JIRE": "JPMorgan International Research Enhanced Equity ETF",
   "VYMI": "Vanguard International High Dividend Yield ETF",
   "CEF": "Sprott Physical Gold and Silver Trust Units",
   "JEPQ": "JPMorgan Nasdaq Equity Premium Income ETF",
@@ -8936,6 +8935,7 @@
   "STX": "Seagate Technology Holdings",
   "AMG": "Affiliated Managers Group",
   "IBKR": "Interactive Brokers Group",
+  "ICE": "Intercontinental Exchange",
   "WFRD": "Weatherford International",
   "CFG": "Citizens Financial Group",
   "GS": "The Goldman Sachs Group",
@@ -8950,6 +8950,7 @@
   "FERG": "Ferguson Enterprises",
   "MOD": "Modine Manufacturing",
   "PG": "The Procter & Gamble",
+  "IP": "International Paper",
   "BRK-A": "Berkshire Hathaway",
   "CNP": "CenterPoint Energy",
   "IBN": "ICICI Bank Limited",
@@ -8960,7 +8961,6 @@
   "CL": "Colgate-Palmolive",
   "DELL": "Dell Technologies",
   "HDB": "HDFC Bank Limited",
-  "JNJ": "Johnson & Johnson",
   "MU": "Micron Technology",
   "OLED": "Universal Display",
   "POWL": "Powell Industries",
@@ -8993,10 +8993,12 @@
   "BRO": "Brown & Brown",
   "CSCO": "Cisco Systems",
   "KO": "The Coca-Cola",
+  "MT": "ArcelorMittal",
   "OC": "Owens Corning",
   "POST": "Post Holdings",
   "SOUN": "SoundHound AI",
   "WFC": "Wells Fargo &",
+  "UNH": "United Health",
   "MSTR": "MicroStrategy",
   "ASML": "ASML Holding",
   "DTM": "DT Midstream",
@@ -9026,6 +9028,7 @@
   "BLK": "BlackRock",
   "C": "Citigroup",
   "CFLT": "Confluent",
+  "CME": "CME Group",
   "CRWV": "CoreWeave",
   "DT": "Dynatrace",
   "NWSA": "News Corp",
@@ -9055,8 +9058,10 @@
   "ORCL": "Oracle",
   "PFE": "Pfizer",
   "SPCX": "SpaceX",
+  "VST": "Vistra",
   "INTC": "Intel",
   "EBAY": "eBay",
+  "IONQ": "IonQ",
   "T": "AT&T",
   "V": "Visa"
  }
