@@ -1,8 +1,24 @@
 {
- "generated": "2026-10-17T11:45:37.844742+00:00",
+ "generated": "2026-10-17T11:52:22.262777+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "2a6191fdc4aa",
+   "title": "Corning: Not Worth The AI Risk (Rating Downgrade)",
+   "link": "https://seekingalpha.com/article/4954972-corning-not-worth-the-ai-risk?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-17T11:45:41+00:00",
+   "tickers": [
+    "GLW"
+   ]
+  },
   {
    "id": "65a161756d06",
    "title": "Why some Black voters in Ohio STOPPED believing their vote MATTERS | The Deciding Vote",
@@ -1203,7 +1219,7 @@
    "link": "https://www.prnewswire.com/news-releases/agfund-wins-international-award-for-excellence-in-inclusive-banking-and-social-impact-302911811.html",
    "summary": "Prince Abdulaziz bin Talal credits the founders of AGFUND's microfinance banks for laying the foundations of its development impact BANGKOK, Oct. 17, 2026 /PRNewswire/ -- The Arab Gulf Programme for Development (AGFUND) won the \"Excellence in Inclusive Banking and Social Impact\" award at...",
    "article_text": "",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "positive",
@@ -8830,20 +8846,6 @@
     "PRAX",
     "UBS"
    ]
-  },
-  {
-   "id": "6b9c0bbe99c1",
-   "title": "Star Equity Holdings CEO sells $27,409 in preferred stock",
-   "link": "https://www.investing.com/news/insider-trading-news/star-equity-holdings-ceo-sells-27409-in-preferred-stock-93CH-4955053",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-10-17T00:31:18+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8954,6 +8956,7 @@
   "FOX": "Fox Corp",
   "BPOP": "Popular",
   "CTVA": "Corteva",
+  "GLW": "Corning",
   "IOT": "Samsara",
   "MRNA": "Moderna",
   "PEP": "PepsiCo",
