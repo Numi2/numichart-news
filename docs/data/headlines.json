@@ -1,8 +1,25 @@
 {
- "generated": "2026-10-17T04:56:57.757049+00:00",
+ "generated": "2026-10-17T05:06:44.397434+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "7ba45d194dec",
+   "title": "The Last Word with Lawrence O'Donnell - Oct. 16 | Audio Only",
+   "link": "https://biztoc.com/x/4562b6e9ebe58ce5?ref=rss",
+   "summary": "Listen to the audio version of The Last Word With Lawrence O'Donnell from the Oct. 16 broadcast. MS NOW: My Source for News, ...",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-17T04:52:22+00:00",
+   "tickers": [
+    "NWSA",
+    "MS"
+   ]
+  },
   {
    "id": "eb5df1dc84b3",
    "title": "Russia downs 75 more drones over Moscow",
@@ -103,6 +120,20 @@
    "sentiment": "positive",
    "domain": "investing.com",
    "published": "2026-10-17T04:48:23+00:00",
+   "tickers": []
+  },
+  {
+   "id": "7bc0ea721142",
+   "title": "Wheat Weakness Extends into the Weekend",
+   "link": "https://www.nasdaq.com/articles/wheat-weakness-extends-weekend",
+   "summary": "The wheat complex headed into the weekend holding onto the weakness on Friday. Chicago SRW contracts fell lower on Friday, with contracts down 1 ½ to 9 ½ cents on the day and December losing 10 ½ cents this week. KC HRW futures slipped back 3 to 9 cents at...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-17T04:41:44+00:00",
    "tickers": []
   },
   {
@@ -289,20 +320,6 @@
    "category": "stocks",
    "type": "stocks",
    "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-10-17T04:22:39+00:00",
-   "tickers": []
-  },
-  {
-   "id": "7bc0ea721142",
-   "title": "Wheat Weakness Extends into the Weekend",
-   "link": "https://www.nasdaq.com/articles/wheat-weakness-extends-weekend",
-   "summary": "The wheat complex headed into the weekend holding onto the weakness on Friday. Chicago SRW contracts fell lower on Friday, with contracts down 1 ½ to 9 ½ cents on the day and December losing 10 ½ cents this week. KC HRW futures slipped back 3 to 9 cents at...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
    "domain": "nasdaq.com",
    "published": "2026-10-17T04:22:39+00:00",
    "tickers": []
@@ -8870,20 +8887,6 @@
    "sentiment": "neutral",
    "domain": "sec.gov",
    "published": "2026-10-16T21:15:39+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ba04d8da15df",
-   "title": "8-K - ADIAL PHARMACEUTICALS, INC. (0001513525) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1513525/000121390026110349/0001213900-26-110349-index.htm",
-   "summary": "Filed: 2026-10-16 AccNo: 0001213900-26-110349 Size: 193 KB Item 8.01: Other Events",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-10-16T21:15:28+00:00",
    "tickers": []
   }
  ],
