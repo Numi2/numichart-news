@@ -1,8 +1,22 @@
 {
- "generated": "2026-10-17T08:24:33.131133+00:00",
+ "generated": "2026-10-17T08:36:39.274407+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "7a92e9ef2713",
+   "title": "Golconda Gold: Market Forecasts And Productivity Ramp Up Provide A Dual Tailwind",
+   "link": "https://seekingalpha.com/article/4954952-golconda-gold-market-forecasts-and-productivity-ramp-up-provide-a-dual-tailwind?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-17T08:31:12+00:00",
+   "tickers": []
+  },
   {
    "id": "cd33e280f9ea",
    "title": "ECB's Lagarde says bond selloff will slow inflation",
@@ -103,6 +117,22 @@
    "published": "2026-10-17T08:20:23+00:00",
    "tickers": [
     "VRSN"
+   ]
+  },
+  {
+   "id": "b2d88ea001c1",
+   "title": "Moderna president Stephen Hoge sells $17m in stock",
+   "link": "https://www.investing.com/news/insider-trading-news/moderna-president-stephen-hoge-sells-17m-in-stock-93CH-4955328",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-17T08:16:13+00:00",
+   "tickers": [
+    "MRNA"
    ]
   },
   {
@@ -8821,34 +8851,6 @@
    "domain": "biztoc.com",
    "published": "2026-10-16T22:04:09+00:00",
    "tickers": []
-  },
-  {
-   "id": "7e8ad9a9471f",
-   "title": "Norte Fire Map Shows Orange County Evacuations as Blaze Burns in California",
-   "link": "https://biztoc.com/x/403bcaaa5e22c4b8?ref=rss",
-   "summary": "A fast-moving wildfire spread to 250 acres in Orange County, California, on Friday, prompting evacuation orders in parts of San Clemente and San Juan Capistrano as flames threatened homes. The Norte Fire was reported near Portico Del Norte and Eminencia Del Norte in San Clemente. Evacuation orders…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-16T22:03:56+00:00",
-   "tickers": []
-  },
-  {
-   "id": "1359f576af1d",
-   "title": "Giants HC John Harbaugh is 'Fired Up' About Malik Nabers' Recent Claim",
-   "link": "https://biztoc.com/x/3013499b9d8ba020?ref=rss",
-   "summary": "New York Giants wide receiver Malik Nabers returned to the field for Week 1 of the 2026 NFL season, months after suffering a torn ACL in Week 4 of his 2025 campaign. Since his return to action, Nabers has steadily improved his production. In a Week 4 win over the Arizona Cardinals, he reeled in…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-10-16T22:03:46+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8960,6 +8962,7 @@
   "BPOP": "Popular",
   "CTVA": "Corteva",
   "IOT": "Samsara",
+  "MRNA": "Moderna",
   "PEP": "PepsiCo",
   "SCI": "Service",
   "SNDK": "Sandisk",
