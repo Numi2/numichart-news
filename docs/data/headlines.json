@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-17T19:46:20.412784+00:00",
+ "generated": "2026-10-17T19:52:17.353325+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -16,6 +16,22 @@
    "domain": "biztoc.com",
    "published": "2026-10-17T19:41:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "13775672d5a0",
+   "title": "Rosen Law Firm Encourages Barclays PLC Investors to Inquire About Securities Class Action Investigation - BCS",
+   "link": "https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-barclays-plc-investors-to-inquire-about-securities-class-action-investigation--bcs-302911594.html",
+   "summary": "NEW YORK, Oct. 17, 2026 /PRNewswire/ -- Why: Rosen Law Firm, a global investor rights law firm, continues to investigate potential securities claims on behalf of shareholders of Barclays PLC (NYSE: BCS) resulting from allegations that Barclays may have issued materially misleading...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "prnewswire.com",
+   "published": "2026-10-17T19:41:00+00:00",
+   "tickers": [
+    "BCS"
+   ]
   },
   {
    "id": "e35671529bf7",
@@ -2226,7 +2242,7 @@
    "link": "https://www.prnewswire.com/news-releases/agfund-erhalt-internationale-auszeichnung-fur-herausragende-leistungen-im-bereich-inklusives-bankwesen-und-soziale-wirkung-302911845.html",
    "summary": "Prinz Abdulaziz bin Talal würdigt die Gründer der Mikrofinanzbanken des AGFUND, die den Grundstein für dessen Entwicklungswirkung gelegt haben. BANGKOK, 17. Oktober 2026 /PRNewswire/ -- Das Arabische Golf-Programm für Entwicklung (AGFUND) gewann den Preis \"Excellence in Inclusive Banking...",
    "article_text": "",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -8908,20 +8924,6 @@
    "domain": "biztoc.com",
    "published": "2026-10-17T11:07:52+00:00",
    "tickers": []
-  },
-  {
-   "id": "bd1a3600ab9d",
-   "title": "Belite Bio Stock In Focus After Stargardt Drug Filings In Three Markets",
-   "link": "https://biztoc.com/x/3ee569e50639fb42?ref=rss",
-   "summary": "Belite Bio submitted Marketing Authorization Applications for tinlarebant to regulators in Singapore, the United Kingdom, and Switzerland under the Access Consortium framework for treating Stargardt disease type 1, which currently has no approved therapies in those markets. - This step turns…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-17T11:07:45+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -9047,6 +9049,7 @@
   "SBUX": "Starbucks",
   "NWSA": "News Corp",
   "AVGO": "Broadcom",
+  "BCS": "Barclays",
   "DOCS": "Doximity",
   "GME": "GameStop",
   "MTB": "M&T Bank",
