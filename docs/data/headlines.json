@@ -1,8 +1,22 @@
 {
- "generated": "2026-10-18T09:48:24.665242+00:00",
+ "generated": "2026-10-18T09:55:04.754081+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "05e1183bee65",
+   "title": "Oakmark International Fund Q3 2026 Commentary",
+   "link": "https://seekingalpha.com/article/4955043-oakmark-international-fund-q3-2026-commentary?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-18T09:50:00+00:00",
+   "tickers": []
+  },
   {
    "id": "753d9a240823",
    "title": "Could Investing $200 Per Month in VOO Make You a Millionaire? Here's What History Says",
@@ -8799,22 +8813,6 @@
    "domain": "nytimes.com",
    "published": "2026-10-17T20:03:39+00:00",
    "tickers": []
-  },
-  {
-   "id": "949d24d7cb5c",
-   "title": "S&P Global (SPGI) Just Gave Its AI Data Portal Deeper Consensus Data",
-   "link": "https://biztoc.com/x/41c7653755a7e533?ref=rss",
-   "summary": "S&P Global (NYSE:SPGI) added Visible Alpha data to its AI Data Portal, giving clients AI-ready sell-side consensus figures. - The integration provides granular broker estimates and detailed earnings line items in a machine readable format for institutional users. - Clients can use the combined…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-17T19:55:44+00:00",
-   "tickers": [
-    "SPGI"
-   ]
   }
  ],
  "ticker_names": {
@@ -8899,7 +8897,6 @@
   "AZN": "AstraZeneca",
   "CRM": "Salesforce",
   "PLUG": "Plug Power",
-  "SPGI": "S&P Global",
   "STLA": "Stellantis",
   "MSFT": "Office 365",
   "DE": "John Deere",
