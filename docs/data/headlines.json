@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T20:40:34.765232+00:00",
+ "generated": "2026-10-18T20:47:31.592689+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -162,6 +162,39 @@
    "domain": "biztoc.com",
    "published": "2026-10-18T20:33:04+00:00",
    "tickers": []
+  },
+  {
+   "id": "46ca9fcd7889",
+   "title": "Wheat Bears Pushing Losses into Friday’s Midday",
+   "link": "https://www.nasdaq.com/articles/wheat-bears-pushing-losses-fridays-midday",
+   "summary": "The wheat complex is heading into the weekend with losses across the three exchanges. Chicago SRW contracts are slipping back 7 to 8 cents to round out the week. KC HRW futures are trading with 7 to 8 cent losses at midday. MPLS spring wheat is down 6 to 7...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-10-18T20:32:06+00:00",
+   "tickers": []
+  },
+  {
+   "id": "3e0531f55b4d",
+   "title": "Stock Indexes Finish Sharply Lower as Tech Stocks Plunge",
+   "link": "https://www.nasdaq.com/articles/stock-indexes-finish-sharply-lower-tech-stocks-plunge",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down by -1.09% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down by -0.34%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -2.50%. December E-mini S&P futures (ESZ26 ) fell -1.14%, and December E-mini...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-10-18T20:25:43+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
   },
   {
    "id": "54de1358d80a",
@@ -2727,25 +2760,6 @@
    "tickers": []
   },
   {
-   "id": "3e0531f55b4d",
-   "title": "Stock Indexes Finish Sharply Lower as Tech Stocks Plunge",
-   "link": "https://www.nasdaq.com/articles/stock-indexes-finish-sharply-lower-tech-stocks-plunge",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down by -1.09% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down by -0.34%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -2.50%. December E-mini S&P futures (ESZ26 ) fell -1.14%, and December E-mini...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-10-18T17:36:37+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
-   ]
-  },
-  {
    "id": "e6a621da5b52",
    "title": "State Street: 3 Key Takeaways for Long-Term Investors",
    "link": "https://biztoc.com/x/1d4802f25dce5ba3?ref=rss",
@@ -3703,7 +3717,7 @@
    "link": "https://www.prnewswire.com/news-releases/antheia-secures-80-million-conditional-funding-commitment-from-department-of-wars-office-of-strategic-capital-302911991.html",
    "summary": "Financing supports Antheia's domestic manufacturing strategy to onshore critical medicine supply chains MENLO PARK, Calif., Oct. 18, 2026 /PRNewswire/ -- Antheia, the advanced biosynthesis company delivering 21st-century pharmaceutical manufacturing and innovation, today announced it has...",
    "article_text": "",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "press",
    "sentiment": "positive",
@@ -8542,7 +8556,7 @@
    "link": "https://www.prnewswire.com/news-releases/agfund-remporte-un-prix-international-pour-son-excellence-en-banque-inclusive-et-impact-social-302911978.html",
    "summary": "Le prince Abdulaziz bin Talal attribue aux fondateurs des banques de microfinance d'AGFUND le mérite d'avoir jeté les bases de son impact sur le développement BANGKOK, 18 octobre 2026 /PRNewswire/ -- Le Programme du Golfe arabe pour le développement (AGFUND) a remporté le prix «...",
    "article_text": "",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -8811,20 +8825,6 @@
    "tickers": [
     "FOX"
    ]
-  },
-  {
-   "id": "152d1f37a2e0",
-   "title": "Decades-old GOP winning streaks are suddenly at risk",
-   "link": "https://biztoc.com/x/b73952fb317e85ba?ref=rss",
-   "summary": "Democrats are running surprisingly competitive races in traditionally Republican territory across the country this midterm election cycle, and it's putting GOP winning streaks at risk that stretch as far back as the 1930s. Why it matters: Democrats hope ending political droughts in states such as…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-18T12:14:20+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
