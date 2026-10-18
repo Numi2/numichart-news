@@ -1,8 +1,24 @@
 {
- "generated": "2026-10-18T19:41:27.708164+00:00",
+ "generated": "2026-10-18T19:48:18.884258+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "945cfa28fe4f",
+   "title": "Elizabeth Holmes Documentary ‘You Can See Everything’ Opens to Over 2,000 Sold-Out Shows",
+   "link": "https://www.nytimes.com/2026/10/18/business/media/box-office-elizabeth-holmes-netflix.html",
+   "summary": "“You Can See Everything,” a documentary about the Theranos founder, made a big splash for a movie not yet in wide release. And Netflix had a box office milestone.",
+   "article_text": "",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-10-18T19:40:28+00:00",
+   "tickers": [
+    "NFLX"
+   ]
+  },
   {
    "id": "bad6da9af5b6",
    "title": "Bessent warns Zelenskyy to 'be very careful' about claims U.S. is throttling Starlink",
@@ -36,6 +52,20 @@
     "TSLA",
     "META"
    ]
+  },
+  {
+   "id": "8355216a263c",
+   "title": "Anthropic to commit 5% stake to new public benefit fund",
+   "link": "https://biztoc.com/x/6408eb0a16e07ec1?ref=rss",
+   "summary": "Anthropic said on Sunday it will commit 5% of its shares to a new public benefit fund, subject to stockholder approval, with the stake potentially increasing as the artificial intelligence giant's valuation grows. The proposed fund would be established as a wholly owned limited liability company…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-18T19:34:42+00:00",
+   "tickers": []
   },
   {
    "id": "8fd8cc6cf4ce",
@@ -1559,22 +1589,6 @@
    "tickers": [
     "MS",
     "VT"
-   ]
-  },
-  {
-   "id": "945cfa28fe4f",
-   "title": "Elizabeth Holmes Documentary ‘You Can See Everything’ Opens to Over 2,000 Sold-Out Shows",
-   "link": "https://www.nytimes.com/2026/10/18/business/media/box-office-elizabeth-holmes-netflix.html",
-   "summary": "“You Can See Everything,” a documentary about the Theranos founder, made a big splash for a movie not yet in wide release. And Netflix had a box office milestone.",
-   "article_text": "",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "nytimes.com",
-   "published": "2026-10-18T17:54:24+00:00",
-   "tickers": [
-    "NFLX"
    ]
   },
   {
@@ -8811,22 +8825,6 @@
    "domain": "biztoc.com",
    "published": "2026-10-18T11:14:02+00:00",
    "tickers": []
-  },
-  {
-   "id": "796a6c0514c1",
-   "title": "Migration Has Cost German Taxpayers At Least €400 Billion Since 2016",
-   "link": "https://biztoc.com/x/546a8a00fa69b034?ref=rss",
-   "summary": "Migration Has Cost German Taxpayers At Least €400 Billion Since 2016 Authored by - Remix News Staff - via Remix News, Germany's migration and asylum policies have cost the state at least €400 billion, according to calculations by Welt journalist Björn Harms. Other estimates have gone far higher,…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-18T11:13:56+00:00",
-   "tickers": [
-    "NWSA"
-   ]
   }
  ],
  "ticker_names": {
