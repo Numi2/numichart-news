@@ -1,8 +1,24 @@
 {
- "generated": "2026-10-18T15:54:32.883896+00:00",
+ "generated": "2026-10-18T16:00:38.774157+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "d8e732b76366",
+   "title": "Align Technology says European court finds Angelalign infringed patent",
+   "link": "https://seekingalpha.com/news/4654066-align-technology-says-european-court-finds-angelalign-infringed-patent?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-18T15:52:56+00:00",
+   "tickers": [
+    "ALGN"
+   ]
+  },
   {
    "id": "2d694482fe74",
    "title": "CSX Stock And North American Rail Shares Facing A Diesel Margin Test",
@@ -8799,22 +8815,6 @@
    "domain": "biztoc.com",
    "published": "2026-10-18T05:57:44+00:00",
    "tickers": []
-  },
-  {
-   "id": "5fc5bf489d11",
-   "title": "Data Centers, Aerospace, and Machined Parts: This Company's Earnings Just Made the Bull Case for U.S. Industrials",
-   "link": "https://biztoc.com/x/19fa54628eec508c?ref=rss",
-   "summary": "It's always fascinating to hear what industrial supply companies like Fastenal (NASDAQ: FAST) say about the economy and trends in their end markets. Their sales are relatively short-cycle, meaning there's a very short period between when a customer sees an increase in demand and when they use or…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-18T05:57:41+00:00",
-   "tickers": [
-    "FAST"
-   ]
   }
  ],
  "ticker_names": {
@@ -8853,6 +8853,7 @@
   "MU": "Micron Technology",
   "OLED": "Universal Display",
   "UBER": "Uber Technologies",
+  "ALGN": "Align Technology",
   "AR": "Antero Resources",
   "COST": "Costco Wholesale",
   "GTLS": "Chart Industries",
@@ -8900,7 +8901,6 @@
   "AVGO": "Broadcom",
   "BCS": "Barclays",
   "BP": "BP p.l.c",
-  "FAST": "Fastenal",
   "GOOG": "Alphabet",
   "INOD": "Innodata",
   "SATS": "EchoStar",
