@@ -1,8 +1,698 @@
 {
- "generated": "2026-10-20T13:47:07.986528+00:00",
+ "generated": "2026-10-20T13:55:08.725430+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "a9429113250d",
+   "title": "Money-saving hacks to cope with higher prices — from our readers",
+   "link": "https://www.marketwatch.com/story/money-saving-hacks-to-cope-with-higher-prices-from-our-readers-a092767e?mod=mw_rss_topstories",
+   "summary": "I asked people what they’re doing to make life more affordable today. I’ll definitely be trying some of these.",
+   "article_text": "",
+   "source": "MarketWatch",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "marketwatch.com",
+   "published": "2026-10-20T13:52:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "93471bf96d5c",
+   "title": "YieldMax MSTR Performance & Distribution Tg 25 ETF declares $0.1345 dividend",
+   "link": "https://seekingalpha.com/news/4654628-yieldmax-mstr-performance-and-distribution-tg-25-etf-declares-0_1345-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-20T13:51:52+00:00",
+   "tickers": [
+    "MSTR"
+   ]
+  },
+  {
+   "id": "5427442f240d",
+   "title": "Data center stocks slide as Korea IPO plunges 30%, pressuring tech sentiment",
+   "link": "https://www.cnbc.com/2026/10/20/data-center-stocks-slide-as-korea-ipo-plunges-30percent-pressuring-tech-sentiment.html",
+   "summary": "Neocloud stocks are falling again following the sector's troubles last week",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "offering",
+   "sentiment": "negative",
+   "domain": "cnbc.com",
+   "published": "2026-10-20T13:50:24+00:00",
+   "tickers": []
+  },
+  {
+   "id": "813a41867eb4",
+   "title": "International Paper: A Potential DS Smith Sale Is Not Enough To Change Our Sell Rating",
+   "link": "https://seekingalpha.com/article/4955480-international-paper-a-potential-ds-smith-sale-is-not-enough-to-change-our-sell-rating?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-20T13:50:06+00:00",
+   "tickers": [
+    "IP"
+   ]
+  },
+  {
+   "id": "9b94a70a3585",
+   "title": "Salesforce gets a chilly investor response to a $6 billion deal at a 58% premium",
+   "link": "https://www.marketwatch.com/story/salesforce-gets-a-chilly-investor-response-to-a-6-billion-deal-at-a-58-premium-57bd260b?mod=mw_rss_topstories",
+   "summary": "Salesforce said on Tuesday that it is making a nearly $6 billion acquisition at a 58% premium, but Wall Street’s response was frosty.",
+   "article_text": "",
+   "source": "MarketWatch",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "marketwatch.com",
+   "published": "2026-10-20T13:48:00+00:00",
+   "tickers": [
+    "CRM"
+   ]
+  },
+  {
+   "id": "3772ca245ee5",
+   "title": "Gold eases as oil-driven inflation worries weigh",
+   "link": "https://biztoc.com/x/9fde6346ac653ac9?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-20T13:47:50+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c5faacd190e4",
+   "title": "US futures dip as AI sell-off returns and oil prices rise sharply",
+   "link": "https://biztoc.com/x/45a06d1afe0d2351?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-10-20T13:47:43+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b4f1983ee757",
+   "title": "Novo's next-generation obesity drug shows 25% weight loss in women in late-stage analysis",
+   "link": "https://biztoc.com/x/0a586fadfcf29e89?ref=rss",
+   "summary": "Novo on Tuesday said its next-generation obesity drug, CagriSema, showed 25% weight loss on average among adult women in a new analysis conducted after a late-stage trial. The Danish company said further work is needed to confirm the hypotheses of two post-study analyses. Still, the results are…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-10-20T13:47:25+00:00",
+   "tickers": []
+  },
+  {
+   "id": "5570e954f9eb",
+   "title": "Meta Muse exposes users’ personal and business secrets when they share conversations",
+   "link": "https://biztoc.com/x/026d2aa99068345d?ref=rss",
+   "summary": "Muse, the new general-purpose AI agent from Meta, can expose sensitive information when users share conversations through Web links, researchers reported Monday. Like many online services, Muse allows users to share searches, conversations, images, and similar content with other people. Such share…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-20T13:47:01+00:00",
+   "tickers": [
+    "META"
+   ]
+  },
+  {
+   "id": "245a691b2bb7",
+   "title": "ZenaTech presenta ZenaWorx, una plataforma de inteligencia de construcción basada en drones dirigida al desarrollo de centros de datos de IA",
+   "link": "https://www.globenewswire.com/news-release/2026/10/20/3384583/0/es/zenatech-presenta-zenaworx-una-plataforma-de-inteligencia-de-construcci%C3%B3n-basada-en-drones-dirigida-al-desarrollo-de-centros-de-datos-de-ia.html",
+   "summary": "Los datos LiDAR capturados por drones, el monitoreo del avance en 3D y el modelado digital del terreno están diseñados para facilitar la visibilidad de la construcción y establecer relaciones de servicio recurrentes desde los movimientos de tierra hasta el desarrollo estructural. Los datos LiDAR capturados por drones, el monitoreo del avance en 3D y el modelado digital del terreno están diseñados para facilitar la visibilidad de la construcción y establecer relaciones de servicio recurrentes desde los movimientos de tierra hasta el desarrollo estructural.",
+   "article_text": "",
+   "source": "GlobeNewswire",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "globenewswire.com",
+   "published": "2026-10-20T13:47:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "4362d11ca1d0",
+   "title": "Corbion convenes Extraordinary General Meeting of Shareholders to appoint new member of Supervisory Board",
+   "link": "https://www.globenewswire.com/news-release/2026/10/20/3384582/0/en/corbion-convenes-extraordinary-general-meeting-of-shareholders-to-appoint-new-member-of-supervisory-board.html",
+   "summary": "Corbion will hold an Extraordinary General Meeting of Shareholders (EGM) on 2 December 2026.",
+   "article_text": "",
+   "source": "GlobeNewswire",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "globenewswire.com",
+   "published": "2026-10-20T13:47:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "0485063ea9b6",
+   "title": "Dividend Select 15 declares CAD 0.0667 dividend",
+   "link": "https://seekingalpha.com/news/4654625-dividend-select-15-declares-cad-0_0667-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-20T13:46:58+00:00",
+   "tickers": []
+  },
+  {
+   "id": "4734901bad38",
+   "title": "General Motors beats Wall Street's Q3 earnings expectations, narrows full-year guidance",
+   "link": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html",
+   "summary": "GM narrowed its 2026 earnings guidance and raised its adjusted automotive free cash flow outlook after beating Wall Street’s third-quarter estimates.",
+   "article_text": "General Motors (GM) earnings Q3 2026 Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Key Points General Motors beat Wall Street’s expectations on the top- and bottom-lines. The Detroit automaker raised its free cash flow expectations and narrowed its 2026 full-year guidance. GM also announced a new multiyear stock buyback of $20 billion, but didn’t give a specific timeframe for the repurchase. In this article GM Follow your favorite stocks CREATE FREE ACCOUNT watch now VIDEO 7:11 07:11 GM CFO Paul Jacobson on $20B stock buyback: Driven by our stellar free cash flow generation Squawk Box DETROIT — General Motors narrowed its 2026 earnings guidance and raised its free cash flow expectations after beating Wall Street's third-quarter expectations. The Detroit automaker also announced a new multiyear stock buyback of $20 billion after GM completed a $6 billion share repurchase program that was announced in January. GM did not disclose a specific time to complete the program. Despite the positive news, GM stock was off roughly 6% during early trading Tuesday as the company's outlook missed Wall Street's expectations. Wall Street analysts were mixed before the report on whether GM would raise its guidance Tuesday amid concerns of slowing sales and rising commodity costs. Analysts' expectations included a midpoint of $13.41 per share for the year compared with GM's new $13.25 per share midpoint, according to LSEG. Several analysts in investor notes Tuesday said GM's third-quarter results were solid, but raised concerns about whether higher costs and pressures on vehicle pricing would limit earnings growth next year. Here's how GM performed in the third quarter, compared with average estimates compiled by LSEG: Earnings per share: $3.70 adjusted vs. $3.63 expected Revenue: $50.02 billion vs. $48.7 billion expected GM's new guidance includes adjusted earnings before interest and taxes of between $14.5 billion and $15.5 billion, or $12.75 to $13.75 adjusted earnings per share, and adjusted automotive free cash flow of between $11.5 billion and $12.5 billion. That compares with its raised guidance from July that included adjusted EBIT of between $14 billion and $16 billion, or $12 to $14 adjusted EPS, and adjusted automotive free cash flow of $9.5 billion to $11.5 billion. \"I think the market's been pretty consistent from what we've said all year,\" GM CFO Paul Jacobson told CNBC's Phil LeBeau . \"Our fourth quarter's going to be down sequentially. ... I think the fact that we're able to hold our guidance in the face of that late inflationary pressure in the year is another sign of the GM team executing really well.\" Mary Barra, chair and chief executive officer of General Motors Co., during a news conference at the Hudson's building in Detroit, Michigan, US, on Monday, April 15, 2024. Jeff Kowalsky | Bloomberg | Getty Images GM on Tuesday said it expects commodity inflation costs to be around $2 billion, which was the high end of its previous guidance. That includes higher costs for logistics and dynamic random-access memory, or DRAM, chips that are impacting multiple industries . While the inflationary costs were at the automaker's high end of guidance, GM said its gross tariff costs are expected to be at the low end of its expected $2.5 billion to $3.5 billion range. Warranty costs are expected to be at high end between $1 billion and $1.5 billion, GM said. Jacobson said vehicle pricing is relatively flat as inflationary costs continue to increase. He said the company would assess where consumers are in the coming year when deciding if it should pass costs along by raising prices more than normal. \"GM is performing well, and we are working hard to continue our momentum despite growing inflationary pressures through strategic investments in new products and services, and through improved quality and operating efficiency,\" GM CEO Mary Barra said Tuesday in a letter to shareholders. The automaker also said the costs of its pullback in all-electric vehicles announced last year were \"substantially completed,\" saying it has recorded $11.2 billion in such charges since the second half of last year, including paying $4.6 billion of $7.4 billion in cash through the third quarter. The company's net income attributed to stockholders was $3.3 billion during the third quarter, up roughly $2 billion from a year earlier. GM's North American operations continued to lead the automaker's results, accounting for $3.6 billion of its $4.1 billion in adjusted EBIT results during the third quarter. GM's 2025 third-quarter results included $48.59 billion in revenue, net income attributable to stockholders of $1.3 billion and earnings per share of $2.80 adjusted. Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
+   "source": "CNBC Earnings",
+   "category": "earnings",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "cnbc.com",
+   "published": "2026-10-20T13:46:36+00:00",
+   "tickers": [
+    "GM"
+   ]
+  },
+  {
+   "id": "7f4d536a79c8",
+   "title": "Nasdaq falls as AI trade resumes sell-off: Live updates",
+   "link": "https://www.cnbc.com/2026/10/19/stock-market-today-live-updates.html",
+   "summary": "The S&P 500 and Nasdaq clawed back some of their steep losses from the week before.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "cnbc.com",
+   "published": "2026-10-20T13:46:24+00:00",
+   "tickers": [
+    "NDAQ"
+   ]
+  },
+  {
+   "id": "86dd57022390",
+   "title": "Here's What to Expect From Broadridge Financial’s Next Earnings Report",
+   "link": "https://biztoc.com/x/d2ee52357f1be157?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-20T13:46:24+00:00",
+   "tickers": [
+    "BR"
+   ]
+  },
+  {
+   "id": "2fadbfcae205",
+   "title": "Paychex’s 4.3% Dividend Looks Attractive. But Its Safety Margin Is Shrinking",
+   "link": "https://biztoc.com/x/c6d8673420448bf0?ref=rss",
+   "summary": "The post Paychex’s 4.3% Dividend Looks Attractive. But Its Safety Margin Is Shrinking appeared first on 24/7 Wall St.. Paychex (NASDAQ:PAYX) declared a quarterly dividend of $1.19 per share on October 15, 2026. That works out to an indicated $4.76 per share per year. The stock goes ex-dividend on…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-10-20T13:46:20+00:00",
+   "tickers": [
+    "PAYX"
+   ]
+  },
+  {
+   "id": "40e52b65179d",
+   "title": "Here's What to Expect From Super Micro Computer’s Next Earnings Report",
+   "link": "https://biztoc.com/x/a8e4f84b1bdd6f1f?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-20T13:46:18+00:00",
+   "tickers": [
+    "SMCI"
+   ]
+  },
+  {
+   "id": "9c78df3f5280",
+   "title": "Earnings Preview: What to Expect From Expeditors International‘s Report",
+   "link": "https://biztoc.com/x/ccb0a9d00c2a546a?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-20T13:46:18+00:00",
+   "tickers": [
+    "EXPD"
+   ]
+  },
+  {
+   "id": "58ac5133e0f2",
+   "title": "GE Aerospace Falls 4% Despite Earnings Beat and Raised Outlook as Costs Climb; RTX Edges Higher, Boeing Barely Moves",
+   "link": "https://biztoc.com/x/6505aa2ada85a7da?ref=rss",
+   "summary": "The post GE Aerospace Falls 4% Despite Earnings Beat and Raised Outlook as Costs Climb; RTX Edges Higher, Boeing Barely Moves appeared first on 24/7 Wall St.. A beat-and-raise quarter from GE Aerospace (NYSE:GE) is running into a jump in engine-related costs. GE Aerospace stock fell 4%, landing at…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-10-20T13:46:16+00:00",
+   "tickers": [
+    "GE",
+    "BA",
+    "NVDA",
+    "RTX"
+   ]
+  },
+  {
+   "id": "00da8f844e1a",
+   "title": "What You Need to Know Ahead of Jack Henry & Associates’ Earnings Release",
+   "link": "https://biztoc.com/x/f46317cb828772cc?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-20T13:46:12+00:00",
+   "tickers": [
+    "JKHY"
+   ]
+  },
+  {
+   "id": "ffa0e33bce78",
+   "title": "Gartner: 80% of neocloud firms face extinction by 2030 as AI capex outpaces returns",
+   "link": "https://biztoc.com/x/86d719518e3650c1?ref=rss",
+   "summary": "The post Gartner: 80% of neocloud firms face extinction by 2030 as AI capex outpaces returns appeared first on 24/7 Wall St.. CoreWeave (NASDAQ:CRWV) fell 23.85% in the week ended October 19 and closed at $61.12. Nebius Group (NASDAQ:NBIS) dropped 18.96% over the same stretch. The selling came as…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-20T13:46:11+00:00",
+   "tickers": [
+    "CRWV",
+    "NBIS"
+   ]
+  },
+  {
+   "id": "055025481c6d",
+   "title": "SK hynix: Why I'm Buying This Ugly Dip Ahead Of Q3 Earnings (Preview)",
+   "link": "https://seekingalpha.com/article/4955479-sk-hynix-why-im-buying-this-ugly-dip-ahead-of-q3-earnings-preview?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-20T13:46:09+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b2004f57a051",
+   "title": "Salesforce Retreats 2% on $5.66B Deal for Braze, Even as ServiceNow and Adobe Gain 2%",
+   "link": "https://biztoc.com/x/26f378cd7db57c07?ref=rss",
+   "summary": "The post Salesforce Retreats 2% on $5.66B Deal for Braze, Even as ServiceNow and Adobe Gain 2% appeared first on 24/7 Wall St.. A large all-cash acquisition is weighing on one of the biggest names in enterprise software. Salesforce (NYSE:CRM) stock is down 2% to $238.57 in morning trading after…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "ma",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-10-20T13:46:01+00:00",
+   "tickers": [
+    "CRM",
+    "ADBE",
+    "BRZE"
+   ]
+  },
+  {
+   "id": "8976f991fd9d",
+   "title": "Ásar hf. – Uppgjör 3. ársfjórðungs 2026 verður birt eftir lokun markaðar 27. október 2026",
+   "link": "https://www.globenewswire.com/news-release/2026/10/20/3384581/0/is/%C3%A1sar-hf-uppgj%C3%B6r-3-%C3%A1rsfj%C3%B3r%C3%B0ungs-2026-ver%C3%B0ur-birt-eftir-lokun-marka%C3%B0ar-27-okt%C3%B3ber-2026.html",
+   "summary": "Ásar hf. munu birta uppgjör sitt fyrir þriðja ársfjórðung 2026 eftir lokun markaðar þriðjudaginn 27. október næstkomandi.",
+   "article_text": "",
+   "source": "GlobeNewswire",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "globenewswire.com",
+   "published": "2026-10-20T13:46:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a6da312067ef",
+   "title": "Map Shows States Hit Hardest By Rising Home Insurance Costs",
+   "link": "https://biztoc.com/x/d4108b77c4e8d2c4?ref=rss",
+   "summary": "Home insurance premiums have jumped 24 percent for the typical U.S. homeowner in just three years, a new study found, with the Midwest hit by the biggest increases. A NerdWallet analysis of more than 840 million home insurance rate estimates calculated by Quadrant Information Services from…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-20T13:45:56+00:00",
+   "tickers": []
+  },
+  {
+   "id": "afefe30e50b9",
+   "title": "Kroger and Albertsons: the food fight every dealmaker should be watching",
+   "link": "https://biztoc.com/x/d63cf50bc0d1bbd9?ref=rss",
+   "summary": "When two large companies agree to merge, they typically promise to use “reasonable best efforts” to win regulatory approval. In plain English that means, “we’ll try.” But when supermarket giant Kroger agreed to acquire Albertsons for $24.6 billion in 2022, a pledge to try was not enough. In a…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-20T13:45:55+00:00",
+   "tickers": []
+  },
+  {
+   "id": "4d8a30930af4",
+   "title": "Kim Jong Un Pictured As Unfounded Health Rumors Spread Online",
+   "link": "https://biztoc.com/x/ef0a842710e8d6ef?ref=rss",
+   "summary": "North Korean leader Kim Jong Un has appeared in photographs released by state media after unfounded claims circulated online that he had died from a brain hemorrhage or fallen into a coma. The images, published by North Korea's state-run Korean Central News Agency (KCNA) and the ruling Workers'…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-20T13:45:52+00:00",
+   "tickers": [
+    "NWSA"
+   ]
+  },
+  {
+   "id": "08c625966827",
+   "title": "Arcus Dips, But Recovers From Steep Losses, On Merck-Rivaling Cancer Data",
+   "link": "https://biztoc.com/x/a434515d84ba27bc?ref=rss",
+   "summary": "Arcus Biosciences touted its Merck-rivaling kidney cancer treatment results Tuesday, but shares took a swim. The post Arcus Dips, But Recovers From Steep Losses, On Merck-Rivaling Cancer Data appeared first on Investor's Business Daily.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-10-20T13:45:47+00:00",
+   "tickers": [
+    "MRK"
+   ]
+  },
+  {
+   "id": "6f3612a5175a",
+   "title": "TDb Split Corp. PRTY EQTY SHS declares CAD 0.0583 dividend",
+   "link": "https://seekingalpha.com/news/4654624-tdb-split-corp-prty-eqty-shs-declares-cad-0_0583-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-20T13:45:45+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ab394d996097",
+   "title": "Hedge Funds Dumped Tech Stocks at the Fastest Pace in a Decade, Goldman Says",
+   "link": "https://biztoc.com/x/9385281348306c58?ref=rss",
+   "summary": "The post Hedge Funds Dumped Tech Stocks at the Fastest Pace in a Decade, Goldman Says appeared first on 24/7 Wall St.. Hedge funds sold technology stocks at the fastest rate in at least a decade during the week through October 15, 2026. That comes from prime brokerage data from Goldman Sachs…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-20T13:45:45+00:00",
+   "tickers": [
+    "GS"
+   ]
+  },
+  {
+   "id": "cd9b53214d8a",
+   "title": "Salesforce announces $5.66 billion deal for Braze, sending BRZE stock soaring 50%",
+   "link": "https://biztoc.com/x/81b13a9ecd8d0eb4?ref=rss",
+   "summary": "The company's latest acquisition is expected to close in fiscal 2028, and will see Braze shareholders receive $47.50 in cash per share.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-20T13:45:44+00:00",
+   "tickers": [
+    "BRZE",
+    "CRM"
+   ]
+  },
+  {
+   "id": "10e0ff8c9945",
+   "title": "I've been a Costco executive member for 11 years. I swear by these 7 freezer staples for quick, family-approved meals",
+   "link": "https://biztoc.com/x/094b12520c9963f9?ref=rss",
+   "summary": "We swear by Costco's selection of frozen fruit. Allison Lau I'm a diehard Costco fan who's had an executive membership for 11 years. My family swears by the store's freezer section for easy breakfasts, quick appetizers, and snacks. Some of our favorite products include Kirkland Signature frozen…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "fda",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-10-20T13:45:44+00:00",
+   "tickers": [
+    "COST"
+   ]
+  },
+  {
+   "id": "7116ca9539fc",
+   "title": "Indiana Democrat Jaime West Admits To Beers Before Viral Interview Segment",
+   "link": "https://biztoc.com/x/7d9853de042f70b1?ref=rss",
+   "summary": "Indiana Democratic candidate Jaime West revealed Monday that she had drunk three beers before a televised candidate forum on October 9 that has gained widespread attention. In the interview with Connersville TV3, which has been likened to a skit from Saturday Night Live online, West promised to…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-20T13:45:42+00:00",
+   "tickers": [
+    "WST"
+   ]
+  },
+  {
+   "id": "ed62729c1348",
+   "title": "The AI Rebound Is Dead... Unless Earnings Revive It",
+   "link": "https://biztoc.com/x/44fb0ec4e1842940?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-20T13:45:36+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e838c39ec7b1",
+   "title": "White House Unveils $8 Billion Relief Plan For US Farmers",
+   "link": "https://biztoc.com/x/5e5d2ba2ac4b0572?ref=rss",
+   "summary": "President Donald Trump has announced an $8 billion relief package for American farmers facing rising diesel and fertilizer costs, according to CNN. The programme was unveiled at a rally in Kansas as farmers prepare for the crucial harvest season. The administration attributed the pressure on…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-20T13:45:35+00:00",
+   "tickers": []
+  },
+  {
+   "id": "2a5413fe7b6c",
+   "title": "S&P 500, Nasdaq open lower as tech stocks fall, oil prices jump",
+   "link": "https://biztoc.com/x/6721f6ab7df51d74?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-10-20T13:45:35+00:00",
+   "tickers": [
+    "NDAQ"
+   ]
+  },
+  {
+   "id": "6cf06b5a95ed",
+   "title": "Donald Trump is Already a Lame-Duck President",
+   "link": "https://biztoc.com/x/58903fe681fd2906?ref=rss",
+   "summary": "Donald Trump has spent a decade demonstrating the extraordinary power of political spectacle. He has won two terms in office, reshaped an entire party, and achieved feats his opponents believed impossible. Whatever his critics thought of him, the effectiveness of his methods couldn't be…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-20T13:45:31+00:00",
+   "tickers": []
+  },
+  {
+   "id": "6e6482cdb410",
+   "title": "Amazon aims to add 300,000 seasonal workers — and expands health benefits in the new year",
+   "link": "https://biztoc.com/x/7008360aa8dea7ca?ref=rss",
+   "summary": "Amazon says its seasonal job listings often fill within minutes of posting. Michael Nagle/Bloomberg via Getty Images Amazon is hiring more seasonal workers than ever this year. The company will also extend healthcare benefits for hourly workers on day one, starting on Jan. 1. Holiday hiring is…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-10-20T13:45:29+00:00",
+   "tickers": [
+    "AMZN"
+   ]
+  },
+  {
+   "id": "e4788d723703",
+   "title": "SK Hynix Sinks 4% as Seoul Selloff Revives AI Spending Fears; SanDisk Drops 3%, Micron Eases",
+   "link": "https://biztoc.com/x/17a1964bdc079d33?ref=rss",
+   "summary": "The post SK Hynix Sinks 4% as Seoul Selloff Revives AI Spending Fears; SanDisk Drops 3%, Micron Eases appeared first on 24/7 Wall St.. Memory chip stocks are giving back ground as a selloff in Seoul revives worries about how long the AI spending boom can last. SK Hynix (NASDAQ:SKHY) stock is…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-10-20T13:45:28+00:00",
+   "tickers": [
+    "MU"
+   ]
+  },
+  {
+   "id": "68779da54f70",
+   "title": "SpaceX reports after the bell. Here's what options traders expect",
+   "link": "https://biztoc.com/x/2d3b046f0e837559?ref=rss",
+   "summary": "It's been a busy three months for SpaceX. The company delivered four astronauts to the International Space Station in record time, expanded its mobile network spectrum, is reportedly eyeing a $40 billion debt deal to buy Nvidia chips, and CEO Elon Musk said he plans to give shares to every kid in…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-20T13:45:27+00:00",
+   "tickers": [
+    "SPCX"
+   ]
+  },
+  {
+   "id": "7bd9560fe6c5",
+   "title": "How the energy crisis could become a food security crisis",
+   "link": "https://biztoc.com/x/0348abecba87bbf2?ref=rss",
+   "summary": "The Iran war and the Ukraine-Russia conflict are creating a \"multidirectional squeeze on world agriculture\" that could spiral into a crisis, a new report finds. Why it matters: Wars and extreme weather are colliding to threaten global food supplies and drive up prices, especially in vulnerable…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-20T13:45:27+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ab6e43db777f",
+   "title": "Nordic Firms More Than Double M&A, Fueled By Outbound Deals",
+   "link": "https://biztoc.com/x/721cb700f333d1c4?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-20T13:45:25+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f412f557d0a9",
+   "title": "General Motors Shares Plunge 6% Despite $20 Billion Buyback Announcement And Earnings Beat",
+   "link": "https://biztoc.com/x/f76713fb13a1347f?ref=rss",
+   "summary": "General Motors Shares Plunge 6% Despite $20 Billion Buyback Announcement And Earnings Beat General Motors shares are plunging more than 6% in premarket trading Tuesday, despite the automaker announcing a massive new $20 billion share repurchase program and reporting quarterly earnings that came…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-20T13:45:20+00:00",
+   "tickers": [
+    "GM"
+   ]
+  },
+  {
+   "id": "1deb6823c2f9",
+   "title": "NVIDIA Gets the Attention, but Broadcom Could Deliver the Bigger Surprise",
+   "link": "https://biztoc.com/x/42723724d8deabbe?ref=rss",
+   "summary": "The post NVIDIA Gets the Attention, but Broadcom Could Deliver the Bigger Surprise appeared first on 24/7 Wall St.. NVIDIA (NASDAQ:NVDA) gets most of the AI headlines. Broadcom (NASDAQ:AVGO) just guided to some of the fastest AI chip growth in the sector. Based on our proprietary model, the 24/7…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-20T13:45:19+00:00",
+   "tickers": [
+    "NVDA",
+    "AVGO"
+   ]
+  },
+  {
+   "id": "c1e013335f73",
+   "title": "The Heavy Lift of Adidas’s World Cup Bet",
+   "link": "https://biztoc.com/x/4945c467ccb921e7?ref=rss",
+   "summary": "Plus, dissolving supplement strips are winning over the wellness crowd.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-20T13:45:17+00:00",
+   "tickers": []
+  },
   {
    "id": "00d2171b9ef7",
    "title": "North American Financial 15 Split Corp. 5.25% PFD SHS declares CAD 0.0625 dividend",
@@ -195,22 +885,6 @@
    "tickers": []
   },
   {
-   "id": "4734901bad38",
-   "title": "General Motors beats Wall Street's Q3 earnings expectations, narrows full-year guidance",
-   "link": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html",
-   "summary": "GM narrowed its 2026 earnings guidance and raised its adjusted automotive free cash flow outlook after beating Wall Street’s third-quarter estimates.",
-   "article_text": "General Motors (GM) earnings Q3 2026 Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Key Points General Motors beat Wall Street’s expectations on the top- and bottom-lines. The Detroit automaker raised its free cash flow expectations and narrowed its 2026 full-year guidance. GM also announced a new multiyear stock buyback of $20 billion, but didn’t give a specific timeframe for the repurchase. In this article GM Follow your favorite stocks CREATE FREE ACCOUNT watch now VIDEO 7:11 07:11 GM CFO Paul Jacobson on $20B stock buyback: Driven by our stellar free cash flow generation Squawk Box DETROIT — General Motors narrowed its 2026 earnings guidance and raised its free cash flow expectations after beating Wall Street's third-quarter expectations. The Detroit automaker also announced a new multiyear stock buyback of $20 billion after GM completed a $6 billion share repurchase program that was announced in January. GM did not disclose a specific time to complete the program. Despite the positive news, GM stock was off roughly 6% during early trading Tuesday as the company's outlook missed Wall Street's expectations. Wall Street analysts were mixed before the report on whether GM would raise its guidance Tuesday amid concerns of slowing sales and rising commodity costs. Analysts' expectations included a midpoint of $13.41 per share for the year compared with GM's new $13.25 per share midpoint, according to LSEG. Several analysts in investor notes Tuesday said GM's third-quarter results were solid, but raised concerns about whether higher costs and pressures on vehicle pricing would limit earnings growth next year. Here's how GM performed in the third quarter, compared with average estimates compiled by LSEG: Earnings per share: $3.70 adjusted vs. $3.63 expected Revenue: $50.02 billion vs. $48.7 billion expected GM's new guidance includes adjusted earnings before interest and taxes of between $14.5 billion and $15.5 billion, or $12.75 to $13.75 adjusted earnings per share, and adjusted automotive free cash flow of between $11.5 billion and $12.5 billion. That compares with its raised guidance from July that included adjusted EBIT of between $14 billion and $16 billion, or $12 to $14 adjusted EPS, and adjusted automotive free cash flow of $9.5 billion to $11.5 billion. \"I think the market's been pretty consistent from what we've said all year,\" GM CFO Paul Jacobson told CNBC's Phil LeBeau . \"Our fourth quarter's going to be down sequentially. ... I think the fact that we're able to hold our guidance in the face of that late inflationary pressure in the year is another sign of the GM team executing really well.\" GM on Tuesday said it expects commodity inflation costs to be around $2 billion, which was the high end of its previous guidance. That includes higher costs for logistics and dynamic random-access memory, or DRAM, chips that are impacting multiple industries . While the inflationary costs were at the automaker's high end of guidance, GM said its gross tariff costs are expected to be at the low end of its expected $2.5 billion to $3.5 billion range. Warranty costs are expected to be at high end between $1 billion and $1.5 billion, GM said. Jacobson said vehicle pricing is relatively flat as inflationary costs continue to increase. He said the company would assess where consumers are in the coming year when deciding if it should pass costs along by raising prices more than normal. \"GM is performing well, and we are working hard to continue our momentum despite growing inflationary pressures through strategic investments in new products and services, and through improved quality and operating efficiency,\" GM CEO Mary Barra said Tuesday in a letter to shareholders. The automaker also said the costs of its pullback in all-electric vehicles announced last year were \"substantially completed,\" saying it has recorded $11.2 billion in such charges since the second half of last year, including paying $4.6 billion of $7.4 billion in cash through the third quarter. The company's net income attributed to stockholders was $3.3 billion during the third quarter, up roughly $2 billion from a year earlier. GM's North American operations continued to lead the automaker's results, accounting for $3.6 billion of its $4.1 billion in adjusted EBIT results during the third quarter. GM's 2025 third-quarter results included $48.59 billion in revenue, net income attributable to stockholders of $1.3 billion and earnings per share of $2.80 adjusted. Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
-   "source": "CNBC Earnings",
-   "category": "earnings",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "cnbc.com",
-   "published": "2026-10-20T13:38:36+00:00",
-   "tickers": [
-    "GM"
-   ]
-  },
-  {
    "id": "6425875f77c1",
    "title": "8-K - ONCOLYTICS BIOTECH INC (0001129928) (Filer)",
    "link": "https://www.sec.gov/Archives/edgar/data/1129928/000112992826000074/0001129928-26-000074-index.htm",
@@ -268,22 +942,6 @@
     "SATS",
     "NDAQ",
     "ASST"
-   ]
-  },
-  {
-   "id": "7f4d536a79c8",
-   "title": "Nasdaq falls as AI trade resumes sell-off: Live updates",
-   "link": "https://www.cnbc.com/2026/10/19/stock-market-today-live-updates.html",
-   "summary": "The S&P 500 and Nasdaq clawed back some of their steep losses from the week before.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "negative",
-   "domain": "cnbc.com",
-   "published": "2026-10-20T13:35:44+00:00",
-   "tickers": [
-    "NDAQ"
    ]
   },
   {
@@ -414,7 +1072,7 @@
    "title": "SpaceX earnings live updates: Starlink growth, AI revenue and merger speculation",
    "link": "https://www.cnbc.com/2026/10/20/spacex-spcx-earnings-live-updates-q3-2026html.html",
    "summary": "Follow SpaceX’s Q3 2026 earnings live, with updates on revenue, Starlink, AI spending, Starship, guidance and SPCX stock.",
-   "article_text": "SpaceX (SPCX) Q3 2026 earnings report: Live updates Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu watch now VIDEO 2:20 02:20 SpaceX earnings in focus as Starlink growth and AI spending take center stage Morning Call SpaceX is set to announce third-quarter results after the bell on Tuesday, the second earnings report for Elon Musk's defense tech conglomerate since its record IPO in June. Here's what analysts are expecting, according to LSEG consensus estimates: Revenue: $12.72 billion expected Earnings per share: 13 cents expected While SpaceX is best known for its reusable rockets, most of its revenue and profit in recent quarters came from the company's connectivity segment, which consists of its Starlink satellite internet service. Buzz is building about Starlink's plans to build a U.S. network after SpaceX, earlier this month, announced that it's buying 800 MHz of low-band spectrum, and after the Federal Communications Commission approved a plan for the company to build out a 15,000-satellite constellation. The moves strengthen \"Starlink Mobile's ability to compete with major carriers by enabling broader, deeper coverage,\" RBC Capital Markets analysts wrote in a note ahead of earnings. The firm has a $225 price target on SpaceX stock and the equivalent of a buy rating. In the third quarter, analysts are expecting AI revenue of $6.47 billion, connectivity sales of $4.84 billion, and revenue in the space business of $1.41 billion, according to StreetAccount. During the third quarter, SpaceX also closed its $60 billion purchase of AI coding startup Cursor. Read more CNBC tech news Google says it can build data centers the right way. Some experts and residents are skeptical Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why Anthropic commits 5% of shares to new public benefit fund that could address AI job disruption Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy 12 Min Ago Starshield issues in Ukraine BRUSSELS, BELGIUM - OCTOBER 16: Ukrainian President Volodymyr Zelenskyy holds a press conference during the second day of the European Union leaders' summit in Brussels, Belgium, on October 16, 2026. (Photo by Dursun Aydemir/Anadolu via Getty Images) Anadolu | Anadolu | Getty Images A military tier of Starlink, marketed as Starshield, has drawn scrutiny of late as restrictions on the system in Ukraine hindered the country's ability to defend itself against intensifying attacks by Russia. Ukrainian officials said SpaceX and the Trump administration restricted Starshield without warning last week, causing Ukraine's military forces to lose control of drones moving over 100 miles per hour, as the craft were relying on Starshield for connectivity at those speeds. Musk said in a post on X that any changes to Starshield should be attributed to the U.S. government and President Donald Trump, though Trump later denied he ordered any such restrictions. Ukraine President Volodymyr Zelenskyy told NBC's \"Meet the Press\" on Sunday that the restraints remained in place over the weekend. Investors, meanwhile, have poured capital into potential Starlink competitors, including Eutelsat . —Lora Kolodny 45 Min Ago An update on cloud computing revenue watch now VIDEO 29:01 29:01 How Elon Musk's AI empire in Memphis became a cautionary tale Tech After acquiring xAI in February with its data centers in and around Memphis, Tennessee, SpaceX struck lucrative cloud computing agreements, establishing a new revenue stream. Deals with Google, Anthropic and Reflection AI, as well as an unnamed customer revealed by SpaceX CFO Bret Johnsen at an event last month, amount to potentially tens of billions of dollars in annual revenue for the company. SpaceX is reportedly in talks to raise up to $40 billion to buy more Nvidia chips to support its AI ambitions. Investors are looking for updates around this business for SpaceX as it seeks to monetize its AI capacity. —Lora Kolodny 45 Min Ago Speculation builds around a possible Tesla-SpaceX merger watch now VIDEO 8:08 08:08 Tesla unveils long-delayed Roadster, showing off its 'flying car' ambitions Squawk Box Ahead of earnings, investors are invited to submit questions for the call. One entry that got a lot of upvotes was about timing for a potential merger between SpaceX and Tesla, Musk's automaker. Musk's companies have had business and financial relations for years, even sharing personnel and some board members. Tesla invested $2 billion into xAI, which later converted into shares of SpaceX. The AI unit of SpaceX also spent about $430 million last year on Tesla's Megapacks, which are battery energy storage systems, and $143 million on Cybertrucks. With SpaceX hitting the public market in June, speculation about a more permanet tie-up has been swirling. SpaceX COO Gwynne Shotwell told CNBC ahead of the IPO that a merger \"might make Elon's life a little easier.\" A demo of Tesla's next-generation Roadster last week stirred up further merger excitement among Musk fans. The new Roadster was developed with SpaceX and incorporates its technology, including cold gas thrusters, to enable the car to launch, hover and flip in mid-air. —Lora Kolodny",
+   "article_text": "SpaceX (SPCX) Q3 2026 earnings report: Live updates Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu watch now VIDEO 2:20 02:20 SpaceX earnings in focus as Starlink growth and AI spending take center stage Morning Call SpaceX is set to announce third-quarter results after the bell on Tuesday, the second earnings report for Elon Musk's defense tech conglomerate since its record IPO in June. Here's what analysts are expecting, according to LSEG consensus estimates: Revenue: $12.72 billion expected Earnings per share: 13 cents expected While SpaceX is best known for its reusable rockets, most of its revenue and profit in recent quarters came from the company's connectivity segment, which consists of its Starlink satellite internet service. Buzz is building about Starlink's plans to build a U.S. network after SpaceX, earlier this month, announced that it's buying 800 MHz of low-band spectrum, and after the Federal Communications Commission approved a plan for the company to build out a 15,000-satellite constellation. The moves strengthen \"Starlink Mobile's ability to compete with major carriers by enabling broader, deeper coverage,\" RBC Capital Markets analysts wrote in a note ahead of earnings. The firm has a $225 price target on SpaceX stock and the equivalent of a buy rating. In the third quarter, analysts are expecting AI revenue of $6.47 billion, connectivity sales of $4.84 billion, and revenue in the space business of $1.41 billion, according to StreetAccount. During the third quarter, SpaceX also closed its $60 billion purchase of AI coding startup Cursor. Read more CNBC tech news Google says it can build data centers the right way. Some experts and residents are skeptical Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why Anthropic commits 5% of shares to new public benefit fund that could address AI job disruption Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy 20 Min Ago Starshield issues in Ukraine BRUSSELS, BELGIUM - OCTOBER 16: Ukrainian President Volodymyr Zelenskyy holds a press conference during the second day of the European Union leaders' summit in Brussels, Belgium, on October 16, 2026. (Photo by Dursun Aydemir/Anadolu via Getty Images) Anadolu | Anadolu | Getty Images A military tier of Starlink, marketed as Starshield, has drawn scrutiny of late as restrictions on the system in Ukraine hindered the country's ability to defend itself against intensifying attacks by Russia. Ukrainian officials said SpaceX and the Trump administration restricted Starshield without warning last week, causing Ukraine's military forces to lose control of drones moving over 100 miles per hour, as the craft were relying on Starshield for connectivity at those speeds. Musk said in a post on X that any changes to Starshield should be attributed to the U.S. government and President Donald Trump, though Trump later denied he ordered any such restrictions. Ukraine President Volodymyr Zelenskyy told NBC's \"Meet the Press\" on Sunday that the restraints remained in place over the weekend. Investors, meanwhile, have poured capital into potential Starlink competitors, including Eutelsat . —Lora Kolodny 53 Min Ago An update on cloud computing revenue watch now VIDEO 29:01 29:01 How Elon Musk's AI empire in Memphis became a cautionary tale Tech After acquiring xAI in February with its data centers in and around Memphis, Tennessee, SpaceX struck lucrative cloud computing agreements, establishing a new revenue stream. Deals with Google, Anthropic and Reflection AI, as well as an unnamed customer revealed by SpaceX CFO Bret Johnsen at an event last month, amount to potentially tens of billions of dollars in annual revenue for the company. SpaceX is reportedly in talks to raise up to $40 billion to buy more Nvidia chips to support its AI ambitions. Investors are looking for updates around this business for SpaceX as it seeks to monetize its AI capacity. —Lora Kolodny 53 Min Ago Speculation builds around a possible Tesla-SpaceX merger watch now VIDEO 8:08 08:08 Tesla unveils long-delayed Roadster, showing off its 'flying car' ambitions Squawk Box Ahead of earnings, investors are invited to submit questions for the call. One entry that got a lot of upvotes was about timing for a potential merger between SpaceX and Tesla, Musk's automaker. Musk's companies have had business and financial relations for years, even sharing personnel and some board members. Tesla invested $2 billion into xAI, which later converted into shares of SpaceX. The AI unit of SpaceX also spent about $430 million last year on Tesla's Megapacks, which are battery energy storage systems, and $143 million on Cybertrucks. With SpaceX hitting the public market in June, speculation about a more permanet tie-up has been swirling. SpaceX COO Gwynne Shotwell told CNBC ahead of the IPO that a merger \"might make Elon's life a little easier.\" A demo of Tesla's next-generation Roadster last week stirred up further merger excitement among Musk fans. The new Roadster was developed with SpaceX and incorporates its technology, including cold gas thrusters, to enable the car to launch, hover and flip in mid-air. —Lora Kolodny",
    "source": "CNBC Top",
    "category": "markets",
    "type": "ma",
@@ -886,6 +1544,138 @@
    "tickers": []
   },
   {
+   "id": "5271145a311c",
+   "title": "Betterment Launches Mega Backdoor Roth Capability for Solo 401(k)s",
+   "link": "https://www.prnewswire.com/news-releases/betterment-launches-mega-backdoor-roth-capability-for-solo-401ks-302913702.html",
+   "summary": "New offering helps eligible self-employed investors save more for retirement NEW YORK, Oct. 20, 2026 /PRNewswire/ -- Betterment, a trusted wealth and savings platform, today introduced mega backdoor Roth capabilities for its solo 401(k) offering, increasing retirement savings potential...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "positive",
+   "domain": "prnewswire.com",
+   "published": "2026-10-20T13:30:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "4a8db60353ec",
+   "title": "EIT Pharma Presents New Lonafarnib Analyses at the 2026 Delta Cure International Meeting",
+   "link": "https://www.prnewswire.com/news-releases/eit-pharma-presents-new-lonafarnib-analyses-at-the-2026-delta-cure-international-meeting-302914097.html",
+   "summary": "FDA Previously Accepted the New Drug Application for Lonafarnib, an Investigational First-in-Class Oral Therapy for Chronic Hepatitis D KIRKLAND, Wash., Oct. 20, 2026 /PRNewswire/ -- EIT Pharma, Inc. (\"EIT Pharma\" or the \"Company\"), a biotechnology company focused on developing therapies...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-10-20T13:30:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ce15ac52acc7",
+   "title": "Lung Cancer Research Foundation Welcomes New Board Chair and Members",
+   "link": "https://www.prnewswire.com/news-releases/lung-cancer-research-foundation-welcomes-new-board-chair-and-members-302911523.html",
+   "summary": "Jill Morningstar Named Board Chair; Aileen Murgatroyd and Jill Frizzley Join Board of Directors NEW YORK, Oct. 20, 2026 /PRNewswire/ -- The Lung Cancer Research Foundation (LCRF) today announced Jill Morningstar as Chair of its Board of Directors. Morningstar, who has served on LCRF's...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-10-20T13:30:00+00:00",
+   "tickers": [
+    "MORN"
+   ]
+  },
+  {
+   "id": "2e5f1efe0ef8",
+   "title": "Medicare Open Enrollment Scams: \"The Medicare Fraud of the Month for October\"",
+   "link": "https://www.prnewswire.com/news-releases/medicare-open-enrollment-scams-the-medicare-fraud-of-the-month-for-october-302913289.html",
+   "summary": "ALBANY, N.Y., Oct. 20, 2026 /PRNewswire/ -- The New York StateWide Senior Action Council (StateWide), a 54-year-old non-profit organization dedicated to serving the needs and well-being of our State's more than 3.6 million senior citizens, today announced its Medicare Fraud of the Month...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "prnewswire.com",
+   "published": "2026-10-20T13:30:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "7d18d73eb50a",
+   "title": "BAILEYS ORIGINAL IRISH CREAM SAYS \"WHY NOT?\" TO A LITTLE MORE HOLIDAY INDULGENCE WITH \"BRING ON THE BAILEYS\"",
+   "link": "https://www.prnewswire.com/news-releases/baileys-original-irish-cream-says-why-not-to-a-little-more-holiday-indulgence-with-bring-on-the-baileys-302914033.html",
+   "summary": "The leading liqueur brand unveils a new global campaign with playful holiday creative, bringing spontaneity, indulgence and a fresh twist to classic winter traditions NEW YORK, Oct. 20, 2026 /PRNewswire/ -- From the treats people look forward to all year to the spontaneous gatherings that...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-10-20T13:30:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "8885bf15f6c6",
+   "title": "NO DOGS LEFT BEHIND SHUTS DOWN THREE EAST ASIAN DOG TRAFFICKING FACILITIES IN 60 DAYS, SAVING OVER 175 LIVES",
+   "link": "https://www.prnewswire.com/news-releases/no-dogs-left-behind-shuts-down-three-east-asian-dog-trafficking-facilities-in-60-days-saving-over-175-lives-302913228.html",
+   "summary": "Urgent Appeal Launched for Critical Medical Care, Rehabilitation, and Shelter Resources as Rescued Dogs Face Road to Recovery NEW YORK, Oct. 20, 2026 /PRNewswire/ -- International animal rescue organization No Dogs Left Behind (NDLB) today announced the successful shutdown of three...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-10-20T13:30:00+00:00",
+   "tickers": [
+    "DOG"
+   ]
+  },
+  {
+   "id": "8c37acf715c2",
+   "title": "Crowell &amp; Moring Continues to Expand Corporate Practice with Addition of M&amp;A Partner Jeryl Bowers in Los Angeles",
+   "link": "https://www.prnewswire.com/news-releases/crowell--moring-continues-to-expand-corporate-practice-with-addition-of-ma-partner-jeryl-bowers-in-los-angeles-302913709.html",
+   "summary": "LOS ANGELES, Oct. 20, 2026 /PRNewswire/ -- Jeryl A. Bowers, an M&A lawyer with more than 30 years of experience advising clients on complex transactions and commercial matters, has joined Crowell & Moring as a partner in Los Angeles. His arrival reflects the continued growth of the firm's...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "positive",
+   "domain": "prnewswire.com",
+   "published": "2026-10-20T13:30:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f880711017b9",
+   "title": "National Sleep Foundation to Reveal New Insights that Broaden Drowsy Driving Prevention Strategy",
+   "link": "https://www.prnewswire.com/news-releases/national-sleep-foundation-to-reveal-new-insights-that-broaden-drowsy-driving-prevention-strategy-302914137.html",
+   "summary": "Building on its body of population research, NSF's latest national survey results explore opportunities for technology WASHINGTON, Oct. 20, 2026 /PRNewswire/ -- National Sleep Foundation (NSF) today announced a preview of its forthcoming 2026 Drowsy Driving Report, marking the next...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-10-20T13:29:00+00:00",
+   "tickers": [
+    "MSTR"
+   ]
+  },
+  {
+   "id": "707c6bb75ab1",
+   "title": "Soft2Bet anerkendt på tværs af teknologi, drift og kundeoplevelse ved The European Global Business Awards 2026",
+   "link": "https://www.prnewswire.com/news-releases/soft2bet-anerkendt-pa-tvaers-af-teknologi-drift-og-kundeoplevelse-ved-the-european-global-business-awards-2026-302914134.html",
+   "summary": "BIRKIRKARA, Malta, 20. oktober 2026 /PRNewswire/ -- Ved The European Global Business Awards 2026 modtog Soft2Bet, førende B2B-leverandør af teknologiske løsninger, tre priser, som understreger vores engagement i avanceret platformsteknologi, problemfri global drift, dedikeret teknisk...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-10-20T13:28:00+00:00",
+   "tickers": []
+  },
+  {
    "id": "4adda6000774",
    "title": "Myriad to sell prenatal health testing business to Labcorp for $210M",
    "link": "https://seekingalpha.com/news/4654601-myriad-sell-prenatal-health-business-labcorp?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -947,6 +1737,34 @@
    "tickers": []
   },
   {
+   "id": "acaa2887b239",
+   "title": "LINK organiza un intercambio técnico global centrado en las pruebas de emisiones de frenos y la norma UN R179",
+   "link": "https://www.prnewswire.com/news-releases/link-organiza-un-intercambio-tecnico-global-centrado-en-las-pruebas-de-emisiones-de-frenos-y-la-norma-un-r179-302914131.html",
+   "summary": "LIMBURG, Alemania, 20 de octubre de 2026 /PRNewswire/ -- Link Engineering Company GmbH (LINK) organizó recientemente un intercambio técnico de tres días en Limburgo, Alemania, sirviendo como punto de reunión para un fabricante de vehículos global y organizaciones de servicios técnicos. El...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-10-20T13:26:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "39fb48205fe8",
+   "title": "San Juan Basin Royalty Trust Declares No Cash Distribution for October 2026",
+   "link": "https://www.prnewswire.com/news-releases/san-juan-basin-royalty-trust-declares-no-cash-distribution-for-october-2026-302913997.html",
+   "summary": "DALLAS, Oct. 20, 2026 /PRNewswire/ -- Argent Trust Company, as the trustee (the \"Trustee\") of the San Juan Basin Royalty Trust (the \"Trust\") (NYSE: SJT), today reported that it will not declare a monthly cash distribution to the holders of its units of beneficial interest (the \"Unit...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-10-20T13:25:00+00:00",
+   "tickers": []
+  },
+  {
    "id": "7761cf88b8f7",
    "title": "Healthcare Triangle signs six client contracts in Spain",
    "link": "https://www.investing.com/news/company-news/healthcare-triangle-signs-six-client-contracts-in-spain-93CH-4960285",
@@ -1003,6 +1821,34 @@
    "tickers": []
   },
   {
+   "id": "c96b045d9b47",
+   "title": "Medius Launches Medius Contracts to Connect Contract Intelligence with Business Spend",
+   "link": "https://www.prnewswire.com/news-releases/medius-launches-medius-contracts-to-connect-contract-intelligence-with-business-spend-302914129.html",
+   "summary": "New AI-first solution structures contract data and connects it with procurement and AP transactions, helping businesses ensure negotiated value is reflected in actual spend JACKSONVILLE, Fla., Oct. 20, 2026 /PRNewswire/ -- Medius, a leading provider of Accounts Payable (AP) automation and...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "positive",
+   "domain": "prnewswire.com",
+   "published": "2026-10-20T13:24:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f9fe21a696a6",
+   "title": "SwitchBot Launches Permanent Outdoor Lights with Matter, RGBIC Effects, and Dedicated White Lighting",
+   "link": "https://www.prnewswire.com/news-releases/switchbot-launches-permanent-outdoor-lights-with-matter-rgbic-effects-and-dedicated-white-lighting-302914127.html",
+   "summary": "TOKYO, Oct. 20, 2026 /PRNewswire/ -- SwitchBot, a leading provider of AI-enabled embodied home robotics systems, today announced SwitchBot Permanent Outdoor Lights, a 30m smart outdoor lighting system that combines RGBIC color effects, dedicated warm- and cool-white lighting, native...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "positive",
+   "domain": "prnewswire.com",
+   "published": "2026-10-20T13:24:00+00:00",
+   "tickers": []
+  },
+  {
    "id": "28d9d0456620",
    "title": "MSCI stock climbs after Q3 earnings beat; free cash flow guidance affirmed",
    "link": "https://seekingalpha.com/news/4654576-msci-stock-climbs-after-q3-earnings-beat-free-cash-flow-guidance-affirmed?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -1031,6 +1877,50 @@
    "domain": "seekingalpha.com",
    "published": "2026-10-20T13:23:08+00:00",
    "tickers": []
+  },
+  {
+   "id": "3ceaf6d18e17",
+   "title": "Product DNA and Climate Pacer Launch Solution to Uncover Supply Chain Climate Risks Beyond Tier 1",
+   "link": "https://www.prnewswire.com/news-releases/product-dna-and-climate-pacer-launch-solution-to-uncover-supply-chain-climate-risks-beyond-tier-1-302910821.html",
+   "summary": "Know where your supply chain will break before the weather does: the joint solution shows which suppliers, sites and routes are exposed to climate risks and hazards – hurricanes, wildfires, heat and floods – so companies can protect revenue ahead of disruption. MIAMI, Oct. 20, 2026...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-10-20T13:23:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "0706ea1260f9",
+   "title": "LINK veranstaltet globalen technischen Austausch mit Schwerpunkt auf Bremsemissionsprüfung und UN R179",
+   "link": "https://www.prnewswire.com/news-releases/link-veranstaltet-globalen-technischen-austausch-mit-schwerpunkt-auf-bremsemissionsprufung-und-un-r179-302914125.html",
+   "summary": "LIMBURG, Deutschland, 20. Oktober 2026 /PRNewswire/ -- Die Link Engineering Company GmbH (LINK) veranstaltete kürzlich einen dreitägigen technischen Austausch in Limburg, Deutschland, der einen globalen Fahrzeughersteller und technische Serviceorganisationen zusammenbrachte. Das Forum bot...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-10-20T13:23:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a9a7b5eeec88",
+   "title": "TerraMaster TerraSync Update: New File Sharing and On-Demand Sync for Mac Enable More Efficient File Collaboration",
+   "link": "https://www.prnewswire.com/news-releases/terramaster-terrasync-update-new-file-sharing-and-on-demand-sync-for-mac-enable-more-efficient-file-collaboration-302914126.html",
+   "summary": "SHENZHEN, China, Oct. 20, 2026 /PRNewswire/ -- TerraMaster today announced a major update to TerraSync, introducing an all-in-one file-sharing feature and on-demand sync for the Mac version of TNAS PC. This update makes it easier for home users, content creators, and business teams to...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-10-20T13:23:00+00:00",
+   "tickers": [
+    "AAPL"
+   ]
   },
   {
    "id": "56034523833d",
@@ -1122,6 +2012,20 @@
    "tickers": []
   },
   {
+   "id": "999ddfdcd370",
+   "title": "Cellebrite wird die Finanzergebnisse für das dritte Quartal 2026 am 12. November 2026 veröffentlichen.",
+   "link": "https://www.prnewswire.com/news-releases/cellebrite-wird-die-finanzergebnisse-fur-das-dritte-quartal-2026-am-12-november-2026-veroffentlichen-302914124.html",
+   "summary": "TYSONS CORNER, VA und PETAH TIKVA, ISRAEL, 20. Oktober 2026 /PRNewswire/ -- Cellebrite DI Ltd. (NASDAQ: CLBT, ein weltweit führender Anbieter von KI-gestützten digitalen Ermittlungs- und Aufklärungslösungen für den öffentlichen und privaten Sektor, gab heute bekannt, dass es seine...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-10-20T13:21:00+00:00",
+   "tickers": []
+  },
+  {
    "id": "04dc82c330eb",
    "title": "Broadcom, FedEx Extend Digital Infrastructure Software Partnership",
    "link": "https://www.nasdaq.com/articles/broadcom-fedex-extend-digital-infrastructure-software-partnership",
@@ -1178,6 +2082,52 @@
    "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-10-20T13:20:19+00:00",
+   "tickers": []
+  },
+  {
+   "id": "bf3b71bea15c",
+   "title": "Trellist Brings AI Transformation Practice to Adobe Experience Cloud Teams",
+   "link": "https://www.prnewswire.com/news-releases/trellist-brings-ai-transformation-practice-to-adobe-experience-cloud-teams-302910824.html",
+   "summary": "Trellist pairs its Adobe Experience Manager and Target expertise with an AI practice built to connect systems and reduce handoffs WEST CHESTER, Pa., Oct. 20, 2026 /PRNewswire/ -- Trellist, Inc. today announced that its AI Transformation practice is now available to Adobe Experience Cloud...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-10-20T13:20:00+00:00",
+   "tickers": [
+    "ADBE"
+   ]
+  },
+  {
+   "id": "5a4ab3c83cdd",
+   "title": "HCTI Expands AI Business with 6 New Contracts, Targeting approx. $4.65M in Annual Run Rate Revenue",
+   "link": "https://www.prnewswire.com/news-releases/hcti-expands-ai-business-with-6-new-contracts-targeting-approx-4-65m-in-annual-run-rate-revenue-302914084.html",
+   "summary": "Six signed engagements in HCTI's Teyame business, which represent an estimated $1.34M annual full run rate; a separate unsigned opportunity targets another $3.31M. PLEASANTON, Calif., Oct. 20, 2026 /PRNewswire/ -- Healthcare Triangle, Inc. (Nasdaq: HCTI) (\"Healthcare Triangle,\" \"HCTI\" or...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "macro",
+   "sentiment": "positive",
+   "domain": "prnewswire.com",
+   "published": "2026-10-20T13:20:00+00:00",
+   "tickers": [
+    "NDAQ"
+   ]
+  },
+  {
+   "id": "015beb6e529a",
+   "title": "DDB Capital Invites Partners to Grow Its Southeast Residential Land Platform",
+   "link": "https://www.prnewswire.com/news-releases/ddb-capital-invites-partners-to-grow-its-southeast-residential-land-platform-302914011.html",
+   "summary": "Firm seeks relationships with capital partners, landowners and homebuilders who share a disciplined approach to development ALPHARETTA, Ga., Oct. 20, 2026 /PRNewswire/ -- DDB Capital is inviting capital partners, landowners and homebuilders to explore opportunities to grow alongside its...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-10-20T13:20:00+00:00",
    "tickers": []
   },
   {
@@ -2206,20 +3156,6 @@
    "sentiment": "neutral",
    "domain": "sec.gov",
    "published": "2026-10-20T13:03:57+00:00",
-   "tickers": []
-  },
-  {
-   "id": "5427442f240d",
-   "title": "Data center stocks slide as Korea IPO plunges 30%, pressuring tech sentiment",
-   "link": "https://www.cnbc.com/2026/10/20/data-center-stocks-slide-as-korea-ipo-plunges-30percent-pressuring-tech-sentiment.html",
-   "summary": "Neocloud stocks are falling again following the sector's troubles last week",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "offering",
-   "sentiment": "negative",
-   "domain": "cnbc.com",
-   "published": "2026-10-20T13:03:55+00:00",
    "tickers": []
   },
   {
@@ -8059,941 +8995,11 @@
    "tickers": [
     "SPOT"
    ]
-  },
-  {
-   "id": "1a687d102492",
-   "title": "3M lifts annual profit forecast on cost controls, price hikes",
-   "link": "https://www.cnbc.com/2026/10/20/3m-mmm-earnings-q3-2026.html",
-   "summary": "3M boosted its expected full-year adjusted profit per share of $9.10 to $9.15, from its earlier forecast of $8.80 to $8.95.",
-   "article_text": "",
-   "source": "CNBC Earnings",
-   "category": "earnings",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "cnbc.com",
-   "published": "2026-10-20T11:40:22+00:00",
-   "tickers": []
-  },
-  {
-   "id": "00c56dabc1fc",
-   "title": "Stereotaxis to Report Third Quarter 2026 Financial Results on November 10, 2026",
-   "link": "https://www.globenewswire.com/news-release/2026/10/20/3384283/21634/en/stereotaxis-to-report-third-quarter-2026-financial-results-on-november-10-2026.html",
-   "summary": "ST. LOUIS, Oct. 20, 2026 (GLOBE NEWSWIRE) -- Stereotaxis, Inc. (NYSE: STXS), a pioneer and global leader in surgical robotics for minimally invasive endovascular intervention, today announced that it will release financial results for its 2026 third quarter on Tuesday, November 10, 2026 at the close of the U.S. financial markets. The Company will host a conference call and webcast at 4:30 p.m. EST that day to discuss the Company’s results and corporate developments.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-10-20T11:40:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "163b7a9bea28",
-   "title": "Mercedes-Benz: The Hidden Value Behind My Buy Upgrade",
-   "link": "https://seekingalpha.com/article/4955434-mercedes-benz-the-hidden-value-behind-my-buy-upgrade?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-20T11:40:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "47406026e471",
-   "title": "Tesla Ahead Of Q3 2026 Earnings: Strong Deliveries, Weakening Demand In China, And A Major Test For Cybercab",
-   "link": "https://seekingalpha.com/article/4955454-tesla-ahead-of-q3-2026-earnings-strong-deliveries-weakening-demand-in-china-major-test-for-cybercab?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-20T11:40:00+00:00",
-   "tickers": [
-    "TSLA"
-   ]
-  },
-  {
-   "id": "dfa340906673",
-   "title": "Hasbro smashes profit expectations and raises its full-year revenue outlook",
-   "link": "https://seekingalpha.com/news/4654538-hasbro-smashes-profit-expectations-and-raises-its-full-year-revenue-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-20T11:39:34+00:00",
-   "tickers": []
-  },
-  {
-   "id": "8291a0442cd4",
-   "title": "Capital City Bank Group Inc. Bottom Line Rises In Q3",
-   "link": "https://www.nasdaq.com/articles/capital-city-bank-group-inc-bottom-line-rises-q3",
-   "summary": "(RTTNews) - Capital City Bank Group Inc. (CCBG) revealed a profit for its third quarter that Increased, from last year",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-10-20T11:38:45+00:00",
-   "tickers": []
-  },
-  {
-   "id": "650db7c03762",
-   "title": "Health In Tech Appoints Sanjay Shrestha To Succeed Tim Johnson CEO",
-   "link": "https://www.nasdaq.com/articles/health-tech-appoints-sanjay-shrestha-succeed-tim-johnson-ceo",
-   "summary": "(RTTNews) - Health In Tech, Inc. (HIT), an AI-enabled InsurTech platform company, Tuesday announced the appointment of Sanjay Shrestha as Chief Executive Officer, effective October 20, 2026.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-20T11:38:42+00:00",
-   "tickers": []
-  },
-  {
-   "id": "1379884d6a19",
-   "title": "Britain’s Conservatives make pre-budget pitch to cut spending and borrowing",
-   "link": "https://www.investing.com/news/economy-news/britains-conservatives-make-prebudget-pitch-to-cut-spending-and-borrowing-4959819",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-10-20T11:36:37+00:00",
-   "tickers": []
-  },
-  {
-   "id": "db9d0ad29364",
-   "title": "AstraZeneca and Oracle strike AI collaboration to speed up clinical trials",
-   "link": "https://seekingalpha.com/news/4654517-astrazeneca-oracle-strike-ai-collaboration?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-20T11:36:23+00:00",
-   "tickers": [
-    "AZN",
-    "ORCL"
-   ]
-  },
-  {
-   "id": "56763a344a12",
-   "title": "Have $1,000 to Invest? This Dirt Cheap Pharma Stock Pays You 4.2% to Wait.",
-   "link": "https://www.nasdaq.com/articles/have-1000-invest-dirt-cheap-pharma-stock-pays-you-42-wait",
-   "summary": "Key PointsBristol Myers Squibb has a moderately high forward dividend yield, but that's not the main appeal with this undervalued pharmaceutical stock.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-20T11:36:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "706336d3a81d",
-   "title": "Valmont Industries Q3 Earnings Up; Raises FY26 Adjusted EPS Outlook",
-   "link": "https://www.nasdaq.com/articles/valmont-industries-q3-earnings-raises-fy26-adjusted-eps-outlook",
-   "summary": "(RTTNews) - Valmont Industries, Inc. (VMI), a manufacturer and engineering company, on Tuesday reported higher net income in the third quarter compared with the previous year.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-10-20T11:35:36+00:00",
-   "tickers": [
-    "VMI"
-   ]
-  },
-  {
-   "id": "8ffe495e8552",
-   "title": "Anthropic Delivers Fantastic News for AI Stock Investors",
-   "link": "https://www.nasdaq.com/articles/anthropic-delivers-fantastic-news-ai-stock-investors-0",
-   "summary": "Anthropic's success is important to the entire AI ecosystem.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-20T11:35:00+00:00",
-   "tickers": [
-    "NWSA"
-   ]
-  },
-  {
-   "id": "79f5013cefd9",
-   "title": "Trick Or Treat, I'm Buying These Investment-Grade REITs",
-   "link": "https://seekingalpha.com/article/4955190-trick-or-treat-im-buying-these-investment-grade-reits?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-20T11:35:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "eb4f3ebf8a66",
-   "title": "AI Bubble Or Not, Investors Should Manage The Risk Now",
-   "link": "https://seekingalpha.com/article/4955453-ai-bubble-or-not-investors-should-manage-risk-now?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-20T11:35:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "4b89e554afe4",
-   "title": "This Stock Has A 12.00% Yield And Sells For Less Than Book",
-   "link": "https://www.nasdaq.com/articles/stock-has-1200-yield-and-sells-less-book",
-   "summary": "Ares Dynamic Credit Allocation Fund (Symbol: ARDC) has been named as a Top 25 dividend stock, according the most recent Dividend Channel ''DividendRank'' report. The report noted that among the coverage universe, ARDC shares displayed both attractive valuation metrics and stro",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-20T11:34:56+00:00",
-   "tickers": []
-  },
-  {
-   "id": "88143357d432",
-   "title": "Insurers face losses as riots in France become ‘like natural catastrophes’",
-   "link": "https://www.ft.com/content/e0b2e8f1-6d3e-4647-9370-e7b7b7e7fd42?syn-25a6b1a6=1",
-   "summary": "Similar events now expected to occur every year, prompting government efforts to require properties to be insured for unrest",
-   "article_text": "",
-   "source": "FT Companies",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "negative",
-   "domain": "ft.com",
-   "published": "2026-10-20T11:34:45+00:00",
-   "tickers": []
-  },
-  {
-   "id": "74fcacdba607",
-   "title": "AI rally fades away from Wall Street as a tiny IPO makes big waves",
-   "link": "https://www.cnbc.com/2026/10/20/ai-rally-fades-elice-ipo-dives.html",
-   "summary": "Here are the key things investors need to know to start the trading day.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "offering",
-   "sentiment": "positive",
-   "domain": "cnbc.com",
-   "published": "2026-10-20T11:34:03+00:00",
-   "tickers": []
-  },
-  {
-   "id": "2707235882ed",
-   "title": "We're in the 'final innings' of the market correction, says Morgan Stanley's Mike Wilson",
-   "link": "https://www.cnbc.com/video/2026/10/20/were-in-the-final-innings-of-the-market-correction-says-morgan-stanleys-mike-wilson.html",
-   "summary": "Mike Wilson, Morgan Stanley CIO and chief U.S. equity strategist, joins 'Squawk Box' to discuss the latest market trends, state of the AI trade, impact of rising oil prices, state of the economy, and more.",
-   "article_text": "",
-   "source": "CNBC Investing",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-10-20T11:34:02+00:00",
-   "tickers": [
-    "MS"
-   ]
-  },
-  {
-   "id": "0f58c0dbe873",
-   "title": "Genuine Parts Company Cuts Annual Net Profit Outlook",
-   "link": "https://www.nasdaq.com/articles/genuine-parts-company-cuts-annual-net-profit-outlook",
-   "summary": "(RTTNews) - Genuine Parts Company (GPC), an automotive and industrial parts provider, on Tuesday revised down its net earnings guidance for the full year, citing its recent business trends and financial results, current growth plans, strategic initiatives, and others.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-10-20T11:33:34+00:00",
-   "tickers": [
-    "GPC"
-   ]
-  },
-  {
-   "id": "8e97758b461c",
-   "title": "Micron Invests in New York Critical Minerals Processing With Indium Corporation",
-   "link": "https://www.globenewswire.com/news-release/2026/10/20/3384278/14450/en/micron-invests-in-new-york-critical-minerals-processing-with-indium-corporation.html",
-   "summary": "Latest investment under Micron's up to $3 billion U.S. supply-chain plan strengthens the domestic semiconductor ecosystem and expands access to critical materials for advanced memory manufacturing Latest investment under Micron's up to $3 billion U.S. supply-chain plan strengthens the domestic semiconductor ecosystem and expands access to critical materials for advanced memory manufacturing",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-10-20T11:32:00+00:00",
-   "tickers": [
-    "MU"
-   ]
-  },
-  {
-   "id": "c2458ce7f02c",
-   "title": "Fort Technology: Logia USA Signs Exclusive Distribution Agreement to Expand Fuel Maintenance Solutions for Data Centers Across the U.S.",
-   "link": "https://www.globenewswire.com/news-release/2026/10/20/3384279/0/en/fort-technology-logia-usa-signs-exclusive-distribution-agreement-to-expand-fuel-maintenance-solutions-for-data-centers-across-the-u-s.html",
-   "summary": "Agreement expands commercialization of Logia’s fuel integrity solutions for standby power in data centers and other mission-critical facilities.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "positive",
-   "domain": "globenewswire.com",
-   "published": "2026-10-20T11:32:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "1b9a7b45cc2e",
-   "title": "KEY Q3 Earnings Beat as NII, Fee Income Increases Y/Y & Provisions Dip",
-   "link": "https://www.nasdaq.com/articles/key-q3-earnings-beat-nii-fee-income-increases-y-y-provisions-dip",
-   "summary": "KeyCorp's Q3 earnings beat estimates as higher NII, fee income and lower provisions drive growth, despite rising expenses and weaker capital ratios.",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-10-20T11:32:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "46fc92e54ed3",
-   "title": "8-K - Hilton Worldwide Holdings Inc. (0001585689) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1585689/000158568926000045/0001585689-26-000045-index.htm",
-   "summary": "Filed: 2026-10-20 AccNo: 0001585689-26-000045 Size: 172 KB Item 3.01: Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing Item 7.01: Regulation FD Disclosure Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-10-20T11:31:25+00:00",
-   "tickers": [
-    "HLT"
-   ]
-  },
-  {
-   "id": "f547edaa490b",
-   "title": "8-K - PRUDENTIAL FINANCIAL INC (0001137774) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1137774/000119312526425703/0001193125-26-425703-index.htm",
-   "summary": "Filed: 2026-10-20 AccNo: 0001193125-26-425703 Size: 236 KB Item 7.01: Regulation FD Disclosure Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-10-20T11:31:23+00:00",
-   "tickers": []
-  },
-  {
-   "id": "5ad358daf4ba",
-   "title": "Genuine Parts Co Q3 26 Earnings Conference Call At 8:30 AM ET",
-   "link": "https://www.nasdaq.com/articles/genuine-parts-co-q3-26-earnings-conference-call-8-30-am-et",
-   "summary": "(RTTNews) - Genuine Parts Co (GPC) will host a conference call at 8:30 AM ET on October 20, 2026, to discuss Q3 26 earnings results.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-20T11:31:16+00:00",
-   "tickers": [
-    "GPC"
-   ]
-  },
-  {
-   "id": "29d9626086e8",
-   "title": "RTX Corp. Q3 26 Earnings Conference Call 8:30 AM ET",
-   "link": "https://www.nasdaq.com/articles/rtx-corp-q3-26-earnings-conference-call-8-30-am-et",
-   "summary": "(RTTNews) - RTX Corporation (RTX) will host a conference call at 8:30 AM ET on October 20, 2026, to discuss Q3 26 earnings results.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-20T11:31:15+00:00",
-   "tickers": [
-    "RTX",
-    "NVDA"
-   ]
-  },
-  {
-   "id": "09a09e23dfa8",
-   "title": "Hasbro Q3 26 Earnings Conference Call At 8:30 AM ET",
-   "link": "https://www.nasdaq.com/articles/hasbro-q3-26-earnings-conference-call-8-30-am-et",
-   "summary": "(RTTNews) - Hasbro Inc. (HAS) will host a conference call at 8:30 AM ET on October 20, 2026, to discuss Q3 26 earnings results.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-20T11:31:15+00:00",
-   "tickers": []
-  },
-  {
-   "id": "40bcb2ae91a5",
-   "title": "Nasdaq futures fall as oil prices jump, key earnings loom",
-   "link": "https://www.investing.com/news/stock-market-news/nasdaq-futures-dip-as-oil-prices-climb-earnings-loom-4959413",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-10-20T11:31:14+00:00",
-   "tickers": [
-    "NDAQ"
-   ]
-  },
-  {
-   "id": "843cafed1c42",
-   "title": "Ambetter Health Expands 2027 Marketplace Plans To 55 More Counties",
-   "link": "https://www.nasdaq.com/articles/ambetter-health-expands-2027-marketplace-plans-55-more-counties",
-   "summary": "(RTTNews) - Centene Corporation (CNC), a provider of government-sponsored healthcare programs and services, said Tuesday its Ambetter Health insurance product will expand into 55 additional counties in 2027, while introducing new and enhanced health plans tailored to specific med",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-10-20T11:30:43+00:00",
-   "tickers": [
-    "CNC"
-   ]
-  },
-  {
-   "id": "af759943f9eb",
-   "title": "GM shares sink as full-year profit forecast misses Wall Street estimates",
-   "link": "https://www.investing.com/news/stock-market-news/gms-core-profit-rises-22-on-strength-of-pickuptruck-business-4959524",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "guidance",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-10-20T11:30:29+00:00",
-   "tickers": [
-    "GM"
-   ]
-  },
-  {
-   "id": "603509716cdb",
-   "title": "8-K - FNB CORP/PA/ (0000037808) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/37808/000003780826000027/0000037808-26-000027-index.htm",
-   "summary": "Filed: 2026-10-20 AccNo: 0000037808-26-000027 Size: 1 MB Item 2.02: Results of Operations and Financial Condition Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-10-20T11:30:24+00:00",
-   "tickers": [
-    "FNB"
-   ]
-  },
-  {
-   "id": "c05fb1ba0c9a",
-   "title": "8-K - General Motors Co (0001467858) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1467858/000146785826000056/0001467858-26-000056-index.htm",
-   "summary": "Filed: 2026-10-20 AccNo: 0001467858-26-000056 Size: 1 MB Item 2.02: Results of Operations and Financial Condition Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-10-20T11:30:18+00:00",
-   "tickers": [
-    "GM"
-   ]
-  },
-  {
-   "id": "569d014c797e",
-   "title": "Do not worry too much about European gas prices",
-   "link": "https://www.ft.com/content/31df1d21-159c-4c24-be0a-566c00c2d100?syn-25a6b1a6=1",
-   "summary": "Wholesale values have hit new highs this year but the pain should be transitory",
-   "article_text": "",
-   "source": "FT Companies",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "ft.com",
-   "published": "2026-10-20T11:30:02+00:00",
-   "tickers": []
-  },
-  {
-   "id": "0f753b6d5fb5",
-   "title": "Future Mineral Resources Announces Anticipated Delay in Filing Its Annual Audited Financial Statements",
-   "link": "https://www.globenewswire.com/news-release/2026/10/20/3384265/0/en/future-mineral-resources-announces-anticipated-delay-in-filing-its-annual-audited-financial-statements.html",
-   "summary": "TORONTO, Oct. 20, 2026 (GLOBE NEWSWIRE) -- Future Mineral Resources Inc. (“Future Mineral Resources”, or the “Company”) (TSX: FMR) announced today an anticipated delay in the filing of its audited financial statements for the year ended July 31, 2026, its related management’s discussion and analysis, its annual information form, and the certifications related to such filings required from the Company’s chief executive officer and chief financial officer (collectively, the “Required Filings”) by the filing deadline of October 29, 2026 (the “Deadline”). While every effort is being made to make the Required Filings as soon as possible, the Company is concerned that the Required Filings may not be made by the Deadline.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-10-20T11:30:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6150968d6bc5",
-   "title": "QGold Initiates 2026 Drilling Campaign at Mine Centre",
-   "link": "https://www.globenewswire.com/news-release/2026/10/20/3384266/0/en/qgold-initiates-2026-drilling-campaign-at-mine-centre.html",
-   "summary": "TORONTO, Oct. 20, 2026 (GLOBE NEWSWIRE) -- Q-Gold Resources Ltd. (\"QGold\" or the \"Company\") is excited to announce the start of its 2026 drilling campaign at its Mine Centre Gold Project in Ontario. The planned program will initially focus on targets around the Foley Mine, extending the known veins along strike and dip. A second phase planned for soon after the completion of the initial phase will follow up on the high-grade soil samples achieved during the Company’s summer field mapping and sampling campaign (see the Company’s press release dated September 14, 2026, a copy of which is available under the Company’s SEDAR+ profile at www.sedarplus.ca).",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-10-20T11:30:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "340e638dbd1b",
-   "title": "Ardelyx to Report Third Quarter 2026 Financial Results on November 3, 2026",
-   "link": "https://www.globenewswire.com/news-release/2026/10/20/3384267/0/en/ardelyx-to-report-third-quarter-2026-financial-results-on-november-3-2026.html",
-   "summary": "Conference call scheduled for 4:30 p.m. Eastern Time Conference call scheduled for 4:30 p.m. Eastern Time",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-10-20T11:30:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "df972737a05d",
-   "title": "Zevra Therapeutics Announces Details for Q3 2026 Financial Results Call",
-   "link": "https://www.globenewswire.com/news-release/2026/10/20/3384268/16626/en/zevra-therapeutics-announces-details-for-q3-2026-financial-results-call.html",
-   "summary": "BOSTON, Oct. 20, 2026 (GLOBE NEWSWIRE) -- Zevra Therapeutics, Inc. (NasdaqGS: ZVRA) (Zevra, or the Company), a commercial-stage company focused on bringing life-changing therapeutics to people living with rare diseases, today announced it will report corporate and financial results for the third quarter on Tuesday, November 3, 2026, via a news release after the market close, and will host a conference call/audio webcast at 4:30 p.m. ET that day.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-10-20T11:30:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ecfdad0fe969",
-   "title": "GURU Organic Energy Sets New Amazon Records During October Prime Big Deal Days",
-   "link": "https://www.globenewswire.com/news-release/2026/10/20/3384269/0/en/guru-organic-energy-sets-new-amazon-records-during-october-prime-big-deal-days.html",
-   "summary": "Canada Sells 51% More Units in Two Days Than During Last Year’s Four-Day EventU.S. Units Up 25% for a Third Straight Record, With Zero Sugar Leading in Both Countries",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-10-20T11:30:00+00:00",
-   "tickers": [
-    "AMZN"
-   ]
-  },
-  {
-   "id": "60ae25a34210",
-   "title": "GURU Organic Energy établit de nouveaux records sur Amazon lors des Prime Big Deal Days d’octobre",
-   "link": "https://www.globenewswire.com/news-release/2026/10/20/3384269/0/fr/guru-organic-energy-%C3%A9tablit-de-nouveaux-records-sur-amazon-lors-des-prime-big-deal-days-d-octobre.html",
-   "summary": "Au Canada, GURU vend 51 % plus d’unités en deux jours qu’en quatre jours l’an dernierAux États-Unis, les unités vendues progressent de 25 %, signant un troisième record consécutif, et la gamme Zéro sucre mène la marche dans les deux pays",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-10-20T11:30:00+00:00",
-   "tickers": [
-    "AMZN"
-   ]
-  },
-  {
-   "id": "92430c2c1ffd",
-   "title": "NioBay Announces the Identification of New Targets on the James Bay Niobium Project and the Expansion of the Main Site Exploration Area",
-   "link": "https://www.globenewswire.com/news-release/2026/10/20/3384270/0/en/niobay-announces-the-identification-of-new-targets-on-the-james-bay-niobium-project-and-the-expansion-of-the-main-site-exploration-area.html",
-   "summary": "MONTRÉAL, Oct. 20, 2026 (GLOBE NEWSWIRE) -- NioBay Metals Inc. (“NioBay” or the “Company”) (TSX-V: NBY) (OTCQB: NBYCF) is pleased to announce the results of data compilation and reinterpretation work involving geological and geophysical information on the James Bay Niobium Project, located 45 km south of the community of Moose Factory, Ontario. It should be noted that NioBay holds both an exploration permit and a mining lease valid until 2028 for this area. The work was carried out by Ronacher McKenzie Geoscience Inc. (\"RMG\") of Sudbury.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-10-20T11:30:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "2b92754a2705",
-   "title": "NioBay annonce l’identification de nouvelles cibles sur le projet James Bay niobium et l’agrandissement de la zone de recherche du site principal",
-   "link": "https://www.globenewswire.com/news-release/2026/10/20/3384270/0/fr/niobay-annonce-l-identification-de-nouvelles-cibles-sur-le-projet-james-bay-niobium-et-l-agrandissement-de-la-zone-de-recherche-du-site-principal.html",
-   "summary": "MONTRÉAL, 20 oct. 2026 (GLOBE NEWSWIRE) -- Les Métaux NioBay inc. (« NioBay » ou la « Société ») (TSX-V: NBY) (OTCQB: NBYCF) est fière d’annoncer les résultats des travaux de compilation et de réinterprétation des données géologiques et géophysiques sur le projet James Bay niobium localisé à 45 km au sud de la localité de Moose Factory (Ontario). À noter que NioBay détient un permis d’exploration et également un bail minier valide jusqu’en 2028 dans ce secteur. Les travaux ont été confiés à la firme Ronacher Mckenzie Geoscience inc. (« RMG ») de Sudbury.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-10-20T11:30:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "71886f9cdeb4",
-   "title": "Abaxx Exchange Named Newcomer of the Year at Energy Risk Asia Awards",
-   "link": "https://www.globenewswire.com/news-release/2026/10/20/3384271/0/en/abaxx-exchange-named-newcomer-of-the-year-at-energy-risk-asia-awards.html",
-   "summary": "Risk.net has named Abaxx Exchange “Newcomer of the Year” at the 2026 Energy Risk Asia Awards.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-10-20T11:30:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d860fda4d2b0",
-   "title": "Brixton Metals Reports 97.0% Gold Recovery in Initial Metallurgical Work from the Trapper Gold Target",
-   "link": "https://www.globenewswire.com/news-release/2026/10/20/3384272/0/en/brixton-metals-reports-97-0-gold-recovery-in-initial-metallurgical-work-from-the-trapper-gold-target.html",
-   "summary": "Drills 7.50 m of 5.02 g/t Gold, Including 0.50 m of 18.55 g/t Gold, in Hole THN26-393 and",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-10-20T11:30:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ba35102c48c6",
-   "title": "Standard Lithium Files Positive Preliminary Economic Assessment for the High-Grade 70,000 Tonnes Per Year Franklin Project in East Texas",
-   "link": "https://www.globenewswire.com/news-release/2026/10/20/3384274/0/en/standard-lithium-files-positive-preliminary-economic-assessment-for-the-high-grade-70-000-tonnes-per-year-franklin-project-in-east-texas.html",
-   "summary": "LEWISVILLE, Ark., Oct. 20, 2026 (GLOBE NEWSWIRE) -- Standard Lithium (“Standard Lithium” or the “Company”) (NYSE.A: SLI) (TSXV: SLI), in partnership with Equinor, announced today that the Preliminary Economic Assessment Technical Report (the “PEA” or the “Report”) for the Franklin project (“Franklin”, the “Project”, or the “Franklin Project”) in the northeast region of Texas, USA, has been filed on SEDAR+.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-10-20T11:30:00+00:00",
-   "tickers": [
-    "BEN"
-   ]
-  },
-  {
-   "id": "6cfc0cc9233e",
-   "title": "The AI boom is getting all the attention. We’re about to find out how the rest of the economy is holding up.",
-   "link": "https://www.marketwatch.com/story/the-ai-boom-is-getting-all-the-attention-were-about-to-find-out-how-the-rest-of-the-economy-is-holding-up-77b2266d?mod=mw_rss_topstories",
-   "summary": "Earnings season shifts into higher gear, with fresh clues about consumer spending and the health of corporate America beyond the tech sector.",
-   "article_text": "",
-   "source": "MarketWatch",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "marketwatch.com",
-   "published": "2026-10-20T11:30:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d92949855f16",
-   "title": "Visa: No Signs Of Disruption, But Now At Fair Value",
-   "link": "https://seekingalpha.com/article/4955407-visa-no-signs-of-disruption-but-now-at-fair-value?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-20T11:30:00+00:00",
-   "tickers": [
-    "V"
-   ]
-  },
-  {
-   "id": "ae201f67de6d",
-   "title": "Disc Medicine: APOLLO Changes The Story, But How Much Upside Remains",
-   "link": "https://seekingalpha.com/article/4955418-disc-medicine-apollo-changes-the-story-but-how-much-upside-remains?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-20T11:30:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "246c0d07c9da",
-   "title": "If I Could Only Buy One Sector Right Now, It Wouldn't Be Tech",
-   "link": "https://seekingalpha.com/article/4955003-if-i-could-only-buy-one-sector-right-now-it-wouldnt-be-tech?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-20T11:30:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "c02252158e8b",
-   "title": "Comcast: Wall Street Wants A Turnaround, Customers Want More Freebies - Sell",
-   "link": "https://seekingalpha.com/article/4955440-comcast-wall-street-wants-a-turnaround-customers-want-more-freebies-sell?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-20T11:29:58+00:00",
-   "tickers": [
-    "CMCSA"
-   ]
-  },
-  {
-   "id": "f014d53ce016",
-   "title": "Russian diesel returns to familiar destinations following export ban lift, shipping data shows",
-   "link": "https://biztoc.com/x/a4649d084ecbc511?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-20T11:29:53+00:00",
-   "tickers": []
-  },
-  {
-   "id": "3cded04f30ce",
-   "title": "Stock Market Today: Nasdaq Futures Slip; Dismal Data-Center IPO Weighs on Tech Investors — Live Updates",
-   "link": "https://biztoc.com/x/113bf452c77dc095?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "offering",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-20T11:29:16+00:00",
-   "tickers": [
-    "NDAQ"
-   ]
-  },
-  {
-   "id": "39f62e2885a2",
-   "title": "Kroger Announces Updated Financial Framework, Reaffirms FY26 Outlook",
-   "link": "https://www.nasdaq.com/articles/kroger-announces-updated-financial-framework-reaffirms-fy26-outlook",
-   "summary": "(RTTNews) - Tuesday, The Kroger Co. (KR) announced an updated financial framework intended to give investors a clearer view of the performance of its core grocery business.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "guidance",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-20T11:28:52+00:00",
-   "tickers": [
-    "KR"
-   ]
-  },
-  {
-   "id": "dc2117b99e70",
-   "title": "Bank Indonesia faces mounting pressure to hike after MSCI threat fuels market rout",
-   "link": "https://biztoc.com/x/35f558ad7472dde8?ref=rss",
-   "summary": "Bank Indonesia faces mounting pressure to raise interest rates on Wednesday as economists revise their forecasts after global index provider MSCI warned it may downgrade the country's stock market from emerging-market status, setting off a selloff in stocks and the rupiah. Citibank now expects a…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-10-20T11:28:52+00:00",
-   "tickers": [
-    "MSCI"
-   ]
-  },
-  {
-   "id": "60bd54626024",
-   "title": "Google Cloud Outage Hits U.K. Banks",
-   "link": "https://biztoc.com/x/4a1a20dfce614423?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-20T11:28:42+00:00",
-   "tickers": [
-    "GOOGL"
-   ]
-  },
-  {
-   "id": "bac4a80006a2",
-   "title": "Qualcomm could announce layoffs in November: report",
-   "link": "https://seekingalpha.com/news/4654534-qualcomm-could-announce-layoffs-in-november-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "negative",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-20T11:28:35+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d58709a88050",
-   "title": "Walmart rolls out new bundle combining Walmart+, Sam’s Club Plus",
-   "link": "https://biztoc.com/x/fe4796a9c9b4fb1e?ref=rss",
-   "summary": "Walmart announced Tuesday it is rolling out a new membership bundle that gives shoppers access to both Walmart+ and Sam’s Club Plus for $120 a year, nearly $100 less than purchasing the two memberships separately. The bundle works out to the equivalent of $10 per month, though Walmart said it will…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-20T11:28:32+00:00",
-   "tickers": [
-    "WMT"
-   ]
-  },
-  {
-   "id": "9c00a60defda",
-   "title": "UK reports incident involving tanker off Oman",
-   "link": "https://biztoc.com/x/36a371a149fdc7c6?ref=rss",
-   "summary": "The United Kingdom Maritime Trade Operations (UKMTO) reported on Tuesday that a tanker was involved in an incident with military forces in the Arabian Ocean, approximately 121 nautical miles east of D...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-20T11:28:21+00:00",
-   "tickers": []
-  },
-  {
-   "id": "abae6efa2384",
-   "title": "‘An army of Claudes, with every one asking for my attention’: Anthropic calls human attention the bottleneck in the botsitting world to come",
-   "link": "https://biztoc.com/x/a9aebb4555c14f5e?ref=rss",
-   "summary": "Anthropic just released a study of its own workforce that offers one of the earliest looks at what an AI-dominated company of the future might look like—and spoiler alert, it includes babysitting a whole lot of bots. AI agents are now moving so fast that 80% of the elapsed time in Claude sessions…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-20T11:28:06+00:00",
-   "tickers": []
-  },
-  {
-   "id": "cf805be217cc",
-   "title": "Cramer warns SanDisk and Western Digital are worst stocks if data center capacity shrinks",
-   "link": "https://biztoc.com/x/0bd7a2b657e5d273?ref=rss",
-   "summary": "The post Cramer warns SanDisk and Western Digital are worst stocks if data center capacity shrinks appeared first on 24/7 Wall St.. SanDisk (NASDAQ:SNDK) closed at $1,371.12 on October 19, up 5.53%, and Western Digital (NASDAQ:WDC) rose 6.09% to $352.21. On his Stop Trading segment that day, Jim…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-10-20T11:28:02+00:00",
-   "tickers": [
-    "WDC",
-    "SNDK"
-   ]
-  },
-  {
-   "id": "b6d3a8c45423",
-   "title": "I Ran the Numbers on Salesforce. Here’s Where I Think It Could Be in 2030",
-   "link": "https://biztoc.com/x/7bc6dedc70f3477f?ref=rss",
-   "summary": "The post I Ran the Numbers on Salesforce. Here’s Where I Think It Could Be in 2030 appeared first on 24/7 Wall St.. Salesforce (NYSE:CRM | CRM Price Prediction) runs the world’s largest CRM platform, and it is turning into an AI agent company. Agentforce ARR passed $1.5 billion in the August…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-20T11:28:00+00:00",
-   "tickers": [
-    "CRM",
-    "ARR"
-   ]
-  },
-  {
-   "id": "f71010068781",
-   "title": "8-K - General Motors Financial Company, Inc. (0000804269) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/804269/000080426926000028/0000804269-26-000028-index.htm",
-   "summary": "Filed: 2026-10-20 AccNo: 0000804269-26-000028 Size: 342 KB Item 2.02: Results of Operations and Financial Condition Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-10-20T11:27:59+00:00",
-   "tickers": [
-    "GM"
-   ]
-  },
-  {
-   "id": "fd21241efffe",
-   "title": "Alphabet Offers the Most Compelling Blend of Asymmetric AI Upside and Safety Across the Magnificent 7",
-   "link": "https://biztoc.com/x/b5c5ef20d28a7372?ref=rss",
-   "summary": "The post Alphabet Offers the Most Compelling Blend of Asymmetric AI Upside and Safety Across the Magnificent 7 appeared first on 24/7 Wall St.. I keep studying Alphabet (NASDAQ:GOOGL), and every earnings report adds fresh support to the bull case. I see a company growing like an AI startup while…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-20T11:27:50+00:00",
-   "tickers": [
-    "GOOGL",
-    "GOOG"
-   ]
   }
  ],
  "ticker_names": {
   "JIRE": "JPMorgan International Research Enhanced Equity ETF",
+  "EXPD": "Expeditors International of Washington",
   "DIA": "SPDR Dow Jones Industrial Average ETF",
   "CCC": "CCC Intelligent Solutions Holdings",
   "TSLL": "Direxion Daily TSLA Bull 2X Shares",
@@ -9001,36 +9007,39 @@
   "IBM": "International Business Machines",
   "QSR": "Restaurant Brands International",
   "SCHF": "Schwab International Equity ETF",
+  "BR": "Broadridge Financial Solutions",
+  "WST": "West Pharmaceutical Services",
   "QQQ": "Invesco QQQ Trust, Series 1",
   "STX": "Seagate Technology Holdings",
   "BTDR": "Bitdeer Technologies Group",
   "ADP": "Automatic Data Processing",
   "ASM": "Avino Silver & Gold Mines",
-  "HLT": "Hilton Worldwide Holdings",
   "ICE": "Intercontinental Exchange",
   "JEF": "Jefferies Financial Group",
   "TD": "The Toronto-Dominion Bank",
-  "ARR": "ARMOUR Residential REIT",
   "ASST": "Strive Asset Management",
   "GS": "The Goldman Sachs Group",
+  "JKHY": "Jack Henry & Associates",
   "AMD": "Advanced Micro Devices",
   "CMG": "Chipotle Mexican Grill",
   "VRTX": "Vertex Pharmaceuticals",
+  "DOG": "ProShares Short Dow30",
   "LSCC": "Lattice Semiconductor",
   "OPEN": "Opendoor Technologies",
   "ALGM": "Allegro MicroSystems",
   "AMP": "Ameriprise Financial",
   "PRU": "Prudential Financial",
   "RVMD": "Revolution Medicines",
+  "SMCI": "Super Micro Computer",
   "VOO": "Vanguard S&P 500 ETF",
   "AKAM": "Akamai Technologies",
   "ANF": "Abercrombie & Fitch",
   "APGE": "Apogee Therapeutics",
+  "IP": "International Paper",
   "NNE": "NANO Nuclear Energy",
   "RNA": "Avidity Biosciences",
   "SYF": "Synchrony Financial",
   "VKTX": "Viking Therapeutics",
-  "BEN": "Franklin Resources",
   "CNP": "CenterPoint Energy",
   "IBN": "ICICI Bank Limited",
   "NYT": "The New York Times",
@@ -9039,7 +9048,6 @@
   "SPOT": "Spotify Technology",
   "SWKS": "Skyworks Solutions",
   "TPL": "Texas Pacific Land",
-  "VMI": "Valmont Industries",
   "WVE": "Wave Life Sciences",
   "AMAT": "Applied Materials",
   "CL": "Colgate-Palmolive",
@@ -9047,6 +9055,7 @@
   "MU": "Micron Technology",
   "OLED": "Universal Display",
   "VERA": "Vera Therapeutics",
+  "COST": "Costco Wholesale",
   "GTLS": "Chart Industries",
   "LH": "Labcorp Holdings",
   "NOC": "Northrop Grumman",
@@ -9080,12 +9089,14 @@
   "MSTR": "MicroStrategy",
   "ASML": "ASML Holding",
   "MO": "Altria Group",
+  "NBIS": "Nebius Group",
   "SPY": "SPDR S&P 500",
   "GOOGL": "Google Cloud",
   "TSLA": "Supercharger",
   "NVDA": "Grace Hopper",
   "AGI": "Alamos Gold",
   "HAL": "Halliburton",
+  "MORN": "Morningstar",
   "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
   "AZN": "AstraZeneca",
@@ -9094,7 +9105,6 @@
   "BX": "Blackstone",
   "CRM": "Salesforce",
   "F": "Ford Motor",
-  "KR": "The Kroger",
   "PBF": "PBF Energy",
   "RKLB": "Rocket Lab",
   "TECH": "Bio-Techne",
@@ -9122,12 +9132,11 @@
   "RTX": "Raytheon",
   "FOX": "Fox Corp",
   "BLSH": "Bullish",
-  "CMCSA": "Comcast",
-  "CNC": "Centene",
   "EFX": "Equifax",
+  "MRK": "Merck &",
+  "PAYX": "Paychex",
   "PNR": "Pentair",
   "SCI": "Service",
-  "SNDK": "Sandisk",
   "W": "Wayfair",
   "WMT": "Walmart",
   "NFLX": "Netflix",
@@ -9147,7 +9156,6 @@
   "AGCO": "AGCO",
   "MSCI": "MSCI",
   "POOL": "Pool",
-  "T": "AT&T",
-  "V": "Visa"
+  "T": "AT&T"
  }
 }
