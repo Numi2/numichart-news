@@ -1,8 +1,536 @@
 {
- "generated": "2026-10-21T21:51:41.363238+00:00",
+ "generated": "2026-10-21T21:58:01.903838+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "d9a2d2a55cbe",
+   "title": "Rollins stock falls as revenue misses estimates, pest control growth slows",
+   "link": "https://seekingalpha.com/news/4655646-rollins-stock-falls-as-revenue-misses-estimates-pest-control-growth-slows?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-21T21:53:16+00:00",
+   "tickers": [
+    "ROL"
+   ]
+  },
+  {
+   "id": "8209d658a8bc",
+   "title": "Meta Is Getting Creative to Fund Its Massive AI Investments",
+   "link": "https://biztoc.com/x/a0a5751b22f46385?ref=rss",
+   "summary": "Plus, the Starlink slowdown hurt Ukraine’s ability to stop Russian attacks, and U.S. special envoy Steve Witkoff praised Vladimir Putin as a ‘humanitarian.’",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-21T21:52:53+00:00",
+   "tickers": [
+    "META"
+   ]
+  },
+  {
+   "id": "915ff5101d71",
+   "title": "Mattel Adds Board Member As Activist Investor Pressure Mounts",
+   "link": "https://biztoc.com/x/2ee425f48c6e9167?ref=rss",
+   "summary": "Lee Matheson, a partner at shareholder EdgePoint Investment Group, was named to Mattel’s board of directors.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-21T21:52:49+00:00",
+   "tickers": [
+    "MAT"
+   ]
+  },
+  {
+   "id": "74fc05360d8f",
+   "title": "Meta Boosts Bet on AI With Spending Outlook",
+   "link": "https://biztoc.com/x/a71c2aea00df78e2?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-10-21T21:52:49+00:00",
+   "tickers": [
+    "META"
+   ]
+  },
+  {
+   "id": "18d054274dcd",
+   "title": "Tesla Stock Dips Into the Red",
+   "link": "https://biztoc.com/x/790c396f75344e24?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-21T21:52:45+00:00",
+   "tickers": [
+    "TSLA"
+   ]
+  },
+  {
+   "id": "f78f2b293ffa",
+   "title": "Nextdc, Helen Haines, CSL, RBA, interest rates: Australia Briefing",
+   "link": "https://biztoc.com/x/af58ebd3eb432d7b?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-21T21:52:43+00:00",
+   "tickers": [
+    "CSL",
+    "RBA"
+   ]
+  },
+  {
+   "id": "efdeabd7aa16",
+   "title": "From Diaspora Dream to Continental Disaster: The Pan-Africanism That Failed—And the One That Could Work",
+   "link": "https://biztoc.com/x/0f710c9840eac27e?ref=rss",
+   "summary": "By Constantine Taurai, Mises Wire | October 20, 2026 In the late 19th and early 20th centuries, black diaspora intellectuals—Marcus Garvey, C. L. R. James, and W. E. B. Du Bois—responded to colonial and racial atrocities in the Caribbean and American colonies with what would later be called…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-21T21:52:36+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e7cc7dffcc60",
+   "title": "Lessons From Political Violence In The 1876 Presidential Election",
+   "link": "https://biztoc.com/x/e7acb10d5f93c312?ref=rss",
+   "summary": "By Wanjiru Njoya, Mises Wire | October 20, 2026 In the ongoing debate about enforcement of the Voting Rights Act, civil rights activists allege that the Trump administration is intimidating black people to impede them from voting. They invoke the history of the Reconstruction era, arguing that…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-21T21:52:32+00:00",
+   "tickers": []
+  },
+  {
+   "id": "24a0192d4cdc",
+   "title": "Sleepytime Tea’s Parent Company Lost $305 Million. Now 1 Deadline Could Push It Toward Bankruptcy",
+   "link": "https://biztoc.com/x/39217a6bfb66839c?ref=rss",
+   "summary": "Selling its snack and international operations could bring in more than $400 million. However, Hain Celestial’s attempt to simplify its offerings has not eliminated its financial pressure.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-10-21T21:52:27+00:00",
+   "tickers": []
+  },
+  {
+   "id": "5a1b8c917e46",
+   "title": "America's New Debt Buyers Want More Bang for Their Buck",
+   "link": "https://biztoc.com/x/66018b8b66775e6a?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-21T21:52:24+00:00",
+   "tickers": []
+  },
+  {
+   "id": "d7ad4193a400",
+   "title": "SpaceX, Anthropic and Nvidia Help Snap Tech Stocks Out of Their Recent Malaise",
+   "link": "https://biztoc.com/x/c1b77360c50140a7?ref=rss",
+   "summary": "Bullish signals from three different links of the AI chain help the Nasdaq Composite undo most of Friday’s selloff.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-21T21:52:20+00:00",
+   "tickers": [
+    "BLSH",
+    "NDAQ",
+    "SPCX",
+    "SNAP"
+   ]
+  },
+  {
+   "id": "a9a28f9a46e4",
+   "title": "Cotton Rallies on Wednesday",
+   "link": "https://biztoc.com/x/eb41aa76dc55a6c0?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-10-21T21:51:52+00:00",
+   "tickers": []
+  },
+  {
+   "id": "2be57aa24e0b",
+   "title": "Troy Jackson survived his debates with Susan Collins. Here’s what to watch for in the final days",
+   "link": "https://biztoc.com/x/4017b8127290f633?ref=rss",
+   "summary": "The four debates in Maine’s U.S. Senate race, between incumbent Republican Susan Collins and Democrat Troy Jackson, are over. Early voting is underway. And while Jackson survived the quartet of clashes, the race remains as close as ever. Debate expectations for Jackson were between middling and…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-21T21:51:49+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c7f663ce210c",
+   "title": "Musk: Goal is 5 million vehicles by around 2030",
+   "link": "https://biztoc.com/x/ddcb07afee080256?ref=rss",
+   "summary": "Tesla Inc. is \"aiming for 5 million vehicles a year by approximately 2030\" as part of its ongoing manufacturing expansion, according CEO Elon Musk during an earnings call.Musk explained that the compa...",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-21T21:51:49+00:00",
+   "tickers": [
+    "TSLA"
+   ]
+  },
+  {
+   "id": "d95f94602ab2",
+   "title": "Zuckerberg wanted to leave California if billionaire tax passes. Meta has a plan to keep him around",
+   "link": "https://biztoc.com/x/15622e9fa0addf9f?ref=rss",
+   "summary": "Meta Platforms Inc. wants to create a new class of nonvoting stock as part of a plan to keep its founder and CEO from moving out of California if Prop. 40 passes.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-21T21:51:47+00:00",
+   "tickers": [
+    "META"
+   ]
+  },
+  {
+   "id": "5ebdc85926bd",
+   "title": "Wheat Falls on Wednesday with Black Sea News",
+   "link": "https://biztoc.com/x/7e1defd4009bce79?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-10-21T21:51:45+00:00",
+   "tickers": [
+    "NWSA"
+   ]
+  },
+  {
+   "id": "bbdab81f5a80",
+   "title": "George W. Bush’s daughter, brother throw weight behind James Talarico",
+   "link": "https://biztoc.com/x/41c42f6d017514c4?ref=rss",
+   "summary": "As Texas Republicans grow more nervous about their chances of keeping a U.S. Senate seat in November, they are now facing another political burden: members of the Bush family. Former President George W. Bush’s daughter Barbara and his brother Neil have broken with their family’s political party in…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-21T21:51:45+00:00",
+   "tickers": []
+  },
+  {
+   "id": "4dc486d57c0f",
+   "title": "Apollo’s New AI-Proof Investment? The New York YankeesApollo described its recent $2.6 billion financing deal with the Yankee’s owners as an “AI-resilient” leisure investment",
+   "link": "https://biztoc.com/x/fc4df70d19d005d4?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-21T21:51:41+00:00",
+   "tickers": [
+    "APO"
+   ]
+  },
+  {
+   "id": "d7df6a30bddf",
+   "title": "Corn Bulls Battle Back for Wednesday Gains",
+   "link": "https://biztoc.com/x/2addd8bb57f02892?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-10-21T21:51:41+00:00",
+   "tickers": []
+  },
+  {
+   "id": "d8794c8c83cd",
+   "title": "Tesla stars Optimus robot production in California as profit falls 43%",
+   "link": "https://biztoc.com/x/82b8661d98d31cc7?ref=rss",
+   "summary": "Tesla has started production of its Optimus humanoid robot at its factory in Fremont, California, in a manufacturing space once dedicated to making electric vehicles, the company announced Wednesday. “The bots coming off this line are the first production-quality bots that we have manufactured,”…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-21T21:51:36+00:00",
+   "tickers": [
+    "TSLA"
+   ]
+  },
+  {
+   "id": "173f651d691b",
+   "title": "Explosion reported in southern Lebanon",
+   "link": "https://biztoc.com/x/1f763278630e6252?ref=rss",
+   "summary": "Israeli forces carried out an explosion in southern Lebanon, Hezbollah-affiliated Al-Nour Radio reported, citing its correspondent.The broadcaster said the Israeli military conducted the operation in ...",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-21T21:51:36+00:00",
+   "tickers": []
+  },
+  {
+   "id": "492551aedbea",
+   "title": "New Zealand's inflation down to 3.7% in Q3",
+   "link": "https://biztoc.com/x/c309e5da35d092ce?ref=rss",
+   "summary": "More to come......",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-21T21:51:36+00:00",
+   "tickers": []
+  },
+  {
+   "id": "2708cb07a9ad",
+   "title": "Cattle Hold onto Wednesday Gains, as Feeders Remain the Leaders",
+   "link": "https://biztoc.com/x/450e807eb1d95ec9?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-10-21T21:51:36+00:00",
+   "tickers": []
+  },
+  {
+   "id": "d59f21851cd8",
+   "title": "Hogs Fall Weaker on Wednesday as Pork Prices Head Back Lower",
+   "link": "https://biztoc.com/x/38432048f974501d?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-10-21T21:51:33+00:00",
+   "tickers": []
+  },
+  {
+   "id": "2836a52c068d",
+   "title": "Musk: Optimus deliveries to outside companies expected in late 2027",
+   "link": "https://biztoc.com/x/3a1338d1fc1c75d6?ref=rss",
+   "summary": "More to come......",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-21T21:51:32+00:00",
+   "tickers": [
+    "TSLA"
+   ]
+  },
+  {
+   "id": "20b591d42b26",
+   "title": "EBay to lay off 9% of workforce in its second round of job cuts this year",
+   "link": "https://biztoc.com/x/043a5e99780cd21f?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-10-21T21:51:29+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f18b29b05b6c",
+   "title": "Bloomberg Drops $80 Million On Democrats' Midterm Push: $24 Million To Everytown, $16 Million To House Majority PAC",
+   "link": "https://biztoc.com/x/3b0689c8fd57d792?ref=rss",
+   "summary": "Bloomberg Drops $80 Million On Democrats' Midterm Push: $24 Million To Everytown, $16 Million To House Majority PAC Michael Bloomberg has sent about $80 million to Democratic causes in September and October, with at least $50 million aimed at House races and roughly $10 million more on the way,…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-10-21T21:51:29+00:00",
+   "tickers": []
+  },
+  {
+   "id": "de62e46f8e7a",
+   "title": "Meta agrees deal to keep Mark Zuckerberg in California despite wealth tax proposal",
+   "link": "https://biztoc.com/x/10093fa74a8db1e1?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-21T21:51:24+00:00",
+   "tickers": [
+    "META"
+   ]
+  },
+  {
+   "id": "fbf182efb423",
+   "title": "Soybeans Hold Lower on Wednesday, as Contract Bounce Off Early Lows",
+   "link": "https://biztoc.com/x/3254ccc09b24ef59?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-10-21T21:51:23+00:00",
+   "tickers": []
+  },
+  {
+   "id": "6d619cdfe955",
+   "title": "Meta CEO Mark Zuckerberg says Muse and Reality Labs are highly unprofitable — for now",
+   "link": "https://biztoc.com/x/47d47e107b98d531?ref=rss",
+   "summary": "Meta CEO Mark Zuckerberg. Finn Gomez/Getty Images Meta's AI agent, Muse, is unprofitable due to \"very high compute costs,\" CEO Mark Zuckerberg says. Meanwhile, Meta expects Reality Labs, its AI glasses division, to lose $15 billion next year. The social media giant has a plan to fix that. Meta…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-21T21:51:21+00:00",
+   "tickers": [
+    "META"
+   ]
+  },
+  {
+   "id": "4920e90fca2f",
+   "title": "Russian gold reserves fall to lowest since 2019 after drawdown for 10 straight months",
+   "link": "https://seekingalpha.com/news/4655636-russian-gold-reserves-fall-to-lowest-since-2019-after-drawdown-for-10-straight-months?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-21T21:50:44+00:00",
+   "tickers": []
+  },
+  {
+   "id": "2836e7d4cc43",
+   "title": "Tesla: One Of The Worst Quarters Ever",
+   "link": "https://seekingalpha.com/article/4956079-tesla-one-of-the-worst-quarters-ever?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-21T21:50:12+00:00",
+   "tickers": [
+    "TSLA"
+   ]
+  },
+  {
+   "id": "52665d10ddab",
+   "title": "This $40 Gold Mining Stock Could Turn $5,000 Into a Fortune",
+   "link": "https://www.nasdaq.com/articles/40-gold-mining-stock-could-turn-5000-fortune",
+   "summary": "Key PointsThe company recently swept away two operational overhangs in Tanzania and Mali.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-21T21:50:00+00:00",
+   "tickers": [
+    "FBIN"
+   ]
+  },
+  {
+   "id": "a1e5b419191e",
+   "title": "ChowChow Cloud International Holdings Limited Provides Update on Previously Announced Private Placement",
+   "link": "https://www.globenewswire.com/news-release/2026/10/21/3385968/0/en/chowchow-cloud-international-holdings-limited-provides-update-on-previously-announced-private-placement.html",
+   "summary": "SINGAPORE, Oct. 21, 2026 (GLOBE NEWSWIRE) -- ChowChow Cloud International Holdings Limited (“Chowchow”, the “Company”) (NYSE American: CHOW) today provided an update regarding its previously announced private placement.",
+   "article_text": "",
+   "source": "GlobeNewswire",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "globenewswire.com",
+   "published": "2026-10-21T21:50:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "7722d3a4abca",
+   "title": "3D Systems Opens New Industrial Technology Center to Expand America's Advanced Manufacturing Capacity",
+   "link": "https://www.globenewswire.com/news-release/2026/10/21/3385967/8852/en/3d-systems-opens-new-industrial-technology-center-to-expand-america-s-advanced-manufacturing-capacity.html",
+   "summary": "ROCK HILL, S.C., Oct. 21, 2026 (GLOBE NEWSWIRE) -- 3D Systems (NYSE: DDD) today announced the grand opening of its new Industrial Technology Center in Littleton, Colorado, expanding the company's ability to help aerospace, defense, and semiconductor equipment manufacturers accelerate the development, qualification, and production of mission-critical components using 3D printing.",
+   "article_text": "",
+   "source": "GlobeNewswire",
+   "category": "press",
+   "type": "press",
+   "sentiment": "positive",
+   "domain": "globenewswire.com",
+   "published": "2026-10-21T21:49:00+00:00",
+   "tickers": []
+  },
   {
    "id": "3eb7d4ade6ce",
    "title": "Trump denies ordering Starlink slowdown in Ukraine, says he doesn't know who did",
@@ -30,6 +558,22 @@
    "domain": "seekingalpha.com",
    "published": "2026-10-21T21:46:42+00:00",
    "tickers": []
+  },
+  {
+   "id": "495d267cfe71",
+   "title": "SpaceX climbs 8% after earnings beat, AI growth outlook",
+   "link": "https://seekingalpha.com/news/4655528-spacex-climbs-8-percent-after-earnings-beat-ai-growth-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-21T21:46:31+00:00",
+   "tickers": [
+    "SPCX"
+   ]
   },
   {
    "id": "414e2f887ab9",
@@ -136,6 +680,34 @@
    "sentiment": "negative",
    "domain": "cnbc.com",
    "published": "2026-10-21T21:41:23+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f201ae83558d",
+   "title": "Struggling Financially in 2026? Why Your 2027 Social Security COLA Won’t Bail You Out",
+   "link": "https://www.nasdaq.com/articles/struggling-financially-2026-why-your-2027-social-security-cola-wont-bail-you-out",
+   "summary": "Key PointsSocial Security benefits are getting a 3.6% COLA in 2027.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-10-21T21:41:01+00:00",
+   "tickers": []
+  },
+  {
+   "id": "d99d4a033e61",
+   "title": "Sonoco Posts Loss In Q3 Hurt By Goodwill Impairment Charges",
+   "link": "https://www.nasdaq.com/articles/sonoco-posts-loss-q3-hurt-goodwill-impairment-charges",
+   "summary": "(RTTNews) - Sonoco Products Company (SON) on Wednesday reported a third-quarter net loss of $732.1 million or $7.36 per share, compared with net income of $122.9 million or $1.23 per share, a year earlier.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-10-21T21:40:43+00:00",
    "tickers": []
   },
   {
@@ -798,7 +1370,7 @@
    "title": "Meta posts Q3 revenue beat and strong guidance: Live updates",
    "link": "https://www.cnbc.com/2026/10/21/meta-earnings-q3-2026-live-updates.html",
    "summary": "Follow Meta's Q3 2026 earnings live, including revenue, EPS, AI spending, advertising growth, guidance and META stock reaction.",
-   "article_text": "Meta (META) Q3 2026 earnings report: Live updates Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu watch now VIDEO 2:21 02:21 Meta beats on Q3 revenue, reports stronger than expected Q4 guidance Closing Bell: Overtime Meta reported better-than-expected revenue in its third-quarter earnings report on Wednesday and issued strong guidance for the current period. The stock rose about 3% in extended trading. Earnings per share : $3.83 Revenue : $64.60 billion vs $63.37 billion It was not immediately clear if earnings were comparable to the $5.75 per share expected by analysts. Revenue jumped 26% from a year ago. \"We hit major milestones this quarter toward delivering personal superintelligence for everyone - including launching Muse and Muse Wonder, our first frontier model,\" said CEO Mark Zuckerberg in the earnings release. For the fourth quarter, Meta said it expects revenue of between $73 billion and $76 billion, or $74.5 billion at the middle of the range. Analysts expected $73.73 billion, according to LSEG. The initial success of the Muse AI personal assistant tool that debuted in September helped Meta end September with its best month on Wall Street since 2022. Meta isn't the first to create a digital assistant that can organize people's email and scan the web for headphone deals, but the company's empire, which includes Facebook and Instagram, has helped introduce AI agents to the masses. At the same time, Meta and its AI chief Alexandr Wang have continued rolling out new foundation models and related updates at a speedy clip, including Muse Wonder , which was released last Monday. Meta stock chart Read more CNBC tech news Meta earnings updates: AI spending, ad revenue and stock reaction Tesla beats on earnings and sales even as auto revenue declines Intel hits construction milestone at Ohio chip fab that's at least 5 years behind schedule Investors are questioning neoclouds' business model but Nebius says AI computing prices are rising 31 Min Ago Zuckerberg sounds off on enterprise Zuckerberg said that for now, Meta's main enterprise push will center on the company's efforts charging developers access to its proprietary foundation models and Muse Code AI agent . Eventually, Zuckerberg says, the aim is to create \"a whole kind of business network of Muse agents\" that's focused on \"small businesses.\" Then Meta will aim for \"making a version of Muse that people can bring into different corporate environments and work there,\" the Facebook co-founder said. — Jonathan Vanian 55 Min Ago Meta's workforce shrinks An aerial view of Meta headquarters on Jan. 29, 2025 in Menlo Park, California. Justin Sullivan | Getty Images News | Getty Images Meta finance chief Susan Li told analysts during the earnings call that the company's workforce shrank 12% quarter-on-quarter to 66,000 employees. The decline follows big layoffs Meta conducted over the summer that affected about 10% of the company's workforce, equating to around 8,000 jobs. — Jonathan Vanian 1 Hour Ago Shopping is the biggest use case for Meta's Muse Zuckerberg told analysts during an earnings call that over 10 million people in the U.S. and Cananda \"have set up Muse personal agents\" over the past month and a half. \"Engagement and retention are also off to a strong start,\" Zuckerberg said. Roughly 25% of people who have set up Muse are using it \"on any given day.\" \"For our earliest adopters, the longer that they use Muse, the better that retention seems to get,\" Zuckerberg said, later adding that the biggest AI agent use case is shopping. \"More than a quarter of people who are using Muse engaging in this with an average purchase size of over $200,\" Zuckerberg said. — Jonathan Vanian 1 Hour Ago Zuckerberg could pack his bags and leave California U.S. Rep. Ro Khanna (D-CA) speaks at a rally dubbed \"Ballots Over Billionaires\" at The Novo, Oct. 5, 2026 in Los Angeles, California. U.S. Sen. Bernie Sanders joined Khanna for the event in support of Proposition 40. Justin Sullivan | Getty Images Mark Zuckerberg is not a fan of California's Proposition 40, otherwise known as the \"California Wealth Tax.\" Meta said its CEO could leave California if that statewide ballot measure becomes law. Zuckerberg \"could become liable for a significant, multi-billion-dollar tax payment based on his ownership of stock in the Company,\" the filing said. \"In light of this potential tax exposure, Mr. Zuckerberg informed the Special Committee that he was evaluating relocating his primary residence outside California and that steps toward any such relocation, including any listing of his residential real estate in California on the market, would be public and inevitably noted and commented upon by Company employees and, accordingly, raise questions for management of the Company going forward.\" — Jonathan Vanian 1 Hour Ago Meta Reality Labs keeps logging the big losses Meta glasses during a preview event ahead of Meta Connect in Menlo Park, California, US, on Tuesday, Sept. 22, 2026. David Paul Morris | Bloomberg | Getty Images Meta Reality Labs has notched another quarter of big losses. That VR and AI-device unit posted $443 million in third-quarter sales while generating $4.13 billion in losses. Analysts polled by StreetAccount were expecting the division to report $513 million in revenue for the quarter while logging a loss of $4.54 billion. — Jonathan Vanian 2 Hours Ago Meta creates new class of non-voting Class C common stock Meta revealed that it will create a new class of non-voting Class C common stock, which will take effect in Jan. 2027. That stock will be distributed to all existing shareholders via a dividend, and it's effectively a two-for-one stock split that will begin trading in the new year. Meta said that that new class of common stock is intended to \"provide Meta the ability to finance its growth and help the company remain a leader among fierce competition both domestic and international.\" The company added that this new class of common stock \"will continue the founder-led model that has driven the company's success since its inception.\" \"We have also entered into a Founder Alignment Agreement with Mr. Zuckerberg, which has terms related to his sales of Class C common stock received in the stock dividend, his service at the company, and conditions for potential future stock dividends of Class C common stock,\" the company said in an earnings release. — Jonathan Vanian 2 Hours Ago Meta narrows the range of full year capital expenditures Signage during the Meta Connect event in Menlo Park, California, US, on Thursday, Sept. 24, 2026. Minh Connors | Bloomberg | Getty Images Meta has narrowed the range for its full-year data center-related capital expenditures, or capex, to come in between $135 billion to $145 billion. That figure was previously $130 billion to $145 billion Analysts were expecting capex to come in at $138.27 for the year. Wall Street is monitoring Meta's capex spending as the company further develops the underlying computing infrastructure needed to power AI agents and foundation models. — Jonathan Vanian 2 Hours Ago Meta misses on third-quarter daily active people Meta's third-quarter daily active people, or DAP, came in at 3.64 billion, trailing the 3.65 billion that analysts were expecting, according to StreetAccount. That figure represents all of Meta's users across its family of apps like Facebook and Instagram. — Jonathan Vanian 2 Hours Ago Meta posts fourth-quarter sales guidance Meta said that it expects fourth-quarter revenue guidance to come between $73 billion to $76 billion. That range's midpoint is above analyst estimates of $73.73 billion. — Jonathan Vanian 2 Hours Ago What's Meta to do with all this compute? Alexandr Wang, chief AI officer of Meta, during the Bloomberg Tech conference in San Francisco, California, US, on Thursday, June 4, 2026. David Paul Morris | Bloomberg | Getty Images Since Zuckerberg spent",
+   "article_text": "Meta (META) Q3 2026 earnings report: Live updates Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu watch now VIDEO 2:21 02:21 Meta beats on Q3 revenue, reports stronger than expected Q4 guidance Closing Bell: Overtime Meta reported better-than-expected revenue in its third-quarter earnings report on Wednesday and issued strong guidance for the current period. The stock rose about 3% in extended trading. Earnings per share : $3.83 Revenue : $64.60 billion vs $63.37 billion It was not immediately clear if earnings were comparable to the $5.75 per share expected by analysts. Revenue jumped 26% from a year ago. \"We hit major milestones this quarter toward delivering personal superintelligence for everyone - including launching Muse and Muse Wonder, our first frontier model,\" said CEO Mark Zuckerberg in the earnings release. For the fourth quarter, Meta said it expects revenue of between $73 billion and $76 billion, or $74.5 billion at the middle of the range. Analysts expected $73.73 billion, according to LSEG. The initial success of the Muse AI personal assistant tool that debuted in September helped Meta end September with its best month on Wall Street since 2022. Meta isn't the first to create a digital assistant that can organize people's email and scan the web for headphone deals, but the company's empire, which includes Facebook and Instagram, has helped introduce AI agents to the masses. At the same time, Meta and its AI chief Alexandr Wang have continued rolling out new foundation models and related updates at a speedy clip, including Muse Wonder , which was released last Monday. Meta stock chart Read more CNBC tech news Meta earnings updates: AI spending, ad revenue and stock reaction Tesla beats on earnings and sales even as auto revenue declines Intel hits construction milestone at Ohio chip fab that's at least 5 years behind schedule Investors are questioning neoclouds' business model but Nebius says AI computing prices are rising 36 Min Ago Zuckerberg sounds off on enterprise Zuckerberg said that for now, Meta's main enterprise push will center on the company's efforts charging developers access to its proprietary foundation models and Muse Code AI agent . Eventually, Zuckerberg says, the aim is to create \"a whole kind of business network of Muse agents\" that's focused on \"small businesses.\" Then Meta will aim for \"making a version of Muse that people can bring into different corporate environments and work there,\" the Facebook co-founder said. — Jonathan Vanian 60 Min Ago Meta's workforce shrinks An aerial view of Meta headquarters on Jan. 29, 2025 in Menlo Park, California. Justin Sullivan | Getty Images News | Getty Images Meta finance chief Susan Li told analysts during the earnings call that the company's workforce shrank 12% quarter-on-quarter to 66,000 employees. The decline follows big layoffs Meta conducted over the summer that affected about 10% of the company's workforce, equating to around 8,000 jobs. — Jonathan Vanian 1 Hour Ago Shopping is the biggest use case for Meta's Muse Zuckerberg told analysts during an earnings call that over 10 million people in the U.S. and Cananda \"have set up Muse personal agents\" over the past month and a half. \"Engagement and retention are also off to a strong start,\" Zuckerberg said. Roughly 25% of people who have set up Muse are using it \"on any given day.\" \"For our earliest adopters, the longer that they use Muse, the better that retention seems to get,\" Zuckerberg said, later adding that the biggest AI agent use case is shopping. \"More than a quarter of people who are using Muse engaging in this with an average purchase size of over $200,\" Zuckerberg said. — Jonathan Vanian 1 Hour Ago Zuckerberg could pack his bags and leave California U.S. Rep. Ro Khanna (D-CA) speaks at a rally dubbed \"Ballots Over Billionaires\" at The Novo, Oct. 5, 2026 in Los Angeles, California. U.S. Sen. Bernie Sanders joined Khanna for the event in support of Proposition 40. Justin Sullivan | Getty Images Mark Zuckerberg is not a fan of California's Proposition 40, otherwise known as the \"California Wealth Tax.\" Meta said its CEO could leave California if that statewide ballot measure becomes law. Zuckerberg \"could become liable for a significant, multi-billion-dollar tax payment based on his ownership of stock in the Company,\" the filing said. \"In light of this potential tax exposure, Mr. Zuckerberg informed the Special Committee that he was evaluating relocating his primary residence outside California and that steps toward any such relocation, including any listing of his residential real estate in California on the market, would be public and inevitably noted and commented upon by Company employees and, accordingly, raise questions for management of the Company going forward.\" — Jonathan Vanian 1 Hour Ago Meta Reality Labs keeps logging the big losses Meta glasses during a preview event ahead of Meta Connect in Menlo Park, California, US, on Tuesday, Sept. 22, 2026. David Paul Morris | Bloomberg | Getty Images Meta Reality Labs has notched another quarter of big losses. That VR and AI-device unit posted $443 million in third-quarter sales while generating $4.13 billion in losses. Analysts polled by StreetAccount were expecting the division to report $513 million in revenue for the quarter while logging a loss of $4.54 billion. — Jonathan Vanian 2 Hours Ago Meta creates new class of non-voting Class C common stock Meta revealed that it will create a new class of non-voting Class C common stock, which will take effect in Jan. 2027. That stock will be distributed to all existing shareholders via a dividend, and it's effectively a two-for-one stock split that will begin trading in the new year. Meta said that that new class of common stock is intended to \"provide Meta the ability to finance its growth and help the company remain a leader among fierce competition both domestic and international.\" The company added that this new class of common stock \"will continue the founder-led model that has driven the company's success since its inception.\" \"We have also entered into a Founder Alignment Agreement with Mr. Zuckerberg, which has terms related to his sales of Class C common stock received in the stock dividend, his service at the company, and conditions for potential future stock dividends of Class C common stock,\" the company said in an earnings release. — Jonathan Vanian 2 Hours Ago Meta narrows the range of full year capital expenditures Signage during the Meta Connect event in Menlo Park, California, US, on Thursday, Sept. 24, 2026. Minh Connors | Bloomberg | Getty Images Meta has narrowed the range for its full-year data center-related capital expenditures, or capex, to come in between $135 billion to $145 billion. That figure was previously $130 billion to $145 billion Analysts were expecting capex to come in at $138.27 for the year. Wall Street is monitoring Meta's capex spending as the company further develops the underlying computing infrastructure needed to power AI agents and foundation models. — Jonathan Vanian 2 Hours Ago Meta misses on third-quarter daily active people Meta's third-quarter daily active people, or DAP, came in at 3.64 billion, trailing the 3.65 billion that analysts were expecting, according to StreetAccount. That figure represents all of Meta's users across its family of apps like Facebook and Instagram. — Jonathan Vanian 2 Hours Ago Meta posts fourth-quarter sales guidance Meta said that it expects fourth-quarter revenue guidance to come between $73 billion to $76 billion. That range's midpoint is above analyst estimates of $73.73 billion. — Jonathan Vanian 2 Hours Ago What's Meta to do with all this compute? Alexandr Wang, chief AI officer of Meta, during the Bloomberg Tech conference in San Francisco, California, US, on Thursday, June 4, 2026. David Paul Morris | Bloomberg | Getty Images Since Zuckerberg spent",
    "source": "CNBC Top",
    "category": "markets",
    "type": "earnings",
@@ -8388,584 +8960,6 @@
    "tickers": [
     "MEDP"
    ]
-  },
-  {
-   "id": "fcff27de86fd",
-   "title": "8-K - Rithm Property Trust Inc. (0001614806) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1614806/000161480626000023/0001614806-26-000023-index.htm",
-   "summary": "Filed: 2026-10-21 AccNo: 0001614806-26-000023 Size: 457 KB Item 2.02: Results of Operations and Financial Condition Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-10-21T20:15:18+00:00",
-   "tickers": [
-    "RITM"
-   ]
-  },
-  {
-   "id": "58a8b5596784",
-   "title": "8-K - IONIS PHARMACEUTICALS INC (0000874015) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/874015/000114036126040388/0001140361-26-040388-index.htm",
-   "summary": "Filed: 2026-10-21 AccNo: 0001140361-26-040388 Size: 210 KB Item 7.01: Regulation FD Disclosure Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-10-21T20:15:17+00:00",
-   "tickers": []
-  },
-  {
-   "id": "72fcc10d082e",
-   "title": "8-K - First American Financial Corp (0001472787) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1472787/000119312526427848/0001193125-26-427848-index.htm",
-   "summary": "Filed: 2026-10-21 AccNo: 0001193125-26-427848 Size: 1 MB Item 2.02: Results of Operations and Financial Condition Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-10-21T20:15:15+00:00",
-   "tickers": [
-    "FAF"
-   ]
-  },
-  {
-   "id": "caa7a80c7a1b",
-   "title": "SpaceX’s massive AI targets will test the limits of reality",
-   "link": "https://www.marketwatch.com/story/spacexs-massive-ai-targets-will-test-the-limits-of-reality-4f23a624?mod=mw_rss_topstories",
-   "summary": "As Elon Musk aims to increase SpaceX’s computing capacity exponentially, he’ll face challenges related to funding, power supply and simply securing sufficient chips.",
-   "article_text": "",
-   "source": "MarketWatch",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "marketwatch.com",
-   "published": "2026-10-21T20:15:00+00:00",
-   "tickers": [
-    "SPCX"
-   ]
-  },
-  {
-   "id": "fdfb6b9c19f3",
-   "title": "WesBanco Announces Third Quarter 2026 Financial Results",
-   "link": "https://www.prnewswire.com/news-releases/wesbanco-announces-third-quarter-2026-financial-results-302915564.html",
-   "summary": "Marked by strong annualized loan growth, solid efficiency ratio, and accelerating growth in targeted expansion markets WHEELING, W.Va., Oct. 21, 2026 /PRNewswire/ -- WesBanco, Inc. (\"WesBanco\" or \"Company\") (Nasdaq: WSBC), a diversified, multi-state bank holding company, today announced...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-21T20:15:00+00:00",
-   "tickers": [
-    "NDAQ"
-   ]
-  },
-  {
-   "id": "6903b8785965",
-   "title": "Third Coast Bancshares, Inc. Reports 2026 Third Quarter Financial Results",
-   "link": "https://www.prnewswire.com/news-releases/third-coast-bancshares-inc-reports-2026-third-quarter-financial-results-302915952.html",
-   "summary": "Solid 2026 Third Quarter Results While Advancing Long-Term Growth Strategy HOUSTON, Oct. 21, 2026 /PRNewswire/ -- Third Coast Bancshares, Inc. (NYSE and NYSE Texas: TCBX) (the \"Company,\" \"Third Coast,\" \"we,\" \"us,\" or \"our\"), the bank holding company for Third Coast Bank (the \"Bank\"),...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-21T20:15:00+00:00",
-   "tickers": [
-    "MSTR"
-   ]
-  },
-  {
-   "id": "36ca0cbdee7d",
-   "title": "Lazard Declares Quarterly Dividend of $0.50 per Share",
-   "link": "https://www.prnewswire.com/news-releases/lazard-declares-quarterly-dividend-of-0-50-per-share-302915641.html",
-   "summary": "NEW YORK, Oct. 21, 2026 /PRNewswire/ -- Lazard, Inc. (NYSE: LAZ) today announced that its Board of Directors has voted to declare a quarterly dividend of $0.50 per share on its outstanding common stock. The dividend is payable on November 13, 2026, to stockholders of record on November 2,...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-21T20:15:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "67abc6c695ce",
-   "title": "First Horizon Corporation to Participate in the BancAnalysts Association of Boston Conference",
-   "link": "https://www.prnewswire.com/news-releases/first-horizon-corporation-to-participate-in-the-bancanalysts-association-of-boston-conference-302915321.html",
-   "summary": "MEMPHIS, Tenn., Oct. 21, 2026 /PRNewswire/ -- First Horizon Corporation (NYSE: FHN) today announced Chief Financial Officer Hope Dmuchowski will participate in the BancAnalysts Association of Boston Conference on November 5, 2026, at 2:55 pm ET. A live webcast of the event along with an...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-21T20:15:00+00:00",
-   "tickers": [
-    "FHN"
-   ]
-  },
-  {
-   "id": "bc88beedb0d8",
-   "title": "Bank of America Declares Fourth Quarter 2026 Stock Dividends",
-   "link": "https://www.prnewswire.com/news-releases/bank-of-america-declares-fourth-quarter-2026-stock-dividends-302915305.html",
-   "summary": "CHARLOTTE, N.C., Oct. 21, 2026 /PRNewswire/ -- Bank of America Corporation today announced the Board of Directors declared a regular quarterly cash dividend on Bank of America common stock of $0.32 per share, payable on December 24, 2026 to shareholders of record as of December 4, 2026....",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-21T20:15:00+00:00",
-   "tickers": [
-    "BAC"
-   ]
-  },
-  {
-   "id": "b72f503b49c3",
-   "title": "ACRES Commercial Realty Corp. to Report Results for Third Quarter 2026",
-   "link": "https://www.prnewswire.com/news-releases/acres-commercial-realty-corp-to-report-results-for-third-quarter-2026-302915937.html",
-   "summary": "UNIONDALE, N.Y., Oct. 21, 2026 /PRNewswire/ -- ACRES Commercial Realty Corp. (NYSE: ACR) (the \"Company\" or \"ACRES\") announced today that it will release its results for the third quarter 2026 on Wednesday, November 4, 2026, after the market closes. The Company invites investors and other...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-21T20:15:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "26601874fc85",
-   "title": "Invesco Mortgage Capital Inc. To Announce Third Quarter 2026 Results",
-   "link": "https://www.prnewswire.com/news-releases/invesco-mortgage-capital-inc-to-announce-third-quarter-2026-results-302915957.html",
-   "summary": "ATLANTA, Oct. 21, 2026 /PRNewswire/ -- Invesco Mortgage Capital Inc. (NYSE: IVR) will announce its third quarter 2026 results Thursday, October 29, 2026, after market close. A conference call and audio webcast to review third quarter 2026 results will be held on Friday, October 30, 2026,...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-21T20:15:00+00:00",
-   "tickers": [
-    "IVZ"
-   ]
-  },
-  {
-   "id": "5915c6ba8780",
-   "title": "CACI Reports Results for Its Fiscal 2027 First Quarter",
-   "link": "https://www.prnewswire.com/news-releases/caci-reports-results-for-its-fiscal-2027-first-quarter-302915933.html",
-   "summary": "Revenues of $2.5 billion, up 8.2% YoY Net income of $130.4 million; Diluted EPS of $5.84, up 3.7% YoY Adjusted net income of $171.0 million; Adjusted diluted EPS of $7.66, up 11.8% YoY EBITDA of $328.8 million and EBITDA margin of 13.3% Contract awards of $4.8 billion and book-to-bill of...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-21T20:15:00+00:00",
-   "tickers": [
-    "CACI"
-   ]
-  },
-  {
-   "id": "5facbcbb92fa",
-   "title": "CPC Launches DripFree Connectors for Cleaner, More Efficient Printing Processes",
-   "link": "https://www.prnewswire.com/news-releases/cpc-launches-dripfree-connectors-for-cleaner-more-efficient-printing-processes-302915703.html",
-   "summary": "DOWNERS GROVE, Ill., Oct. 21, 2026 /PRNewswire/ -- CPC (Colder Products Company), part of PSG, a Dover company (NYSE: DOV), and a leading manufacturer of connection technologies, today announced the launch of the DripFree™ Series, a line of non-spill connectors designed to support fast,...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "positive",
-   "domain": "prnewswire.com",
-   "published": "2026-10-21T20:15:00+00:00",
-   "tickers": [
-    "DOV"
-   ]
-  },
-  {
-   "id": "eb03b5c66340",
-   "title": "eHealth, Inc. to Hold Third Quarter 2026 Earnings Call on November 4 at 5:00 p.m. Eastern Time",
-   "link": "https://www.prnewswire.com/news-releases/ehealth-inc-to-hold-third-quarter-2026-earnings-call-on-november-4-at-500-pm-eastern-time-302915951.html",
-   "summary": "INDIANAPOLIS, Oct. 21, 2026 /PRNewswire/ -- eHealth, Inc. (Nasdaq: EHTH), a leading private online health insurance marketplace, today announced that the company plans to release third quarter 2026 financial results on November 4, 2026. The company will hold an earnings conference call...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-21T20:15:00+00:00",
-   "tickers": [
-    "NDAQ"
-   ]
-  },
-  {
-   "id": "bda3487295e5",
-   "title": "Consumer Insights Shape La-Z-Boy's Latest Innovations, Including The New PowerLift Chair Collection And AudioLuxe",
-   "link": "https://www.prnewswire.com/news-releases/consumer-insights-shape-la-z-boys-latest-innovations-including-the-new-powerlift-chair-collection-and-audioluxe-302915974.html",
-   "summary": "Key Highlights: Consumer insights are driving an expanded La-Z-Boy assortment of PowerLift recliners with four new styles offering enhanced comfort, functionality, and weight capacity New opening-price-point seating, space-conscious motion furniture, sectionals and occasional tables...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-21T20:15:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "8485e24a46d4",
-   "title": "Ogborn Mihm LLP Partner Megan Matthews Named President of the Colorado Trial Lawyers Association (CTLA)",
-   "link": "https://www.prnewswire.com/news-releases/ogborn-mihm-llp-partner-megan-matthews-named-president-of-the-colorado-trial-lawyers-association-ctla-302915992.html",
-   "summary": "DENVER, Oct. 20, 2026 /PRNewswire/ -- Ogborn Mihm LLP partner Megan Matthews has been named President of the Colorado Trial Lawyers Association (CTLA) for the 2026–2027 term, succeeding fellow partner Jason Wesoky, who served as President in 2025–2026. Managing Partner Nicole Quintana is...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-21T20:15:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "315d26243d74",
-   "title": "John B. Sanfilippo & Son, Inc. 1st Quarter Fiscal Year 2027 Operating Results Conference Call",
-   "link": "https://www.globenewswire.com/news-release/2026/10/21/3385913/0/en/john-b-sanfilippo-son-inc-1st-quarter-fiscal-year-2027-operating-results-conference-call.html",
-   "summary": "Elgin, IL, Oct. 21, 2026 (GLOBE NEWSWIRE) -- John B. Sanfilippo & Son, Inc. (NASDAQ: JBSS), a major processor and distributor of snack and recipe nut products and snack bar manufacturer, will hold its quarterly conference call to discuss its first quarter Fiscal 2027 operating results on Thursday, October 29, 2026 at 10:00 a.m. Eastern Time (9:00 a.m. Central Time). First Quarter Results are expected to be released after the market closes on Wednesday October 28, 2026.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-10-21T20:15:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "187ce52a0d11",
-   "title": "QuantumScape Reports Third Quarter 2026 Business and Financial Results",
-   "link": "https://www.globenewswire.com/news-release/2026/10/21/3385914/0/en/quantumscape-reports-third-quarter-2026-business-and-financial-results.html",
-   "summary": "SAN JOSE, Calif., Oct. 21, 2026 (GLOBE NEWSWIRE) -- QuantumScape Corporation (NASDAQ: QS), a global leader in next-generation solid-state lithium-metal battery technology, today announced its business and financial results for the third quarter of 2026, which ended September 30.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-10-21T20:15:00+00:00",
-   "tickers": [
-    "QS"
-   ]
-  },
-  {
-   "id": "5ca7e82ffeb2",
-   "title": "ESCO Technologies Announces Fourth Quarter 2026 Earnings Release and Conference Call",
-   "link": "https://www.globenewswire.com/news-release/2026/10/21/3385915/0/en/esco-technologies-announces-fourth-quarter-2026-earnings-release-and-conference-call.html",
-   "summary": "St. Louis, Oct. 21, 2026 (GLOBE NEWSWIRE) -- ESCO Technologies Inc. (NYSE:ESE) will report its fourth quarter financial results after the market close on Thursday, November 19, 2026, followed by a conference call where the financial results and related commentary will be discussed.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-10-21T20:15:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6284f5870b0e",
-   "title": "United Fire Group, Inc. announces its third quarter 2026 earnings call",
-   "link": "https://www.globenewswire.com/news-release/2026/10/21/3385916/12138/en/united-fire-group-inc-announces-its-third-quarter-2026-earnings-call.html",
-   "summary": "CEDAR RAPIDS, Iowa, Oct. 21, 2026 (GLOBE NEWSWIRE) -- United Fire Group, Inc. (UFG) (Nasdaq: UFCS) announced today that its third quarter 2026 earnings results will be released after the market closes on Tuesday, November 3, 2026. An earnings call will be held on Wednesday, November 4, 2026 at 9 a.m. CT to allow securities analysts, shareholders and other interested parties the opportunity to hear management discuss the company's third quarter 2026 results.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-10-21T20:15:00+00:00",
-   "tickers": [
-    "NDAQ"
-   ]
-  },
-  {
-   "id": "b035539d4f09",
-   "title": "Live Oak Bancshares, Inc. Reports Third Quarter 2026 Results",
-   "link": "https://www.globenewswire.com/news-release/2026/10/21/3385917/36594/en/live-oak-bancshares-inc-reports-third-quarter-2026-results.html",
-   "summary": "WILMINGTON, N.C., Oct. 21, 2026 (GLOBE NEWSWIRE) -- Live Oak Bancshares, Inc. (NYSE: LOB) (“Live Oak” or “the Company”) today reported third quarter of 2026 net income attributable to common shareholders of $24.3 million, or $0.52 per diluted common share.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-10-21T20:15:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "5a05d86a3bcb",
-   "title": "ARMOUR Residential REIT, Inc. Announces Q3 Results And September 30, 2026 Financial Position",
-   "link": "https://www.globenewswire.com/news-release/2026/10/21/3385918/12288/en/armour-residential-reit-inc-announces-q3-results-and-september-30-2026-financial-position.html",
-   "summary": "VERO BEACH, Florida, Oct. 21, 2026 (GLOBE NEWSWIRE) -- ARMOUR Residential REIT, Inc. (NYSE: ARR and ARR PRC) (“ARMOUR” or the “Company”) today announced the Company's unaudited Q3 results and September 30, 2026 financial position.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-10-21T20:15:00+00:00",
-   "tickers": [
-    "ARR",
-    "VERO"
-   ]
-  },
-  {
-   "id": "fe6318277a07",
-   "title": "Frequency Electronics Announces Chief Financial Officer Transition; Reaffirms Fiscal 2029 Financial Targets",
-   "link": "https://www.globenewswire.com/news-release/2026/10/21/3385919/7746/en/frequency-electronics-announces-chief-financial-officer-transition-reaffirms-fiscal-2029-financial-targets.html",
-   "summary": "MITCHEL FIELD, N.Y., Oct. 21, 2026 (GLOBE NEWSWIRE) -- Today, Frequency Electronics, Inc. (Nasdaq: FEIM) (“FEI” or the “Company”) announced the election of Allen Kaplan as its new Chief Financial Officer (CFO), effective November 1, 2026. As CFO, Mr. Kaplan will join the Company’s senior executive leadership team and will report directly to President and Chief Executive Officer (CEO) Tom McClelland.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-10-21T20:15:00+00:00",
-   "tickers": [
-    "NDAQ"
-   ]
-  },
-  {
-   "id": "733e5b988cee",
-   "title": "QuantumScape Announces Plans for 100 MWh Solid-State Battery Production Line for AI Data Centers, Aerospace and Defense",
-   "link": "https://www.globenewswire.com/news-release/2026/10/21/3385920/0/en/quantumscape-announces-plans-for-100-mwh-solid-state-battery-production-line-for-ai-data-centers-aerospace-and-defense.html",
-   "summary": "QuantumScape announces a 100 MWh solid-state battery cell line with Muehlbauer, targeting demand from AI data centers, aerospace and defense markets.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-10-21T20:15:00+00:00",
-   "tickers": [
-    "QS"
-   ]
-  },
-  {
-   "id": "d1b4d21107d2",
-   "title": "Eagle Bancorp, Inc. Announces Third Quarter 2026 Results",
-   "link": "https://www.globenewswire.com/news-release/2026/10/21/3385922/11376/en/eagle-bancorp-inc-announces-third-quarter-2026-results.html",
-   "summary": "BETHESDA, Md., Oct. 21, 2026 (GLOBE NEWSWIRE) -- Eagle Bancorp, Inc. (\"Eagle\" or the \"Company\") (NASDAQ: EGBN), the Bethesda-based holding company for EagleBank (the \"Bank\"), one of the largest community banks in the Washington D.C. area, reported its unaudited results for the third quarter ended September 30, 2026.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-10-21T20:15:00+00:00",
-   "tickers": [
-    "EXP"
-   ]
-  },
-  {
-   "id": "ca0092359c88",
-   "title": "Chatham Lodging Trust Announces Third Quarter 2026 Earnings Call to be Held on Thursday, November 5, 2026",
-   "link": "https://www.globenewswire.com/news-release/2026/10/21/3385923/0/en/chatham-lodging-trust-announces-third-quarter-2026-earnings-call-to-be-held-on-thursday-november-5-2026.html",
-   "summary": "WEST PALM BEACH, Fla., Oct. 21, 2026 (GLOBE NEWSWIRE) -- Chatham Lodging Trust (NYSE: CLDT), a lodging real estate investment trust (REIT) that invests in upscale, extended-stay hotels and premium-branded, select-service hotels, today announced that it will report third quarter 2026 financial results on Thursday, November 5, 2026, before the opening of the market. That same day at 9:00 a.m. ET, Jeffrey H. Fisher, Chatham’s chief executive officer, Dennis M. Craven, executive vice president and chief operating officer, and Jeremy Wegner, senior vice president and chief financial officer, will host a conference call to review its third quarter 2026 financial results.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-10-21T20:15:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "803ef3fe55da",
-   "title": "Patria Announces Third Quarter 2026 Investor Call",
-   "link": "https://www.globenewswire.com/news-release/2026/10/21/3385924/0/en/patria-announces-third-quarter-2026-investor-call.html",
-   "summary": "GRAND CAYMAN, Cayman Islands, Oct. 21, 2026 (GLOBE NEWSWIRE) -- Patria Investments Limited (Nasdaq:PAX) announced today that it will release financial results for the third quarter 2026 on Tuesday, November 3, 2026, and host a conference call via public webcast at 9:00 a.m. ET.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-10-21T20:15:00+00:00",
-   "tickers": [
-    "NDAQ"
-   ]
-  },
-  {
-   "id": "85087dcec809",
-   "title": "Crown Castle Reports Third Quarter 2026 Results and Updates Outlook for Full Year 2026",
-   "link": "https://www.globenewswire.com/news-release/2026/10/21/3385925/7657/en/crown-castle-reports-third-quarter-2026-results-and-updates-outlook-for-full-year-2026.html",
-   "summary": "HOUSTON, Oct. 21, 2026 (GLOBE NEWSWIRE) -- Crown Castle Inc. (NYSE: CCI) (\"Crown Castle\") today reported results for the third quarter ended September 30, 2026, and updated its full year 2026 Outlook, as reflected in the table below.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-10-21T20:15:00+00:00",
-   "tickers": [
-    "CCI",
-    "CCK"
-   ]
-  },
-  {
-   "id": "3d20e4fa46d4",
-   "title": "GM aims to develop vehicles in as little as two years with AI, software push",
-   "link": "https://www.cnbc.com/2026/10/21/gm-vehicle-development-ai-software.html",
-   "summary": "General Motors is targeting a roughly two-year vehicle development cycle as it expands its use of artificial intelligence, simulation and vehicle software.",
-   "article_text": "GM aims to shorten vehicle development time with AI, software push Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Key Points General Motors is hoping to reduce the time it takes to develop vehicles, targeting a roughly two-year cycle as it expands its use of artificial intelligence, simulation and vehicle software. GM says it is using artificial intelligence, simulation and more concurrent engineering to shorten development and reduce physical testing. The automaker is also expanding in-vehicle AI and plans to introduce eyes-off highway driving beginning with the Cadillac Escalade IQ in 2028. In this article GM Follow your favorite stocks CREATE FREE ACCOUNT watch now VIDEO 4:20 04:20 Highlights from GM Forward 2026 Power Lunch NEW YORK — General Motors plans to lean into artificial intelligence and vehicle software for future growth and development amid increasing competition abroad from Chinese automakers and a tougher U.S. market. The Detroit automaker on Wednesday shared new details about a proprietary AI agent it's releasing under its OnStar brand, plans for a fourth generation of more efficient all-electric vehicles and a target to cut its vehicle development time in half. GM also reconfirmed that by 2028 , it wants to have eyes-off highway driving, or \"personal autonomy,\" that will let drivers take their attention off the road. The automaker said that technology would start with the Cadillac Escalade IQ EV before rolling out to other, more high-volume models. \"All of these developments are building us the car of the future,\" CEO Mary Barra said Wednesday during an event laying out the plans, called \"GM Forward,\" in downtown Manhattan. The initiatives, which Barra, Chief Product Officer Sterling Anderson and other executives discussed at the event, are designed to streamline the automaker's operations, while also improving the capabilities of its vehicles for customers. \"Over the last 12 months, we've evolved how we design, engineer and build our vehicles,\" said Anderson, who led the event and who has been tasked with overseeing GM's latest technology transformation. Read more CNBC auto news Tesla unveils long-delayed Roadster developed with SpaceX, fueling merger speculation Porsche reveals Mission S concept car that previews new design identity How lower fuel economy targets could boost pickups and V-8 engines Stellantis CEO urges incentives for carmakers who build in Europe as Chinese rivals gain ground GM said it is now targeting a vehicle development time of roughly two years from concept to production versus a traditional four- to five-year cycle. However, the company did not detail a timeline for reaching that goal. The event comes as Chinese automakers are growing outside of the U.S. with rapid development times of new technologies and vehicles. Consulting firm AlixPartners said it believes China is currently bringing vehicles to market twice as fast as traditional automakers, with 40% to 50% less investment and a 30% cost advantage. GM also continues to play catch-up to U.S. EV leader Tesla when it comes to delivering technology advancements through over-the-air updates and automated driving capabilities . Anderson, a former Tesla executive, declined to speak specifically about how GM's technologies will compare to the EV maker, but said GM's systems will be able to visualize, or see, more things through the use of multiple types of sensors than a strictly camera-based system, which Tesla uses. He also said the rapid development and new software architecture will help the company better compete against Chinese automakers abroad. \"There's inherent virtue to speed,\" Anderson told CNBC during an interview after the event. \"Not just in being able to get a car out faster, it's being able to develop a system that's far more performant that you could have otherwise.\" Next-generation vehicles GM said Wednesday it has major plans for its next generation of EVs and traditional vehicles with internal combustion engines. The company said those coming vehicles — regardless of type — will have 40 times the computing power and up to 50% faster cellular connectivity than prior systems. That computing power is expected to help the automaker with over-the-air updates, onboard diagnostics and AI, as well as other technologies such as automated driving features. The new brain of the vehicle will launch on the $130,000 Cadillac Escalade IQ EV in 2028 before rolling out to other models, including its next generation of EVs. CEO and Chair of General Motors Mary Barra delivers a speech during the brand's annual technology event in New York on Oct. 21, 2026. Charly Triballeau | AFP | Getty Images GM said the forthcoming EVs are expected to be 25% more aerodynamic and 15% lighter and feature electric motors and battery packs that are more compact. GM President Mark Reuss said despite lackluster consumer adoption and the automaker pulling back billions of dollars in investments in EVs , it remains committed to producing them. \"We continue to develop our future EVs and work to reduce battery costs,\" Reuss said during the event. \"And when the U.S. market is ready for EVs in large numbers, we will be there for them.\" AI development GM expects to achieve such targets through the use of AI in research and development. The company said it is developing a \"new operating approach for vehicle development\" that leans into enterprise AI and virtualization to increase speed. \"This concurrent engineering model allows us to innovate faster, improve continuously, and scale new technologies across our lineup with incredible agility,\" the company said in a release. From left, GM CEO Mary Barra, Chief Product Officer Sterling Anderson and President Mark Reuss at the company's GM Forward event in downtown Manhattan on Oct. 21, 2026. Michael Wayland | CNBC GM used the development of its next-generation vehicles, including a new battery chemistry, as an example of how the new technologies are reshaping its vehicle development. The company said it virtually tested more than 300,000 battery designs using its recently announced lithium manganese rich battery chemistry, or LMR, before building a single physical prototype. Anderson said Wednesday that LMR will be the exclusive battery tech for its fourth-generation EVs. GM had previously said it wanted to use those batteries in full-size electric vehicles such as its Chevrolet Silverado and Escalade IQ beginning in 2028. Anderson said GM is uniquely positioned to use AI compared to other automotive companies because of its more than 100 years in the industry as well as 30 years of OnStar. \"In the age of AI, data is currency,\" Anderson said. \"For decades, GM's engineering, manufacturing and product teams have generated unparalleled body of data that we're now using to build industry-leading AI tools.\" In-vehicle AI The company is building on its internal use of AI to better shape its experiences for customers. GM on Wednesday reconfirmed that it plans to launch a proprietary in-vehicle AI assistant through its OnStar technology brand. The OnStar AI assistant is expected to launch in the coming months on the 2027 Cadillac Lyriq EV through an over-the-air update before expanding to other models. GM currently uses Google's Gemini for its in-vehicle AI assistant. The company told CNBC earlier this year that the GM-developed AI will be more integrated with the vehicle. The goal for OnStar AI, which will be available through a subscription, is to help customers be productive while in the car, especially if the vehicle has self-driving capabilities that don't require the driver or passengers to monitor the system. GM on Wednesday also reiterated its plans to launch eyes-off highway driving in 2028. The automaker said a year ago that it wanted to launch that technology. It's been five years since Barra said she expected the automaker to offer personal autonomous vehicles",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-10-21T20:14:36+00:00",
-   "tickers": [
-    "GM"
-   ]
-  },
-  {
-   "id": "b41d5ab7ad9f",
-   "title": "Pathward Financial earnings beat by $0.26, revenue topped estimates",
-   "link": "https://www.investing.com/news/earnings/pathward-financial-earnings-beat-by-026-revenue-topped-estimates-4963951",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-10-21T20:14:29+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6f0458edadc0",
-   "title": "Enterprise Financial earnings missed by $0.21, revenue fell short of estimates",
-   "link": "https://www.investing.com/news/earnings/enterprise-financial-earnings-missed-by-021-revenue-fell-short-of-estimates-4963950",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-10-21T20:14:28+00:00",
-   "tickers": []
-  },
-  {
-   "id": "deb140d8eafa",
-   "title": "How France Risks Dragging The Eurozone Toward The Precipice",
-   "link": "https://seekingalpha.com/article/4955852-how-france-risks-dragging-the-eurozone-toward-the-precipice?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-21T20:14:26+00:00",
-   "tickers": []
-  },
-  {
-   "id": "3684a156be5f",
-   "title": "8-K - CNB FINANCIAL CORP/PA (0000736772) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/736772/000073677226000091/0000736772-26-000091-index.htm",
-   "summary": "Filed: 2026-10-21 AccNo: 0000736772-26-000091 Size: 10 MB Item 2.02: Results of Operations and Financial Condition Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-10-21T20:14:09+00:00",
-   "tickers": []
-  },
-  {
-   "id": "2303e854fc8a",
-   "title": "Lithia Motors, Inc. (LAD) Q3 2026 Earnings Call Transcript",
-   "link": "https://seekingalpha.com/article/4956003-lithia-motors-inc-lad-q3-2026-earnings-call-transcript?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-21T20:14:06+00:00",
-   "tickers": [
-    "LAD"
-   ]
-  },
-  {
-   "id": "70d2d785a750",
-   "title": "Alaska Air Group, Inc. (ALK) Q3 2026 Earnings Call Transcript",
-   "link": "https://seekingalpha.com/article/4956026-alaska-air-group-inc-alk-q3-2026-earnings-call-transcript?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-21T20:14:00+00:00",
-   "tickers": [
-    "ALK"
-   ]
-  },
-  {
-   "id": "0fb7fd1e5196",
-   "title": "Union Bankshares Announces Earnings for the three and nine months ended September 30, 2026 and Declares Quarterly Dividend",
-   "link": "https://www.globenewswire.com/news-release/2026/10/21/3385912/10631/en/union-bankshares-announces-earnings-for-the-three-and-nine-months-ended-september-30-2026-and-declares-quarterly-dividend.html",
-   "summary": "MORRISVILLE, Vt., Oct. 21, 2026 (GLOBE NEWSWIRE) -- Union Bankshares, Inc. (NASDAQ - UNB) today announced results for the three and nine months ended September 30, 2026 and declared a regular quarterly cash dividend. Consolidated net income for the three months ended September 30, 2026 was $3.8 million, or $0.77 per share, compared to $3.4 million, or $0.75 per share, for the same period in 2025, and $9.7 million, or $2.03 per share, for the nine months ended September 30, 2026, compared to $8.3 million, or $1.83 per share, for the same period in 2025.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-10-21T20:14:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "14897f7839ff",
-   "title": "8-K - NETSTREIT Corp. (0001798100) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1798100/000162828026066715/0001628280-26-066715-index.htm",
-   "summary": "Filed: 2026-10-21 AccNo: 0001628280-26-066715 Size: 5 MB Item 2.02: Results of Operations and Financial Condition Item 7.01: Regulation FD Disclosure Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-10-21T20:13:46+00:00",
-   "tickers": []
-  },
-  {
-   "id": "eb6824ef5e3c",
-   "title": "NETSTREIT FFO of $0.35 beats by $0.01, revenue of $66.26M beats by $1.31M",
-   "link": "https://seekingalpha.com/news/4655541-netstreit-ffo-of-0_35-beats-by-0_01-revenue-of-66_26m-beats-by-1_31m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-21T20:13:38+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8981,12 +8975,13 @@
   "HDV": "iShares Core High Dividend ETF",
   "WST": "West Pharmaceutical Services",
   "QQQ": "Invesco QQQ Trust, Series 1",
+  "FBIN": "Fortune Brands Innovations",
   "HPE": "Hewlett Packard Enterprise",
   "SSNC": "SS&C Technologies Holdings",
   "ICE": "Intercontinental Exchange",
+  "APO": "Apollo Global Management",
   "FAF": "First American Financial",
   "TMO": "Thermo Fisher Scientific",
-  "ARR": "ARMOUR Residential REIT",
   "GS": "The Goldman Sachs Group",
   "SH": "ProShares Short S&P500",
   "IONS": "Ionis Pharmaceuticals",
@@ -9001,6 +8996,7 @@
   "BEN": "Franklin Resources",
   "BRK-A": "Berkshire Hathaway",
   "CACI": "CACI International",
+  "CSL": "Carlisle Companies",
   "LUV": "Southwest Airlines",
   "PENN": "PENN Entertainment",
   "TT": "Trane Technologies",
@@ -9011,13 +9007,11 @@
   "TXN": "Texas Instruments",
   "WCN": "Waste Connections",
   "ALGN": "Align Technology",
-  "ALK": "Alaska Air Group",
   "BMO": "Bank of Montreal",
   "MEDP": "Medpace Holdings",
   "ARES": "Ares Management",
   "BAC": "Bank of America",
   "DECK": "Deckers Outdoor",
-  "EXP": "Eagle Materials",
   "LVS": "Las Vegas Sands",
   "CCK": "Crown Holdings",
   "GM": "General Motors",
@@ -9027,11 +9021,8 @@
   "OTIS": "Otis Worldwide",
   "SOC": "Sable Offshore",
   "BRO": "Brown & Brown",
-  "FHN": "First Horizon",
   "KMI": "Kinder Morgan",
-  "LAD": "Lithia Motors",
   "RITM": "Rithm Capital",
-  "VERO": "Venus Concept",
   "MSTR": "MicroStrategy",
   "CCI": "Crown Castle",
   "HSIC": "Henry Schein",
@@ -9053,12 +9044,14 @@
   "C": "Citigroup",
   "CME": "CME Group",
   "CRWV": "CoreWeave",
+  "RBA": "RB Global",
   "TE": "T1 Energy",
   "NWSA": "News Corp",
   "EVR": "Evercore",
   "GOOG": "Alphabet",
   "RS": "Reliance",
   "WING": "Wingstop",
+  "SNAP": "Snapchat",
   "BLSH": "Bullish",
   "COMP": "Compass",
   "DHR": "Danaher",
@@ -9068,6 +9061,7 @@
   "MDLN": "Medline",
   "MRNA": "Moderna",
   "PODD": "Insulet",
+  "ROL": "Rollins",
   "SCI": "Service",
   "STNE": "StoneCo",
   "WMT": "Walmart",
@@ -9077,7 +9071,6 @@
   "NDAQ": "Nasdaq",
   "SAP": "SAP SE",
   "SPCX": "SpaceX",
-  "DOV": "Dover",
   "GGG": "Graco",
   "INTC": "Intel",
   "KKR": "KKR &",
