@@ -1,14 +1,625 @@
 {
- "generated": "2026-10-22T13:37:33.673300+00:00",
+ "generated": "2026-10-22T13:47:56.800513+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "de0313801aae",
+   "title": "Centene, Harmony Biosciences lead list of undervalued healthcare stocks",
+   "link": "https://seekingalpha.com/news/4655950-centene-harmony-biosciences-lead-list-of-undervalued-healthcare-stocks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-22T13:45:45+00:00",
+   "tickers": [
+    "CNC"
+   ]
+  },
+  {
+   "id": "8a228ed889cb",
+   "title": "France protests: Macron condemns 'stupid' comments from Trump, others as bond market pressure builds",
+   "link": "https://www.cnbc.com/2026/10/22/macron-trump-france-protests.html",
+   "summary": "France is facing a mounting economic crisis that pushed its 10-year government bond yield to a new 24-year high on Thursday.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-10-22T13:44:19+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a5ec247187dc",
+   "title": "Affirm named Sam's Club's exclusive pay-over-time provider",
+   "link": "https://seekingalpha.com/news/4655935-affirm-named-sams-clubs-exclusive-pay-over-time-provider?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-22T13:44:01+00:00",
+   "tickers": [
+    "AFRM"
+   ]
+  },
+  {
+   "id": "74e7e054b86d",
+   "title": "US to take stakes in four companies receiving up to $389M in chip R&D awards",
+   "link": "https://seekingalpha.com/news/4655947-us-to-take-stakes-in-four-companies-receiving-up-to-389m-in-chip-rd-awards?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-22T13:43:27+00:00",
+   "tickers": []
+  },
+  {
+   "id": "58c3e145e12e",
+   "title": "Stocks Fall and Oil Rises as Investors Retreat from Mounting Risks",
+   "link": "https://www.nytimes.com/2026/10/22/business/stocks-oil-prices.html",
+   "summary": "Earnings reports from big technology companies spooked investors and the price of oil jumped to its highest level in months.",
+   "article_text": "",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-10-22T13:43:13+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f97c8f30d4e3",
+   "title": "EBay to cut about 9% of global workforce",
+   "link": "https://biztoc.com/x/3f897ec72af5439b?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-10-22T13:42:49+00:00",
+   "tickers": []
+  },
+  {
+   "id": "3e07b523797c",
+   "title": "Germany expects €43.4 billion more in tax revenues from 2026 to 2030",
+   "link": "https://biztoc.com/x/edf109d903b635db?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-22T13:42:23+00:00",
+   "tickers": []
+  },
+  {
+   "id": "4df2e8955431",
+   "title": "Zelensky: Russia bombed Kyiv with cluster warheads",
+   "link": "https://biztoc.com/x/6c3790d1e3d07892?ref=rss",
+   "summary": "Ukrainian President Volodymyr Zelensky accused Russia on Thursday of deliberately targeting civilians with ballistic missiles carrying cluster warheads during overnight strikes on Kyiv.According to th...",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-22T13:41:09+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a1707e01d7a1",
+   "title": "War dents Gulf’s protein boom",
+   "link": "https://biztoc.com/x/3a18cc5a4c1ba1b8?ref=rss",
+   "summary": "Anyone aiming to boost their protein intake in the Gulf has likely felt the pinch in their wallet lately. Prices are rising everywhere, driven by a global craze to add protein to everything, but this isn’t converting to profits for Gulf food producers, who are grappling with higher costs because…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-22T13:40:50+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b9faba7e0e3d",
+   "title": "Wall Street tanks at open amid geopolitics, AI concerns",
+   "link": "https://biztoc.com/x/eb2f30f2792461f2?ref=rss",
+   "summary": "Major United States stock exchanges plunged at the open on Thursday as uncertainty over the situation in the Middle East continued to weigh on sentiment. In addition, despite both Meta and Tesla deliv...",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-22T13:40:49+00:00",
+   "tickers": [
+    "TSLA",
+    "META"
+   ]
+  },
+  {
+   "id": "f3d3a304a6b3",
+   "title": "Money Conversations at Every Age: What to Discuss by Generation",
+   "link": "https://biztoc.com/x/390e7584f05ba685?ref=rss",
+   "summary": "From teens to aging parents, certified financial planner Ted Jenkin joins TODAY with the conversations every family should have at every age. He discusses teaching teens to read a paystub, helping adult children in their 20s and 30s build up their own credit, the documents aging parents should…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-22T13:40:49+00:00",
+   "tickers": []
+  },
+  {
+   "id": "9716f3ad1bee",
+   "title": "Sonic closed 56 drive-ins last year, and more keep shutting down",
+   "link": "https://biztoc.com/x/60c82ce7a45d97f9?ref=rss",
+   "summary": "About two miles from my home, from the main road, you can see the iconic Sonic Drive-In marquee. That was a pretty exciting sight, as I like a good slush or milkshake as much as anyone, but once you get a little closer, you see that the sign says “closed forever” under the logo. That’s a sign that…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-22T13:40:48+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c4f0b078d4a2",
+   "title": "Dubai introduces one frequent flyer mile for each minute in the city",
+   "link": "https://biztoc.com/x/b4e0c22e85181bde?ref=rss",
+   "summary": "The airline points game has been over for years, but the marketing gimmicks refuse to die. Emirates, which has nearly returned to its prewar capacity, is trying to entice more connecting travelers on long-haul flights to make a stop in Dubai. Previous incentives included discounts at amusement…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-22T13:40:48+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c828e6961c18",
+   "title": "'We're all in': AI startup Town expands San Francisco footprint as it hits $1 billion valuation",
+   "link": "https://biztoc.com/x/5214353b6bf3b443?ref=rss",
+   "summary": "\"San Francisco is the best place to build an AI company,\" the CEO says of the office upgrade.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-10-22T13:40:44+00:00",
+   "tickers": []
+  },
+  {
+   "id": "d068d3199ca1",
+   "title": "Tesla Q3 2026: Positive Cash, Negative Sales Trends, Crisis Indicated",
+   "link": "https://seekingalpha.com/article/4956359-tesla-q3-2026-positive-cash-negative-sales-trends-crisis-indicated?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-22T13:40:43+00:00",
+   "tickers": [
+    "TSLA"
+   ]
+  },
+  {
+   "id": "10ef0efa4c8d",
+   "title": "Brent crude tops $112 after Trump says no negotiations with Iran, something will happen 'fairly soon'",
+   "link": "https://www.cnbc.com/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html",
+   "summary": "The Middle East conflict could flare up again as the U.S. reportedly plans to resume strikes against Iran.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "cnbc.com",
+   "published": "2026-10-22T13:40:41+00:00",
+   "tickers": []
+  },
+  {
+   "id": "6901b140d1a4",
+   "title": "US & Israel Prepare Post-Election Strikes On Iran Despite Escalation Warnings",
+   "link": "https://biztoc.com/x/e3c9fa10da68b020?ref=rss",
+   "summary": "US & Israel Prepare Post-Election Strikes On Iran Despite Escalation Warnings At this point it seems both sides believe another major round of the US-Iran war is imminent. There's been ample speculation of late whether President Trump will initiate another bombing campaign before or after the…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-22T13:40:40+00:00",
+   "tickers": [
+    "POST"
+   ]
+  },
+  {
+   "id": "8ddb306e3acb",
+   "title": "Nirva raises $33M for a pendant that only listens to you",
+   "link": "https://biztoc.com/x/773524ff8459ab19?ref=rss",
+   "summary": "Ambient AI is having a moment. Amazon launched a new wrist-worn device with Bee; a former Plaud exec launched ambient apps through a startup called Ambi, which aims to also build its own hardware; and Apple launched Voice Intelligence features during its iPhone launch in September. Now, a company…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-10-22T13:40:38+00:00",
+   "tickers": [
+    "AAPL",
+    "AMZN"
+   ]
+  },
+  {
+   "id": "b3ced7d0894e",
+   "title": "Wall Street Didn’t Expect This AI Stock to Become This Important",
+   "link": "https://biztoc.com/x/48b157a2192f814f?ref=rss",
+   "summary": "The post Wall Street Didn’t Expect This AI Stock to Become This Important appeared first on 24/7 Wall St.. The 24/7 Wall St. price target for NVIDIA (NASDAQ:NVDA) is $258.42 over the next 12 months. That sits 20.68% above the current share price. NVIDIA Price Target at a…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-22T13:40:36+00:00",
+   "tickers": [
+    "NVDA"
+   ]
+  },
+  {
+   "id": "200e634f37bd",
+   "title": "Market Fumbles Stock Rally After Meta and Tesla Earnings Spook Wall Street",
+   "link": "https://biztoc.com/x/501ca081cbae7831?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-10-22T13:40:32+00:00",
+   "tickers": [
+    "TSLA",
+    "META"
+   ]
+  },
+  {
+   "id": "54f46043e8f8",
+   "title": "Rosebank row: will Labour block the oilfield? – podcast",
+   "link": "https://biztoc.com/x/30e9cfa21793eaac?ref=rss",
+   "summary": "The government has given the go-ahead for the Jackdaw gasfield, but that was the easy part. The next big headache is the Rosebank oilfield. The energy secretary, Miatta Fahnbulleh, has indicated she might reject this licence because of the project’s expected environmental impact, but could Andy…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-22T13:40:31+00:00",
+   "tickers": []
+  },
+  {
+   "id": "657ca3954c28",
+   "title": "American Airlines Sinks 4% as Fuel Costs Push Outlook to Full-Year Loss; Delta and United Airlines Drop 3%",
+   "link": "https://biztoc.com/x/08915601b74bacc6?ref=rss",
+   "summary": "The post American Airlines Sinks 4% as Fuel Costs Push Outlook to Full-Year Loss; Delta and United Airlines Drop 3% appeared first on 24/7 Wall St.. A record quarter wasn’t enough to offset a fuel bill that has now pushed a major U.S. network carrier toward a full-year loss. American Airlines…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "guidance",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-10-22T13:40:30+00:00",
+   "tickers": []
+  },
+  {
+   "id": "cbf899ed4058",
+   "title": "EU regulatory sandboxes aim to clear path for health innovation [Partner Content]",
+   "link": "https://biztoc.com/x/e6f36ae00732ef17?ref=rss",
+   "summary": "As the EU prepares to introduce regulatory sandboxes for medicines, attention turns to how the new tool can address regulatory hurdles for innovations that do not fit neatly within existing frameworks",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-22T13:40:30+00:00",
+   "tickers": []
+  },
+  {
+   "id": "87360b99d27e",
+   "title": "Spotify Jumps 10% as Premium Subscriber Growth Tops Forecasts; Sirius XM Stays Put",
+   "link": "https://biztoc.com/x/d5dd2edf369450de?ref=rss",
+   "summary": "The post Spotify Jumps 10% as Premium Subscriber Growth Tops Forecasts; Sirius XM Stays Put appeared first on 24/7 Wall St.. A third-quarter subscriber count that exceeded its own guidance has put Spotify Technology (NYSE:SPOT) at the front of a soft media group. Spotify stock is at $579.49, up…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-10-22T13:40:28+00:00",
+   "tickers": [
+    "SPOT",
+    "SIRI"
+   ]
+  },
+  {
+   "id": "f73303c10d60",
+   "title": "Mexico inflation accelerates in October, testing Banxico rate path",
+   "link": "https://biztoc.com/x/ba6c80c24796cf96?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-22T13:40:28+00:00",
+   "tickers": []
+  },
+  {
+   "id": "595c4976ee4b",
+   "title": "Abu Dhabi lures Eli Lilly, Oura, and Whoop in healthcare push",
+   "link": "https://biztoc.com/x/c17dfdebf5fa1cb5?ref=rss",
+   "summary": "Abu Dhabi is betting big on GLP-1 drugs and wearables as it seeks to retool its healthcare system for preventive care. Mubadala Bio signed a deal with US drugmaker Eli Lilly during the Future Health Summit in the UAE capital this week to package and distribute GLP-1 drugs locally. In April, the…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-22T13:40:27+00:00",
+   "tickers": [
+    "LLY"
+   ]
+  },
+  {
+   "id": "c5b9182e86ff",
+   "title": "Green Card Holder Sues Over Naturalization Taking 'an Eternity'",
+   "link": "https://biztoc.com/x/1b5e6bf86c5e1e66?ref=rss",
+   "summary": "A lawful permanent resident has sued the Trump administration over delays to his U.S. citizenship application, saying it is “gathering dust on an office shelf” and that he is likely to wait “an eternity” unless a federal court intervenes. Meng Ju Liu, also known as Michael Liu, filed the lawsuit…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-22T13:40:23+00:00",
+   "tickers": []
+  },
+  {
+   "id": "bcaf60cfb8d3",
+   "title": "Meta agrees deal to keep Zuckerberg in California despite wealth tax proposal",
+   "link": "https://www.ft.com/content/b34502b6-38dc-4a46-a8e7-d9131726cd31?syn-25a6b1a6=1",
+   "summary": "Group to create new class of non-voting shares to allow stock sales without diluting founder’s control",
+   "article_text": "",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "ft.com",
+   "published": "2026-10-22T13:40:22+00:00",
+   "tickers": [
+    "META"
+   ]
+  },
+  {
+   "id": "9cc2c251b2f0",
+   "title": "Dow, S&P 500, Nasdaq open lower as tech stocks come under pressure",
+   "link": "https://biztoc.com/x/9fc70c2473ba63d9?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-10-22T13:40:16+00:00",
+   "tickers": [
+    "NDAQ"
+   ]
+  },
+  {
+   "id": "61aed7cc8271",
+   "title": "Investors Become Pickier Amid Market's Data Center Wobble",
+   "link": "https://biztoc.com/x/aad0aace8bdee426?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-22T13:40:15+00:00",
+   "tickers": []
+  },
+  {
+   "id": "d1aaabe092bb",
+   "title": "Sherwin-Williams, Wells Fargo, and 7 Other Stocks for a Good-Enough Economy",
+   "link": "https://biztoc.com/x/1f2de4f79e7e4a3a?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-22T13:40:12+00:00",
+   "tickers": [
+    "WFC"
+   ]
+  },
+  {
+   "id": "1493a8890da5",
+   "title": "CVB Financial GAAP EPS of $0.44 in-line, revenue of $195.56M in-line",
+   "link": "https://seekingalpha.com/news/4655948-cvb-financial-gaap-eps-of-0_44-in-line-revenue-of-195_56m-in-line?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-22T13:39:37+00:00",
+   "tickers": []
+  },
+  {
+   "id": "242a1fa7b8dc",
+   "title": "Cheniere signs LNG supply deals with QatarEnergy through 2054",
+   "link": "https://seekingalpha.com/news/4655941-cheniere-signs-lng-supply-deals-with-qatarenergy-through-2054?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-22T13:39:34+00:00",
+   "tickers": [
+    "LNG"
+   ]
+  },
+  {
+   "id": "b5ce47b63a1e",
+   "title": "Undercovered Dozen: Western Digital, Penguin Solutions, Millrose Properties And More",
+   "link": "https://seekingalpha.com/article/4956345-undercovered-stocks-western-digital-penguin-solutions-millrose-properties-and-more?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-22T13:37:55+00:00",
+   "tickers": [
+    "WDC"
+   ]
+  },
+  {
+   "id": "855188929105",
+   "title": "Sony's Wolverine scores biggest launch since Helldivers II ahead of GTA 6",
+   "link": "https://seekingalpha.com/news/4655937-sonys-wolverine-scores-biggest-launch-since-helldivers-ii-ahead-of-gta-6?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-22T13:37:45+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e3a5e5d9c663",
+   "title": "Hemnet Group AB (publ) (HMNTY) Q3 2026 Earnings Call Transcript",
+   "link": "https://seekingalpha.com/article/4956390-hemnet-group-ab-publ-hmnty-q3-2026-earnings-call-transcript?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-22T13:37:41+00:00",
+   "tickers": []
+  },
+  {
+   "id": "7decb56a7c35",
+   "title": "Ipsen S.A. (IPSEY) Q2 2026 Sales/Trading Call Transcript",
+   "link": "https://seekingalpha.com/article/4956324-ipsen-s-a-ipsey-q2-2026-sales-trading-call-transcript?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-22T13:37:31+00:00",
+   "tickers": []
+  },
+  {
+   "id": "fcb065f94c84",
+   "title": "American States Water: A Great Utility That Now Yields Less Than A Treasury",
+   "link": "https://seekingalpha.com/article/4956343-american-states-water-a-great-utility-that-now-yields-less-than-a-treasury?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-22T13:37:30+00:00",
+   "tickers": []
+  },
+  {
+   "id": "20faa4e8aeaf",
+   "title": "California's Proposition 40: What voters need to know about billionaire wealth tax battle",
+   "link": "https://www.cnbc.com/2026/10/22/california-proposition-40-billionaire-tax-wealth.html",
+   "summary": "California's billionaire wealth tax, Proposition 40, looks like a close call based on recent polls. Here is what to know before Election Day on Nov. 3.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-10-22T13:37:21+00:00",
+   "tickers": []
+  },
+  {
+   "id": "8530f133db40",
+   "title": "Shell and Exxon’s $8bn UK chemicals unit put up for sale",
+   "link": "https://www.ft.com/content/2d4876ae-c707-4df5-a3ae-ae3268343ef2?syn-25a6b1a6=1",
+   "summary": "Infineum taps advisers at Bank of America to run a sale of the business as Shell focuses on core oil and gas operations",
+   "article_text": "",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "ft.com",
+   "published": "2026-10-22T13:36:58+00:00",
+   "tickers": [
+    "BAC",
+    "XOM"
+   ]
+  },
+  {
+   "id": "5fb9fcd1d2f6",
+   "title": "Hedge funds’ bearish bets near five-year high as squeeze risk builds",
+   "link": "https://seekingalpha.com/news/4655945-hedge-funds-bearish-bets-near-five-year-high-as-squeeze-risk-builds?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-22T13:36:39+00:00",
+   "tickers": []
+  },
   {
    "id": "c161ffb5df37",
    "title": "Procter & Gamble earnings beat as sales rise 4%, boosted by laundry and home products",
    "link": "https://www.cnbc.com/2026/10/22/procter-gamble-pg-q1-2027-earnings.html",
    "summary": "Procter & Gamble topped Wall Street's estimates for its quarterly earnings and revenue.",
-   "article_text": "Procter & Gamble (PG) Q1 2027 earnings Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Key Points Procter & Gamble topped Wall Street's estimates for its quarterly earnings and revenue. The company updated its full-year sales forecast to reflect its acquisition of Thorne. CFO Andre Schulten said the company continues to see a bifurcated economy. In this article PG Follow your favorite stocks CREATE FREE ACCOUNT watch now VIDEO 7:50 07:50 P&G CFO Andre Schulten on Q1 results: Driven by 4% organic sales growth Squawk Box Procter & Gamble on Thursday reported quarterly earnings and revenue that beat analysts' expectations, fueled by growing demand for its laundry detergent and home care products. Shares of the company rose more than 2% in premarket trading. Here's what the company reported compared with what Wall Street was expecting, based on a survey of analysts by LSEG: Earnings per share: $2.00 adjusted vs. $1.88 expected Revenue: $23.3 billion vs. $22.8 billion expected P&G reported fiscal first-quarter net income attributable to the company of $4.73 billion, or $1.97 per share, down from $4.75 billion, or $1.95 per share, a year earlier. Excluding restructuring costs and other items, the company earned $2 per share. Net sales rose 4% to $23.3 billion. Bottles of Dawn dish spray are displayed for sale at a Target store on August 4, 2026 in Washington, DC. Kevin Carter | Getty Images P&G reported volume growth of 2.4%, a strong start for its new fiscal year. Like many consumer companies, P&G has seen demand for its products weaken as shoppers have become more value conscious. Executives have previously said that consumers are now using every last drop of shampoo or laundry detergent, and value packs have become more popular. In fiscal 2026, P&G reported just one quarter of volume growth. P&G is still seeing signs of a bifurcated economy, CFO Andre Schulten said on CNBC's \"Squawk Box\" on Thursday. High-income consumers are willing to trade up to new products, even a $30 shampoo, while low-income consumers are trying to make brands like Tide and Pampers work for their tight budgets. The company has tried to address both ends of the spectrum with promotional pricing, new pack sizes and product innovation that can command higher prices. P&G's top performing division was fabric and home care, which includes brands like Tide and Febreze. The segment's volume rose 4.3% in the quarter. The company's baby, feminine and family care segment and its beauty business both reported volume growth of more than 2%. P&G's grooming division saw volume shrink 0.4% in the quarter. The segment includes Gillette and Venus razors. The company's health care business was the laggard of the portfolio this quarter. Its volume fell 2.9% as demand for oral health care products, like Crest toothpaste, and personal health care items, like Pepto-Bismol, shrank. The company is expecting continued \"geopolitical and economic challenges,\" but P&G is on track to meet its guidance, CEO Shailesh Jejurikar said in a statement. For fiscal 2027, P&G reiterated its forecast for core earnings per share in a range of $6.89 to $7.11. The company is now projecting all-in sales growth in the range of 2% to 4% compared with the prior year, up from its prior outlook of 1% to 3%. The change reflects its acquisition of supplements brand Thorne , which closed on Oct. 1. Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
+   "article_text": "Procter & Gamble (PG) Q1 2027 earnings Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Key Points Procter & Gamble topped Wall Street's estimates for its quarterly earnings and revenue. The company updated its full-year sales forecast to reflect its acquisition of Thorne. CFO Andre Schulten said the company continues to see a bifurcated economy. In this article PG Follow your favorite stocks CREATE FREE ACCOUNT watch now VIDEO 7:50 07:50 P&G CFO Andre Schulten on Q1 results: Driven by 4% organic sales growth Squawk Box Procter & Gamble on Thursday reported quarterly earnings and revenue that beat analysts' expectations, fueled by growing demand for its laundry detergent and home care products. Shares of the company rose more than 2% in premarket trading. Here's what the company reported compared with what Wall Street was expecting, based on a survey of analysts by LSEG: Earnings per share: $2.00 adjusted vs. $1.88 expected Revenue: $23.3 billion vs. $22.8 billion expected P&G reported fiscal first-quarter net income attributable to the company of $4.73 billion, or $1.97 per share, down from $4.75 billion, or $1.95 per share, a year earlier. Excluding restructuring costs and other items, the company earned $2 per share. Net sales rose 4% to $23.3 billion. Bottles of Dawn dish spray are displayed for sale at a Target store on August 4, 2026 in Washington, DC. Kevin Carter | Getty Images P&G reported volume growth of 2.4%, a strong start for its new fiscal year. Like many consumer companies, P&G has seen demand for its products weaken as shoppers have become more value conscious. Executives have previously said that consumers are now using every last drop of shampoo or laundry detergent, and value packs have become more popular. In fiscal 2026, P&G reported just one quarter of volume growth. P&G is still seeing signs of a bifurcated economy, CFO Andre Schulten said on CNBC's \"Squawk Box\" on Thursday. High-income consumers are willing to trade up to new products, even a $30 shampoo, while low-income consumers are trying to make brands like Tide and Pampers work for their tight budgets. The company has tried to address both ends of the spectrum with promotional pricing, new pack sizes and product innovation that can command higher prices. New premium products like Pampers Amore and Pantene's Abundant and Strong haircare line have helped P&G grow market share in those categories, executives said. Adding to P&G's challenges, the competitive environment is \"intense,\" Schulten told analysts. \"We are getting the balance between pricing and product improvements, package improvements, claims, communication and retail execution right,\" Schulten said on the company's quarterly earnings call. \"But it's also a very fragile balance that we want to make sure we we don't compromise on, so we will price, and we will price with innovation, not jeopardizing the topline momentum.\" P&G's top performing division was fabric and home care, which includes brands like Tide and Febreze. The segment's volume rose 4.3% in the quarter, helped by stronger demand for laundry detergent and fabric enhancers. The company's baby, feminine and family care segment and its beauty business both reported volume growth of more than 2%. P&G's grooming division saw volume shrink 0.4% in the quarter. The segment includes Gillette and Venus razors. The company's health care business was the laggard of the portfolio this quarter. Its volume fell 2.9% as demand for oral health care products, like Crest toothpaste, and personal health care items, like Pepto-Bismol, shrank. The company is expecting continued \"geopolitical and economic challenges,\" but P&G is on track to meet its guidance, CEO Shailesh Jejurikar said in a statement. For fiscal 2027, P&G reiterated its forecast for core earnings per share in a range of $6.89 to $7.11. The company is now projecting all-in sales growth in the range of 2% to 4% compared with the prior year, up from its prior outlook of 1% to 3%. The change reflects its acquisition of supplements brand Thorne , which closed on Oct. 1. Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
    "source": "CNBC Earnings",
    "category": "earnings",
    "type": "upgrade",
@@ -35,34 +646,6 @@
     "META",
     "TSLA"
    ]
-  },
-  {
-   "id": "10ef0efa4c8d",
-   "title": "Brent crude tops $112 as U.S. and Israel reportedly weigh fresh Iran strikes",
-   "link": "https://www.cnbc.com/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html",
-   "summary": "The Middle East conflict could flare up again as the U.S. reportedly plans to resume strikes against Iran.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "cnbc.com",
-   "published": "2026-10-22T13:34:02+00:00",
-   "tickers": []
-  },
-  {
-   "id": "20faa4e8aeaf",
-   "title": "California's Proposition 40: What voters need to know about billionaire wealth tax battle",
-   "link": "https://www.cnbc.com/2026/10/22/california-proposition-40-billionaire-tax-wealth.html",
-   "summary": "California's billionaire wealth tax, Proposition 40, looks like a close call based on recent polls. Here is what to know before Election Day on Nov. 3.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-10-22T13:33:19+00:00",
-   "tickers": []
   },
   {
    "id": "b761d57626fa",
@@ -180,6 +763,34 @@
    "sentiment": "negative",
    "domain": "seekingalpha.com",
    "published": "2026-10-22T13:32:05+00:00",
+   "tickers": []
+  },
+  {
+   "id": "d3d5059c4f89",
+   "title": "Communications Group Common Interest Buys a Stake in Creative Agency Mirimar",
+   "link": "https://biztoc.com/x/5f3b40a46d54d246?ref=rss",
+   "summary": "Plus, fund managers turn to elaborate festival-like events as they recruit individual investors for private credit.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-22T13:31:58+00:00",
+   "tickers": []
+  },
+  {
+   "id": "1ddd6b7ec0e1",
+   "title": "With Disruption on Every Side, Food Markets Are Somehow Eerily Quiet",
+   "link": "https://biztoc.com/x/cb4b7e955c33a4da?ref=rss",
+   "summary": "Plus: the disappearing Rio Grande, Asia’s diesel-intensive economies and the era of overshoot.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-22T13:31:43+00:00",
    "tickers": []
   },
   {
@@ -524,6 +1135,23 @@
    "domain": "seekingalpha.com",
    "published": "2026-10-22T13:26:07+00:00",
    "tickers": []
+  },
+  {
+   "id": "b6ed8fa33205",
+   "title": "Not Intel. Not AMD. This Is the CPU Stock I'd Buy for the AI Agent Era.",
+   "link": "https://www.nasdaq.com/articles/not-intel-not-amd-cpu-stock-id-buy-ai-agent-era",
+   "summary": "Key PointsIntel and AMD have been benefiting from the rapidly growing demand for server CPUs for AI data centers, which handle agentic AI and inference workloads.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-22T13:26:00+00:00",
+   "tickers": [
+    "AMD",
+    "INTC"
+   ]
   },
   {
    "id": "c1d52ee78aec",
@@ -899,6 +1527,20 @@
    "tickers": []
   },
   {
+   "id": "3e6a7300b3f9",
+   "title": "Investing in Artificial Intelligence (AI) Stocks Can be Risky, but This Might be a Great Way to Do It",
+   "link": "https://www.nasdaq.com/articles/investing-artificial-intelligence-ai-stocks-can-be-risky-might-be-great-way-do-it",
+   "summary": "Key PointsArtificial intelligence (AI) stocks have led the broader market higher over the last few years, but volatility is starting to ramp up.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-22T13:22:00+00:00",
+   "tickers": []
+  },
+  {
    "id": "9ca3f0fed824",
    "title": "Jobless claims near the lowest since the 1960s as low-fire trend continues",
    "link": "https://www.cnbc.com/2026/10/22/jobless-claims-record-low-weekly.html",
@@ -941,6 +1583,20 @@
    "tickers": [
     "EBAY"
    ]
+  },
+  {
+   "id": "0a4794d27ccb",
+   "title": "A Recession Is Coming Eventually, and History Says There's a Major Silver Lining for Investors",
+   "link": "https://www.nasdaq.com/articles/recession-coming-eventually-and-history-says-theres-major-silver-lining-investors",
+   "summary": "Key PointsEver since the global financial crisis and Great Recession, stocks have been in a nearly uninterrupted bull market.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-22T13:20:00+00:00",
+   "tickers": []
   },
   {
    "id": "9991ab1b95e4",
@@ -1049,6 +1705,20 @@
    "tickers": []
   },
   {
+   "id": "65ef38212d0b",
+   "title": "U.S. Jobless Claims Unexpectedly Drop To Three-Month Low",
+   "link": "https://www.nasdaq.com/articles/us-jobless-claims-unexpectedly-drop-three-month-low",
+   "summary": "(RTTNews) - First-time claims for U.S. unemployment benefits unexpectedly declined in the week ended October 17th, according to a report released by the Labor Department on Thursday.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-10-22T13:18:09+00:00",
+   "tickers": []
+  },
+  {
    "id": "2e642473a812",
    "title": "Spain Condemns Argentina’s Milei For Election Interference",
    "link": "https://biztoc.com/x/ba87a363cb566bf1?ref=rss",
@@ -1093,6 +1763,34 @@
    "tickers": [
     "LRCX"
    ]
+  },
+  {
+   "id": "8b3ca8142501",
+   "title": "LumiQ partners with the Florida Institute of CPAs to bring CPE podcast learning paths to members",
+   "link": "https://www.prnewswire.com/news-releases/lumiq-partners-with-the-florida-institute-of-cpas-to-bring-cpe-podcast-learning-paths-to-members-302915959.html",
+   "summary": "New partnership gives Florida CPAs a way to earn required CPE credit through story-driven podcasts on topics from auditing to business transformation TORONTO, Oct. 22, 2026 /PRNewswire/ -- LumiQ, an audio-first continuing professional education (CPE) platform, today announced a...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-10-22T13:17:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "33e589f265f2",
+   "title": "Ahlgrens bilar, Sweden's Most Bought Car, Makes a Pit Stop at Mr. Bones Pumpkin Patch in Los Angeles for Its First Halloween in the U.S.",
+   "link": "https://www.prnewswire.com/news-releases/ahlgrens-bilar-swedens-most-bought-car-makes-a-pit-stop-at-mr-bones-pumpkin-patch-in-los-angeles-for-its-first-halloween-in-the-us-302916988.html",
+   "summary": "The Iconic Swedish Candy Brand Brings a Taste of Sweden to one of Los Angeles' Most Beloved Fall Family Destinations with a Special Sampling Experience Oct. 23–25. STOCKHOLM, Oct. 22, 2026 /PRNewswire/ -- Cloetta Group, Northern Europe's leading confectionery company, today announced that...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-10-22T13:17:00+00:00",
+   "tickers": []
   },
   {
    "id": "2bce012b61b6",
@@ -1164,6 +1862,80 @@
    "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-10-22T13:16:09+00:00",
+   "tickers": []
+  },
+  {
+   "id": "6185914a3e9e",
+   "title": "ELEGOO Brings Professional-Grade 3D Scanning to a Wider Range of Creators with the Upcoming M1 Ultra",
+   "link": "https://www.prnewswire.com/news-releases/elegoo-brings-professional-grade-3d-scanning-to-a-wider-range-of-creators-with-the-upcoming-m1-ultra-302915770.html",
+   "summary": "SHENZHEN, China, Oct. 22, 2026 /PRNewswire/ -- ELEGOO, a rapidly developing brand in global smart manufacturing, is expanding its 3D creation ecosystem with the upcoming M1 Ultra, its first all-in-one smart 3D scanner. Officially launching on October 29, 2026, at 12:00 AM PDT, the M1...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-10-22T13:16:00+00:00",
+   "tickers": [
+    "RRC"
+   ]
+  },
+  {
+   "id": "b0d76171218d",
+   "title": "ELEGOO macht mit dem in Kürze erscheinenden M1 Ultra professionelles 3D-Scannen für eine breitere Gruppe von Kreativen zugänglich",
+   "link": "https://www.prnewswire.com/news-releases/elegoo-macht-mit-dem-in-kurze-erscheinenden-m1-ultra-professionelles-3d-scannen-fur-eine-breitere-gruppe-von-kreativen-zuganglich-302916438.html",
+   "summary": "SHENZHEN, China, 22. Oktober 2026 /PRNewswire/ -- ELEGOO, eine sich rasch entwickelnde Marke im Bereich der globalen intelligenten Fertigung, erweitert sein Ökosystem für die 3D-Erstellung mit dem in Kürze erscheinenden M1 Ultra, seinem ersten intelligenten All-in-One-3D-Scanner. Der M1...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-10-22T13:16:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "efdb619534c4",
+   "title": "ELEGOO acerca el escaneo 3D de nivel profesional a un público más amplio de creadores con el próximo M1 Ultra",
+   "link": "https://www.prnewswire.com/news-releases/elegoo-acerca-el-escaneo-3d-de-nivel-profesional-a-un-publico-mas-amplio-de-creadores-con-el-proximo-m1-ultra-302916787.html",
+   "summary": "SHENZHEN, China, 22 de octubre de 2026 /PRNewswire/ -- ELEGOO, una marca en rápido desarrollo dentro del sector global de la fabricación inteligente, amplía su ecosistema de creación 3D con el próximo M1 Ultra, su primer escáner 3D inteligente todo en uno. Con un lanzamiento oficial...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-10-22T13:16:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "5213c44876bd",
+   "title": "ELEGOO Brings Professional-Grade 3D Scanning to a Wider Range of Creators with the Upcoming M1 Ultra",
+   "link": "https://www.prnewswire.com/news-releases/elegoo-brings-professional-grade-3d-scanning-to-a-wider-range-of-creators-with-the-upcoming-m1-ultra-302915809.html",
+   "summary": "SHENZHEN, China, Oct. 22, 2026 /PRNewswire/ -- ELEGOO, a rapidly developing brand in global smart manufacturing, is expanding its 3D creation ecosystem with the upcoming M1 Ultra, its first all-in-one smart 3D scanner. Officially launching on October 29, 2026, at 12:00 AM PDT, the M1...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-10-22T13:16:00+00:00",
+   "tickers": [
+    "RRC"
+   ]
+  },
+  {
+   "id": "e329ad87449d",
+   "title": "Le futur M1 Ultra d'ELEGOO permet à un plus grand nombre de créateurs d'accéder à la numérisation 3D de qualité professionnelle",
+   "link": "https://www.prnewswire.com/news-releases/le-futur-m1-ultra-delegoo-permet-a-un-plus-grand-nombre-de-createurs-dacceder-a-la-numerisation-3d-de-qualite-professionnelle-302916926.html",
+   "summary": "SHENZHEN, Chine, 22 octobre 2026 /PRNewswire/ -- ELEGOO, une marque en plein développement dans le secteur mondial de la fabrication intelligente, étend son écosystème de création 3D avec le prochain M1 Ultra, son premier scanner 3D intelligent tout-en-un. Lancé officiellement le 29...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-10-22T13:16:00+00:00",
    "tickers": []
   },
   {
@@ -1243,6 +2015,34 @@
    "tickers": []
   },
   {
+   "id": "ab46090595c2",
+   "title": "CobbleStone® &amp; Chu Chua Technology Services LLP Partner to Accelerate Technology Adoption &amp; Business Transformation",
+   "link": "https://www.prnewswire.com/news-releases/cobblestone--chu-chua-technology-services-llp-partner-to-accelerate-technology-adoption--business-transformation-302916463.html",
+   "summary": "CobbleStone Software has added to its extensive partner ecosystem with a new services partnership with chuchua.tech. The partnership proudly brings Indigenous-led technology consulting and implementation expertise to organizations across North America. PRINCETON, N.J., Oct. 22, 2026...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-10-22T13:15:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e09e03eb4e7d",
+   "title": "LCMC Health and Helix Launch Landmark 100,000-Person Genomics Initiative to Help Change the Future of Healthcare in Louisiana",
+   "link": "https://www.prnewswire.com/news-releases/lcmc-health-and-helix-launch-landmark-100-000-person-genomics-initiative-to-help-change-the-future-of-healthcare-in-louisiana-302916465.html",
+   "summary": "Uniquely You, a no-cost community health initiative and research program, will bring genetic screening to Louisiana communities, helping identify certain serious health risks earlier and support more personalized, preventive care NEW ORLEANS and SAN MATEO, Calif., Oct. 22, 2026...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-10-22T13:15:00+00:00",
+   "tickers": []
+  },
+  {
    "id": "9c9a3055fd79",
    "title": "Stephens raises RBB Bancorp stock price target to $29 on capital strength",
    "link": "https://www.investing.com/news/analyst-ratings/stephens-raises-rbb-bancorp-stock-price-target-to-29-on-capital-strength-93CH-4966323",
@@ -1305,6 +2105,22 @@
    "tickers": [
     "TSLA",
     "META"
+   ]
+  },
+  {
+   "id": "e5aa7b502260",
+   "title": "NVR Inc. Bottom Line Falls In Q3",
+   "link": "https://www.nasdaq.com/articles/nvr-inc-bottom-line-falls-q3",
+   "summary": "(RTTNews) - NVR Inc. (NVR) announced a profit for third quarter that Dropped, from last year",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-10-22T13:13:36+00:00",
+   "tickers": [
+    "NVR"
    ]
   },
   {
@@ -1376,7 +2192,7 @@
    "link": "https://www.prnewswire.com/news-releases/inframed-properties-expands-team-to-support-growing-healthcare-property-investment-platform-302916458.html",
    "summary": "New hires add experience in healthcare real estate acquisitions, asset management and portfolio operations as InfraMed advances its national growth strategy SOUTHFIELD, Mich., Oct. 22, 2026 /PRNewswire/ -- InfraMed Properties (\"InfraMed\"), a healthcare property investment and operating...",
    "article_text": "",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "press",
    "sentiment": "positive",
@@ -1414,6 +2230,22 @@
    "published": "2026-10-22T13:11:22+00:00",
    "tickers": [
     "ABBV"
+   ]
+  },
+  {
+   "id": "b9127ef1b220",
+   "title": "TFS HealthScience dévoile sa nouvelle identité de marque mondiale",
+   "link": "https://www.prnewswire.com/news-releases/tfs-healthscience-devoile-sa-nouvelle-identite-de-marque-mondiale-302916984.html",
+   "summary": "La nouvelle identité met en lumière la manière dont cette ORC d'origine suédoise travaille avec des commanditaires des secteurs de la biotechnologie, de la pharmacie et des technologies médicales : une honnêteté radicale, une urgence scientifique, une approche thérapeutique approfondie et...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-10-22T13:11:00+00:00",
+   "tickers": [
+    "ORC"
    ]
   },
   {
@@ -1723,7 +2555,7 @@
    "link": "https://www.prnewswire.com/news-releases/in-hellonation-expert-general-contractor-jay-gravatt-breaks-down-the-cost-to-build-a-detached-garage-302916453.html",
    "summary": "The article outlines how size, materials, and design choices influence garage construction cost in the Dallas-Fort Worth area. GRAPEVINE, Texas, Oct. 22, 2026 /PRNewswire/ -- How much should homeowners expect to spend when building a detached garage? HelloNation has published an article...",
    "article_text": "",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -1737,10 +2569,38 @@
    "link": "https://www.prnewswire.com/news-releases/fm-announces-us855-million-resilience-credit-to-support-investment-in-risk-reduction-302916969.html",
    "summary": "For second year in a row, FM is providing a 10% premium offset against eligible FM policies JOHNSTON, R.I., Oct. 22, 2026 /PRNewswire/ -- Commercial property insurer FM today announced that it will provide eligible FM clients with an estimated US$855 million through its resilience credit...",
    "article_text": "",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-10-22T13:10:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "771f3b17899e",
+   "title": "Chartwells Higher Education's New Campus Voices Report Finds Students Want Dining They Can Trust",
+   "link": "https://www.prnewswire.com/news-releases/chartwells-higher-educations-new-campus-voices-report-finds-students-want-dining-they-can-trust-302916456.html",
+   "summary": "New Campus Voices report explores the experiences, emotions and everyday realities behind student dining decisions Findings are based on conversations with more than 2,000 students across 300 focus groups and 50 campuses Students point to consistency, flexibility, functional wellness and...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-10-22T13:10:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "59cd5e20db91",
+   "title": "Chargeflow Launches Prevent 2.0 as New Data Shows One in Three Black Friday Chargebacks Says 'Never Arrived'",
+   "link": "https://www.prnewswire.com/news-releases/chargeflow-launches-prevent-2-0-as-new-data-shows-one-in-three-black-friday-chargebacks-says-never-arrived-302916449.html",
+   "summary": "Prevent 2.0, Chargeflow's new AI model, catches 10 times more fraud and abuse than the previous generation, scanning every order for fraud and abuse, not just stolen cards. Chargeflow also launched the Chargeflow Data Lab, whose first reports draw on about 3 million disputes to show how...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "positive",
    "domain": "prnewswire.com",
    "published": "2026-10-22T13:10:00+00:00",
    "tickers": []
@@ -1930,12 +2790,26 @@
    ]
   },
   {
+   "id": "dc3094cfabb6",
+   "title": "Bay Street Headed For Weak Start",
+   "link": "https://www.nasdaq.com/articles/bay-street-headed-weak-start",
+   "summary": "(RTTNews) - Lower Canadian and U.S. index futures and weak precious metals prices are likely to weigh on Canadian stocks Thursday morning. Additionally, the sharp rise in oil prices has fueled inflation and interest rate concerns.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-10-22T13:09:07+00:00",
+   "tickers": []
+  },
+  {
    "id": "7e8bb640bd13",
    "title": "WAR IN IRAN, FEDERAL RESERVE RATE HIKE WEIGH ON REAL ESTATE INVESTOR OUTLOOK ACCORDING TO FALL 2026 RCN CAPITAL INVESTOR SENTIMENT SURVEY",
    "link": "https://www.prnewswire.com/news-releases/war-in-iran-federal-reserve-rate-hike-weigh-on-real-estate-investor-outlook-according-to-fall-2026-rcn-capital-investor-sentiment-survey-302915707.html",
    "summary": "Higher Financing Costs, Limited Demand Due to Worsening Affordability for Homebuyers & Renters Among Factors Keeping Investor Sentiment Weak SOUTH WINDSOR, Conn., Oct. 22, 2026 /PRNewswire/ -- Real estate investor sentiment improved modestly after falling for two consecutive quarters,...",
    "article_text": "",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "upgrade",
    "sentiment": "positive",
@@ -1958,6 +2832,20 @@
    "tickers": [
     "ICE"
    ]
+  },
+  {
+   "id": "903c749f6aa9",
+   "title": "Limitless Franchise Growth Expands Portfolio to Nine Brand Partners",
+   "link": "https://www.prnewswire.com/news-releases/limitless-franchise-growth-expands-portfolio-to-nine-brand-partners-302916057.html",
+   "summary": "Boutique franchise sales organization brings more than 150 years of combined team experience to a diverse portfolio of brands SCOTTSDALE, Ariz., Oct. 22, 2026 /PRNewswire/ -- Limitless Franchise Growth (LFG) has grown its portfolio to nine brand partners across a diverse range of...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "positive",
+   "domain": "prnewswire.com",
+   "published": "2026-10-22T13:08:00+00:00",
+   "tickers": []
   },
   {
    "id": "5200e8f7b2bb",
@@ -1988,6 +2876,48 @@
    "tickers": [
     "TTMI"
    ]
+  },
+  {
+   "id": "66be2ab7eb9a",
+   "title": "Dale un Twist a tus antojos con el NUEVO Tajín® Twist Chamoy Sauce",
+   "link": "https://www.prnewswire.com/news-releases/dale-un-twist-a-tus-antojos-con-el-nuevo-tajin-r-twist-chamoy-sauce-826903253.html",
+   "summary": "Sabor Swicy: dulce con un toque picante. Pruébalo con tus snacks favoritos, gomitas, helados, frutas, bebidas y muchos más. HOUSTON, 22 de octubre de 2026 /PRNewswire-HISPANIC PR WIRE/ -- Tajín® presenta el nuevo Tajín® Twist Chamoy Sauce y te invita a descubrir su sabor Swicy: una...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-10-22T13:07:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f1505bacf1c4",
+   "title": "Lynx Motor Works Unveils the \"Heart of the Beast\": The Supercharged V8 Powering the GT LM, at the Formula 1 United States Grand Prix",
+   "link": "https://www.prnewswire.com/news-releases/lynx-motor-works-unveils-the-heart-of-the-beast-the-supercharged-v8-powering-the-gt-lm-at-the-formula-1-united-states-grand-prix-302916459.html",
+   "summary": "Private VIP showcase at Volara's Turn 11 car condo at Circuit of The Americas offers a first look at the engine, supercharger and key components of the Graham Rahal Performance-built GT LM, launching in early 2027 with allocation by invitation only AUSTIN, Texas, Oct. 22, 2026...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-10-22T13:07:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "dcc325a987b6",
+   "title": "NEW Tajín® Twist Chamoy Sauce Brings an Out of This World Flavorful Plot Twist to Your Favorite Treats",
+   "link": "https://www.prnewswire.com/news-releases/new-tajin-twist-chamoy-sauce-brings-an-out-of-this-world-flavorful-plot-twist-to-your-favorite-treats-302916106.html",
+   "summary": "Drizzle it. Dip it. Mix it. Tajín's newest swicy sauce turns everyday snacking into a flavor adventure—available at select retailers nationwide. HOUSTON, Oct. 22, 2026 /PRNewswire/ -- Your snack cravings just got a juicy plot twist. Tajín® introduces NEW Tajín® Twist Chamoy, a new...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-10-22T13:07:00+00:00",
+   "tickers": []
   },
   {
    "id": "dd1b553b61fd",
@@ -2624,6 +3554,37 @@
    "domain": "prnewswire.com",
    "published": "2026-10-22T13:00:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "e797183c95e1",
+   "title": "Spencer Stuart Introduces THE DYNAMIC BOARD ADVANTAGE",
+   "link": "https://www.prnewswire.com/news-releases/spencer-stuart-introduces-the-dynamic-board-advantage-302916626.html",
+   "summary": "High-trust boards move faster and drive stronger business performance NEW YORK, Oct. 22, 2026 /PRNewswire/ -- New global research from leadership advisory firm Spencer Stuart finds that trust between boards and CEOs sharply distinguishes the most dynamic, adaptable boards from the least...",
+   "article_text": "",
+   "source": "PR Newswire Fin",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-10-22T13:00:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "41f1bb0056bd",
+   "title": "Thomson Reuters Launches AI for Tax and Audit That Knows the Answer, and Why It's Right",
+   "link": "https://www.prnewswire.com/news-releases/thomson-reuters-launches-ai-for-tax-and-audit-that-knows-the-answer-and-why-its-right-302915932.html",
+   "summary": "The next generation of CoCounsel Tax, Audit & Accounting plans the work, applies the correct authority, and delivers a finished result professionals can review and trust. TORONTO, Oct. 22, 2026 /PRNewswire/ -- Thomson Reuters (TSX/Nasdaq: TRI), a global content and technology company,...",
+   "article_text": "",
+   "source": "PR Newswire Fin",
+   "category": "press",
+   "type": "press",
+   "sentiment": "positive",
+   "domain": "prnewswire.com",
+   "published": "2026-10-22T13:00:00+00:00",
+   "tickers": [
+    "TRI",
+    "NDAQ"
+   ]
   },
   {
    "id": "40d91be30274",
@@ -3436,20 +4397,6 @@
    "sentiment": "positive",
    "domain": "prnewswire.com",
    "published": "2026-10-22T12:53:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "8a228ed889cb",
-   "title": "France protests: Macron condemns 'stupid' comments from Trump, others as bond market pressure builds",
-   "link": "https://www.cnbc.com/2026/10/22/macron-trump-france-protests.html",
-   "summary": "France is facing a mounting economic crisis that pushed its 10-year government bond yield to a new 24-year high on Thursday.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-10-22T12:52:48+00:00",
    "tickers": []
   },
   {
@@ -6346,20 +7293,6 @@
    "tickers": []
   },
   {
-   "id": "58c3e145e12e",
-   "title": "Stocks Fall and Oil Rises as Investors Retreat from Mounting Risks",
-   "link": "https://www.nytimes.com/2026/10/22/business/stocks-oil-prices.html",
-   "summary": "Earnings reports from big technology companies spooked investors and the price of oil jumped to its highest level in months.",
-   "article_text": "",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "nytimes.com",
-   "published": "2026-10-22T12:11:17+00:00",
-   "tickers": []
-  },
-  {
    "id": "8b8682af512c",
    "title": "UK restarts large-calibre weapon manufacturing after 20 years in defence push",
    "link": "https://biztoc.com/x/6b963f1a2c7778ef?ref=rss",
@@ -8018,954 +8951,6 @@
    "domain": "investing.com",
    "published": "2026-10-22T11:50:49+00:00",
    "tickers": []
-  },
-  {
-   "id": "7b47fb1f96b8",
-   "title": "Union Pacific Corp. Reports Rise In Q3 Profit",
-   "link": "https://www.nasdaq.com/articles/union-pacific-corp-reports-rise-q3-profit",
-   "summary": "(RTTNews) - Union Pacific Corp. (UNP) reported earnings for its third quarter that Increases, from last year",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-10-22T11:50:39+00:00",
-   "tickers": [
-    "UNP"
-   ]
-  },
-  {
-   "id": "e389cbc85111",
-   "title": "Qiagen agrees to €46.50/share all-cash takeover offer from EQT",
-   "link": "https://seekingalpha.com/news/4655830-qiagen-agrees-to-4650share-all-cash-takeover-offer-from-eqt?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-22T11:50:22+00:00",
-   "tickers": [
-    "QGEN",
-    "EQT"
-   ]
-  },
-  {
-   "id": "38bc50db8144",
-   "title": "Comcast in charts: Broadband and video declines pull down residential connectivity revenue in Q3",
-   "link": "https://seekingalpha.com/news/4655845-comcast-in-charts-broadband-and-video-declines-pull-down-residential-connectivity-revenue-in-q3?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-22T11:50:03+00:00",
-   "tickers": [
-    "CMCSA"
-   ]
-  },
-  {
-   "id": "095084f66146",
-   "title": "Nasdaq posts Q3 earnings beat, bolstered by capital access platforms revenue growth",
-   "link": "https://seekingalpha.com/news/4655826-nasdaq-posts-q3-earnings-beat-bolstered-by-capital-access-platforms-revenue-growth?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-22T11:49:39+00:00",
-   "tickers": [
-    "NDAQ"
-   ]
-  },
-  {
-   "id": "2d1fbe7a1d8e",
-   "title": "Atlas Energy secures $424M bridge facility for data center projects",
-   "link": "https://seekingalpha.com/news/4655840-atlas-energy-secures-424m-bridge-facility-for-data-center-projects?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-22T11:49:08+00:00",
-   "tickers": []
-  },
-  {
-   "id": "9666e3d03760",
-   "title": "Cognizant's DyFlex acquisition should expand footprint outside of core markets: Wedbush",
-   "link": "https://seekingalpha.com/news/4655841-cognizants-dyflex-acquisition-should-expand-footprint-outside-of-core-markets-wedbush?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-22T11:48:59+00:00",
-   "tickers": [
-    "CTSH"
-   ]
-  },
-  {
-   "id": "c808d57deddb",
-   "title": "Teijin Limited - Depositary Receipt Consensus Price Target Raised 26.63% to $10.49",
-   "link": "https://www.nasdaq.com/articles/teijin-limited-depositary-receipt-consensus-price-target-raised-2663-1049",
-   "summary": "The average one-year price target for Teijin Limited - Depositary Receipt (OTCPK:TINLY) has been revised to $10.49 / share. This is an increase of 26.63% from the prior estimate of $8.28 dated February 23, 2026. These figures represent aggregate analyst targets",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-10-22T11:48:41+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6a8ba97af5bd",
-   "title": "Global Rush to Fix PHP Security Flaw Leaves Some Websites Offline",
-   "link": "https://www.nytimes.com/2026/10/22/world/php-vulnerability-websites-cybersecurity-ai.html",
-   "summary": "Governments and businesses in Kenya, the Netherlands and elsewhere were scrambling to prevent hackers from exploiting a vulnerability in PHP, a widely used programming language.",
-   "article_text": "",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "nytimes.com",
-   "published": "2026-10-22T11:48:14+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6529a528f581",
-   "title": "CSL ernennt Deborah Waterhouse zur CEO und Geschäftsführerin",
-   "link": "https://www.prnewswire.com/news-releases/csl-ernennt-deborah-waterhouse-zur-ceo-und-geschaftsfuhrerin-302916885.html",
-   "summary": "MELBOURNE, Australien, 22. Oktober 2026 /PRNewswire/ -- Der Vorstand von CSL Limited (ASX:CSL; USOTC:CSLLY) gibt heute bekannt, dass er Deborah Waterhouse mit Wirkung zum 1. Februar 2027 zur Chief Executive Officer und Geschäftsführerin von CSL ernannt hat. Die Ernennung erfolgte im...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-22T11:48:00+00:00",
-   "tickers": [
-    "CSL"
-   ]
-  },
-  {
-   "id": "b37a3848bc77",
-   "title": "Union Pacific Non-GAAP EPS of $3.53 beats by $0.05, revenue of $7.19B beats by $60M",
-   "link": "https://seekingalpha.com/news/4655846-union-pacific-non-gaap-eps-of-3_53-beats-by-0_05-revenue-of-7_19b-beats-by-60m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-22T11:47:16+00:00",
-   "tickers": [
-    "UNP"
-   ]
-  },
-  {
-   "id": "1f5e3e644b63",
-   "title": "BMO lifts Block to Outperform, sees multiple rerating catalysts ahead",
-   "link": "https://www.investing.com/news/stock-market-news/bmo-lifts-block-to-outperform-sees-multiple-rerating-catalysts-ahead-4965740",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-10-22T11:47:13+00:00",
-   "tickers": [
-    "SQ",
-    "BMO"
-   ]
-  },
-  {
-   "id": "f7c5a55e2377",
-   "title": "Presentación mundial de los nuevos TIGGO7 y TIGGOX7",
-   "link": "https://www.prnewswire.com/news-releases/presentacion-mundial-de-los-nuevos-tiggo7-y-tiggox7-302916883.html",
-   "summary": "- Los nuevos TIGGO7 y TIGGOX7 hacen su debut mundial en la Noche de la Marca CHERY, celebrando \"Juntos. Por la familia\" WUHU, China, 22 de octubre de 2026 /PRNewswire/ -- El 21 de octubre, la Noche de la Marca CHERY sirvió como marco de reunión para las familias de todo el mundo en Wuhu,...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-22T11:47:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "5a55f8df88ea",
-   "title": "Every Megawatt of AI Capacity Can Make Up To 200,000 Gallons of Clean Water per Day",
-   "link": "https://www.prnewswire.com/news-releases/every-megawatt-of-ai-capacity-can-make-up-to-200-000-gallons-of-clean-water-per-day-302916375.html",
-   "summary": "Endeavour teams up with Trevi Systems to scale desalination technology driven by data center waste heat and advance zero-discharge solutions that produce clean water without the concentrated brines of conventional desalination plants. NEW YORK and ROHNERT PARK, Calif., Oct. 22, 2026...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-22T11:46:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "823e0349a745",
-   "title": "Smartee presenta gli approcci clinici ai casi complessi di classe II al SIDO 2026",
-   "link": "https://www.prnewswire.com/news-releases/smartee-presenta-gli-approcci-clinici-ai-casi-complessi-di-classe-ii-al-sido-2026-302916882.html",
-   "summary": "TORINO, Italia, 22 ottobre 2026 /PRNewswire/ -- Smartee Denti-Technology ha partecipato al 57° Congresso internazionale SIDO, tenutosi a Torino dall'8 al 10 ottobre, confrontandosi con i professionisti dell'ortodonzia sulla gestione dei casi complessi e sul ruolo in evoluzione delle...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-22T11:46:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "2e6135bed85d",
-   "title": "There Is Almost Nothing Tesla Can Do To Justify This Absurd Valuation",
-   "link": "https://seekingalpha.com/article/4956296-there-is-almost-nothing-tesla-can-do-to-justify-this-absurd-valuation?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-22T11:45:43+00:00",
-   "tickers": [
-    "TSLA"
-   ]
-  },
-  {
-   "id": "3515d578e776",
-   "title": "Blackstone Q3 Net Income Rises; Total AUM Up 10%",
-   "link": "https://www.nasdaq.com/articles/blackstone-q3-net-income-rises-total-aum-10",
-   "summary": "(RTTNews) - Blackstone (BX) reported that third quarter earnings came in at $662.37 million, or $0.83 per share. This compares with $624.92 million, or $0.80 per share, last year. Fee Related Earnings was $1.6 billion or $1.26 per share in the quarter compared to $1.5 billion or",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-10-22T11:45:16+00:00",
-   "tickers": [
-    "BX"
-   ]
-  },
-  {
-   "id": "1c02c6693e5d",
-   "title": "Meta And Tesla Report, Nasdaq Plunges For The Wrong Reason",
-   "link": "https://seekingalpha.com/article/4956289-meta-and-tesla-report-nasdaq-plunges-for-the-wrong-reason?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "negative",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-22T11:45:10+00:00",
-   "tickers": [
-    "NDAQ",
-    "TSLA",
-    "META"
-   ]
-  },
-  {
-   "id": "f98931f5f06c",
-   "title": "Beijer Ref signals strong Q4 cash flow as Q3 organic growth accelerates to 8% and 4 acquisitions are signed",
-   "link": "https://seekingalpha.com/news/4655842-beijer-ref-signals-strong-q4-cash-flow-as-q3-organic-growth-accelerates-to-8-percent-and-4?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-22T11:45:09+00:00",
-   "tickers": []
-  },
-  {
-   "id": "f3563f553c8e",
-   "title": "Sumitomo Realty & Development Co., - Depositary Receipt Price Target Decreased by 14.77% to $14.80",
-   "link": "https://www.nasdaq.com/articles/sumitomo-realty-development-co-depositary-receipt-price-target-decreased-1477-1480",
-   "summary": "The average one-year price target for Sumitomo Realty & Development Co., - Depositary Receipt (OTCPK:SURYY) has been revised to $14.80 / share. This is a decrease of 14.77% from the prior estimate of $17.37 dated June 8, 2026. These figures represent aggregate an",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "analyst",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-22T11:45:06+00:00",
-   "tickers": []
-  },
-  {
-   "id": "7b2886256a3c",
-   "title": "Las Vegas Sands Q3: Strength Beneath The Surface",
-   "link": "https://seekingalpha.com/article/4956273-las-vegas-sands-q3-strength-beneath-the-surface?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-22T11:45:00+00:00",
-   "tickers": [
-    "LVS"
-   ]
-  },
-  {
-   "id": "4cfc49015d80",
-   "title": "Delta: A Potential 'Buy' For Contrarians, A 'Hold' For Risk-Averse Investors",
-   "link": "https://seekingalpha.com/article/4955361-delta-a-potential-buy-for-contrarians-a-hold-for-risk-averse-investors?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-22T11:45:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "409aae55353d",
-   "title": "Why Are Americans Still Traveling Despite Rising Costs? New Data Points to Friends and Family",
-   "link": "https://www.prnewswire.com/news-releases/why-are-americans-still-traveling-despite-rising-costs-new-data-points-to-friends-and-family-302907259.html",
-   "summary": "ST. PETERSBURG, Fla., Oct. 22, 2026 /PRNewswire/ -- Even as travel costs hit record highs this year, Americans aren't backing away from their trips. Squaremouth's Q3 2026 data shows insured trips up 12.9% year over year, with an average trip costing more than $7,400. But what's driving...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-22T11:45:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "c7dd0ced2fca",
-   "title": "Huntington Bancshares falls on sequential decline in Q3 earnings, reduced 2026 guidance",
-   "link": "https://seekingalpha.com/news/4655798-huntington-bancshares-falls-on-sequential-decline-in-q3-earnings-reduced-2026-guidance?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "earnings",
-   "sentiment": "negative",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-22T11:44:12+00:00",
-   "tickers": [
-    "HBAN"
-   ]
-  },
-  {
-   "id": "03a8003d1e63",
-   "title": "Service Stream Limited (SSMZF) Shareholder/Analyst Call Prepared Remarks Transcript",
-   "link": "https://seekingalpha.com/article/4956307-service-stream-limited-ssmzf-shareholder-analyst-call-prepared-remarks-transcript?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-22T11:44:08+00:00",
-   "tickers": [
-    "SCI"
-   ]
-  },
-  {
-   "id": "b22593e077ef",
-   "title": "Beijer Ref AB (publ) (BEJEF) Q3 2026 Earnings Call Transcript",
-   "link": "https://seekingalpha.com/article/4956310-beijer-ref-ab-publ-bejef-q3-2026-earnings-call-transcript?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-22T11:44:03+00:00",
-   "tickers": []
-  },
-  {
-   "id": "1ee9e1ee8c30",
-   "title": "Smartee beleuchtet beim SIDO-Kongress 2026 klinische Ansätze für komplexe Klasse-II-Fälle",
-   "link": "https://www.prnewswire.com/news-releases/smartee-beleuchtet-beim-sido-kongress-2026-klinische-ansatze-fur-komplexe-klasse-ii-falle-302916878.html",
-   "summary": "TURIN, Italien, 22. Oktober 2026 /PRNewswire/ -- Smartee Denti-Technology nahm am 57. Internationalen SIDO-Kongress teil, der vom 8. bis 10. Oktober in Turin stattfand, und tauschte sich mit Fachleuten aus der Kieferorthopädie über das Management komplexer Fälle sowie die sich wandelnde...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-22T11:44:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "66ea146db5f3",
-   "title": "Allegion plc Reports Q3 2026 Financial Results and Raises Full-Year Outlook",
-   "link": "https://www.nasdaq.com/articles/allegion-plc-reports-q3-2026-financial-results-and-raises-full-year-outlook",
-   "summary": "Allegion plc reported its third-quarter 2026 financial results, with net revenues of $1,172.6 million, representing a 9.6% increase on a reported basis and a 7.2% increase on an organic basis. Net earnings for the quarter reached $220.9 million, or $2.59 per share, compared with",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-10-22T11:43:52+00:00",
-   "tickers": [
-    "ALLE"
-   ]
-  },
-  {
-   "id": "2bf26f8afc22",
-   "title": "DoubleLine ETF Trust - DoubleLine Shiller CAPE U.S. Equities ETF Files Barclays Bank PLC Q3 2026 Pillar 3 Report",
-   "link": "https://www.nasdaq.com/articles/doubleline-etf-trust-doubleline-shiller-cape-us-equities-etf-files-barclays-bank-plc-q3",
-   "summary": "Barclays Bank PLC, in a report associated with DoubleLine ETF Trust - DoubleLine Shiller CAPE U.S. Equities ETF, announced the publication of its Pillar 3 Report for 30 September 2026. The Q3 2026 Pillar 3 Report has been made available on the Barclays website.As at 30 September",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-22T11:43:43+00:00",
-   "tickers": [
-    "BCS"
-   ]
-  },
-  {
-   "id": "e7c66788b543",
-   "title": "Ecopetrol S.A. Appoints Armando José Cuello Navarro as Executive Vice President of Energy Transition",
-   "link": "https://www.nasdaq.com/articles/ecopetrol-sa-appoints-armando-jose-cuello-navarro-executive-vice-president-energy",
-   "summary": "Ecopetrol S.A. announced that its Board of Directors has appointed Armando José Cuello Navarro as Executive Vice President of Energy Transition. He is expected to join the Company's executive leadership team no later than October 27, 2026, as part of the strategy to streng",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-22T11:43:34+00:00",
-   "tickers": []
-  },
-  {
-   "id": "691f616af88d",
-   "title": "TTM Technologies shares fall amid expanding debt load",
-   "link": "https://seekingalpha.com/news/4655838-ttm-technologies-shares-fall-amid-expanding-debt-load?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "negative",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-22T11:43:30+00:00",
-   "tickers": [
-    "TTMI"
-   ]
-  },
-  {
-   "id": "4ec783038be5",
-   "title": "FORT POINT CAPITAL EXITS INVESTMENT IN PORTFOLIO COMPANY, AMS FULFILLMENT",
-   "link": "https://www.prnewswire.com/news-releases/fort-point-capital-exits-investment-in-portfolio-company-ams-fulfillment-302916036.html",
-   "summary": "BOSTON, Oct. 22, 2026 /PRNewswire/ -- Fort Point Capital (\"Fort Point\"), a Boston-based private equity firm that invests in service-oriented businesses in the lower middle market, announced today that it has successfully completed the sale of its investment in AMS Fulfillment (\"AMS\" or...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-22T11:42:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "7870039a1332",
-   "title": "Tractor Supply says comparable sales improved sequentially in Q3",
-   "link": "https://seekingalpha.com/news/4655839-tractor-supply-says-comparable-sales-improved-sequentially-in-q3?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-22T11:41:52+00:00",
-   "tickers": [
-    "TSCO"
-   ]
-  },
-  {
-   "id": "61212bdd34dd",
-   "title": "Convr Expands Cyber Insurance Underwriting as Customer Adoption Grows",
-   "link": "https://www.prnewswire.com/news-releases/convr-expands-cyber-insurance-underwriting-as-customer-adoption-grows-302916139.html",
-   "summary": "CHICAGO, Oct. 22, 2026 /PRNewswire/ -- Convr® a technology provider serving the insurance industry with AI-native commercial underwriting solutions, today announced that commercial insurance underwriting teams are now managing cyber insurance within the Convr AI underwriting workbench....",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "press",
-   "sentiment": "positive",
-   "domain": "prnewswire.com",
-   "published": "2026-10-22T11:41:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "86cd93e15b42",
-   "title": "Światowy debiut nowego TIGGO7 i TIGGOX7 podczas Wieczoru marki CHERY pod hasłem „Razem. Dla rodziny\"",
-   "link": "https://www.prnewswire.com/news-releases/wiatowy-debiut-nowego-tiggo7-i-tiggox7-podczas-wieczoru-marki-chery-pod-hasem-razem-dla-rodziny-302916875.html",
-   "summary": "WUHU (Chiny), 22 października 2026 r. /PRNewswire/ -- 21 października podczas Wieczoru marki CHERY w Wuhu w prowincji Anhui spotkały się rodziny z całego świata. Wydarzenie odbywało się pod hasłem „Razem. Dla rodziny\". Ich historie towarzyszyły światowym premierom nowego TIGGO7 i TIGGOX7...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-22T11:41:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "5e58d3ad3511",
-   "title": "World's largest wealth fund posts $30 billion loss after bond market turbulence",
-   "link": "https://biztoc.com/x/ab4ad2bce7347ee1?ref=rss",
-   "summary": "Norway's sovereign wealth fund — the largest in the world — said Thursday that its investment portfolio delivered a loss of $30 billion in the third quarter, as rising interest rates dented returns on its bond holdings. Norges Bank Investment Management (NBIM), which manages the $2.3 trillion…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-10-22T11:39:18+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6a0694ce67a5",
-   "title": "Toothpaste recall for more than 4 million tubes includes ones for kids",
-   "link": "https://biztoc.com/x/e2b1e29e37d7baea?ref=rss",
-   "summary": "Access Denied You don't have permission to access \"\" on this server. Reference #18.921c2117.1792669125.524e19b",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-10-22T11:39:09+00:00",
-   "tickers": []
-  },
-  {
-   "id": "f49e61e57210",
-   "title": "P&G tops revenue estimates, expects bigger annual profit hit from commodity costs",
-   "link": "https://biztoc.com/x/73fd7af929486dd3?ref=rss",
-   "summary": "Procter & Gamble PG-N on Thursday warned of a profit hit from higher commodity-related costs this year, even as first-quarter sales beat Wall Street estimates, helped by demand for its beauty and home-care products. The Pantene shampoo maker now expects higher raw material, energy and…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-10-22T11:39:08+00:00",
-   "tickers": [
-    "PG"
-   ]
-  },
-  {
-   "id": "292ce5c23ac5",
-   "title": "BioNTech, Gilead to test drug combination in advanced breast cancer trial",
-   "link": "https://biztoc.com/x/e56ddf0f669e19f8?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-22T11:39:03+00:00",
-   "tickers": [
-    "BNTX",
-    "GILD"
-   ]
-  },
-  {
-   "id": "42cae59c108c",
-   "title": "AprilAire Launches TriPure™ Technology for Homeowners Focused on Indoor Air Quality",
-   "link": "https://www.prnewswire.com/news-releases/aprilaire-launches-tripure-technology-for-homeowners-focused-on-indoor-air-quality-302916306.html",
-   "summary": "-New professional-grade filters capture more contaminants while maintaining HVAC efficiency and filter life- MADISON, Wis., Oct. 22, 2026 /PRNewswire/ -- AprilAire, a leader in professional-grade indoor air quality solutions, today announced the launch of its new line of residential air...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "positive",
-   "domain": "prnewswire.com",
-   "published": "2026-10-22T11:39:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "bd18b7c1f0b1",
-   "title": "Late detection in Nigeria raises alarm as Ebola spreads across Africa",
-   "link": "https://biztoc.com/x/51b2f31e8ef46353?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-10-22T11:38:53+00:00",
-   "tickers": []
-  },
-  {
-   "id": "179ee5bff0b4",
-   "title": "Bernie Moreno Pushes to Expand Trump’s Investment Accounts to Americans Under 40, Calls Proposal a ‘Game-Changer’Sen. Bernie Moreno plans to expand Trump Accounts to Americans under 40, supporting homeownership and long-term wealth",
-   "link": "https://biztoc.com/x/dd8dc4b6ef58421a?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-10-22T11:38:29+00:00",
-   "tickers": []
-  },
-  {
-   "id": "f9629eee488b",
-   "title": "Nebius Stock Alert: I’m Watching This 43% Crash as AI Bubble Fears Return",
-   "link": "https://biztoc.com/x/99a3a78c9155c4de?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-10-22T11:38:27+00:00",
-   "tickers": []
-  },
-  {
-   "id": "53154e0341bc",
-   "title": "Wall Street's Most Accurate Analysts Give Their Take On 3 Financial Stocks Delivering High-Dividend YieldsAnalysts review three high-yield financial stocks: Western Union (15.04%), Trinity Capital (12.61%) and Walker & Dunlop (8.27%)., Wall Street's Most Accurate Analysts Give Their Take On 3 Financial Stocks Delivering High-Dividend Yields",
-   "link": "https://biztoc.com/x/4c9730cb360edfc2?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "dividend",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-10-22T11:38:21+00:00",
-   "tickers": []
-  },
-  {
-   "id": "5d224ad11f63",
-   "title": "Procter & Gamble earnings beat as sales rise 4%, boosted by laundry and home products",
-   "link": "https://biztoc.com/x/635f43d0a5c48256?ref=rss",
-   "summary": "Procter & Gamble topped Wall Street's estimates for its quarterly earnings and revenue.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-10-22T11:38:19+00:00",
-   "tickers": [
-    "PG"
-   ]
-  },
-  {
-   "id": "b61690c281e1",
-   "title": "Gresham House CEO: ‘Bureaucracy’ is stifling the UK",
-   "link": "https://biztoc.com/x/15aaee93d7640070?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-22T11:38:19+00:00",
-   "tickers": []
-  },
-  {
-   "id": "edd3671549d9",
-   "title": "Sakharov Prize given to ICC and its officials",
-   "link": "https://biztoc.com/x/650e34e6f6eac525?ref=rss",
-   "summary": "The European Parliament announced on Thursday that it had decided to award the 2026 Sakharov Prize for Freedom of Thought to the International Criminal Court (ICC) and its officials.In its official st...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-22T11:38:18+00:00",
-   "tickers": []
-  },
-  {
-   "id": "2a799c639b8f",
-   "title": "Old Dominion Freight Line Earnings Preview: What to Expect",
-   "link": "https://biztoc.com/x/d14c7d1dbb288557?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-22T11:38:13+00:00",
-   "tickers": [
-    "ODFL"
-   ]
-  },
-  {
-   "id": "7786975677d8",
-   "title": "American Airlines Forecasts Another Quarterly Loss on Surging Fuel Costs",
-   "link": "https://biztoc.com/x/a951e1e315cd7797?ref=rss",
-   "summary": "The carrier said revenue is projected to climb 20% to 23% in the fourth quarter, during which it is also on track to post an adjusted loss of 50 cents to $1.10 a share.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "earnings",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-10-22T11:38:09+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ecd033b94e09",
-   "title": "This teacherless school says AI can teach students in 2 hours a day",
-   "link": "https://biztoc.com/x/39e33cb02219b692?ref=rss",
-   "summary": "Zane Shah arrives at school at 8:45 a.m., greets his friends and stores his backpack in the assigned cubby. It could be any middle school morning. But one thing about Shah's school is different: There are no traditional teachers. Shah, 13, is an eighth grader at Alpha School, a network of private,…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-22T11:38:08+00:00",
-   "tickers": []
-  },
-  {
-   "id": "293bb5ab2851",
-   "title": "Apple Has Joined the $5 Trillion Club. Its Holiday Quarter Now Faces a Big Test",
-   "link": "https://biztoc.com/x/d669d47e748aa71d?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-22T11:38:08+00:00",
-   "tickers": [
-    "AAPL"
-   ]
-  },
-  {
-   "id": "6d55d36cbbbb",
-   "title": "S&P 500 Futures Decline in Premarket Trading; Intercorp Finl Svcs, Allegion Lead",
-   "link": "https://biztoc.com/x/d93af75a2c9f9eb1?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-22T11:38:08+00:00",
-   "tickers": [
-    "ALLE"
-   ]
-  },
-  {
-   "id": "dc718dfcd368",
-   "title": "Dow Q3 Net Sales Climb",
-   "link": "https://www.nasdaq.com/articles/dow-q3-net-sales-climb",
-   "summary": "(RTTNews) - Dow Inc. (DOW) on Thursday reported a rise in net sales for the third-quarter of fiscal 2026, helped by the improved performance of all segments of the company. In addition, Dow reported a rise in net income.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-10-22T11:38:08+00:00",
-   "tickers": [
-    "DOW"
-   ]
-  },
-  {
-   "id": "290ce18cffea",
-   "title": "Mark Cuban sees a new way to compete with China",
-   "link": "https://biztoc.com/x/e8257552aec3da63?ref=rss",
-   "summary": "The argument over whether America can build its own machines again has dragged on for years, and the price tags tossed around have often sounded absurd. Back in May 2025, Wedbush analyst Dan Ives projected more than $3,000 as a possible price for an iPhone made in the U.S., as reported by…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-22T11:38:06+00:00",
-   "tickers": [
-    "AAPL"
-   ]
-  },
-  {
-   "id": "d2e934464c18",
-   "title": "Border Patrol At Early Voting Site in Florida Prompts FBI Compalint",
-   "link": "https://biztoc.com/x/1926da1f3f7041a4?ref=rss",
-   "summary": "Two U.S. Border Patrol (CBP) vehicles briefly parked outside an early voting site in Leon County, Florida, prompting the county’s elections supervisor to file a formal complaint with the FBI, a local official said. The vehicles arrived outside the county’s busiest early voting site of Northeast…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-22T11:38:06+00:00",
-   "tickers": []
-  },
-  {
-   "id": "2fe7efbe26d6",
-   "title": "Barclays to slash 5,000 jobs in AI efficiency push",
-   "link": "https://www.cnbc.com/2026/10/22/barclays-ai-jobs-cuts.html",
-   "summary": "U.K. banks Barclays said Thursday it plans to cut 5,000 staff, citing efficiency savings from AI.",
-   "article_text": "Barclays to slash 5,000 jobs in AI efficiency push Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Key Points Barclays plans to cut 5,000 jobs, about 5% of its workforce, as it uses AI and technology to streamline operations. Layoffs are expected to fall mainly in support functions, with the bank seeing fewer developer roles. Third-quarter pretax profits at the London-listed lender came in at £2.3 billion, with group income at £7.4 billion. In this article BCS Follow your favorite stocks CREATE FREE ACCOUNT British lender Barclays has revealed plans to cut 5,000 jobs — about 5% of its total workforce — as part of an artificial intelligence-linked efficiency push. In its third-quarter earnings statement Thursday, Barclays said it was \"structurally reducing the cost base to generate capacity for investment.\" About 60% of the cuts are expected to be in support functions, including developers, according to the earnings presentation, which also noted an outcome was \"organisational simplification and technology change efficiency driven by AI.\" watch now VIDEO 8:32 08:32 Barclays CEO outlines the three forces to watch in the bond market Squawk Box Europe Shares in the bank were almost 1% lower by 8:50 a.m. in London (3:50 a.m. E.T.), less than an hour into the trading day. Barclays' third-quarter pre-tax profit rose 12% year on year to £2.3 billion ($3.1 billion), matching LSEG-compiled forecasts. Group income for the period was £7.4 billion, below analysts' estimate of £7.61 billion. Barclays. Net interest income was broadly unchanged at £3.91 billion. Its CET1 capital ratio, a measure of financial solvency, edged down to 14.2% from 14.3% at the end of the second quarter. Return on tangible equity fell to 11.7% from 16.1%. Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-10-22T11:38:05+00:00",
-   "tickers": [
-    "BCS"
-   ]
-  },
-  {
-   "id": "3dcc20658613",
-   "title": "Tesla is falling even after earnings. What analysts are saying",
-   "link": "https://www.cnbc.com/2026/10/22/tesla-q3-2026-earnings-analysts.html",
-   "summary": "Tesla is pulling back after reporting its latest quarterly financial results. Here's what analysts are saying about the stock.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-10-22T11:38:03+00:00",
-   "tickers": [
-    "TSLA"
-   ]
-  },
-  {
-   "id": "8435fc1c7fb6",
-   "title": "How Middleton’s revival could be grist to the mill for Britain’s struggling towns",
-   "link": "https://biztoc.com/x/e3099e6466563a65?ref=rss",
-   "summary": "Turnaround initiated by Andy Burnham and led by Steve Coogan could provide blueprint for other neglected areas The former England footballer Paul Scholes and the actor Steve Coogan stare out from beside a fish and chip shop in Middleton, near Manchester. Looming over a mural of the pair – and the…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-22T11:38:03+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e8e2cd6a4445",
-   "title": "Trump Deserves the Political Blowback for Inflation",
-   "link": "https://biztoc.com/x/ce12e8848f9eed16?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-22T11:38:02+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b41e649028c6",
-   "title": "Montega Initiates Sponsored Equity Research Coverage of Agilyx",
-   "link": "https://www.prnewswire.com/news-releases/montega-initiates-sponsored-equity-research-coverage-of-agilyx-302916871.html",
-   "summary": "OSLO, Norway, Oct. 22, 2026 /PRNewswire/ -- Agilyx ASA (Euronext Oslo Børs: AGLX) (Börse Frankfurt: 5NQ) (US OTCQX: AGYXY) (\"Agilyx\" or the \"Company\") announces that Montega AG has initiated sponsored research of the Group and has published the initiation report. Its research includes...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-22T11:38:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "0c4e4aacd53e",
-   "title": "Coinbase's Ireland Arm Fined by Irish Central Bank Over Breaches",
-   "link": "https://biztoc.com/x/4f9e741ace094053?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-10-22T11:37:59+00:00",
-   "tickers": [
-    "COIN",
-    "ARM"
-   ]
-  },
-  {
-   "id": "a337e6a6fa72",
-   "title": "US Midterm Elections 2026: What Results Could Mean for Wall Street",
-   "link": "https://biztoc.com/x/e68d53e20d46a3c7?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-22T11:37:57+00:00",
-   "tickers": []
-  },
-  {
-   "id": "35be2ac14df0",
-   "title": "British Banking Giant Barclays Targets 5% Of Workforce In Cost-Cutting Drive",
-   "link": "https://biztoc.com/x/6e3c28910e90e12d?ref=rss",
-   "summary": "British banking giant Barclays plans to eliminate 5,000 jobs, roughly 5% of its workforce, as it pursues cost reductions and efficiency improvements linked partly to artificial intelligence. 💡 The bank disclosed the plans alongside its third-quarter earnings on Thursday. Around 60% of the…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-22T11:37:56+00:00",
-   "tickers": [
-    "BCS"
-   ]
-  },
-  {
-   "id": "3dbf46e38003",
-   "title": "France protests: Macron condemns 'stupid' comments from Trump, others as bond-market pressure builds",
-   "link": "https://biztoc.com/x/739d5014b87689e0?ref=rss",
-   "summary": "French President Emmanuel Macron has criticized \"unacceptable\" and \"stupid\" comments made by foreign leaders and others after the country saw mass protests and its worst rioting in years. \"There was foreign disinformation in the aftermath, which prompted comments that were as unacceptable as they…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-22T11:37:56+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8973,14 +8958,12 @@
   "VYMI": "Vanguard International High Dividend Yield ETF",
   "DB": "Deutsche Bank Aktiengesellschaft",
   "IBM": "International Business Machines",
-  "CTSH": "Cognizant Technology Solutions",
   "SEI": "Solaris Energy Infrastructure",
   "WST": "West Pharmaceutical Services",
   "FNF": "Fidelity National Financial",
   "QQQ": "Invesco QQQ Trust, Series 1",
   "ICE": "Intercontinental Exchange",
   "JEF": "Jefferies Financial Group",
-  "ODFL": "Old Dominion Freight Line",
   "TD": "The Toronto-Dominion Bank",
   "AAL": "American Airlines Group",
   "AEP": "American Electric Power",
@@ -8990,6 +8973,7 @@
   "EAT": "Brinker International",
   "HBAN": "Huntington Bancshares",
   "MSM": "MSC Industrial Direct",
+  "ORC": "Orchid Island Capital",
   "PLTR": "Palantir Technologies",
   "TDY": "Teledyne Technologies",
   "AMP": "Ameriprise Financial",
@@ -9001,13 +8985,13 @@
   "IP": "International Paper",
   "RNA": "Avidity Biosciences",
   "CACI": "CACI International",
-  "CSL": "Carlisle Companies",
   "IBN": "ICICI Bank Limited",
   "LUV": "Southwest Airlines",
   "MFC": "Manulife Financial",
   "NYT": "The New York Times",
   "PANW": "Palo Alto Networks",
   "ROP": "Roper Technologies",
+  "SIRI": "Sirius XM Holdings",
   "SPOT": "Spotify Technology",
   "DGX": "Quest Diagnostics",
   "HDB": "HDFC Bank Limited",
@@ -9026,27 +9010,33 @@
   "ACHR": "Archer Aviation",
   "AFRM": "Affirm Holdings",
   "ARES": "Ares Management",
+  "BAC": "Bank of America",
   "COIN": "Coinbase Global",
   "EXP": "Eagle Materials",
-  "GILD": "Gilead Sciences",
   "KRMN": "Karman Holdings",
   "LMT": "Lockheed Martin",
+  "LNG": "Cheniere Energy",
   "LVS": "Las Vegas Sands",
   "MRCY": "Mercury Systems",
+  "RRC": "Range Resources",
   "TRGP": "Targa Resources",
+  "TRI": "Thomson Reuters",
   "VRT": "Vertiv Holdings",
+  "WDC": "Western Digital",
   "DPZ": "Domino's Pizza",
   "HLI": "Houlihan Lokey",
   "META": "Meta Platforms",
-  "TSCO": "Tractor Supply",
   "USAR": "USA Rare Earth",
   "NET": "Cloudflare Inc",
   "HSBC": "HSBC Holdings",
   "IRM": "Iron Mountain",
   "KMI": "Kinder Morgan",
   "KO": "The Coca-Cola",
+  "LLY": "Eli Lilly and",
+  "POST": "Post Holdings",
   "UNP": "Union Pacific",
   "VLO": "Valero Energy",
+  "WFC": "Wells Fargo &",
   "MSTR": "MicroStrategy",
   "ADC": "Agree Realty",
   "DVLT": "Datavault AI",
@@ -9057,11 +9047,12 @@
   "WY": "Weyerhaeuser",
   "GOOGL": "Google Cloud",
   "TSLA": "Supercharger",
+  "NVDA": "Grace Hopper",
   "SLB": "Schlumberger",
-  "ARM": "Arm Holdings",
   "BKH": "Black Hills",
   "FE": "FirstEnergy",
   "LCID": "Lucid Group",
+  "XOM": "Exxon Mobil",
   "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
   "BX": "Blackstone",
@@ -9088,7 +9079,6 @@
   "RS": "Reliance",
   "SQ": "Cash App",
   "SNAP": "Snapchat",
-  "BNTX": "BioNTech",
   "FOX": "Fox Corp",
   "BPOP": "Popular",
   "CMCSA": "Comcast",
@@ -9111,7 +9101,6 @@
   "MAT": "Mattel",
   "NDAQ": "Nasdaq",
   "ORCL": "Oracle",
-  "QGEN": "Qiagen",
   "RMBS": "Rambus",
   "SPCX": "SpaceX",
   "ANTM": "Anthem",
