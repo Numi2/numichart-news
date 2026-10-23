@@ -1,8 +1,80 @@
 {
- "generated": "2026-10-23T04:52:28.063163+00:00",
+ "generated": "2026-10-23T04:59:43.757400+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "8791fb2a7912",
+   "title": "Wealthy Chinese move offshore money to U.S. banks as Beijing’s tax net widens",
+   "link": "https://www.cnbc.com/2026/10/23/wealthy-chinese-tax-offshore-trusts-capital-control-.html",
+   "summary": "Bankers and lawyers say Chinese clients' demand for U.S. bank accounts has gathered pace as Beijing tightens the screws on Chinese offshore wealth.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-10-23T04:55:59+00:00",
+   "tickers": []
+  },
+  {
+   "id": "30d0b79497a5",
+   "title": "Wake up! The long bond’s up two points!",
+   "link": "https://www.investing.com/news/economy-news/morning-bid-wake-up-the-long-bonds-up-two-points-4968015",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-23T04:54:30+00:00",
+   "tickers": []
+  },
+  {
+   "id": "8582baf8965c",
+   "title": "Georgiamune y Menarini Group suscriben un acuerdo de licencia y colaboración global exclusiva para GIM-621",
+   "link": "https://www.prnewswire.com/news-releases/georgiamune-y-menarini-group-suscriben-un-acuerdo-de-licencia-y-colaboracion-global-exclusiva-para-gim-621-302917775.html",
+   "summary": "- Georgiamune y Menarini Group suscriben un acuerdo de licencia y colaboración global exclusiva para GIM-621, un agente inmuno-oncológico oral pionero en su clase GIM-621 es una inmunoterapia de molécula pequeña de administración oral, pionera en su clase y en fase preclínica, con...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-10-23T04:53:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "24e38c6d7501",
+   "title": "Hilltop misses Q3 estimates",
+   "link": "https://seekingalpha.com/news/4656425-hilltop-misses-q3-estimates?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "earnings",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-23T04:52:03+00:00",
+   "tickers": []
+  },
+  {
+   "id": "88411ae4c64e",
+   "title": "Exclusive: Sygnum rolls out MultiSYG bitcoin loans as BTC hits 80% of collateral",
+   "link": "https://www.investing.com/news/cryptocurrency-news/exclusive-sygnum-rolls-out-multisyg-bitcoin-loans-as-btc-hits-80-of-collateral-4968017",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-23T04:50:16+00:00",
+   "tickers": [
+    "BTC"
+   ]
+  },
   {
    "id": "80a994f421a2",
    "title": "Boston Beer projects 2026 non-GAAP EPS of $9 to $10.50 while narrowing volume outlook to down mid-single digits",
@@ -31,6 +103,68 @@
    "published": "2026-10-23T04:48:19+00:00",
    "tickers": [
     "NEM"
+   ]
+  },
+  {
+   "id": "617d815a5d83",
+   "title": "Newmont Corporation (NEM) Q3 2026 Earnings Call Transcript",
+   "link": "https://seekingalpha.com/article/4956715-newmont-corporation-nem-q3-2026-earnings-call-transcript?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-23T04:47:19+00:00",
+   "tickers": [
+    "NEM"
+   ]
+  },
+  {
+   "id": "c1167f357008",
+   "title": "The Boston Beer Company, Inc. (SAM) Q3 2026 Earnings Call Transcript",
+   "link": "https://seekingalpha.com/article/4956707-the-boston-beer-company-inc-sam-q3-2026-earnings-call-transcript?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-23T04:47:15+00:00",
+   "tickers": []
+  },
+  {
+   "id": "66693ce9c92f",
+   "title": "DM individual aggregator sells $2.23M in Dutch Bros stock",
+   "link": "https://www.investing.com/news/insider-trading-news/dm-individual-aggregator-sells-223m-in-dutch-bros-stock-93CH-4968021",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-23T04:46:01+00:00",
+   "tickers": [
+    "BROS"
+   ]
+  },
+  {
+   "id": "cd254ba946db",
+   "title": "Dutch Bros executive chairman Travis Boersma sells $6.4m in stock",
+   "link": "https://www.investing.com/news/insider-trading-news/dutch-bros-executive-chairman-travis-boersma-sells-64m-in-stock-93CH-4968020",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-23T04:45:59+00:00",
+   "tickers": [
+    "BROS"
    ]
   },
   {
@@ -258,6 +392,20 @@
    "tickers": []
   },
   {
+   "id": "87c71efb9fd4",
+   "title": "Trump touts $270 mln Bombardier investment after threatening U.S. sales ban",
+   "link": "https://www.investing.com/news/stock-market-news/trump-touts-270-mln-bombardier-investment-after-threatening-us-sales-ban-4968016",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-23T04:36:51+00:00",
+   "tickers": []
+  },
+  {
    "id": "c5a098503fd6",
    "title": "CalPERS cuts Mag 7 tech holdings, shifts focus to private equity: FT",
    "link": "https://seekingalpha.com/news/4656420-calpers-cuts-mag-7-tech-holdings-shifts-focus-to-private-equity-ft?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -269,6 +417,20 @@
    "sentiment": "negative",
    "domain": "seekingalpha.com",
    "published": "2026-10-23T04:36:29+00:00",
+   "tickers": []
+  },
+  {
+   "id": "132f0eed47df",
+   "title": "Pony.ai partners with inDrive, Nvidia to launch robotaxis in Kazakhstan",
+   "link": "https://www.investing.com/news/stock-market-news/ponyai-partners-with-indrive-nvidia-to-launch-robotaxis-in-kazakhstan-4968014",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-23T04:35:36+00:00",
    "tickers": []
   },
   {
@@ -297,6 +459,20 @@
    "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-10-23T04:32:17+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c56990adb0d0",
+   "title": "U.S. plans curbs on Chinese tech investment- these sectors are vulnerable",
+   "link": "https://www.investing.com/news/stock-market-news/us-plans-curbs-on-chinese-tech-investment-these-sectors-are-vulnerable-93CH-4968011",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-23T04:31:30+00:00",
    "tickers": []
   },
   {
@@ -6300,20 +6476,6 @@
    "tickers": []
   },
   {
-   "id": "8791fb2a7912",
-   "title": "Wealthy Chinese move offshore money to U.S. banks as Beijing’s tax net widens",
-   "link": "https://www.cnbc.com/2026/10/23/wealthy-chinese-tax-offshore-trusts-capital-control-.html",
-   "summary": "Bankers and lawyers say Chinese clients' demand for U.S. bank accounts has gathered pace as Beijing tightens the screws on Chinese offshore wealth.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-10-23T01:23:12+00:00",
-   "tickers": []
-  },
-  {
    "id": "97eddcc2fd96",
    "title": "Why a Merger With Tesla Could Be a Disaster for SpaceX",
    "link": "https://www.nasdaq.com/articles/why-merger-tesla-could-be-disaster-spacex",
@@ -6336,7 +6498,7 @@
    "link": "https://www.prnewswire.com/news-releases/opportunity-finance-network-recognizes-outstanding-industry-leadership-at-ofn42-302917595.html",
    "summary": "The annual Opportunity Honors recognize the leading individuals and organizations in community development finance NEW ORLEANS, Oct. 22, 2026 /PRNewswire/ -- Opportunity Finance Network (OFN), the nation's leading investment intermediary and network of community development financial...",
    "article_text": "",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -8694,167 +8856,6 @@
    "domain": "biztoc.com",
    "published": "2026-10-23T00:09:50+00:00",
    "tickers": []
-  },
-  {
-   "id": "300cd8095473",
-   "title": "Musk donates another $76M to Republicans",
-   "link": "https://biztoc.com/x/96eecf383d87a651?ref=rss",
-   "summary": "More to come......",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-23T00:09:40+00:00",
-   "tickers": []
-  },
-  {
-   "id": "deb9fe036ad8",
-   "title": "Weil Gotshal Bleeds More Top Lawyers as It Holds Merger Talks",
-   "link": "https://biztoc.com/x/22587297136ca283?ref=rss",
-   "summary": "Partners are leaving for rivals including Sidley Austin and Davis Polk, increasing pressure on the law firm to secure its future.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "ma",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-10-23T00:09:40+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b7f784c7c2e9",
-   "title": "California Officials Blame 'Vendor Error' For Sending Thousands Of Duplicate Ballots",
-   "link": "https://biztoc.com/x/8f1f8d122344c931?ref=rss",
-   "summary": "California Officials Blame 'Vendor Error' For Sending Thousands Of Duplicate Ballots Authored by Luis Cornelio via Headline USA, A California county sent duplicate mail-in ballots to thousands of voters in what officials have characterized as a printing error, raising questions about election…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-23T00:09:39+00:00",
-   "tickers": []
-  },
-  {
-   "id": "672cd9dc0643",
-   "title": "Review & Preview: The Problem With Meta’s Earnings",
-   "link": "https://biztoc.com/x/fd40f66233c55b57?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-23T00:09:35+00:00",
-   "tickers": [
-    "META"
-   ]
-  },
-  {
-   "id": "b85142748e30",
-   "title": "Super Micro Has Lost 60.86% Since It Was Tapped for the S&P 500. Index Funds Like VOO Had to Buy It Anyway",
-   "link": "https://biztoc.com/x/c09e74ac0c5b820d?ref=rss",
-   "summary": "The post Super Micro Has Lost 60.86% Since It Was Tapped for the S&P 500. Index Funds Like VOO Had to Buy It Anyway appeared first on 24/7 Wall St.. On March 1, 2024, the day its addition to the S&P 500 was announced, Super Micro Computer (NASDAQ:SMCI) closed at a split-adjusted $90.55. As of…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-23T00:09:34+00:00",
-   "tickers": [
-    "SMCI",
-    "VOO"
-   ]
-  },
-  {
-   "id": "b56e4b3caa65",
-   "title": "Politicians Are Turning Against AI, but Your Pension Is Riding on It",
-   "link": "https://biztoc.com/x/6951126c00461cc5?ref=rss",
-   "summary": "AI-linked stocks drove $138 billion in gains across 13 public-pension funds since 2022, helping them dig out of losses from the last financial crisis.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-23T00:09:32+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b9f8ce2d5f9f",
-   "title": "Iran Threatens Wider Strikes on Economic and Civilian Targets if U.S. Attacks",
-   "link": "https://biztoc.com/x/6d934f9cdaba0621?ref=rss",
-   "summary": "Tehran retains missile and drone stockpiles, and Washington is trying to move more servicemembers and diplomatic staff out of harm’s way.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-23T00:09:31+00:00",
-   "tickers": []
-  },
-  {
-   "id": "849cce38133b",
-   "title": "Japan core inflation exceeds BOJ target, cements near-term rate hike chance",
-   "link": "https://biztoc.com/x/3d2816d659d2b07b?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-10-23T00:09:29+00:00",
-   "tickers": []
-  },
-  {
-   "id": "990506cc338c",
-   "title": "MaxLinear forecasts Q4 2026 revenue of $240M-$260M while raising 2026 optical data center outlook to $250M-$270M",
-   "link": "https://seekingalpha.com/news/4656379-maxlinear-forecasts-q4-2026-revenue-of-240m-260m-while-raising-2026-optical-data-center?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-23T00:08:15+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b32821a119ae",
-   "title": "MaxLinear, Inc. (MXL) Q3 2026 Earnings Call Transcript",
-   "link": "https://seekingalpha.com/article/4956691-maxlinear-inc-mxl-q3-2026-earnings-call-transcript?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-23T00:07:15+00:00",
-   "tickers": []
-  },
-  {
-   "id": "90be77124027",
-   "title": "Scage Future Announces Effective Date for ADS Ratio Change",
-   "link": "https://www.prnewswire.com/news-releases/scage-future-announces-effective-date-for-ads-ratio-change-302917128.html",
-   "summary": "NANJING, China, Oct. 22, 2026 /PRNewswire/ -- Scage Future (\"Scage Future\" or the \"Company\") (Nasdaq: SCAG), a provider of new energy and zero-emission heavy-duty commercial vehicles and e-fuel solutions, today announced the effective date and new CUSIP number for the previously announced...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-23T00:05:00+00:00",
-   "tickers": [
-    "NDAQ"
-   ]
   }
  ],
  "ticker_names": {
@@ -8883,7 +8884,6 @@
   "BIO": "Bio-Rad Laboratories",
   "PG": "The Procter & Gamble",
   "SMCI": "Super Micro Computer",
-  "VOO": "Vanguard S&P 500 ETF",
   "EXR": "Extra Space Storage",
   "FIX": "Comfort Systems USA",
   "MLI": "Mueller Industries",
@@ -8942,6 +8942,7 @@
   "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
   "AZN": "AstraZeneca",
+  "BROS": "Dutch Bros",
   "BX": "Blackstone",
   "CRM": "Salesforce",
   "PHM": "PulteGroup",
