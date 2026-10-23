@@ -1,8 +1,154 @@
 {
- "generated": "2026-10-23T11:40:06.966313+00:00",
+ "generated": "2026-10-23T11:48:27.469767+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "902a3efa7f6b",
+   "title": "A Tech Rotation Roils the Markets, Again",
+   "link": "https://www.nytimes.com/2026/10/23/business/dealbook/tech-rotation-nasdaq-ai.html",
+   "summary": "Investors are bracing for a one-two punch: rising oil prices and concerns about the soaring costs of the artificial intelligence buildout.",
+   "article_text": "",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-10-23T11:42:50+00:00",
+   "tickers": []
+  },
+  {
+   "id": "21f00c927344",
+   "title": "Stocks making the biggest moves premarket: AT&T, SpaceX, Moderna, Deckers, Bloom Energy and more",
+   "link": "https://www.cnbc.com/2026/10/23/stocks-making-the-biggest-moves-premarket-att-spacex-moderna-deckers-bloom-energy-and-more.html",
+   "summary": "These are the stocks posting the largest moves in early trading.",
+   "article_text": "Stocks making the biggest moves premarket: AT&T, SpaceX, Moderna, Deckers, Bloom Energy and more Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Check out the companies making headlines before the bell: Moderna – Shares are down 5.7% Friday morning after falling 25% on Thursday following a leak of partial data on its closely watched cancer vaccine developed with Merck . Both stocks faltered even though the full data which was released Thursday appeared meaningful for patients and positive relative to Wall Street expectations. Deckers – Shares of the shoemaker are down 6.7% after it reported fiscal second quarter earnings late Thursday that missed analyst expectations. Revenue for the quarter ended Sept. 30 was $1.43 billion compared to the $1.51 Wall Street was expecting. Revenue from top brands including HOKA and UGG missing FactSet expectations. Telecom stocks – Shares of AT & T dropped 4.2%, T-Mobile fell 4.3% while Verizon decreased 3.6% on a Bloomberg News report that SpaceX is in private talks to lease 80,000 cell towers. SpaceX is attempting to build the fourth nationwide wireless carrier by combining its Starlink direct-to-device network with ground infrastructure, Bloomberg reported, citing people familiar with discussions. Cell tower owners Crown Castle jumped 7.6% and American Tower popped 5.5%. Crown Castle is one of the companies involved in the talks, Bloomberg said. SpaceX — Shares of the Elon Musk space and AI company were also getting a boost from an upgrade on Wall Street. PhillipCapital double upgraded the shares to buy from sell, raising its price target all the way to $250 from $75, citing surprising gains for its AI business. The new price target represents a 70% gain from here. Bloom Energy – shares are down 2.5% after the energy technology solutions provider for data centers reported third quarter earnings late Thursday. Despite beating on the top and bottom line and raising its full-year 2026 earnings per share guidance, what stirred fear among investors was the reported negative free cash flow for the quarter.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-10-23T11:42:28+00:00",
+   "tickers": [
+    "MRNA",
+    "SPCX",
+    "T"
+   ]
+  },
+  {
+   "id": "eeddbfd3231f",
+   "title": "U.S. oil holds above $100, Brent at five-month high as Iran says it’s prepared for warfare",
+   "link": "https://www.cnbc.com/2026/10/23/oil-price-brent-wti-iran-war-saudi-arabia.html",
+   "summary": "U.S. President Donald Trump accused Iran on Thursday of trying to manipulate the oil market.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-10-23T11:39:59+00:00",
+   "tickers": []
+  },
+  {
+   "id": "111e8e2bdcfd",
+   "title": "Revolution's Rasonque improves survival across subgroups in pancreatic cancer patients",
+   "link": "https://biztoc.com/x/a5813027e914493d?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-23T11:39:44+00:00",
+   "tickers": []
+  },
+  {
+   "id": "cd7bdba225c8",
+   "title": "A.I. and New Rules for Accounting Are an Opportunity for Start-Ups",
+   "link": "https://www.nytimes.com/2026/10/23/business/dealbook/pennylane-ai-accounting-france.html",
+   "summary": "Pennylane, a French company, has gained market share in its home country by helping accountants work with clients. It’s aiming to expand internationally.",
+   "article_text": "",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-10-23T11:39:37+00:00",
+   "tickers": []
+  },
+  {
+   "id": "bd7f50eac896",
+   "title": "Bond dealers see small rise in UK debt issuance after budget, more in 2027",
+   "link": "https://biztoc.com/x/a6fab40dd5108a92?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-10-23T11:39:36+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a8d7812c1df2",
+   "title": "Novartis' breast cancer drug cuts risk of death by 19% after six years, data shows",
+   "link": "https://biztoc.com/x/bb3001ecbeb9b534?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-10-23T11:39:28+00:00",
+   "tickers": [
+    "NVS"
+   ]
+  },
+  {
+   "id": "35a1918edf29",
+   "title": "British jets join French nuclear exercise for first time, France says",
+   "link": "https://biztoc.com/x/e6a2d39a47776a5f?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-23T11:39:12+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a64849ab2101",
+   "title": "UK tells public to keep three days' emergency supplies at home",
+   "link": "https://biztoc.com/x/d905c39c80eea0a5?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-23T11:38:39+00:00",
+   "tickers": []
+  },
+  {
+   "id": "15cb4a809ca0",
+   "title": "MPLX Is Paying Me 7.4% To Wait For A Distribution Raise That Is Already Funded",
+   "link": "https://seekingalpha.com/article/4956861-mplx-paying-me-7_4-percent-to-wait-for-distribution-raise-already-funded?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-23T11:38:33+00:00",
+   "tickers": []
+  },
   {
    "id": "e73b5f799121",
    "title": "Netflix Stock Tanks 5% as Revenue Growth Slows in Q3. How to Play NFLX Here",
@@ -402,6 +548,36 @@
    "tickers": []
   },
   {
+   "id": "926a78ff9e31",
+   "title": "GrafTech International Ltd. Q3 Loss Climbs",
+   "link": "https://www.nasdaq.com/articles/graftech-international-ltd-q3-loss-climbs",
+   "summary": "(RTTNews) - GrafTech International Ltd. (EAF) revealed Loss for its third quarter of -$46.768 million",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-23T11:37:06+00:00",
+   "tickers": []
+  },
+  {
+   "id": "22abb9836877",
+   "title": "Booz Allen Hamilton Raises FY27 Adj. EPS Guidance",
+   "link": "https://www.nasdaq.com/articles/booz-allen-hamilton-raises-fy27-adj-eps-guidance",
+   "summary": "(RTTNews) - Booz Allen Hamilton Holding Corporation (BAH), the parent company of Booz Allen Hamilton Inc., said, for fiscal 2027, the company now expects adjusted EPS in a range of $6.50 - $6.70, revised from prior guidance range of $6.00 - $6.35. Adjusted EBITDA is now projected",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-10-23T11:37:02+00:00",
+   "tickers": [
+    "BAH"
+   ]
+  },
+  {
    "id": "436db6bc0f41",
    "title": "Rishika Kaundal, MD, Introduces Hybrid Choice™ Concierge Program Through Concierge Choice Physicians",
    "link": "https://www.prnewswire.com/news-releases/rishika-kaundal-md-introduces-hybrid-choice-concierge-program-through-concierge-choice-physicians-302916995.html",
@@ -640,6 +816,22 @@
    ]
   },
   {
+   "id": "09c70805b6c3",
+   "title": "American Express Boosts FY26 Earnings Outlook - Update",
+   "link": "https://www.nasdaq.com/articles/american-express-boosts-fy26-earnings-outlook-update",
+   "summary": "(RTTNews) - While reporting financial results for the third quarter on Friday, integrated payments company American Express Co. (AXP) raised its earnings guidance for the full-year 2026, while maintaining annual revenue growth outlook.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-10-23T11:26:09+00:00",
+   "tickers": [
+    "AXP"
+   ]
+  },
+  {
    "id": "3a3909648717",
    "title": "Yara Q3 2026 slides: ROIC gains offset by gas cost pressures",
    "link": "https://www.investing.com/news/company-news/yara-q3-2026-slides-roic-gains-offset-by-gas-cost-pressures-93CH-4969004",
@@ -651,6 +843,20 @@
    "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-10-23T11:25:12+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a8e5354f4821",
+   "title": "argenx: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/argenx-3-key-takeaways-long-term-investors",
+   "summary": "Key PointsProduct net sales reached $1.7 billion, growing 54% year over year.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-23T11:25:02+00:00",
    "tickers": []
   },
   {
@@ -1067,6 +1273,39 @@
    "tickers": []
   },
   {
+   "id": "8f50ea3707bb",
+   "title": "Even With SOXX and DRAM Down Between 24% and 42% From Their Highs, I'd Still Rather Buy This Vanguard ETF for Semiconductor Stock Exposure",
+   "link": "https://www.nasdaq.com/articles/even-soxx-and-dram-down-between-24-and-42-their-highs-id-still-rather-buy-vanguard-etf",
+   "summary": "Key PointsMicron, Samsung Electronics, and SK Hynix are driving gains in the Roundhill Memory ETF.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-23T11:20:00+00:00",
+   "tickers": [
+    "VYMI",
+    "SOXX"
+   ]
+  },
+  {
+   "id": "2a4358d400e2",
+   "title": "American Express Co. Q3 Profit Climbs",
+   "link": "https://www.nasdaq.com/articles/american-express-co-q3-profit-climbs",
+   "summary": "(RTTNews) - American Express Co. (AXP) announced earnings for its third quarter that Increases, from last year",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-10-23T11:19:40+00:00",
+   "tickers": [
+    "AXP"
+   ]
+  },
+  {
    "id": "23615febfd96",
    "title": "Exclusive-First Russian diesel from Putin-Trump deal heading for US, data shows",
    "link": "https://www.investing.com/news/economic-indicators/exclusivetanker-carrying-40000-t-of-russian-diesel-heads-to-new-york-after-putintrump-deal-data-shows-4968099",
@@ -1123,6 +1362,37 @@
    "domain": "seekingalpha.com",
    "published": "2026-10-23T11:18:25+00:00",
    "tickers": []
+  },
+  {
+   "id": "94ed54887670",
+   "title": "French Benchmark Weakens On Earnings, Economic Contraction",
+   "link": "https://www.nasdaq.com/articles/french-benchmark-weakens-earnings-economic-contraction",
+   "summary": "(RTTNews) - France's equity benchmark CAC 40 shed ground on Friday with investors making cautious moves, reacting to corporate earnings updates and flash data showing a contraction in the nation's services sector activity in the month of October. Concerns over fiscal woes and wor",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-23T11:18:19+00:00",
+   "tickers": []
+  },
+  {
+   "id": "fc45fd1144d4",
+   "title": "First Citizens BancShares Q3 Profit Rises, Net Interest Income Drops; Plans $1.2 Bln Share Buyback",
+   "link": "https://www.nasdaq.com/articles/first-citizens-bancshares-q3-profit-rises-net-interest-income-drops-plans-12-bln-share",
+   "summary": "(RTTNews) - First Citizens Bancshares Inc. (FCNCA) reported Friday higher profit in its third quarter, despite lower net interest income.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-23T11:18:10+00:00",
+   "tickers": [
+    "FCNCA",
+    "CFG"
+   ]
   },
   {
    "id": "f1deb1428447",
@@ -1285,6 +1555,20 @@
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
    "published": "2026-10-23T11:15:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "4a1373500632",
+   "title": "Rogers Communications Inc. Announces Retreat In Q3 Profit",
+   "link": "https://www.nasdaq.com/articles/rogers-communications-inc-announces-retreat-q3-profit",
+   "summary": "(RTTNews) - Rogers Communications Inc. (RCI_A.TO) reported a profit for third quarter that Drops, from the same period last year",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-10-23T11:13:00+00:00",
    "tickers": []
   },
   {
@@ -2539,6 +2823,22 @@
    "tickers": []
   },
   {
+   "id": "facb254b55c2",
+   "title": "Hewlett Packard Enterprise Company - Preferred Security Price Target Increased by 14.18% to $187.61",
+   "link": "https://www.nasdaq.com/articles/hewlett-packard-enterprise-company-preferred-security-price-target-increased-1418-18761",
+   "summary": "The average one-year price target for Hewlett Packard Enterprise Company - Preferred Security (NYSE:HPE.PRC) has been revised to $187.61 per share, as of October 22, 2026. This is an increase of 14.18% from the prior estimate of $164.32 dated June 8, 2026. These",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "analyst",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-23T10:58:20+00:00",
+   "tickers": [
+    "HPE"
+   ]
+  },
+  {
    "id": "347a3c911d21",
    "title": "SLB N.V. Announces Decline In Q3 Income",
    "link": "https://www.nasdaq.com/articles/slb-nv-announces-decline-q3-income",
@@ -2824,20 +3124,6 @@
    "sentiment": "neutral",
    "domain": "biztoc.com",
    "published": "2026-10-23T10:51:46+00:00",
-   "tickers": []
-  },
-  {
-   "id": "eeddbfd3231f",
-   "title": "U.S. oil holds above $100, Brent at five-month high as Iran says it’s prepared for warfare",
-   "link": "https://www.cnbc.com/2026/10/23/oil-price-brent-wti-iran-war-saudi-arabia.html",
-   "summary": "U.S. President Donald Trump accused Iran on Thursday of trying to manipulate the oil market.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-10-23T10:51:41+00:00",
    "tickers": []
   },
   {
@@ -8583,287 +8869,11 @@
     "MRNA",
     "DECK"
    ]
-  },
-  {
-   "id": "dbc30cfa1630",
-   "title": "NCAB Group AB (publ) 2026 Q3 - Results - Earnings Call Presentation",
-   "link": "https://seekingalpha.com/article/4956826-ncab-group-ab-publ-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-23T09:01:03+00:00",
-   "tickers": []
-  },
-  {
-   "id": "25a72e4675ff",
-   "title": "Malteurop erwirbt die Mälzerei der Chunlei Malting Co. - Eine strategische Investition, die das Geschäft des Unternehmens erheblich ausweitet und seine Position auf den Exportmärkten stärkt",
-   "link": "https://www.prnewswire.com/news-releases/malteurop-erwirbt-die-malzerei-der-chunlei-malting-co---eine-strategische-investition-die-das-geschaft-des-unternehmens-erheblich-ausweitet-und-seine-position-auf-den-exportmarkten-starkt-302917933.html",
-   "summary": "YANCHENG, China, 23. Oktober 2026 /PRNewswire/ -- Die Genossenschaftsgruppe VIVESCIA und ihr Mälzereigeschäft haben die Übernahme des Werks der Chunlei Malting Co. bekannt gegeben. Mit einer jährlichen Produktionskapazität von 220.000 Tonnen Malz, was zur Herstellung von 2 Milliarden...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-23T09:01:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e52c3028528e",
-   "title": "Camping World Holdings Consensus Price Target Decreased by 14.34% to $9.05",
-   "link": "https://www.nasdaq.com/articles/camping-world-holdings-consensus-price-target-decreased-1434-905",
-   "summary": "The average one-year price target for Camping World Holdings (NYSE:CWH) (LSE:0HSU) has been revised to $9.05 / share. This is a decrease of 14.34% from the prior estimate of $10.56 dated September 29, 2026. These figures represent aggregate analyst targets compiled by Fintel, rat",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "analyst",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-23T09:00:51+00:00",
-   "tickers": []
-  },
-  {
-   "id": "9f22db58adb6",
-   "title": "Intrum AB (publ) 2026 Q3 - Results - Earnings Call Presentation",
-   "link": "https://seekingalpha.com/article/4956825-intrum-ab-publ-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-23T09:00:44+00:00",
-   "tickers": []
-  },
-  {
-   "id": "1a39505c19d3",
-   "title": "Melanoma Vaccine Ushers in New Hope for Cancer Patients",
-   "link": "https://www.nytimes.com/2026/10/23/well/first-of-its-kind-vaccine-ushers-in-new-hope-for-cancer-patients.html",
-   "summary": "Beyond melanoma, scientists are studying cancer vaccines for glioblastoma, pancreatic cancer and more.",
-   "article_text": "",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "nytimes.com",
-   "published": "2026-10-23T09:00:38+00:00",
-   "tickers": []
-  },
-  {
-   "id": "bfffa21653b4",
-   "title": "Best Business Utility Comparison Service UK (2026): Love Business Recognised for Helping SMEs Compare and Switch Suppliers by Better Business Advice",
-   "link": "https://www.prnewswire.com/news-releases/best-business-utility-comparison-service-uk-2026-love-business-recognised-for-helping-smes-compare-and-switch-suppliers-by-better-business-advice-302917833.html",
-   "summary": "NEW YORK, Oct. 23, 2026 /PRNewswire/ -- Better Business Advice has named Love Business in its 2026 coverage of UK business utility comparison services. The review examines Love Business and its comparison and switching service for business energy, broadband, commercial water, phone lines,...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-23T09:00:00+00:00",
-   "tickers": [
-    "SCI"
-   ]
-  },
-  {
-   "id": "b5ad16ee3627",
-   "title": "JGTD 2026 CONNECTS GLOBAL JEWELLERY TRADE WITH BUSINESS OPPORTUNITIES ACROSS THE MIDDLE EAST",
-   "link": "https://www.prnewswire.com/news-releases/jgtd-2026-connects-global-jewellery-trade-with-business-opportunities-across-the-middle-east-302917198.html",
-   "summary": "Middle East's largest B2B jewellery sourcing event returns next week for its fifth edition at DEC Expo City Dubai, alongside Dubai Diamond Week, bringing together strategic dialogue and international sourcing opportunities. DUBAI, UAE, Oct. 23, 2026 /PRNewswire/ -- Around 300 exhibiting...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-23T09:00:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6425d9f13364",
-   "title": "Occidental Resources Reports $200 Million in Argentine Sunflower Seed Purchases Amid Global Demand Surge",
-   "link": "https://www.prnewswire.com/news-releases/occidental-resources-reports-200-million-in-argentine-sunflower-seed-purchases-amid-global-demand-surge-302917580.html",
-   "summary": "The company's reported purchases of more than 300,000 metric tons highlight its commercial capacity, international market reach, and focus on supply-chain reliability. MIAMI, Oct. 23, 2026 /PRNewswire/ -- Occidental Resources Group LLC reported purchasing more than 300,000 metric tons of...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "positive",
-   "domain": "prnewswire.com",
-   "published": "2026-10-23T09:00:00+00:00",
-   "tickers": [
-    "OXY"
-   ]
-  },
-  {
-   "id": "0bb65c3488c5",
-   "title": "PANASONIC AVIONICS' ASTROVA SALES REACH HALF MILLION MARK",
-   "link": "https://www.prnewswire.com/news-releases/panasonic-avionics-astrova-sales-reach-half-million-mark-302917564.html",
-   "summary": "- Fastest-adopted IFE solution in the company's history reaches new scale as Osaka-Kadoma factory expansion increases Astrova production capacity sixfold - IRVINE, Calif., Oct. 23, 2026 /PRNewswire/ -- Panasonic Avionics Corporation (Panasonic Avionics), the world's leading provider of...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-23T09:00:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "3f52a2da23dd",
-   "title": "Why the UK should greenlight both Jackdaw and Rosebank",
-   "link": "https://www.ft.com/content/34946f6f-ccd9-4de5-9f57-136e1a0e2064?syn-25a6b1a6=1",
-   "summary": "The real problem, for those concerned about the climate, isn’t that oil and gas might become too cheap, but that renewables remain too expensive",
-   "article_text": "",
-   "source": "FT Companies",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "ft.com",
-   "published": "2026-10-23T09:00:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "71727051a93a",
-   "title": "Las Vegas Sands Consensus Price Target Decreased by 11.74% to $53.27",
-   "link": "https://www.nasdaq.com/articles/las-vegas-sands-consensus-price-target-decreased-1174-5327",
-   "summary": "The average one-year price target for Las Vegas Sands (NYSE:LVS) (BIT:1LVS) has been revised to $53.27 / share, down 11.74% from the prior estimate of $60.35 dated September 29, 2026. These figures represent aggregate analyst targets compiled by Fintel, rather than a recommendati",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "analyst",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-23T08:59:13+00:00",
-   "tickers": [
-    "LVS"
-   ]
-  },
-  {
-   "id": "46144830bd00",
-   "title": "NBA star Precious Achiuwa signs on for $1.8 million condo in luxury Miami tower",
-   "link": "https://www.marketwatch.com/story/nba-star-precious-achiuwa-signs-on-for-1-8-million-condo-in-luxury-miami-tower-95d899c2?mod=mw_rss_topstories",
-   "summary": "Sacramento Kings forward Precious Achiuwa has signed for a $1.84M condo inside a lavish Miami development that has already attracted several high-profile athletes.",
-   "article_text": "",
-   "source": "MarketWatch",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "marketwatch.com",
-   "published": "2026-10-23T08:59:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d96ba84ec82a",
-   "title": "Chugai Pharmaceutical Co., - Depositary Receipt Price Target Decreased by 15.22% to $26.89",
-   "link": "https://www.nasdaq.com/articles/chugai-pharmaceutical-co-depositary-receipt-price-target-decreased-1522-2689",
-   "summary": "The average one-year price target for Chugai Pharmaceutical Co., - Depositary Receipt (OTCPK:CHGCY) (MUN:CUP0) has been revised to $26.89 / share. This is a decrease of 15.22% from the prior estimate of $31.72 dated June 8, 2026. These figures represent aggregate analyst targets",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "analyst",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-23T08:58:01+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e336722c3a85",
-   "title": "Storm Austen leaves thousands without power",
-   "link": "https://biztoc.com/x/ba15ed6d3681eadf?ref=rss",
-   "summary": "Storm Austen has left thousands without power after 80mph winds hit parts of the UK. National Grid reported 6980 homes in ...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-23T08:56:37+00:00",
-   "tickers": []
-  },
-  {
-   "id": "711fadf78aa9",
-   "title": "French Authorities Brace for Weekend Protests",
-   "link": "https://biztoc.com/x/525d4f0b86ce883f?ref=rss",
-   "summary": "French authorities are bracing for a new round of protests Saturday. The military is preparing to back up police in a bid to prevent ...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-23T08:56:31+00:00",
-   "tickers": []
-  },
-  {
-   "id": "196a4eb97bcd",
-   "title": "Worldline SA - Depositary Receipt Price Target Increased by 458.51% to $6.94",
-   "link": "https://www.nasdaq.com/articles/worldline-sa-depositary-receipt-price-target-increased-45851-694",
-   "summary": "The average one-year price target for Worldline SA - Depositary Receipt (OTCPK:WRDLY) (DB:WO62) has been revised to $6.94 / share. This is an increase of 458.51% from the prior estimate of $1.24 dated February 23, 2026. These figures represent aggregate analyst targets and do not",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "analyst",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-23T08:56:31+00:00",
-   "tickers": [
-    "DB"
-   ]
-  },
-  {
-   "id": "9d7701174b63",
-   "title": "Consensus Price Target for Eagle Point Credit Company - Corporate Bond Increased by 13.09% to $37.84",
-   "link": "https://www.nasdaq.com/articles/consensus-price-target-eagle-point-credit-company-corporate-bond-increased-1309-3784",
-   "summary": "The average one-year price target for Eagle Point Credit Company - Corporate Bond (NYSE:ECCV) has been revised to $37.84 / share. This is an increase of 13.09% from the prior estimate of $33.46 dated October 1, 2026. These figures represent aggregate analyst targ",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "analyst",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-23T08:55:57+00:00",
-   "tickers": [
-    "EXP"
-   ]
-  },
-  {
-   "id": "f359e12c5520",
-   "title": "Rocket Lab launches 98th Electron mission",
-   "link": "https://seekingalpha.com/news/4656460-rocket-lab-launches-98th-electron-mission?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-23T08:55:03+00:00",
-   "tickers": [
-    "RKLB"
-   ]
-  },
-  {
-   "id": "063e1066b2bc",
-   "title": "Superteam Wheels Launches Premium Cycling Brand MATIC, Unveils Flagship S68 Carbon Wheelset",
-   "link": "https://www.prnewswire.com/news-releases/superteam-wheels-launches-premium-cycling-brand-matic-unveils-flagship-s68-carbon-wheelset-302917929.html",
-   "summary": "NEW YORK, Oct. 23, 2026 /PRNewswire/ -- Superteam Wheels is proud to announce MATIC, its new premium sub‑brand, alongside the debut of MATIC S68, its flagship one‑piece carbon wheel set. Marking Superteam Wheels' strategic expansion into high‑end road cycling gear, MATIC targets...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "positive",
-   "domain": "prnewswire.com",
-   "published": "2026-10-23T08:53:00+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
+  "SOXX": "iShares PHLX SOX Semiconductor Sector Index Fund",
+  "VYMI": "Vanguard International High Dividend Yield ETF",
   "IAGG": "iShares International Aggregate Bond Fund",
   "FLG": "Flagstar Bank, National Association",
   "TSM": "Taiwan Semiconductor Manufacturing",
@@ -8876,6 +8886,7 @@
   "CHH": "Choice Hotels International",
   "QQQ": "Invesco QQQ Trust, Series 1",
   "FBIN": "Fortune Brands Innovations",
+  "HPE": "Hewlett Packard Enterprise",
   "FCNCA": "First Citizens BancShares",
   "ICE": "Intercontinental Exchange",
   "JEF": "Jefferies Financial Group",
@@ -8887,7 +8898,6 @@
   "VZ": "Verizon Communications",
   "BAX": "Baxter International",
   "MKTX": "MarketAxess Holdings",
-  "OXY": "Occidental Petroleum",
   "PG": "The Procter & Gamble",
   "LULU": "lululemon athletica",
   "BRK-A": "Berkshire Hathaway",
@@ -8912,12 +8922,10 @@
   "COIN": "Coinbase Global",
   "DECK": "Deckers Outdoor",
   "DIS": "The Walt Disney",
-  "EXP": "Eagle Materials",
   "FOUR": "Shift4 Payments",
   "GILD": "Gilead Sciences",
   "HBM": "Hudbay Minerals",
   "LNG": "Cheniere Energy",
-  "LVS": "Las Vegas Sands",
   "PYPL": "PayPal Holdings",
   "TEL": "TE Connectivity",
   "WDC": "Western Digital",
@@ -8948,6 +8956,7 @@
   "DUK": "Duke Energy",
   "GEN": "Gen Digital",
   "HAE": "Haemonetics",
+  "NVS": "Novartis AG",
   "ROST": "Ross Stores",
   "AAPL": "Apple Watch",
   "BX": "Blackstone",
@@ -8957,7 +8966,6 @@
   "FTI": "TechnipFMC",
   "MNDY": "monday.com",
   "PBF": "PBF Energy",
-  "RKLB": "Rocket Lab",
   "SPGI": "S&P Global",
   "MSFT": "Office 365",
   "ATRO": "Astronics",
