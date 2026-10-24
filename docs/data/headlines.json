@@ -1,8 +1,50 @@
 {
- "generated": "2026-10-24T05:43:14.094595+00:00",
+ "generated": "2026-10-24T05:51:43.598016+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "c7b1e310c6b4",
+   "title": "Monet Painting Sells for $56 Million in France",
+   "link": "https://www.nytimes.com/2026/10/22/arts/design/claude-monet-painting-auction-paris.html",
+   "summary": "The artwork, titled “Iris,” is among the painter’s later works, which wealthy collectors have coveted in recent years.",
+   "article_text": "",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-10-24T05:48:45+00:00",
+   "tickers": []
+  },
+  {
+   "id": "85395cab6fbb",
+   "title": "Swedencare AB (publ) 2026 Q3 - Results - Earnings Call Presentation",
+   "link": "https://seekingalpha.com/article/4957161-swedencare-ab-publ-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-24T05:48:02+00:00",
+   "tickers": []
+  },
+  {
+   "id": "6583cbc44847",
+   "title": "U.S. Flash PMI Signals Sustained Strong Growth, But Also Further Inflation Uplift In October",
+   "link": "https://seekingalpha.com/article/4957160-us-flash-pmi-signals-sustained-strong-growth-further-inflation-uplift-in-october?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "macro",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-24T05:45:00+00:00",
+   "tickers": []
+  },
   {
    "id": "a5505138f9a2",
    "title": "Soybeans Post Friday Gains",
@@ -1053,6 +1095,20 @@
     "SPCX",
     "TSLA"
    ]
+  },
+  {
+   "id": "018a8308fe98",
+   "title": "A little bit of luck is lifting UK Budget expectations",
+   "link": "https://www.ft.com/content/6a059ab0-a9fc-4e4c-8ae7-1d110faf5adf",
+   "summary": "Healey is poised to deliver his plans just as this year’s drag on global bonds appears to be turning",
+   "article_text": "",
+   "source": "FT Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "ft.com",
+   "published": "2026-10-24T04:00:33+00:00",
+   "tickers": []
   },
   {
    "id": "072cd02e67da",
@@ -8831,66 +8887,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-10-23T21:35:21+00:00",
    "tickers": []
-  },
-  {
-   "id": "3057e638efe9",
-   "title": "Sun Communities Q3 2026 Earnings Preview",
-   "link": "https://seekingalpha.com/news/4656605-sun-communities-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-23T21:35:21+00:00",
-   "tickers": []
-  },
-  {
-   "id": "dfe6dff6cd52",
-   "title": "3 Energy Stocks to Buy and Hold for the Next Decade, Starting With ExxonMobil",
-   "link": "https://www.nasdaq.com/articles/3-energy-stocks-buy-and-hold-next-decade-starting-exxonmobil",
-   "summary": "Key PointsExxonMobil has rewarded investors with a growing dividend for 43 years.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-23T21:35:00+00:00",
-   "tickers": [
-    "XOM"
-   ]
-  },
-  {
-   "id": "d76241e4f645",
-   "title": "Why CoreWeave is in the crosshairs of the AI selloff",
-   "link": "https://biztoc.com/x/af264418c7ab8c48?ref=rss",
-   "summary": "CoreWeave is facing a crisis of confidence on Wall Street that's playing out in real time among equity and bond investors.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-23T21:34:36+00:00",
-   "tickers": [
-    "CRWV"
-   ]
-  },
-  {
-   "id": "310ffed6b894",
-   "title": "Luke to Trump: Hands off our golf course",
-   "link": "https://biztoc.com/x/b9f203d4894d6068?ref=rss",
-   "summary": "In a hearing earlier this week, Trump's DOJ tried to defend the president's apparent attempt to greenlight the renovation of a ...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-23T21:34:36+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8980,7 +8976,6 @@
   "NVDA": "Grace Hopper",
   "NVS": "Novartis AG",
   "PSX": "Phillips 66",
-  "XOM": "Exxon Mobil",
   "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
   "BA": "The Boeing",
