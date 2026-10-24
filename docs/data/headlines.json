@@ -1,8 +1,80 @@
 {
- "generated": "2026-10-24T12:50:59.468683+00:00",
+ "generated": "2026-10-24T12:58:19.578562+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "9e4133a3c804",
+   "title": "Attention, Passengers: High Airfares May Be Here to Stay",
+   "link": "https://www.nytimes.com/2026/10/24/business/airlines-ticket-prices.html",
+   "summary": "Ticket prices jumped after fuel costs spiked because of the war with Iran, but airlines say even an end to the conflict will not bring fares back down quickly.",
+   "article_text": "",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-10-24T12:54:30+00:00",
+   "tickers": []
+  },
+  {
+   "id": "7d45cd328561",
+   "title": "Johnson &amp; Johnson announces ERLEADA® (apalutamide) treatment before and after surgery reduces risk of recurrence or death by 62% versus surgery alone in high-risk prostate cancer",
+   "link": "https://www.prnewswire.com/news-releases/johnson--johnson-announces-erleada-apalutamide-treatment-before-and-after-surgery-reduces-risk-of-recurrence-or-death-by-62-versus-surgery-alone-in-high-risk-prostate-cancer-302918654.html",
+   "summary": "New substudy results showed a 51% lower estimated risk of metastasis or death over time with perioperative apalutamide plus ADT compared with immediate surgery Twice as many patients remained free from subsequent treatment at three years with perioperative apalutamide plus ADT compared...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "prnewswire.com",
+   "published": "2026-10-24T12:54:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "14f9c7353f0f",
+   "title": "5 Takeaways From Our Investigation of Trump’s Waivers for Polluters",
+   "link": "https://www.nytimes.com/2026/10/24/climate/takeaways-trump-waivers-chemical-pollution.html",
+   "summary": "Chemical plants and other industrial facilities had been required to curb their toxic emissions. A New York Times investigation shows how they got out of it.",
+   "article_text": "",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "nytimes.com",
+   "published": "2026-10-24T12:50:46+00:00",
+   "tickers": [
+    "NYT"
+   ]
+  },
+  {
+   "id": "083adf177f65",
+   "title": "As winter nears, heating oil emerges as hurdle for Republicans in US Senate races",
+   "link": "https://www.investing.com/news/economic-indicators/as-winter-nears-heating-oil-emerges-as-hurdle-for-republicans-in-us-senate-races-4970790",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-24T12:48:41+00:00",
+   "tickers": []
+  },
+  {
+   "id": "594bb7b34060",
+   "title": "Parabilis reports phase 1/2 data for desmoid tumor treatment",
+   "link": "https://www.investing.com/news/company-news/parabilis-reports-phase-12-data-for-desmoid-tumor-treatment-93CH-4970830",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "fda",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-24T12:48:38+00:00",
+   "tickers": []
+  },
   {
    "id": "7612b7edad8e",
    "title": "908 Devices Has Earned Attention, But Its Valuation Needs More Proof",
@@ -16,6 +88,36 @@
    "domain": "seekingalpha.com",
    "published": "2026-10-24T12:44:56+00:00",
    "tickers": []
+  },
+  {
+   "id": "316c80496a84",
+   "title": "CION Investment Corporation - Corporate Bond Price Target Increased by 12.21% to $34.71",
+   "link": "https://www.nasdaq.com/articles/cion-investment-corporation-corporate-bond-price-target-increased-1221-3471",
+   "summary": "The average one-year price target for CION Investment Corporation - Corporate Bond (NYSE:CICB) has been revised to $34.71 / share. This is an increase of 12.21% from the prior estimate of $30.93 dated October 1, 2026. These figures represent aggregate analyst ta",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "analyst",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-24T12:44:49+00:00",
+   "tickers": []
+  },
+  {
+   "id": "5806ae42e185",
+   "title": "Earnings call transcript: AU Small Finance Bank posts strong Q2 2026 profit growth",
+   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-au-small-finance-bank-posts-strong-q2-2026-profit-growth-93CH-4970828",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-10-24T12:43:20+00:00",
+   "tickers": [
+    "AU"
+   ]
   },
   {
    "id": "8769bf238d6f",
@@ -103,6 +205,20 @@
    "sentiment": "neutral",
    "domain": "biztoc.com",
    "published": "2026-10-24T12:40:35+00:00",
+   "tickers": []
+  },
+  {
+   "id": "1050d565393e",
+   "title": "Consensus Price Target for Seven Hills Realty Trust - Equity Right Increases 12.58% to $0.03",
+   "link": "https://www.nasdaq.com/articles/consensus-price-target-seven-hills-realty-trust-equity-right-increases-1258-003",
+   "summary": "The average one-year price target for Seven Hills Realty Trust - Equity Right (NASDAQCM:SEVNR) has been revised to $0.03 / share. This is an increase of 12.58% from the prior estimate of $0.03 dated October 1, 2026. These figures represent aggregate analyst targ",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "analyst",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-24T12:40:13+00:00",
    "tickers": []
   },
   {
@@ -2937,20 +3053,6 @@
    "tickers": []
   },
   {
-   "id": "083adf177f65",
-   "title": "As winter nears, heating oil emerges as hurdle for Republicans in US Senate races",
-   "link": "https://www.investing.com/news/economic-indicators/as-winter-nears-heating-oil-emerges-as-hurdle-for-republicans-in-us-senate-races-4970790",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-10-24T10:19:06+00:00",
-   "tickers": []
-  },
-  {
    "id": "b17e96ca2939",
    "title": "Vår Energi ASA - Depositary Receipt Price Target Increased by 16.70% to $12.49",
    "link": "https://www.nasdaq.com/articles/var-energi-asa-depositary-receipt-price-target-increased-1670-1249",
@@ -4702,36 +4804,6 @@
    "domain": "nasdaq.com",
    "published": "2026-10-24T09:04:01+00:00",
    "tickers": []
-  },
-  {
-   "id": "9e4133a3c804",
-   "title": "Attention, Passengers: High Airfares May Be Here to Stay",
-   "link": "https://www.nytimes.com/2026/10/24/business/airlines-ticket-prices.html",
-   "summary": "Ticket prices jumped after fuel costs spiked because of the war with Iran, but airlines say even an end to the conflict will not bring fares back down quickly.",
-   "article_text": "",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "nytimes.com",
-   "published": "2026-10-24T09:02:38+00:00",
-   "tickers": []
-  },
-  {
-   "id": "14f9c7353f0f",
-   "title": "5 Takeaways From Our Investigation of Trump’s Waivers for Polluters",
-   "link": "https://www.nytimes.com/2026/10/24/climate/takeaways-trump-waivers-chemical-pollution.html",
-   "summary": "Chemical plants and other industrial facilities had been required to curb their toxic emissions. A New York Times investigation shows how they got out of it.",
-   "article_text": "",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "nytimes.com",
-   "published": "2026-10-24T09:01:26+00:00",
-   "tickers": [
-    "NYT"
-   ]
   },
   {
    "id": "04f728462c22",
@@ -8761,76 +8833,6 @@
    "domain": "biztoc.com",
    "published": "2026-10-24T03:16:09+00:00",
    "tickers": []
-  },
-  {
-   "id": "676dc9c90288",
-   "title": "Saudi coalition intercepts Houthi missile targeting Riyadh",
-   "link": "https://biztoc.com/x/2876b7a7924bcbce?ref=rss",
-   "summary": "The Saudi-led coalition said that it intercepted a Houthi missile targeting the country's capital, Riyadh.\"Air defenses intercepted and destroyed a ballistic missile launched by the terrorist Houthi m...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-24T03:16:05+00:00",
-   "tickers": []
-  },
-  {
-   "id": "210a932e323d",
-   "title": "Memory Stocks Are Plummetting. Jensen Huang Says the Bears Have It Wrong.",
-   "link": "https://www.nasdaq.com/articles/memory-stocks-are-plummetting-jensen-huang-says-bears-have-it-wrong",
-   "summary": "Key PointsNvidia CEO Jensen Huang said that tight memory supply wouldn't be relieved until after 2029.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-24T03:15:50+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e6c26d930624",
-   "title": "Global X Enhanced Bitcoin Covered Call ETF Cl A declares CAD 0.135 dividend",
-   "link": "https://seekingalpha.com/news/4656897-global-x-enhanced-bitcoin-covered-call-etf-cl-a-declares-cad-0_135-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "dividend",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-24T03:15:11+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b5b13765865e",
-   "title": "NioCorp: The Bear Case Is Real, But At $3 I'm Still Buying",
-   "link": "https://seekingalpha.com/article/4957138-niocorp-stock-bear-case-real-but-at-3-i-still-buying?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-24T03:15:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "153b2da3c94c",
-   "title": "Global X Enhanced AllInOne Com Prod Eq Cov Cll ETF declares CAD 0.11 dividend",
-   "link": "https://seekingalpha.com/news/4656896-global-x-enhanced-allinone-com-prod-eq-cov-cll-etf-declares-cad-0_11-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "dividend",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-24T03:14:04+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8879,6 +8881,7 @@
   "NYT": "The New York Times",
   "PANW": "Palo Alto Networks",
   "AMAT": "Applied Materials",
+  "AU": "AngloGold Ashanti",
   "HOOD": "Robinhood Markets",
   "JNJ": "Johnson & Johnson",
   "MU": "Micron Technology",
