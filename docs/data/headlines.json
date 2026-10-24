@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T22:44:19.752770+00:00",
+ "generated": "2026-10-24T22:51:24.565096+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -327,6 +327,39 @@
    "tickers": []
   },
   {
+   "id": "78023232bfa9",
+   "title": "First Interstate BancSystem: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/first-interstate-bancsystem-3-key-takeaways-long-term-investors",
+   "summary": "Key PointsNet interest margin expanded for the 10th consecutive quarter in Q3 2026.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-24T22:29:45+00:00",
+   "tickers": []
+  },
+  {
+   "id": "fbf1bce23f37",
+   "title": "Stocks Undercut by Oil Prices and Continued AI Anxiety",
+   "link": "https://www.nasdaq.com/articles/stocks-undercut-oil-prices-and-continued-ai-anxiety-0",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) fell by -0.52% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) fell by -1.23%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) was unchanged. December E-mini S&P futures (ESZ26 ) fell -0.48%, while December E-mini Nasdaq futures (NQZ26...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-24T22:25:59+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
+  },
+  {
    "id": "eeb31f370250",
    "title": "Katarská iniciatíva Years of Culture oznamuje partnerské krajiny do roku 2030",
    "link": "https://www.prnewswire.com/news-releases/katarska-iniciativa-years-of-culture-oznamuje-partnerske-krajiny-do-roku-2030-302918703.html",
@@ -411,6 +444,22 @@
    "domain": "prnewswire.com",
    "published": "2026-10-24T22:20:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "4958b8c24698",
+   "title": "Forget Casgevy: CRISPR Therapeutics' Heart-Disease Data Could Matter More",
+   "link": "https://www.nasdaq.com/articles/forget-casgevy-crispr-therapeutics-heart-disease-data-could-matter-more",
+   "summary": "Key PointsOne of CRISPR Therapeutics’ leading pipeline candidates, CTX310, arguably has a larger market opportunity than Casgevy.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-24T22:20:00+00:00",
+   "tickers": [
+    "CRSP"
+   ]
   },
   {
    "id": "7cde6983b9e1",
@@ -1991,25 +2040,6 @@
    "domain": "investing.com",
    "published": "2026-10-24T20:15:24+00:00",
    "tickers": []
-  },
-  {
-   "id": "fbf1bce23f37",
-   "title": "Stocks Undercut by Oil Prices and Continued AI Anxiety",
-   "link": "https://www.nasdaq.com/articles/stocks-undercut-oil-prices-and-continued-ai-anxiety-0",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) fell by -0.52% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) fell by -1.23%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) was unchanged. December E-mini S&P futures (ESZ26 ) fell -0.48%, while December E-mini Nasdaq futures (NQZ26...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-24T20:10:51+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
-   ]
   },
   {
    "id": "c055502e4d74",
@@ -8885,39 +8915,6 @@
    "tickers": [
     "NDAQ"
    ]
-  },
-  {
-   "id": "79c13b3cbcf9",
-   "title": "Tesla: 2027 Could Be A Massive Growth Inflection Point (Rating Upgrade)",
-   "link": "https://seekingalpha.com/article/4957222-tesla-2027-could-be-massive-growth-inflection-point-upgrade?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-24T13:22:00+00:00",
-   "tickers": [
-    "TSLA"
-   ]
-  },
-  {
-   "id": "737621b1edbd",
-   "title": "Micron vs. Sandisk: Which Is the Better AI Memory Stock to Own for the Next 3 Years",
-   "link": "https://www.nasdaq.com/articles/micron-vs-sandisk-which-better-ai-memory-stock-own-next-3-years-0",
-   "summary": "Key PointsSandisk has outperformed Micron on the stock market in 2026.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-24T13:22:00+00:00",
-   "tickers": [
-    "SNDK",
-    "MU"
-   ]
   }
  ],
  "ticker_names": {
@@ -8945,6 +8942,7 @@
   "HON": "Honeywell International",
   "RCL": "Royal Caribbean Cruises",
   "CDNS": "Cadence Design Systems",
+  "CRSP": "CRISPR Therapeutics AG",
   "TECK": "Teck Resources Limited",
   "VRTX": "Vertex Pharmaceuticals",
   "VZ": "Verizon Communications",
@@ -8962,7 +8960,6 @@
   "NYT": "The New York Times",
   "PANW": "Palo Alto Networks",
   "AMAT": "Applied Materials",
-  "MU": "Micron Technology",
   "OLED": "Universal Display",
   "POWL": "Powell Industries",
   "SOFI": "SoFi Technologies",
