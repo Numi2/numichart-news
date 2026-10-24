@@ -1,8 +1,71 @@
 {
- "generated": "2026-10-24T11:17:12.905627+00:00",
+ "generated": "2026-10-24T11:27:25.090423+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "999330fa1431",
+   "title": "lululemon Has Likely Lost All Guidance Credibility (Rating Downgrade)",
+   "link": "https://seekingalpha.com/article/4957202-lululemon-likely-lost-all-guidance-credibility?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-24T11:20:34+00:00",
+   "tickers": []
+  },
+  {
+   "id": "22195d128592",
+   "title": "How Tempus AI Built A Defensible Data Moat In Precision Healthcare",
+   "link": "https://seekingalpha.com/article/4957203-how-tempus-ai-built-defensible-data-moat-precision-healthcare?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-24T11:15:00+00:00",
+   "tickers": [
+    "TEM"
+   ]
+  },
+  {
+   "id": "5e00edc839dc",
+   "title": "NNN REIT: The New Realty Income",
+   "link": "https://seekingalpha.com/article/4955305-nnn-reit-the-new-realty-income?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-24T11:15:00+00:00",
+   "tickers": [
+    "NNN",
+    "O"
+   ]
+  },
+  {
+   "id": "021d87db90cc",
+   "title": "SCHG: Strong Earnings, But Not The Fund I Rated A Buy (Downgrade)",
+   "link": "https://seekingalpha.com/article/4957199-schg-strong-earnings-but-not-the-fund-i-rated-a-buy?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-24T11:14:38+00:00",
+   "tickers": [
+    "SCHG"
+   ]
+  },
   {
    "id": "49368efdc0c2",
    "title": "Orlando homeowner claims his HOA demanded $13,157 for a roof he didn’t need — then found 'smoking gun' in their records",
@@ -8788,64 +8851,6 @@
    "tickers": [
     "MS"
    ]
-  },
-  {
-   "id": "c9dcec5bfd12",
-   "title": "Storm Vance could become 'major hurricane'",
-   "link": "https://biztoc.com/x/967e717024f0838a?ref=rss",
-   "summary": "Vance could become a \"major hurricane\" tonight, the United States National Hurricane Center (NHC) for the eastern and central Pacific basins said.The NHC noted that there are no coastal warnings in ef...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-24T00:43:25+00:00",
-   "tickers": []
-  },
-  {
-   "id": "c8f0003b4f4a",
-   "title": "Argentina drops investigation into President Milei over crypto fraud",
-   "link": "https://biztoc.com/x/ad247f45025e7692?ref=rss",
-   "summary": "Argentina drops investigation into President Milei over crypto fraud A criminal investigation into Argentine President Javier Milei and his sister's links to a cryptocurrency scandal has been dropped. The case against Milei and his sister Karina Milei was dismissed by federal judge Marcelo…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-10-24T00:43:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "434137867638",
-   "title": "Broadcom stock gets massive $600 call even as AI fears grow",
-   "link": "https://biztoc.com/x/1b42eaa98914d7c5?ref=rss",
-   "summary": "has no shortage of artificial intelligence demand. The more difficult issue is whether its clients can afford to pay for everything. Tigress Financial initiated Broadcom coverage on Oct. 22 with a Buy rating and a $600 price target, citing a multiyear opportunity in custom AI accelerators,…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-24T00:42:59+00:00",
-   "tickers": [
-    "AVGO"
-   ]
-  },
-  {
-   "id": "f489250f19a9",
-   "title": "US said to warn of Iranian plots to kill officials abroad",
-   "link": "https://biztoc.com/x/cd0637418b96bf71?ref=rss",
-   "summary": "United States intelligence warned that Iran has stepped up its efforts to target American diplomats in the Middle East and abroad, Axios reported, citing an internal memorandum sent to US Secretary of...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-10-24T00:42:52+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8857,6 +8862,7 @@
   "BTC": "Grayscale Bitcoin Mini Trust (BTC)",
   "TSM": "Taiwan Semiconductor Manufacturing",
   "DB": "Deutsche Bank Aktiengesellschaft",
+  "SCHG": "Schwab U.S. Large-Cap Growth ETF",
   "AXS": "AXIS Capital Holdings Limited",
   "WST": "West Pharmaceutical Services",
   "CHH": "Choice Hotels International",
@@ -8923,6 +8929,7 @@
   "HSBC": "HSBC Holdings",
   "LLY": "Eli Lilly and",
   "MT": "ArcelorMittal",
+  "O": "Realty Income",
   "POST": "Post Holdings",
   "WFC": "Wells Fargo &",
   "ADC": "Agree Realty",
@@ -8949,6 +8956,7 @@
   "BC": "Brunswick",
   "CME": "CME Group",
   "CRWV": "CoreWeave",
+  "TEM": "Tempus AI",
   "NWSA": "News Corp",
   "AVGO": "Broadcom",
   "BCS": "Barclays",
