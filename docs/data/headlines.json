@@ -1,8 +1,76 @@
 {
- "generated": "2026-10-24T18:22:20.528179+00:00",
+ "generated": "2026-10-24T18:36:37.277852+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "d3931379887f",
+   "title": "Moderna: Why Positive Phase 3 Results Weren't Enough",
+   "link": "https://seekingalpha.com/article/4957237-moderna-why-positive-phase-3-results-werent-enough?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-24T18:31:22+00:00",
+   "tickers": [
+    "MRNA"
+   ]
+  },
+  {
+   "id": "b6a9262f0bb2",
+   "title": "Insider trades: Blackberry, Accenture and Cleveland-Cliffs among notable names",
+   "link": "https://seekingalpha.com/news/4656936-insider-trades-blackberry-accenture-and-cleveland-cliffs-among-notable-names?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-24T18:29:24+00:00",
+   "tickers": [
+    "CLF",
+    "ACN"
+   ]
+  },
+  {
+   "id": "fbf1bce23f37",
+   "title": "Stocks Undercut by Oil Prices and Continued AI Anxiety",
+   "link": "https://www.nasdaq.com/articles/stocks-undercut-oil-prices-and-continued-ai-anxiety-0",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) fell by -0.52% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) fell by -1.23%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) was unchanged. December E-mini S&P futures (ESZ26 ) fell -0.48%, while December E-mini Nasdaq futures (NQZ26...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-24T18:22:18+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
+  },
+  {
+   "id": "e1cff15f93c3",
+   "title": "Microsoft Q1: A $744 Billion AI Reckoning Is Coming",
+   "link": "https://seekingalpha.com/article/4957236-microsoft-q1-a-744-billion-ai-reckoning-is-coming?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-24T18:21:24+00:00",
+   "tickers": [
+    "MSFT"
+   ]
+  },
   {
    "id": "55350de825d4",
    "title": "Bro went from a 700-person village in Slovakia to Google then built an app that makes $2k/day",
@@ -365,25 +433,6 @@
    "domain": "biztoc.com",
    "published": "2026-10-24T17:54:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "fbf1bce23f37",
-   "title": "Stocks Undercut by Oil Prices and Continued AI Anxiety",
-   "link": "https://www.nasdaq.com/articles/stocks-undercut-oil-prices-and-continued-ai-anxiety-0",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) fell by -0.52% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) fell by -1.23%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) was unchanged. December E-mini S&P futures (ESZ26 ) fell -0.48%, while December E-mini Nasdaq futures (NQZ26...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-24T17:50:46+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
-   ]
   },
   {
    "id": "9584545b4570",
@@ -8844,53 +8893,6 @@
    "domain": "biztoc.com",
    "published": "2026-10-24T10:54:15+00:00",
    "tickers": []
-  },
-  {
-   "id": "d5ce2c3fec24",
-   "title": "Six Flags to Add Seat Belts to Rides Following Death",
-   "link": "https://biztoc.com/x/64eb9a87f67c1c91?ref=rss",
-   "summary": "The decision to install additional restraints on some roller coasters comes after a fatal incident in Georgia.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-24T10:54:12+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d714ccb04fbc",
-   "title": "Susan Collins Gets Trump Boost As New Poll Erases Jackson’s Lead",
-   "link": "https://biztoc.com/x/d96389f98676ecf8?ref=rss",
-   "summary": "President Donald Trump has handed Republican Senator Susan Collins a timely economic boost in the competitive Maine Senate race, unveiling support for the state’s lobster industry and targeted tariff relief as new polling shows her drawing level with Democratic challenger Troy Jackson. A Fox News…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-10-24T10:54:09+00:00",
-   "tickers": [
-    "FOX",
-    "NWSA"
-   ]
-  },
-  {
-   "id": "bd12c49a4344",
-   "title": "Atlas Copco AB Consensus Price Target Increased by 11.49% to $20.62",
-   "link": "https://www.nasdaq.com/articles/atlas-copco-ab-consensus-price-target-increased-1149-2062",
-   "summary": "The average one-year price target for Atlas Copco AB (OTCPK:ATLCY) (DB:ACO0) has been revised to $20.62 / share. This is an increase of 11.49% from the prior estimate of $18.50 dated June 8, 2026. These figures represent an average of multiple targets provided by analysts and do",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "analyst",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-24T10:53:30+00:00",
-   "tickers": [
-    "DB"
-   ]
   }
  ],
  "ticker_names": {
@@ -8942,6 +8944,7 @@
   "ALK": "Alaska Air Group",
   "AMTM": "Amentum Holdings",
   "AXP": "American Express",
+  "CLF": "Cleveland-Cliffs",
   "COST": "Costco Wholesale",
   "ENSG": "The Ensign Group",
   "GTLS": "Chart Industries",
@@ -8988,6 +8991,7 @@
   "MSFT": "Office 365",
   "QCOM": "Snapdragon",
   "PARA": "Paramount+",
+  "ACN": "Accenture",
   "BLK": "BlackRock",
   "CART": "Maplebear",
   "TEM": "Tempus AI",
@@ -9003,7 +9007,6 @@
   "WULF": "TeraWulf",
   "SQ": "Cash App",
   "RTX": "Raytheon",
-  "FOX": "Fox Corp",
   "ALV": "Autoliv",
   "BLSH": "Bullish",
   "CMCSA": "Comcast",
