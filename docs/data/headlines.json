@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T20:43:15.105770+00:00",
+ "generated": "2026-10-24T20:49:37.887157+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -17,6 +17,22 @@
    "published": "2026-10-24T20:38:30+00:00",
    "tickers": [
     "SPCX"
+   ]
+  },
+  {
+   "id": "b7b151c31af4",
+   "title": "Cocoa Prices Close Mildly Higher Despite 2.5-year High in ICE Inventories",
+   "link": "https://www.nasdaq.com/articles/cocoa-prices-close-mildly-higher-despite-25-year-high-ice-inventories",
+   "summary": "December ICE NY cocoa (CCZ26 ) closed +10 (+0.18%) on Friday, and December ICE London cocoa #7 (CAZ26 ) closed up +17 (+0.41%). NY cocoa prices closed higher on Friday despite rising ICE cocoa inventories. ICE cocoa inventories have steadily increased since the start of the year, climbing to a...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-24T20:36:21+00:00",
+   "tickers": [
+    "ICE"
    ]
   },
   {
@@ -256,6 +272,20 @@
    "tickers": [
     "BX"
    ]
+  },
+  {
+   "id": "aca23d1df80c",
+   "title": "Here's the Average Women's Social Security Benefit From Ages 62 to 70",
+   "link": "https://www.nasdaq.com/articles/heres-average-womens-social-security-benefit-ages-62-70",
+   "summary": "Key PointsAs of December 2025, the average retired-worker benefit for women is $1,872.43 per month.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-24T20:20:02+00:00",
+   "tickers": []
   },
   {
    "id": "104d223762ed",
@@ -8876,36 +8906,6 @@
    "domain": "investing.com",
    "published": "2026-10-24T12:06:28+00:00",
    "tickers": []
-  },
-  {
-   "id": "aa162125b1fe",
-   "title": "Latin America's EM Resource Boom: Copper, Gold And Growth",
-   "link": "https://seekingalpha.com/article/4957193-latin-america-em-resource-boom-copper-gold-and-growth?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-24T12:05:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "9f5b448dfbfe",
-   "title": "Weyerhaeuser: Profound Mispricing",
-   "link": "https://seekingalpha.com/article/4957210-weyerhaeuser-profound-mispricing?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-24T12:03:40+00:00",
-   "tickers": [
-    "WY"
-   ]
   }
  ],
  "ticker_names": {
@@ -8928,6 +8928,7 @@
   "FBIN": "Fortune Brands Innovations",
   "IBB": "iShares Biotechnology ETF",
   "IBIT": "iShares Bitcoin Trust ETF",
+  "ICE": "Intercontinental Exchange",
   "APO": "Apollo Global Management",
   "GS": "The Goldman Sachs Group",
   "HON": "Honeywell International",
@@ -8985,7 +8986,6 @@
   "MSTR": "MicroStrategy",
   "ADC": "Agree Realty",
   "SPY": "SPDR S&P 500",
-  "WY": "Weyerhaeuser",
   "GOOGL": "Google Cloud",
   "TSLA": "Supercharger",
   "NVDA": "Grace Hopper",
