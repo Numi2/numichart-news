@@ -1,8 +1,24 @@
 {
- "generated": "2026-10-24T13:42:21.438962+00:00",
+ "generated": "2026-10-24T13:49:12.449278+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "ed5c3bc4a18b",
+   "title": "SCHD: You Have To Know What You Own",
+   "link": "https://seekingalpha.com/article/4957223-schd-you-have-to-know-what-you-own?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-24T13:42:47+00:00",
+   "tickers": [
+    "SCHD"
+   ]
+  },
   {
    "id": "2b58cec4e7c2",
    "title": "Investors’ recent money moves show a preference for lowering risks over boosting rewards",
@@ -8844,20 +8860,6 @@
    "tickers": [
     "NDAQ"
    ]
-  },
-  {
-   "id": "97fe3f8b5693",
-   "title": "Mark Zuckerberg’s deal to stay in California cheered by wealth tax campaign",
-   "link": "https://biztoc.com/x/337a26af6074eca1?ref=rss",
-   "summary": "Security Verification For help please visit help.ft.com. We apologise for any inconvenience. The following information can help our support team to resolve this issue. - Error Code - CG000 / 403 - Request ID - a4f62c496ca3f8ab",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-24T04:17:56+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8873,6 +8875,7 @@
   "DB": "Deutsche Bank Aktiengesellschaft",
   "SCHG": "Schwab U.S. Large-Cap Growth ETF",
   "IBM": "International Business Machines",
+  "SCHD": "Schwab US Dividend Equity ETF",
   "WST": "West Pharmaceutical Services",
   "CHH": "Choice Hotels International",
   "FIGR": "Figure Technology Solutions",
