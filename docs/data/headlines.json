@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T20:49:37.887157+00:00",
+ "generated": "2026-10-24T20:56:22.367017+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -194,6 +194,22 @@
    "domain": "biztoc.com",
    "published": "2026-10-24T20:35:04+00:00",
    "tickers": []
+  },
+  {
+   "id": "d6bacdd408cb",
+   "title": "Can silver recover from its latest sell-off? UBS weighs in",
+   "link": "https://www.investing.com/news/commodities-news/can-silver-recover-from-its-latest-selloff-ubs-weighs-in-4970956",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-24T20:34:17+00:00",
+   "tickers": [
+    "UBS"
+   ]
   },
   {
    "id": "c611fbd06503",
@@ -4054,6 +4070,20 @@
    "sentiment": "positive",
    "domain": "nasdaq.com",
    "published": "2026-10-24T15:54:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f10def2be0e7",
+   "title": "Fewer people are flying as airfare soars. Here's why airlines aren't worried",
+   "link": "https://www.cnbc.com/2026/10/23/airfare-airline-capacity.html",
+   "summary": "Airlines are reporting fewer people flew in the third quarter as airfare surged on fuel costs, but executives say travelers are mostly swallowing higher fares.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "cnbc.com",
+   "published": "2026-10-24T15:53:30+00:00",
    "tickers": []
   },
   {
@@ -8878,34 +8908,6 @@
    "tickers": [
     "SPCX"
    ]
-  },
-  {
-   "id": "5d88a3bba450",
-   "title": "GMR Solutions: YoY Decline In 2H26 EBITDA Equates To Limited Share Price Upside",
-   "link": "https://seekingalpha.com/article/4957190-gmr-solutions-yoy-decline-in-2h26-ebitda-equates-to-limited-share-price-upside?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-24T12:07:33+00:00",
-   "tickers": []
-  },
-  {
-   "id": "11f0ecc86c27",
-   "title": "Kotak Q2 FY27 slides: profit jumps 26% as asset quality improves",
-   "link": "https://www.investing.com/news/company-news/kotak-q2-fy27-slides-profit-jumps-26-as-asset-quality-improves-93CH-4970820",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-10-24T12:06:28+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8986,6 +8988,7 @@
   "MSTR": "MicroStrategy",
   "ADC": "Agree Realty",
   "SPY": "SPDR S&P 500",
+  "UBS": "UBS Group AG",
   "GOOGL": "Google Cloud",
   "TSLA": "Supercharger",
   "NVDA": "Grace Hopper",
