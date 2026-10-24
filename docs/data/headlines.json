@@ -1,8 +1,41 @@
 {
- "generated": "2026-10-24T19:23:39.772653+00:00",
+ "generated": "2026-10-24T19:30:18.462052+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "bf7e9f1420f2",
+   "title": "Adobe: A Fairly Priced Compounder In An Expensive Market",
+   "link": "https://seekingalpha.com/article/4957242-adobe-a-fairly-priced-compounder-in-an-expensive-market?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-24T19:23:25+00:00",
+   "tickers": [
+    "ADBE"
+   ]
+  },
+  {
+   "id": "1164a7f3fef9",
+   "title": "Tesla Plus SpaceX: 5 Reasons This Merger Is A Terrible Idea",
+   "link": "https://seekingalpha.com/article/4957241-tesla-plus-spacex-5-reasons-this-merger-is-a-terrible-idea?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-24T19:19:02+00:00",
+   "tickers": [
+    "SPCX",
+    "TSLA"
+   ]
+  },
   {
    "id": "c110bc2299bc",
    "title": "Man Dies After Being Mowed Down by Self-Driving Tesla, Police Say",
@@ -8875,34 +8908,6 @@
    "domain": "biztoc.com",
    "published": "2026-10-24T11:24:59+00:00",
    "tickers": []
-  },
-  {
-   "id": "6395759aa091",
-   "title": "'Banker coin' defies oil shock as gold sinks",
-   "link": "https://biztoc.com/x/b955010460f7b3dd?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-10-24T11:24:55+00:00",
-   "tickers": []
-  },
-  {
-   "id": "480cf2314fbb",
-   "title": "Gen Z is treating the midterms like a market event. Boomers are treating them like weather",
-   "link": "https://biztoc.com/x/8dea5160857c9545?ref=rss",
-   "summary": "Gen Z investors are scrambling to protect their portfolios from political uncertainty as the midterms approach, but their anxiety could end up costing them. A whopping 72% of Gen Z investors said they had already made changes to their retirement savings or investment portfolios in anticipation of…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-24T11:24:55+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -9009,6 +9014,7 @@
   "CART": "Maplebear",
   "CRWV": "CoreWeave",
   "WHR": "Whirlpool",
+  "ADBE": "Photoshop",
   "NWSA": "News Corp",
   "AVGO": "Broadcom",
   "BBY": "Best Buy",
