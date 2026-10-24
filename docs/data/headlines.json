@@ -1,8 +1,36 @@
 {
- "generated": "2026-10-24T15:45:12.778172+00:00",
+ "generated": "2026-10-24T15:52:15.874632+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "2766ee256210",
+   "title": "BBNX Deadline: BBNX Investors Have Opportunity to Lead Beta Bionics, Inc. Securities Fraud Lawsuit",
+   "link": "https://www.prnewswire.com/news-releases/bbnx-deadline-bbnx-investors-have-opportunity-to-lead-beta-bionics-inc-securities-fraud-lawsuit-302918530.html",
+   "summary": "NEW YORK, Oct. 24, 2026 /PRNewswire/ -- Why: Rosen Law Firm, a global investor rights law firm, reminds purchasers of common stock of Beta Bionics, Inc. (NASDAQ: BBNX) between July 30, 2025 and February 24, 2026, both dates inclusive (the \"Class Period\"), of the important November 3, 2026...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "prnewswire.com",
+   "published": "2026-10-24T15:48:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "5bb8926b9777",
+   "title": "American embassies tighten security as Iran threat warnings intensify ahead of U.S. midterm elections",
+   "link": "https://www.cnbc.com/2026/10/24/iran-threats-us-embassies-middle-east.html",
+   "summary": "A memo from DNI director Jay Clayton said Iran is in the \"advanced stages\" of planning attacks against Americans.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-10-24T15:44:53+00:00",
+   "tickers": []
+  },
   {
    "id": "83e189aaa619",
    "title": "Police says 110,000 protesters in Paris, 65 arrested",
@@ -72,6 +100,20 @@
    "type": "aggregator",
    "sentiment": "neutral",
    "domain": "biztoc.com",
+   "published": "2026-10-24T15:44:12+00:00",
+   "tickers": []
+  },
+  {
+   "id": "dc221abbf402",
+   "title": "The AI Bubble Has A $3.6 Trillion Problem, And It's Getting Worse",
+   "link": "https://seekingalpha.com/article/4957233-the-ai-bubble-has-a-3-6-trillion-problem-and-its-getting-worse?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
    "published": "2026-10-24T15:44:12+00:00",
    "tickers": []
   },
@@ -8849,50 +8891,6 @@
    "domain": "investing.com",
    "published": "2026-10-24T08:48:03+00:00",
    "tickers": []
-  },
-  {
-   "id": "d1f0fef00170",
-   "title": "J&J prostate cancer drug shows promising tumor responses in early trial",
-   "link": "https://www.investing.com/news/company-news/jj-prostate-cancer-drug-shows-promising-tumor-responses-in-early-trial-4970732",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-10-24T08:46:23+00:00",
-   "tickers": [
-    "JNJ"
-   ]
-  },
-  {
-   "id": "b1c8a7fee2e0",
-   "title": "Ibotta CTO Luke Swanson sells $1.25 million in company stock",
-   "link": "https://www.investing.com/news/insider-trading-news/ibotta-cto-luke-swanson-sells-125-million-in-company-stock-93CH-4970731",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-10-24T08:46:07+00:00",
-   "tickers": []
-  },
-  {
-   "id": "897240d31473",
-   "title": "The 2027 Social Security COLA Is Official. Here’s the Average Benefit at Every Age From 62 to 70.",
-   "link": "https://www.nasdaq.com/articles/2027-social-security-cola-official-heres-average-benefit-every-age-62-70",
-   "summary": "Key PointsThe Social Security Administration announced a 3.6% cost-of-living adjustment for 2027, the largest increase in benefits since 2023.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-24T08:46:02+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8942,7 +8940,6 @@
   "PANW": "Palo Alto Networks",
   "AMAT": "Applied Materials",
   "AU": "AngloGold Ashanti",
-  "JNJ": "Johnson & Johnson",
   "MU": "Micron Technology",
   "OLED": "Universal Display",
   "POWL": "Powell Industries",
