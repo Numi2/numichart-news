@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T02:52:45.141358+00:00",
+ "generated": "2026-10-25T03:00:05.058320+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -30,6 +30,25 @@
    "domain": "biztoc.com",
    "published": "2026-10-25T02:42:24+00:00",
    "tickers": []
+  },
+  {
+   "id": "f9068ddf38fe",
+   "title": "Constellation, Vistra, and GE Vernova Ranked From Worst to First for the AI Power Boom",
+   "link": "https://www.nasdaq.com/articles/constellation-vistra-and-ge-vernova-ranked-worst-first-ai-power-boom",
+   "summary": "Key PointsConstellation Energy and Vistra both generate and sell electricity on the open market.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-25T02:35:00+00:00",
+   "tickers": [
+    "STZ",
+    "GEV",
+    "VST",
+    "GE"
+   ]
   },
   {
    "id": "95a5b7368852",
@@ -8815,22 +8834,6 @@
    "domain": "biztoc.com",
    "published": "2026-10-24T15:33:59+00:00",
    "tickers": []
-  },
-  {
-   "id": "400ed70e1d5a",
-   "title": "B3 S.A. - Brasil, Bolsa, Balcão - Depositary Receipt Price Target Increased by 19.08% to $14.03",
-   "link": "https://www.nasdaq.com/articles/b3-sa-brasil-bolsa-balcao-depositary-receipt-price-target-increased-1908-1403",
-   "summary": "The average one-year price target for B3 S.A. - Brasil, Bolsa, Balcão - Depositary Receipt (OTCPK:BOLSY) (DB:YBV0) has been revised to $14.03 / share. This is an increase of 19.08% from the prior estimate of $11.78 dated June 8, 2026. These figures represent aggregate anal",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "analyst",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-24T15:33:42+00:00",
-   "tickers": [
-    "DB"
-   ]
   }
  ],
  "ticker_names": {
@@ -8862,6 +8865,7 @@
   "NVTS": "Navitas Semiconductor",
   "BMY": "Bristol-Myers Squibb",
   "CINF": "Cincinnati Financial",
+  "STZ": "Constellation Brands",
   "VOO": "Vanguard S&P 500 ETF",
   "DAR": "Darling Ingredients",
   "WCC": "WESCO International",
@@ -8956,6 +8960,7 @@
   "PFE": "Pfizer",
   "SAP": "SAP SE",
   "SPCX": "SpaceX",
+  "VST": "Vistra",
   "AFL": "Aflac",
   "AMGN": "Amgen",
   "FRMI": "Fermi",
