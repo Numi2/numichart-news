@@ -1,8 +1,22 @@
 {
- "generated": "2026-10-25T14:56:35.255027+00:00",
+ "generated": "2026-10-25T15:02:19.724690+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "b4c5e6e604e6",
+   "title": "Here are 4 big things we're watching in the stock market this week",
+   "link": "https://www.cnbc.com/investingclub/2026/10/25/here-are-4-big-things-were-watching-in-the-stock-market-this-week.html",
+   "summary": "Peak earnings season, plus a Fed meeting and fresh inflation data.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-10-25T14:58:26+00:00",
+   "tickers": []
+  },
   {
    "id": "af3d3b7ef3ec",
    "title": "Retail investors pull back, but household stock demand remains strong: Goldman Sachs",
@@ -255,6 +269,22 @@
    "domain": "seekingalpha.com",
    "published": "2026-10-25T14:35:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "3058e1187890",
+   "title": "American Financial Group, Inc. - Corporate Bond Price Target Decreased by 13.93% to $18.32",
+   "link": "https://www.nasdaq.com/articles/american-financial-group-inc-corporate-bond-price-target-decreased-1393-1832",
+   "summary": "The average one-year price target for American Financial Group, Inc. - Corporate Bond (NYSE:AFGC) has been revised to $18.32 / share. This is a decrease of 13.93% from the prior estimate of $21.28 dated October 1, 2026. These figures represent aggregate analyst",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "analyst",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-25T14:34:29+00:00",
+   "tickers": [
+    "AFG"
+   ]
   },
   {
    "id": "0ec17ca9146f",
@@ -8842,34 +8872,6 @@
    "domain": "biztoc.com",
    "published": "2026-10-25T05:17:21+00:00",
    "tickers": []
-  },
-  {
-   "id": "c60684c5837e",
-   "title": "Future (TSE:4722) Stock May Be Near Fair Value On Cash Flow",
-   "link": "https://biztoc.com/x/ab3209b3e7a0b6bd?ref=rss",
-   "summary": "Future has delivered solid gains over the past several years, and that rise puts a spotlight on a simple question for you as a shareholder or potential buyer: Is the current share price really aligned with the cash the business is expected to generate over time, when you frame it through a…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-25T05:17:20+00:00",
-   "tickers": []
-  },
-  {
-   "id": "1872c7b9d219",
-   "title": "Miami International Holdings (MIAX) Stock Fair Value Edges Lower As Analysts Reset Expectations",
-   "link": "https://biztoc.com/x/73b3841333384478?ref=rss",
-   "summary": "Price targets for Miami International Holdings have been reset toward a tighter band, with some moving from US$48 to US$35 and from US$50 to US$43 as fair value estimates shift. Analysts describe these changes as a recalibration of expectations, with neutral ratings and targets in the mid US$30s…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-10-25T05:17:17+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8885,6 +8887,7 @@
   "QQQ": "Invesco QQQ Trust, Series 1",
   "FBIN": "Fortune Brands Innovations",
   "FCNCA": "First Citizens BancShares",
+  "AFG": "American Financial Group",
   "APO": "Apollo Global Management",
   "CFG": "Citizens Financial Group",
   "FDS": "FactSet Research Systems",
