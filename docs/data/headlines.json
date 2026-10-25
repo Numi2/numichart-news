@@ -1,8 +1,38 @@
 {
- "generated": "2026-10-25T18:36:06.774208+00:00",
+ "generated": "2026-10-25T18:47:26.237788+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "6c968e496c18",
+   "title": "Brazil votes in tight runoff between Lula and Bolsonaro",
+   "link": "https://www.cnbc.com/2026/10/25/brazil-lula-bolsonaro-presidential-election-runoff.html",
+   "summary": "Brazilians voted in a tight runoff that could move the nation sharply right, bringing it closer to the U.S. amid a broader conservative shift across the region.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-10-25T18:41:45+00:00",
+   "tickers": []
+  },
+  {
+   "id": "34ee8bd9e5ca",
+   "title": "Lam Research: Down 29% Since My Sell Call, But The Math Has Changed (Upgrade)",
+   "link": "https://seekingalpha.com/article/4957338-lam-research-down-29-percent-since-my-sell-call-but-the-math-has-changed-upgrade?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-25T18:41:44+00:00",
+   "tickers": [
+    "LRCX"
+   ]
+  },
   {
    "id": "e2af893b680f",
    "title": "Magnitude 5.2 earthquake strikes Hindu Kush region in Afghanistan, EMSC says",
@@ -8818,34 +8848,6 @@
    "tickers": [
     "NDAQ"
    ]
-  },
-  {
-   "id": "d356c8db2b3c",
-   "title": "10 Sunday Reads",
-   "link": "https://biztoc.com/x/b24cce3fa093dc96?ref=rss",
-   "summary": "Avert your eyes! My Sunday morning look at incompetence, corruption, and policy failures: • People Trying to Quietly Quit MAGA: There’s a familiar ritual that happens every time an authoritarian movement begins to collapse. The supporters disappear. Not physically. Psychologically. They scrub the…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-25T10:52:34+00:00",
-   "tickers": []
-  },
-  {
-   "id": "30f914bbaaa4",
-   "title": "Peabody: The Global Energy Market Landscape Is Changing In Coal's Favor",
-   "link": "https://seekingalpha.com/article/4957312-peabody-the-global-energy-market-landscape-is-changing-in-coals-favor?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-25T10:50:21+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8920,6 +8922,7 @@
   "WFC": "Wells Fargo &",
   "MSTR": "MicroStrategy",
   "ATO": "Atmos Energy",
+  "LRCX": "Lam Research",
   "SARO": "StandardAero",
   "SPY": "SPDR S&P 500",
   "STT": "State Street",
