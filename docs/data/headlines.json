@@ -1,8 +1,36 @@
 {
- "generated": "2026-10-25T02:36:28.738724+00:00",
+ "generated": "2026-10-25T02:52:45.141358+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "5705b621c4c2",
+   "title": "6.5-magnitude quake hits Japan's Bonin Islands",
+   "link": "https://biztoc.com/x/61cd3c181083fd2e?ref=rss",
+   "summary": "A 6.5-magnitude earthquake shook the Bonin Islands, also known as the Ogasawara Islands, approximately 1,000 kilometers south-southeast of Tokyo, the United States Geological Survey (USGS) reported.Th...",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-25T02:42:47+00:00",
+   "tickers": []
+  },
+  {
+   "id": "0c346af43226",
+   "title": "‘Tech debt coming due’: AI-found flaw signals chaos ahead",
+   "link": "https://biztoc.com/x/ba75aecec981be65?ref=rss",
+   "summary": "The vulnerability to potential hackers was found by using a model from OpenAI in one of the most high-profile demonstration of AI's cybercapabilities.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-25T02:42:24+00:00",
+   "tickers": []
+  },
   {
    "id": "95a5b7368852",
    "title": "JPMorgan And Citi’s AI Agent Limits Show Why Efficiency Isn’t Enough",
@@ -863,6 +891,20 @@
    "sentiment": "positive",
    "domain": "seekingalpha.com",
    "published": "2026-10-25T01:05:06+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f3300260aa32",
+   "title": "Co-operate to avoid being hostage to geopolitics, Australia tells ‘middle powers’",
+   "link": "https://www.ft.com/content/653f5a48-94f5-4e92-86dd-7d118e8849a8?syn-25a6b1a6=1",
+   "summary": "Jim Chalmers argues economic security and bolstering supply chains would benefit consumers",
+   "article_text": "",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "ft.com",
+   "published": "2026-10-25T01:00:09+00:00",
    "tickers": []
   },
   {
@@ -8789,50 +8831,6 @@
    "tickers": [
     "DB"
    ]
-  },
-  {
-   "id": "96527da7db6b",
-   "title": "Chemung Financial: Strong Q3 2026 Results But Watch Out For Balance Sheet Constraints",
-   "link": "https://seekingalpha.com/article/4957205-chemung-financial-strong-3q26-results-but-watch-out-for-balance-sheet-constraints?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-24T15:30:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "1fa345aaf922",
-   "title": "Newmont Q3 Earnings: Investors Are Walking On Thin Ice",
-   "link": "https://seekingalpha.com/article/4957232-newmont-q3-earnings-investors-are-walking-on-thin-ice?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-24T15:30:00+00:00",
-   "tickers": [
-    "NEM"
-   ]
-  },
-  {
-   "id": "0b7ca79338b1",
-   "title": "In HelloNation, Custom Fabrication Expert Mark Coyle Explains a Common Mistake in Custom Aluminum Design",
-   "link": "https://www.prnewswire.com/news-releases/in-hellonation-custom-fabrication-expert-mark-coyle-explains-a-common-mistake-in-custom-aluminum-design-302918282.html",
-   "summary": "The article explains why smart geometry, not thicker walls, creates stronger, more efficient aluminum components. ROCHESTER, N.Y., Oct. 24, 2026 /PRNewswire/ -- What early design choice causes many custom aluminum projects to become heavier, costlier, or harder to manufacture? That...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-24T15:30:00+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8949,7 +8947,6 @@
   "MCO": "Moody's",
   "MRK": "Merck &",
   "MRNA": "Moderna",
-  "NEM": "Newmont",
   "SCI": "Service",
   "SNDK": "Sandisk",
   "W": "Wayfair",
