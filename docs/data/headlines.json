@@ -1,8 +1,24 @@
 {
- "generated": "2026-10-25T08:56:48.402083+00:00",
+ "generated": "2026-10-25T09:06:13.703230+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "fbfb82e98b35",
+   "title": "Columbia Banking System: Massive Share Repurchase And A 5% Yield",
+   "link": "https://seekingalpha.com/article/4957301-columbia-banking-system-stock-massive-share-repurchase-5-percent-yield?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-25T09:01:40+00:00",
+   "tickers": [
+    "COLB"
+   ]
+  },
   {
    "id": "4a8e400ba070",
    "title": "Alphabet's 2 Classes of Common Stock Trade About 1% Apart. Here's the One I'd Buy",
@@ -121,6 +137,20 @@
    "sentiment": "neutral",
    "domain": "biztoc.com",
    "published": "2026-10-25T08:49:53+00:00",
+   "tickers": []
+  },
+  {
+   "id": "43906e0bbf12",
+   "title": "Lula, Bolsonaro rally supporters on final day before Brazil presidential runoff",
+   "link": "https://www.cnbc.com/2026/10/25/lula-bolsonaro-rally-supporters-before-brazil-presidential-runoff.html",
+   "summary": "The two candidates have remained neck and neck in polls following a stronger-than-expected performance by the right-wing senator in the first round.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "cnbc.com",
+   "published": "2026-10-25T08:48:04+00:00",
    "tickers": []
   },
   {
@@ -8786,38 +8816,6 @@
    "domain": "biztoc.com",
    "published": "2026-10-24T20:04:41+00:00",
    "tickers": []
-  },
-  {
-   "id": "99c577fb65e1",
-   "title": "Here’s the ‘core economic flaw’ in the AI bull case as stock and bond trades unravel, according to a top economist",
-   "link": "https://biztoc.com/x/fac70b1de8de3179?ref=rss",
-   "summary": "Apollo Chief Economic Torsten Slok was on a warpath this past week, issuing a series of warnings about the AI boom as Wall Street retreated from the sector. On Tuesday, he pointed to the recent slowdown in token spending growth, saying the demand curve for compute is flat and highly sensitive to…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-10-24T20:04:39+00:00",
-   "tickers": [
-    "APO"
-   ]
-  },
-  {
-   "id": "368b92577366",
-   "title": "JetBlue Creditors Call In Restructuring Advisers As Stock, Bonds Crater",
-   "link": "https://biztoc.com/x/f3e25f25da823b3c?ref=rss",
-   "summary": "JetBlue Creditors Call In Restructuring Advisers As Stock, Bonds Crater A federal judge blocked JetBlue Airways' $3.8 billion takeover of Spirit Airlines during the Biden administration to protect consumers. That supposedly brilliant decision is now looking increasingly disastrous for both…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-24T20:04:38+00:00",
-   "tickers": [
-    "JBLU"
-   ]
   }
  ],
  "ticker_names": {
@@ -8840,6 +8838,7 @@
   "FDS": "FactSet Research Systems",
   "PTGX": "Protagonist Therapeutics",
   "AEP": "American Electric Power",
+  "COLB": "Columbia Banking System",
   "GS": "The Goldman Sachs Group",
   "AMD": "Advanced Micro Devices",
   "CDNS": "Cadence Design Systems",
