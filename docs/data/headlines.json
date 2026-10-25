@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T06:54:03.978467+00:00",
+ "generated": "2026-10-25T07:03:42.583027+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -222,6 +222,53 @@
    "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-10-25T06:31:17+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a5505138f9a2",
+   "title": "Soybeans Post Friday Gains",
+   "link": "https://www.nasdaq.com/articles/soybeans-post-friday-gains-0",
+   "summary": "Soybeans pushed higher into the weekend, with contracts up 1 ½ to 5 ¼ cents across the board. November was down 4 ¾ cents on the week. The cmdtyView national average Cash Bean price was up 3 3/4 cents at $11.99 1/4. Soymeal futures were mixed, down $1.20 to $1.60...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-10-25T06:30:16+00:00",
+   "tickers": [
+    "POST"
+   ]
+  },
+  {
+   "id": "ef9876762361",
+   "title": "GM Just Announced a $20 Billion Buyback. Tesla Trades at 350 Times Earnings. Here's Which Auto Stock I'd Buy Today.",
+   "link": "https://www.nasdaq.com/articles/gm-just-announced-20-billion-buyback-tesla-trades-350-times-earnings-heres-which-auto",
+   "summary": "Key PointsGeneral Motors authorized up to $20 billion in share buybacks.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-10-25T06:25:00+00:00",
+   "tickers": [
+    "TSLA",
+    "GM"
+   ]
+  },
+  {
+   "id": "d8e383722ab6",
+   "title": "Got $1,000? This Nuclear Fuel Stock Is the Pick-and-Shovel Play I'd Buy Right Now.",
+   "link": "https://www.nasdaq.com/articles/got-1000-nuclear-fuel-stock-pick-and-shovel-play-id-buy-right-now",
+   "summary": "Key PointsThe stock is down 52% so far this year.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-25T06:25:00+00:00",
    "tickers": []
   },
   {
@@ -2935,22 +2982,6 @@
    "domain": "nasdaq.com",
    "published": "2026-10-25T01:50:39+00:00",
    "tickers": []
-  },
-  {
-   "id": "a5505138f9a2",
-   "title": "Soybeans Post Friday Gains",
-   "link": "https://www.nasdaq.com/articles/soybeans-post-friday-gains-0",
-   "summary": "Soybeans pushed higher into the weekend, with contracts up 1 ½ to 5 ¼ cents across the board. November was down 4 ¾ cents on the week. The cmdtyView national average Cash Bean price was up 3 3/4 cents at $11.99 1/4. Soymeal futures were mixed, down $1.20 to $1.60...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-10-25T01:50:39+00:00",
-   "tickers": [
-    "POST"
-   ]
   },
   {
    "id": "32e88824d99d",
@@ -8798,34 +8829,6 @@
    "domain": "biztoc.com",
    "published": "2026-10-24T18:17:12+00:00",
    "tickers": []
-  },
-  {
-   "id": "33e4575829fe",
-   "title": "Ways to Narrow Social Security’s Shortfall",
-   "link": "https://biztoc.com/x/197f8ac642ce3e92?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-24T18:17:03+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6459c1383824",
-   "title": "New York state woman charged with voting illegally says she recently learned she wasn't a citizen",
-   "link": "https://biztoc.com/x/5ba6d5b759b29c15?ref=rss",
-   "summary": "Marva Cook was adopted as a toddler and had always assumed she was a U.S. citizen, she told Homeland Security investigators earlier this month, according to the criminal complaint.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-10-24T18:17:01+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8888,6 +8891,7 @@
   "PH": "Parker-Hannifin",
   "WSM": "Williams-Sonoma",
   "AVY": "Avery Dennison",
+  "GM": "General Motors",
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
   "RIOT": "Riot Platforms",
