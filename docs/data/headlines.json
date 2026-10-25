@@ -1,8 +1,22 @@
 {
- "generated": "2026-10-25T21:28:02.835040+00:00",
+ "generated": "2026-10-25T21:37:37.783446+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "6c968e496c18",
+   "title": "Brazil pauses presidential vote count after Supreme Court extends voting hours",
+   "link": "https://www.cnbc.com/2026/10/25/brazil-lula-bolsonaro-presidential-election-runoff.html",
+   "summary": "Brazilians voted in a tight runoff that could move the nation sharply right, bringing it closer to the U.S. amid a broader conservative shift across the region.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-10-25T21:29:59+00:00",
+   "tickers": []
+  },
   {
    "id": "9420f67987c0",
    "title": "Fed expected to hold rates steady this week despite hot inflation — but signal they're not done hiking",
@@ -106,6 +120,25 @@
    "domain": "seekingalpha.com",
    "published": "2026-10-25T21:19:40+00:00",
    "tickers": []
+  },
+  {
+   "id": "fbf1bce23f37",
+   "title": "Stocks Undercut by Oil Prices and Continued AI Anxiety",
+   "link": "https://www.nasdaq.com/articles/stocks-undercut-oil-prices-and-continued-ai-anxiety-0",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) fell by -0.52% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) fell by -1.23%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) was unchanged. December E-mini S&P futures (ESZ26 ) fell -0.48%, while December E-mini Nasdaq futures (NQZ26...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-25T21:17:12+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
   },
   {
    "id": "e7d72ec4a3e4",
@@ -329,6 +362,22 @@
    "tickers": []
   },
   {
+   "id": "34632e810d38",
+   "title": "3 Genius Quantum Computing Stocks to Buy Now",
+   "link": "https://www.nasdaq.com/articles/3-genius-quantum-computing-stocks-buy-now",
+   "summary": "Key PointsIonQ is the upstart of this bunch -- offering investors a pure-play quantum computing pick.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-25T21:05:00+00:00",
+   "tickers": [
+    "QUBT"
+   ]
+  },
+  {
    "id": "541bf5af2368",
    "title": "Musk warns of AI lending crunch after SpaceX closes $40B GPU financing",
    "link": "https://seekingalpha.com/news/4657008-musk-warns-of-ai-lending-crunch-after-spacex-closes-40b-gpu-financing?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -492,25 +541,6 @@
    "domain": "investing.com",
    "published": "2026-10-25T20:42:24+00:00",
    "tickers": []
-  },
-  {
-   "id": "fbf1bce23f37",
-   "title": "Stocks Undercut by Oil Prices and Continued AI Anxiety",
-   "link": "https://www.nasdaq.com/articles/stocks-undercut-oil-prices-and-continued-ai-anxiety-0",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) fell by -0.52% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) fell by -1.23%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) was unchanged. December E-mini S&P futures (ESZ26 ) fell -0.48%, while December E-mini Nasdaq futures (NQZ26...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-25T20:38:55+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
-   ]
   },
   {
    "id": "656ff39389ba",
@@ -2401,20 +2431,6 @@
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
    "published": "2026-10-25T18:45:18+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6c968e496c18",
-   "title": "Brazil votes in tight runoff between Lula and Bolsonaro",
-   "link": "https://www.cnbc.com/2026/10/25/brazil-lula-bolsonaro-presidential-election-runoff.html",
-   "summary": "Brazilians voted in a tight runoff that could move the nation sharply right, bringing it closer to the U.S. amid a broader conservative shift across the region.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-10-25T18:41:45+00:00",
    "tickers": []
   },
   {
@@ -8839,20 +8855,6 @@
    "type": "markets",
    "sentiment": "positive",
    "domain": "marketwatch.com",
-   "published": "2026-10-25T13:00:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "217be901dff5",
-   "title": "Bloom Energy's Selloff Misses The Upgrade",
-   "link": "https://seekingalpha.com/article/4957318-bloom-energy-s-selloff-misses-the-upgrade?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
    "published": "2026-10-25T13:00:00+00:00",
    "tickers": []
   }
