@@ -1,8 +1,69 @@
 {
- "generated": "2026-10-26T03:54:47.122624+00:00",
+ "generated": "2026-10-26T04:02:18.578973+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "7191eef2b446",
+   "title": "Brazil's Lula wins historic presidential election; Bolsonaro reportedly refuses to concede",
+   "link": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
+   "summary": "It's the first time since Brazil returned to direct elections in 1989 that a candidate has won the final runoff after losing in the first round.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "cnbc.com",
+   "published": "2026-10-26T03:57:04+00:00",
+   "tickers": []
+  },
+  {
+   "id": "5c532a79a3b7",
+   "title": "Innovent reports cancer drug results in breast, lung, pancreatic tumors",
+   "link": "https://seekingalpha.com/news/4657012-innovent-reports-cancer-drug-results-in-breast-lung-pancreatic-tumors?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-26T03:56:05+00:00",
+   "tickers": []
+  },
+  {
+   "id": "65cf5b481906",
+   "title": "Bank of Japan’s hawkish pause to leave scope for December hike",
+   "link": "https://www.investing.com/news/economy-news/bank-of-japans-hawkish-pause-to-leave-scope-for-december-hike-4971365",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-10-26T03:48:28+00:00",
+   "tickers": []
+  },
+  {
+   "id": "fbf1bce23f37",
+   "title": "Stocks Undercut by Oil Prices and Continued AI Anxiety",
+   "link": "https://www.nasdaq.com/articles/stocks-undercut-oil-prices-and-continued-ai-anxiety-0",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) fell by -0.52% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) fell by -1.23%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) was unchanged. December E-mini S&P futures (ESZ26 ) fell -0.48%, while December E-mini Nasdaq futures (NQZ26...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-26T03:46:14+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
+  },
   {
    "id": "f5eb7500f19d",
    "title": "ASTS Stock Slips Overnight: AST Seeks More Spectrum For Broadband Expansion — Market Veteran Flags ‘Sky-High’ Valuation",
@@ -192,6 +253,20 @@
    "tickers": []
   },
   {
+   "id": "ea1dd414caed",
+   "title": "China’s yuan climbs to fresh 4-year high ahead of key policy meetings",
+   "link": "https://www.investing.com/news/economy-news/chinas-yuan-climbs-to-fresh-4year-high-ahead-of-key-policy-meetings-4971368",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-10-26T03:42:22+00:00",
+   "tickers": []
+  },
+  {
    "id": "d145c5c3b6dc",
    "title": "XSPI: A 17% Yield With 150% Exposure Into The Fed",
    "link": "https://seekingalpha.com/article/4957373-xspi-17-percent-yield-with-150-percent-exposure-into-the-fed?source=feed_all_articles",
@@ -336,6 +411,20 @@
    "sentiment": "neutral",
    "domain": "biztoc.com",
    "published": "2026-10-26T03:28:13+00:00",
+   "tickers": []
+  },
+  {
+   "id": "7c25de1e4d8a",
+   "title": "Australian Market Swings To Slight Gains In Mid-market",
+   "link": "https://www.nasdaq.com/articles/australian-market-swings-slight-gains-mid-market",
+   "summary": "(RTTNews) - The Australian stock market is swinging its slight gains in mid-market trading on Monday after opening in the red, extending the slight gains in the previous session, following the broadly negative cues from Wall Street on Friday. The benchmark S&P/ASX 200 index is mo",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-10-26T03:26:24+00:00",
    "tickers": []
   },
   {
@@ -536,6 +625,20 @@
    "sentiment": "neutral",
    "domain": "biztoc.com",
    "published": "2026-10-26T03:12:52+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e08333656fad",
+   "title": "Asian Markets Track Wall Street Lower",
+   "link": "https://www.nasdaq.com/articles/asian-markets-track-wall-street-lower-12",
+   "summary": "(RTTNews) - Asian stock markets are trading mostly lower on Monday, following the broadly negative cues from Wall Street on Friday, on rising oil prices and global inflation worries amid uncertainty in the Middle East conflict. Traders also remain cautious ahead of the interest r",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-10-26T03:10:09+00:00",
    "tickers": []
   },
   {
@@ -1215,20 +1318,6 @@
    "sentiment": "neutral",
    "domain": "nasdaq.com",
    "published": "2026-10-26T02:25:13+00:00",
-   "tickers": []
-  },
-  {
-   "id": "7191eef2b446",
-   "title": "Brazil's Lula wins historic presidential election; Bolsonaro reportedly refuses to concede",
-   "link": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
-   "summary": "It's the first time since Brazil returned to direct elections in 1989 that a candidate has won the final runoff after losing in the first round.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "cnbc.com",
-   "published": "2026-10-26T02:18:09+00:00",
    "tickers": []
   },
   {
@@ -6090,25 +6179,6 @@
    "tickers": []
   },
   {
-   "id": "fbf1bce23f37",
-   "title": "Stocks Undercut by Oil Prices and Continued AI Anxiety",
-   "link": "https://www.nasdaq.com/articles/stocks-undercut-oil-prices-and-continued-ai-anxiety-0",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) fell by -0.52% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) fell by -1.23%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) was unchanged. December E-mini S&P futures (ESZ26 ) fell -0.48%, while December E-mini Nasdaq futures (NQZ26...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-25T21:17:12+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
-   ]
-  },
-  {
    "id": "e7d72ec4a3e4",
    "title": "More pain may be coming for the AI trade. Why I’m not giving up on it",
    "link": "https://www.cnbc.com/investingclub/2026/10/25/jim-cramer-ai-trade-nvidia-coreweave.html",
@@ -8716,81 +8786,6 @@
    "domain": "nasdaq.com",
    "published": "2026-10-25T18:20:02+00:00",
    "tickers": []
-  },
-  {
-   "id": "5f236ed700ab",
-   "title": "Selective Insurance: 3 Key Takeaways for Long-Term Investors",
-   "link": "https://www.nasdaq.com/articles/selective-insurance-3-key-takeaways-long-term-investors",
-   "summary": "Key PointsStandard commercial renewal pricing increased 5.7% in the third quarter.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-25T18:20:02+00:00",
-   "tickers": []
-  },
-  {
-   "id": "216224cb56de",
-   "title": "Ukraine disputes Elon Musk’s claim that its military violated Starlink terms during drone operations",
-   "link": "https://www.cnbc.com/2026/10/25/ukraine-musk-starlink-terms-dispute.html",
-   "summary": "Ukraine challenged Musk’s claim that its military violated Starlink terms, arguing that commercial Starlink limits prevented medium- and long-range strike use.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-10-25T18:18:49+00:00",
-   "tickers": []
-  },
-  {
-   "id": "c317a949f84c",
-   "title": "5.9-magnitude quake strikes China's Tibet region",
-   "link": "https://biztoc.com/x/1cb669c2e50a82eb?ref=rss",
-   "summary": "An earthquake with a magnitude of 5.9 struck China's Tibet region on Sunday, the United States Geological Survey (USGS) said.The epicenter was registered 218 kilometers from the city of Nagqu at a dep...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-25T18:16:56+00:00",
-   "tickers": []
-  },
-  {
-   "id": "62103c54a217",
-   "title": "'The world's super company': Wall Street weighs SpaceX earnings, company's likely Tesla tie-up",
-   "link": "https://biztoc.com/x/1dc42a64bbee709d?ref=rss",
-   "summary": "Elon Musk's vision for SpaceX (SPCX) has Wall Street sizing up a potential giant unlike anything it's seen before. Mix in a possible tie-up with Musk's EV giant Tesla (TSLA), and investors could be looking at a monster play. Wall Street strategists are already looking at SpaceX and Tesla as…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-25T18:16:53+00:00",
-   "tickers": [
-    "SPCX",
-    "TSLA"
-   ]
-  },
-  {
-   "id": "fde07bf74c29",
-   "title": "‘Learn the facts’: Amy Acton schools Trump on her childhood trauma",
-   "link": "https://biztoc.com/x/f174ca3e39fb374d?ref=rss",
-   "summary": "CLEVELAND — When asked about President Donald Trump’s strong defense of a GOP attack ad featuring her estranged mother calling her a liar, Amy Acton exercised prudence. “I’ve worked with the president before,” the Democratic gubernatorial nominee told MS NOW, “but I think he needs to learn the…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-25T18:16:51+00:00",
-   "tickers": [
-    "MS"
-   ]
   }
  ],
  "ticker_names": {
