@@ -1,8 +1,22 @@
 {
- "generated": "2026-10-26T05:52:40.350230+00:00",
+ "generated": "2026-10-26T06:00:48.526663+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "dce27da0b1fd",
+   "title": "IEA chief says energy markets won’t return to pre-Iran war levels",
+   "link": "https://www.investing.com/news/economy-news/iea-chief-says-energy-markets-wont-return-to-preiran-war-levels-93CH-4971427",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-10-26T05:50:09+00:00",
+   "tickers": []
+  },
   {
    "id": "f2594aa816af",
    "title": "Stock futures climb as traders try to recover from the S&P 500's losing week: Live updates",
@@ -173,6 +187,20 @@
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
    "published": "2026-10-26T05:45:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ebb29f2edc63",
+   "title": "Britain to nearly double funding for rough sleeping plan",
+   "link": "https://www.investing.com/news/economy-news/britain-to-nearly-double-funding-for-rough-sleeping-plan-93CH-4971423",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-26T05:43:38+00:00",
    "tickers": []
   },
   {
@@ -377,6 +405,20 @@
    "sentiment": "neutral",
    "domain": "cnbc.com",
    "published": "2026-10-26T05:22:30+00:00",
+   "tickers": []
+  },
+  {
+   "id": "31069ddbf37c",
+   "title": "Here's Why Estée Lauder Won't Reclaim a $100 Billion Market Cap Anytime Soon",
+   "link": "https://www.nasdaq.com/articles/heres-why-estee-lauder-wont-reclaim-100-billion-market-cap-anytime-soon",
+   "summary": "Key PointsEstée Lauder’s turnaround is working, but it's a margin plan, not a growth plan.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-10-26T05:20:00+00:00",
    "tickers": []
   },
   {
@@ -8702,53 +8744,6 @@
    "domain": "biztoc.com",
    "published": "2026-10-25T20:34:34+00:00",
    "tickers": []
-  },
-  {
-   "id": "c0d500e3bda1",
-   "title": "Windows 11 64-bit performance boost coming soon thanks to Intel & Microsoft",
-   "link": "https://biztoc.com/x/da5976d842ba70d8?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-10-25T20:34:31+00:00",
-   "tickers": [
-    "MSFT",
-    "INTC"
-   ]
-  },
-  {
-   "id": "0d74904e5fc5",
-   "title": "Will Solana Ever Hit $1,000? What It Would Take From $100",
-   "link": "https://biztoc.com/x/27cec07e949d3abf?ref=rss",
-   "summary": "The post Will Solana Ever Hit $1,000? What It Would Take From $100 appeared first on 24/7 Wall St.. For Solana (CRYPTO:SOL) to reach $1,000, the price would need to increase nearly tenfold from about $101. The idea of SOL hitting $1,000 keeps surfacing in forums and long-term predictions because…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-25T20:34:28+00:00",
-   "tickers": []
-  },
-  {
-   "id": "dbc688df8348",
-   "title": "VeriSign: 3 Key Takeaways for Long-Term Investors",
-   "link": "https://www.nasdaq.com/articles/verisign-3-key-takeaways-long-term-investors",
-   "summary": "Key PointsVeriSign processed a record 13.1 million new domain registrations in the third quarter.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-25T20:30:24+00:00",
-   "tickers": [
-    "VRSN"
-   ]
   }
  ],
  "ticker_names": {
@@ -8836,7 +8831,6 @@
   "NWSA": "News Corp",
   "CCL": "Carnival",
   "GOOG": "Alphabet",
-  "VRSN": "VeriSign",
   "SQ": "Cash App",
   "SNAP": "Snapchat",
   "FOX": "Fox Corp",
