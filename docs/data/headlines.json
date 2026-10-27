@@ -1,8 +1,471 @@
 {
- "generated": "2026-10-27T21:13:20.808734+00:00",
+ "generated": "2026-10-27T21:20:18.897888+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "b3dfcabae125",
+   "title": "CNBC Workforce Executive Summit live updates: Inside Walmart's AI strategy",
+   "link": "https://www.cnbc.com/2026/10/27/cnbc-workforce-summit-live-updates.html",
+   "summary": "Follow CNBC's 2026 Workforce Executive Summit for live updates on Walmart's AI strategy, changing job skills, hiring, employee benefits and the future of work.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-10-27T21:19:03+00:00",
+   "tickers": [
+    "WMT"
+   ]
+  },
+  {
+   "id": "0d06e21e44fc",
+   "title": "How investors can position ahead of the Fed's next policy decision",
+   "link": "https://www.cnbc.com/2026/10/27/how-investors-can-position-ahead-of-into-the-feds-next-policy-decision.html",
+   "summary": "The Federal Reserve's October rate decision has been a focus for investors and economists as Chairman Kevin Warsh has rejected traditional forward guidance.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-10-27T21:18:47+00:00",
+   "tickers": []
+  },
+  {
+   "id": "4d33ff38da7a",
+   "title": "Anthropic's IPO is risky business",
+   "link": "https://www.cnbc.com/2026/10/27/anthropic-five-surprising-risks-s1.html",
+   "summary": "Anthropic's much-anticipated IPO is giving potential investors some perspective on the risky business of artificial intelligence.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "offering",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-10-27T21:17:27+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e71ae35ffc94",
+   "title": "Earnings call transcript: Rocky Brands tops Q3 2026 estimates and lifts outlook",
+   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-rocky-brands-tops-q3-2026-estimates-and-lifts-outlook-93CH-4977047",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-10-27T21:17:22+00:00",
+   "tickers": []
+  },
+  {
+   "id": "0d656089b709",
+   "title": "Sound Financial Bancorp GAAP EPS of $0.90, revenue of $10.63M",
+   "link": "https://seekingalpha.com/news/4658513-sound-financial-bancorp-gaap-eps-of-0_90-revenue-of-10_63m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-27T21:16:58+00:00",
+   "tickers": []
+  },
+  {
+   "id": "69a0bfb2a6f2",
+   "title": "Jefferies raises Royal Caribbean stock price target on strong bookings",
+   "link": "https://www.investing.com/news/analyst-ratings/jefferies-raises-royal-caribbean-stock-price-target-on-strong-bookings-93CH-4977045",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-10-27T21:16:48+00:00",
+   "tickers": [
+    "JEF"
+   ]
+  },
+  {
+   "id": "c72ab0467741",
+   "title": "Earnings call transcript: Ribbon Communications tops Q3 2026 EPS forecast",
+   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-ribbon-communications-tops-q3-2026-eps-forecast-93CH-4977044",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-10-27T21:16:28+00:00",
+   "tickers": []
+  },
+  {
+   "id": "d018564e0705",
+   "title": "First NABEP Crude Cargo Under U.S. Agreement Arrives in Texas",
+   "link": "https://www.prnewswire.com/news-releases/first-nabep-crude-cargo-under-us-agreement-arrives-in-texas-302921312.html",
+   "summary": "Shipment of 1 million barrels arrived as NABEP production passes 223,000 barrels of oil equivalent per day. CORPUS CHRISTI, Texas, Oct. 27, 2026 /PRNewswire/ -- Two tankers carrying 1 million barrels of Venezuelan crude produced by North American Blue Energy Partners (NABEP) have arrived...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-10-27T21:16:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "82c03b8e1d18",
+   "title": "Opus Genetics COO Schachle reports $16,994 stock sale for taxes",
+   "link": "https://www.investing.com/news/insider-trading-news/opus-genetics-coo-schachle-reports-16994-stock-sale-for-taxes-93CH-4977042",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-27T21:15:56+00:00",
+   "tickers": []
+  },
+  {
+   "id": "046fac8722b2",
+   "title": "PPG Industries stock jumps as earnings beat estimates",
+   "link": "https://seekingalpha.com/news/4658505-ppg-industries-stock-jumps-as-earnings-beat-estimates?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-27T21:15:55+00:00",
+   "tickers": [
+    "PPG"
+   ]
+  },
+  {
+   "id": "3313e47d28b1",
+   "title": "Activist Ancora calls for H.B. Fuller to start a strategic review",
+   "link": "https://seekingalpha.com/news/4658484-activist-ancora-calls-for-h-b-fuller-to-start-a-strategic-review?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-27T21:15:46+00:00",
+   "tickers": []
+  },
+  {
+   "id": "84efdd8203e1",
+   "title": "Walmart says AI training is boosting confidence with the technology among its 2.1 million associates",
+   "link": "https://www.cnbc.com/2026/10/27/walmart-ai-training-workers.html",
+   "summary": "Walmart says training from OpenAI and Google is helping its 2.1 million associates feel more confident using AI and digital tools.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-10-27T21:15:35+00:00",
+   "tickers": [
+    "WMT",
+    "GOOGL"
+   ]
+  },
+  {
+   "id": "ad242bd353fb",
+   "title": "Lycos Energy to repurchase about 10% of public float",
+   "link": "https://seekingalpha.com/news/4658495-lycos-energy-to-repurchase-about-10-of-public-float?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-27T21:15:08+00:00",
+   "tickers": []
+  },
+  {
+   "id": "98a5a2a74a38",
+   "title": "Logitech falls on supply chain woes despite Q2 beat",
+   "link": "https://www.investing.com/news/earnings/logitech-falls-on-supply-chain-woes-despite-q2-beat-4977039",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-27T21:15:07+00:00",
+   "tickers": [
+    "LOGI"
+   ]
+  },
+  {
+   "id": "253104314891",
+   "title": "Baker Hughes earnings beat by $0.10, revenue topped estimates",
+   "link": "https://www.investing.com/news/earnings/baker-hughes-earnings-beat-by-010-revenue-topped-estimates-4977038",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-10-27T21:14:50+00:00",
+   "tickers": [
+    "BKR"
+   ]
+  },
+  {
+   "id": "1b6e530b99e0",
+   "title": "First Busey Non-GAAP EPS of $0.63 misses by $0.04, revenue of $193.54M misses by $2.23M",
+   "link": "https://seekingalpha.com/news/4658511-first-busey-non-gaap-eps-of-0_63-misses-by-0_04-revenue-of-193_54m-misses-by-2_23m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "earnings",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-27T21:14:24+00:00",
+   "tickers": []
+  },
+  {
+   "id": "d941587972d2",
+   "title": "Sugar Prices Stabilize after Monday’s Sell-off",
+   "link": "https://www.nasdaq.com/articles/sugar-prices-stabilize-after-mondays-sell-0",
+   "summary": "March NY world sugar #11 (SBH27 ) on Tuesday closed up +0.10 (+0.52), and December London ICE white sugar #5 (SWZ26 ) closed up +3.80 (+0.74%). NY sugar prices on Tuesday stabilized after Monday’s -5.6% plunge to a 1-month low. Sugar prices fell sharply on Monday as the Brazilian real...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-27T21:14:14+00:00",
+   "tickers": [
+    "ICE"
+   ]
+  },
+  {
+   "id": "56280d298d8b",
+   "title": "FirstEnergy Foundation Strengthens Support for Shelter, Safety and Stability",
+   "link": "https://www.prnewswire.com/news-releases/firstenergy-foundation-strengthens-support-for-shelter-safety-and-stability-302921308.html",
+   "summary": "Expanded initiative provides $125,000 to eight West Virginia and Maryland organizations and $500,000 across five states FAIRMONT, W.Va., Oct. 27, 2026 /PRNewswire/ -- The FirstEnergy Foundation is investing $125,000 in seven West Virginia and Maryland organizations that provide emergency...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-10-27T21:14:00+00:00",
+   "tickers": [
+    "FE",
+    "WST"
+   ]
+  },
+  {
+   "id": "79c887407d3e",
+   "title": "BigBear.ai Q3 2026 slides: revenue surges 31%, guidance raised",
+   "link": "https://www.investing.com/news/company-news/bigbearai-q3-2026-slides-revenue-surges-31-guidance-raised-93CH-4977036",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-10-27T21:13:32+00:00",
+   "tickers": [
+    "BBAI"
+   ]
+  },
+  {
+   "id": "03d6b88b6ec3",
+   "title": "Earnings call transcript: Pulmonx Q3 2026 beats forecasts, shares jump 13%",
+   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-pulmonx-q3-2026-beats-forecasts-shares-jump-13-93CH-4977035",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-10-27T21:13:01+00:00",
+   "tickers": []
+  },
+  {
+   "id": "bfcafe5f75b1",
+   "title": "American Public Education, Inc. Appoints Shira Goodman to Board of Directors Effective October 27, 2026",
+   "link": "https://www.nasdaq.com/articles/american-public-education-inc-appoints-shira-goodman-board-directors-effective-october-27",
+   "summary": "American Public Education, Inc. announced that its Board of Directors appointed Shira Goodman to serve as a director of the Company, effective as of October 27, 2026. Ms. Goodman will hold office for a term expiring at the 2027 Annual Meeting of Stockholders. She has also been ap",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-27T21:12:57+00:00",
+   "tickers": []
+  },
+  {
+   "id": "9c29294d3200",
+   "title": "Early third-quarter earnings show a 'resilient' U.S. consumer, with signs of strain",
+   "link": "https://www.cnbc.com/2026/10/27/q3-earnings-resilient-consumer.html",
+   "summary": "Companies from Royal Caribbean to Coca-Cola and UPS say they are seeing steady consumer spending despite high inflation.",
+   "article_text": "Q3 earnings show resilient U.S. consumer, signs of strain Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Key Points Companies from Royal Caribbean to Coca-Cola and UPS say they are seeing steady consumer spending despite high inflation. High fuel prices and interest rates raised concerns about slower consumer spending during the third quarter. Many businesses said they saw resilient spending in the third quarter, though some companies reported weaker sales. In this article KO WHR SHW UPS RCL Follow your favorite stocks CREATE FREE ACCOUNT A customer pushes a shopping cart with cases of Coca-Cola outside a Walmart Supercenter retail store in North Bergen, New Jersey, Nov. 21, 2025. Mike Segar | Reuters One word keeps appearing in third-quarter earnings reports: \"resilient.\" That's the early read on U.S. consumers from various companies that released their results this week. Many businesses say Americans are still spending despite inflationary pressures, though not every company has enjoyed the same success. The commentary comes amid fears that diesel fuel prices, which hit an all-time high of $6.52 per gallon in September, would drive up prices on consumer products . Economists also worried that more expensive regular gas, combined with high borrowing costs and continued tension between the U.S. and Iran, would spur a pullback in consumer spending. Retail sales rose 0.8% in September, following a jump of 1.3% in August. Sales in September were boosted by rising gas station spending. Despite all those challenges, some corporate executives say the headwinds aren't yet affecting sales. \"There's been a lot of noise in the market this year. There's a lot of geopolitical stuff,\" Royal Caribbean Chairman and CEO Jason Liberty said on the company's earnings call on Tuesday. \"But I look at our business [and our results], and I think that really talks to the resilience of the business, the resilience of the consumer.\" Royal Caribbean reported an increase in bookings during its third quarter, while Sherwin-Williams' CEO said the quarter was evidence of the company's strength. Here's how companies are reading the consumer in the most recent three-month period: Coca-Cola The food and beverage company beat analysts' expectations for third-quarter earnings and revenue despite what CEO Henrique Braun called an \"uneven environment.\" Coca-Cola reported that North America unit case volume was flat, indicating demand was steady in the face of higher prices. The company's overall unit case volume was helped by higher demand outside of North America. \"The underlying momentum remains quite strong,\" Chief Financial Officer John Murphy told CNBC. \"Consumer sentiment is largely unchanged in the sense that, wherever you are on the income scale, you're looking for value, and I think our system here has done a good job interpreting that.\" The company increased its full-year forecast and now expects its comparable earnings per share to grow at least 11%, up from a prior forecast of growth between 9% and 10%. Royal Caribbean The cruise company beat Wall Street's expectations for earnings per share and narrowly missed on revenue. \"Our third quarter results reflect continued strong consumer demand for our vacation experiences and the accelerated momentum across our industry leading brands,\" CEO Liberty said in the release . The company reported that the number of guests served in the third quarter increased 9% year over year to 2.7 million vacationers and said booking volumes for 2027 were already \"up in the high teens,\" pacing ahead of historical levels and indicating high travel demand. \"It's not that we don't see points of challenges, but really what we've seen is that even in those points of challenges, the consumer comes roaring back as relates to the vacation experiences,\" Liberty told CNBC's \"Squawk on the Street\" following the report. Royal Caribbean shares closed up more than 5% on Tuesday. watch now VIDEO 3:50 03:50 Royal Caribbean CEO Jason Liberty on Q3 earnings beat: We're seeing an uptick in bookings Squawk on the Street Sherwin-Williams Sherwin-Williams beat analysts' expectations for revenue but fell short of expected earnings per share. Sherwin-Williams CEO Heidi Petz said in the company's earnings release that the paint retailer's performance demonstrated \"the resilience of our Company and the strength of our strategy in a challenging demand environment.\" \"Despite muted underlying market volumes, we continued to win new customers, increase share-of-wallet and deliver sales growth across all three reportable segments,\" she said. Net sales increased 7.9% from the same period last year. The company attributed the gain to higher selling prices, but the benefits to profits were partially offset by increased costs of raw materials and supply-chain related expenses. And the company maintained full-year guidance, saying \"customer sentiment and the leading indicators we track point to muted demand over the remainder of the year and into 2027.\" UPS A worker drives a United Parcel Service truck on Oct. 28, 2025, in Los Angeles, California. Mario Tama | Getty Images UPS beat Wall Street expectations for both earnings per share and revenue in the third quarter. Revenue in the U.S. rose 4.5% during the period to $14.86 billion. CEO Carol Tomé told investors on the company's earnings call that consumers remain \"resilient\" ahead of the holiday season, the company's busiest period. She said the company expects that average daily shipping volume will grow next quarter at a rate consistent with last year. However, fourth-quarter domestic average daily volume will likely fall due to reducing deliveries with Amazon, she said. UPS has been in the midst of unwinding its partnership with Amazon at the same time it's executing a broad turnaround effort to operate more leanly. The company raised its full-year forecast for the second quarter in a row, projecting consolidated revenue of approximately $92.6 billion, up from its previous expectations of $91.2 billion. Shares closed up more than 5% on Tuesday. Whirlpool Not every company is seeing the same spending trends, however. Appliance maker Whirlpool missed on both the top and bottom lines for its third quarter and cut its full-year revenue guidance. Net sales in North America fell more than 8% year over year during the period ending on Sept. 30. Even still, the company cited its own read on \"resilience.\" \"Through disciplined working capital management, we are protecting our year end free cash flow and our balance sheet resilience to navigate challenging market conditions,\" CFO Roxanne Warner said in the earnings release . Shares closed up more than 3% on Tuesday. — CNBC's Amelia Lucas and Laya Neelakandan contributed to this report. Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
+   "source": "CNBC Earnings",
+   "category": "earnings",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-10-27T21:12:55+00:00",
+   "tickers": [
+    "KO"
+   ]
+  },
+  {
+   "id": "c6dcb068e355",
+   "title": "Hasbro, Inc. Appoints Dan Ayoub as President of Wizards of the Coast and Hasbro Digital Games, Effective November 2, 2026",
+   "link": "https://www.nasdaq.com/articles/hasbro-inc-appoints-dan-ayoub-president-wizards-coast-and-hasbro-digital-games-effective",
+   "summary": "Hasbro, Inc. announced the appointment of Dan Ayoub as President of Wizards of the Coast and Hasbro Digital Games, effective November 2, 2026. According to the company, Mr. Ayoub was selected after a rigorous search that evaluated dozens of internal and external candidates, and h",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-27T21:12:49+00:00",
+   "tickers": []
+  },
+  {
+   "id": "57ffd535d549",
+   "title": "Speaker Mike Johnson calls election-transfer concerns ‘absurd’",
+   "link": "https://www.cnbc.com/2026/10/27/speaker-johnson-peaceful-transfer-midterms.html",
+   "summary": "Democrats and voting rights groups have raised concerns that President Donald Trump and congressional Republicans could challenge election results if they lose.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-10-27T21:12:41+00:00",
+   "tickers": []
+  },
+  {
+   "id": "41d4e8e91ed4",
+   "title": "UMB Financial Corporation Announces Agreement to Acquire El Dorado Savings Bank in Transaction Valued at Approximately $506 million",
+   "link": "https://www.nasdaq.com/articles/umb-financial-corporation-announces-agreement-acquire-el-dorado-savings-bank-transaction",
+   "summary": "UMB Financial Corporation announced a definitive agreement to acquire El Dorado Savings Bank, F.S.B. in a 52% cash, 48% stock transaction valued at approximately $506 million. El Dorado, founded in 1958 and headquartered in Placerville, California, has $2.4 billion in assets, $2.",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-27T21:12:41+00:00",
+   "tickers": [
+    "UMBF"
+   ]
+  },
+  {
+   "id": "36539cde41ea",
+   "title": "Watsco secures new $750 million credit facility, terminates prior agreement",
+   "link": "https://www.investing.com/news/sec-filings/watsco-secures-new-750-million-credit-facility-terminates-prior-agreement-93CH-4977034",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-10-27T21:12:28+00:00",
+   "tickers": [
+    "WSO"
+   ]
+  },
+  {
+   "id": "c8df05fce032",
+   "title": "Wall Street ends higher on revived AI momentum",
+   "link": "https://www.investing.com/news/economy-news/us-stock-futures-muted-as-oil-holds-near-april-highs-ahead-of-fed-decision-4974650",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-27T21:12:27+00:00",
+   "tickers": []
+  },
+  {
+   "id": "d0d351d7e73a",
+   "title": "L'ECOVACS WINBOT W3 OMNI figure au palmarès des meilleures inventions de 2026 du magazine TIME",
+   "link": "https://www.prnewswire.com/news-releases/lecovacs-winbot-w3-omni-figure-au-palmares-des-meilleures-inventions-de-2026-du-magazine-time-302921306.html",
+   "summary": "NEW YORK, 27 octobre 2026 /PRNewswire/ -- ECOVACS ROBOTICS, un chef de file mondial de la robotique au service des particuliers, est honoré d'annoncer que son WINBOT W3 OMNI figure au palmarès des meilleures inventions de 2026 du magazine TIME[1]. Cette reconnaissance souligne le...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-10-27T21:12:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "419b2f9041a4",
+   "title": "Hagee Ministries Holds 46th Night to Honor Israel",
+   "link": "https://www.prnewswire.com/news-releases/hagee-ministries-holds-46th-night-to-honor-israel-302921307.html",
+   "summary": "To date, Hagee Ministries has donated more than $150 million to Israeli and Jewish charities SAN ANTONIO, Oct. 27, 2026 /PRNewswire/ -- On Sunday, Hagee Ministries held its 46th annual Night to Honor Israel at Cornerstone Church in San Antonio. With thousands in attendance, members of the...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-10-27T21:12:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "1bd5467fcb10",
+   "title": "Ensign Non-GAAP EPS of $2.03 beats by $0.06, revenue of $1.48B misses by $30M",
+   "link": "https://seekingalpha.com/news/4658510-ensign-non-gaap-eps-of-2_03-beats-by-0_06-revenue-of-1_48b-misses-by-30m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-27T21:11:53+00:00",
+   "tickers": []
+  },
+  {
+   "id": "7572c64a4635",
+   "title": "Principal signals $1.5B to $1.8B 2026 capital deployment while shifting buybacks toward the low end after Beam deal",
+   "link": "https://seekingalpha.com/news/4658509-principal-signals-1_5b-to-1_8b-2026-capital-deployment-while-shifting-buybacks-toward-the-low?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-27T21:11:13+00:00",
+   "tickers": [
+    "PFG",
+    "BEAM"
+   ]
+  },
   {
    "id": "2dc86908dc13",
    "title": "Brookfield Business Corporation: Steeper Discount Than Peers, But Maybe Not Enough For Return",
@@ -78,6 +541,53 @@
    "tickers": []
   },
   {
+   "id": "5bb08c188c17",
+   "title": "Tensor Auto and Munich taxi operator plan autonomous fleet",
+   "link": "https://www.investing.com/news/stock-market-news/tensor-auto-and-munich-taxi-operator-plan-autonomous-fleet-93CH-4977020",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-27T21:09:32+00:00",
+   "tickers": []
+  },
+  {
+   "id": "96efbdf782b0",
+   "title": "Crude Oil Prices Fall Back As Iran’s Supreme Leader Reiterates Deal Terms",
+   "link": "https://www.nasdaq.com/articles/crude-oil-prices-fall-back-irans-supreme-leader-reiterates-deal-terms-0",
+   "summary": "December WTI crude oil (CLZ26 ) on Tuesday closed down -1.86 (-1.83%), and December RBOB gasoline (RBZ26 ) closed down -0.0684 (-2.18%). WTI crude oil prices fell on Tuesday after Iranian supreme leader, Mojtaba Khamenei, called for pursuing conditions that Iranian officials have set to end the war. He also...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "analyst",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-10-27T21:09:26+00:00",
+   "tickers": []
+  },
+  {
+   "id": "33e048444fa0",
+   "title": "Stocks See Support as Crude Oil Prices Ease and FOMC Awaited",
+   "link": "https://www.nasdaq.com/articles/stocks-see-support-crude-oil-prices-ease-and-fomc-awaited",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) is up +0.42%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.02%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +0.92%. December E-mini S&P futures (ESZ26 ) are up +0.50%, and December E-mini Nasdaq futures (NQZ26...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-27T21:09:26+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
+  },
+  {
    "id": "0f7afadd03e7",
    "title": "Robinhood shares fall 4% as crypto slump weighs on profits, offsetting gains in new businesses",
    "link": "https://www.cnbc.com/2026/10/27/robinhood-hood-q3-2026-earnings.html",
@@ -135,20 +645,6 @@
    "sentiment": "positive",
    "domain": "seekingalpha.com",
    "published": "2026-10-27T21:07:28+00:00",
-   "tickers": []
-  },
-  {
-   "id": "57ffd535d549",
-   "title": "Speaker Mike Johnson calls election-transfer concerns ‘absurd’",
-   "link": "https://www.cnbc.com/2026/10/27/speaker-johnson-peaceful-transfer-midterms.html",
-   "summary": "Democrats and voting rights groups have raised concerns that President Donald Trump and congressional Republicans could challenge election results if they lose.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-10-27T21:07:04+00:00",
    "tickers": []
   },
   {
@@ -281,6 +777,68 @@
    "published": "2026-10-27T21:04:35+00:00",
    "tickers": [
     "RCL"
+   ]
+  },
+  {
+   "id": "90a9c4626e5b",
+   "title": "Franklin Financial Services Corporation Reports Third Quarter 2026 Net Income of $8.5 million",
+   "link": "https://www.nasdaq.com/articles/franklin-financial-services-corporation-reports-third-quarter-2026-net-income-85-million",
+   "summary": "Franklin Financial Services Corporation reported net income of $8.5 million, or $1.89 per diluted share, for the third quarter of 2026, representing an increase of 59.4% compared to net income of $5.4 million, or $1.19 per diluted share, for the third quarter of 2025. For the nin",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-27T21:04:18+00:00",
+   "tickers": [
+    "BEN"
+   ]
+  },
+  {
+   "id": "ec5cb250690d",
+   "title": "Sugar Prices Stabilize after Monday’s Sell-off",
+   "link": "https://www.nasdaq.com/articles/sugar-prices-stabilize-after-mondays-sell",
+   "summary": "March NY world sugar #11 (SBH27 ) is up +0.15 (+0.79%), and December London ICE white sugar #5 (SWZ26 ) is up +3.10 (+0.60%). NY sugar prices today have stabilized after Monday’s -5.6% plunge to a 1-month low. Sugar prices fell sharply on Monday as the Brazilian real plunged nearly...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-27T21:04:14+00:00",
+   "tickers": [
+    "ICE"
+   ]
+  },
+  {
+   "id": "20dd8eecd2fe",
+   "title": "Grupo Aval Acciones y Valores S.A. Announces Dismissal of Charges and Conclusion of Corficolombiana’s Agreement with the U.S. Department of Justice on October 26, 2026",
+   "link": "https://www.nasdaq.com/articles/grupo-aval-acciones-y-valores-sa-announces-dismissal-charges-and-conclusion",
+   "summary": "Grupo Aval Acciones y Valores S.A. announced that its subsidiary, Corporación Financiera Colombiana S.A., has fully satisfied its obligations under the Deferred Prosecution Agreement entered into with the U.S. Department of Justice in August 2023, resulting in a court orde",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-10-27T21:04:09+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f201f3dabb43",
+   "title": "Visa Inc. Reports Fiscal Fourth Quarter and Full-Year 2026 Results",
+   "link": "https://www.nasdaq.com/articles/visa-inc-reports-fiscal-fourth-quarter-and-full-year-2026-results",
+   "summary": "Visa Inc. reported its financial results for the fiscal fourth quarter and full-year ended September 30, 2026. For the fourth quarter, net revenue was $12.1 billion, an increase of 13% over the prior year. GAAP net income in the fiscal fourth quarter was $6.0 billion or $3.19 per",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-27T21:04:08+00:00",
+   "tickers": [
+    "V"
    ]
   },
   {
@@ -872,6 +1430,22 @@
    "tickers": []
   },
   {
+   "id": "ace8be91b7ad",
+   "title": "Seagate Technology shares fall 6% despite Q1 earnings beat and raised guidance",
+   "link": "https://www.investing.com/news/stock-market-news/seagate-technology-shares-fall-8-despite-q1-earnings-beat-and-raised-guidance-4976742",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-10-27T20:59:29+00:00",
+   "tickers": [
+    "STX"
+   ]
+  },
+  {
    "id": "e933a4f5ffe3",
    "title": "Commercial Bancgroup, Inc. Non-GAAP EPS of $0.79",
    "link": "https://seekingalpha.com/news/4658487-commercial-bancgroup-inc-non-gaap-eps-of-0_79?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -917,6 +1491,20 @@
     "SCI",
     "ADC"
    ]
+  },
+  {
+   "id": "3a01f5eecb8d",
+   "title": "Nat-Gas Prices Partially Recover from Monday’s 6-Month Low",
+   "link": "https://www.nasdaq.com/articles/nat-gas-prices-partially-recover-mondays-6-month-low",
+   "summary": "November Nymex natural gas (NGX26 ) on Tuesday closed up +0.095 (+3.65%). Nov nat-gas prices on Tuesday rebounded higher from Monday’s 6-month nearest futures low. Even after Tuesday’s rebound, Nov nat-gas prices are down a net -18% since October 13 on forecasts for above-average US autumn temperatures that could curb...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-27T20:57:55+00:00",
+   "tickers": []
   },
   {
    "id": "60d9cf0023a3",
@@ -1161,6 +1749,48 @@
    ]
   },
   {
+   "id": "9fec072f8200",
+   "title": "National Research Corporation Reports Third Quarter 2026 Revenue of $38.4 million",
+   "link": "https://www.nasdaq.com/articles/national-research-corporation-reports-third-quarter-2026-revenue-384-million",
+   "summary": "National Research Corporation reported its financial results for the third quarter ended September 30, 2026. Total revenue was $38.4 million for the three months ended September 30, 2026, up 11% from the prior year. GAAP Net Income and Adjusted Net Income* were $4.7 million, repr",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-27T20:52:42+00:00",
+   "tickers": []
+  },
+  {
+   "id": "1bc837d7c4bb",
+   "title": "Seacoast Banking Corporation of Florida Reports Third Quarter 2026 Net Income of $59.9 million",
+   "link": "https://www.nasdaq.com/articles/seacoast-banking-corporation-florida-reports-third-quarter-2026-net-income-599-million",
+   "summary": "Seacoast Banking Corporation of Florida reported net income of $59.9 million, or $0.55 per diluted share, for the third quarter of 2026, compared to $59.5 million, or $0.55 per diluted share, in the prior quarter and $36.5 million, or $0.42 per diluted share, in the prior year qu",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-27T20:52:42+00:00",
+   "tickers": []
+  },
+  {
+   "id": "877ebb07a476",
+   "title": "Sangamo Therapeutics, Inc. Files Monthly Operating Reports and Closes $161 million in Asset Sales",
+   "link": "https://www.nasdaq.com/articles/sangamo-therapeutics-inc-files-monthly-operating-reports-and-closes-161-million-asset",
+   "summary": "Sangamo Therapeutics, Inc. filed its monthly operating reports with the United States Bankruptcy Court for the District of Delaware for the periods ending July 31, 2026, August 31, 2026, and September 30, 2026. During the period beginning September 1, 2026 and ended September 30,",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-27T20:52:33+00:00",
+   "tickers": []
+  },
+  {
    "id": "27ad5d25aaa3",
    "title": "Icon Non-GAAP EPS of $2.66 beats by $0.03, revenue of $2.02B beats by $10M",
    "link": "https://seekingalpha.com/news/4658472-icon-non-gaap-eps-of-2_66-beats-by-0_03-revenue-of-2_02b-beats-by-10m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -1398,23 +2028,6 @@
    "domain": "biztoc.com",
    "published": "2026-10-27T20:48:47+00:00",
    "tickers": []
-  },
-  {
-   "id": "84efdd8203e1",
-   "title": "Walmart says AI training is boosting confidence with the technology among its 2.1 million associates",
-   "link": "https://www.cnbc.com/2026/10/27/walmart-ai-training-workers.html",
-   "summary": "Walmart says training from OpenAI and Google is helping its 2.1 million associates feel more confident using AI and digital tools.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-10-27T20:48:38+00:00",
-   "tickers": [
-    "WMT",
-    "GOOGL"
-   ]
   },
   {
    "id": "50353ad7922b",
@@ -1747,66 +2360,6 @@
    ]
   },
   {
-   "id": "d941587972d2",
-   "title": "Sugar Prices Stabilize after Monday’s Sell-off",
-   "link": "https://www.nasdaq.com/articles/sugar-prices-stabilize-after-mondays-sell-0",
-   "summary": "March NY world sugar #11 (SBH27 ) on Tuesday closed up +0.10 (+0.52), and December London ICE white sugar #5 (SWZ26 ) closed up +3.80 (+0.74%). NY sugar prices on Tuesday stabilized after Monday’s -5.6% plunge to a 1-month low. Sugar prices fell sharply on Monday as the Brazilian real...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-27T20:45:34+00:00",
-   "tickers": [
-    "ICE"
-   ]
-  },
-  {
-   "id": "3a01f5eecb8d",
-   "title": "Nat-Gas Prices Partially Recover from Monday’s 6-Month Low",
-   "link": "https://www.nasdaq.com/articles/nat-gas-prices-partially-recover-mondays-6-month-low",
-   "summary": "November Nymex natural gas (NGX26 ) on Tuesday closed up +0.095 (+3.65%). Nov nat-gas prices on Tuesday rebounded higher from Monday’s 6-month nearest futures low. Even after Tuesday’s rebound, Nov nat-gas prices are down a net -18% since October 13 on forecasts for above-average US autumn temperatures that could curb...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-27T20:45:34+00:00",
-   "tickers": []
-  },
-  {
-   "id": "96efbdf782b0",
-   "title": "Crude Oil Prices Fall Back As Iran’s Supreme Leader Reiterates Deal Terms",
-   "link": "https://www.nasdaq.com/articles/crude-oil-prices-fall-back-irans-supreme-leader-reiterates-deal-terms-0",
-   "summary": "December WTI crude oil (CLZ26 ) on Tuesday closed down -1.86 (-1.83%), and December RBOB gasoline (RBZ26 ) closed down -0.0684 (-2.18%). WTI crude oil prices fell on Tuesday after Iranian supreme leader, Mojtaba Khamenei, called for pursuing conditions that Iranian officials have set to end the war. He also...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "analyst",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-10-27T20:45:34+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ec5cb250690d",
-   "title": "Sugar Prices Stabilize after Monday’s Sell-off",
-   "link": "https://www.nasdaq.com/articles/sugar-prices-stabilize-after-mondays-sell",
-   "summary": "March NY world sugar #11 (SBH27 ) is up +0.15 (+0.79%), and December London ICE white sugar #5 (SWZ26 ) is up +3.10 (+0.60%). NY sugar prices today have stabilized after Monday’s -5.6% plunge to a 1-month low. Sugar prices fell sharply on Monday as the Brazilian real plunged nearly...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-27T20:45:33+00:00",
-   "tickers": [
-    "ICE"
-   ]
-  },
-  {
    "id": "c10bdc773241",
    "title": "Cotton Facing Tuesday Pressure",
    "link": "https://www.nasdaq.com/articles/cotton-facing-tuesday-pressure",
@@ -1879,22 +2432,6 @@
    "tickers": []
   },
   {
-   "id": "b3dfcabae125",
-   "title": "CNBC Workforce Executive Summit live updates: How AI is reshaping work and jobs",
-   "link": "https://www.cnbc.com/2026/10/27/cnbc-workforce-summit-live-updates.html",
-   "summary": "Follow CNBC's 2026 Workforce Executive Summit for live updates on Walmart's AI strategy, changing job skills, hiring, employee benefits and the future of work.",
-   "article_text": "CNBC Workforce Executive Summit 2026 live updates: AI at work Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu CNBC Workforce Executive Council members speak with CNBC's Sharon Epperson at the 2026 CNBC Workforce Executive Council Summit in New York City on October 27, 2026. CNBC Today's workplace faces a litany of challenges. Whether it's shifting power dynamics between employers and employees, the accelerating impact of artificial intelligence on how we work and the skills we need, or the financial stresses that employees of all ranks are feeling, these issues and more are challenging the cohesion of workplace communities. To address these issues, CNBC is convening its premiere council of human resource executives in New York City on Tuesday for the annual CNBC Workforce Executive Summit. The event is exclusive to members of CNBC's Workforce Executive Council. For more about the WEC and to apply for membership, visit www.cnbccouncils.com/wec . 28 Min Ago Walmart says AI training is boosting confidence with the technology among its 2.1 million associates Maren Waggoner, Walmart senior vice president and chief people officer for associate experience and digital, speaks with CNBC's Leslie Picker at the 2026 CNBC Workforce Executive Council Summit in New York City on October 27. 2026. CNBC As enterprise AI investment continues to grow, companies of all sizes are trying to figure out how employees feel about the technology in the workplace. Walmart , the biggest private employer in the world, asked its 2.1 million associates in June that exact question for the first time, trying to get a sense of how one of the most diverse workforces is experiencing AI. What it found, based on more than 1.7 million survey responses, is that while workers have different levels of familiarity and comfort with AI, training and experience with the technology matters. Seventy-seven percent of Walmart's office-based associates said they feel pretty confident in using AI tools, Walmart Chief People Officer for Associate Experience and Digital Maren Waggoner told CNBC's Leslie Picker at the 2026 CNBC Workforce Executive Council Summit in New York City. And as for Walmart's U.S. frontline associates, 84% said they are confident using digital tools, a reflection of the AI-powered tools that many of them are now using in their roles, she said. \"We've given them certificates, we've given them training programs and tools, and so they're using it in their day-to-day,\" Waggoner said. In the last 13 months, Walmart has partnered with both Google and OpenAI around learning and AI certification programs for associates at no cost. Waggoner said that associates who went through OpenAI training said they had a 27% confidence gain using AI. That has helped Walmart buck some of the larger trends around AI across the coun",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-10-27T20:44:54+00:00",
-   "tickers": [
-    "WMT"
-   ]
-  },
-  {
    "id": "0af1cc2313bd",
    "title": "OrthoPediatrics Non-GAAP EPS of -$0.23 misses by $0.02, revenue of $72.7M beats by $4.2M",
    "link": "https://seekingalpha.com/news/4658461-orthopediatrics-non-gaap-eps-of-0_23-misses-by-0_02-revenue-of-72_7m-beats-by-4_2m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -1906,20 +2443,6 @@
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
    "published": "2026-10-27T20:44:41+00:00",
-   "tickers": []
-  },
-  {
-   "id": "0d06e21e44fc",
-   "title": "How investors can position ahead of into the Fed's next policy decision",
-   "link": "https://www.cnbc.com/2026/10/27/how-investors-can-position-ahead-of-into-the-feds-next-policy-decision.html",
-   "summary": "The Federal Reserve's October rate decision has been a focus for investors and economists as Chairman Kevin Warsh has rejected traditional forward guidance.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-10-27T20:44:35+00:00",
    "tickers": []
   },
   {
@@ -2057,22 +2580,6 @@
    "domain": "nasdaq.com",
    "published": "2026-10-27T20:42:18+00:00",
    "tickers": []
-  },
-  {
-   "id": "9c29294d3200",
-   "title": "Early third-quarter earnings show a 'resilient' U.S. consumer, with signs of strain",
-   "link": "https://www.cnbc.com/2026/10/27/q3-earnings-resilient-consumer.html",
-   "summary": "Companies from Royal Caribbean to Coca-Cola and UPS say they are seeing steady consumer spending despite high inflation.",
-   "article_text": "Q3 earnings show resilient U.S. consumer, signs of strain Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Key Points Companies from Royal Caribbean to Coca-Cola and UPS say they are seeing steady consumer spending despite high inflation. High fuel prices and interest rates raised concerns about slower consumer spending during the third quarter. Many businesses said they saw resilient spending in the third quarter, though some companies reported weaker sales. In this article KO WHR SHW UPS RCL Follow your favorite stocks CREATE FREE ACCOUNT A customer pushes a shopping cart with cases of Coca-Cola outside a Walmart Supercenter retail store in North Bergen, New Jersey, Nov. 21, 2025. Mike Segar | Reuters One word keeps appearing in third-quarter earnings reports: \"resilient.\" That's the early read on U.S. consumers from various companies that released their results this week. Many businesses say Americans are still spending despite inflationary pressures, though not every company has enjoyed the same success. The commentary comes amid fears that diesel fuel prices, which hit an all-time high of $6.52 per gallon in September, would drive up prices on consumer products . Economists also worried that more expensive regular gas, combined with high borrowing costs and continued tension between the U.S. and Iran, would spur a pullback in consumer spending. Retail sales rose 0.8% in September, following a jump of 1.3% in August. Sales in September were boosted by rising gas station spending. Despite all those challenges, some corporate executives say the headwinds aren't yet affecting sales. \"There's been a lot of noise in the market this year. There's a lot of geopolitical stuff,\" Royal Caribbean Chairman and CEO Jason Liberty said on the company's earnings call on Tuesday. \"But I look at our business [and our results], and I think that really talks to the resilience of the business, the resilience of the consumer.\" Royal Caribbean reported an increase in bookings during its third quarter, while Sherwin-Williams's CEO said the quarter was evidence of the company's strength. Here's how companies are reading the consumer in the most recent three-month period: Coca-Cola The food and beverage company beat analysts' expectations for third-quarter earnings and revenue despite what CEO Henrique Braun called an \"uneven environment.\" Coca-Cola reported that North America unit case volume was flat, indicating demand was steady in the face of higher prices. The company's overall unit case volume was helped by higher demand outside of North America. \"The underlying momentum remains quite strong,\" CFO John Murphy told CNBC. \"Consumer sentiment is largely unchanged in the sense that, wherever you are on the income scale, you're looking for value, and I think our system here has done a good job interpreting that.\" The company increased its full-year forecast and now expects its comparable earnings per share to grow at least 11%, up from a prior forecast of growth between 9% and 10%. Royal Caribbean The cruise company beat Wall Street's expectations for earnings per share and narrowly missed on revenue. \"Our third quarter results reflect continued strong consumer demand for our vacation experiences and the accelerated momentum across our industry leading brands,\" CEO Liberty said in the release . The company reported that the number of guests served in the third quarter increased 9% year over year to 2.7 million vacationers and said booking volumes for 2027 were already \"up in the high teens,\" pacing ahead of historical levels and indicating high travel demand. \"It's not that we don't see points of challenges, but really what we've seen is that even in those points of challenges, the consumer comes roaring back as relates to the vacation experiences,\" Liberty told CNBC's \"Squawk on the Street\" following the report. Royal Caribbean shares closed up more than 5% on Tuesday. watch now VIDEO 3:50 03:50 Royal Caribbean CEO Jason Liberty on Q3 earnings beat: We're seeing an uptick in bookings Squawk on the Street Sherwin-Williams Sherwin-Williams beat analysts' expectations for revenue but fell short of expected earnings per share. Sherwin-Williams CEO Heidi Petz said in the company's earnings release that the paint retailer's performance demonstrated \"the resilience of our Company and the strength of our strategy in a challenging demand environment.\" \"Despite muted underlying market volumes, we continued to win new customers, increase share-of-wallet and deliver sales growth across all three reportable segments,\" she said. Net sales increased 7.9% from the same period last year. The company attributed the gain to higher selling prices, but the benefits to profits were partially offset by increased costs of raw materials and supply-chain related expenses. And the company maintained full-year guidance, saying \"customer sentiment and the leading indicators we track point to muted demand over the remainder of the year and into 2027.\" UPS A worker drives a United Parcel Service truck on Oct. 28, 2025, in Los Angeles, California. Mario Tama | Getty Images UPS beat Wall Street expectations for both earnings per share and revenue in the third quarter. Revenue in the U.S. rose 4.5% during the period to $14.86 billion. CEO Carol Tomé told investors on the company's earnings call that consumers remain \"resilient\" ahead of the holiday season, the company's busiest period. She said the company expects that average daily shipping volume will grow next quarter at a rate consistent with last year. However, fourth-quarter domestic average daily volume will likely fall due to reducing deliveries with Amazon, she said. UPS has been in the midst of unwinding its partnership with Amazon at the same time it's executing a broad turnaround effort to operate more leanly. The company raised its full-year forecast for the second quarter in a row, projecting consolidated revenue of approximately $92.6 billion, up from its previous expectations of $91.2 billion. Shares closed up more than 5% on Tuesday. Whirlpool Not every company is seeing the same spending trends, however. Appliance maker Whirlpool missed on both the top and bottom lines for its third quarter and cut its full-year revenue guidance. Net sales in North America fell more than 8% year over year during the period ending on Sept. 30. Even still, the company cited its own read on \"resilience.\" \"Through disciplined working capital management, we are protecting our year end free cash flow and our balance sheet resilience to navigate challenging market conditions,\" CFO Roxanne Warner said in the earnings release . Shares closed up more than 3% on Tuesday. — CNBC's Amelia Lucas and Laya Neelakandan contributed to this report. Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
-   "source": "CNBC Earnings",
-   "category": "earnings",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-10-27T20:42:17+00:00",
-   "tickers": [
-    "KO"
-   ]
   },
   {
    "id": "b3bf7eaa456b",
@@ -4047,22 +4554,6 @@
    "published": "2026-10-27T20:17:49+00:00",
    "tickers": [
     "MIR"
-   ]
-  },
-  {
-   "id": "ace8be91b7ad",
-   "title": "Seagate Technology shares fall 8% despite Q1 earnings beat and raised guidance",
-   "link": "https://www.investing.com/news/stock-market-news/seagate-technology-shares-fall-8-despite-q1-earnings-beat-and-raised-guidance-4976742",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-10-27T20:17:36+00:00",
-   "tickers": [
-    "STX"
    ]
   },
   {
@@ -6586,25 +7077,6 @@
    ]
   },
   {
-   "id": "33e048444fa0",
-   "title": "Stocks See Support as Crude Oil Prices Ease and FOMC Awaited",
-   "link": "https://www.nasdaq.com/articles/stocks-see-support-crude-oil-prices-ease-and-fomc-awaited",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) is up +0.42%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.02%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +0.92%. December E-mini S&P futures (ESZ26 ) are up +0.50%, and December E-mini Nasdaq futures (NQZ26...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-27T19:48:40+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
-   ]
-  },
-  {
    "id": "6849b7a90101",
    "title": "Soybeans Getting a Tuesday Morning Bounce",
    "link": "https://www.nasdaq.com/articles/soybeans-getting-tuesday-morning-bounce",
@@ -8555,479 +9027,6 @@
    "tickers": [
     "BA"
    ]
-  },
-  {
-   "id": "0d01b648a348",
-   "title": "Lithium Argentina AG Repurchases $200 Million of 2027 Convertible Notes",
-   "link": "https://www.nasdaq.com/articles/lithium-argentina-ag-repurchases-200-million-2027-convertible-notes",
-   "summary": "Lithium Americas Corp. highlights that Lithium Argentina AG has repurchased $200 million aggregate principal amount of its convertible senior notes due January 2027 in privately negotiated transactions with a limited number of qualified institutional buyers. The repurchases were",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-27T19:21:17+00:00",
-   "tickers": [
-    "LAC"
-   ]
-  },
-  {
-   "id": "9d25caee25c5",
-   "title": "Travelzoo Reports Third Quarter 2026 Results",
-   "link": "https://www.nasdaq.com/articles/travelzoo-reports-third-quarter-2026-results",
-   "summary": "Travelzoo reported its third quarter 2026 financial results, with consolidated revenue reaching $22.9 million, up 3% from $22.2 million year-over-year. The company recorded a consolidated operating loss of $2.6 million and a non-GAAP consolidated operating loss of $2.1 million. N",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-27T19:21:09+00:00",
-   "tickers": []
-  },
-  {
-   "id": "9e6d1ed32469",
-   "title": "Regions Financial's Preferred Stock, Series C Yield Pushes Past 6%",
-   "link": "https://www.nasdaq.com/articles/regions-financials-preferred-stock-series-c-yield-pushes-past-6",
-   "summary": "In trading on Tuesday, shares of Regions Financial Corp's 5.700% Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series C (Symbol: RF.PRC) were yielding above the 6% mark based on its quarterly dividend (annualized to $1.425), with shares changing hands as low a",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-27T19:20:35+00:00",
-   "tickers": [
-    "RF"
-   ]
-  },
-  {
-   "id": "02ca15190f95",
-   "title": "Hold the Phones! Tin Can's First-Ever Holiday Collection Arrives Early in NYC and by Hotline (Of Course)",
-   "link": "https://www.prnewswire.com/news-releases/hold-the-phones-tin-cans-first-ever-holiday-collection-arrives-early-in-nyc-and-by-hotline-of-course-302921169.html",
-   "summary": "On November 7 and 8, families can visit Tin Can's SoHo pop-up or dial 1-844-GET-A-CAN for first dibs on its new products before they officially launch online November 9. NEW YORK, Oct. 27, 2026 /PRNewswire/ -- The Can's outta the bag: Tin Can, the new-school landline for friends, is...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-27T19:20:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "eeb337103c81",
-   "title": "Prediction: This Artificial Intelligence (AI) Memory Stock Will Go Parabolic on Oct. 30",
-   "link": "https://www.nasdaq.com/articles/prediction-artificial-intelligence-ai-memory-stock-will-go-parabolic-oct-30",
-   "summary": "Key PointsWall Street will closely monitor capital expenditures forecasts when Alphabet and Amazon report earnings this week.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-27T19:20:00+00:00",
-   "tickers": [
-    "GOOG",
-    "AMZN"
-   ]
-  },
-  {
-   "id": "a1996f08eebe",
-   "title": "Dorman Products, Inc. (DORM) Q3 2026 Earnings Call Transcript",
-   "link": "https://seekingalpha.com/article/4957941-dorman-products-inc-dorm-q3-2026-earnings-call-transcript?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-27T19:19:54+00:00",
-   "tickers": []
-  },
-  {
-   "id": "4c67a6f2bceb",
-   "title": "Tesla breaks out but overextended above Bollinger Band: Live levels",
-   "link": "https://www.investing.com/news/stock-market-news/tesla-breaks-out-above-388-range-overextended-live-levels-93CH-4973068",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-10-27T19:19:06+00:00",
-   "tickers": [
-    "TSLA"
-   ]
-  },
-  {
-   "id": "0ad48f024fe1",
-   "title": "Nasdaq 100 tests cloud resistance with bullish MACD: Live levels",
-   "link": "https://www.investing.com/news/stock-market-news/nasdaq-100-tests-descending-triangle-support-at-29000-live-levels-93CH-4973069",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-10-27T19:19:05+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ"
-   ]
-  },
-  {
-   "id": "ced4269da19d",
-   "title": "Alphabet C in bearish breakdown below all MAs: Live levels",
-   "link": "https://www.investing.com/news/stock-market-news/alphabet-c-deeply-oversold-after-bear-flag-breakdown-live-levels-93CH-4973070",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-10-27T19:19:04+00:00",
-   "tickers": [
-    "GOOG"
-   ]
-  },
-  {
-   "id": "4f0b89df43ee",
-   "title": "Dow Jones consolidates inside Ichimoku cloud: Live levels",
-   "link": "https://www.investing.com/news/stock-market-news/dow-jones-pulls-back-to-ma-cluster-near-52400-live-levels-93CH-4973066",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-10-27T19:18:57+00:00",
-   "tickers": []
-  },
-  {
-   "id": "5780dac71711",
-   "title": "Central Bancompany, Inc. 2026 Q3 - Results - Earnings Call Presentation",
-   "link": "https://seekingalpha.com/article/4958184-central-bancompany-inc-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-27T19:18:49+00:00",
-   "tickers": []
-  },
-  {
-   "id": "243f763396ba",
-   "title": "S&P 500 tests resistance cluster at 7773: Live levels",
-   "link": "https://www.investing.com/news/stock-market-news/sp-500-tests-382-fib-after-double-top-rejection-live-levels-93CH-4973067",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-10-27T19:18:40+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ebb633fc7601",
-   "title": "'Redemption': New book explores the connection between Texas nuns and women on death row",
-   "link": "https://biztoc.com/x/5adfe556edf77555?ref=rss",
-   "summary": "Pulitzer prize-winning author Lawrence Wright joins Morning Joe to discuss his new book, 'Redemption: Faith, Justice, and ...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-27T19:18:05+00:00",
-   "tickers": []
-  },
-  {
-   "id": "49b07890d6da",
-   "title": "Allen Iverson Makes Bold Promise for LeBron James-Led 76ers",
-   "link": "https://biztoc.com/x/537cb60aaa1585dd?ref=rss",
-   "summary": "The new-look Philadelphia 76ers got off to a hot start in their 2026-27 regular-season campaign, winning each of their first three games. The 76ers made two massive moves this past offseason, signing all-time great NBA superstar LeBron James in free agency and landing Jaylen Brown in a blockbuster…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-27T19:18:02+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b4dad4227270",
-   "title": "DifGen Pharmaceuticals Announces First Major European Milestone with Successful Completion of Decentralised Procedure for Tafamidis 61 mg Capsules",
-   "link": "https://www.prnewswire.com/news-releases/difgen-pharmaceuticals-announces-first-major-european-milestone-with-successful-completion-of-decentralised-procedure-for-tafamidis-61-mg-capsules-302921167.html",
-   "summary": "Significant regulatory achievement marks an important step in DifGen's European expansion and strengthens its foundation for strategic partnerships MIRAMAR, Fla., Oct. 27, 2026 /PRNewswire/ -- DifGen Pharmaceuticals LLC (\"DifGen\"), a U.S.-based pharmaceutical company focused on the...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-27T19:18:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ad09882f01ad",
-   "title": "OperaWine 2027: Wine Spectator Selects Top 150 Italian Wines for Vinitaly Curtain Raiser",
-   "link": "https://www.prnewswire.com/news-releases/operawine-2027-wine-spectator-selects-top-150-italian-wines-for-vinitaly-curtain-raiser-302921168.html",
-   "summary": "NEW YORK, Oct. 27, 2026 /PRNewswire/ -- Wine Spectator, the world's leading wine magazine, revealed its selection of 150 Italian wine producers for OperaWine 2027, Vinitaly's grand gala opening event. The announcement was made in front of a packed audience of industry professionals at the...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "positive",
-   "domain": "prnewswire.com",
-   "published": "2026-10-27T19:18:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "eafde4c6ff48",
-   "title": "Tech Bros Already Control Us, Now They Want To Control Our Wars",
-   "link": "https://biztoc.com/x/d2c4f513a1640afa?ref=rss",
-   "summary": "The Sultans of Silicon Valley exercise massive influence over how we work, what we see and hear, what we buy, and whom we vote for. If the recent debacle over restrictions on Starlink and Starshield services in Ukraine is any indication, soon Big Tech could also decide who lives, who dies, and the…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-27T19:18:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "981dab852466",
-   "title": "Hormel CEO John Ghingo on expansion of affordable protein options",
-   "link": "https://biztoc.com/x/2f70e02a9f7334f3?ref=rss",
-   "summary": "Hormel CEO John Ghingo discuss his new role at the company and the new protein and snack product offerings.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-27T19:17:44+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6c7b2edc41d5",
-   "title": "What Anthropic's IPO Means for the AI Trade",
-   "link": "https://biztoc.com/x/b501b2108fc3f2ec?ref=rss",
-   "summary": "Anthropic is expected to raise more money in its initial public offering than any company in history and plans to list on the Nasdaq ...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "offering",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-27T19:17:40+00:00",
-   "tickers": [
-    "NDAQ"
-   ]
-  },
-  {
-   "id": "66dfd90e0cb7",
-   "title": "Why Shares of Corning Are Tumbling Lower Today",
-   "link": "https://www.nasdaq.com/articles/why-shares-corning-are-tumbling-lower-today",
-   "summary": "Key PointsCorning reported Q3 2026 financial results before the market opened this morning.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-10-27T19:17:36+00:00",
-   "tickers": [
-    "GLW"
-   ]
-  },
-  {
-   "id": "623b72d5125c",
-   "title": "Purdue HC Matt Painter Lands Major Pay Raise Ahead of UConn Game: Report",
-   "link": "https://biztoc.com/x/cf54714313b58bc6?ref=rss",
-   "summary": "Purdue head coach Matt Painter has received a lucrative contract amendment with the Boilermakers ahead of his team's exhibition game against the UConn Huskies. Painter, who has been a head coach with the Boilermakers for 22 seasons, will see his salary raised from $5.2 million to $7 million, per…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-10-27T19:17:35+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ccb270a908ab",
-   "title": "Who Stands to Gain From an Anthropic I.P.O.",
-   "link": "https://www.nytimes.com/2026/10/27/business/dealbook/winners-losers-anthropic-ipo-ai.html",
-   "summary": "Wall Street banks and chipmakers are among those poised to capitalize on the artificial intelligence giant’s public trading debut.",
-   "article_text": "",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "positive",
-   "domain": "nytimes.com",
-   "published": "2026-10-27T19:17:28+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e8ea4ae0be06",
-   "title": "HitPaw VikPea V6.0.0 Unveils AI Enhancement Agent, Gemini Omni Integration, and More",
-   "link": "https://www.prnewswire.com/news-releases/hitpaw-vikpea-v6-0-0-unveils-ai-enhancement-agent-gemini-omni-integration-and-more-302921165.html",
-   "summary": "NEW YORK, October 27, 2026 /PRNewswire/ -- HitPaw, a leading innovator in multimedia software solutions, today announced the release of HitPaw VikPea V6.0.0, the latest update to its AI-powered video enhancement platform. This release introduces intelligent AI Enhancement Agent, improved...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-27T19:17:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "1f2289765b7a",
-   "title": "PTCB Reaffirms Commitment to Advanced Pharmacy Practice, Defends Federally Registered CPhT-Adv® Certification Mark",
-   "link": "https://www.prnewswire.com/news-releases/ptcb-reaffirms-commitment-to-advanced-pharmacy-practice-defends-federally-registered-cpht-adv-certification-mark-302921166.html",
-   "summary": "WASHINGTON, Oct. 27, 2026 /PRNewswire/ -- .The Pharmacy Technician Certification Board® (PTCB®) is taking decisive enforcement action to defend its federally registered certification mark, CPhT-Adv® (Advanced Certified Pharmacy Technician®) to ensure that employers, State Boards of...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-27T19:17:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d6085c20d84d",
-   "title": "PECO (PECO) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/peco-peco-q3-2026-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-27T19:16:46+00:00",
-   "tickers": []
-  },
-  {
-   "id": "5b7616702842",
-   "title": "Sun Communities (SUI) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/sun-communities-sui-q3-2026-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-27T19:16:46+00:00",
-   "tickers": []
-  },
-  {
-   "id": "7509c67bbd5a",
-   "title": "Why Rocket Lab Stock Took Flight on Tuesday",
-   "link": "https://www.nasdaq.com/articles/why-rocket-lab-stock-took-flight-tuesday",
-   "summary": "Key PointsRocket Lab stock recently plunged after the company delayed the inaugural flight of its Neutron rocket.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-27T19:16:11+00:00",
-   "tickers": [
-    "RKLB"
-   ]
-  },
-  {
-   "id": "2b198661e452",
-   "title": "First National TDS Poll and DSM Proposal to Be Unveiled in Washington",
-   "link": "https://www.prnewswire.com/news-releases/first-national-tds-poll-and-dsm-proposal-to-be-unveiled-in-washington-302921160.html",
-   "summary": "All-Star Media and Polling Panel to Feature Dr. Carole Lieberman, Kevin Corke, Miranda Devine, Tom Bevan, Alex Swoyer, Steve Gruber, Chanel Rion, and Other VIP Guests WASHINGTON, Oct. 27, 2026 /PRNewswire/ -- Credentialed members of the media are invited to attend an exclusive briefing on...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-27T19:16:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "027d999fc05b",
-   "title": "Aptech Appoints Jeremy James as President",
-   "link": "https://www.prnewswire.com/news-releases/aptech-appoints-jeremy-james-as-president-302921161.html",
-   "summary": "PITTSBURGH, Oct. 27, 2026 /PRNewswire/ -- Aptech is excited to announce the appointment of Jeremy James as its new President. Bringing more than 20 years of experience in high-trust SaaS markets focused on operational excellence, Jeremy has a proven record of strategic growth. With a...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-27T19:16:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "49bfdc479c92",
-   "title": "Saba Capital Income & Opportunities Fund II declares $0.155 dividend",
-   "link": "https://seekingalpha.com/news/4658289-saba-capital-income-and-opportunities-fund-ii-declares-0_155-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "dividend",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-27T19:15:46+00:00",
-   "tickers": []
-  },
-  {
-   "id": "016cabe08968",
-   "title": "HPQ, Asus to shift PC production back to China amid cost increases: report",
-   "link": "https://seekingalpha.com/news/4658287-hpq-asus-to-shift-pc-production-back-to-china-amid-cost-increases-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-27T19:15:27+00:00",
-   "tickers": [
-    "HPQ"
-   ]
-  },
-  {
-   "id": "547cc16d222f",
-   "title": "P1 PRATIA ONCOLOGY EXPANDS INTO EUROPE WITH OC ESPAÑA'S MADRID RESEARCH SITE",
-   "link": "https://www.prnewswire.com/news-releases/p1-pratia-oncology-expands-into-europe-with-oc-espanas-madrid-research-site-302921158.html",
-   "summary": "SEATTLE, Oct. 27, 2026 /PRNewswire/ -- P1 Pratia Oncology, a leading community-based oncology research network focused on early-phase clinical trials, announced the expansion of its network into Spain through the OC España clinical research site at Hospital Universitario Vithas Madrid La...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "positive",
-   "domain": "prnewswire.com",
-   "published": "2026-10-27T19:15:00+00:00",
-   "tickers": [
-    "OC",
-    "SITE"
-   ]
   }
  ],
  "ticker_names": {
@@ -9053,7 +9052,6 @@
   "PFG": "Principal Financial Group",
   "RARE": "Ultragenyx Pharmaceutical",
   "UHS": "Universal Health Services",
-  "SITE": "SiteOne Landscape Supply",
   "GS": "The Goldman Sachs Group",
   "RCL": "Royal Caribbean Cruises",
   "AMD": "Advanced Micro Devices",
@@ -9083,12 +9081,12 @@
   "PPTA": "Perpetua Resources",
   "TYL": "Tyler Technologies",
   "AMAT": "Applied Materials",
+  "BEAM": "Beam Therapeutics",
   "EWBC": "East West Bancorp",
   "GIL": "Gildan Activewear",
   "HOOD": "Robinhood Markets",
   "LITE": "Lumentum Holdings",
   "MU": "Micron Technology",
-  "RF": "Regions Financial",
   "SOFI": "SoFi Technologies",
   "AXP": "American Express",
   "BKNG": "Booking Holdings",
@@ -9110,7 +9108,6 @@
   "RRC": "Range Resources",
   "STAG": "STAG Industrial",
   "TXRH": "Texas Roadhouse",
-  "HPQ": "Hewlett-Packard",
   "DG": "Dollar General",
   "ENPH": "Enphase Energy",
   "HCA": "HCA Healthcare",
@@ -9124,7 +9121,6 @@
   "KO": "The Coca-Cola",
   "LLY": "Eli Lilly and",
   "O": "Realty Income",
-  "OC": "Owens Corning",
   "POST": "Post Holdings",
   "TOL": "Toll Brothers",
   "UMBF": "UMB Financial",
@@ -9151,7 +9147,6 @@
   "GEV": "GE Vernova",
   "GL": "Globe Life",
   "MA": "Mastercard",
-  "RKLB": "Rocket Lab",
   "WT": "WisdomTree",
   "MSFT": "Office 365",
   "PARA": "Paramount+",
@@ -9195,6 +9190,7 @@
   "SAP": "SAP SE",
   "SPCX": "SpaceX",
   "VTR": "Ventas",
+  "WSO": "Watsco",
   "AMGN": "Amgen",
   "CHWY": "Chewy",
   "CR": "Crane",
