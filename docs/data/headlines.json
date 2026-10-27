@@ -1,8 +1,96 @@
 {
- "generated": "2026-10-27T23:33:16.893294+00:00",
+ "generated": "2026-10-27T23:40:22.296121+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "dd39f357724a",
+   "title": "Healey puts UK energy reform at centre of his ‘do no harm’ Budget",
+   "link": "https://www.ft.com/content/427a7624-d710-4078-9a7e-d23fdb0b2975?syn-25a6b1a6=1",
+   "summary": "Chancellor to pledge extra support for businesses, entrepreneurs and households during ‘difficult moment’",
+   "article_text": "",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "ft.com",
+   "published": "2026-10-27T23:35:42+00:00",
+   "tickers": []
+  },
+  {
+   "id": "da7d098cd938",
+   "title": "SK Hynix third-quarter profit sharply beats estimates on AI memory boost",
+   "link": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
+   "summary": "South Korean chipmaker SK Hynix on Wednesday reported its third-quarter earnings.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "cnbc.com",
+   "published": "2026-10-27T23:34:59+00:00",
+   "tickers": []
+  },
+  {
+   "id": "12ceaaf2ab5a",
+   "title": "Sands China prices $1 billion senior notes offering",
+   "link": "https://www.investing.com/news/company-news/sands-china-prices-1-billion-senior-notes-offering-93CH-4977240",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "offering",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-27T23:32:45+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f7d1280e8ca7",
+   "title": "Robinhood Q3 2026 slides: record revenue of $1.4B, stock drops 7%",
+   "link": "https://www.investing.com/news/company-news/robinhood-q3-2026-slides-record-revenue-of-14b-stock-drops-7-93CH-4977239",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-10-27T23:32:19+00:00",
+   "tickers": [
+    "HOOD"
+   ]
+  },
+  {
+   "id": "2e6b7d32e35c",
+   "title": "Lockheed Martin COO St. John sells $2.35M in common stock",
+   "link": "https://www.investing.com/news/insider-trading-news/lockheed-martin-coo-st-john-sells-235m-in-common-stock-93CH-4977238",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-27T23:32:01+00:00",
+   "tickers": [
+    "LMT"
+   ]
+  },
+  {
+   "id": "fef5bcbfd3d3",
+   "title": "Basswood Capital Management, 10% owner, sells $4.5M of DCOM stock.",
+   "link": "https://www.investing.com/news/insider-trading-news/basswood-capital-management-10-owner-sells-45m-of-dcom-stock-93CH-4977237",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-27T23:31:22+00:00",
+   "tickers": []
+  },
   {
    "id": "eaf39583c08b",
    "title": "Rogers forecasts Q4 revenue of $215M-$225M with 16% adjusted EBITDA increase",
@@ -92,6 +180,50 @@
    "tickers": []
   },
   {
+   "id": "0c2b7776ebe5",
+   "title": "Nasdaq Advances For Second Straight Day",
+   "link": "https://seekingalpha.com/article/4958256-nasdaq-advances-for-second-straight-day?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-27T23:30:00+00:00",
+   "tickers": [
+    "NDAQ"
+   ]
+  },
+  {
+   "id": "1aada1367dd0",
+   "title": "Rogers Corporation (ROG) Q3 2026 Earnings Call Transcript",
+   "link": "https://seekingalpha.com/article/4958240-rogers-corporation-rog-q3-2026-earnings-call-transcript?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-27T23:29:57+00:00",
+   "tickers": []
+  },
+  {
+   "id": "118be41bf533",
+   "title": "Walmex Q3 2026 slides: operational gains offset by margin pressure",
+   "link": "https://www.investing.com/news/company-news/walmex-q3-2026-slides-operational-gains-offset-by-margin-pressure-93CH-4977226",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-27T23:29:03+00:00",
+   "tickers": []
+  },
+  {
    "id": "a2a5b89335b4",
    "title": "5th Circuit Rules Illegal Immigrants Not Entitled To Bond Hearings",
    "link": "https://biztoc.com/x/70a4ecb9a6d8b285?ref=rss",
@@ -117,6 +249,78 @@
    "sentiment": "neutral",
    "domain": "biztoc.com",
    "published": "2026-10-27T23:28:08+00:00",
+   "tickers": []
+  },
+  {
+   "id": "0571f08c1636",
+   "title": "Dollar Posts 1.5-week High on Expectations for Hawkish FOMC Commentary",
+   "link": "https://www.nasdaq.com/articles/dollar-posts-15-week-high-expectations-hawkish-fomc-commentary-0",
+   "summary": "The dollar index (DXY00 ) on Tuesday rose +0.33% and posted a new 1.5-week high. The dollar saw support ahead of the 2-day FOMC meeting that ends Wednesday, amid expectations that Fed Chair Warsh will deliver somewhat hawkish commentary on future rate hikes to curb above-target inflation. The markets are...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-27T23:26:55+00:00",
+   "tickers": []
+  },
+  {
+   "id": "d941587972d2",
+   "title": "Sugar Prices Stabilize after Monday’s Sell-off",
+   "link": "https://www.nasdaq.com/articles/sugar-prices-stabilize-after-mondays-sell-0",
+   "summary": "March NY world sugar #11 (SBH27 ) on Tuesday closed up +0.10 (+0.52), and December London ICE white sugar #5 (SWZ26 ) closed up +3.80 (+0.74%). NY sugar prices on Tuesday stabilized after Monday’s -5.6% plunge to a 1-month low. Sugar prices fell sharply on Monday as the Brazilian real...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-27T23:26:54+00:00",
+   "tickers": [
+    "ICE"
+   ]
+  },
+  {
+   "id": "1bdf827ce1e3",
+   "title": "Soybeans Fading Early Bounce at Midday",
+   "link": "https://www.nasdaq.com/articles/soybeans-fading-early-bounce-midday",
+   "summary": "Soybeans are showing 2 to 4 ¼ cent losses across most contracts on Tuesday. The cmdtyView national average Cash Bean price is down 2 3/4 cents at $11.81. Soymeal futures are down $4.00 to $4.70, with Soy Oil futures 10 to 13 points lower. The average close for November soybean...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-27T23:26:54+00:00",
+   "tickers": []
+  },
+  {
+   "id": "aa9b7cb934d1",
+   "title": "Wheat Facing Losses on Tuesday",
+   "link": "https://www.nasdaq.com/articles/wheat-facing-losses-tuesday",
+   "summary": "The wheat complex is falling lower across the three markets on Tuesday. Chicago SRW contracts are 2 to 3 cents in the red. KC HRW futures are 7 to 8 cents lower. MPLS spring wheat is showing 5 to 6 cent losses at midday. Weekly NASS Crop Progress data showed...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-10-27T23:26:54+00:00",
+   "tickers": []
+  },
+  {
+   "id": "bf664c714ac6",
+   "title": "Corn Facing Tuesday Pressure",
+   "link": "https://www.nasdaq.com/articles/corn-facing-tuesday-pressure",
+   "summary": "Corn futures are showing 3 to 4 1/2 cents losses across most contracts on Tuesday. The CmdtyView national average Cash Corn price was down 4 ½ cent at $4.12. The average close for December corn futures in October has been $4.81, as there are just 4 days left for the...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-27T23:26:54+00:00",
    "tickers": []
   },
   {
@@ -152,6 +356,34 @@
    ]
   },
   {
+   "id": "bc92b782bd39",
+   "title": "American Assets Trust, Inc. Reports Third Quarter 2026 Financial Results",
+   "link": "https://www.nasdaq.com/articles/american-assets-trust-inc-reports-third-quarter-2026-financial-results",
+   "summary": "American Assets Trust, Inc. reported net income available to common stockholders of $7.7 million and $18.0 million for the three and nine months ended September 30, 2026, respectively, or $0.13 and $0.30 per diluted share, respectively. Funds From Operations was $0.56 and $1.57 p",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-27T23:22:34+00:00",
+   "tickers": []
+  },
+  {
+   "id": "6dea48912143",
+   "title": "Sensata Technologies Holding plc Reports Third Quarter 2026 Financial Results",
+   "link": "https://www.nasdaq.com/articles/sensata-technologies-holding-plc-reports-third-quarter-2026-financial-results",
+   "summary": "Sensata Technologies Holding plc reported its financial results for the third quarter ended September 30, 2026. Net revenue for the quarter was $1,003.6 million, representing an increase of $71.6 million, or 7.7%, compared to $932.0 million in the third quarter of 2025. The reven",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-27T23:22:34+00:00",
+   "tickers": []
+  },
+  {
    "id": "334a0f350bca",
    "title": "NRC expects further sequential margin improvement in Q4 as rounding phase targets Q3 2027 go-live",
    "link": "https://seekingalpha.com/news/4658551-nrc-expects-further-sequential-margin-improvement-in-q4-as-rounding-phase-targets-q3-2027-go?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -180,64 +412,6 @@
    "tickers": []
   },
   {
-   "id": "0571f08c1636",
-   "title": "Dollar Posts 1.5-week High on Expectations for Hawkish FOMC Commentary",
-   "link": "https://www.nasdaq.com/articles/dollar-posts-15-week-high-expectations-hawkish-fomc-commentary-0",
-   "summary": "The dollar index (DXY00 ) on Tuesday rose +0.33% and posted a new 1.5-week high. The dollar saw support ahead of the 2-day FOMC meeting that ends Wednesday, amid expectations that Fed Chair Warsh will deliver somewhat hawkish commentary on future rate hikes to curb above-target inflation. The markets are...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-27T23:20:48+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d941587972d2",
-   "title": "Sugar Prices Stabilize after Monday’s Sell-off",
-   "link": "https://www.nasdaq.com/articles/sugar-prices-stabilize-after-mondays-sell-0",
-   "summary": "March NY world sugar #11 (SBH27 ) on Tuesday closed up +0.10 (+0.52), and December London ICE white sugar #5 (SWZ26 ) closed up +3.80 (+0.74%). NY sugar prices on Tuesday stabilized after Monday’s -5.6% plunge to a 1-month low. Sugar prices fell sharply on Monday as the Brazilian real...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-27T23:20:47+00:00",
-   "tickers": [
-    "ICE"
-   ]
-  },
-  {
-   "id": "1bdf827ce1e3",
-   "title": "Soybeans Fading Early Bounce at Midday",
-   "link": "https://www.nasdaq.com/articles/soybeans-fading-early-bounce-midday",
-   "summary": "Soybeans are showing 2 to 4 ¼ cent losses across most contracts on Tuesday. The cmdtyView national average Cash Bean price is down 2 3/4 cents at $11.81. Soymeal futures are down $4.00 to $4.70, with Soy Oil futures 10 to 13 points lower. The average close for November soybean...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-27T23:20:47+00:00",
-   "tickers": []
-  },
-  {
-   "id": "aa9b7cb934d1",
-   "title": "Wheat Facing Losses on Tuesday",
-   "link": "https://www.nasdaq.com/articles/wheat-facing-losses-tuesday",
-   "summary": "The wheat complex is falling lower across the three markets on Tuesday. Chicago SRW contracts are 2 to 3 cents in the red. KC HRW futures are 7 to 8 cents lower. MPLS spring wheat is showing 5 to 6 cent losses at midday. Weekly NASS Crop Progress data showed...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-10-27T23:20:47+00:00",
-   "tickers": []
-  },
-  {
    "id": "5e3edef6d7f5",
    "title": "Scientists Studied Women’s Menopause Experiences—One Group Had It Far Worse",
    "link": "https://biztoc.com/x/87455194d637244b?ref=rss",
@@ -249,6 +423,20 @@
    "sentiment": "neutral",
    "domain": "biztoc.com",
    "published": "2026-10-27T23:20:42+00:00",
+   "tickers": []
+  },
+  {
+   "id": "4543119251aa",
+   "title": "Pilbara Minerals Q1 FY27 slides: record output, major expansion approved",
+   "link": "https://www.investing.com/news/company-news/pilbara-minerals-q1-fy27-slides-record-output-major-expansion-approved-93CH-4977224",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-27T23:20:22+00:00",
    "tickers": []
   },
   {
@@ -321,6 +509,20 @@
    "sentiment": "neutral",
    "domain": "biztoc.com",
    "published": "2026-10-27T23:19:32+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a528d8232598",
+   "title": "Vitrafy Q1 FY27 slides: U.S. blood market share hits 17%, CGT entry",
+   "link": "https://www.investing.com/news/company-news/vitrafy-q1-fy27-slides-us-blood-market-share-hits-17-cgt-entry-93CH-4977223",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-10-27T23:19:27+00:00",
    "tickers": []
   },
   {
@@ -466,6 +668,84 @@
    "domain": "biztoc.com",
    "published": "2026-10-27T23:18:59+00:00",
    "tickers": []
+  },
+  {
+   "id": "7878950b5824",
+   "title": "Earnings call transcript: Walmart de México y Centroamérica Q3 2026 shares fall",
+   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-walmart-de-mexico-y-centroamerica-q3-2026-shares-fall-93CH-4977222",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-10-27T23:18:58+00:00",
+   "tickers": [
+    "WMT"
+   ]
+  },
+  {
+   "id": "34e14caedd07",
+   "title": "Earnings call transcript: Robinhood Q3 2026 revenue tops $1.4 billion, stock falls",
+   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-robinhood-q3-2026-revenue-tops-14-billion-stock-falls-93CH-4977221",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-27T23:18:28+00:00",
+   "tickers": [
+    "HOOD"
+   ]
+  },
+  {
+   "id": "cadc421eb5a8",
+   "title": "Why Archer Aviation Stock Took Flight on Tuesday",
+   "link": "https://www.nasdaq.com/articles/why-archer-aviation-stock-took-flight-tuesday",
+   "summary": "Key PointsCathie Wood has been scooping up shares of Archer Aviation.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-27T23:16:15+00:00",
+   "tickers": [
+    "ACHR"
+   ]
+  },
+  {
+   "id": "f32a0c05613c",
+   "title": "Volaris (VLRS) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/volaris-vlrs-q3-2026-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-27T23:14:22+00:00",
+   "tickers": []
+  },
+  {
+   "id": "81df351e1e02",
+   "title": "USA Rare Earth Just Broke Ground on a $1.2 Billion Magnet Complex. Here's Why It Matters.",
+   "link": "https://www.nasdaq.com/articles/usa-rare-earth-just-broke-ground-12-billion-magnet-complex-heres-why-it-matters",
+   "summary": "Key PointsUSA Rare Earth recently started construction on its mineral processing plant in South Carolina.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-27T23:14:00+00:00",
+   "tickers": [
+    "USAR"
+   ]
   },
   {
    "id": "7025972e6465",
@@ -735,6 +1015,20 @@
    "tickers": [
     "CSGP"
    ]
+  },
+  {
+   "id": "f8dccbc65ecb",
+   "title": "Tech Shares Likely To Boost KOSPI On Wednesday",
+   "link": "https://www.nasdaq.com/articles/tech-shares-likely-boost-kospi-wednesday",
+   "summary": "(RTTNews) - The South Korea stock market has alternated between positive and negative finishes through the last six trading days since the end of the two-day winning streak in which it had rallied more than 210 points or 3.6 percent. The KOSPI now sits just beneath the 5,640-poin",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-10-27T23:04:20+00:00",
+   "tickers": []
   },
   {
    "id": "84a6db4cb546",
@@ -2185,20 +2479,6 @@
    "type": "earnings",
    "sentiment": "neutral",
    "domain": "prnewswire.com",
-   "published": "2026-10-27T22:30:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "dd39f357724a",
-   "title": "Healey puts UK energy reform at centre of his ‘do no harm’ Budget",
-   "link": "https://www.ft.com/content/427a7624-d710-4078-9a7e-d23fdb0b2975?syn-25a6b1a6=1",
-   "summary": "Chancellor to pledge extra support for businesses, entrepreneurs and households during ‘difficult moment’",
-   "article_text": "",
-   "source": "FT Companies",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "ft.com",
    "published": "2026-10-27T22:30:00+00:00",
    "tickers": []
   },
@@ -8636,288 +8916,6 @@
    "tickers": [
     "DASH"
    ]
-  },
-  {
-   "id": "09e9842b77b0",
-   "title": "Stocks Rally as Crude Oil Prices Ease and FOMC Results Awaited",
-   "link": "https://biztoc.com/x/7910e61d53088c60?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-10-27T20:45:55+00:00",
-   "tickers": []
-  },
-  {
-   "id": "711899572491",
-   "title": "Goldman Sachs Sees Investors De-Risking From AI Stocks. At 63, She Finds the Same Crowded Trade Inside Her $900,000 401(k)",
-   "link": "https://biztoc.com/x/de14c2816583d00a?ref=rss",
-   "summary": "The post Goldman Sachs Sees Investors De-Risking From AI Stocks. At 63, She Finds the Same Crowded Trade Inside Her $900,000 401(k) appeared first on 24/7 Wall St.. Picture a 63-year-old with $900,000 in her 401(k), divided among an S&P 500 index fund, a growth fund and a target-date fund. She…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-27T20:45:55+00:00",
-   "tickers": [
-    "GS"
-   ]
-  },
-  {
-   "id": "b25acc682ac9",
-   "title": "NXP Shares Slide After Chipmaker Gives Tepid Revenue Forecast",
-   "link": "https://biztoc.com/x/3fe8ff574d011013?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "guidance",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-10-27T20:45:54+00:00",
-   "tickers": []
-  },
-  {
-   "id": "19ee59f4a27e",
-   "title": "Bullish Treasury Bets Face Reversal Risk From Hawkish Fed",
-   "link": "https://biztoc.com/x/da8e3f0efdb6bc86?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-27T20:45:53+00:00",
-   "tickers": [
-    "BLSH"
-   ]
-  },
-  {
-   "id": "d32c10fea266",
-   "title": "Anthropic’s 97-page list of business risks is quadruple the length of other AI IPOs. What’s on it: weapons, blackmail, and more",
-   "link": "https://biztoc.com/x/eff7d9ada500396d?ref=rss",
-   "summary": "In preparation for what could be the biggest initial public offering of stock ever, Anthropic has finally filed its long-awaited prospectus with the Securities and Exchange Commission. That includes a summary of all the potential risks to Anthropic’s business, including both outside factors and…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-27T20:45:51+00:00",
-   "tickers": []
-  },
-  {
-   "id": "be2e74fe6395",
-   "title": "Trump, Rubio to Visit Tanker With Venezuelan Oil in Texas",
-   "link": "https://biztoc.com/x/ba1e463ac9776ad7?ref=rss",
-   "summary": "President Donald Trump and Secretary of State Marco Rubio plan to greet an oil tanker arriving in Texas from Venezuela on Tuesday. #trump #venezuela #oil #politics #texas #usa #news Trump intends to campaign for Texas Republican Senate candidate Ken Paxton at the port of Corpus Christi, where the…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-27T20:45:51+00:00",
-   "tickers": []
-  },
-  {
-   "id": "bc770e582a86",
-   "title": "Visa Reports Higher Profit on Payment Volumes, Transactions Growth",
-   "link": "https://biztoc.com/x/ffe79a874e8330cd?ref=rss",
-   "summary": "The payments company reported a profit of $6 billion in the fourth quarter, boosted by an increase in payment volumes and processed transactions.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-10-27T20:45:49+00:00",
-   "tickers": [
-    "V"
-   ]
-  },
-  {
-   "id": "061b88585e0c",
-   "title": "Seagate Posts Soaring Profit on Continued Data-Storage Demand",
-   "link": "https://biztoc.com/x/34fe11ed6175db17?ref=rss",
-   "summary": "The artificial-intelligence infrastructure build-out continues to drive demand for the company’s data-storage components.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-10-27T20:45:48+00:00",
-   "tickers": [
-    "STX"
-   ]
-  },
-  {
-   "id": "c9d75d3d5c09",
-   "title": "Oakland Weighs $108,000 Pay Increases For Councilmembers Despite Budget And Homelessness Crises",
-   "link": "https://biztoc.com/x/a06813d9b43473b6?ref=rss",
-   "summary": "Oakland Weighs $108,000 Pay Increases For Councilmembers Despite Budget And Homelessness Crises Despite struggling with homelessness, crime, illegal dumping and a persistent budget deficit, Oakland could soon hand its city councilmembers pay and benefits increases worth as much as $108,000…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-27T20:45:38+00:00",
-   "tickers": []
-  },
-  {
-   "id": "0c74f3f4973b",
-   "title": "Trump Targets AI Terminology In Federal Government Documents",
-   "link": "https://biztoc.com/x/64f698dd28819a91?ref=rss",
-   "summary": "President Donald Trump has reportedly announced a directive to replace the terms “Artificial Intelligence” and “AI” with “Super Intelligence” and “SI” across federal government documents. The announcement follows an executive order signed on September 30, titled “Inaugurating the Era of Super…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-27T20:45:37+00:00",
-   "tickers": []
-  },
-  {
-   "id": "dec3538943d5",
-   "title": "Re:Build, which spun out Slate Auto, raises $2.1B",
-   "link": "https://biztoc.com/x/b353fcdf45cee698?ref=rss",
-   "summary": "Re:Build, the Massachusetts-based manufacturing accelerator that spun out EV startup Slate Auto in 2023, has raised $2.1 billion The company said Tuesday that it will use the funding to “expand Re:Build’s capacity to manufacture hard tech products and launch new industrial startups,” which will…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-10-27T20:45:36+00:00",
-   "tickers": []
-  },
-  {
-   "id": "572887b353e2",
-   "title": "SCOTUS Has A Shot To Take A Major First Amendment, Free Press Case. Here’s What’s At Stake",
-   "link": "https://biztoc.com/x/6c6eb488faaa7760?ref=rss",
-   "summary": "By FRED LUCAS, The Daily Signal | October 26, 2026 An investigative reporter is asking the Supreme Court to review a court order to identify the sources behind her reporting. In a case that could set a new precedent on the First Amendment, former Fox News and CBS News investigative reporter…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-27T20:45:35+00:00",
-   "tickers": [
-    "FOX",
-    "NWSA",
-    "PARA"
-   ]
-  },
-  {
-   "id": "12f548b81658",
-   "title": "Walmart says AI training is boosting confidence with the technology among its 2.1 million associates",
-   "link": "https://biztoc.com/x/9ddddb70bdf14a65?ref=rss",
-   "summary": "As enterprise AI investment continues to grow, companies of all sizes are trying to figure out how employees feel about the technology in the workplace. Walmart, the biggest private employer in the world, asked its 2.1 million associates in June that exact question for the first time, trying to…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-27T20:45:33+00:00",
-   "tickers": [
-    "WMT"
-   ]
-  },
-  {
-   "id": "e0da809e2dc1",
-   "title": "Alexander Brothers Each Get 30 Years for Sex Trafficking",
-   "link": "https://biztoc.com/x/34b515aed6622fb2?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-27T20:45:32+00:00",
-   "tickers": []
-  },
-  {
-   "id": "026f5099f9b8",
-   "title": "Trafigura, Mubadala Cancel Planned Sale of Brazilian Iron Port",
-   "link": "https://biztoc.com/x/2d42f5f91c279d8d?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-27T20:45:28+00:00",
-   "tickers": []
-  },
-  {
-   "id": "51c22d139448",
-   "title": "New Jersey American Water and Salem City Celebrate Completion of $21.3 Million PFAS Treatment Project",
-   "link": "https://www.prnewswire.com/news-releases/new-jersey-american-water-and-salem-city-celebrate-completion-of-21-3-million-pfas-treatment-project-302921240.html",
-   "summary": "Fast-Tracked Investment Delivers Permanent PFAS Treatment and Modernizes Critical Infrastructure at Salem Water Treatment Plant CAMDEN, N.J., Oct. 27, 2026 /PRNewswire/ -- New Jersey American Water and Salem City today celebrated the completion of a $21.3 million PFAS treatment...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-27T20:45:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "0af1cc2313bd",
-   "title": "OrthoPediatrics Non-GAAP EPS of -$0.23 misses by $0.02, revenue of $72.7M beats by $4.2M",
-   "link": "https://seekingalpha.com/news/4658461-orthopediatrics-non-gaap-eps-of-0_23-misses-by-0_02-revenue-of-72_7m-beats-by-4_2m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-27T20:44:41+00:00",
-   "tickers": []
-  },
-  {
-   "id": "dd26d821ef74",
-   "title": "Franklin Financial Services GAAP EPS of $1.89, revenue of $25.63M",
-   "link": "https://seekingalpha.com/news/4658460-franklin-financial-services-gaap-eps-of-1_89-revenue-of-25_63m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-27T20:44:13+00:00",
-   "tickers": [
-    "BEN"
-   ]
-  },
-  {
-   "id": "7e447322a518",
-   "title": "Royal Caribbean: 3 Key Takeaways for Long-Term Investors",
-   "link": "https://www.nasdaq.com/articles/royal-caribbean-3-key-takeaways-long-term-investors",
-   "summary": "Key PointsRoyal Caribbean invested $3 billion for a 50% Sandals stake.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-27T20:44:06+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8978,6 +8976,7 @@
   "COST": "Costco Wholesale",
   "GTLS": "Chart Industries",
   "NVO": "Novo Nordisk A/S",
+  "ACHR": "Archer Aviation",
   "AGNC": "AGNC Investment",
   "BAC": "Bank of America",
   "JBLU": "JetBlue Airways",
@@ -8994,6 +8993,7 @@
   "PPG": "PPG Industries",
   "PSA": "Public Storage",
   "QBTS": "D-Wave Quantum",
+  "USAR": "USA Rare Earth",
   "BRO": "Brown & Brown",
   "FTAI": "FTAI Aviation",
   "GIS": "General Mills",
@@ -9021,7 +9021,6 @@
   "GL": "Globe Life",
   "SPGI": "S&P Global",
   "MSFT": "Office 365",
-  "PARA": "Paramount+",
   "ACN": "Accenture",
   "C": "Citigroup",
   "CLS": "Celestica",
@@ -9038,7 +9037,6 @@
   "VRSN": "VeriSign",
   "SQ": "Cash App",
   "FOX": "Fox Corp",
-  "BLSH": "Bullish",
   "CMCSA": "Comcast",
   "SCI": "Service",
   "WK": "Workiva",
