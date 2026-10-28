@@ -1,23 +1,21 @@
 {
- "generated": "2026-10-28T15:15:46.420578+00:00",
+ "generated": "2026-10-28T15:24:26.019134+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
   {
-   "id": "eb1082e06c0a",
-   "title": "F.T.C. Sues Dollar General Amid Growing Consumer Doubts Over Pricing",
-   "link": "https://www.nytimes.com/2026/10/28/business/dollar-general-prices-ftc-lawsuit.html",
-   "summary": "Americans have lost faith that retailers are giving them fair deals. The F.T.C. is suing Dollar General over it.",
+   "id": "d9178db1ed63",
+   "title": "Fed meeting live updates: No hike expected, but investors watching Warsh for what's next",
+   "link": "https://www.cnbc.com/2026/10/28/fed-meeting-today-live-updates.html",
+   "summary": "Markets are pricing in less than a 10% chance that the FOMC follows up its quarter--point hike in September with another increase.",
    "article_text": "",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "nytimes.com",
-   "published": "2026-10-28T15:12:55+00:00",
-   "tickers": [
-    "DG"
-   ]
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "cnbc.com",
+   "published": "2026-10-28T15:22:43+00:00",
+   "tickers": []
   },
   {
    "id": "a7a338dfa5ab",
@@ -30,8 +28,144 @@
    "type": "markets",
    "sentiment": "negative",
    "domain": "cnbc.com",
-   "published": "2026-10-28T15:12:51+00:00",
+   "published": "2026-10-28T15:22:37+00:00",
    "tickers": []
+  },
+  {
+   "id": "d154f2ccb6da",
+   "title": "Guideline Expands Ad Intelligence with Digital Pricing Data, Shedding Light on Some of the Industry's Most Complex Media Channels",
+   "link": "https://www.prnewswire.com/news-releases/guideline-expands-ad-intelligence-with-digital-pricing-data-shedding-light-on-some-of-the-industrys-most-complex-media-channels-302922340.html",
+   "summary": "Expanded data coverage across programmatic direct, and retail media made available through Guideline's AI Agent and MCP Server technology NEW YORK, Oct. 28, 2026 /PRNewswire/ -- Guideline, a global provider of ad intelligence and media plan management solutions, today announced six...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "positive",
+   "domain": "prnewswire.com",
+   "published": "2026-10-28T15:22:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "4063f218b80d",
+   "title": "SK hynix: Don't Panic Over The Immediate Threat Of CXMT's 4F Squared Efforts",
+   "link": "https://seekingalpha.com/article/4958602-sk-hynix-dont-panic-over-the-immediate-threat-of-cxmt-4f-squared-efforts?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-28T15:21:40+00:00",
+   "tickers": []
+  },
+  {
+   "id": "52cb2af28687",
+   "title": "STMicroelectronics Q3 2026 Earnings Preview",
+   "link": "https://seekingalpha.com/news/4659050-stmicroelectronics-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-28T15:21:27+00:00",
+   "tickers": [
+    "STM"
+   ]
+  },
+  {
+   "id": "1e04ca6a13b3",
+   "title": "L3Harris Technologies Q3 2026 Earnings Preview",
+   "link": "https://seekingalpha.com/news/4659049-l3harris-technologies-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-28T15:20:52+00:00",
+   "tickers": [
+    "LHX"
+   ]
+  },
+  {
+   "id": "d49734598bed",
+   "title": "Carrier Global Q3 2026 Earnings Preview",
+   "link": "https://seekingalpha.com/news/4659048-carrier-global-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-28T15:20:16+00:00",
+   "tickers": [
+    "CARR"
+   ]
+  },
+  {
+   "id": "bde73764697f",
+   "title": "What The U.S. Midterm Elections Mean For Healthcare And Pharma",
+   "link": "https://seekingalpha.com/article/4958656-what-us-midterm-elections-mean-for-healthcare-pharma?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-28T15:20:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "09a15c26b27e",
+   "title": "Jacobi launches the Investment Management Harness, a governed path from AI prototype to production",
+   "link": "https://www.prnewswire.com/news-releases/jacobi-launches-the-investment-management-harness-a-governed-path-from-ai-prototype-to-production-302920368.html",
+   "summary": "SAN FRANCISCO, Oct. 28, 2026 /PRNewswire/ -- Jacobi Strategies today announced the launch of the Jacobi Investment Management Harness (the \"Harness\"), giving institutional investment teams a governed route from proprietary AI prototype to production workflow. AI has cut the time it takes...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "positive",
+   "domain": "prnewswire.com",
+   "published": "2026-10-28T15:20:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "4a2cdfea0394",
+   "title": "Robinhood CEO Vlad Tenev: Crypto is in a relative winter",
+   "link": "https://www.cnbc.com/video/2026/10/28/robinhood-ceo-vlad-tenev-crypto-is-in-a-relative-winter.html",
+   "summary": "Robinhood CEO Vlad Tenev sits down with CNBC's Kate Rooney to discuss the company's latest earnings results, prediction markets, and more.",
+   "article_text": "",
+   "source": "CNBC Investing",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-10-28T15:19:55+00:00",
+   "tickers": [
+    "HOOD"
+   ]
+  },
+  {
+   "id": "3554304554e9",
+   "title": "Howmet Aerospace Q3 2026 Earnings Preview",
+   "link": "https://seekingalpha.com/news/4659047-howmet-aerospace-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-28T15:19:40+00:00",
+   "tickers": [
+    "HWM"
+   ]
   },
   {
    "id": "8c644d2d80a8",
@@ -44,8 +178,289 @@
    "type": "macro",
    "sentiment": "neutral",
    "domain": "nytimes.com",
-   "published": "2026-10-28T15:12:12+00:00",
+   "published": "2026-10-28T15:19:21+00:00",
    "tickers": []
+  },
+  {
+   "id": "8b33290492b9",
+   "title": "CNBC TEC Summit live updates: How the enterprise is adopting AI successfully",
+   "link": "https://www.cnbc.com/2026/10/28/cnbc-technology-summit-live-updates.html",
+   "summary": "Follow CNBC's 2026 Technology Executive Council Summit for live updates on AI agents, cybersecurity, AI costs and the future of work.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-10-28T15:19:08+00:00",
+   "tickers": []
+  },
+  {
+   "id": "874bb708ccfb",
+   "title": "Cheniere Energy Q3 2026 Earnings Preview",
+   "link": "https://seekingalpha.com/news/4659046-cheniere-energy-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-28T15:19:03+00:00",
+   "tickers": [
+    "LNG"
+   ]
+  },
+  {
+   "id": "894fd2b3b487",
+   "title": "Aspen Neuroscience Pursues IPO On Promising Parkinson's Disease Treatment Candidates",
+   "link": "https://seekingalpha.com/article/4958595-aspen-neuroscience-pursues-ipo-on-promising-parkinsons-disease-treatment-candidates?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "offering",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-28T15:18:59+00:00",
+   "tickers": []
+  },
+  {
+   "id": "caa439a0bf39",
+   "title": "FMI International Equity - Hedged Q3 2026 Review",
+   "link": "https://seekingalpha.com/article/4958594-fmi-international-equity-hedged-q3-2026-review?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-28T15:17:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "beae1d930554",
+   "title": "From Wineries to Health Drinks, Eunice Chiweshe Goldstein Unveils CHIWESHE OS™, an Emerging AI-Powered Platform Designed to Transform the Global Beverage Industry",
+   "link": "https://www.prnewswire.com/news-releases/from-wineries-to-health-drinks-eunice-chiweshe-goldstein-unveils-chiweshe-os-an-emerging-ai-powered-platform-designed-to-transform-the-global-beverage-industry-302922334.html",
+   "summary": "The new technology venture aims to build an intelligent operating system connecting wineries, breweries, distilleries, health and wellness beverage brands, manufacturers, distributors, and retailers through AI-powered business intelligence. NEW YORK, Oct. 28, 2026 /PRNewswire/ --...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-10-28T15:17:00+00:00",
+   "tickers": [
+    "OS"
+   ]
+  },
+  {
+   "id": "1a92e1a93f61",
+   "title": "OmniTrust Launches GridAuth to Secure Device Identity Across Next-Generation Utility Networks",
+   "link": "https://www.prnewswire.com/news-releases/omnitrust-launches-gridauth-to-secure-device-identity-across-next-generation-utility-networks-302922336.html",
+   "summary": "New solution helps energy utilities and equipment manufacturers manage trusted device identities across complex, multi-vendor infrastructure ASHBURN, Va., Oct. 28, 2026 /PRNewswire/ -- OmniTrust today announced the launch of GridAuth, a device identity and trust management platform for...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "positive",
+   "domain": "prnewswire.com",
+   "published": "2026-10-28T15:16:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "eb1082e06c0a",
+   "title": "FTC Sues Dollar General Amid Growing Consumer Doubts Over Pricing",
+   "link": "https://www.nytimes.com/2026/10/28/business/dollar-general-prices-ftc-lawsuit.html",
+   "summary": "Americans have lost faith that retailers are giving them fair deals. The F.T.C. is suing Dollar General over it.",
+   "article_text": "",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-10-28T15:15:56+00:00",
+   "tickers": [
+    "DG"
+   ]
+  },
+  {
+   "id": "8aa186a1fb31",
+   "title": "ATI Q3 2026 Earnings Preview",
+   "link": "https://seekingalpha.com/news/4659044-ati-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-28T15:15:34+00:00",
+   "tickers": [
+    "ATI"
+   ]
+  },
+  {
+   "id": "c107a51e418d",
+   "title": "Palvella jumps as lead asset gets FDA priority review",
+   "link": "https://seekingalpha.com/news/4659041-palvella-gets-fda-priority-review-lead-asset?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "fda",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-28T15:15:31+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ec75a9452f1a",
+   "title": "Jack in the Box: The 3.5x P/E Ratio Comes With An Unpleasant Surprise",
+   "link": "https://seekingalpha.com/article/4958592-jack-in-the-box-the-3-5x-pe-ratio-comes-with-an-unpleasant-surprise?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-28T15:15:22+00:00",
+   "tickers": []
+  },
+  {
+   "id": "8c84641486ed",
+   "title": "ADS-TEC Energy: The Market Is Already Paying For A Project That's Still On Paper",
+   "link": "https://seekingalpha.com/article/4958591-ads-tec-energy-the-market-is-already-paying-for-a-project-that-s-still-on-paper?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-28T15:15:04+00:00",
+   "tickers": []
+  },
+  {
+   "id": "795ac67c4cfe",
+   "title": "My husband wants to sell our $1.5 million home and downsize. But this is where we raised our kids — and I can’t bear to leave.",
+   "link": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
+   "summary": "“He wants to buy something for $600,000 now that we are empty-nesters.”",
+   "article_text": "",
+   "source": "MarketWatch",
+   "category": "markets",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "marketwatch.com",
+   "published": "2026-10-28T15:15:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "4eb35f1f4adc",
+   "title": "McDonald’s new bet on chicken hits a snag as franchisees say the birds are too big",
+   "link": "https://www.marketwatch.com/story/mcdonalds-new-bet-on-chicken-hits-a-snag-as-franchisees-say-the-birds-are-too-big-c3e8dd77?mod=mw_rss_topstories",
+   "summary": "McDonald’s franchisees have complained about “tough meat” and other issues with new hand-breaded chicken, an analyst said.",
+   "article_text": "",
+   "source": "MarketWatch",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "marketwatch.com",
+   "published": "2026-10-28T15:15:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "bf196e711b4f",
+   "title": "Riverwater Small Cap Strategy Q3 2026 Portfolio Update",
+   "link": "https://seekingalpha.com/article/4958652-riverwater-small-cap-strategy-q3-2026-portfolio-update?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-28T15:15:00+00:00",
+   "tickers": [
+    "MSTR"
+   ]
+  },
+  {
+   "id": "9e71f4ce88d5",
+   "title": "Línea Directa Aseguradora, S.A., Compañía de Seguros y Reaseguros 2026 Q3 - Results - Earnings Call Presentation",
+   "link": "https://seekingalpha.com/article/4958657-linea-directa-aseguradora-s-a-compania-de-seguros-y-reaseguros-2026-q3-results-earnings-call?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-28T15:14:19+00:00",
+   "tickers": []
+  },
+  {
+   "id": "6b2ca341d0d0",
+   "title": "Quhuo Limited Affiliate Enters into RMB 10 million Credit Agreement",
+   "link": "https://www.nasdaq.com/articles/quhuo-limited-affiliate-enters-rmb-10-million-credit-agreement",
+   "summary": "Quhuo Limited announced that its affiliated entity, Beijing Quhuo Technology Co., Ltd., entered into a credit facility agreement with Xiamen Bank Co. Ltd., Beijing Branch, dated October 28, 2026. Under the agreement, the lender agreed to provide working capital loans to the affil",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T15:12:44+00:00",
+   "tickers": []
+  },
+  {
+   "id": "51a53e90f67e",
+   "title": "Shenandoah Telecommunications Company Reports Third Quarter 2026 Results",
+   "link": "https://www.nasdaq.com/articles/shenandoah-telecommunications-company-reports-third-quarter-2026-results",
+   "summary": "Shenandoah Telecommunications Company announced third quarter 2026 financial and operating results. During the quarter, Glo Fiber Expansion Markets revenue grew 32.2% year over year to $28.2 million, total revenue increased 4.6% year over year to $93.9 million, and net loss was $",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T15:12:44+00:00",
+   "tickers": []
+  },
+  {
+   "id": "aa41198a73e3",
+   "title": "Range Resources Corporation Announces Third Quarter 2026 Results",
+   "link": "https://www.nasdaq.com/articles/range-resources-corporation-announces-third-quarter-2026-results",
+   "summary": "Range Resources Corporation announced its third quarter 2026 financial results, reporting GAAP revenues and other income of $843 million and GAAP net income of $175 million, or $0.75 per diluted share. Cash flow from operating activities was $308 million, while cash flow from ope",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T15:12:44+00:00",
+   "tickers": [
+    "RRC"
+   ]
+  },
+  {
+   "id": "56a2af8a1e6b",
+   "title": "Here's what options traders see before Alphabet, Microsoft report after the bell",
+   "link": "https://www.cnbc.com/2026/10/28/alphabet-microsoft-report-after-the-bell-what-options-trader-see.html",
+   "summary": "The market's mini rally faces a key test after the bell when tech giants Alphabet and Microsoft report.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-10-28T15:12:09+00:00",
+   "tickers": [
+    "MSFT",
+    "GOOG"
+   ]
   },
   {
    "id": "39d152a71007",
@@ -122,6 +537,22 @@
    "tickers": []
   },
   {
+   "id": "c7d01b00b557",
+   "title": "Boston Scientific Overshadowed by Hackers, Headwinds, and Lower Guidance",
+   "link": "https://biztoc.com/x/c9ba8f4fb153d503?ref=rss",
+   "summary": "Boston Scientific slips after a cyber fallout offsets a Q3 consensus beat. Management targets a 2027 cycle trough and 2030 expansion.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-10-28T15:09:46+00:00",
+   "tickers": [
+    "BSX"
+   ]
+  },
+  {
    "id": "8255b5678f37",
    "title": "CNX Resources Q3 2026 Earnings Preview",
    "link": "https://seekingalpha.com/news/4659038-cnx-resources-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -152,6 +583,39 @@
    "tickers": []
   },
   {
+   "id": "d2022d2962aa",
+   "title": "Stock Market Today: Dow Falls Ahead Of Rate Decision, Warsh Comments; Robinhood Plunges (Live Coverage)",
+   "link": "https://biztoc.com/x/84c6409ae7b75f8c?ref=rss",
+   "summary": "The Dow Jones Industrial Average and the other major stock indexes rose timidly Wednesday as Wall Street braced for the Federal Reserve's interest-rate decision and Fed Chair Kevin Warsh's press conference. In tech land, SK Hynix (SKHY) and Micron Tech (MU) paced the gainers with strong early…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "macro",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-10-28T15:09:20+00:00",
+   "tickers": [
+    "MU",
+    "HOOD"
+   ]
+  },
+  {
+   "id": "dcaf9157fada",
+   "title": "S&P 500, Nasdaq open higher as SK Hynix lifts chips; Fed in focus",
+   "link": "https://biztoc.com/x/9e1859014c2f98db?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-28T15:09:18+00:00",
+   "tickers": [
+    "NDAQ"
+   ]
+  },
+  {
    "id": "f4b678d01f5f",
    "title": "DigiKey to Showcase European Growth, Innovation and the Destination DigiKey Experience at electronica Munich 2026",
    "link": "https://www.prnewswire.com/news-releases/digikey-to-showcase-european-growth-innovation-and-the-destination-digikey-experience-at-electronica-munich-2026-302922327.html",
@@ -163,6 +627,50 @@
    "sentiment": "neutral",
    "domain": "prnewswire.com",
    "published": "2026-10-28T15:09:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c031ed33cefb",
+   "title": "Zelensky: UK pledged £10B to support Ukraine",
+   "link": "https://biztoc.com/x/fa78ccecd3c779b8?ref=rss",
+   "summary": "Ukrainian President Volodymyr Zelensky took to X on Wednesday to announce that the UK had pledged an additional £10 billion in financial support for Ukraine following talks with British Prime Minister...",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-28T15:08:55+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b480544fc85e",
+   "title": "Bye bye Ozempic: Eli Lilly says its new drug retatrutide more than doubles weight loss",
+   "link": "https://biztoc.com/x/319c74d8c67b219a?ref=rss",
+   "summary": "Gym bros call it \"reta.\" Eli Lilly is calling it the winner. On Wednesday, the pharmaceutical giant announced the results of the first clinical trial pitting Ozempic against its newest, most powerful, and yet-to-be-approved next-generation injectable medication for obesity and diabetes:…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-10-28T15:08:51+00:00",
+   "tickers": [
+    "LLY"
+   ]
+  },
+  {
+   "id": "18d098f51b38",
+   "title": "Bank of Canada raises key interest rate, says another hike possible",
+   "link": "https://biztoc.com/x/df850d49703a3a8f?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-10-28T15:08:50+00:00",
    "tickers": []
   },
   {
@@ -182,6 +690,108 @@
    ]
   },
   {
+   "id": "1cd1d08e378a",
+   "title": "Marco Rubio becomes the latest Cabinet official to brush off ethics limits, hit the campaign trail",
+   "link": "https://biztoc.com/x/937717215aaf46d6?ref=rss",
+   "summary": "It’s apparently called the “Cabinet Travel Competition.” According to a report published by The Atlantic last month, the White House came up with the contest, which is exactly what it sounds like: The White House “encourages” Cabinet secretaries to “traverse the country to promote President…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-28T15:08:34+00:00",
+   "tickers": []
+  },
+  {
+   "id": "67babdd0e495",
+   "title": "T-Mobile introduces phone plans with new rules for customer perks",
+   "link": "https://biztoc.com/x/504dfc87493c33f6?ref=rss",
+   "summary": "T-Mobile is launching a new slate of phone plans with an updated customer perk system that it says sets it apart from rivals. The move comes after it confirmed the retirement of several legacy wireless plans in June and automatically placed some customers affected by the change onto higher-priced…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-28T15:08:31+00:00",
+   "tickers": []
+  },
+  {
+   "id": "9c1581fcb332",
+   "title": "Investors Brace for Big Tech’s A.I. Spending Bill",
+   "link": "https://biztoc.com/x/472e55d62b896ece?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-28T15:08:29+00:00",
+   "tickers": []
+  },
+  {
+   "id": "35aad9144f2f",
+   "title": "Coalition's new strike on Yemen strike said to kill 15",
+   "link": "https://biztoc.com/x/10acf1c15cfa1386?ref=rss",
+   "summary": "At least 15 people were killed in a Saudi Arabia-led coalition attack on Al-Hazm, the city in Yemen's northwestern Al-Jawf Governorate, the Houthi-affiliated Al-Masirah television reported on Wednesda...",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-28T15:08:27+00:00",
+   "tickers": []
+  },
+  {
+   "id": "970c19e01058",
+   "title": "Nasdaq futures rise as SK Hynix sparks chip stock rally; Fed rate decision awaited",
+   "link": "https://biztoc.com/x/e5957673a3350cfd?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "macro",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-10-28T15:08:25+00:00",
+   "tickers": [
+    "NDAQ"
+   ]
+  },
+  {
+   "id": "5eb2cddfb22a",
+   "title": "Brewers Pitcher Breaks Playoff Record in Game 4 World Series Loss to Rays",
+   "link": "https://biztoc.com/x/511c0b72ee131711?ref=rss",
+   "summary": "An unsung October hero nearly led the Milwaukee Brewers to their first World Series title on Tuesday night. The Brewers fell short of completing a sweep, losing 4-3 to the Tampa Bay Rays in a 12-inning thriller. Aaron Ashby helped keep the game tied late at Tropicana Field and made history in the…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-10-28T15:08:18+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ca6e9310cb44",
+   "title": "Etsy Stock Jumps Back Above Entry After Strong Q3 Results",
+   "link": "https://biztoc.com/x/c959e6645cf8b654?ref=rss",
+   "summary": "Etsy stock is breaking out after Q3 results showed steady improvements to the e-commerce firm's growth. The post Etsy Stock Jumps Back Above Entry After Strong Q3 Results appeared first on Investor's Business Daily.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-10-28T15:08:17+00:00",
+   "tickers": [
+    "ETSY"
+   ]
+  },
+  {
    "id": "914d847a3506",
    "title": "FTAI Aviation Q3 2026 Earnings Preview",
    "link": "https://seekingalpha.com/news/4659036-ftai-aviation-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -196,6 +806,115 @@
    "tickers": [
     "FTAI"
    ]
+  },
+  {
+   "id": "1575c441912d",
+   "title": "Dollar Posts 2-week High on Expectations for Hawkish FOMC Commentary",
+   "link": "https://biztoc.com/x/3408d4ead13c4b92?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-28T15:08:15+00:00",
+   "tickers": []
+  },
+  {
+   "id": "4c3af7a6c87a",
+   "title": "Jaylen Waddle's Status for Chiefs Game in Doubt After Chest Injury",
+   "link": "https://biztoc.com/x/7ea7260d7ca18bd1?ref=rss",
+   "summary": "The Denver Broncos are catching fire at the right time. They've now won three straight after knocking off the Cardinals 30-16 in Arizona last weekend. Bo Nix delivered his best game of the season, throwing for 222 yards and one touchdown, along with an electric 62-yard rushing score, while…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-28T15:08:13+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c9c72c00fb3c",
+   "title": "Intel, Oracle, IBM join growing list of firms objecting to OKX–ICE tokenized stock plans",
+   "link": "https://biztoc.com/x/942c79f56c79c5a1?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-28T15:08:08+00:00",
+   "tickers": [
+    "IBM",
+    "ORCL",
+    "INTC",
+    "ICE"
+   ]
+  },
+  {
+   "id": "baad677affe8",
+   "title": "XLE’s Price Has Surged, but Its Dividend Barely Moved",
+   "link": "https://biztoc.com/x/4763b7ae7fe2c542?ref=rss",
+   "summary": "The post XLE’s Price Has Surged, but Its Dividend Barely Moved appeared first on 24/7 Wall St.. Shares of the Energy Select Sector SPDR Fund (NYSEARCA:XLE) have climbed 57% over the past year. Over the same stretch, the cash the fund pays out grew about 6%. For a retiree, that gap matters more…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-10-28T15:08:07+00:00",
+   "tickers": [
+    "XLE"
+   ]
+  },
+  {
+   "id": "2a2288b11e83",
+   "title": "Trump Media Falls 5% Toward $6 With Earnings Ahead; Rumble Ticks Up",
+   "link": "https://biztoc.com/x/56f5ac54715b64f4?ref=rss",
+   "summary": "The post Trump Media Falls 5% Toward $6 With Earnings Ahead; Rumble Ticks Up appeared first on 24/7 Wall St.. The company’s next quarterly report is coming up. Trump Media & Technology Group (NASDAQ:DJT) is testing against the bottom of its 52-week range, even as a fellow alternative media stock…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-10-28T15:08:04+00:00",
+   "tickers": [
+    "DJT"
+   ]
+  },
+  {
+   "id": "9d456b6ed3c1",
+   "title": "8BitDo’s new Xbox Elite-style controller sets a high bar for customization",
+   "link": "https://biztoc.com/x/aaf1bdc85ee52419?ref=rss",
+   "summary": "It’s hard to make an Xbox controller that stands out these days, especially one that’s expensive, due to a wealth of great semi-affordable options. Still, 8BitDo’s $150 Ultimate 3E is a bold controller that holds its own against other feature-packed options. It’s made for Xbox and PC gamers who…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-28T15:08:01+00:00",
+   "tickers": [
+    "MSFT"
+   ]
+  },
+  {
+   "id": "758c58e0a0ea",
+   "title": "From Senate Candidates, Surprising Stances on Fixing Social Security",
+   "link": "https://biztoc.com/x/88802a71213569d7?ref=rss",
+   "summary": "Congress needs a plan to prevent the program’s funds from running short by 2032. Many Senate candidates have shared their positions — some of them unexpected.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-28T15:08:01+00:00",
+   "tickers": []
   },
   {
    "id": "d9dd448b52dd",
@@ -226,6 +945,111 @@
    "tickers": []
   },
   {
+   "id": "7e04e89f0c93",
+   "title": "Recalled butter sold in 10 states receives risk warning: FDA",
+   "link": "https://biztoc.com/x/d3fefed49ea5ddf1?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "fda",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-10-28T15:08:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "9d08718762cd",
+   "title": "Putin Test Fires Nuclear-Capable Missile Amid Dispute Over NATO Phone Call",
+   "link": "https://biztoc.com/x/867623696fdece70?ref=rss",
+   "summary": "Russia said it has test-launched an intercontinental ballistic missile (ICBM) from a nuclear-powered submarine, shortly after a rare phone call between Russian President Vladimir Putin and two NATO leaders exposed a rift in European political unity. A Bulava missile was fired from Russia's…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-28T15:07:58+00:00",
+   "tickers": []
+  },
+  {
+   "id": "08e4857baef6",
+   "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+   "link": "https://biztoc.com/x/e08258cdb69edcb6?ref=rss",
+   "summary": "Nvidia on Wednesday released Nemotron 3.5 Transcribe, a free, open-weight model that transcribes audio in up to 40 languages. It also released version 2 of Granary, its open-source speech dataset. Nvidia boasts that Nemotron 3.5 can translate 31 languages to and from English, handle recordings up…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-28T15:07:58+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e5188a76b718",
+   "title": "UBS Thinks the Street Is Too Low on AWS. Amazon’s Quarter Is the Test",
+   "link": "https://biztoc.com/x/366b7e636c1e3513?ref=rss",
+   "summary": "The post UBS Thinks the Street Is Too Low on AWS. Amazon’s Quarter Is the Test appeared first on 24/7 Wall St.. Amazon (NASDAQ:AMZN) is expected to report third-quarter results on October 29 after the close. Going into the report, UBS says that Wall Street is too conservative on how profitable AWS…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-28T15:07:55+00:00",
+   "tickers": [
+    "AMZN",
+    "UBS"
+   ]
+  },
+  {
+   "id": "4be541a81173",
+   "title": "Wendy’s Surges 14% on Trian-Led $1.4B Take-Private Offer; McDonald’s Edges Higher, Yum Brands Stays Put",
+   "link": "https://biztoc.com/x/6dda6f89f4abfb0a?ref=rss",
+   "summary": "The post Wendy’s Surges 14% on Trian-Led $1.4B Take-Private Offer; McDonald’s Edges Higher, Yum Brands Stays Put appeared first on 24/7 Wall St.. An investor group led by the largest shareholder of Wendy’s (NASDAQ:WEN) wants to take the burger chain private. The stock is rising sharply while the…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-10-28T15:07:52+00:00",
+   "tickers": [
+    "YUM"
+   ]
+  },
+  {
+   "id": "dee6636e7331",
+   "title": "Ford Doesn’t Need to Grow. It Needs to Prove It’s Stable",
+   "link": "https://biztoc.com/x/30284031b600447c?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-28T15:07:50+00:00",
+   "tickers": [
+    "F"
+   ]
+  },
+  {
+   "id": "8f9da95e185c",
+   "title": "The UK cuts energy bills, taxes banks and boosts defense in high-stakes budget",
+   "link": "https://biztoc.com/x/72a122004daea647?ref=rss",
+   "summary": "The U.K.'s finance minister John Healey delivered his first fiscal budget on Wednesday, announcing funding for defense, AI initiatives and measures designed to ease cost-of-living pressures. The Autumn Budget included dozens of measures aimed largely at easing rising costs for Britain's…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "upgrade",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-10-28T15:07:50+00:00",
+   "tickers": []
+  },
+  {
    "id": "15f9415a8b80",
    "title": "Proto Labs Q3 2026 Earnings Preview",
    "link": "https://seekingalpha.com/news/4659035-proto-labs-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -238,6 +1062,80 @@
    "domain": "seekingalpha.com",
    "published": "2026-10-28T15:07:49+00:00",
    "tickers": []
+  },
+  {
+   "id": "9cc73f98bacc",
+   "title": "Trump's Permitting Bill Pus Puts Wind Projects in the Middle",
+   "link": "https://biztoc.com/x/3bd24d576300af1d?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-28T15:07:47+00:00",
+   "tickers": []
+  },
+  {
+   "id": "82dcadf0e587",
+   "title": "Who’s in Control of Your Business? You or AI? | Opinion",
+   "link": "https://biztoc.com/x/7b8df81f9a9c8382?ref=rss",
+   "summary": "Artificial intelligence (AI) is already influencing healthcare, scientific research, and business decisions that shape people’s lives. Yet organizations are racing to deploy it without necessarily establishing who is accountable when it fails. That is a leadership failure. Patients, consumers,…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-28T15:07:45+00:00",
+   "tickers": []
+  },
+  {
+   "id": "54fb7da088ab",
+   "title": "The ‘Touchy-Feely’ Lessons of a Family Firm That Has Never Had a Layoff in 75 Years",
+   "link": "https://biztoc.com/x/c277fab340e7f5bf?ref=rss",
+   "summary": "Plus, why Microsoft is offering buyouts to a quarter of its workforce and CEOs are going back to school after making it to the top.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-10-28T15:07:43+00:00",
+   "tickers": [
+    "MSFT"
+   ]
+  },
+  {
+   "id": "1f233e49fa8f",
+   "title": "Global Conflicts Spur Historic Comeback for Oil Refining Profits",
+   "link": "https://biztoc.com/x/3155e9cf71b633d4?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-10-28T15:07:43+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c23eb2685a74",
+   "title": "Coinbase Denies Systems Breach, Says Vendor Exposed Customer Data",
+   "link": "https://biztoc.com/x/e19f0d19b2573e57?ref=rss",
+   "summary": "Coinbase Denies Systems Breach, Says Vendor Exposed Customer Data Authored by Zoltan Vardai via Cointelegraph, Some Coinbase customers' contact information was exposed in a security incident at analytics vendor Amplitude, the exchange said Wednesday. The incident impacted a \"small subset\" of…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-28T15:07:38+00:00",
+   "tickers": [
+    "COIN"
+   ]
   },
   {
    "id": "29eee47f30b5",
@@ -307,20 +1205,6 @@
    "sentiment": "positive",
    "domain": "prnewswire.com",
    "published": "2026-10-28T15:06:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d9178db1ed63",
-   "title": "Fed meeting live updates: No hike expected, but investors watching Warsh for what's next",
-   "link": "https://www.cnbc.com/2026/10/28/fed-meeting-today-live-updates.html",
-   "summary": "Markets are pricing in less than a 10% chance that the FOMC follows up its quarter--point hike in September with another increase.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "cnbc.com",
-   "published": "2026-10-28T15:05:59+00:00",
    "tickers": []
   },
   {
@@ -404,6 +1288,20 @@
    "type": "press",
    "sentiment": "neutral",
    "domain": "prnewswire.com",
+   "published": "2026-10-28T15:05:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f4006fe48f0d",
+   "title": "History Says Predicting a Recession Is Risky. Here's What to Do Instead.",
+   "link": "https://www.nasdaq.com/articles/history-says-predicting-recession-risky-heres-what-do-instead",
+   "summary": "Key PointsA recent Federal Reserve survey suggests that U.S. economic growth will continue for the next several years through 2029.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
    "published": "2026-10-28T15:05:00+00:00",
    "tickers": []
   },
@@ -494,6 +1392,25 @@
    "tickers": []
   },
   {
+   "id": "0bd3c094d3fe",
+   "title": "Stocks Rally as Crude Oil Prices Ease and FOMC Results Awaited",
+   "link": "https://www.nasdaq.com/articles/stocks-rally-crude-oil-prices-ease-and-fomc-results-awaited",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) on Tuesday rose +0.60%, the Dow Jones Industrial Average ($DOWI ) (DIA ) rose +0.03%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) rose +1.29%. December E-mini S&P futures (ESZ26 ) rose +0.62%, and December E-mini Nasdaq futures (NQZ26 ) rose...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T15:04:14+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
+  },
+  {
    "id": "89daa2f809c2",
    "title": "Fifty-One Sovereign Wealth Funds Behind US$6 Trillion in US Investments Invited to Converge on Miami for G20 Investment Week",
    "link": "https://www.prnewswire.com/news-releases/fifty-one-sovereign-wealth-funds-behind-us6-trillion-in-us-investments-invited-to-converge-on-miami-for-g20-investment-week-302922320.html",
@@ -538,6 +1455,66 @@
    ]
   },
   {
+   "id": "947031c8fab8",
+   "title": "IDEX Corporation Reports Record Third Quarter 2026 Results and Raises Full Year Guidance",
+   "link": "https://www.nasdaq.com/articles/idex-corporation-reports-record-third-quarter-2026-results-and-raises-full-year-guidance",
+   "summary": "IDEX Corporation reported its financial results for the third quarter ended September 30, 2026, achieving record sales of $952 million, which increased 8% on both a reported and organic basis. Reported diluted EPS of $1.95 and record adjusted diluted EPS of $2.33 both increased 1",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T15:02:36+00:00",
+   "tickers": [
+    "IEX"
+   ]
+  },
+  {
+   "id": "b9e1f84be09e",
+   "title": "Masco Corporation Reports Third Quarter 2026 Results With Net Sales Of $1,966 million",
+   "link": "https://www.nasdaq.com/articles/masco-corporation-reports-third-quarter-2026-results-net-sales-1966-million",
+   "summary": "Masco Corporation reported its third quarter 2026 results, with net sales increasing 3 percent to $1,966 million. Excluding the impact of divestitures and currency, net sales increased 4 percent. The company's operating profit increased 12 percent to $338 million, with an operati",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T15:02:36+00:00",
+   "tickers": [
+    "MAS"
+   ]
+  },
+  {
+   "id": "2d61eff00451",
+   "title": "Genprex, Inc. to Present TUSC2 Gene Therapy Research at GSA 2026 Annual Scientific Meeting",
+   "link": "https://www.nasdaq.com/articles/genprex-inc-present-tusc2-gene-therapy-research-gsa-2026-annual-scientific-meeting",
+   "summary": "Genprex, Inc. announced that research conducted under its sponsored research collaboration with Meharry Medical College will be featured at the Gerontological Society of America 2026 Annual Scientific Meeting, taking place November 4-7, 2026, in National Harbor, Maryland. The res",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T15:02:36+00:00",
+   "tickers": []
+  },
+  {
+   "id": "fc763c61ea26",
+   "title": "Energy Stocks Shine In Canadian Market; BoC Raises Interest Rate",
+   "link": "https://www.nasdaq.com/articles/energy-stocks-shine-canadian-market-boc-raises-interest-rate",
+   "summary": "(RTTNews) - Canadian stocks are turning in a mixed performance on Wednesday with investors digesting the Bank of Canada's announcement of a 25-basis point rate hike, in addition to tracking corporate earnings news and the trend in commodities markets.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T15:02:35+00:00",
+   "tickers": []
+  },
+  {
    "id": "693d24acb063",
    "title": "Banco Santander, S.A. 2026 Q3 - Results - Earnings Call Presentation",
    "link": "https://seekingalpha.com/article/4958646-banco-santander-s-a-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
@@ -549,6 +1526,72 @@
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
    "published": "2026-10-28T15:02:06+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ee42c1e6185f",
+   "title": "Notable ETF Outflow Detected - SRLN",
+   "link": "https://www.nasdaq.com/articles/notable-etf-outflow-detected-srln-0",
+   "summary": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the State Street Blackstone Senior Loan ETF (Symbol: SRLN) where we have detected an approximate $154.1 million dollar outflow -- that's a 2.9% decrease",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T15:01:25+00:00",
+   "tickers": [
+    "SRLN",
+    "STT",
+    "BX"
+   ]
+  },
+  {
+   "id": "97adaeda25ac",
+   "title": "ARK Innovation ETF Experiences Big Outflow",
+   "link": "https://www.nasdaq.com/articles/ark-innovation-etf-experiences-big-outflow",
+   "summary": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the ARK Innovation ETF (Symbol: ARKK) where we have detected an approximate $186.2 million dollar outflow -- that's a 2.9% decrease week over week (from",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T15:01:18+00:00",
+   "tickers": [
+    "ARKK"
+   ]
+  },
+  {
+   "id": "6b46545a9b80",
+   "title": "Noteworthy ETF Outflows: MUU",
+   "link": "https://www.nasdaq.com/articles/noteworthy-etf-outflows-muu-0",
+   "summary": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the Direxion Daily MU Bull 2X ETF (Symbol: MUU) where we have detected an approximate $201.5 million dollar outflow -- that's a 6.0% decrease week over",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T15:01:15+00:00",
+   "tickers": [
+    "TECL",
+    "MUU",
+    "MU"
+   ]
+  },
+  {
+   "id": "03871876886a",
+   "title": "PIMCO 25+ Year Zero Coupon U.S. Treasury Index Exchange-Traded Fund Experiences Big Outflow",
+   "link": "https://www.nasdaq.com/articles/pimco-25-year-zero-coupon-us-treasury-index-exchange-traded-fund-experiences-big-outflow",
+   "summary": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the PIMCO 25+ Year Zero Coupon U.S. Treasury Index Exchange-Traded Fund (Symbol: ZROZ) where we have detected an approximate $258.6 million dollar outfl",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T15:01:04+00:00",
    "tickers": []
   },
   {
@@ -594,6 +1637,22 @@
    "domain": "prnewswire.com",
    "published": "2026-10-28T15:01:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "268ba286bca2",
+   "title": "Fortive Q3 26 Earnings Conference Call At 12:00 PM ET",
+   "link": "https://www.nasdaq.com/articles/fortive-q3-26-earnings-conference-call-12-00-pm-et",
+   "summary": "(RTTNews) - Fortive Corporation (FTV) will host a conference call at 12:00 PM ET on October 28, 2026, to discuss Q3 26 earnings results.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T15:00:53+00:00",
+   "tickers": [
+    "FTV"
+   ]
   },
   {
    "id": "1a12fc470c7a",
@@ -659,7 +1718,7 @@
    "link": "https://www.prnewswire.com/news-releases/whitley-penn-welcomes-nationally-experienced-tax-leader-michael-vinson-302921976.html",
    "summary": "HOUSTON, Oct. 28, 2026 /PRNewswire/ -- Whitley Penn is pleased to announce the addition of Michael Vinson as a Tax Partner in the Houston office. Vinson brings more than 30 years of experience advising public and private companies on federal tax matters, business transactions, tax...",
    "article_text": "",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -757,6 +1816,40 @@
    ]
   },
   {
+   "id": "689f2a0600b0",
+   "title": "Noteworthy ETF Inflows: JCPB",
+   "link": "https://www.nasdaq.com/articles/noteworthy-etf-inflows-jcpb-0",
+   "summary": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the JPMorgan Core Plus Bond ETF (Symbol: JCPB) where we have detected an approximate $1.2 billion dollar inflow -- that's a 7.2% increase week over week",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T15:00:00+00:00",
+   "tickers": [
+    "JCPB",
+    "JIRE"
+   ]
+  },
+  {
+   "id": "65a665d9f021",
+   "title": "Noteworthy ETF Inflows: IGSB",
+   "link": "https://www.nasdaq.com/articles/noteworthy-etf-inflows-igsb",
+   "summary": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the iShares 1-5 Year Investment Grade Corporate Bond ETF (Symbol: IGSB) where we have detected an approximate $298.6 million dollar inflow -- that's a 1.",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T14:59:55+00:00",
+   "tickers": [
+    "IGSB",
+    "IAGG"
+   ]
+  },
+  {
    "id": "9abfb5dd39df",
    "title": "Emerson Electric options signal 4.9% move on earnings",
    "link": "https://www.investing.com/news/stock-market-news/emerson-electric-options-signal-49-move-on-earnings-93CH-4979949",
@@ -770,6 +1863,53 @@
    "published": "2026-10-28T14:59:52+00:00",
    "tickers": [
     "EMR"
+   ]
+  },
+  {
+   "id": "8feb5a1882fe",
+   "title": "DRAM: ETF Outflow Alert",
+   "link": "https://www.nasdaq.com/articles/dram-etf-outflow-alert",
+   "summary": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the DRAM ETF (Symbol: DRAM) where we have detected an approximate $333.9 million dollar outflow -- that's a 1.7% decrease week over week (from 393,580,0",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T14:59:50+00:00",
+   "tickers": []
+  },
+  {
+   "id": "3d27e2029032",
+   "title": "Notable ETF Outflow Detected - SHV",
+   "link": "https://www.nasdaq.com/articles/notable-etf-outflow-detected-shv",
+   "summary": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the iShares 0-1 Year Treasury Bond ETF (Symbol: SHV) where we have detected an approximate $1.2 billion dollar outflow -- that's a 5.2% decrease week ov",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T14:59:45+00:00",
+   "tickers": [
+    "SHV",
+    "IAGG"
+   ]
+  },
+  {
+   "id": "667b9d3ea13f",
+   "title": "Avantor (AVTR) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/avantor-avtr-q3-2026-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T14:58:52+00:00",
+   "tickers": [
+    "AVTR"
    ]
   },
   {
@@ -806,6 +1946,24 @@
    ]
   },
   {
+   "id": "ee66dcf40165",
+   "title": "TSLL, RNTY: Big ETF Outflows",
+   "link": "https://www.nasdaq.com/articles/tsll-rnty-big-etf-outflows",
+   "summary": "Looking at units outstanding versus one week prior within the universe of ETFs covered at ETF Channel, the biggest outflow was seen in the Direxion Daily TSLA Bull 2X ETF, where 23,550,000 units were destroyed, or a 6.3% decrease week over week. Among the largest underlying com",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T14:57:41+00:00",
+   "tickers": [
+    "TECL",
+    "TSLL",
+    "TSLA"
+   ]
+  },
+  {
    "id": "4a3a9b42242b",
    "title": "July 2028 Options Now Available For iShares Trust - iShares U.S. Real Estate ETF (IYR)",
    "link": "https://www.nasdaq.com/articles/july-2028-options-now-available-ishares-trust-ishares-us-real-estate-etf-iyr",
@@ -821,6 +1979,22 @@
     "IYR",
     "IYW",
     "IAGG"
+   ]
+  },
+  {
+   "id": "696f46a15787",
+   "title": "SPTI, LITX: Big ETF Inflows",
+   "link": "https://www.nasdaq.com/articles/spti-litx-big-etf-inflows",
+   "summary": "Comparing units outstanding versus one week ago at the coverage universe of ETFs at ETF Channel, the biggest inflow was seen in the State Street SPDR Portfolio Intermediate Term Treasury ETF, which added 35,400,000 units, or a 9.0% increase week over week. And on a percentage",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T14:57:25+00:00",
+   "tickers": [
+    "STT"
    ]
   },
   {
@@ -1885,20 +3059,6 @@
    ]
   },
   {
-   "id": "8b33290492b9",
-   "title": "CNBC TEC Summit live updates: How the enterprise is adopting AI successfully",
-   "link": "https://www.cnbc.com/2026/10/28/cnbc-technology-summit-live-updates.html",
-   "summary": "Follow CNBC's 2026 Technology Executive Council Summit for live updates on AI agents, cybersecurity, AI costs and the future of work.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-10-28T14:45:39+00:00",
-   "tickers": []
-  },
-  {
    "id": "06f46dec74cb",
    "title": "Earnings call transcript: NEC lifts FY2027 outlook after strong Q2 2026",
    "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-nec-lifts-fy2027-outlook-after-strong-q2-2026-93CH-4979886",
@@ -2277,25 +3437,6 @@
    "domain": "nasdaq.com",
    "published": "2026-10-28T14:40:02+00:00",
    "tickers": []
-  },
-  {
-   "id": "0bd3c094d3fe",
-   "title": "Stocks Rally as Crude Oil Prices Ease and FOMC Results Awaited",
-   "link": "https://www.nasdaq.com/articles/stocks-rally-crude-oil-prices-ease-and-fomc-results-awaited",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) on Tuesday rose +0.60%, the Dow Jones Industrial Average ($DOWI ) (DIA ) rose +0.03%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) rose +1.29%. December E-mini S&P futures (ESZ26 ) rose +0.62%, and December E-mini Nasdaq futures (NQZ26 ) rose...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-10-28T14:40:02+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
-   ]
   },
   {
    "id": "8ee205d71972",
@@ -7772,1144 +8913,26 @@
    "tickers": [
     "NDAQ"
    ]
-  },
-  {
-   "id": "d12368adb1f8",
-   "title": "70% of Workers in Their 40s and 50s Fear a Worse Retirement Than Their Parents. Their Biggest 401(k) Catch-Up Years Could Still Be Ahead",
-   "link": "https://biztoc.com/x/58a018343d1f1987?ref=rss",
-   "summary": "The post 70% of Workers in Their 40s and 50s Fear a Worse Retirement Than Their Parents. Their Biggest 401(k) Catch-Up Years Could Still Be Ahead appeared first on 24/7 Wall St.. A 52-year-old looking at a 401(k) balance that seems small next to her retirement goals usually decides the window has…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-28T13:36:18+00:00",
-   "tickers": []
-  },
-  {
-   "id": "3758ec838aef",
-   "title": "Apple vs. Alphabet: Gemini Powers Siri, but Only One Stock Still Looks Cheap",
-   "link": "https://biztoc.com/x/7c1d8b08e89a7a9f?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-28T13:36:17+00:00",
-   "tickers": [
-    "GOOG",
-    "AAPL"
-   ]
-  },
-  {
-   "id": "97c4bfba2eb0",
-   "title": "Robinhood Chain brings in $26 million as crypto revenue rises 20% in Q3",
-   "link": "https://biztoc.com/x/60c948de1e19eb4e?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-10-28T13:36:12+00:00",
-   "tickers": [
-    "HOOD"
-   ]
-  },
-  {
-   "id": "3abf901bed65",
-   "title": "Wall St titans skip Riyadh, still come to Gulf",
-   "link": "https://biztoc.com/x/43e6c12b58ff3dee?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-28T13:36:11+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b02e5671cef5",
-   "title": "GE Vernova boosts grid push with $9 billion Trench deal, lifts revenue forecast",
-   "link": "https://biztoc.com/x/5049ccca0b3ffd45?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-10-28T13:36:10+00:00",
-   "tickers": [
-    "GEV",
-    "GE"
-   ]
-  },
-  {
-   "id": "14b63385e29c",
-   "title": "Using artificial intelligence to step up the fight against doping",
-   "link": "https://biztoc.com/x/77377f9b21f3f97f?ref=rss",
-   "summary": "Tools used by WADA and national bodies, the danger that would-be cheats use them too, the personal data risk from a simple online post, and lessons from the \"Santorini Summit\".",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-28T13:36:06+00:00",
-   "tickers": []
-  },
-  {
-   "id": "220ebd235be1",
-   "title": "Medtronic's Q2 2027 Earnings: What to Expect",
-   "link": "https://biztoc.com/x/6ad6e6a77e2eecde?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-28T13:36:03+00:00",
-   "tickers": [
-    "MDT"
-   ]
-  },
-  {
-   "id": "3d0869a6059e",
-   "title": "Bank tax hikes comes in under expectations in Healey’s debut UK Budget",
-   "link": "https://biztoc.com/x/04685db05dfdabc2?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-10-28T13:36:02+00:00",
-   "tickers": []
-  },
-  {
-   "id": "5afc8ee42bc9",
-   "title": "Buyout of Saudi fire security business draws regional backers",
-   "link": "https://biztoc.com/x/7c52c6ec99451a60?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-28T13:36:01+00:00",
-   "tickers": []
-  },
-  {
-   "id": "8796545dd80f",
-   "title": "Apera AI figure parmi les lauréats du palmarès Technology Fast 50 2026 de Deloitte pour la deuxième année consécutive",
-   "link": "https://www.prnewswire.com/news-releases/apera-ai-figure-parmi-les-laureats-du-palmares-technology-fast-50-2026-de-deloitte-pour-la-deuxieme-annee-consecutive-302922226.html",
-   "summary": "Avec une croissance de son chiffre d'affaires de 644 % et plus de 4 200 applications prises en charge dans le monde, Apera AI fait passer la robotique guidée par la vision de projets sur mesure à des produits évolutifs grâce à sa cellule intelligente clés en main VuePod et à son...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-28T13:36:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "2479821dcef6",
-   "title": "Alchemy Technology Group Acquires Freeit Data Solutions, an Austin-Based IT and Cybersecurity Solutions Provider",
-   "link": "https://www.prnewswire.com/news-releases/alchemy-technology-group-acquires-freeit-data-solutions-an-austin-based-it-and-cybersecurity-solutions-provider-302922225.html",
-   "summary": "HOUSTON, Oct. 28, 2026 /PRNewswire/ -- Alchemy Technology Group, a cybersecurity advisory, consulting, and reseller firm and a portfolio company of Avance Investment Management, has acquired Freeit Data Solutions, Inc., an Austin-based provider of data management, infrastructure, and...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-28T13:36:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "554d9d415d18",
-   "title": "Wall Street Takes a Deep Breath Ahead of Fed, Big Tech Earnings Wave",
-   "link": "https://biztoc.com/x/dac8a6b7b01c1122?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-28T13:35:58+00:00",
-   "tickers": []
-  },
-  {
-   "id": "daa7f27063bc",
-   "title": "Badly Crippled GM Moves To Nasdaq",
-   "link": "https://biztoc.com/x/292f9d0cd02ce69f?ref=rss",
-   "summary": "The post Badly Crippled GM Moves To Nasdaq appeared first on 24/7 Wall St.. Changing where its stock trades won’t help GM (NYSE: GM), given its troubled market share in the US and nowhere to go in China and the EU, the world’s other large car markets. One theory is that joining the Nasdaq-100 will…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-28T13:35:55+00:00",
-   "tickers": [
-    "GM",
-    "NDAQ"
-   ]
-  },
-  {
-   "id": "d9dda1e4b42e",
-   "title": "If You Invest $1,000 in Microsoft Today, Here’s What It Could Be Worth by 2030",
-   "link": "https://biztoc.com/x/845f3393c3ede544?ref=rss",
-   "summary": "The post If You Invest $1,000 in Microsoft Today, Here’s What It Could Be Worth by 2030 appeared first on 24/7 Wall St.. A $1,000 stake in Microsoft (NASDAQ:MSFT) puts your money into the company at the center of enterprise AI spending. The forecast model starts from a price of $532.95, and the…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-28T13:35:54+00:00",
-   "tickers": [
-    "MSFT"
-   ]
-  },
-  {
-   "id": "49cd94d5b151",
-   "title": "Britain unveils data centre plan tied to AI and security goals",
-   "link": "https://biztoc.com/x/a3d02621ffe22ff2?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-28T13:35:48+00:00",
-   "tickers": []
-  },
-  {
-   "id": "13c26e0fc98a",
-   "title": "Ten overbought materials stocks to watch during Q3 earnings season",
-   "link": "https://seekingalpha.com/news/4658901-ten-overbought-materials-stocks-to-watch-during-q3-earnings-season?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-28T13:35:43+00:00",
-   "tickers": []
-  },
-  {
-   "id": "86e92f114ef3",
-   "title": "Apple Is Moving Against the Nasdaq for the First Time on Record",
-   "link": "https://biztoc.com/x/3964eecab54a90ad?ref=rss",
-   "summary": "The post Apple Is Moving Against the Nasdaq for the First Time on Record appeared first on 24/7 Wall St.. For four decades, Apple (NASDAQ:AAPL) and the Nasdaq-100 mostly moved together. As reported on October 26, 2026, Apple’s trailing three-month correlation with the index has fallen to about…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-28T13:35:40+00:00",
-   "tickers": [
-    "AAPL",
-    "NDAQ"
-   ]
-  },
-  {
-   "id": "68fcaced124f",
-   "title": "Accenture CEO Buys $3 Million of Stock After Shares Double Off June Lows",
-   "link": "https://biztoc.com/x/a61ff862f7ddf5a6?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-28T13:35:38+00:00",
-   "tickers": [
-    "ACN"
-   ]
-  },
-  {
-   "id": "ee537886a251",
-   "title": "Former Louis Vuitton employees share 6 common mistakes they saw customers make when shopping at the luxury retailer",
-   "link": "https://biztoc.com/x/f2b936b5792a2658?ref=rss",
-   "summary": "Three former Louis Vuitton employees shared common mistakes they saw customers make when shopping in-store. AdrianHancu/iStock We asked former Louis Vuitton employees about the most common mistakes they saw customers make. They said shoppers often overlooked proper bag care or prioritized price…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-28T13:35:36+00:00",
-   "tickers": []
-  },
-  {
-   "id": "012aa2d2b9ca",
-   "title": "CoreWeave Is Rebounding From Its Debt Scare. The Case for Buying the Dip",
-   "link": "https://biztoc.com/x/9802d881420dde83?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-28T13:35:34+00:00",
-   "tickers": [
-    "CRWV"
-   ]
-  },
-  {
-   "id": "3dd3d2e4891a",
-   "title": "Enphase Energy Sinks 20% on Weak Q4 Guidance as Residential Solar Slump Deepens; SolarEdge Drops 10%, Sunrun Falls 5%, First Solar Dips",
-   "link": "https://biztoc.com/x/31dfc9129f1f0eb2?ref=rss",
-   "summary": "The post Enphase Energy Sinks 20% on Weak Q4 Guidance as Residential Solar Slump Deepens; SolarEdge Drops 10%, Sunrun Falls 5%, First Solar Dips appeared first on 24/7 Wall St.. A quarter and outlook showing U.S. rooftop solar demand still sliding are sending Enphase Energy (NASDAQ:ENPH) sharply…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "earnings",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-10-28T13:35:33+00:00",
-   "tickers": [
-    "ENPH",
-    "FSLR",
-    "SEDG"
-   ]
-  },
-  {
-   "id": "5555abaab626",
-   "title": "Dow, Nasdaq, S&P 500 open higher with tech, Fed news coming",
-   "link": "https://biztoc.com/x/0075a3dff1ec646b?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-28T13:35:28+00:00",
-   "tickers": [
-    "NDAQ"
-   ]
-  },
-  {
-   "id": "c7c427f0a774",
-   "title": "UK’s Healey raises business rates threshold for small firms",
-   "link": "https://biztoc.com/x/4a6306c786fafc96?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-10-28T13:35:25+00:00",
-   "tickers": []
-  },
-  {
-   "id": "1b48814a23bb",
-   "title": "Chinese Humanoid Stocks Catch Bid As Unitree Pulls Forward Breakthrough Timeline, JPM Turns Uber Bullish",
-   "link": "https://biztoc.com/x/a1807ff314f6abce?ref=rss",
-   "summary": "Chinese Humanoid Stocks Catch Bid As Unitree Pulls Forward Breakthrough Timeline, JPM Turns Uber Bullish Yushu Technology Co., also known as Unitree, surged in its blockbuster IPO before tumbling from late August into early fall. The stock has soared since mid-October as Unitree's earnings come…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-28T13:35:24+00:00",
-   "tickers": [
-    "BLSH",
-    "UBER",
-    "JPM"
-   ]
-  },
-  {
-   "id": "47168581438b",
-   "title": "Business secretary writes to Poundland owner as administration fears build",
-   "link": "https://biztoc.com/x/5dfedcd30d2124f8?ref=rss",
-   "summary": "Jonathan Reynolds has written to Gordon Brothers, which bought retailer for £1 last summer, to ‘establish the facts’ The business secretary has written to the owner of Poundland amid fears that the cut-price retailer could collapse into administration, threatening to overshadow John Healey’s…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-28T13:35:19+00:00",
-   "tickers": []
-  },
-  {
-   "id": "18ff9f37bce2",
-   "title": "Nasdaq opens higher as SK Hynix lifts chips; all eyes on Fed, Mag 7 earnings",
-   "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-flat-with-fed-rate-decision-megacap-tech-earnings-on-tap-4977314",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-10-28T13:35:08+00:00",
-   "tickers": [
-    "NDAQ"
-   ]
-  },
-  {
-   "id": "32e1abbf17c9",
-   "title": "Altria Group Now Yields Twice as Much as Coca-Cola. Is It the Most Overlooked Dividend Stock? Here's the Clear Answer.",
-   "link": "https://www.nasdaq.com/articles/altria-group-now-yields-twice-much-coca-cola-it-most-overlooked-dividend-stock-heres-clear",
-   "summary": "Key PointsAltria yields roughly 6%, more than double Coca-Cola's 2.3%.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "dividend",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-10-28T13:35:00+00:00",
-   "tickers": [
-    "MO",
-    "KO"
-   ]
-  },
-  {
-   "id": "be4562a00c83",
-   "title": "Not Nvidia. Not Micron. This Underappreciated AI Stock Could Be 2027's Biggest Winner.",
-   "link": "https://www.nasdaq.com/articles/not-nvidia-not-micron-underappreciated-ai-stock-could-be-2027s-biggest-winner",
-   "summary": "Key PointsWestern Digital has been a major beneficiary of the AI boom, as demand for its storage drives has outpaced supply.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-28T13:35:00+00:00",
-   "tickers": [
-    "MU"
-   ]
-  },
-  {
-   "id": "72fe72115cce",
-   "title": "SpaceX’s $40 billion GPU lease won’t affect its credit rating - Fitch",
-   "link": "https://www.investing.com/news/stock-market-news/spacexs-40-billion-gpu-lease-wont-affect-its-credit-rating--fitch-4979523",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-10-28T13:34:02+00:00",
-   "tickers": [
-    "SPCX"
-   ]
-  },
-  {
-   "id": "9fe881cabb01",
-   "title": "Globale Vernetzung mit intelligenter Technologie: Expansion nach Europa | BICV feiert Premiere auf der IZB 2026 in Wolfsburg",
-   "link": "https://www.prnewswire.com/news-releases/globale-vernetzung-mit-intelligenter-technologie-expansion-nach-europa--bicv-feiert-premiere-auf-der-izb-2026-in-wolfsburg-302922224.html",
-   "summary": "WOLFSBURG, Deutschland, 28. Oktober 2026 /PRNewswire/ -- Die alle zwei Jahre stattfindende Internationale Zulieferermesse (IZB) in Wolfsburg ist eine der einflussreichsten Messen für die Automobilzulieferkette in Europa und findet vom 27. bis 29. Oktober statt. BICV Technology Co., Ltd....",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-28T13:34:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "197f5de4d664",
-   "title": "Teen Car Insurance for Only $153/mo, Quote.com Reports",
-   "link": "https://www.prnewswire.com/news-releases/teen-car-insurance-for-only-153mo-quotecom-reports-302921777.html",
-   "summary": "ST. PETERSBURG, Fla., Oct. 28, 2026 /PRNewswire/ -- Quote.com recently published a report on teen car insurance rates. Geico offers the best average premiums for young drivers at $153 a month. Quote.com recently published a report on teen car insurance rates. Geico has the best average...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-28T13:33:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "953567c1b28d",
-   "title": "LUXE Bidet Stages a Surprise \"Funeral\" at San Diego International Film Festival Screening of Horror Short \"Bidet\"",
-   "link": "https://www.prnewswire.com/news-releases/luxe-bidet-stages-a-surprise-funeral-at-san-diego-international-film-festival-screening-of-horror-short-bidet-302921839.html",
-   "summary": "A DM to indie filmmaker James Brylowski sparked an unexpected creative partnership, bringing his film \"Bidet\" off the screen and into the theater. SAN DIEGO, Oct. 28, 2026 /PRNewswire/ -- LUXE Bidet surprised a San Diego International Film Festival audience with a staged funeral that...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-28T13:33:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "0f57699eae56",
-   "title": "FDA Grants Breakthrough Device Designation to Pharaoh Neuro's Neurapheresis™ CSF Management System",
-   "link": "https://www.prnewswire.com/news-releases/fda-grants-breakthrough-device-designation-to-pharaoh-neuros-neurapheresis-csf-management-system-302922219.html",
-   "summary": "Designation recognizes the potential of Neurapheresis to offer advantages over existing treatment options following aneurysmal subarachnoid hemorrhage (aSAH) MINNEAPOLIS, Oct. 28, 2026 /PRNewswire/ -- Pharaoh Neuro, Inc., (https://pharaohneuro.com), a medical device company developing...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "fda",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-28T13:33:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "1787347becb7",
-   "title": "BNP Paribas SA 2026 Q3 - Results - Earnings Call Presentation",
-   "link": "https://seekingalpha.com/article/4958552-bnp-paribas-sa-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-28T13:32:59+00:00",
-   "tickers": []
-  },
-  {
-   "id": "f17d2f1085da",
-   "title": "Clean Harbors, Inc. 2026 Q3 - Results - Earnings Call Presentation",
-   "link": "https://seekingalpha.com/article/4958550-clean-harbors-inc-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-28T13:32:13+00:00",
-   "tickers": [
-    "CLH"
-   ]
-  },
-  {
-   "id": "f0687447e0a5",
-   "title": "Central Pacific Financial Corp. Reports Third Quarter 2026 Earnings of $22.8 Million",
-   "link": "https://www.nasdaq.com/articles/central-pacific-financial-corp-reports-third-quarter-2026-earnings-228-million",
-   "summary": "Central Pacific Financial Corp. reported net income of $22.8 million, or $0.88 diluted earnings per share (\"EPS\"), for the third quarter of 2026. This compares to net income of $20.8 million, or diluted EPS of $0.80, in the prior quarter. Net interest income for the third quarter",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-28T13:31:52+00:00",
-   "tickers": []
-  },
-  {
-   "id": "5f355d99727e",
-   "title": "TE Connectivity plc Reports Fourth Quarter Net Sales of $5.3 billion and Full Year Net Sales of $19.9 billion",
-   "link": "https://www.nasdaq.com/articles/te-connectivity-plc-reports-fourth-quarter-net-sales-53-billion-and-full-year-net-sales",
-   "summary": "TE Connectivity plc reported its results for the fiscal fourth quarter and fiscal year ended September 25, 2026. For the fourth quarter, net sales were a record $5.3 billion, representing an increase of 12% on a reported basis and 13% organically year over year. GAAP diluted earn",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-28T13:31:52+00:00",
-   "tickers": [
-    "TEL",
-    "TE"
-   ]
-  },
-  {
-   "id": "9303e4d0229c",
-   "title": "UBS AG Reports Total Capitalization of 415,842 USD m as of 30.9.26",
-   "link": "https://www.nasdaq.com/articles/ubs-ag-reports-total-capitalization-415842-usd-m-30926",
-   "summary": "UBS (Irl) Fund Solutions plc - CMCI Composite SF UCITS ETF notes that UBS AG reported its consolidated capitalization in accordance with IFRS Accounting Standards. As of 30.9.26, total capitalization was 415,842 USD m, compared with 431,273 USD m as of 30.6.26.Debt issued by UBS",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-28T13:31:51+00:00",
-   "tickers": [
-    "UBS"
-   ]
-  },
-  {
-   "id": "d277f78aa369",
-   "title": "TTM Technologies: The Market Is Punishing The Cash Flow, But The Stock Is In An Interesting Zone",
-   "link": "https://seekingalpha.com/article/4958501-ttm-technologies-the-market-is-punishing-the-cash-flow-but-the-stock-is-in-an-interesting-zone?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-28T13:31:50+00:00",
-   "tickers": [
-    "TTMI"
-   ]
-  },
-  {
-   "id": "c9db2153e7db",
-   "title": "Symrise AG 2026 Q3 - Results - Earnings Call Presentation",
-   "link": "https://seekingalpha.com/article/4958549-symrise-ag-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-28T13:31:39+00:00",
-   "tickers": []
-  },
-  {
-   "id": "a8c960882497",
-   "title": "Bank of America expands in-person reach with new financial centers in Wisconsin",
-   "link": "https://seekingalpha.com/news/4658889-bank-of-america-expands-in-person-reach-with-new-financial-centers-in-wisconsin?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-28T13:31:15+00:00",
-   "tickers": [
-    "BAC"
-   ]
-  },
-  {
-   "id": "bb38728e60a7",
-   "title": "Amphenol jumps on Q3 revenue surge; guidance tops consensus",
-   "link": "https://seekingalpha.com/news/4658881-amphenol-jumps-on-q3-revenue-surge-guidance-tops-consensus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-28T13:30:59+00:00",
-   "tickers": [
-    "APH"
-   ]
-  },
-  {
-   "id": "7170f03b959b",
-   "title": "Garmin Q3 26 Earnings Conference Call At 10:30 AM ET",
-   "link": "https://www.nasdaq.com/articles/garmin-q3-26-earnings-conference-call-10-30-am-et",
-   "summary": "(RTTNews) - Garmin Ltd (GRMN) will host a conference call at 10:30 AM ET on October 28, 2026, to discuss Q3 26 earnings results.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-28T13:30:53+00:00",
-   "tickers": [
-    "GRMN"
-   ]
-  },
-  {
-   "id": "0d9e74a23d72",
-   "title": "How to Tax and Spend in a ‘Turbulent Time’? U.K. Tries a Balancing Act.",
-   "link": "https://www.nytimes.com/2026/10/28/business/uk-budget-chancellor-healey.html",
-   "summary": "The new government, led by Andy Burnham, will deliver its first budget on Wednesday, a plan expected to tread between wide ambition and narrow financial limits.",
-   "article_text": "",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "nytimes.com",
-   "published": "2026-10-28T13:30:46+00:00",
-   "tickers": []
-  },
-  {
-   "id": "28dc81377cee",
-   "title": "Walmart Launches Holiday Meal Basket At $3.50 Per Person",
-   "link": "https://www.nasdaq.com/articles/walmart-launches-holiday-meal-basket-350-person",
-   "summary": "(RTTNews) - Wednesday, Walmart Inc. (WMT) announced the launch of the Holiday Meal Basket, which includes a mix of 26 trusted national and Walmart brand favorites, at $3.50 per person.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-10-28T13:30:34+00:00",
-   "tickers": [
-    "WMT"
-   ]
-  },
-  {
-   "id": "91313c1d2f82",
-   "title": "Verallia Société Anonyme (VRLAF) Q3 2026 Earnings Call Transcript",
-   "link": "https://seekingalpha.com/article/4958546-verallia-societe-anonyme-vrlaf-q3-2026-earnings-call-transcript?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-28T13:30:14+00:00",
-   "tickers": []
-  },
-  {
-   "id": "af8d50138d88",
-   "title": "Current macro conditions point to an attractive entry for stocks – Citi Wealth",
-   "link": "https://seekingalpha.com/news/4658902-current-macro-conditions-point-to-an-attractive-entry-for-stocks-citi-wealth?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-28T13:30:07+00:00",
-   "tickers": [
-    "C"
-   ]
-  },
-  {
-   "id": "2e62f7c08efb",
-   "title": "Got COLA FOMO? Give Your Dividend Portfolio a Raise",
-   "link": "https://www.nasdaq.com/articles/got-cola-fomo-give-your-dividend-portfolio-raise",
-   "summary": "Social Security recipient? You're set to receive a 3.6% raise in January.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-10-28T13:30:01+00:00",
-   "tickers": []
-  },
-  {
-   "id": "635eb86d939b",
-   "title": "SLB Stock: A Move To Rebuild Inventories Makes It A Buy",
-   "link": "https://seekingalpha.com/article/4957963-slb-stock-a-move-to-rebuild-inventories-makes-it-a-buy?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-28T13:30:00+00:00",
-   "tickers": [
-    "SLB"
-   ]
-  },
-  {
-   "id": "b3c96d367972",
-   "title": "Nvidia: Brace For The Worst",
-   "link": "https://seekingalpha.com/article/4958219-nvidia-brace-for-the-worst?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-28T13:30:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "39e17e976cef",
-   "title": "Ibis Emerges from Stealth with $250 Million FalconX Credit Facility to Build Institutional Credit Rails for Frontier Markets",
-   "link": "https://www.prnewswire.com/news-releases/ibis-emerges-from-stealth-with-250-million-falconx-credit-facility-to-build-institutional-credit-rails-for-frontier-markets-302922144.html",
-   "summary": "New onchain credit platform backed by an extensive network of investors will initially provide structured credit to crypto trading firms, with plans to expand into other emerging tech markets. NEW YORK, Oct. 28, 2026 /PRNewswire/ -- Ibis, an onchain credit platform built to expand...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-28T13:30:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ffb05e0d5349",
-   "title": "iBusiness Funding Expands Access to SBA Financing for Amazon Sellers - Offered through Amazon Seller Central",
-   "link": "https://www.prnewswire.com/news-releases/ibusiness-funding-expands-access-to-sba-financing-for-amazon-sellers--offered-through-amazon-seller-central-302921220.html",
-   "summary": "Connecting eligible Amazon sellers with SBA financing through iBusiness Funding's SBA lender network, technology and lending expertise. FORT LAUDERDALE, Fla., Oct. 28, 2026 /PRNewswire/ -- iBusiness Funding today announced the integration of its digital SBA financing capabilities into the...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "press",
-   "sentiment": "positive",
-   "domain": "prnewswire.com",
-   "published": "2026-10-28T13:30:00+00:00",
-   "tickers": [
-    "AMZN"
-   ]
-  },
-  {
-   "id": "e2cb4d964e03",
-   "title": "YaraAmplix PROCOTE OPTIMIZE® and OPTITRAC® Biostimulants Now Commercially Available in the U.S.",
-   "link": "https://www.prnewswire.com/news-releases/yaraamplix-procote-optimize-and-optitrac-biostimulants-now-commercially-available-in-the-us-302922193.html",
-   "summary": "Combining Yara's world-leading crop nutrition expertise with biological innovation to help growers get more value from every acre. TAMPA, Fla., Oct. 28, 2026 /PRNewswire/ -- Yara North America today announced the U.S. commercial availability of two biostimulant solutions; YaraAmplix...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-28T13:30:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6c12f65b4f5b",
-   "title": "Tata Communications to Build India's AI Super Highway",
-   "link": "https://www.prnewswire.com/news-releases/tata-communications-to-build-indias-ai-super-highway-302922204.html",
-   "summary": "Planned USD 400 - 450 million investment to create 10,000 km of AI-ready connectivity infrastructure linking India's key data center and AI hubs NEW DELHI, Oct. 28, 2026 /PRNewswire/ -- Tata Communications, a leading global communications technology player, today announced strategic...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-28T13:30:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "adcd3cf6682f",
-   "title": "Read All About It: Black Friday's Here at INDOCHINO, with Made-to-Measure Suits from $399 USD / $499 CAD",
-   "link": "https://www.prnewswire.com/news-releases/read-all-about-it-black-fridays-here-at-indochino-with-made-to-measure-suits-from-399-usd--499-cad-302921884.html",
-   "summary": "INDOCHINO takes its story to the street with \"This Just In,\" a newspaper inspired Black Friday campaign set in the city, with up to 40% off made-to-measure suits VANCOUVER, BC, Oct. 28, 2026 /PRNewswire/ -- INDOCHINO, the made-to-measure menswear brand with showrooms across the United...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-28T13:30:00+00:00",
-   "tickers": [
-    "BC"
-   ]
-  },
-  {
-   "id": "5dce7a0130cc",
-   "title": "S4 Capital plc (SFCAY) Q3 2026 Earnings Call Transcript",
-   "link": "https://seekingalpha.com/article/4958545-s4-capital-plc-sfcay-q3-2026-earnings-call-transcript?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-28T13:29:57+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ad3de1c2cfa1",
-   "title": "This strategist says it’s time to diversify beyond the AI rally",
-   "link": "https://www.investing.com/news/stock-market-news/this-strategist-says-its-time-to-diversify-beyond-the-ai-rally-4979488",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-10-28T13:28:31+00:00",
-   "tickers": []
-  },
-  {
-   "id": "27c7ca41b985",
-   "title": "FEMSA (FMX) Q2 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/femsa-fmx-q2-2026-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-28T13:28:19+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b68522555f41",
-   "title": "Avepoint stock climbs following S&P Smallcap 600 inclusion news",
-   "link": "https://www.investing.com/news/stock-market-news/avepoint-stock-climbs-following-sp-smallcap-600-inclusion-news-4979486",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-10-28T13:28:19+00:00",
-   "tickers": []
-  },
-  {
-   "id": "eb0e6b8ad443",
-   "title": "Britain unveils data centre plan tied to AI and security goals",
-   "link": "https://www.investing.com/news/economy-news/britain-unveils-data-centre-plan-tied-to-ai-and-security-goals-93CH-4979483",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-10-28T13:27:14+00:00",
-   "tickers": []
-  },
-  {
-   "id": "44e9a280d5e9",
-   "title": "Want guaranteed income in retirement without an annuity? Try laddering I bonds.",
-   "link": "https://www.marketwatch.com/story/how-to-use-i-bonds-to-create-guaranteed-inflation-proof-income-in-retirement-50753fea?mod=mw_rss_topstories",
-   "summary": "The new I-bond interest rate could be 5.5% or 5.4%, but that shouldn’t change your strategy.",
-   "article_text": "",
-   "source": "MarketWatch",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "marketwatch.com",
-   "published": "2026-10-28T13:27:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6d9cf3ba27ad",
-   "title": "ICON Q3 2026 slides: margins expand amid record bookings",
-   "link": "https://www.investing.com/news/company-news/icon-q3-2026-slides-margins-expand-amid-record-bookings-93CH-4979482",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-10-28T13:27:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "041de852a8b8",
-   "title": "Industrial Growth Partners Announces Sale of AdvancedPCB",
-   "link": "https://www.prnewswire.com/news-releases/industrial-growth-partners-announces-sale-of-advancedpcb-302921255.html",
-   "summary": "SAN FRANCISCO, Oct. 28, 2026 /PRNewswire/ -- Industrial Growth Partners (\"IGP\") is pleased to announce that it has entered into a definitive agreement to sell AdvancedPCB Holdings, LLC (\"AdvancedPCB\" or the \"Company\") to Amphenol Corporation (NYSE: APH). The transaction is subject to...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-28T13:27:00+00:00",
-   "tickers": [
-    "APH"
-   ]
-  },
-  {
-   "id": "9aa5e740b538",
-   "title": "CELSET bringt SOLTOX, eine koreanische Marke für Botulinumtoxin Typ A, auf den internationalen Markt.",
-   "link": "https://www.prnewswire.com/news-releases/celset-bringt-soltox-eine-koreanische-marke-fur-botulinumtoxin-typ-a-auf-den-internationalen-markt-302922207.html",
-   "summary": "SEOUL, Südkorea, 28. Oktober 2026 /PRNewswire/ -- CELSET INC., ein koreanisches Biotechnologieunternehmen, das sich auf medizinische Ästhetik spezialisiert hat, hat SOLTOX, seine Markür Botulinumtoxin Typ A, auf den Markt gebracht und damit eine koreanische Botulinumtoxin-Marke in der...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-28T13:27:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "f55c158a9796",
-   "title": "Monness raises Apple stock price target to $355 on innovation",
-   "link": "https://www.investing.com/news/analyst-ratings/monness-raises-apple-stock-price-target-to-355-on-innovation-93CH-4979481",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-10-28T13:26:45+00:00",
-   "tickers": [
-    "AAPL"
-   ]
-  },
-  {
-   "id": "7f3103855306",
-   "title": "GTA VI sets record for video game purchase intent, Circana says",
-   "link": "https://seekingalpha.com/news/4658882-gta-vi-sets-record-for-video-game-purcase-intent-circana-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-28T13:26:39+00:00",
-   "tickers": []
-  },
-  {
-   "id": "bb0487490b5f",
-   "title": "Earnings call transcript: Stellantis Q3 2026 revenue beats, shares jump",
-   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-stellantis-q3-2026-revenue-beats-shares-jump-93CH-4979480",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-10-28T13:26:32+00:00",
-   "tickers": [
-    "STLA"
-   ]
-  },
-  {
-   "id": "46a0f6260d73",
-   "title": "Earnings call transcript: KPN tops revenue forecasts in Q3 2026, shares rise",
-   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-kpn-tops-revenue-forecasts-in-q3-2026-shares-rise-93CH-4979479",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-10-28T13:26:14+00:00",
-   "tickers": []
-  },
-  {
-   "id": "5a627218d8fe",
-   "title": "Oatly Q3 2026 slides: revenue rises 9% but profit outlook cut",
-   "link": "https://www.investing.com/news/company-news/oatly-q3-2026-slides-revenue-rises-9-but-profit-outlook-cut-93CH-4979478",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-10-28T13:26:10+00:00",
-   "tickers": []
-  },
-  {
-   "id": "f15fd6d33c95",
-   "title": "Global Health Forum Brings Cross-Industry Experts Together to Advance Trust-Centric Digital Care",
-   "link": "https://www.prnewswire.com/news-releases/global-health-forum-brings-cross-industry-experts-together-to-advance-trust-centric-digital-care-302922206.html",
-   "summary": "Experts in healthcare, technology, life sciences and public health will examine AI governance, interoperable data, precision medicine and clinical deployment. TAIPEI, Oct. 28, 2026 /PRNewswire/ -- The 2026 Global Health and Welfare Forum will convene 43 speakers and moderators from 11...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-28T13:26:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "a1e9e1988d19",
-   "title": "OppFi Q3 2026 slides: earnings beat amid revenue decline, guidance cut",
-   "link": "https://www.investing.com/news/company-news/oppfi-q3-2026-slides-earnings-beat-amid-revenue-decline-guidance-cut-93CH-4979474",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-10-28T13:25:52+00:00",
-   "tickers": []
-  },
-  {
-   "id": "932ae8540535",
-   "title": "Earnings call transcript: HF Sinclair beats Q3 2026 forecasts as shares rise premarket",
-   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-hf-sinclair-beats-q3-2026-forecasts-as-shares-rise-premarket-93CH-4979472",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-10-28T13:25:32+00:00",
-   "tickers": [
-    "DINO"
-   ]
-  },
-  {
-   "id": "4c766c9aa1cf",
-   "title": "PayPal: A Potential Bid Holds The Floor",
-   "link": "https://seekingalpha.com/article/4958497-paypal-a-potential-bid-holds-the-floor?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-28T13:25:31+00:00",
-   "tickers": [
-    "PYPL"
-   ]
-  },
-  {
-   "id": "440dc1f5b1c3",
-   "title": "Avantor Q3 2026 slides: organic growth returns amid Revival push",
-   "link": "https://www.investing.com/news/company-news/avantor-q3-2026-slides-organic-growth-returns-amid-revival-push-93CH-4979471",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-10-28T13:25:21+00:00",
-   "tickers": [
-    "AVTR"
-   ]
-  },
-  {
-   "id": "8bc002c0c69e",
-   "title": "KPIT Q2 FY27 slides show margin gains amid client diversification",
-   "link": "https://www.investing.com/news/company-news/kpit-q2-fy27-slides-show-margin-gains-amid-client-diversification-93CH-4979470",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-10-28T13:24:53+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
+  "IGSB": "iShares 1-5 Year Investment Grade Corporate Bond ETF",
   "JIRE": "JPMorgan International Research Enhanced Equity ETF",
+  "XLE": "State Street Energy Select Sector SPDR ETF",
   "IAGG": "iShares International Aggregate Bond Fund",
+  "SRLN": "State Street Blackstone Senior Loan ETF",
   "DIA": "SPDR Dow Jones Industrial Average ETF",
+  "SHV": "iShares 0-1 Year Treasury Bond ETF",
+  "TECL": "Direxion Technology Bull 3X Shares",
+  "TSLL": "Direxion Daily TSLA Bull 2X Shares",
   "DB": "Deutsche Bank Aktiengesellschaft",
+  "MUU": "Direxion Daily MU Bull 2X Shares",
+  "IBM": "International Business Machines",
+  "DJT": "Trump Media & Technology Group",
   "GLPI": "Gaming and Leisure Properties",
   "IYR": "iShares U.S. Real Estate ETF",
   "IYW": "iShares U.S. Technology ETF",
+  "JCPB": "JPMorgan Core Plus Bond ETF",
   "QQQ": "Invesco QQQ Trust, Series 1",
   "STX": "Seagate Technology Holdings",
   "AMC": "AMC Entertainment Holdings",
@@ -8917,6 +8940,7 @@
   "FBIN": "Fortune Brands Innovations",
   "GEHC": "GE HealthCare Technologies",
   "ADP": "Automatic Data Processing",
+  "ICE": "Intercontinental Exchange",
   "CFG": "Citizens Financial Group",
   "IWM": "iShares Russell 2000 ETF",
   "AEP": "American Electric Power",
@@ -8925,10 +8949,10 @@
   "AMD": "Advanced Micro Devices",
   "AXTA": "Axalta Coating Systems",
   "CAKE": "The Cheesecake Factory",
-  "SEDG": "SolarEdge Technologies",
   "VZ": "Verizon Communications",
   "CRCL": "Circle Internet Group",
   "FLUT": "Flutter Entertainment",
+  "LHX": "L3Harris Technologies",
   "PB": "Prosperity Bancshares",
   "BLDR": "Builders FirstSource",
   "EIX": "Edison International",
@@ -8936,10 +8960,12 @@
   "SHW": "The Sherwin-Williams",
   "AXSM": "Axsome Therapeutics",
   "SYF": "Synchrony Financial",
+  "ARKK": "ARK Innovation ETF",
   "BEN": "Franklin Resources",
   "GPI": "Group 1 Automotive",
   "NXPI": "NXP Semiconductors",
   "SIRI": "Sirius XM Holdings",
+  "STM": "STMicroelectronics",
   "BSX": "Boston Scientific",
   "HOOD": "Robinhood Markets",
   "JNJ": "Johnson & Johnson",
@@ -8948,7 +8974,7 @@
   "UBER": "Uber Technologies",
   "EMR": "Emerson Electric",
   "GTLS": "Chart Industries",
-  "JPM": "JPMorgan Chase &",
+  "HWM": "Howmet Aerospace",
   "LH": "Labcorp Holdings",
   "RCAT": "Red Cat Holdings",
   "TTMI": "TTM Technologies",
@@ -8956,17 +8982,17 @@
   "GE": "General Electric",
   "AER": "AerCap Holdings",
   "ARES": "Ares Management",
-  "BAC": "Bank of America",
   "CI": "The Cigna Group",
   "COIN": "Coinbase Global",
   "CRML": "Critical Metals",
   "LNG": "Cheniere Energy",
   "PH": "Parker-Hannifin",
   "PWR": "Quanta Services",
-  "PYPL": "PayPal Holdings",
+  "RRC": "Range Resources",
   "TEL": "TE Connectivity",
   "TRGP": "Targa Resources",
   "VRT": "Vertiv Holdings",
+  "CARR": "Carrier Global",
   "CCK": "Crown Holdings",
   "DG": "Dollar General",
   "ENPH": "Enphase Energy",
@@ -8976,7 +9002,6 @@
   "LNT": "Alliant Energy",
   "META": "Meta Platforms",
   "USAR": "USA Rare Earth",
-  "CLH": "Clean Harbors",
   "CNX": "CNX Resources",
   "EXE": "Expand Energy",
   "FTAI": "FTAI Aviation",
@@ -8989,27 +9014,27 @@
   "MSTR": "MicroStrategy",
   "BKR": "Baker Hughes",
   "IDCC": "InterDigital",
-  "MO": "Altria Group",
   "MP": "MP Materials",
   "NBIS": "Nebius Group",
   "SPY": "SPDR S&P 500",
+  "STT": "State Street",
   "UBS": "UBS Group AG",
   "GOOGL": "Google Cloud",
   "TSLA": "Supercharger",
   "NVDA": "Grace Hopper",
-  "SLB": "Schlumberger",
   "ARM": "Arm Holdings",
   "AOS": "A. O. Smith",
   "DINO": "HF Sinclair",
   "EQNR": "Equinor ASA",
   "FE": "FirstEnergy",
-  "FSLR": "First Solar",
   "PSX": "Phillips 66",
   "WPC": "W. P. Carey",
   "XOM": "Exxon Mobil",
+  "YUM": "Yum! Brands",
   "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
   "BA": "The Boeing",
+  "BX": "Blackstone",
   "DKNG": "DraftKings",
   "F": "Ford Motor",
   "GEV": "GE Vernova",
@@ -9017,13 +9042,12 @@
   "SPGI": "S&P Global",
   "STLA": "Stellantis",
   "MSFT": "Office 365",
-  "ACN": "Accenture",
-  "BC": "Brunswick",
   "C": "Citigroup",
   "CLS": "Celestica",
   "CME": "CME Group",
   "CRWV": "CoreWeave",
   "MDT": "Medtronic",
+  "OS": "OneStream",
   "SBUX": "Starbucks",
   "TE": "T1 Energy",
   "ADBE": "Photoshop",
@@ -9044,6 +9068,7 @@
   "CVX": "Chevron",
   "DBX": "Dropbox",
   "ENS": "EnerSys",
+  "FTV": "Fortive",
   "HUBS": "HubSpot",
   "LINE": "Lineage",
   "MRK": "Merck &",
@@ -9054,7 +9079,6 @@
   "WMT": "Walmart",
   "CHE": "Chemed",
   "GNTX": "Gentex",
-  "GRMN": "Garmin",
   "LRN": "Stride",
   "NDAQ": "Nasdaq",
   "ORCL": "Oracle",
@@ -9066,10 +9090,13 @@
   "HUT": "Hut 8",
   "INTC": "Intel",
   "KEX": "Kirby",
+  "MAS": "Masco",
   "OKE": "ONEOK",
   "TEX": "Terex",
   "AGCO": "AGCO",
+  "ETSY": "Etsy",
   "FLEX": "Flex",
+  "IEX": "IDEX",
   "LYFT": "Lyft",
   "NVMI": "Nova",
   "OKLO": "Oklo",
