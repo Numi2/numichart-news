@@ -1,8 +1,55 @@
 {
- "generated": "2026-10-28T23:35:20.024842+00:00",
+ "generated": "2026-10-28T23:40:54.145128+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "280d1fc717fd",
+   "title": "Alphabet shares fall on Q3 revenue miss",
+   "link": "https://www.cnbc.com/video/2026/10/28/alphabet-shares-fall-on-q3-revenue-miss.html",
+   "summary": "CNBC's MacKenzie Sigalos joins 'Closing Bell Overtime' with Google Q3 results.",
+   "article_text": "",
+   "source": "CNBC Investing",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "negative",
+   "domain": "cnbc.com",
+   "published": "2026-10-28T23:37:45+00:00",
+   "tickers": [
+    "GOOG",
+    "GOOGL"
+   ]
+  },
+  {
+   "id": "b9acf0dfcbb0",
+   "title": "First Commonwealth outlines 4.20% Q4 NIM and mid-4.20s in 2027, while adding $25M buyback authorization",
+   "link": "https://seekingalpha.com/news/4659778-first-commonwealth-outlines-4_20-percent-q4-nim-and-midminus-4_20s-in-2027-while-adding-25m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-28T23:31:27+00:00",
+   "tickers": []
+  },
+  {
+   "id": "8bf5c7b39771",
+   "title": "Houlihan Lokey expects fiscal 2027 adjusted tax rate of 26%-28% as restructuring outlook extends into fiscal 2028",
+   "link": "https://seekingalpha.com/news/4659777-houlihan-lokey-expects-fiscal-2027-adjusted-tax-rate-of-26-percentminus-28-percent-as?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "guidance",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-28T23:31:15+00:00",
+   "tickers": [
+    "HLI"
+   ]
+  },
   {
    "id": "8fbae4d0510d",
    "title": "FedEx Corporation 2026 Q3 - Results - Earnings Call Presentation",
@@ -50,6 +97,20 @@
    "tickers": []
   },
   {
+   "id": "ca6b174825a2",
+   "title": "3 Reasons Why Bitcoin Is Worth Buying Right Now",
+   "link": "https://www.nasdaq.com/articles/3-reasons-why-bitcoin-worth-buying-right-now",
+   "summary": "Key PointsBitcoin is currently stuck in an extended consolidation phase, making it an ideal time for long-term investors to look past daily chart patterns.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T23:29:00+00:00",
+   "tickers": []
+  },
+  {
    "id": "0f14a9b93e44",
    "title": "Google shares tumble 10% after $51bn AI outlay deepens cash burn",
    "link": "https://www.ft.com/content/eb386156-5bf9-4edd-80f2-803fdee1e33d?syn-25a6b1a6=1",
@@ -64,6 +125,92 @@
    "tickers": [
     "GOOGL"
    ]
+  },
+  {
+   "id": "e0cb9db8ce09",
+   "title": "Cattle Correct Lower on Wednesday Ahead of Month End",
+   "link": "https://www.nasdaq.com/articles/cattle-correct-lower-wednesday-ahead-month-end",
+   "summary": "Live cattle futures posted losses of $2.62 to $3.52 across the board at the close. Cash trade has been quiet this week with a few sales reported by USDA at $224 live in the north and $350-365 dressed. The Wednesday morning Fed Cattle Exchange online auction showed no bids on...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T23:26:09+00:00",
+   "tickers": []
+  },
+  {
+   "id": "024fd99b9e4b",
+   "title": "Wheat Extends Losses on Wednesday as Russia Opens Kerch Strait",
+   "link": "https://www.nasdaq.com/articles/wheat-extends-losses-wednesday-russia-opens-kerch-strait",
+   "summary": "The wheat complex extended the weakness to the Wednesday session. Chicago SRW contracts were a penny to 11 1/4 cents in the red at the close. KC HRW futures posted losses of 2 to 7 1/2 cents on the day. MPLS spring wheat was down 2 3/4 to 9 1/4...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T23:26:09+00:00",
+   "tickers": []
+  },
+  {
+   "id": "cd3a69fd0967",
+   "title": "Hogs Close Mixed on Wednesday",
+   "link": "https://www.nasdaq.com/articles/hogs-close-mixed-wednesday-0",
+   "summary": "Lean hog futures were mixed, with front months down 75 cents to $3.42 and other contracts up 30 cents to $2.22. USDA’s national base hog price was reported at $56.56 in the Wednesday PM report, down $1.38 from the day prior. The CME Lean Hog Index was down another 70...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T23:26:09+00:00",
+   "tickers": [
+    "CME"
+   ]
+  },
+  {
+   "id": "d7954da56edc",
+   "title": "Corn Posts Modest Wednesday Bounce as Ethanol Output Improves",
+   "link": "https://www.nasdaq.com/articles/corn-posts-modest-wednesday-bounce-ethanol-output-improves",
+   "summary": "Corn futures saw steady to 3 cent higher trade across most contracts on Wednesday, as futures got a midweek bounce. The CmdtyView national average Cash Corn price was up 2 3/4 cents at $4.13 1/4. The average close for December corn futures in October has been $4.78, as there are...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T23:26:08+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e91eddc2b21e",
+   "title": "Soybeans Fade Lower into Wednesday’s Close",
+   "link": "https://www.nasdaq.com/articles/soybeans-fade-lower-wednesdays-close",
+   "summary": "Soybeans faded lower into the midweek close on Wednesday, as contracts were down 4 ¾ to 7 ¼ cents and a couple cents off the lows. The cmdtyView national average Cash Bean price was down 5 3/4 cents at $11.66. Soymeal futures were mixed, up $1.10 to 90 cents lower,...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T23:26:08+00:00",
+   "tickers": []
+  },
+  {
+   "id": "5f1c4ea67392",
+   "title": "Cotton Closes Higher on Wednesday",
+   "link": "https://www.nasdaq.com/articles/cotton-closes-higher-wednesday-0",
+   "summary": "Cotton futures closed the Wednesday session with contracts 8 to 25 points in the green, with outside factors supportive. Crude oil is up $2.04 per barrel on the session, with the US dollar index $0.167 lower. The Seam reported just 906 bales sold on Thursday, at an average of 67.42...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T23:26:08+00:00",
+   "tickers": []
   },
   {
    "id": "76c881a4ac58",
@@ -92,6 +239,50 @@
    "domain": "biztoc.com",
    "published": "2026-10-28T23:22:59+00:00",
    "tickers": []
+  },
+  {
+   "id": "727773b74a7f",
+   "title": "PC Connection, Inc. Reports Third Quarter 2026 Net Sales of $874.3 million",
+   "link": "https://www.nasdaq.com/articles/pc-connection-inc-reports-third-quarter-2026-net-sales-8743-million",
+   "summary": "PC Connection, Inc. reported its financial results for the third quarter ended September 30, 2026. Net sales for the quarter increased by 23.3% year over year. Gross billings increased by 19.4% to $1.3 billion, compared to $1.1 billion in the third quarter of 2025. Gross profit i",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T23:22:52+00:00",
+   "tickers": []
+  },
+  {
+   "id": "8f4d4322bd1a",
+   "title": "GlucoTrack, Inc. Effects 1-for-2 Reverse Stock Split",
+   "link": "https://www.nasdaq.com/articles/glucotrack-inc-effects-1-2-reverse-stock-split",
+   "summary": "GlucoTrack, Inc. filed a Certificate of Amendment to its Certificate of Incorporation to effect a one-for-two (1-for-2) reverse stock split of its common stock, par value $0.001 per share, which became effective at 4:30 p.m., Eastern Time, on October 23, 2026. As a result of the",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T23:22:44+00:00",
+   "tickers": []
+  },
+  {
+   "id": "2531bafafdb1",
+   "title": "FedEx Corporation Announces Fiscal Year End Change, Segment Realignment, and $1.4 billion Supply Chain Sale",
+   "link": "https://www.nasdaq.com/articles/fedex-corporation-announces-fiscal-year-end-change-segment-realignment-and-14-billion",
+   "summary": "FedEx Corporation announced a change in its fiscal year end from May 31 to December 31, effective June 1, 2026. As a result, the company will report operating results covering the seven-month transition period from June 1, 2026 through December 31, 2026 in a Transition Report on",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T23:22:43+00:00",
+   "tickers": [
+    "FDX"
+   ]
   },
   {
    "id": "e2b9d40f0cb7",
@@ -358,6 +549,20 @@
    "tickers": []
   },
   {
+   "id": "f9deaf99ffd4",
+   "title": "Japan Stock Market May Break Resistance At 64,000 Points",
+   "link": "https://www.nasdaq.com/articles/japan-stock-market-may-break-resistance-64000-points",
+   "summary": "(RTTNews) - The Japan stock market has tracked higher in two straight sessions, rallying more than 1,750 points or 2.9 percent along the way. The Nikkei now sits just above the 63,950-point plateau and it figures to see additional support on Thursday.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T23:19:21+00:00",
+   "tickers": []
+  },
+  {
    "id": "ccec6ecb1730",
    "title": "Fed leaves rates unchanged as it awaits ’accumulation of more information’",
    "link": "https://www.investing.com/news/economy-news/fed-holds-rates-steady-as-it-awaits-accumulation-of-more-information-4980411",
@@ -491,6 +696,104 @@
    "domain": "investing.com",
    "published": "2026-10-28T23:13:05+00:00",
    "tickers": []
+  },
+  {
+   "id": "bd71aa9eb785",
+   "title": "Carvana Co. Reports Q3 2026 Results with 217,385 Retail Units Sold and $8.040 billion Revenue",
+   "link": "https://www.nasdaq.com/articles/carvana-co-reports-q3-2026-results-217385-retail-units-sold-and-8040-billion-revenue",
+   "summary": "Carvana Co. reported its financial results for the third quarter ended September 30, 2026, with retail units sold totaling 217,385, an increase of 39% year-over-year. Revenue totaled $8.040 billion, an increase of 42%, and total Gross profit was $1.521 billion, an increase of 32%",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T23:13:05+00:00",
+   "tickers": [
+    "CVNA"
+   ]
+  },
+  {
+   "id": "9af30c621ea3",
+   "title": "Gossamer Bio Stockholders Approve Share Issuance Proposal Under Securities Purchase Agreement Dated August 20, 2026",
+   "link": "https://www.nasdaq.com/articles/gossamer-bio-stockholders-approve-share-issuance-proposal-under-securities-purchase",
+   "summary": "Gossamer Bio, Inc. held a special meeting of stockholders on October 27, 2026. Stockholders approved, in accordance with Nasdaq Listing Rules 5635(c) and 5635(d), the potential issuance of shares of the Company's common stock, par value $0.0001 per share, pursuant to the Securiti",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T23:12:57+00:00",
+   "tickers": [
+    "NDAQ"
+   ]
+  },
+  {
+   "id": "7a2fbc4b20c1",
+   "title": "Align Technology, Inc. Reports Q3'26 Total Revenues of $1,014.8 million",
+   "link": "https://www.nasdaq.com/articles/align-technology-inc-reports-q326-total-revenues-10148-million",
+   "summary": "Align Technology, Inc. reported total revenues of $1,014.8 million for the third quarter ended September 30, 2026, representing a 1.9% increase year-over-year. Clear Aligner revenues grew 4.2% year-over-year to $839.3 million, with Clear Aligner volume increasing 6.6% year-over-y",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T23:12:56+00:00",
+   "tickers": [
+    "ALGN"
+   ]
+  },
+  {
+   "id": "cc8836285c73",
+   "title": "Corn Holding onto Midweek Gains as Ethanol Output Improves",
+   "link": "https://www.nasdaq.com/articles/corn-holding-midweek-gains-ethanol-output-improves",
+   "summary": "Corn futures are fractionally to 3 cents higher across the front months on Wednesday. The CmdtyView national average Cash Corn price is down 3 1/4 cents at $4.14 3/4. The average close for December corn futures in October has been $4.79, as there are just 3 days left for the...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T23:12:31+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e6d52ddb9d4b",
+   "title": "Sugar Prices Rise on Report of Reduced Brazilian Sugar Milling",
+   "link": "https://www.nasdaq.com/articles/sugar-prices-rise-report-reduced-brazilian-sugar-milling-0",
+   "summary": "March NY world sugar #11 (SBH27 ) closed up +0.14 (+0.73%) on Wednesday, and December London ICE white sugar #5 (SWZ26 ) closed up +6.50 (+1.25%). Sugar prices saw support after S&P Global Energy reported Wednesday that millers in Brazil’s Center-South region produced only 2 MMT of sugar in the...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T23:12:31+00:00",
+   "tickers": [
+    "SPGI",
+    "ICE"
+   ]
+  },
+  {
+   "id": "a08a9b338647",
+   "title": "Stocks Little Changed After Divided Fed Holds Rates Steady",
+   "link": "https://www.nasdaq.com/articles/stocks-little-changed-after-divided-fed-holds-rates-steady",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) is up +0.16%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.21%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +0.17%. December E-mini S&P futures (ESZ26 ) are up +0.06%, and December E-mini Nasdaq futures (NQZ26...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T23:12:31+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
   },
   {
    "id": "bcd45c566912",
@@ -670,20 +973,6 @@
     "SPY",
     "DIA"
    ]
-  },
-  {
-   "id": "cc8836285c73",
-   "title": "Corn Holding onto Midweek Gains as Ethanol Output Improves",
-   "link": "https://www.nasdaq.com/articles/corn-holding-midweek-gains-ethanol-output-improves",
-   "summary": "Corn futures are fractionally to 3 cents higher across the front months on Wednesday. The CmdtyView national average Cash Corn price is down 3 1/4 cents at $4.14 3/4. The average close for December corn futures in October has been $4.79, as there are just 3 days left for the...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-10-28T23:07:36+00:00",
-   "tickers": []
   },
   {
    "id": "076bcf9d5247",
@@ -1434,23 +1723,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-10-28T23:00:05+00:00",
    "tickers": []
-  },
-  {
-   "id": "e6d52ddb9d4b",
-   "title": "Sugar Prices Rise on Report of Reduced Brazilian Sugar Milling",
-   "link": "https://www.nasdaq.com/articles/sugar-prices-rise-report-reduced-brazilian-sugar-milling-0",
-   "summary": "March NY world sugar #11 (SBH27 ) closed up +0.14 (+0.73%) on Wednesday, and December London ICE white sugar #5 (SWZ26 ) closed up +6.50 (+1.25%). Sugar prices saw support after S&P Global Energy reported Wednesday that millers in Brazil’s Center-South region produced only 2 MMT of sugar in the...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-28T22:58:00+00:00",
-   "tickers": [
-    "SPGI",
-    "ICE"
-   ]
   },
   {
    "id": "6c1171f9a5e9",
@@ -2909,25 +3181,6 @@
    "domain": "biztoc.com",
    "published": "2026-10-28T22:21:08+00:00",
    "tickers": []
-  },
-  {
-   "id": "a08a9b338647",
-   "title": "Stocks Little Changed After Divided Fed Holds Rates Steady",
-   "link": "https://www.nasdaq.com/articles/stocks-little-changed-after-divided-fed-holds-rates-steady",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) is up +0.16%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.21%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +0.17%. December E-mini S&P futures (ESZ26 ) are up +0.06%, and December E-mini Nasdaq futures (NQZ26...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-28T22:20:31+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
-   ]
   },
   {
    "id": "824ac039ccb8",
@@ -8686,269 +8939,6 @@
    "domain": "investing.com",
    "published": "2026-10-28T21:02:09+00:00",
    "tickers": []
-  },
-  {
-   "id": "a07d0644704b",
-   "title": "Canadian dollar holds gains after Bank of Canada delivers rate hike",
-   "link": "https://www.investing.com/news/forex-news/canadian-dollar-holds-gains-after-bank-of-canada-delivers-rate-hike-4980887",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Forex",
-   "category": "fx",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-10-28T21:02:08+00:00",
-   "tickers": []
-  },
-  {
-   "id": "aee06f3ee726",
-   "title": "Avantor, Inc. 2026 Q3 - Results - Earnings Call Presentation",
-   "link": "https://seekingalpha.com/article/4958885-avantor-inc-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-28T21:01:55+00:00",
-   "tickers": [
-    "AVTR"
-   ]
-  },
-  {
-   "id": "43684dcc918b",
-   "title": "Lennox forecasts 2026 adjusted EPS $21-$21.50 amid dynamic pricing shift and ~6% revenue growth outlook",
-   "link": "https://seekingalpha.com/news/4659693-lennox-forecasts-2026-adjusted-eps-21-21_50-amid-dynamic-pricing-shift-and-6-percent-revenue?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-28T21:01:48+00:00",
-   "tickers": [
-    "LII"
-   ]
-  },
-  {
-   "id": "058a1eb8729d",
-   "title": "Kinross Gold Non-GAAP EPS of $0.50 beats by $0.05, revenue of $1.77B misses by $80M",
-   "link": "https://seekingalpha.com/news/4659692-kinross-gold-non-gaap-eps-of-0_50-beats-by-0_05-revenue-of-1_77b-misses-by-80m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-28T21:01:45+00:00",
-   "tickers": [
-    "KGC"
-   ]
-  },
-  {
-   "id": "580e77fe15c9",
-   "title": "Jones Lang LaSalle Incorporated 2026 Q3 - Results - Earnings Call Presentation",
-   "link": "https://seekingalpha.com/article/4958884-jones-lang-lasalle-incorporated-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-28T21:01:39+00:00",
-   "tickers": [
-    "JLL"
-   ]
-  },
-  {
-   "id": "401b582f81f2",
-   "title": "Invitation Homes Inc. Q3 Profit Rises",
-   "link": "https://www.nasdaq.com/articles/invitation-homes-inc-q3-profit-rises",
-   "summary": "(RTTNews) - Invitation Homes Inc. (INVH) announced earnings for its third quarter that Increased, from the same period last year",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-10-28T21:01:30+00:00",
-   "tickers": [
-    "INVH"
-   ]
-  },
-  {
-   "id": "03390e32ce7b",
-   "title": "Stellantis N.V. 2026 Q3 - Results - Earnings Call Presentation",
-   "link": "https://seekingalpha.com/article/4958883-stellantis-n-v-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-28T21:01:12+00:00",
-   "tickers": [
-    "STLA"
-   ]
-  },
-  {
-   "id": "e121e4572732",
-   "title": "Les fabricants de denrées alimentaires et de boissons s'empressent de déployer l'IA au-delà de la phase pilote",
-   "link": "https://www.prnewswire.com/news-releases/les-fabricants-de-denrees-alimentaires-et-de-boissons-sempressent-de-deployer-lia-au-dela-de-la-phase-pilote-302922743.html",
-   "summary": "De nouvelles recherches de Rockwell Automation portent sur les obstacles qui se dressent entre l'adoption de l'IA et l'impact mesurable sur l'entreprise MILWAUKEE, 28 octobre 2026 /PRNewswire/ -- Rockwell Automation, Inc. (NYSE : ROK), leader mondial de l'automatisation industrielle et de...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-28T21:01:00+00:00",
-   "tickers": [
-    "ROK"
-   ]
-  },
-  {
-   "id": "ca69a0ced4ba",
-   "title": "Farah & Farah Scales Multi-Generational Leadership as Layla Farah Sworn in as Attorney",
-   "link": "https://www.prnewswire.com/news-releases/farah--farah-scales-multi-generational-leadership-as-layla-farah-sworn-in-as-attorney-302922744.html",
-   "summary": "As Layla Farah joins siblings Ramzi and Rania, the Southeast personal injury powerhouse deepens its multi-generational commitment to client advocacy. JACKSONVILLE, Fla., Oct. 28, 2026 /PRNewswire/ -- As Farah & Farah continues its rapid expansion across Florida, Georgia, and South...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-28T21:01:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "8ddcaccde1b6",
-   "title": "O'Reilly Automotive Announces Climb In Q3 Bottom Line",
-   "link": "https://www.nasdaq.com/articles/oreilly-automotive-announces-climb-q3-bottom-line",
-   "summary": "(RTTNews) - O'Reilly Automotive (ORLY) reported a profit for its third quarter that Increased, from last year",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-10-28T21:00:55+00:00",
-   "tickers": [
-    "ORLY"
-   ]
-  },
-  {
-   "id": "5bbb46e1dc5c",
-   "title": "Mizuho reiterates American Electric Power stock rating at Neutral",
-   "link": "https://www.investing.com/news/analyst-ratings/mizuho-reiterates-american-electric-power-stock-rating-at-neutral-93CH-4980883",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "analyst",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-10-28T21:00:50+00:00",
-   "tickers": [
-    "AEP"
-   ]
-  },
-  {
-   "id": "26fc2b2aa7a0",
-   "title": "TD Cowen raises Brinker stock price target to $270 on strong results",
-   "link": "https://www.investing.com/news/analyst-ratings/td-cowen-raises-brinker-stock-price-target-to-270-on-strong-results-93CH-4980882",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-10-28T21:00:46+00:00",
-   "tickers": [
-    "EAT",
-    "TD"
-   ]
-  },
-  {
-   "id": "01404e1bed16",
-   "title": "EON Resources Inc. (EONR) Q2 2026 Earnings Call Transcript",
-   "link": "https://seekingalpha.com/article/4958878-eon-resources-inc-eonr-q2-2026-earnings-call-transcript?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-28T21:00:31+00:00",
-   "tickers": []
-  },
-  {
-   "id": "da38db763849",
-   "title": "Lennox International Inc. (LII) Q3 2026 Earnings Call Transcript",
-   "link": "https://seekingalpha.com/article/4958654-lennox-international-inc-lii-q3-2026-earnings-call-transcript?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-28T21:00:15+00:00",
-   "tickers": [
-    "LII"
-   ]
-  },
-  {
-   "id": "8907d114f151",
-   "title": "Markel Advances Strategic Focus on Specialty Insurance, Announces Adverse Development Cover Reinsurance Agreement with Enstar on Reinsurance Business",
-   "link": "https://www.prnewswire.com/news-releases/markel-advances-strategic-focus-on-specialty-insurance-announces-adverse-development-cover-reinsurance-agreement-with-enstar-on-reinsurance-business-302922742.html",
-   "summary": "Covers future adverse reserve development on Markel's Global Reinsurance and other select insurance lines of business for underwriting years 2025 and prior RICHMOND, Va., Oct. 28, 2026 /PRNewswire/ -- Markel Insurance, the insurance operations within Markel Group Inc. (NYSE: MKL) and...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-28T21:00:00+00:00",
-   "tickers": [
-    "MKL"
-   ]
-  },
-  {
-   "id": "5931ba808c01",
-   "title": "Kong Joins ServiceNow Control Tower Alliance Aimed At Helping Enterprises Safely Adopt AI",
-   "link": "https://www.prnewswire.com/news-releases/kong-joins-servicenow-control-tower-alliance-aimed-at-helping-enterprises-safely-adopt-ai-302922679.html",
-   "summary": "As a founding member, Kong will help bring enforcement to the APIs, models, and tools that agents rely on SAN FRANCISCO, Oct. 28, 2026 /PRNewswire/ -- Kong Inc., the AI Connectivity Company, today announced it is a founding member of the ServiceNow Control Tower Alliance, a new ecosystem...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-28T21:00:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "fe303248090c",
-   "title": "Palmdale Propane Acquires Affordable Gas",
-   "link": "https://www.prnewswire.com/news-releases/palmdale-propane-acquires-affordable-gas-302922723.html",
-   "summary": "PALM BEACH GARDENS, Fla., Oct. 28, 2026 /PRNewswire/ -- Palmdale Propane, a subsidiary of Palmdale Oil (\"Palmdale\"), a leading provider of fuels, propane, lubricants and chemicals with delivery solutions across the state of Florida, announced it has acquired Affordable Gas, a locally...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-28T21:00:00+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8968,7 +8958,6 @@
   "GEHC": "GE HealthCare Technologies",
   "ICE": "Intercontinental Exchange",
   "RARE": "Ultragenyx Pharmaceutical",
-  "TD": "The Toronto-Dominion Bank",
   "WFRD": "Weatherford International",
   "CFG": "Citizens Financial Group",
   "AEP": "American Electric Power",
@@ -8997,7 +8986,6 @@
   "CSL": "Carlisle Companies",
   "EQH": "Equitable Holdings",
   "ISRG": "Intuitive Surgical",
-  "JLL": "Jones Lang LaSalle",
   "MPC": "Marathon Petroleum",
   "MRVL": "Marvell Technology",
   "NYT": "The New York Times",
@@ -9015,7 +9003,6 @@
   "BMO": "Bank of Montreal",
   "ENSG": "The Ensign Group",
   "GTLS": "Chart Industries",
-  "INVH": "Invitation Homes",
   "GE": "General Electric",
   "HURN": "Huron Consulting",
   "AER": "AerCap Holdings",
