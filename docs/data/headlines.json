@@ -1,8 +1,22 @@
 {
- "generated": "2026-10-28T02:43:03.616312+00:00",
+ "generated": "2026-10-28T02:50:17.367174+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "69e0d1817b88",
+   "title": "Labubu-maker Pop Mart's shares extend declines as third-quarter sales plunge",
+   "link": "https://www.cnbc.com/2026/10/28/labubu-pop-mart-third-quarter-earnings.html",
+   "summary": "The company reported a 45% to 50% year-on-year drop in third-quarter revenue.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "cnbc.com",
+   "published": "2026-10-28T02:47:48+00:00",
+   "tickers": []
+  },
   {
    "id": "8076cdcb7a55",
    "title": "Innodata Investigation Notice: SueWallSt Notifies Investors of Pending Investigation Into Innodata (INOD)",
@@ -92,6 +106,39 @@
    "tickers": []
   },
   {
+   "id": "c10bdc773241",
+   "title": "Cotton Facing Tuesday Pressure",
+   "link": "https://www.nasdaq.com/articles/cotton-facing-tuesday-pressure",
+   "summary": "Cotton futures are down 83 to 98 points across most front months on Tuesday. Crude oil is down $1.70 per barrel on the session, with the US dollar index $0.320 higher. Crop Progress data tallied 89% of the US cotton crop with bolls opening as of 10/25, behind the 92%...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T02:37:21+00:00",
+   "tickers": []
+  },
+  {
+   "id": "468432e508d5",
+   "title": "AI Power Stocks Fell 7% to 13% in a Week While Exxon and Chevron Just Hit Record Highs. Here's Which Side I'd Rather Own.",
+   "link": "https://www.nasdaq.com/articles/ai-power-stocks-fell-7-13-week-while-exxon-and-chevron-just-hit-record-highs-heres-which",
+   "summary": "Key PointsOver the last five days, Bloom Energy is down 13% from its high, while Oklo, NuScale, and Constellation Energy are each down around 7%.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T02:35:00+00:00",
+   "tickers": [
+    "CEG",
+    "STZ",
+    "CVX",
+    "XOM"
+   ]
+  },
+  {
    "id": "8d796388c72f",
    "title": "AVXL Stockholders Have Rights - If You Lost Money Investing in Anavex Life Sciences Corp. Contact Robbins LLP for Information About Recovering Your Losses",
    "link": "https://www.prnewswire.com/news-releases/avxl-stockholders-have-rights--if-you-lost-money-investing-in-anavex-life-sciences-corp-contact-robbins-llp-for-information-about-recovering-your-losses-302921487.html",
@@ -103,6 +150,20 @@
    "sentiment": "negative",
    "domain": "prnewswire.com",
    "published": "2026-10-28T02:34:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "257fb90d0a59",
+   "title": "Wheat Pushes Losses to Tuesday",
+   "link": "https://www.nasdaq.com/articles/wheat-pushes-losses-tuesday",
+   "summary": "The wheat complex is falling lower across the three markets on Tuesday. Chicago SRW contracts were 1 to 7 cents in the red at the close. KC HRW futures were fractionally in some deferred to 8 ¾ cents lower on the day. MPLS spring wheat posted weakness of 4 ¾...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T02:32:42+00:00",
    "tickers": []
   },
   {
@@ -155,6 +216,22 @@
    ]
   },
   {
+   "id": "4e5738c56455",
+   "title": "Why SoFi Stock Popped Today",
+   "link": "https://www.nasdaq.com/articles/why-sofi-stock-popped-today",
+   "summary": "Key PointsSoFi is successfully attracting new members with its steadily expanding product lineup.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T02:30:13+00:00",
+   "tickers": [
+    "SOFI"
+   ]
+  },
+  {
    "id": "b2c542e669fc",
    "title": "Xylem Inc. Investigation Notice: Levi & Korsinsky Notifies Investors of Pending Investigation Into Xylem Inc. (XYL)",
    "link": "https://www.prnewswire.com/news-releases/xylem-inc-investigation-notice-levi--korsinsky-notifies-investors-of-pending-investigation-into-xylem-inc-xyl-302921352.html",
@@ -184,6 +261,52 @@
    "published": "2026-10-28T02:29:58+00:00",
    "tickers": [
     "STX"
+   ]
+  },
+  {
+   "id": "20bcf776060d",
+   "title": "EpicQuest Education Group International Limited Subsidiary Receives Notice of Termination from Miami University",
+   "link": "https://www.nasdaq.com/articles/epicquest-education-group-international-limited-subsidiary-receives-notice-termination",
+   "summary": "EpicQuest Education Group International Limited announced that on October 20, 2026, its wholly owned subsidiary, Quest Holding International, LLC, received written notice from Miami University that Miami University is terminating, for convenience, the recruitment and enrollment f",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T02:29:07+00:00",
+   "tickers": [
+    "META"
+   ]
+  },
+  {
+   "id": "8bae5b22b539",
+   "title": "Ellington Financial Inc. Announces Estimated Book Value Per Common Share of $13.53 as of September 30, 2026",
+   "link": "https://www.nasdaq.com/articles/ellington-financial-inc-announces-estimated-book-value-common-share-1353-september-30-2026",
+   "summary": "Ellington Financial Inc. announced an estimated book value per share of common stock of $13.53 as of September 30, 2026. This estimate includes the effect of the previously announced monthly dividend of $0.13 per share of common stock, to be paid on October 30, 2026 to holders of",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T02:28:58+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f0ab65d4e700",
+   "title": "Ferrovial SE Details Multi-Phase Development Program for I-285E Express Lanes",
+   "link": "https://www.nasdaq.com/articles/ferrovial-se-details-multi-phase-development-program-i-285e-express-lanes",
+   "summary": "Ferrovial SE announced details regarding its multi-phase development program for the I-285E Express Lanes in Atlanta. The project is being developed by Top End Mobility Group, which is 90% Ferrovial and 10% Tikehau. Phase 1 of the project is committed and includes 23 miles of I-2",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T02:28:49+00:00",
+   "tickers": [
+    "FER"
    ]
   },
   {
@@ -458,6 +581,50 @@
    "tickers": []
   },
   {
+   "id": "f7a3fb9c4704",
+   "title": "Bowman Consulting Group Ltd. Discloses Merger Litigation and Supplements Proxy Statement for Special Meeting on November 4, 2026",
+   "link": "https://www.nasdaq.com/articles/bowman-consulting-group-ltd-discloses-merger-litigation-and-supplements-proxy-statement",
+   "summary": "Bowman Consulting Group Ltd. has disclosed litigation and demand letters from purported stockholders regarding its pending merger with Prive Parent, Inc., an affiliate of Bernhard Capital Partners. As of October 27, 2026, the company has received several demand letters and is awa",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T02:18:53+00:00",
+   "tickers": []
+  },
+  {
+   "id": "5f53a4b9c29d",
+   "title": "ICON Public Limited Company Reports Third Quarter 2026 Results",
+   "link": "https://www.nasdaq.com/articles/icon-public-limited-company-reports-third-quarter-2026-results",
+   "summary": "ICON Public Limited Company reported revenue of $2,024.8 million for the third quarter ended September 30, 2026, representing a decrease of 2.9% on quarter three 2025. GAAP net income was $122.1 million, or $1.58 diluted earnings per share, compared to diluted earnings per share",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T02:18:53+00:00",
+   "tickers": [
+    "ICLR"
+   ]
+  },
+  {
+   "id": "655fb70c8415",
+   "title": "O-I Glass, Inc. Reports Third Quarter 2026 Results, Updates 2026 Outlook, and Proposes European Plant Closure",
+   "link": "https://www.nasdaq.com/articles/o-i-glass-inc-reports-third-quarter-2026-results-updates-2026-outlook-and-proposes",
+   "summary": "O-I Glass, Inc. reported net sales of approximately $1.6 billion for the third quarter ended September 30, 2026, down 2 percent from the prior-year period. Net earnings were a loss of $13 million, or $0.08 per share, while adjusted earnings reflected a loss of $15 million, or $0.",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T02:18:43+00:00",
+   "tickers": []
+  },
+  {
    "id": "183aec439ffe",
    "title": "Precision Drilling GAAP EPS of C$1.65 misses by C$0.45, revenue of C$531.65M beats by C$1.94M",
    "link": "https://seekingalpha.com/news/4658572-precision-drilling-gaap-eps-of-c165-misses-by-c045-revenue-of-c53165m-beats-by-c194m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -542,6 +709,20 @@
    "tickers": []
   },
   {
+   "id": "0571f08c1636",
+   "title": "Dollar Posts 1.5-week High on Expectations for Hawkish FOMC Commentary",
+   "link": "https://www.nasdaq.com/articles/dollar-posts-15-week-high-expectations-hawkish-fomc-commentary-0",
+   "summary": "The dollar index (DXY00 ) on Tuesday rose +0.33% and posted a new 1.5-week high. The dollar saw support ahead of the 2-day FOMC meeting that ends Wednesday, amid expectations that Fed Chair Warsh will deliver somewhat hawkish commentary on future rate hikes to curb above-target inflation. The markets are...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T02:13:42+00:00",
+   "tickers": []
+  },
+  {
    "id": "20f77df19b6a",
    "title": "Nearly 90% of businesses are turning to tokenised money, DBS survey shows",
    "link": "https://www.investing.com/news/stock-market-news/nearly-90-of-businesses-are-turning-to-tokenised-money-dbs-survey-shows-4977384",
@@ -616,17 +797,45 @@
    "tickers": []
   },
   {
-   "id": "0571f08c1636",
-   "title": "Dollar Posts 1.5-week High on Expectations for Hawkish FOMC Commentary",
-   "link": "https://www.nasdaq.com/articles/dollar-posts-15-week-high-expectations-hawkish-fomc-commentary-0",
-   "summary": "The dollar index (DXY00 ) on Tuesday rose +0.33% and posted a new 1.5-week high. The dollar saw support ahead of the 2-day FOMC meeting that ends Wednesday, amid expectations that Fed Chair Warsh will deliver somewhat hawkish commentary on future rate hikes to curb above-target inflation. The markets are...",
+   "id": "b5c7d46eb2b8",
+   "title": "Quaint Oak Bancorp, Inc. Reports Third Quarter 2026 Net Income of $635,000 and Announces Senior Notes Repurchase Program",
+   "link": "https://www.nasdaq.com/articles/quaint-oak-bancorp-inc-reports-third-quarter-2026-net-income-635000-and-announces-senior",
+   "summary": "Quaint Oak Bancorp, Inc. reported net income of $635,000, or $0.24 per basic and diluted share, for the third quarter ended September 30, 2026, compared with a net loss of $41,000, or $(0.02) per basic and diluted share, for the same period in 2025. For the nine months ended Sept",
    "article_text": "",
    "source": "NASDAQ Stocks",
    "category": "stocks",
-   "type": "macro",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T02:08:52+00:00",
+   "tickers": []
+  },
+  {
+   "id": "81ca0bbe1129",
+   "title": "First Guaranty Bancshares, Inc. Reports Third Quarter 2026 Financial Results",
+   "link": "https://www.nasdaq.com/articles/first-guaranty-bancshares-inc-reports-third-quarter-2026-financial-results",
+   "summary": "First Guaranty Bancshares, Inc. announced its unaudited financial results for the third quarter and nine months ended September 30, 2026. Net income for the three months ended September 30, 2026 was $12.0 million, compared to a net loss of $(45.0) million for the same period in 2",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "earnings",
    "sentiment": "neutral",
    "domain": "nasdaq.com",
-   "published": "2026-10-28T02:09:10+00:00",
+   "published": "2026-10-28T02:08:43+00:00",
+   "tickers": []
+  },
+  {
+   "id": "5e86d3458d42",
+   "title": "Cardiff Oncology Appoints Leila Alland as Interim Chief Medical Officer and Increases Authorized Shares to 300,000,000",
+   "link": "https://www.nasdaq.com/articles/cardiff-oncology-appoints-leila-alland-interim-chief-medical-officer-and-increases",
+   "summary": "Cardiff Oncology, Inc. announced that Dr. Roger Sidhu separated from the company as Chief Medical Officer on October 22, 2026, in connection with a mutually agreed upon transition. On October 23, 2026, the company entered into an amended and restated consulting agreement with Lei",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-28T02:08:42+00:00",
    "tickers": []
   },
   {
@@ -2447,20 +2656,6 @@
    "tickers": []
   },
   {
-   "id": "c10bdc773241",
-   "title": "Cotton Facing Tuesday Pressure",
-   "link": "https://www.nasdaq.com/articles/cotton-facing-tuesday-pressure",
-   "summary": "Cotton futures are down 83 to 98 points across most front months on Tuesday. Crude oil is down $1.70 per barrel on the session, with the US dollar index $0.320 higher. Crop Progress data tallied 89% of the US cotton crop with bolls opening as of 10/25, behind the 92%...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-28T01:10:07+00:00",
-   "tickers": []
-  },
-  {
    "id": "b761d04d8489",
    "title": "Rocky Brands, Inc. (RCKY) Q3 2026 Earnings Call Transcript",
    "link": "https://seekingalpha.com/article/4958276-rocky-brands-inc-rcky-q3-2026-earnings-call-transcript?source=feed_all_articles",
@@ -2810,20 +3005,6 @@
    "sentiment": "negative",
    "domain": "investing.com",
    "published": "2026-10-28T01:05:45+00:00",
-   "tickers": []
-  },
-  {
-   "id": "257fb90d0a59",
-   "title": "Wheat Pushes Losses to Tuesday",
-   "link": "https://www.nasdaq.com/articles/wheat-pushes-losses-tuesday",
-   "summary": "The wheat complex is falling lower across the three markets on Tuesday. Chicago SRW contracts were 1 to 7 cents in the red at the close. KC HRW futures were fractionally in some deferred to 8 ¾ cents lower on the day. MPLS spring wheat posted weakness of 4 ¾...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-10-28T01:04:36+00:00",
    "tickers": []
   },
   {
@@ -8632,182 +8813,6 @@
    "domain": "biztoc.com",
    "published": "2026-10-27T22:18:21+00:00",
    "tickers": []
-  },
-  {
-   "id": "11e0472f0503",
-   "title": "Cotton Closes Tuesday with Weakness",
-   "link": "https://biztoc.com/x/21df4c56984e1891?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-27T22:18:15+00:00",
-   "tickers": []
-  },
-  {
-   "id": "7e1bb0530b04",
-   "title": "Grand jury rejects indictment against Cassidy Hutchinson, ex-Trump White House aide, over Jan. 6 testimony",
-   "link": "https://biztoc.com/x/e5de2afbb90f769a?ref=rss",
-   "summary": "A federal grand jury on Tuesday failed to indict former White House aide Cassidy Hutchinson after the Trump Justice Department tried to charge her over her stunning testimony on the Jan. 6, 2021, Capitol riot. Prosecutors in the Justice Department’s Civil Rights Division sought to charge…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-27T22:18:11+00:00",
-   "tickers": []
-  },
-  {
-   "id": "fac849438614",
-   "title": "94-year-old grocer launches chain to undercut Costco, Walmart",
-   "link": "https://biztoc.com/x/d953e72dc4b91146?ref=rss",
-   "summary": "Your traditional grocery chain costs more than shopping at Walmart, Aldi, and Costco. That’s something we’ve seen doing live price comparisons at TheStreet that’s backed up by a more extensive study done by Consumer Reports. In addition, grocery giants Kroger and Albertsons both admit that they…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-10-27T22:18:10+00:00",
-   "tickers": [
-    "WMT",
-    "COST"
-   ]
-  },
-  {
-   "id": "2b2673aac265",
-   "title": "4 Monthly Dividend ETFs Paying 3.15% to 9.66%. The Highest Payer Returned the Least",
-   "link": "https://biztoc.com/x/c4b4d338a849846b?ref=rss",
-   "summary": "The post 4 Monthly Dividend ETFs Paying 3.15% to 9.66%. The Highest Payer Returned the Least appeared first on 24/7 Wall St.. Four monthly dividend ETFs have trailing yields between 3.15% and 9.66%, and their one-year returns line up almost exactly in reverse. The Global X SuperDividend ETF…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "dividend",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-10-27T22:18:06+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ceb3b8b384a5",
-   "title": "A top Hegseth faith adviser embodies the racist rot at the Pentagon",
-   "link": "https://biztoc.com/x/1ac2ebcf372e3494?ref=rss",
-   "summary": "The hive of bigotry buzzing around Defense Secretary Pete Hegseth is a national security threat. And it should be a top investigative target for Democrats if they retake the House. Democrats are already pondering how to force the scandal-plagued former Fox News host from his Cabinet post if they…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-10-27T22:18:03+00:00",
-   "tickers": [
-    "FOX",
-    "NWSA"
-   ]
-  },
-  {
-   "id": "69f1a5897680",
-   "title": "Hogs Extend Losses on Tuesday, as Cash and Cutout Remain Weak",
-   "link": "https://biztoc.com/x/bdf2a660d8f16f9e?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-10-27T22:18:01+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ac9b28e2054a",
-   "title": "Wheat Pushes Losses to Tuesday",
-   "link": "https://biztoc.com/x/3ba31dee80fcb1cb?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-10-27T22:18:01+00:00",
-   "tickers": []
-  },
-  {
-   "id": "f7fccbece944",
-   "title": "Icahn Enterprises L.P. Announces Q3 2026 Earnings Conference Call",
-   "link": "https://www.prnewswire.com/news-releases/icahn-enterprises-lp-announces-q3-2026-earnings-conference-call-302921347.html",
-   "summary": "SUNNY ISLES BEACH, Fla., Oct. 27, 2026 /PRNewswire/ -- Icahn Enterprises L.P. (Nasdaq:IEP) announced today that it will discuss its third quarter 2026 results on a webcast on Tuesday, November 3, 2026 - 10:00 a.m. Eastern Time. To access the webcast, viewers should go to this link...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-27T22:18:00+00:00",
-   "tickers": [
-    "NDAQ"
-   ]
-  },
-  {
-   "id": "5a043c748f83",
-   "title": "Cattle Sees Mixed Action on Tuesday",
-   "link": "https://biztoc.com/x/792d8def69f20abe?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-27T22:18:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "3a23d6d4eba3",
-   "title": "34% of Americans May Have Lost Track of Retirement Savings From an Old Job. Some Could Be Missing 401(k) Money Before They Turn 30",
-   "link": "https://biztoc.com/x/b6470f955e33298d?ref=rss",
-   "summary": "The post 34% of Americans May Have Lost Track of Retirement Savings From an Old Job. Some Could Be Missing 401(k) Money Before They Turn 30 appeared first on 24/7 Wall St.. Picture a 28-year-old signing up for her third employer’s 401(k) when she remembers she also contributed to a plan at her…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-27T22:17:54+00:00",
-   "tickers": []
-  },
-  {
-   "id": "a7a0a87dd2ab",
-   "title": "Daylight saving time is coming to an end again. Here's how the time change may impact you",
-   "link": "https://biztoc.com/x/e9902f2733df4c10?ref=rss",
-   "summary": "One tip: Try to get outside for some morning sun — it'll help your body clock reset faster.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-27T22:17:53+00:00",
-   "tickers": []
-  },
-  {
-   "id": "8a6be09c9981",
-   "title": "From 8VC to Benchmark, here’s what’s hiding in October SEC filings",
-   "link": "https://biztoc.com/x/72c0382257beb97a?ref=rss",
-   "summary": "October was a big month for venture funds, per SEC filings. The filings show that established names are currently commanding top dollar from LPs, especially with a specialized focus. Here are some of the most notable ones we found that haven’t been meaningfully announced or have seen important…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-27T22:17:49+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8831,6 +8836,7 @@
   "VZ": "Verizon Communications",
   "AJG": "Arthur J. Gallagher &",
   "CZR": "Caesars Entertainment",
+  "CEG": "Constellation Energy",
   "CRWD": "CrowdStrike Holdings",
   "EIX": "Edison International",
   "JAZZ": "Jazz Pharmaceuticals",
@@ -8839,8 +8845,10 @@
   "PG": "The Procter & Gamble",
   "RY": "Royal Bank of Canada",
   "SHW": "The Sherwin-Williams",
+  "STZ": "Constellation Brands",
   "ABT": "Abbott Laboratories",
   "EXR": "Extra Space Storage",
+  "ICLR": "ICON Public Limited",
   "IP": "International Paper",
   "ITW": "Illinois Tool Works",
   "MIR": "Mirion Technologies",
@@ -8853,6 +8861,7 @@
   "PANW": "Palo Alto Networks",
   "HOOD": "Robinhood Markets",
   "MU": "Micron Technology",
+  "SOFI": "SoFi Technologies",
   "COST": "Costco Wholesale",
   "GTLS": "Chart Industries",
   "NVST": "Envista Holdings",
@@ -8912,7 +8921,7 @@
   "SYM": "Symbotic",
   "VRSN": "VeriSign",
   "SQ": "Cash App",
-  "FOX": "Fox Corp",
+  "CVX": "Chevron",
   "PEP": "PepsiCo",
   "PNR": "Pentair",
   "SCI": "Service",
