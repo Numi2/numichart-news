@@ -1,8 +1,71 @@
 {
- "generated": "2026-10-29T04:44:19.439279+00:00",
+ "generated": "2026-10-29T04:50:45.591355+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "b64ccc9facb3",
+   "title": "US tech stocks set to fall after earnings fuel uncertainty about AI spending",
+   "link": "https://www.ft.com/content/1639620b-99e7-47ed-8484-49646816489e?syn-25a6b1a6=1",
+   "summary": "Nasdaq 100 to open 1.3% down after Google parent Alphabet and Microsoft report lower than expected capex",
+   "article_text": "",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "ft.com",
+   "published": "2026-10-29T04:48:20+00:00",
+   "tickers": [
+    "QQQ",
+    "MSFT",
+    "GOOG",
+    "NDAQ"
+   ]
+  },
+  {
+   "id": "80df2087217b",
+   "title": "Bloomberg, Wall Street firms buy fast access to Truth Social posts, report says",
+   "link": "https://seekingalpha.com/news/4659853-bloomberg-wall-street-firms-buy-fast-access-to-truth-social-posts-report-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-29T04:46:55+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f3dc27e44ce1",
+   "title": "CarParts.com: Insider Buying Could Signal Inflection Point (Earnings Preview)",
+   "link": "https://seekingalpha.com/article/4959044-carpartscom-stock-insider-buying-could-signal-inflection-point-earnings-preview?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-29T04:46:25+00:00",
+   "tickers": []
+  },
+  {
+   "id": "0625e19cae4f",
+   "title": "Labcorp Holdings Inc. 2026 Q3 - Results - Earnings Call Presentation",
+   "link": "https://seekingalpha.com/article/4959062-labcorp-holdings-inc-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-29T04:45:27+00:00",
+   "tickers": [
+    "LH"
+   ]
+  },
   {
    "id": "9ac8770a4b08",
    "title": "Philippine Bank of Communications (PBCOM) named new branch banking group heads on 28 October 2026",
@@ -188,6 +251,34 @@
    "tickers": []
   },
   {
+   "id": "30ab3a7f3944",
+   "title": "Geely Auto shares rise despite Q3 profit miss as revenue climbs 10%",
+   "link": "https://www.investing.com/news/earnings/geely-auto-shares-rise-despite-q3-profit-miss-as-revenue-climbs-10-4981470",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-10-29T04:38:26+00:00",
+   "tickers": []
+  },
+  {
+   "id": "20995ec455f0",
+   "title": "Aeris Q1 FY27 slides: copper output ahead of plan, cash at $178.7M",
+   "link": "https://www.investing.com/news/company-news/aeris-q1-fy27-slides-copper-output-ahead-of-plan-cash-at-1787m-93CH-4981469",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-10-29T04:37:48+00:00",
+   "tickers": []
+  },
+  {
    "id": "60c229521c0a",
    "title": "California Water Service GAAP EPS of $1.05, revenue of $332.2M",
    "link": "https://seekingalpha.com/news/4659854-california-water-service-gaap-eps-of-105-revenue-of-3322m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -220,6 +311,34 @@
    ]
   },
   {
+   "id": "c56320994eb8",
+   "title": "Exclusive-Bank of Korea board member says won moves faster than expected",
+   "link": "https://www.investing.com/news/economy-news/exclusivebank-of-korea-board-member-says-won-moves-faster-than-expected-4981468",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-10-29T04:36:26+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e0c20b658a9b",
+   "title": "A tale of two earnings calls - and our AI was on the right side of it",
+   "link": "https://www.investing.com/news/stock-market-news/a-tale-of-two-earnings-calls--and-our-ai-was-on-the-right-side-of-it-4981467",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-29T04:35:25+00:00",
+   "tickers": []
+  },
+  {
    "id": "a13e9fe9805e",
    "title": "Commodities: European Gas Tops EUR100 As Supply Fears Grow",
    "link": "https://seekingalpha.com/article/4959053-commodities-european-gas-tops-eur100-as-supply-fears-grow?source=feed_all_articles",
@@ -231,6 +350,20 @@
    "sentiment": "positive",
    "domain": "seekingalpha.com",
    "published": "2026-10-29T04:35:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "d8277a0c343e",
+   "title": "Earnings call transcript: Bannerman Energy secures Etango funding in Q1 2026",
+   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-bannerman-energy-secures-etango-funding-in-q1-2026-93CH-4981466",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-10-29T04:34:04+00:00",
    "tickers": []
   },
   {
@@ -375,6 +508,20 @@
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
    "published": "2026-10-29T04:29:54+00:00",
+   "tickers": []
+  },
+  {
+   "id": "7282baa27db6",
+   "title": "Earnings call transcript: Aeris Resources posts solid Q1 2026 output, shares edge up",
+   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-aeris-resources-posts-solid-q1-2026-output-shares-edge-up-93CH-4981461",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-29T04:29:43+00:00",
    "tickers": []
   },
   {
@@ -590,6 +737,22 @@
    ]
   },
   {
+   "id": "f5711f9887e8",
+   "title": "Nvidia Shareholders Have a Major Reason to Be Bullish After Jensen Huang's Latest Announcement",
+   "link": "https://www.nasdaq.com/articles/nvidia-shareholders-have-major-reason-be-bullish-after-jensen-huangs-latest-announcement",
+   "summary": "Key PointsNvidia CEO Jensen Huang recently highlighted his company's ability to deliver complete AI factory performance.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-29T04:20:00+00:00",
+   "tickers": [
+    "BLSH"
+   ]
+  },
+  {
    "id": "405ad51aeda2",
    "title": "Citizens Financial Group, Inc. DEP SHS SER H declares $0.4609 dividend",
    "link": "https://seekingalpha.com/news/4659846-citizens-financial-group-inc-dep-shs-ser-h-declares-0_4609-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -634,6 +797,22 @@
    "domain": "nasdaq.com",
    "published": "2026-10-29T04:19:06+00:00",
    "tickers": []
+  },
+  {
+   "id": "1f9ad65caf2d",
+   "title": "Waste Management: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/waste-management-3-key-takeaways-long-term-investors",
+   "summary": "Key PointsWaste Management expects full-year revenue and free cash flow at the high ends of guidance.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-29T04:18:54+00:00",
+   "tickers": [
+    "WM"
+   ]
   },
   {
    "id": "49d58aead281",
@@ -716,6 +895,22 @@
    ]
   },
   {
+   "id": "f7e40121c024",
+   "title": "Extra Space Storage (EXR) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/extra-space-storage-exr-q3-2026-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-29T04:15:09+00:00",
+   "tickers": [
+    "EXR"
+   ]
+  },
+  {
    "id": "39c3aa1e998e",
    "title": "Silicon Motion ADR earnings beat by $1.05, revenue topped estimates",
    "link": "https://www.investing.com/news/earnings/silicon-motion-adr-earnings-beat-by-105-revenue-topped-estimates-4981452",
@@ -758,6 +953,95 @@
    "tickers": []
   },
   {
+   "id": "cff373bce001",
+   "title": "Houlihan Lokey (HLI) Q2 2027 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/houlihan-lokey-hli-q2-2027-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-29T04:13:51+00:00",
+   "tickers": [
+    "HLI"
+   ]
+  },
+  {
+   "id": "9aac0c44aa6d",
+   "title": "GBank Financial Holdings (GBFH) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/gbank-financial-holdings-gbfh-q3-2026-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-29T04:13:51+00:00",
+   "tickers": []
+  },
+  {
+   "id": "5a8fbb8decc8",
+   "title": "NeoGenomics (NEO) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/neogenomics-neo-q3-2026-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-29T04:13:51+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c778741584cd",
+   "title": "Century Communities (CCS) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/century-communities-ccs-q3-2026-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-29T04:13:51+00:00",
+   "tickers": []
+  },
+  {
+   "id": "431eb7c7e3bc",
+   "title": "Viking (VKTX) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/viking-vktx-q3-2026-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-29T04:13:51+00:00",
+   "tickers": [
+    "VKTX",
+    "VIK"
+   ]
+  },
+  {
+   "id": "4ecb5606e7be",
+   "title": "Tenable (TENB) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/tenable-tenb-q3-2026-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-29T04:13:51+00:00",
+   "tickers": []
+  },
+  {
    "id": "01236bf12658",
    "title": "Fundstrat Granny Shots US Large Cap & Income ETF declares $0.1728 dividend",
    "link": "https://seekingalpha.com/news/4659844-fundstrat-granny-shots-us-large-cap-and-income-etf-declares-0_1728-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -785,6 +1069,23 @@
    "published": "2026-10-29T04:13:04+00:00",
    "tickers": [
     "PTEN"
+   ]
+  },
+  {
+   "id": "62cf31eb8286",
+   "title": "GE Vernova: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/ge-vernova-3-key-takeaways-long-term-investors",
+   "summary": "Key PointsGE Vernova agreed to acquire Trench Group for $9 billion.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-29T04:13:01+00:00",
+   "tickers": [
+    "GEV",
+    "GE"
    ]
   },
   {
@@ -1353,6 +1654,22 @@
    "tickers": []
   },
   {
+   "id": "b668fe36b086",
+   "title": "Boston Scientific: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/boston-scientific-3-key-takeaways-long-term-investors",
+   "summary": "Key PointsAn eight-day cyber outage reduced third-quarter sales by $150 million.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-29T04:05:08+00:00",
+   "tickers": [
+    "BSX"
+   ]
+  },
+  {
    "id": "ebcf8e37841c",
    "title": "Asian currencies mixed as dollar steadies after Fed hold, PCE eyed",
    "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-steadies-after-fed-hold-pce-eyed-4981446",
@@ -1587,6 +1904,66 @@
    "published": "2026-10-29T04:00:00+00:00",
    "tickers": [
     "GOOGL"
+   ]
+  },
+  {
+   "id": "3cd626d6187a",
+   "title": "Regional Management (RM) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/regional-management-rm-q3-2026-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-29T03:59:16+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ae3eccff1279",
+   "title": "Glaukos (GKOS) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/glaukos-gkos-q3-2026-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-29T03:59:16+00:00",
+   "tickers": [
+    "GKOS"
+   ]
+  },
+  {
+   "id": "5fadbc478b52",
+   "title": "Everforth (EFOR) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/everforth-efor-q3-2026-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-29T03:59:16+00:00",
+   "tickers": []
+  },
+  {
+   "id": "844502d6d513",
+   "title": "Nextpower (NXT) Q2 2027 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/nextpower-nxt-q2-2027-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-29T03:59:16+00:00",
+   "tickers": [
+    "NXT"
    ]
   },
   {
@@ -8437,384 +8814,6 @@
    "domain": "investing.com",
    "published": "2026-10-29T00:20:11+00:00",
    "tickers": []
-  },
-  {
-   "id": "c1f63bb1d627",
-   "title": "Extra Space Storage Inc. (EXR) Q3 2026 Earnings Call Transcript",
-   "link": "https://seekingalpha.com/article/4958818-extra-space-storage-inc-exr-q3-2026-earnings-call-transcript?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-29T00:20:05+00:00",
-   "tickers": [
-    "EXR"
-   ]
-  },
-  {
-   "id": "c1aa1cdee21f",
-   "title": "Lumentum’s stock pops as investors cheer a possible sale to Marvell",
-   "link": "https://www.marketwatch.com/story/lumentums-stock-pops-as-investors-cheer-a-possible-sale-to-marvell-07c1d0e8?mod=mw_rss_topstories",
-   "summary": "An agreement between the companies could come next week, Bloomberg reported",
-   "article_text": "",
-   "source": "MarketWatch",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "marketwatch.com",
-   "published": "2026-10-29T00:20:00+00:00",
-   "tickers": [
-    "LITE",
-    "MRVL"
-   ]
-  },
-  {
-   "id": "8d8e012d7118",
-   "title": "Right Tail Capital Q3 2026 Letter",
-   "link": "https://seekingalpha.com/article/4958980-right-tail-capital-q3-2026-letter?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-29T00:20:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ff113a1accc9",
-   "title": "Impinj, Inc. (PI) Q3 2026 Earnings Call Transcript",
-   "link": "https://seekingalpha.com/article/4958982-impinj-inc-pi-q3-2026-earnings-call-transcript?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-29T00:19:53+00:00",
-   "tickers": [
-    "PI"
-   ]
-  },
-  {
-   "id": "e4301a3e1591",
-   "title": "Microsoft and Alphabet Just Reported Earnings, Putting the AI Boom to the Test",
-   "link": "https://www.nasdaq.com/articles/microsoft-and-alphabet-just-reported-earnings-putting-ai-boom-test",
-   "summary": "Key PointsAzure revenue grew 48%, while Google Cloud revenue more than doubled.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-29T00:19:01+00:00",
-   "tickers": [
-    "GOOGL",
-    "MSFT",
-    "GOOG"
-   ]
-  },
-  {
-   "id": "28d79b4971a1",
-   "title": "Algoma Steel earnings missed by C$0.49, revenue topped estimates",
-   "link": "https://www.investing.com/news/earnings/algoma-steel-earnings-missed-by-c049-revenue-topped-estimates-4981256",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-10-29T00:18:32+00:00",
-   "tickers": []
-  },
-  {
-   "id": "31c1fb76d0d7",
-   "title": "CoreWeave and other neocloud stocks drop after Microsoft capex comes in below expectations",
-   "link": "https://www.cnbc.com/2026/10/28/neocloud-stocks-drop-after-microsoft-revises-capex-down.html",
-   "summary": "Shares of CoreWeave, Nebius and IREN fell as Microsoft's lower-than-expected capex figure points to infrastructure partners taking longer to deliver capacity.",
-   "article_text": "Neocloud stocks drop after Microsoft revises capex down Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Key Points CoreWeave, Nebius and IREN fell as Microsoft's lower-than-expected capex figure points to infrastructure partners taking longer to deliver capacity. It's been a rocky past few weeks for neoclouds on concern that rising interest rates will make their buildouts too costly. However, the group had bounced back this week, boosted by some positive analyst comments. In this article CRWV Follow your favorite stocks CREATE FREE ACCOUNT CoreWeave Inc. signage in Times Square in New York, US, on Friday, May 9, 2025. Yuki Iwamura | Bloomberg | Getty Images Shares of neoclouds like CoreWeave and Nebius dropped in extended trading as Microsoft's lower-than-expected capital expenditures figure points to infrastructure partners taking longer to deliver data center capacity. Microsoft on Wednesday reported $45.2 billion worth of capex and finance leases during the quarter, up about 30% from a year earlier, but below the $50.7 billion average analyst estimate, according to StreetAccount. Microsoft is particularly reliant on neoclouds for capacity as it pours money into its artificial intelligence infrastructure. Microsoft inked a nearly $20 billion deal with Nebius at the tail end of last year for compute through the 2030s. It's also a top customer for CoreWeave. Those companies and their peers have experienced a rocky few weeks on the market as rising interest rates led to concerns that future debt raises will be too expensive and lenders will start retreating. In its earnings report, Microsoft said Azure revenue jumped 48% from a year earlier, far outpacing the increase in capex. \"Growth was higher than capital expenditures driven by timing differences between receipt of goods and payment and a lower mix of finance leases,\" Microsoft said its earnings deck. CoreWeave and Nebius slid almost 5% after Microsoft's report. IREN fell about 3%. Alphabet on Wednesday also reported capex numbers that fell short of estimates. The Google parent's capex totaled $51.36 billion, while analysts expected $55.09 billion. SpaceX CEO Elon Musk , whose company rents AI infrastructure to Anthropic and Google , predicted over the weekend that more than 200 neocloud companies will collapse, posting on X that \"debt markets have almost entirely shut off access to money for any company that doesn't have substantial revenue independent of AI data centers.\" And last Monday, analysts at Gartner shared with CNBC its prediction that, by 2030, 80% of neocloud companies will either be absorbed or completely cease operations. After a steep plunge this month, the neoclouds had been enjoying a modest recovery this week, with CoreWeave up 18% in the past three trading days to pace the gains. Analysts at Wolfe Research wrote in a report on Tuesday that they see the stock rebounding into the mid-$70s. It closed Wednesday at $63.93. The infrastructure story gained some strength earlier on Wednesday as Oracle issued a strong long-term revenue forecast and said it will return to being free cash flow positive in the second half of next fiscal year. The stock jumped 11% in regular trading before retreating 3% following Microsoft's report. —CNBC's Jordan Novet contributed to this report. WATCH: Why CoreWeave is at the center of the AI selloff watch now VIDEO 3:23 03:23 Why CoreWeave is at the center of the AI selloff News Videos Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "negative",
-   "domain": "cnbc.com",
-   "published": "2026-10-29T00:16:39+00:00",
-   "tickers": [
-    "CRWV",
-    "MSFT",
-    "IREN"
-   ]
-  },
-  {
-   "id": "268b555f358d",
-   "title": "Famatown Finance, a 10% owner, sells $25 million in International Seaways shares",
-   "link": "https://www.investing.com/news/insider-trading-news/famatown-finance-a-10-owner-sells-25-million-in-international-seaways-shares-93CH-4981255",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-10-29T00:16:27+00:00",
-   "tickers": []
-  },
-  {
-   "id": "7bbf12f142bf",
-   "title": "Cathie Wood’s ARK adds Teradyne stock, trims Twist Bioscience",
-   "link": "https://www.investing.com/news/company-news/cathie-woods-ark-adds-teradyne-stock-trims-twist-bioscience-93CH-4981254",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-10-29T00:15:56+00:00",
-   "tickers": [
-    "TER"
-   ]
-  },
-  {
-   "id": "df40c4401e8d",
-   "title": "Orange County Bancorp earnings beat by $0.11, revenue topped estimates",
-   "link": "https://www.investing.com/news/earnings/orange-county-bancorp-earnings-beat-by-011-revenue-topped-estimates-4981253",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-10-29T00:15:47+00:00",
-   "tickers": []
-  },
-  {
-   "id": "5f51284c64ab",
-   "title": "Liberty Park Select Opportunities Fund, LP Q3 2026 Investor Update",
-   "link": "https://seekingalpha.com/article/4958979-liberty-park-select-opportunities-fund-lp-q3-2026-investor-update?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-29T00:15:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "679ce21a3ab8",
-   "title": "Carlisle Companies Incorporated Reports Third Quarter 2026 Financial Results with 9% Revenue Growth",
-   "link": "https://www.nasdaq.com/articles/carlisle-companies-incorporated-reports-third-quarter-2026-financial-results-9-revenue",
-   "summary": "Carlisle Companies Incorporated reported its third quarter 2026 financial results, with revenue increasing 9% year-over-year to $1.5 billion. Diluted earnings per share from continuing operations rose to $5.22, while adjusted earnings per share reached a record third quarter leve",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-29T00:12:38+00:00",
-   "tickers": [
-    "CSL"
-   ]
-  },
-  {
-   "id": "412593ba258f",
-   "title": "Bausch Health Companies Inc. Reports Third Quarter 2026 Consolidated Revenues of $2.94 billion",
-   "link": "https://www.nasdaq.com/articles/bausch-health-companies-inc-reports-third-quarter-2026-consolidated-revenues-294-billion",
-   "summary": "Bausch Health Companies Inc. reported third quarter 2026 consolidated revenues of $2.94 billion, representing an increase of 10% on a reported basis and 8% on an organic basis compared to the third quarter of 2025. GAAP net income attributable to Bausch Health was $436 million, o",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-29T00:12:38+00:00",
-   "tickers": []
-  },
-  {
-   "id": "8245ce1ea0df",
-   "title": "eBay Inc. Reports Third Quarter 2026 Results",
-   "link": "https://www.nasdaq.com/articles/ebay-inc-reports-third-quarter-2026-results",
-   "summary": "eBay Inc. reported its financial results for the third quarter ended September 30, 2026, with revenue of $3.2 billion, up 14% on an as-reported basis and up 13% on an FX-Neutral basis. GAAP net income from continuing operations was $501 million, or $1.11 per diluted share, while",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-29T00:12:29+00:00",
-   "tickers": [
-    "EBAY"
-   ]
-  },
-  {
-   "id": "fe01fc605d7f",
-   "title": "Australia’s Star Entertainment accepts $183.6 million anti-money laundering penalty",
-   "link": "https://www.investing.com/news/stock-market-news/australias-star-entertainment-accepts-1836-million-antimoney-laundering-penalty-4981241",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-10-29T00:12:24+00:00",
-   "tickers": []
-  },
-  {
-   "id": "8392a34bb9e2",
-   "title": "Inside India newsletter: New Delhi approves $22 billion in military spending amid China border tensions",
-   "link": "https://www.cnbc.com/2026/10/29/india-china-us-israel-military-spending.html",
-   "summary": "American, Israeli, and Russian defense manufacturers are likely to find substantial opportunities in India's expanding defense market",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "cnbc.com",
-   "published": "2026-10-29T00:11:14+00:00",
-   "tickers": []
-  },
-  {
-   "id": "05386e9d6bed",
-   "title": "The major reason Microsoft’s stock is heading higher after earnings",
-   "link": "https://www.marketwatch.com/story/the-major-reason-microsofts-stock-is-heading-higher-after-earnings-c019a036?mod=mw_rss_topstories",
-   "summary": "Microsoft showed investors that it’s able to grow rapidly while keeping spending in check.",
-   "article_text": "",
-   "source": "MarketWatch",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "marketwatch.com",
-   "published": "2026-10-29T00:10:00+00:00",
-   "tickers": [
-    "MSFT"
-   ]
-  },
-  {
-   "id": "6470296bae97",
-   "title": "Netanyahu may have lost his mandate, but he isn’t going anywhere just yet",
-   "link": "https://biztoc.com/x/cba42f34a62c2e73?ref=rss",
-   "summary": "JERUSALEM — Drawn-out uncertainty over Israel’s election results is benefiting Prime Minister Benjamin Netanyahu, who, despite losing his mandate, will remain in power until a new government is formed — a process that has taken weeks in recent Israeli election cycles. For opposition leader Gadi…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-29T00:07:27+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e138e9587e89",
-   "title": "Why Marathon Asset Management feels more like a library than a trading floor",
-   "link": "https://biztoc.com/x/65aac1513dcd4429?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-29T00:07:20+00:00",
-   "tickers": []
-  },
-  {
-   "id": "acc8d9572dd7",
-   "title": "Review & Preview: Earnings Divergence",
-   "link": "https://biztoc.com/x/73f0048f7ad8cd90?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-29T00:07:11+00:00",
-   "tickers": []
-  },
-  {
-   "id": "9196576c59a5",
-   "title": "Vance said to urge Iran talks adress nuclear issue",
-   "link": "https://biztoc.com/x/24b1c8312947087d?ref=rss",
-   "summary": "United States Vice President JD Vance sent a letter to Mohsen Rezaei, Iran's national security chief, stressing that any negotiations to head off US military strikes require discussions on the nuclear...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-29T00:07:06+00:00",
-   "tickers": []
-  },
-  {
-   "id": "620772bb1ba7",
-   "title": "Zillow warns homebuyers on housing costs, mortgage rate change",
-   "link": "https://biztoc.com/x/d06bc7ec4f74e39a?ref=rss",
-   "summary": "As mortgage rates remain stubbornly high, real estate technology company Zillow issues a warning for homebuyers about the hidden costs of homeownership. “Buying a home comes with a price tag, but keeping that home comes with a second one,” wrote Zillow. Beyond the principal mortgage, other…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "macro",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-10-29T00:07:06+00:00",
-   "tickers": []
-  },
-  {
-   "id": "5e854a86345e",
-   "title": "As Waymo expands overseas, it remains a niche cash-burning business",
-   "link": "https://biztoc.com/x/0bd5b3b85228c9a1?ref=rss",
-   "summary": "Waymo is dominant in the U.S. and expanding overseas, but it remains immaterial in terms of revenue to parent Alphabet, which is pouring cash into its growth. In Alphabet's third-quarter earnings report on Wednesday, the company said its Other Bets segment, which includes Waymo, generated $372…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-10-29T00:07:06+00:00",
-   "tickers": [
-    "GOOG",
-    "GOOGL"
-   ]
-  },
-  {
-   "id": "373592291f05",
-   "title": "Equinox Gold Stock Looks Like a Diamond in the Rough",
-   "link": "https://biztoc.com/x/b8d8d9b491d3aa26?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-29T00:07:00+00:00",
-   "tickers": [
-    "EQX"
-   ]
-  },
-  {
-   "id": "21db12e0bdc1",
-   "title": "Nscale's Unproven CEO Braves AI Turmoil in Bid for $30 Billion Neocloud IPO",
-   "link": "https://biztoc.com/x/db102ec5d9bc7782?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "offering",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-29T00:06:55+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8858,8 +8857,10 @@
   "MU": "Micron Technology",
   "UBER": "Uber Technologies",
   "ALGN": "Align Technology",
+  "LH": "Labcorp Holdings",
   "MNST": "Monster Beverage",
   "TTMI": "TTM Technologies",
+  "WM": "Waste Management",
   "GE": "General Electric",
   "AER": "AerCap Holdings",
   "CHDN": "Churchill Downs",
@@ -8874,6 +8875,7 @@
   "CCK": "Crown Holdings",
   "DPZ": "Domino's Pizza",
   "HD": "The Home Depot",
+  "HLI": "Houlihan Lokey",
   "LBRT": "Liberty Energy",
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
@@ -8886,7 +8888,6 @@
   "MSTR": "MicroStrategy",
   "CCI": "Crown Castle",
   "EQX": "Equinox Gold",
-  "IREN": "IREN Limited",
   "RL": "Ralph Lauren",
   "SPY": "SPDR S&P 500",
   "GOOGL": "Google Cloud",
@@ -8914,7 +8915,6 @@
   "FTNT": "Fortinet",
   "GOOG": "Alphabet",
   "NI": "NiSource",
-  "TER": "Teradyne",
   "SQ": "Cash App",
   "UL": "Unilever",
   "FOX": "Fox Corp",
