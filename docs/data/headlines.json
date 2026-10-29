@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29T22:44:25.380673+00:00",
+ "generated": "2026-10-29T22:50:43.454174+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -14,7 +14,101 @@
    "type": "markets",
    "sentiment": "neutral",
    "domain": "cnbc.com",
-   "published": "2026-10-29T22:42:41+00:00",
+   "published": "2026-10-29T22:47:32+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a2a9b05c9775",
+   "title": "Landstar Investigation Notice: SueWallSt Notifies Investors of Pending Investigation Into Landstar (LSTR)",
+   "link": "https://www.prnewswire.com/news-releases/landstar-investigation-notice-suewallst-notifies-investors-of-pending-investigation-into-landstar-lstr-302924174.html",
+   "summary": "Previews positioned Landstar as an earnings-beat candidate heading into its October 27 report. Instead, the quarter fell short of analyst expectations on earnings and LSTR shares dropped. SueWallSt notifies investors of a pending investigation into potential securities law violations on...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "prnewswire.com",
+   "published": "2026-10-29T22:47:00+00:00",
+   "tickers": [
+    "LSTR"
+   ]
+  },
+  {
+   "id": "5527bdf459c8",
+   "title": "Eastman Chemical says DoE reinstates $375M award; Q3 earnings miss consensus",
+   "link": "https://seekingalpha.com/news/4661021-eastman-chemical-says-doe-reinstates-375m-award-q3-earnings-miss-consensus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-29T22:44:34+00:00",
+   "tickers": [
+    "EMN"
+   ]
+  },
+  {
+   "id": "7d8faf11322b",
+   "title": "Stonepeak completes acquisition of BMO finance units",
+   "link": "https://www.investing.com/news/company-news/stonepeak-completes-acquisition-of-bmo-finance-units-93CH-4985540",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-29T22:44:33+00:00",
+   "tickers": [
+    "BMO"
+   ]
+  },
+  {
+   "id": "752fa86d0205",
+   "title": "Amazon shares slide on lower Christmas sales forecast",
+   "link": "https://www.ft.com/content/8affd8dd-b783-48c8-86e2-ac4a647fa0f3?syn-25a6b1a6=1",
+   "summary": "Ecommerce giant posts disappointing sales and guidance despite booming cloud unit",
+   "article_text": "",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "ft.com",
+   "published": "2026-10-29T22:44:22+00:00",
+   "tickers": [
+    "AMZN"
+   ]
+  },
+  {
+   "id": "cf445e7869fe",
+   "title": "Coinbase returns to profit as crypto investment gains offset trading weakness",
+   "link": "https://www.investing.com/news/stock-market-news/coinbase-snaps-losing-streak-with-thirdquarter-profit-on-crypto-trading-rebound-4985073",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-10-29T22:42:25+00:00",
+   "tickers": [
+    "COIN"
+   ]
+  },
+  {
+   "id": "644b049ca505",
+   "title": "Earnings call transcript: ImpediMed Q1 2026 sales stumble clouds outlook",
+   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-impedimed-q1-2026-sales-stumble-clouds-outlook-93CH-4985539",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-29T22:40:56+00:00",
    "tickers": []
   },
   {
@@ -48,6 +142,20 @@
    "tickers": [
     "AMZN"
    ]
+  },
+  {
+   "id": "50d52f17267b",
+   "title": "Earnings call transcript: OneSpan tops Q3 2026 estimates, shares jump 19.5%",
+   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-onespan-tops-q3-2026-estimates-shares-jump-195-93CH-4985537",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-10-29T22:39:45+00:00",
+   "tickers": []
   },
   {
    "id": "67d226cd9119",
@@ -127,6 +235,20 @@
    ]
   },
   {
+   "id": "a30a96191add",
+   "title": "Earnings call transcript: Arthur J. Gallagher tops EPS in Q3 2026, shares ease",
+   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-arthur-j-gallagher-tops-eps-in-q3-2026-shares-ease-93CH-4985535",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-10-29T22:38:54+00:00",
+   "tickers": []
+  },
+  {
    "id": "8c3831abaa92",
    "title": "Stocks making the biggest moves after hours: Amazon, Intel, Twilio, Reddit, Roblox & more",
    "link": "https://www.cnbc.com/2026/10/29/stocks-making-the-biggest-moves-after-hours-amzn-intc-twlo-rddt.html",
@@ -204,6 +326,20 @@
    "tickers": [
     "INTC"
    ]
+  },
+  {
+   "id": "735bd593229d",
+   "title": "Earnings call transcript: Air Canada beats Q3 2026 EPS as fuel costs bite",
+   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-air-canada-beats-q3-2026-eps-as-fuel-costs-bite-93CH-4985534",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-10-29T22:37:42+00:00",
+   "tickers": []
   },
   {
    "id": "a59bd85520cc",
@@ -290,11 +426,27 @@
    "tickers": []
   },
   {
+   "id": "0908040aedce",
+   "title": "Earnings call transcript: Pinterest misses Q3 2026 estimates as shares slide",
+   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-pinterest-misses-q3-2026-estimates-as-shares-slide-93CH-4985533",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-10-29T22:37:17+00:00",
+   "tickers": [
+    "PINS"
+   ]
+  },
+  {
    "id": "4779c9d17c01",
    "title": "Nasdaq-100 futures fall as Amazon and Intel swoon after earnings: Live updates",
    "link": "https://www.cnbc.com/2026/10/29/stock-market-today-live-updates.html",
    "summary": "Amazon and Intel shares tumbled after the companies posted their latest earnings reports.",
-   "article_text": "Stock market today: Live updates Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Traders work on the floor of the New York Stock Exchange during morning trading on Oct. 14, 2026 in New York City. Michael M. Santiago | Getty Images Futures tied to the Nasdaq-100 dropped Thursday evening after Amazon and Intel shares slid following the companies' latest quarterly results. Nasdaq-100 futures lost 1.5%, while futures tied to the S&P 500 slid 0.7%. Dow futures fell 60 points, or 0.1%. Amazon shares lost 6% in extended trading after the company reported earnings and revenue for the third quarter that fell short of Wall Street's expectations . The company also posted negative free cash flow of $42.4 billion and maintained its 2026 capital expenditures forecast for $220 billion. Intel slid 21% after issuing a weak outlook for the current quarter, pointing to a slowdown in PCs. Revenue in the company's client computing and physical artificial intelligence group declined 5% from the year-ago quarter to $8.1 billion. Sandisk also fell in extended trading, down 3% even as its fiscal first quarter results beat estimates. The data storage company announced an eight-for-one forward stock split. The declines come as investors scrutinize the AI trade. In regular trading Thursday, Alphabet shares lost 12% after the company missed on earnings and revenue in the third quarter and posted negative free cash flow of $9.07 billion. The Google-parent's slide dragged the Nasdaq Composite to a 1.4% loss in the regular session, while the S&P 500 fell 0.3%. Friday marks the final trading day in October. The month has been rocky for the AI trade, with investors paying close attention to companies' spending around the build-out. Hyperscalers Alphabet and Microsoft haven't lifted their capital expenditures forecasts . At the same time, neoclouds — the cloud-computing companies that are behind the infrastructure needed for AI datacenters — are facing investor scrutiny over their debt levels . CoreWeave , which has seen a surge in its bond yields, is the poster child of that worry; shares have cratered 30% in October. Nebius is heading for a 27% decline on the month. The Roundhill Memory ETF (DRAM) , which includes AI memory plays Micron and Seagate Technology, is off 14% in October, while the iShares A.I. Innovation and Tech Active ETF (BAI ) is down 10%. As traders prepare to wrap up the month, the Nasdaq Composite is heading for a 2.5% fall. The S&P 500 is on track for a 0.9% advance, while the Dow is on pace to rise 2.8%. 13 Min Ago These are the stocks making big moves in extended trading Several stocks made headlines in extended trading on Thursday evening as Amazon and Intel rolled out their latest results. Amazon — Shares slid more than 6% after third-quarter results missed on the top and bottom lines. Amazon earned $1.89 per share on revenue of $201.94 billion, while analysts polled by LSEG sought $1.96 per share on $202.31 billion. The company reaffirmed its full-year guidance for capital expenditures at $220 billion. Intel — The chipmaker tanked about 21% after guidance for the current quarter came in weaker than expected. Intel sees adjusted earnings of 25 cents per share on revenue of $15 billion to $16 billion. Analysts were looking for EPS of 43 cents and $17.1 billion in revenue, per LSEG. Sandisk — The data storage device manufacturer fell 3% even after reporting an earnings and revenue beat in its fiscal first-quarter financial report. It delivered adjusted earnings of $49.51 per share compared to analysts' estimates for $46.22, per LSEG. Sandisk also announced an eight-for-one forward stock split. Read more about Thursday's after-hours movers here . — Darla Mercado 19 Min Ago Alphabet formed 'death cross' during Thursday slump Alphabet, the parent of Google and YouTube that plunged nearly 13% Thursday, formed a \"death cross\" when the stock's 50-day moving average (roughly $340.26) crossed below its 200-day moving average (about $340.93). Alphabet last marked a \" death cross \" in July 2025.",
+   "article_text": "Stock market today: Live updates Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Traders work on the floor of the New York Stock Exchange during morning trading on Oct. 14, 2026 in New York City. Michael M. Santiago | Getty Images Futures tied to the Nasdaq-100 dropped Thursday evening after Amazon and Intel shares slid following the companies' latest quarterly results. Nasdaq-100 futures lost 1.5%, while futures tied to the S&P 500 slid 0.7%. Dow futures fell 60 points, or 0.1%. Amazon shares lost 6% in extended trading after the company reported earnings and revenue for the third quarter that fell short of Wall Street's expectations . The company also posted negative free cash flow of $42.4 billion and maintained its 2026 capital expenditures forecast for $220 billion. Intel slid 21% after issuing a weak outlook for the current quarter, pointing to a slowdown in PCs. Revenue in the company's client computing and physical artificial intelligence group declined 5% from the year-ago quarter to $8.1 billion. Sandisk also fell in extended trading, down 3% even as its fiscal first quarter results beat estimates. The data storage company announced an eight-for-one forward stock split. The declines come as investors scrutinize the AI trade. In regular trading Thursday, Alphabet shares lost 12% after the company missed on earnings and revenue in the third quarter and posted negative free cash flow of $9.07 billion. The Google-parent's slide dragged the Nasdaq Composite to a 1.4% loss in the regular session, while the S&P 500 fell 0.3%. Friday marks the final trading day in October. The month has been rocky for the AI trade, with investors paying close attention to companies' spending around the build-out. Hyperscalers Alphabet and Microsoft haven't lifted their capital expenditures forecasts . At the same time, neoclouds — the cloud-computing companies that are behind the infrastructure needed for AI datacenters — are facing investor scrutiny over their debt levels . CoreWeave , which has seen a surge in its bond yields, is the poster child of that worry; shares have cratered 30% in October. Nebius is heading for a 27% decline on the month. The Roundhill Memory ETF (DRAM) , which includes AI memory plays Micron and Seagate Technology, is off 14% in October, while the iShares A.I. Innovation and Tech Active ETF (BAI ) is down 10%. As traders prepare to wrap up the month, the Nasdaq Composite is heading for a 2.5% fall. The S&P 500 is on track for a 0.9% advance, while the Dow is on pace to rise 2.8%. 21 Min Ago These are the stocks making big moves in extended trading Several stocks made headlines in extended trading on Thursday evening as Amazon and Intel rolled out their latest results. Amazon — Shares slid more than 6% after third-quarter results missed on the top and bottom lines. Amazon earned $1.89 per share on revenue of $201.94 billion, while analysts polled by LSEG sought $1.96 per share on $202.31 billion. The company reaffirmed its full-year guidance for capital expenditures at $220 billion. Intel — The chipmaker tanked about 21% after guidance for the current quarter came in weaker than expected. Intel sees adjusted earnings of 25 cents per share on revenue of $15 billion to $16 billion. Analysts were looking for EPS of 43 cents and $17.1 billion in revenue, per LSEG. Sandisk — The data storage device manufacturer fell 3% even after reporting an earnings and revenue beat in its fiscal first-quarter financial report. It delivered adjusted earnings of $49.51 per share compared to analysts' estimates for $46.22, per LSEG. Sandisk also announced an eight-for-one forward stock split. Read more about Thursday's after-hours movers here . — Darla Mercado 27 Min Ago Alphabet formed 'death cross' during Thursday slump Alphabet, the parent of Google and YouTube that plunged nearly 13% Thursday, formed a \"death cross\" when the stock's 50-day moving average (roughly $340.26) crossed below its 200-day moving average (about $340.93). Alphabet last marked a \" death cross \" in July 2025.",
    "source": "CNBC Top",
    "category": "markets",
    "type": "markets",
@@ -352,6 +504,50 @@
    "tickers": []
   },
   {
+   "id": "8e1437396c60",
+   "title": "Coveo Q2 FY’27 slides: record bookings, AI differentiation strategy",
+   "link": "https://www.investing.com/news/company-news/coveo-q2-fy27-slides-record-bookings-ai-differentiation-strategy-93CH-4985532",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-10-29T22:36:38+00:00",
+   "tickers": []
+  },
+  {
+   "id": "4ab56a0ea112",
+   "title": "Lindblad Expeditions director sells $8.25M in LIND common stock",
+   "link": "https://www.investing.com/news/insider-trading-news/lindblad-expeditions-director-sells-825m-in-lind-common-stock-93CH-4985531",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-29T22:36:01+00:00",
+   "tickers": []
+  },
+  {
+   "id": "2a3f11969cf3",
+   "title": "Twilio Q3 2026 slides: record profits meet cautious outlook",
+   "link": "https://www.investing.com/news/company-news/twilio-q3-2026-slides-record-profits-meet-cautious-outlook-93CH-4985530",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-29T22:35:51+00:00",
+   "tickers": [
+    "TWLO"
+   ]
+  },
+  {
    "id": "696acd528cc7",
    "title": "Medallion Bank PREF SER G declares $0.5625 dividend",
    "link": "https://seekingalpha.com/news/4661032-medallion-bank-pref-ser-g-declares-0_5625-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -363,6 +559,99 @@
    "sentiment": "positive",
    "domain": "seekingalpha.com",
    "published": "2026-10-29T22:35:37+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a86926cd99d9",
+   "title": "Stocks Close Lower as Alphabet Disappoints and Chip Stocks Fall",
+   "link": "https://www.nasdaq.com/articles/stocks-close-lower-alphabet-disappoints-and-chip-stocks-fall",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) fell -0.30%, the Dow Jones Industrial Average ($DOWI ) (DIA ) fell -0.25%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) fell -1.38%. December E-mini S&P futures (ESZ26 ) fell -0.87%, and December E-mini Nasdaq futures (NQZ26 ) fell -2.67%. US...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-10-29T22:34:05+00:00",
+   "tickers": [
+    "QQQ",
+    "GOOG",
+    "NDAQ",
+    "SPY"
+   ]
+  },
+  {
+   "id": "1195355ebc0f",
+   "title": "Wheat Getting Some Gains on Export News",
+   "link": "https://www.nasdaq.com/articles/wheat-getting-some-gains-export-news",
+   "summary": "The wheat complex is finding some strength on Thursday with China rumors and a marketing year high in export business. Chicago SRW contracts are up 4 to 5 cents in the front months. KC HRW futures are up 1 to 2 cents at midday. MPLS spring wheat is up 5...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-10-29T22:34:04+00:00",
+   "tickers": [
+    "NWSA"
+   ]
+  },
+  {
+   "id": "fa4abbe3161c",
+   "title": "Soybeans On the Lower Side of Unchanged on Thursday",
+   "link": "https://www.nasdaq.com/articles/soybeans-lower-side-unchanged-thursday",
+   "summary": "Soybeans are down 1 to 3 cents in the front months on Thursday with some deferreds showing strength. First notice day for November is on Friday. The cmdtyView national average Cash Bean price is down 2 3/4 cents at $11.64 1/4. Soymeal futures are $5.20 to $6.50 lower, as Soy...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-10-29T22:34:04+00:00",
+   "tickers": []
+  },
+  {
+   "id": "20a6e3875606",
+   "title": "Dollar is Undercut by Lower T-note Yields",
+   "link": "https://www.nasdaq.com/articles/dollar-undercut-lower-t-note-yields",
+   "summary": "The dollar index (DXY00 ) fell -0.16% on Thursday as the 10-year T-note yield fell -4 bp, undercutting US interest rate differentials. The 2-year T-note yield fell -5 bp on Thursday. The dollar found underlying support from a stronger-than-expected US GDP report of +3.4% and safe-haven demand as stocks fell....",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-10-29T22:34:04+00:00",
+   "tickers": []
+  },
+  {
+   "id": "4c7da06ae9cd",
+   "title": "Coffee Prices Fall to 1-Month as Concerns Continue About Brazilian Sales",
+   "link": "https://www.nasdaq.com/articles/coffee-prices-fall-1-month-concerns-continue-about-brazilian-sales-0",
+   "summary": "December arabica coffee (KCZ26 ) closed down -1.30 (-0.45%) on Thursday, and January ICE robusta coffee (RMF27 ) closed down -23 (-0.72%). NY arabica coffee fell to a new 1-month low on Thursday, extending this week’s sharp sell-off. Coffee prices have fallen this week on fears that Brazilian exporters will...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-10-29T22:34:04+00:00",
+   "tickers": [
+    "ICE"
+   ]
+  },
+  {
+   "id": "5ef2af5e5560",
+   "title": "Corn Ticking Higher at Thursday’s Midday",
+   "link": "https://www.nasdaq.com/articles/corn-ticking-higher-thursdays-midday",
+   "summary": "Corn futures are trading with fractional gains across most front months at midday on Thursday. The CmdtyView national average Cash Corn price is up 3/4 cents at $4.14 1/2. The average close for December corn futures in October has been $4.78, as there are just 2 days left for the...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-29T22:34:04+00:00",
    "tickers": []
   },
   {
@@ -478,6 +767,20 @@
    "type": "upgrade",
    "sentiment": "positive",
    "domain": "seekingalpha.com",
+   "published": "2026-10-29T22:30:47+00:00",
+   "tickers": []
+  },
+  {
+   "id": "96542fe5adf2",
+   "title": "Tether, Circle freeze $2.38 billion after Binance reports security incident",
+   "link": "https://www.investing.com/news/stock-market-news/tether-circle-freeze-238-billion-after-binance-reports-security-incident-4985511",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
    "published": "2026-10-29T22:30:47+00:00",
    "tickers": []
   },
@@ -780,52 +1083,19 @@
    ]
   },
   {
-   "id": "1195355ebc0f",
-   "title": "Wheat Getting Some Gains on Export News",
-   "link": "https://www.nasdaq.com/articles/wheat-getting-some-gains-export-news",
-   "summary": "The wheat complex is finding some strength on Thursday with China rumors and a marketing year high in export business. Chicago SRW contracts are up 4 to 5 cents in the front months. KC HRW futures are up 1 to 2 cents at midday. MPLS spring wheat is up 5...",
+   "id": "3d925101c700",
+   "title": "Intel shares drop 21% on Israel factory blast, PC weakness",
+   "link": "https://www.investing.com/news/stock-market-news/intel-signals-slower-growth-as-pc-market-remains-under-pressure-4984967",
+   "summary": "",
    "article_text": "",
-   "source": "NASDAQ Stocks",
+   "source": "Investing Stock",
    "category": "stocks",
    "type": "stocks",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-10-29T22:24:43+00:00",
-   "tickers": [
-    "NWSA"
-   ]
-  },
-  {
-   "id": "fa4abbe3161c",
-   "title": "Soybeans On the Lower Side of Unchanged on Thursday",
-   "link": "https://www.nasdaq.com/articles/soybeans-lower-side-unchanged-thursday",
-   "summary": "Soybeans are down 1 to 3 cents in the front months on Thursday with some deferreds showing strength. First notice day for November is on Friday. The cmdtyView national average Cash Bean price is down 2 3/4 cents at $11.64 1/4. Soymeal futures are $5.20 to $6.50 lower, as Soy...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "downgrade",
    "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-10-29T22:24:43+00:00",
-   "tickers": []
-  },
-  {
-   "id": "a86926cd99d9",
-   "title": "Stocks Close Lower as Alphabet Disappoints and Chip Stocks Fall",
-   "link": "https://www.nasdaq.com/articles/stocks-close-lower-alphabet-disappoints-and-chip-stocks-fall",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) fell -0.30%, the Dow Jones Industrial Average ($DOWI ) (DIA ) fell -0.25%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) fell -1.38%. December E-mini S&P futures (ESZ26 ) fell -0.87%, and December E-mini Nasdaq futures (NQZ26 ) fell -2.67%. US...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-10-29T22:24:43+00:00",
+   "domain": "investing.com",
+   "published": "2026-10-29T22:24:26+00:00",
    "tickers": [
-    "QQQ",
-    "GOOG",
-    "NDAQ",
-    "SPY"
+    "INTC"
    ]
   },
   {
@@ -1347,6 +1617,22 @@
    "tickers": []
   },
   {
+   "id": "209c33aafc08",
+   "title": "Cocoa Remains Weak on Rising ICE Inventories and Potential Brazilian Cocoa Sales",
+   "link": "https://www.nasdaq.com/articles/cocoa-remains-weak-rising-ice-inventories-and-potential-brazilian-cocoa-sales-0",
+   "summary": "December ICE NY cocoa (CCZ26 ) closed unchanged on Thursday, and December ICE London cocoa #7 (CAZ26 ) closed down -10 (-0.24%). NY cocoa prices on Thursday consolidated just above Wednesday’s 1-month low and closed unchanged. Cocoa prices saw support Thursday after StoneX said the strong El Nino will push...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-10-29T22:20:23+00:00",
+   "tickers": [
+    "ICE"
+   ]
+  },
+  {
    "id": "1266061d57a8",
    "title": "Sugar Prices Rise as Brazil Reports Reduced Cane Crushing",
    "link": "https://www.nasdaq.com/articles/sugar-prices-rise-brazil-reports-reduced-cane-crushing-0",
@@ -1648,36 +1934,6 @@
    "published": "2026-10-29T22:15:03+00:00",
    "tickers": [
     "CHDN"
-   ]
-  },
-  {
-   "id": "20a6e3875606",
-   "title": "Dollar is Undercut by Lower T-note Yields",
-   "link": "https://www.nasdaq.com/articles/dollar-undercut-lower-t-note-yields",
-   "summary": "The dollar index (DXY00 ) fell -0.16% on Thursday as the 10-year T-note yield fell -4 bp, undercutting US interest rate differentials. The 2-year T-note yield fell -5 bp on Thursday. The dollar found underlying support from a stronger-than-expected US GDP report of +3.4% and safe-haven demand as stocks fell....",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-10-29T22:14:47+00:00",
-   "tickers": []
-  },
-  {
-   "id": "209c33aafc08",
-   "title": "Cocoa Remains Weak on Rising ICE Inventories and Potential Brazilian Cocoa Sales",
-   "link": "https://www.nasdaq.com/articles/cocoa-remains-weak-rising-ice-inventories-and-potential-brazilian-cocoa-sales-0",
-   "summary": "December ICE NY cocoa (CCZ26 ) closed unchanged on Thursday, and December ICE London cocoa #7 (CAZ26 ) closed down -10 (-0.24%). NY cocoa prices on Thursday consolidated just above Wednesday’s 1-month low and closed unchanged. Cocoa prices saw support Thursday after StoneX said the strong El Nino will push...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-10-29T22:14:47+00:00",
-   "tickers": [
-    "ICE"
    ]
   },
   {
@@ -2751,22 +3007,6 @@
    "tickers": []
   },
   {
-   "id": "4c7da06ae9cd",
-   "title": "Coffee Prices Fall to 1-Month as Concerns Continue About Brazilian Sales",
-   "link": "https://www.nasdaq.com/articles/coffee-prices-fall-1-month-concerns-continue-about-brazilian-sales-0",
-   "summary": "December arabica coffee (KCZ26 ) closed down -1.30 (-0.45%) on Thursday, and January ICE robusta coffee (RMF27 ) closed down -23 (-0.72%). NY arabica coffee fell to a new 1-month low on Thursday, extending this week’s sharp sell-off. Coffee prices have fallen this week on fears that Brazilian exporters will...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-10-29T21:56:31+00:00",
-   "tickers": [
-    "ICE"
-   ]
-  },
-  {
    "id": "0ca5f5493c4d",
    "title": "ALERT: Hegseth fires TOP general responsible for PLANNING as Trump appears to have NO IDEA who he is",
    "link": "https://biztoc.com/x/9f887442e1634bd0?ref=rss",
@@ -3453,20 +3693,6 @@
    "sentiment": "neutral",
    "domain": "prnewswire.com",
    "published": "2026-10-29T21:47:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "5ef2af5e5560",
-   "title": "Corn Ticking Higher at Thursday’s Midday",
-   "link": "https://www.nasdaq.com/articles/corn-ticking-higher-thursdays-midday",
-   "summary": "Corn futures are trading with fractional gains across most front months at midday on Thursday. The CmdtyView national average Cash Corn price is up 3/4 cents at $4.14 1/2. The average close for December corn futures in October has been $4.78, as there are just 2 days left for the...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-29T21:46:56+00:00",
    "tickers": []
   },
   {
@@ -4293,22 +4519,6 @@
    "domain": "nasdaq.com",
    "published": "2026-10-29T21:37:29+00:00",
    "tickers": []
-  },
-  {
-   "id": "cf445e7869fe",
-   "title": "Coinbase returns to profit as crypto investment gains cushion trading weakness",
-   "link": "https://www.investing.com/news/stock-market-news/coinbase-snaps-losing-streak-with-thirdquarter-profit-on-crypto-trading-rebound-4985073",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-10-29T21:36:38+00:00",
-   "tickers": [
-    "COIN"
-   ]
   },
   {
    "id": "a41e562e4e41",
@@ -6307,22 +6517,6 @@
    ]
   },
   {
-   "id": "3d925101c700",
-   "title": "Intel shares drop 14% on Israel factory blast, PC weakness",
-   "link": "https://www.investing.com/news/stock-market-news/intel-signals-slower-growth-as-pc-market-remains-under-pressure-4984967",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-10-29T21:13:14+00:00",
-   "tickers": [
-    "INTC"
-   ]
-  },
-  {
    "id": "fee0c7886737",
    "title": "Weak quarter for Intel sends shivers through cooling chip stocks",
    "link": "https://www.investing.com/news/stock-market-news/weak-quarter-for-intel-sends-shivers-through-cooling-chip-stocks-4985272",
@@ -8089,22 +8283,6 @@
    "tickers": []
   },
   {
-   "id": "752fa86d0205",
-   "title": "Amazon shares slide on lower Christmas sales forecast",
-   "link": "https://www.ft.com/content/8affd8dd-b783-48c8-86e2-ac4a647fa0f3?syn-25a6b1a6=1",
-   "summary": "Ecommerce giant posts disappointing sales and guidance despite booming cloud unit",
-   "article_text": "",
-   "source": "FT Companies",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "ft.com",
-   "published": "2026-10-29T20:55:16+00:00",
-   "tickers": [
-    "AMZN"
-   ]
-  },
-  {
    "id": "aabbce18e5a5",
    "title": "Unifi GAAP EPS of -$0.11 beats by $0.04, revenue of $127.92M misses by $10.11M",
    "link": "https://seekingalpha.com/news/4660883-unifi-gaap-eps-of-0_11-beats-by-0_04-revenue-of-127_92m-misses-by-10_11m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -8812,188 +8990,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-10-29T20:48:35+00:00",
    "tickers": []
-  },
-  {
-   "id": "2e1378d1efa2",
-   "title": "Walmart commits $6 billion to expand Symbotic deal",
-   "link": "https://www.investing.com/news/stock-market-news/walmart-commits-6-billion-to-expand-symbotic-deal-4985071",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "ma",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-10-29T20:48:31+00:00",
-   "tickers": [
-    "SYM",
-    "WMT"
-   ]
-  },
-  {
-   "id": "3b32f2b6846b",
-   "title": "Resolute Mining Limited (RMGGY) Q3 2026 Earnings Call Transcript",
-   "link": "https://seekingalpha.com/article/4959713-resolute-mining-limited-rmggy-q3-2026-earnings-call-transcript?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-29T20:48:30+00:00",
-   "tickers": []
-  },
-  {
-   "id": "425c0405f795",
-   "title": "Eastman Chemical Q3 Profit Climbs",
-   "link": "https://www.nasdaq.com/articles/eastman-chemical-q3-profit-climbs",
-   "summary": "(RTTNews) - Eastman Chemical (EMN) released earnings for its third quarter that Increases, from the same period last year",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-10-29T20:47:43+00:00",
-   "tickers": [
-    "EMN"
-   ]
-  },
-  {
-   "id": "0957819c8204",
-   "title": "Weyerhaeuser Co Q3 Profit Drops",
-   "link": "https://www.nasdaq.com/articles/weyerhaeuser-co-q3-profit-drops",
-   "summary": "(RTTNews) - Weyerhaeuser Co (WY) announced earnings for third quarter that Drops, from the same period last year",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-29T20:47:21+00:00",
-   "tickers": [
-    "WY"
-   ]
-  },
-  {
-   "id": "b5245fbb48c5",
-   "title": "Biohaven GAAP EPS of -$0.86 misses by $0.08",
-   "link": "https://seekingalpha.com/news/4660866-biohaven-gaap-eps-of-0_86-misses-by-0_08?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "earnings",
-   "sentiment": "negative",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-29T20:47:18+00:00",
-   "tickers": []
-  },
-  {
-   "id": "fa192217625f",
-   "title": "University of Phoenix associate dean to present AI literacy framework implementation at AAC&U Conference on AI and Higher Education",
-   "link": "https://www.prnewswire.com/news-releases/university-of-phoenix-associate-dean-to-present-ai-literacy-framework-implementation-at-aacu-conference-on-ai-and-higher-education-302924272.html",
-   "summary": "Conference presentation highlights how four institutions are implementing the Digital Education Council AI Literacy Framework across diverse academic environments PHOENIX, Oct. 29, 2026 /PRNewswire/ -- University of Phoenix Associate Dean, College of General Studies, Susan Hadley, Ph.D.,...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-29T20:47:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "c2f40917f98c",
-   "title": "Stifel cuts Insmed stock price target to $195 on OpEx outlook",
-   "link": "https://www.investing.com/news/analyst-ratings/stifel-cuts-insmed-stock-price-target-to-195-on-opex-outlook-93CH-4985211",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-10-29T20:46:56+00:00",
-   "tickers": [
-    "INSM"
-   ]
-  },
-  {
-   "id": "388d29cad5a9",
-   "title": "Jefferies reiterates Buy on AMD stock, sees data center upside",
-   "link": "https://www.investing.com/news/analyst-ratings/jefferies-reiterates-buy-on-amd-stock-sees-data-center-upside-93CH-4985210",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "analyst",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-10-29T20:46:50+00:00",
-   "tickers": [
-    "AMD",
-    "JEF"
-   ]
-  },
-  {
-   "id": "f10ccd08b6d3",
-   "title": "Raymond James lowers First Financial Bancorp price target on EPS outlook",
-   "link": "https://www.investing.com/news/analyst-ratings/raymond-james-lowers-first-financial-bancorp-price-target-on-eps-outlook-93CH-4985209",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-10-29T20:46:49+00:00",
-   "tickers": []
-  },
-  {
-   "id": "29cca37b05e7",
-   "title": "Stellar V Capital extends business combination deadline to July 2027",
-   "link": "https://www.investing.com/news/sec-filings/stellar-v-capital-extends-business-combination-deadline-to-july-2027-93CH-4985208",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-10-29T20:46:41+00:00",
-   "tickers": []
-  },
-  {
-   "id": "280732f6831e",
-   "title": "Forrester earnings beat by $0.03, revenue topped estimates",
-   "link": "https://www.investing.com/news/earnings/forrester-earnings-beat-by-003-revenue-topped-estimates-4985207",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-10-29T20:46:38+00:00",
-   "tickers": []
-  },
-  {
-   "id": "60fcaee4077a",
-   "title": "FMC earnings missed by $4.48, revenue fell short of estimates",
-   "link": "https://www.investing.com/news/earnings/fmc-earnings-missed-by-448-revenue-fell-short-of-estimates-4985206",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-10-29T20:46:36+00:00",
-   "tickers": [
-    "FMC"
-   ]
   }
  ],
  "ticker_names": {
@@ -9009,7 +9005,6 @@
   "AEM": "Agnico Eagle Mines Limited",
   "EL": "The Est?e Lauder Companies",
   "ICE": "Intercontinental Exchange",
-  "JEF": "Jefferies Financial Group",
   "TD": "The Toronto-Dominion Bank",
   "LTH": "Life Time Group Holdings",
   "MPWR": "Monolithic Power Systems",
@@ -9017,7 +9012,6 @@
   "GS": "The Goldman Sachs Group",
   "JKHY": "Jack Henry & Associates",
   "RYAN": "Ryan Specialty Holdings",
-  "AMD": "Advanced Micro Devices",
   "CMG": "Chipotle Mexican Grill",
   "MDLZ": "Mondelez International",
   "CRCL": "Circle Internet Group",
@@ -9063,6 +9057,7 @@
   "HOG": "Harley-Davidson",
   "HWC": "Hancock Whitney",
   "LNG": "Cheniere Energy",
+  "LSTR": "Landstar System",
   "MBLY": "Mobileye Global",
   "PWR": "Quanta Services",
   "TRGP": "Targa Resources",
@@ -9084,7 +9079,6 @@
   "IDCC": "InterDigital",
   "SPY": "SPDR S&P 500",
   "USB": "U.S. Bancorp",
-  "WY": "Weyerhaeuser",
   "GOOGL": "Google Cloud",
   "NVDA": "Grace Hopper",
   "EME": "EMCOR Group",
@@ -9113,7 +9107,6 @@
   "EXEL": "Exelixis",
   "GOOG": "Alphabet",
   "ILMN": "Illumina",
-  "SYM": "Symbotic",
   "SNAP": "Snapchat",
   "RTX": "Raytheon",
   "BLSH": "Bullish",
@@ -9130,7 +9123,6 @@
   "ABNB": "Airbnb",
   "BULL": "Webull",
   "DVA": "DaVita",
-  "INSM": "Insmed",
   "KVUE": "Kenvue",
   "NDAQ": "Nasdaq",
   "ORCL": "Oracle",
