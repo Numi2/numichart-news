@@ -1,13 +1,104 @@
 {
- "generated": "2026-10-29T08:28:49.803903+00:00",
+ "generated": "2026-10-29T08:39:21.727140+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
   {
+   "id": "b64ccc9facb3",
+   "title": "US tech stocks set to fall after earnings fuel AI spending concerns",
+   "link": "https://www.ft.com/content/1639620b-99e7-47ed-8484-49646816489e?syn-25a6b1a6=1",
+   "summary": "Nasdaq 100 to open 1% down after Google parent Alphabet and Microsoft report lower than expected capex",
+   "article_text": "",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "ft.com",
+   "published": "2026-10-29T08:37:11+00:00",
+   "tickers": [
+    "QQQ",
+    "MSFT",
+    "GOOG",
+    "NDAQ"
+   ]
+  },
+  {
+   "id": "cc78afa0b2ee",
+   "title": "AB InBev and Carlsberg boosted by zero-alcohol beers and soft drinks",
+   "link": "https://www.ft.com/content/579c4d30-fac5-43ab-bad1-9adf412ba649?syn-25a6b1a6=1",
+   "summary": "Global trend for alcohol moderation drives consumers to ditch lager",
+   "article_text": "",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "ft.com",
+   "published": "2026-10-29T08:32:52+00:00",
+   "tickers": []
+  },
+  {
+   "id": "d48ef1351f24",
+   "title": "ZOZO, Inc. 2027 Q2 - Results - Earnings Call Presentation",
+   "link": "https://seekingalpha.com/article/4959133-zozo-inc-2027-q2-results-earnings-call-presentation?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-29T08:31:47+00:00",
+   "tickers": []
+  },
+  {
+   "id": "be514b320d29",
+   "title": "Japan Tobacco Inc. 2026 Q3 - Results - Earnings Call Presentation",
+   "link": "https://seekingalpha.com/article/4959132-japan-tobacco-inc-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-29T08:31:14+00:00",
+   "tickers": []
+  },
+  {
+   "id": "21394fb22f6c",
+   "title": "Befesa S.A. 2026 Q3 - Results - Earnings Call Presentation",
+   "link": "https://seekingalpha.com/article/4959131-befesa-s-a-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-29T08:30:57+00:00",
+   "tickers": []
+  },
+  {
+   "id": "88accabd8485",
+   "title": "ETFs with the biggest Alphabet bets feel the heat as stock slides",
+   "link": "https://seekingalpha.com/news/4659908-etfs-with-the-biggest-alphabet-bets-feel-the-heat-as-stock-slides?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-29T08:30:14+00:00",
+   "tickers": [
+    "GOOG"
+   ]
+  },
+  {
    "id": "dd1341171047",
-   "title": "Volkswagen losses surge to €6bn as China sales slump",
+   "title": "Volkswagen losses surge to €5.9bn as China sales slump",
    "link": "https://www.ft.com/content/9ab04dab-9e44-44bc-a8d7-8e888a0cd474?syn-25a6b1a6=1",
-   "summary": "Renault beats analysts’ revenue forecasts thanks to strong demand for electric vehicles",
+   "summary": "German carmaker suffers decline in third quarter even as demand for electric vehicles lifts revenues at rival Renault",
    "article_text": "",
    "source": "FT Companies",
    "category": "stocks",
@@ -15,6 +106,36 @@
    "sentiment": "neutral",
    "domain": "ft.com",
    "published": "2026-10-29T08:28:11+00:00",
+   "tickers": []
+  },
+  {
+   "id": "77426a6d1848",
+   "title": "Eldorado Gold declares $0.075 dividend",
+   "link": "https://seekingalpha.com/news/4659917-eldorado-gold-declares-0_075-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-29T08:27:06+00:00",
+   "tickers": [
+    "EGO"
+   ]
+  },
+  {
+   "id": "696791d5fdf2",
+   "title": "Farmland Partners declares $0.09 dividend",
+   "link": "https://seekingalpha.com/news/4659918-farmland-partners-declares-0_09-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-29T08:27:03+00:00",
    "tickers": []
   },
   {
@@ -249,6 +370,52 @@
    "tickers": [
     "CFG",
     "GOOG"
+   ]
+  },
+  {
+   "id": "6487cb28ae30",
+   "title": "Enerpac Tool Group Corp. Reports Fourth Quarter Net Sales of $186 million and Introduces Fiscal 2027 Outlook",
+   "link": "https://www.nasdaq.com/articles/enerpac-tool-group-corp-reports-fourth-quarter-net-sales-186-million-and-introduces-fiscal",
+   "summary": "Enerpac Tool Group Corp. reported its financial results for the fourth quarter and full fiscal year ended August 31, 2026. For the fourth quarter, net sales increased 11% to $186 million, with organic growth of 10%. Fourth quarter net earnings were $24 million, or $0.47 per dilut",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "guidance",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-29T08:18:42+00:00",
+   "tickers": []
+  },
+  {
+   "id": "8fa152816d00",
+   "title": "Markel Group Inc. Subsidiaries Enter Into Adverse Development Cover Agreement Covering $4.8 billion of Reserves",
+   "link": "https://www.nasdaq.com/articles/markel-group-inc-subsidiaries-enter-adverse-development-cover-agreement-covering-48",
+   "summary": "On October 27, 2026, subsidiaries of Markel Group Inc. entered into an Adverse Development Cover Agreement with Cavello Bay Reinsurance Limited, a wholly owned subsidiary of Enstar Group Limited. The agreement covers a portfolio of run-off Global Reinsurance business and certain",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-29T08:18:42+00:00",
+   "tickers": [
+    "MKL"
+   ]
+  },
+  {
+   "id": "65ac779d35f0",
+   "title": "The Hanover Insurance Group, Inc. Reports Third Quarter 2026 Net Income of $172.6 million",
+   "link": "https://www.nasdaq.com/articles/hanover-insurance-group-inc-reports-third-quarter-2026-net-income-1726-million",
+   "summary": "The Hanover Insurance Group, Inc. reported net income of $172.6 million, or $4.86 per diluted share, in the third quarter of 2026, compared to $178.7 million, or $4.90 per diluted share, in the prior-year quarter. Operating income was $183.1 million, or $5.15 per diluted share, i",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-29T08:18:32+00:00",
+   "tickers": [
+    "THG"
    ]
   },
   {
@@ -878,6 +1045,20 @@
    "tickers": []
   },
   {
+   "id": "b69c4c353b6c",
+   "title": "Anthropic's IPO Is Coming: 5 Key Numbers Investors Need to Know",
+   "link": "https://www.nasdaq.com/articles/anthropics-ipo-coming-5-key-numbers-investors-need-know",
+   "summary": "Key PointsAnthropic's revenue soared 1,300% through the first half of 2026.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "offering",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-29T08:05:02+00:00",
+   "tickers": []
+  },
+  {
    "id": "52adc9731428",
    "title": "Shell ADR earnings beat by $0.47, revenue topped estimates",
    "link": "https://www.investing.com/news/earnings/shell-adr-earnings-beat-by-047-revenue-topped-estimates-4981727",
@@ -1274,6 +1455,20 @@
    "tickers": []
   },
   {
+   "id": "461f8fa385aa",
+   "title": "WPP Q3 Revenue Edges Up; Confirms FY26 Outlook",
+   "link": "https://www.nasdaq.com/articles/wpp-q3-revenue-edges-confirms-fy26-outlook",
+   "summary": "(RTTNews) - British advertising major WPP plc (WPP, WPP.L) on Thursday reported slightly higher revenues in the third quarter. The company also maintained fiscal 2026 outlook.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-29T07:59:17+00:00",
+   "tickers": []
+  },
+  {
    "id": "4491c1e7e96c",
    "title": "HONOR X9e PRO NOW AVAILABLE IN MARKETS, BRINGING INDUSTRY'S LARGEST 11,000MAH BATTERY AND PRO-LEVEL DURABILITY",
    "link": "https://www.prnewswire.com/news-releases/honor-x9e-pro-now-available-in-markets-bringing-industrys-largest-11-000mah-battery-and-pro-level-durability-302923348.html",
@@ -1420,18 +1615,21 @@
    "tickers": []
   },
   {
-   "id": "cc78afa0b2ee",
-   "title": "Zero-alcohol beer and hard seltzers drive growth for AB InBev",
-   "link": "https://www.ft.com/content/579c4d30-fac5-43ab-bad1-9adf412ba649?syn-25a6b1a6=1",
-   "summary": "Soft drinks volumes rise 4% while beer volumes fall 0.1% in third quarter amid China slump",
+   "id": "55549221d692",
+   "title": "Repsol 9-month Net Income Rises",
+   "link": "https://www.nasdaq.com/articles/repsol-9-month-net-income-rises",
+   "summary": "(RTTNews) - Repsol (REP.DE, REP.MC) reported a net income of 5.006 billion euros from January through September, including a positive inventory effect of 943 million euros resulting from the impact of higher crude oil prices on the book value of inventories. This is compared with",
    "article_text": "",
-   "source": "FT Companies",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "ft.com",
-   "published": "2026-10-29T07:52:00+00:00",
-   "tickers": []
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-10-29T07:53:07+00:00",
+   "tickers": [
+    "DE",
+    "MC"
+   ]
   },
   {
    "id": "01e20d5766ea",
@@ -2009,6 +2207,20 @@
    "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-10-29T07:37:04+00:00",
+   "tickers": []
+  },
+  {
+   "id": "9d3c61c05fad",
+   "title": "Shell Q3 Profit Surges, Despite Weak Volume; Launches $5 Bln Buyback",
+   "link": "https://www.nasdaq.com/articles/shell-q3-profit-surges-despite-weak-volume-launches-5-bln-buyback",
+   "summary": "(RTTNews) - Oil and gas major Shell Plc (SHEL, SHELL.AS, SHEL.L) reported Thursday significantly higher profit in its third quarter, as revenues were benefited mainly by higher realised prices, despite lower production volumes primarily due to Middle East conflict impacts on Qata",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-29T07:37:02+00:00",
    "tickers": []
   },
   {
@@ -2881,6 +3093,20 @@
    "tickers": []
   },
   {
+   "id": "e0da2852081f",
+   "title": "Danske Bank 9-month Net Profit Rises",
+   "link": "https://www.nasdaq.com/articles/danske-bank-9-month-net-profit-rises",
+   "summary": "(RTTNews) - Danske Bank (DANSKE.CO) reported net profit of 18.3 billion Danish kroner for the first nine months of 2026 compared to 16.7 billion kroner, in the first nine months of 2025. Total income was 43.9 billion kroner compared to 41.6 billion kroner, last year. Return on sh",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-10-29T07:19:57+00:00",
+   "tickers": []
+  },
+  {
    "id": "7b0cced1d122",
    "title": "Michael Burry calls AI boom 'catastrophically vulnerable' after Anthropic filing",
    "link": "https://seekingalpha.com/news/4659866-michael-burry-calls-ai-boom-catastrophically-vulnerable-after-anthropic-filing?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -3187,6 +3413,20 @@
    "tickers": []
   },
   {
+   "id": "c31b37f23937",
+   "title": "Hanwha Aerospace Slides To Loss In Q3; Shares Fall",
+   "link": "https://www.nasdaq.com/articles/hanwha-aerospace-slides-loss-q3-shares-fall",
+   "summary": "(RTTNews) - Hanwha Aerospace Co., Ltd. (012450.KS), a major South Korean aerospace, defense, and manufacturing company, on Thursday reported net loss in the third quarter compared with net income in the previous year.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-10-29T07:13:47+00:00",
+   "tickers": []
+  },
+  {
    "id": "ecd485231889",
    "title": "Renault EV sales lift 3Q revenues despite lower volumes",
    "link": "https://www.investing.com/news/stock-market-news/renault-reports-slight-growth-in-thirdquarter-revenue-4981542",
@@ -3317,6 +3557,20 @@
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
    "published": "2026-10-29T07:08:26+00:00",
+   "tickers": []
+  },
+  {
+   "id": "88ae88fb95b4",
+   "title": "Doosan Enerbility Loss Narrows To Q3; Shares Down 7%",
+   "link": "https://www.nasdaq.com/articles/doosan-enerbility-loss-narrows-q3-shares-down-7",
+   "summary": "(RTTNews) - Doosan Enerbility Co., Ltd. (034020.KS), a major South Korean heavy industrial and power plant engineering company, on Thursday reported narrowed net loss in the third quarter of 2026 compared with the previous year.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-10-29T07:08:19+00:00",
    "tickers": []
   },
   {
@@ -4792,25 +5046,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-10-29T06:32:55+00:00",
    "tickers": []
-  },
-  {
-   "id": "b64ccc9facb3",
-   "title": "US tech stocks set to fall after earnings fuel AI spending concerns",
-   "link": "https://www.ft.com/content/1639620b-99e7-47ed-8484-49646816489e?syn-25a6b1a6=1",
-   "summary": "Nasdaq 100 to open 1% down after Google parent Alphabet and Microsoft report lower than expected capex",
-   "article_text": "",
-   "source": "FT Companies",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "negative",
-   "domain": "ft.com",
-   "published": "2026-10-29T06:32:40+00:00",
-   "tickers": [
-    "QQQ",
-    "MSFT",
-    "GOOG",
-    "NDAQ"
-   ]
   },
   {
    "id": "28d1bc44f0b5",
@@ -8513,236 +8748,6 @@
    "tickers": [
     "HON"
    ]
-  },
-  {
-   "id": "68f4f8e6d0b7",
-   "title": "Billionaire Ambani cries tears of joy as Jio Platforms becomes the second most valued Indian firm",
-   "link": "https://www.cnbc.com/2026/10/29/ambani-billionaire-jio-ipo-india.html",
-   "summary": "Ahead of Jio's listing, Mukesh Ambani teared up as his three children shared the journey of building Jio and vowed to create value for investors over the next 50 years.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-10-29T04:55:17+00:00",
-   "tickers": []
-  },
-  {
-   "id": "c56320994eb8",
-   "title": "Exclusive-Bank of Korea board member says won moves faster than expected",
-   "link": "https://www.investing.com/news/economy-news/exclusivebank-of-korea-board-member-says-won-moves-faster-than-expected-4981468",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-10-29T04:54:19+00:00",
-   "tickers": []
-  },
-  {
-   "id": "85802f48b571",
-   "title": "Visa: 3 Key Takeaways for Long-Term Investors",
-   "link": "https://www.nasdaq.com/articles/visa-3-key-takeaways-long-term-investors",
-   "summary": "Key PointsVisa generated $46 billion in net revenue during fiscal year 2026.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-29T04:52:48+00:00",
-   "tickers": [
-    "V"
-   ]
-  },
-  {
-   "id": "e0b77e913a26",
-   "title": "Tyler Technologies, Inc. Reports Third Quarter 2026 Results with Total Revenues of $647.6 million",
-   "link": "https://www.nasdaq.com/articles/tyler-technologies-inc-reports-third-quarter-2026-results-total-revenues-6476-million",
-   "summary": "Tyler Technologies, Inc. announced its financial results for the third quarter ended September 30, 2026. Total revenues reached $647.6 million, representing an 8.7% increase compared to the third quarter of 2025. Recurring revenues grew 11.0% to $568.8 million, comprising 87.8% o",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-29T04:49:01+00:00",
-   "tickers": [
-    "TYL"
-   ]
-  },
-  {
-   "id": "aa91b24e37f1",
-   "title": "ProPetro Holding Corp. Reports Third Quarter 2026 Revenue of $355 million and Net Income of $13 million",
-   "link": "https://www.nasdaq.com/articles/propetro-holding-corp-reports-third-quarter-2026-revenue-355-million-and-net-income-13",
-   "summary": "ProPetro Holding Corp. announced its financial and operational results for the third quarter of 2026. Total revenue for the quarter was $355 million, representing a 16% increase compared to $306 million in the prior quarter. The company reported net income of $13 million, or $0.0",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-29T04:49:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "275a2c7ced63",
-   "title": "Hyundai Motor reports 5.5% rise in Q3 operating profit, beats forecasts",
-   "link": "https://www.investing.com/news/stock-market-news/hyundai-motor-reports-55-rise-in-q3-operating-profit-beats-forecasts-4981478",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-10-29T04:48:59+00:00",
-   "tickers": []
-  },
-  {
-   "id": "def0f0bbbd3a",
-   "title": "Luxfer Holdings PLC Reports Third Quarter 2026 Results and Pending Wynnchurch Capital Transaction",
-   "link": "https://www.nasdaq.com/articles/luxfer-holdings-plc-reports-third-quarter-2026-results-and-pending-wynnchurch-capital",
-   "summary": "Luxfer Holdings PLC reported that GAAP net sales, including Superform, were $91.7 million for the third quarter of 2026, compared to $95.6 million in the prior-year period, a decrease of 4.1%. GAAP net profit was $0.9 million, or $0.03 per diluted share primarily reflecting trans",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-29T04:48:51+00:00",
-   "tickers": []
-  },
-  {
-   "id": "edfbd66f7508",
-   "title": "Toyota September sales, production slide for a third straight month",
-   "link": "https://www.investing.com/news/economic-indicators/toyota-september-sales-production-slide-for-a-third-straight-month-4981476",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-10-29T04:48:27+00:00",
-   "tickers": []
-  },
-  {
-   "id": "80df2087217b",
-   "title": "Bloomberg, Wall Street firms buy fast access to Truth Social posts, report says",
-   "link": "https://seekingalpha.com/news/4659853-bloomberg-wall-street-firms-buy-fast-access-to-truth-social-posts-report-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-29T04:46:55+00:00",
-   "tickers": []
-  },
-  {
-   "id": "f3dc27e44ce1",
-   "title": "CarParts.com: Insider Buying Could Signal Inflection Point (Earnings Preview)",
-   "link": "https://seekingalpha.com/article/4959044-carpartscom-stock-insider-buying-could-signal-inflection-point-earnings-preview?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-29T04:46:25+00:00",
-   "tickers": []
-  },
-  {
-   "id": "0625e19cae4f",
-   "title": "Labcorp Holdings Inc. 2026 Q3 - Results - Earnings Call Presentation",
-   "link": "https://seekingalpha.com/article/4959062-labcorp-holdings-inc-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-29T04:45:27+00:00",
-   "tickers": [
-    "LH"
-   ]
-  },
-  {
-   "id": "fcec93d4e3eb",
-   "title": "Bausch Health (BHC) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/bausch-health-bhc-q3-2026-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-29T04:43:41+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ab72cff5fd8a",
-   "title": "ClearPoint Neuro (CLPT) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/clearpoint-neuro-clpt-q3-2026-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-29T04:43:40+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b2fb8c4a5575",
-   "title": "MediaAlpha (MAX) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/mediaalpha-max-q3-2026-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-29T04:43:33+00:00",
-   "tickers": []
-  },
-  {
-   "id": "808d451576ad",
-   "title": "Happen (HAPN) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/happen-hapn-q3-2026-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-29T04:43:33+00:00",
-   "tickers": []
-  },
-  {
-   "id": "f808b7f8a626",
-   "title": "CONMED (CNMD) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/conmed-cnmd-q3-2026-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-29T04:43:33+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8758,6 +8763,7 @@
   "FIGR": "Figure Technology Solutions",
   "QQQ": "Invesco QQQ Trust, Series 1",
   "SDS": "ProShares UltraShort S&P500",
+  "THG": "The Hanover Insurance Group",
   "AEM": "Agnico Eagle Mines Limited",
   "JEF": "Jefferies Financial Group",
   "PFG": "Principal Financial Group",
@@ -8783,13 +8789,11 @@
   "CSL": "Carlisle Companies",
   "MRVL": "Marvell Technology",
   "STM": "STMicroelectronics",
-  "TYL": "Tyler Technologies",
   "JNJ": "Johnson & Johnson",
   "UBER": "Uber Technologies",
   "ALGN": "Align Technology",
   "AR": "Antero Resources",
   "EHC": "Encompass Health",
-  "LH": "Labcorp Holdings",
   "TTE": "TotalEnergies SE",
   "CHDN": "Churchill Downs",
   "EXP": "Eagle Materials",
@@ -8808,6 +8812,7 @@
   "MSTR": "MicroStrategy",
   "IREN": "IREN Limited",
   "KGC": "Kinross Gold",
+  "MKL": "Markel Group",
   "RBC": "RBC Bearings",
   "SPY": "SPDR S&P 500",
   "UBS": "UBS Group AG",
@@ -8828,6 +8833,7 @@
   "OGE": "OGE Energy",
   "STLA": "Stellantis",
   "MSFT": "Office 365",
+  "DE": "John Deere",
   "C": "Citigroup",
   "CRWV": "CoreWeave",
   "NEU": "NewMarket",
@@ -8837,6 +8843,7 @@
   "BP": "BP p.l.c",
   "FTNT": "Fortinet",
   "GOOG": "Alphabet",
+  "MC": "Moelis &",
   "SQ": "Cash App",
   "BLSH": "Bullish",
   "COMP": "Compass",
