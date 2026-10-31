@@ -1,8 +1,24 @@
 {
- "generated": "2026-10-31T07:11:08.345618+00:00",
+ "generated": "2026-10-31T07:18:12.960162+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "3dcb829d993d",
+   "title": "Entergy raises dividend by 6% to $0.68",
+   "link": "https://seekingalpha.com/news/4661804-entergy-raises-dividend-by-6-to-068?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-31T07:06:16+00:00",
+   "tickers": [
+    "ETR"
+   ]
+  },
   {
    "id": "0c32af4b658f",
    "title": "Brazil’s ugly election: ‘Lula’s Army’ storms to victory",
@@ -116,6 +132,23 @@
    "tickers": []
   },
   {
+   "id": "f01d0d3d4f13",
+   "title": "Moody’s CEO Michael West sells $4.85M in Moody’s (NYSE:MCO) stock",
+   "link": "https://www.investing.com/news/insider-trading-news/moodys-ceo-michael-west-sells-485m-in-moodys-nysemco-stock-93CH-4989159",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-31T07:01:07+00:00",
+   "tickers": [
+    "MCO",
+    "WST"
+   ]
+  },
+  {
    "id": "452f1489a386",
    "title": "Buy 13 IDEAL 'Safer' October LoPrice/HiDividend Small Cap 'Toy Dogs'",
    "link": "https://seekingalpha.com/article/4960559-buy-13-ideal-safer-october-lopricehidividend-small-cap-toy-dogs?source=feed_all_articles",
@@ -127,6 +160,20 @@
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
    "published": "2026-10-31T06:57:02+00:00",
+   "tickers": []
+  },
+  {
+   "id": "d93874ccd314",
+   "title": "China’s factory activity shrinks in October, third contraction in four months",
+   "link": "https://www.investing.com/news/economy-news/chinas-october-factory-activity-contracts-at-fastest-pace-in-3-months-pmi-survey-shows-4989032",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-10-31T06:54:38+00:00",
    "tickers": []
   },
   {
@@ -1213,20 +1260,6 @@
    "sentiment": "neutral",
    "domain": "biztoc.com",
    "published": "2026-10-31T05:18:52+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d93874ccd314",
-   "title": "China’s factory activity shrinks in October, third contraction in four months",
-   "link": "https://www.investing.com/news/economy-news/chinas-october-factory-activity-contracts-at-fastest-pace-in-3-months-pmi-survey-shows-4989032",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-10-31T05:18:28+00:00",
    "tickers": []
   },
   {
@@ -8780,38 +8813,6 @@
    "tickers": [
     "VMC"
    ]
-  },
-  {
-   "id": "71aaa6c9acf7",
-   "title": "Microsoft: 48% Azure Growth And Still Not Enough Capacity",
-   "link": "https://seekingalpha.com/article/4960465-microsoft-48-percent-azure-growth-and-still-not-enough-capacity?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-30T22:31:12+00:00",
-   "tickers": [
-    "MSFT"
-   ]
-  },
-  {
-   "id": "835ba61e0011",
-   "title": "Nippon Life, Corebridge Financial 10% owner, buys $8.67M stock",
-   "link": "https://www.investing.com/news/insider-trading-news/nippon-life-corebridge-financial-10-owner-buys-867m-stock-93CH-4988860",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-10-30T22:30:57+00:00",
-   "tickers": [
-    "CRBG"
-   ]
   }
  ],
  "ticker_names": {
@@ -8847,7 +8848,6 @@
   "MMSI": "Merit Medical Systems",
   "PB": "Prosperity Bancshares",
   "ALHC": "Alignment Healthcare",
-  "CRBG": "Corebridge Financial",
   "EIX": "Edison International",
   "IMO": "Imperial Oil Limited",
   "PG": "The Procter & Gamble",
@@ -8932,10 +8932,12 @@
   "GOOG": "Alphabet",
   "CMI": "Cummins",
   "CVX": "Chevron",
+  "ETR": "Entergy",
   "GKOS": "Glaukos",
   "GLW": "Corning",
   "HUBB": "Hubbell",
   "IVZ": "Invesco",
+  "MCO": "Moody's",
   "MDB": "MongoDB",
   "MRK": "Merck &",
   "SNDK": "Sandisk",
