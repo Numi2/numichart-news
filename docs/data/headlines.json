@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-31T02:32:45.777069+00:00",
+ "generated": "2026-10-31T02:39:03.281456+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -29,6 +29,20 @@
    "sentiment": "negative",
    "domain": "seekingalpha.com",
    "published": "2026-10-31T02:25:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "bb8b34c089f7",
+   "title": "NEXE Innovations Inc. Q1 Sales Increase",
+   "link": "https://www.nasdaq.com/articles/nexe-innovations-inc-q1-sales-increase",
+   "summary": "(RTTNews) - NEXE Innovations Inc. (NEXE.V) announced Loss for first quarter of -C$0.946 million",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-31T02:19:26+00:00",
    "tickers": []
   },
   {
@@ -340,6 +354,36 @@
    "published": "2026-10-31T02:06:19+00:00",
    "tickers": [
     "ICE"
+   ]
+  },
+  {
+   "id": "8782e0b5088b",
+   "title": "DoubleVerify Holdings, Inc. Q3 Income Rises",
+   "link": "https://www.nasdaq.com/articles/doubleverify-holdings-inc-q3-income-rises",
+   "summary": "(RTTNews) - DoubleVerify Holdings, Inc. (DV) released a profit for its third quarter that Increases, from the same period last year",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-10-31T02:05:42+00:00",
+   "tickers": []
+  },
+  {
+   "id": "5e0811639a8a",
+   "title": "Forvia Hella 9-month Operating Income Down, Maintains FY26 Outlook",
+   "link": "https://www.nasdaq.com/articles/forvia-hella-9-month-operating-income-down-maintains-fy26-outlook",
+   "summary": "(RTTNews) - Forvia Hella, Hella GmbH & Co. KGaA (HLE.DE, HLLGY), an automotive supplier, reported lower operating earnings for the first nine months of fiscal 2026, even as the company delivered sales growth that outpaced the global vehicle production market.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "analyst",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-31T02:04:50+00:00",
+   "tickers": [
+    "DE"
    ]
   },
   {
@@ -8818,50 +8862,6 @@
    "domain": "biztoc.com",
    "published": "2026-10-30T21:24:24+00:00",
    "tickers": []
-  },
-  {
-   "id": "9c0790fff88d",
-   "title": "According to OpenAI CEO Sam Altman, 'It's Quite Terrible' for People to Have RAM in Their Own Computers",
-   "link": "https://biztoc.com/x/1e1402d9edf255e0?ref=rss",
-   "summary": "OpenAI CEO Sam Altman thinks it's \"terrible\" for people to have RAM in their computers rather than in a data center, as the scarcity of memory caused by the AI boom continues to drive up costs. In an interview with YouTuber Cheeky Pint, Altman talked about the global compute supply problems facing…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-30T21:24:20+00:00",
-   "tickers": []
-  },
-  {
-   "id": "08a6e2f0a395",
-   "title": "Starbucks Just Posted a 7.2 Percent Sales Jump by Doing the Opposite of What Tech Told It To",
-   "link": "https://biztoc.com/x/6c485a1d7ec38bcf?ref=rss",
-   "summary": "After years of engineering its stores into fast, screen-driven pickup windows, Starbucks rebuilt the sit-down coffeehouse, and the sales jump says customers were starving for it.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-10-30T21:24:20+00:00",
-   "tickers": [
-    "SBUX"
-   ]
-  },
-  {
-   "id": "7e7234266a71",
-   "title": "Seattle's Socialist Mayor Faces Business Revolt As Utopia Dreams Implode, Nearly Half Weigh Exit",
-   "link": "https://biztoc.com/x/a92841fcaa33733f?ref=rss",
-   "summary": "Seattle's Socialist Mayor Faces Business Revolt As Utopia Dreams Implode, Nearly Half Weigh Exit Nearly half of Seattle businesses surveyed by the Downtown Seattle Association and Seattle Metropolitan Chamber of Commerce have seriously considered moving operations, jobs, or investment out of the…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-30T21:24:17+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8964,13 +8964,13 @@
   "WT": "WisdomTree",
   "MSFT": "Office 365",
   "QCOM": "Snapdragon",
+  "DE": "John Deere",
   "PARA": "Paramount+",
   "BC": "Brunswick",
   "BLK": "BlackRock",
   "CME": "CME Group",
   "CRWV": "CoreWeave",
   "DT": "Dynatrace",
-  "SBUX": "Starbucks",
   "TE": "T1 Energy",
   "TEM": "Tempus AI",
   "NWSA": "News Corp",
