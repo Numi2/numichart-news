@@ -1,8 +1,22 @@
 {
- "generated": "2026-10-31T04:41:15.808609+00:00",
+ "generated": "2026-10-31T04:47:52.407761+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "a8bda776794b",
+   "title": "Dividend Income Report: +15.25% And A Listener's Portfolio Roast",
+   "link": "https://seekingalpha.com/article/4960549-dividend-income-report-plus-15-25-percent-listener-portfolio-roast?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-31T04:40:00+00:00",
+   "tickers": []
+  },
   {
    "id": "936df7ce8fde",
    "title": "Earnings Beat Could Be A Key Moment For FTI Consulting Stock (FCN)",
@@ -439,6 +453,92 @@
    "tickers": []
   },
   {
+   "id": "e11edee4460d",
+   "title": "Soybeans Close Friday with Mixed Trade, Falling from Early Highs",
+   "link": "https://www.nasdaq.com/articles/soybeans-close-friday-mixed-trade-falling-early-highs",
+   "summary": "Soybeans were mixed on Friday with contracts anywhere from 2 ½ cents higher to fractionally lower. November was down 34 ¼ cents this week, with the monthly loss at 70 ¾ cents. The cmdtyView national average Cash Bean price was up 1/2 cents at $11.63 1/2. Soymeal futures were 70...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-31T04:14:41+00:00",
+   "tickers": []
+  },
+  {
+   "id": "bc4c00e73c91",
+   "title": "Cotton Slipping Lower on Friday",
+   "link": "https://www.nasdaq.com/articles/cotton-slipping-lower-friday-3",
+   "summary": "Cotton futures closed Friday with losses of 32 to 67 points on the session, as December was own 237 points for the week. Crude oil was up 95 cents per barrel on the session, with the US dollar index $0.066 lower. The large managed money speculators and cotton futures and...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-10-31T04:14:41+00:00",
+   "tickers": []
+  },
+  {
+   "id": "cebd9a991741",
+   "title": "Corn Fades Lower on Friday",
+   "link": "https://www.nasdaq.com/articles/corn-fades-lower-friday",
+   "summary": "Corn futures fell into the end of the month, with contracts down 1 ¼ to 4 cents on Friday. December was down 8 ¼ cents for the week and 53 cents for the month. The CmdtyView national average Cash Corn price is up ¼ cent at $4.14. Acres left to...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-10-31T04:14:41+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b4229960e5b3",
+   "title": "Coffee Closes Sharply Lower on the Week Despite a Modest Rebound on Friday",
+   "link": "https://www.nasdaq.com/articles/coffee-closes-sharply-lower-week-despite-modest-rebound-friday",
+   "summary": "December arabica coffee (KCZ26 ) closed up +1.75 (+0.61) on Friday, and January ICE robusta coffee (RMF27 ) closed up +28 (+0.88%). NY arabica coffee rebounded mildly higher on Friday from Thursday’s 1-month low, retracing a small part of the sharp sell-off seen over the past two weeks. However, NY...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-10-31T04:14:40+00:00",
+   "tickers": [
+    "ICE"
+   ]
+  },
+  {
+   "id": "a0cba9a64203",
+   "title": "Cotton Slipping Lower on Friday",
+   "link": "https://www.nasdaq.com/articles/cotton-slipping-lower-friday-2",
+   "summary": "Cotton futures are trading with losses of 30 to 35 points across most contracts on Friday. Crude oil is up $2.70 per barrel on the session, with the US dollar index $0.096 lower. USDA’s Export Sales data showed 5.665 million RB of cotton sold as of 10/22 for the 2026/27...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-10-31T04:14:40+00:00",
+   "tickers": []
+  },
+  {
+   "id": "4fcc3ba038bb",
+   "title": "Wheat Closes Friday with Slight Losses",
+   "link": "https://www.nasdaq.com/articles/wheat-closes-friday-slight-losses",
+   "summary": "The wheat complex wound up lower across the three markets on Friday. Chicago SRW contracts was mixed, down ¼ to 5 cents higher on the day, as December was 21 ½ cents lower on the week. KC HRW futures were down a penny in the front months and higher in...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-10-31T04:14:40+00:00",
+   "tickers": []
+  },
+  {
    "id": "161f03cbf004",
    "title": "BOJ speeds up ETF sales, potentially boosting funding for Takaichi’s plans",
    "link": "https://www.investing.com/news/economy-news/boj-speeds-up-etf-sales-potentially-boosting-funding-for-takaichis-plans-4989085",
@@ -450,20 +550,6 @@
    "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-10-31T04:10:50+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e11edee4460d",
-   "title": "Soybeans Close Friday with Mixed Trade, Falling from Early Highs",
-   "link": "https://www.nasdaq.com/articles/soybeans-close-friday-mixed-trade-falling-early-highs",
-   "summary": "Soybeans were mixed on Friday with contracts anywhere from 2 ½ cents higher to fractionally lower. November was down 34 ¼ cents this week, with the monthly loss at 70 ¾ cents. The cmdtyView national average Cash Bean price was up 1/2 cents at $11.63 1/2. Soymeal futures were 70...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-31T04:08:16+00:00",
    "tickers": []
   },
   {
@@ -610,64 +696,6 @@
    "sentiment": "neutral",
    "domain": "biztoc.com",
    "published": "2026-10-31T04:02:02+00:00",
-   "tickers": []
-  },
-  {
-   "id": "bc4c00e73c91",
-   "title": "Cotton Slipping Lower on Friday",
-   "link": "https://www.nasdaq.com/articles/cotton-slipping-lower-friday-3",
-   "summary": "Cotton futures closed Friday with losses of 32 to 67 points on the session, as December was own 237 points for the week. Crude oil was up 95 cents per barrel on the session, with the US dollar index $0.066 lower. The large managed money speculators and cotton futures and...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-10-31T04:01:53+00:00",
-   "tickers": []
-  },
-  {
-   "id": "cebd9a991741",
-   "title": "Corn Fades Lower on Friday",
-   "link": "https://www.nasdaq.com/articles/corn-fades-lower-friday",
-   "summary": "Corn futures fell into the end of the month, with contracts down 1 ¼ to 4 cents on Friday. December was down 8 ¼ cents for the week and 53 cents for the month. The CmdtyView national average Cash Corn price is up ¼ cent at $4.14. Acres left to...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-10-31T04:01:53+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b4229960e5b3",
-   "title": "Coffee Closes Sharply Lower on the Week Despite a Modest Rebound on Friday",
-   "link": "https://www.nasdaq.com/articles/coffee-closes-sharply-lower-week-despite-modest-rebound-friday",
-   "summary": "December arabica coffee (KCZ26 ) closed up +1.75 (+0.61) on Friday, and January ICE robusta coffee (RMF27 ) closed up +28 (+0.88%). NY arabica coffee rebounded mildly higher on Friday from Thursday’s 1-month low, retracing a small part of the sharp sell-off seen over the past two weeks. However, NY...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-10-31T04:01:52+00:00",
-   "tickers": [
-    "ICE"
-   ]
-  },
-  {
-   "id": "a0cba9a64203",
-   "title": "Cotton Slipping Lower on Friday",
-   "link": "https://www.nasdaq.com/articles/cotton-slipping-lower-friday-2",
-   "summary": "Cotton futures are trading with losses of 30 to 35 points across most contracts on Friday. Crude oil is up $2.70 per barrel on the session, with the US dollar index $0.096 lower. USDA’s Export Sales data showed 5.665 million RB of cotton sold as of 10/22 for the 2026/27...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-10-31T04:01:52+00:00",
    "tickers": []
   },
   {
@@ -1473,20 +1501,6 @@
    "sentiment": "neutral",
    "domain": "nasdaq.com",
    "published": "2026-10-31T02:57:33+00:00",
-   "tickers": []
-  },
-  {
-   "id": "4fcc3ba038bb",
-   "title": "Wheat Closes Friday with Slight Losses",
-   "link": "https://www.nasdaq.com/articles/wheat-closes-friday-slight-losses",
-   "summary": "The wheat complex wound up lower across the three markets on Friday. Chicago SRW contracts was mixed, down ¼ to 5 cents higher on the day, as December was 21 ½ cents lower on the week. KC HRW futures were down a penny in the front months and higher in...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-10-31T02:55:25+00:00",
    "tickers": []
   },
   {
@@ -8807,20 +8821,6 @@
    "sentiment": "positive",
    "domain": "biztoc.com",
    "published": "2026-10-30T21:54:53+00:00",
-   "tickers": []
-  },
-  {
-   "id": "4467cbb5f048",
-   "title": "Kunstler: The 'Two Dan Sullivans' Case Exposes How 'Filthy' Democratic Party Tactics Are..",
-   "link": "https://biztoc.com/x/392ffe47202f3654?ref=rss",
-   "summary": "Kunstler: The 'Two Dan Sullivans' Case Exposes How 'Filthy' Democratic Party Tactics Are... Authored by James Howard Kunstler via Clusterfuck Nation, A Fine, Deliberately Engineered Mess \"Can't we just be Mexico or Paraguay and have peace and quiet while things mostly go to hell?\" - Matt…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-30T21:54:52+00:00",
    "tickers": []
   }
  ],
