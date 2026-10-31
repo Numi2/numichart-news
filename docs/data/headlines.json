@@ -1,8 +1,52 @@
 {
- "generated": "2026-10-31T11:53:54.374047+00:00",
+ "generated": "2026-10-31T12:00:03.833487+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "b8f42ec44cc1",
+   "title": "BYD: Short-Term Challenges, But Long-Term Buy",
+   "link": "https://seekingalpha.com/article/4960613-byd-short-term-challenges-long-term-buy?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-31T11:57:19+00:00",
+   "tickers": [
+    "BYD"
+   ]
+  },
+  {
+   "id": "3264c1245363",
+   "title": "OpenAI slashes funding goal by $10B amid tech selloff: FT",
+   "link": "https://seekingalpha.com/news/4661853-openai-slashes-funding-goal-10b-amid-tech-selloff?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-31T11:55:29+00:00",
+   "tickers": []
+  },
+  {
+   "id": "d95f5aa308f8",
+   "title": "Bitcoin holds above $77,000 as FBI joins hunt for $6.3 billion Binance hackers",
+   "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-77000-as-binance-hack-recovery-takes-shape-4989115",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-31T11:48:28+00:00",
+   "tickers": []
+  },
   {
    "id": "0e69bb3e70e5",
    "title": "Towards Buddha Co., Ltd. and ICP DAS Showcase iTLC Intelligent Traffic Control Solutions at APTA 2026 in Chicago",
@@ -5685,20 +5729,6 @@
    "tickers": []
   },
   {
-   "id": "d95f5aa308f8",
-   "title": "Bitcoin holds above $77,000 as Binance hack recovery takes shape",
-   "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-77000-as-binance-hack-recovery-takes-shape-4989115",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-10-31T05:35:10+00:00",
-   "tickers": []
-  },
-  {
    "id": "b4229960e5b3",
    "title": "Coffee Closes Sharply Lower on the Week Despite a Modest Rebound on Friday",
    "link": "https://www.nasdaq.com/articles/coffee-closes-sharply-lower-week-despite-modest-rebound-friday",
@@ -8796,49 +8826,14 @@
    "domain": "biztoc.com",
    "published": "2026-10-31T01:44:32+00:00",
    "tickers": []
-  },
-  {
-   "id": "366de88e6f6b",
-   "title": "Crypto ETFs Already Go Far Beyond Bitcoin. The SEC Wants to Know If Its Rules Have Kept Up",
-   "link": "https://biztoc.com/x/a120a018edced6c6?ref=rss",
-   "summary": "The post Crypto ETFs Already Go Far Beyond Bitcoin. The SEC Wants to Know If Its Rules Have Kept Up appeared first on 24/7 Wall St.. Ask most investors what a crypto ETF holds, and you’ll probably hear two names: Bitcoin (CRYPTO:BTC) and Ether (CRYPTO:ETH). That picture is out of date.…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-31T01:44:32+00:00",
-   "tickers": [
-    "BTC",
-    "ETH"
-   ]
-  },
-  {
-   "id": "fcdff6904003",
-   "title": "Zions Bancorporation Board Authorizes $72 Mln Share Repurchase For Fourth Quarter",
-   "link": "https://www.nasdaq.com/articles/zions-bancorporation-board-authorizes-72-mln-share-repurchase-fourth-quarter",
-   "summary": "(RTTNews) - Zions Bancorporation, N.A. (ZION) announced that its board of directors has authorized the repurchase of up to $72 million of the company's common stock during the fourth quarter of 2026, continuing its previously approved capital return strategy.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "dividend",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-10-31T01:44:30+00:00",
-   "tickers": [
-    "ZION"
-   ]
   }
  ],
  "ticker_names": {
   "JIRE": "JPMorgan International Research Enhanced Equity ETF",
   "SOXX": "iShares PHLX SOX Semiconductor Sector Index Fund",
   "VYMI": "Vanguard International High Dividend Yield ETF",
-  "ETH": "Grayscale Ethereum Staking Mini ETF Shares",
   "VXUS": "Vanguard Total International Stock ETF",
   "BNDX": "Vanguard Total International Bond ETF",
-  "BTC": "Grayscale Bitcoin Mini Trust (BTC)",
   "TECL": "Direxion Technology Bull 3X Shares",
   "QSR": "Restaurant Brands International",
   "SCHF": "Schwab International Equity ETF",
@@ -8919,6 +8914,7 @@
   "WY": "Weyerhaeuser",
   "GOOGL": "Google Cloud",
   "TSLA": "Supercharger",
+  "BYD": "Boyd Gaming",
   "CAT": "Caterpillar",
   "LCID": "Lucid Group",
   "NVS": "Novartis AG",
