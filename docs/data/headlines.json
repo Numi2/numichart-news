@@ -1,8 +1,22 @@
 {
- "generated": "2026-10-31T10:51:57.105066+00:00",
+ "generated": "2026-10-31T10:58:21.305475+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "3bf6f6e1983f",
+   "title": "Rio Tinto: Commodity Risks Keep Us Neutral",
+   "link": "https://seekingalpha.com/article/4960591-rio-tinto-commodity-risks-keep-us-neutral?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-31T10:54:35+00:00",
+   "tickers": []
+  },
   {
    "id": "68ad37fad404",
    "title": "Columbia Capital Allocation Conservative Portfolio Q3 2026 Commentary",
@@ -32,6 +46,20 @@
    "tickers": [
     "GLD"
    ]
+  },
+  {
+   "id": "240cd9aade2e",
+   "title": "First Financial director Michael B. Denny buys $99,816 of common stock",
+   "link": "https://www.investing.com/news/insider-trading-news/first-financial-director-michael-b-denny-buys-99816-of-common-stock-93CH-4989234",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-10-31T10:45:55+00:00",
+   "tickers": []
   },
   {
    "id": "15daa93648e5",
@@ -145,6 +173,20 @@
    "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-10-31T10:31:05+00:00",
+   "tickers": []
+  },
+  {
+   "id": "bc4ae2766bca",
+   "title": "The rise of the 15-foot skeleton—how a viral novelty became a Halloween staple",
+   "link": "https://www.cnbc.com/make-it/2026/10/23/giant-halloween-skeleton-decorations.html",
+   "summary": "In just six years, giant skeletons have gone from an absurd viral novelty to the centerpiece of an expanding retail arms race for the front lawn.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "cnbc.com",
+   "published": "2026-10-31T10:27:19+00:00",
    "tickers": []
   },
   {
@@ -8770,51 +8812,6 @@
    "tickers": [
     "BX"
    ]
-  },
-  {
-   "id": "74e2056eaf33",
-   "title": "Investors Have Poured a Record $2.24 Trillion Into ETFs This Year. Three Firms Collected Nearly Half of It",
-   "link": "https://biztoc.com/x/734c1da48aa7e0a1?ref=rss",
-   "summary": "The post Investors Have Poured a Record $2.24 Trillion Into ETFs This Year. Three Firms Collected Nearly Half of It appeared first on 24/7 Wall St.. Investors have poured a record $2.24 trillion into exchange-traded funds worldwide so far this year, according to industry research firm ETFGI, which…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-31T00:13:03+00:00",
-   "tickers": []
-  },
-  {
-   "id": "05363878279b",
-   "title": "Bills Emerge as Potential Landing Spot for Coveted Pro Bowl Defensive Back",
-   "link": "https://biztoc.com/x/0b83bc50c3922d82?ref=rss",
-   "summary": "The Buffalo Bills are 5-1 heading into Sunday’s matchup with the Baltimore Ravens, but it’s been in spite of their defense — not because of it. Buffalo’s pass defense ranks 31st in the NFL, allowing 285.8 yards per game, and the team has allowed the second-most passing touchdowns in the league…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-31T00:13:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6dad17ddf0ca",
-   "title": "Hong Kong Restaurant Review: YuSang Brings Style to Korean Comfort Food",
-   "link": "https://biztoc.com/x/dc4002b06932e4cf?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-31T00:12:58+00:00",
-   "tickers": [
-    "QSR",
-    "FIX"
-   ]
   }
  ],
  "ticker_names": {
@@ -8850,7 +8847,6 @@
   "PLTR": "Palantir Technologies",
   "ALHC": "Alignment Healthcare",
   "EIX": "Edison International",
-  "FIX": "Comfort Systems USA",
   "VKTX": "Viking Therapeutics",
   "ZM": "Zoom Communications",
   "BEN": "Franklin Resources",
