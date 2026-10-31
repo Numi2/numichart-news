@@ -1,8 +1,53 @@
 {
- "generated": "2026-10-31T07:57:47.075521+00:00",
+ "generated": "2026-10-31T08:09:26.757056+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "72f6f41bdcb8",
+   "title": "SCANOLOGY Introduces AirGO Pad for On-Site 3D Scanning, Inspection and Reporting",
+   "link": "https://www.prnewswire.com/news-releases/scanology-introduces-airgo-pad-for-on-site-3d-scanning-inspection-and-reporting-302925547.html",
+   "summary": "HANGZHOU, China, Oct. 31, 2026 /PRNewswire/ -- SCANOLOGY introduces AirGO Pad, an integrated mobile measurement platform that brings 3D scanning, inspection and reporting alongside the part being measured. Combining computing, industrial 3D inspection software and touchscreen operation,...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-10-31T08:07:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "4c7cc2470b2d",
+   "title": "GE Vernova: Waiting For The Margin In The Backlog - Hold",
+   "link": "https://seekingalpha.com/article/4960565-ge-vernova-waiting-for-the-margin-in-the-backlog-hold?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-31T08:03:53+00:00",
+   "tickers": [
+    "GEV",
+    "GE"
+   ]
+  },
+  {
+   "id": "0c2eafc1638e",
+   "title": "Rimini Street, Inc. 2026 Q3 - Results - Earnings Call Presentation",
+   "link": "https://seekingalpha.com/article/4960574-rimini-street-inc-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-31T08:01:29+00:00",
+   "tickers": []
+  },
   {
    "id": "344aef892f86",
    "title": "11 Iconic ‘Gay Halloween’ Costume Ideas—From ‘Cynthia Erivo’s Nail’ to ‘Shereé’s Joggers’",
@@ -8771,54 +8816,6 @@
    "tickers": [
     "KO"
    ]
-  },
-  {
-   "id": "8d8c7c596c25",
-   "title": "Twilio Investigation Notice: Levi & Korsinsky Notifies Investors of Pending Investigation Into Twilio (TWLO)",
-   "link": "https://www.prnewswire.com/news-releases/twilio-investigation-notice-levi--korsinsky-notifies-investors-of-pending-investigation-into-twilio-twlo-302925323.html",
-   "summary": "Twilio's CFO told analysts \"we're not seeing a slowdown\" and its CEO later cited \"accelerating revenue growth.\" The Company has now guided fourth-quarter organic growth to 11% to 12%, and shares fell as much as 17%. The investigation focuses on whether Twilio's growth disclosures met...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "prnewswire.com",
-   "published": "2026-10-30T22:44:00+00:00",
-   "tickers": [
-    "TWLO"
-   ]
-  },
-  {
-   "id": "63416870cf78",
-   "title": "Medicilon представляет революционные лекарства с наградой Excellence in Client Partnership Award",
-   "link": "https://www.prnewswire.com/news-releases/medicilon------excellence-in-client-partnership-award-302925448.html",
-   "summary": "БОСТОН, 30 октября 2026 г. /PRNewswire/ -- Д-р Ян Лю (Yang Liu), директор по медицинской химии компании Revolution Medicines, Inc. и д-р Кристоф Пота (Kristof Pota), старший научный сотрудник, посетили Научно-исследовательский центр Medicilon в Наньхуэе. Д-р Маошэн Дуань (Maosheng Duan),...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-10-30T22:44:00+00:00",
-   "tickers": [
-    "RVMD"
-   ]
-  },
-  {
-   "id": "2a3e9bf04a5d",
-   "title": "Okta jumps after-hours following tapped inclusion in the S&P 500",
-   "link": "https://biztoc.com/x/039406a3a41cc8fa?ref=rss",
-   "summary": "Investing.com -- Okta Inc (NASDAQ:OKTA) shares climbed 2.1% in extended trading Friday after S&P Dow Jones Indices selected the identity and access management provider to join the benchmark S&P 500 index. The after-hours rebound helped the cybersecurity firm pare steep regular-session losses,…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-10-30T22:43:54+00:00",
-   "tickers": [
-    "OKTA"
-   ]
   }
  ],
  "ticker_names": {
@@ -8919,6 +8916,7 @@
   "CRM": "Salesforce",
   "F": "Ford Motor",
   "FTI": "TechnipFMC",
+  "GEV": "GE Vernova",
   "LFUS": "Littelfuse",
   "MCD": "McDonald's",
   "SPGI": "S&P Global",
@@ -8954,7 +8952,6 @@
   "ORCL": "Oracle",
   "PI": "Impinj",
   "SPCX": "SpaceX",
-  "TWLO": "Twilio",
   "CROX": "Crocs",
   "FDX": "FedEx",
   "INTC": "Intel",
