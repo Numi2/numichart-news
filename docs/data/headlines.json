@@ -1,8 +1,22 @@
 {
- "generated": "2026-10-31T08:57:43.014405+00:00",
+ "generated": "2026-10-31T09:09:15.680725+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "ea4de3d1ebec",
+   "title": "Kane, Mbappé and the cost of star power",
+   "link": "https://www.ft.com/content/6302c529-cf49-4795-937f-dc47ec89c05c?syn-25a6b1a6=1",
+   "summary": "Also in today’s newsletter: the courts loom for Kalshi and the WNBA’s season of chaos",
+   "article_text": "",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "ft.com",
+   "published": "2026-10-31T09:00:01+00:00",
+   "tickers": []
+  },
   {
    "id": "bcd58b8e9777",
    "title": "Kärcher boss: Less regulation, more action to get Europe and Germany fit again",
@@ -250,6 +264,22 @@
    "domain": "biztoc.com",
    "published": "2026-10-31T08:37:03+00:00",
    "tickers": []
+  },
+  {
+   "id": "14d283230d56",
+   "title": "Michael Burry Is Still Short Palantir. Here's What Its Nov. 2 Report Has to Show.",
+   "link": "https://www.nasdaq.com/articles/michael-burry-still-short-palantir-heres-what-its-nov-2-report-has-show",
+   "summary": "Key PointsMichael Burry kept his Palantir put options when he reworked most of his bearish bets in October.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-31T08:37:01+00:00",
+   "tickers": [
+    "PLTR"
+   ]
   },
   {
    "id": "372909f0f2fb",
@@ -8782,34 +8812,6 @@
    "domain": "investing.com",
    "published": "2026-10-30T23:06:18+00:00",
    "tickers": []
-  },
-  {
-   "id": "04688274fd49",
-   "title": "Valmet Oyj 2026 Q3 - Results - Earnings Call Presentation",
-   "link": "https://seekingalpha.com/article/4960489-valmet-oyj-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-30T23:06:17+00:00",
-   "tickers": []
-  },
-  {
-   "id": "81582bd8707d",
-   "title": "PriceSmart, Inc. 2026 Q4 - Results - Earnings Call Presentation",
-   "link": "https://seekingalpha.com/article/4960488-pricesmart-inc-2026-q4-results-earnings-call-presentation?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-30T23:05:52+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8842,6 +8844,7 @@
   "EAT": "Brinker International",
   "MMSI": "Merit Medical Systems",
   "PB": "Prosperity Bancshares",
+  "PLTR": "Palantir Technologies",
   "ALHC": "Alignment Healthcare",
   "EIX": "Edison International",
   "FIX": "Comfort Systems USA",
