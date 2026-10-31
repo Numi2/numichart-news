@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-31T14:24:54.550235+00:00",
+ "generated": "2026-10-31T14:31:39.142276+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -14,7 +14,35 @@
    "type": "markets",
    "sentiment": "neutral",
    "domain": "cnbc.com",
-   "published": "2026-10-31T14:21:58+00:00",
+   "published": "2026-10-31T14:26:29+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f9cf2b6f79d4",
+   "title": "KLC destaca las pruebas térmicas TTV para IA/HPC y refrigeración líquida",
+   "link": "https://www.prnewswire.com/news-releases/klc-destaca-las-pruebas-termicas-ttv-para-iahpc-y-refrigeracion-liquida-302925586.html",
+   "summary": "-KLC destaca las pruebas térmicas TTV para IA/HPC y refrigeración líquida, el diseño de la disposición de chips y obleas, así como soluciones de calefacción de alta tensión para vehículos eléctricos El fabricante, con sede en Taiwán, ofrece soporte para la validación térmica en áreas como...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-10-31T14:25:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a9094b133203",
+   "title": "ConocoPhillips: Drilling Toward Greater Returns",
+   "link": "https://seekingalpha.com/article/4960634-conocophillips-drilling-toward-greater-returns?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-31T14:23:05+00:00",
    "tickers": []
   },
   {
@@ -8858,37 +8886,6 @@
     "AVGO",
     "SPGI"
    ]
-  },
-  {
-   "id": "8687c5e0a397",
-   "title": "Prediction: 2 Under $1 Trillion Stocks That Will Be Worth More Than Micron 5 Years From Now",
-   "link": "https://www.nasdaq.com/articles/prediction-2-under-1-trillion-stocks-will-be-worth-more-micron-5-years-now",
-   "summary": "Key PointsAs the HBM leader, SK Hynix stock should grow to be larger than Micron in the next five years.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-31T06:20:00+00:00",
-   "tickers": [
-    "MU",
-    "HBM"
-   ]
-  },
-  {
-   "id": "54d096c2e43d",
-   "title": "Oil hits six-month highs as Hormuz attacks threaten Iran peace efforts",
-   "link": "https://biztoc.com/x/f42a3153b730c161?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-31T06:19:51+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8935,7 +8932,6 @@
   "DGX": "Quest Diagnostics",
   "GIL": "Gildan Activewear",
   "HOOD": "Robinhood Markets",
-  "MU": "Micron Technology",
   "RIVN": "Rivian Automotive",
   "SOFI": "SoFi Technologies",
   "TXN": "Texas Instruments",
@@ -8953,7 +8949,6 @@
   "ANET": "Arista Networks",
   "ASTS": "AST SpaceMobile",
   "BAC": "Bank of America",
-  "HBM": "Hudbay Minerals",
   "TGTX": "TG Therapeutics",
   "VIK": "Viking Holdings",
   "GM": "General Motors",
