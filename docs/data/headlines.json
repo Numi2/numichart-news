@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-31T18:22:08.599405+00:00",
+ "generated": "2026-10-31T18:28:52.769612+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -675,6 +675,20 @@
    "tickers": []
   },
   {
+   "id": "ee68e4e9730d",
+   "title": "A Stock Market Correction Could Be Coming. Here's Why I'm Still Investing.",
+   "link": "https://www.nasdaq.com/articles/stock-market-correction-could-be-coming-heres-why-im-still-investing",
+   "summary": "Key PointsThe signs suggest that the stock market could experience a correction soon.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-31T17:49:00+00:00",
+   "tickers": []
+  },
+  {
    "id": "730952d82017",
    "title": "S&P Says Meta Can’t Make Money From AI as Well as Its Rivals",
    "link": "https://biztoc.com/x/05fc3eb05adf851c?ref=rss",
@@ -734,6 +748,22 @@
    "published": "2026-10-31T17:48:13+00:00",
    "tickers": [
     "BKH"
+   ]
+  },
+  {
+   "id": "25013ea12650",
+   "title": "GLPI Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/glpi-q3-2026-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-31T17:48:06+00:00",
+   "tickers": [
+    "GLPI"
    ]
   },
   {
@@ -8849,36 +8879,6 @@
    "domain": "marketwatch.com",
    "published": "2026-10-31T12:00:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "8040c880c027",
-   "title": "Buy The Hyperscaler Panic",
-   "link": "https://seekingalpha.com/article/4960584-buy-the-hyperscaler-panic?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-31T12:00:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d67f58ea993c",
-   "title": "CBOE Global Markets: Attractive Valuation With Significant Growth Runway (Rating Upgrade)",
-   "link": "https://seekingalpha.com/article/4960586-cboe-global-markets-attractive-valuation-with-significant-growth-runway?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-31T12:00:00+00:00",
-   "tickers": [
-    "CBOE"
-   ]
   }
  ],
  "ticker_names": {
@@ -8886,6 +8886,7 @@
   "SDY": "State Street SPDR S&P Dividend ETF",
   "QSR": "Restaurant Brands International",
   "CRDO": "Credo Technology Group Holding",
+  "GLPI": "Gaming and Leisure Properties",
   "QQQ": "Invesco QQQ Trust, Series 1",
   "ADP": "Automatic Data Processing",
   "CNI": "Canadian National Railway",
