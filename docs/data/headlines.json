@@ -1,8 +1,38 @@
 {
- "generated": "2026-10-31T07:31:47.043951+00:00",
+ "generated": "2026-10-31T07:38:10.679482+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "5ab1ecdde358",
+   "title": "Booking Holdings: Deep Moat And Discounted Valuation Make An Attractive Entry",
+   "link": "https://seekingalpha.com/article/4960563-deep-moat-and-discounted-valuation-combine-for-an-attractive-entry-for-booking-holdings?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-31T07:30:03+00:00",
+   "tickers": [
+    "BKNG"
+   ]
+  },
+  {
+   "id": "cc327d8e4b78",
+   "title": "OpenAI raises just $11bn of $30bn target as AI investor appetite cools - WSJ",
+   "link": "https://www.investing.com/news/company-news/openai-raises-just-11bn-of-30bn-target-as-ai-investor-appetite-cools--wsj-4989165",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-10-31T07:26:36+00:00",
+   "tickers": []
+  },
   {
    "id": "7a6aecd77c22",
    "title": "Capstone Copper Q3 Earnings Call Highlights",
@@ -385,6 +415,23 @@
    "published": "2026-10-31T06:50:16+00:00",
    "tickers": [
     "SOFI"
+   ]
+  },
+  {
+   "id": "176a06cb00b8",
+   "title": "A SpaceX and Tesla Merger Will Only Be Successful If This One Thing Happens",
+   "link": "https://www.nasdaq.com/articles/spacex-and-tesla-merger-will-only-be-successful-if-one-thing-happens",
+   "summary": "Key PointsA merger between SpaceX and Tesla is being formally considered.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-31T06:50:00+00:00",
+   "tickers": [
+    "SPCX",
+    "TSLA"
    ]
   },
   {
@@ -1617,7 +1664,7 @@
   },
   {
    "id": "08b0b15bd1dc",
-   "title": "Equity loan scheme will struggle to deliver ‘the homes buyers want’",
+   "title": "New scheme will struggle to deliver ‘the homes buyers want’",
    "link": "https://www.ft.com/content/a6cac59f-7344-4717-8164-a4cbfdd26db5?syn-25a6b1a6=1",
    "summary": "Many first-time purchasers want three-bed houses but Your First Home price caps mean mostly flats will qualify in large parts of country",
    "article_text": "",
@@ -8772,48 +8819,6 @@
    "domain": "biztoc.com",
    "published": "2026-10-30T22:40:53+00:00",
    "tickers": []
-  },
-  {
-   "id": "260f1c74b312",
-   "title": "A Blue Wave Could Spell an End to Tariffs",
-   "link": "https://biztoc.com/x/fe3efb2a74c7a9e3?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-30T22:40:52+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ccf2f078fb92",
-   "title": "‘You Need to Make Sure 1.1 Million Does Not Turn Into Zero’: Suze Orman to $22-an-Hour Church Worker With $1.1 Million Settlement",
-   "link": "https://biztoc.com/x/3eca7736d2e34b4c?ref=rss",
-   "summary": "The post ‘You Need to Make Sure 1.1 Million Does Not Turn Into Zero’: Suze Orman to $22-an-Hour Church Worker With $1.1 Million Settlement appeared first on 24/7 Wall St.. “You do not need to turn 1.1 million into 10 million. You need to make sure 1.1 million does not turn into zero.” Suze Orman…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-10-30T22:40:46+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ea630e30bb3f",
-   "title": "Why Bright Horizons Family Solutions Stock Swooned on Friday",
-   "link": "https://www.nasdaq.com/articles/why-bright-horizons-family-solutions-stock-swooned-friday",
-   "summary": "Key PointsIt beat on revenue but missed on earnings.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-30T22:40:24+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8871,6 +8876,7 @@
   "SOFI": "SoFi Technologies",
   "TXN": "Texas Instruments",
   "UBER": "Uber Technologies",
+  "BKNG": "Booking Holdings",
   "CVCO": "Cavco Industries",
   "ENSG": "The Ensign Group",
   "OMF": "OneMain Holdings",
