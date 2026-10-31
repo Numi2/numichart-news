@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-31T05:57:49.113092+00:00",
+ "generated": "2026-10-31T06:11:05.769631+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -46,6 +46,22 @@
    "domain": "biztoc.com",
    "published": "2026-10-31T05:50:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "96bcd7407e45",
+   "title": "Netflix's Problem Isn't Profits. It's Viewing Time.",
+   "link": "https://www.nasdaq.com/articles/netflixs-problem-isnt-profits-its-viewing-time",
+   "summary": "Key PointsNetflix's earnings showed strong growth last quarter.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-10-31T05:50:00+00:00",
+   "tickers": [
+    "NFLX"
+   ]
   },
   {
    "id": "071b45806913",
@@ -163,6 +179,22 @@
    "published": "2026-10-31T05:45:50+00:00",
    "tickers": [
     "UMBF"
+   ]
+  },
+  {
+   "id": "710496267b29",
+   "title": "Amazon: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/amazon-3-key-takeaways-long-term-investors",
+   "summary": "Key PointsAmazon Web Services revenue reached $46 billion in the third quarter.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-31T05:44:03+00:00",
+   "tickers": [
+    "AMZN"
    ]
   },
   {
@@ -8788,36 +8820,6 @@
     "SPGI",
     "META"
    ]
-  },
-  {
-   "id": "4ca5dc58eec8",
-   "title": "Moderna’s Co-Founder Tests Up to 100 Company Ideas a Year. The Winners Aren’t His Biggest Advantage",
-   "link": "https://biztoc.com/x/45bad301e28590c3?ref=rss",
-   "summary": "Noubar Afeyan explains how Flagship Pioneering tests radical biotech ideas before committing millions to them.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-30T22:10:10+00:00",
-   "tickers": [
-    "MRNA"
-   ]
-  },
-  {
-   "id": "02da84407344",
-   "title": "DEA approvals could bring big tax benefits for medical marijuana businesses",
-   "link": "https://biztoc.com/x/792ee5207c988047?ref=rss",
-   "summary": "DEA approvals could bring big tax benefits for medical marijuana businesses The U.S. Drug Enforcement Administration has for the first time issued registrations to medical marijuana businesses The U.S. Drug Enforcement Administration has for the first time issued registrations to medical marijuana…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-30T22:10:09+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8937,9 +8939,9 @@
   "IVZ": "Invesco",
   "MDB": "MongoDB",
   "MRK": "Merck &",
-  "MRNA": "Moderna",
   "SNDK": "Sandisk",
   "VLTO": "Veralto",
+  "NFLX": "Netflix",
   "INSM": "Insmed",
   "KVUE": "Kenvue",
   "NDAQ": "Nasdaq",
