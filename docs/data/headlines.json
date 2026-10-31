@@ -1,8 +1,22 @@
 {
- "generated": "2026-10-31T19:30:16.770973+00:00",
+ "generated": "2026-10-31T19:37:35.973198+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "98ea61433cc2",
+   "title": "FamiCord AG 2026 Q2 - Results - Earnings Call Presentation",
+   "link": "https://seekingalpha.com/article/4960662-famicord-ag-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-31T19:28:48+00:00",
+   "tickers": []
+  },
   {
    "id": "14d050f2de04",
    "title": "Iranian envoys meet Qatari mediators as threat looms of US strikes after midterms",
@@ -162,6 +176,22 @@
    "tickers": []
   },
   {
+   "id": "b6e38adbb774",
+   "title": "AGCO: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/agco-3-key-takeaways-long-term-investors",
+   "summary": "Key PointsAGCO reduced third quarter factory production hours by 19% year over year.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-10-31T19:16:32+00:00",
+   "tickers": [
+    "AGCO"
+   ]
+  },
+  {
    "id": "0543d2aedc3d",
    "title": "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday",
    "link": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
@@ -174,6 +204,22 @@
    "domain": "cnbc.com",
    "published": "2026-10-31T19:16:25+00:00",
    "tickers": []
+  },
+  {
+   "id": "e45a0593aabb",
+   "title": "Alamos Gold's 2027 Outlook: Production Set to Jump as an $835 Million Expansion Wraps Up",
+   "link": "https://www.nasdaq.com/articles/alamos-golds-2027-outlook-production-set-jump-835-million-expansion-wraps",
+   "summary": "Key PointsThe company is scaling its Canadian operations to reach one million ounces of production.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "guidance",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-10-31T19:16:10+00:00",
+   "tickers": [
+    "AGI"
+   ]
   },
   {
    "id": "e648b30b84eb",
@@ -8831,50 +8877,6 @@
    "tickers": [
     "JIRE"
    ]
-  },
-  {
-   "id": "861b6436a217",
-   "title": "Russia Extends Ban on Most Diesel Exports Through January",
-   "link": "https://biztoc.com/x/19b23fcce7185158?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-31T12:41:55+00:00",
-   "tickers": []
-  },
-  {
-   "id": "54d460a9b020",
-   "title": "Cheesecake Factory found the diners every chain is chasing",
-   "link": "https://biztoc.com/x/e955243bfbf912f0?ref=rss",
-   "summary": "Deciding what to order has always been one of the hardest things for anyone eating at the Cheesecake Factory. That’s because the chain has a huge, ever-evolving menu that gives diners more choices than most restaurants offer. The chain’s food diversity continues to be a driver, CEO David Overton…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-31T12:41:21+00:00",
-   "tickers": []
-  },
-  {
-   "id": "3fec05b32ac3",
-   "title": "If a Stock Market Crash Is Coming, History Says Following These 6 Words From Warren Buffett Is the Smartest Move You Can Make",
-   "link": "https://biztoc.com/x/c800ae39d907017c?ref=rss",
-   "summary": "Investors have had plenty to celebrate over the past four years. The S&P 500 (^GSPC -1.82%) has gained nearly 115% since the fall of 2022, while the Dow Jones Industrial Average (^DJI -1.09%) has gained nearly 80%, and the Nasdaq Composite (^IXIC -2.86%) has jumped more than 150%. And while it's…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-10-31T12:41:19+00:00",
-   "tickers": [
-    "NDAQ"
-   ]
   }
  ],
  "ticker_names": {
@@ -8940,6 +8942,7 @@
   "UBS": "UBS Group AG",
   "GOOGL": "Google Cloud",
   "TSLA": "Supercharger",
+  "AGI": "Alamos Gold",
   "BKH": "Black Hills",
   "NU": "Nu Holdings",
   "AAPL": "Apple Watch",
@@ -8998,6 +9001,7 @@
   "INTC": "Intel",
   "KEX": "Kirby",
   "TEX": "Terex",
+  "AGCO": "AGCO",
   "BALL": "Ball",
   "DAVE": "Dave",
   "FLEX": "Flex"
