@@ -1,8 +1,54 @@
 {
- "generated": "2026-10-31T06:23:26.517860+00:00",
+ "generated": "2026-10-31T06:32:23.941972+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "c2c5ed056424",
+   "title": "S&P Global Cuts Meta Credit Outlook to Negative - Meta Platforms (NASDAQ:META), Broadcom (NASDAQ:AVGO)",
+   "link": "https://biztoc.com/x/8c10a48d999ebdff?ref=rss",
+   "summary": "S&P Global cuts Meta’s credit outlook to negative as rising AI spending and cash flow pressures raise concerns over leverage.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-10-31T06:20:08+00:00",
+   "tickers": [
+    "META",
+    "AVGO",
+    "SPGI"
+   ]
+  },
+  {
+   "id": "54d096c2e43d",
+   "title": "Oil hits six-month highs as Hormuz attacks threaten Iran peace efforts",
+   "link": "https://biztoc.com/x/f42a3153b730c161?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-31T06:19:51+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a9e04aa65847",
+   "title": "Eight in 10 homes in London’s poshest postcodes now sell below asking price, Coutts finds",
+   "link": "https://biztoc.com/x/21a8947a5a0b0230?ref=rss",
+   "summary": "Sellers in areas such as Belgravia and Mayfair face hundreds of thousands of pounds in losses as property prices fall Eight out of 10 properties in London’s most exclusive neighbourhoods – such as Mayfair, Belgravia and Knightsbridge – now sell below asking price, according to research by Coutts,…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-31T06:19:46+00:00",
+   "tickers": []
+  },
   {
    "id": "6b64dcd2d1b4",
    "title": "Merit Medical Systems: A Solid Q3, While Adding New Growth Engines",
@@ -195,6 +241,20 @@
    "tickers": [
     "LFUS"
    ]
+  },
+  {
+   "id": "2b4316df2a7f",
+   "title": "Trump called out Big Oil profits. Here’s how much their refining earnings have surged since",
+   "link": "https://www.cnbc.com/2026/10/31/trump-big-oil-refining-profits.html",
+   "summary": "Trump criticized Big Oil for making “too much money,” but oil majors have since reported surging refining earnings as fuel supplies tightened.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "cnbc.com",
+   "published": "2026-10-31T06:00:02+00:00",
+   "tickers": []
   },
   {
    "id": "7a860c5de43b",
@@ -8757,64 +8817,6 @@
     "OKTA",
     "KVUE"
    ]
-  },
-  {
-   "id": "b5ef3f1ce372",
-   "title": "SpaceX has lost more than $500 billion in market value in less than a month",
-   "link": "https://biztoc.com/x/773216d49ceca2cb?ref=rss",
-   "summary": "Analysts spent last week raising their SpaceX price targets. Investors spent it selling the stock. SpaceX (SPCX) stock fell more than 6% Friday, extending a slide that has erased more than $500 billion in market value since its Oct. 6 high, when the company was worth more than $2.3 trillion. It's…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-30T22:13:29+00:00",
-   "tickers": [
-    "SPCX"
-   ]
-  },
-  {
-   "id": "be3a7ab62933",
-   "title": "Corn Holding Lower on Friday",
-   "link": "https://www.nasdaq.com/articles/corn-holding-lower-friday",
-   "summary": "Corn futures are slipping 1 to 2 cents in the front months on Friday as the market heads into month-end. The CmdtyView national average Cash Corn price is up ¼ cent at $4.14 3/4. Acres left to be harvested may be slowed after the weekend, with the NOAA 7-day QPF...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-10-30T22:13:13+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ad6b95135bcb",
-   "title": "Trump touted a record Venezuela oil deal. Now reality is setting in",
-   "link": "https://www.investing.com/news/commodities-news/trump-touted-a-record-venezuela-oil-deal-now-reality-is-setting-in-4986582",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-10-30T22:13:05+00:00",
-   "tickers": []
-  },
-  {
-   "id": "69a3f70e5d7e",
-   "title": "Binance rushes to recover customer money after $6.3bn heist",
-   "link": "https://www.ft.com/content/c7f5e395-c3a9-430e-b757-5014527b4d49?syn-25a6b1a6=1",
-   "summary": "World’s largest crypto exchange says an engineer’s laptop was compromised in major security breach",
-   "article_text": "",
-   "source": "FT Companies",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "ft.com",
-   "published": "2026-10-30T22:12:58+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8925,6 +8927,7 @@
   "TE": "T1 Energy",
   "TEM": "Tempus AI",
   "NWSA": "News Corp",
+  "AVGO": "Broadcom",
   "CCL": "Carnival",
   "DASH": "DoorDash",
   "DUOL": "Duolingo",
