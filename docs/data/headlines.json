@@ -1,8 +1,38 @@
 {
- "generated": "2026-10-31T13:41:00.096639+00:00",
+ "generated": "2026-10-31T13:47:14.515613+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "721d71bc86fb",
+   "title": "Anavex Deadline: AVXL Investors with Losses in Excess of $100K Have Opportunity to Lead Anavex Life Sciences Corp. Securities Fraud Lawsuit Filed by The Rosen Law Firm",
+   "link": "https://www.prnewswire.com/news-releases/anavex-deadline-avxl-investors-with-losses-in-excess-of-100k-have-opportunity-to-lead-anavex-life-sciences-corp-securities-fraud-lawsuit-filed-by-the-rosen-law-firm-302925010.html",
+   "summary": "NEW YORK, Oct. 31, 2026 /PRNewswire/ -- Why: Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities of Anavex Life Sciences Corp. (NASDAQ: AVXL) between November 26, 2025 and August 28, 2026, both dates inclusive (the \"Class Period\"), of the important November...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "prnewswire.com",
+   "published": "2026-10-31T13:45:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "d7b8b364ac61",
+   "title": "Uber Q3 Earnings Preview: The Buy Case Does Not Need A Rerating",
+   "link": "https://seekingalpha.com/article/4960631-uber-q3-earnings-preview-the-buy-case-does-not-need-a-rerating?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-10-31T13:41:42+00:00",
+   "tickers": [
+    "UBER"
+   ]
+  },
   {
    "id": "2d63046c1cc5",
    "title": "DKS Deadline in 3 Days: DICK'S Sporting Goods, Inc. Class Action Lawsuit Seeks Recovery for Investors; November 3, 2026 Deadline- Contact Kessler Topaz Meltzer & Check, LLP",
@@ -1512,7 +1542,7 @@
   },
   {
    "id": "cf6f435217a7",
-   "title": "Bank of America: Convertible Series L Delivering High Income With Equity Participation",
+   "title": "Bank Of America: Convertible Series L Delivering High Income With Equity Participation",
    "link": "https://seekingalpha.com/article/4960615-bank-of-america-convertible-series-l-delivering-high-income-with-equity-participation?source=feed_all_articles",
    "summary": "",
    "article_text": "",
@@ -1522,9 +1552,7 @@
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
    "published": "2026-10-31T12:29:35+00:00",
-   "tickers": [
-    "BAC"
-   ]
+   "tickers": []
   },
   {
    "id": "e91e791781da",
@@ -8859,36 +8887,6 @@
    "domain": "ft.com",
    "published": "2026-10-31T05:00:40+00:00",
    "tickers": []
-  },
-  {
-   "id": "59a7990cdcc9",
-   "title": "US midterms loom over jittery investors",
-   "link": "https://www.ft.com/content/6c099dc6-1fb3-44fc-b011-70229e3755cb?syn-25a6b1a6=1",
-   "summary": "Caution certainly seems warranted for the coming weeks",
-   "article_text": "",
-   "source": "FT Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "ft.com",
-   "published": "2026-10-31T05:00:39+00:00",
-   "tickers": []
-  },
-  {
-   "id": "8b7ee8982715",
-   "title": "Edison International: 3 Key Takeaways for Long-Term Investors",
-   "link": "https://www.nasdaq.com/articles/edison-international-3-key-takeaways-long-term-investors",
-   "summary": "Key PointsEdison International reaffirmed its 2026 core EPS guidance of $5.90 to $6.20.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-31T05:00:33+00:00",
-   "tickers": [
-    "EIX"
-   ]
   }
  ],
  "ticker_names": {
@@ -8924,7 +8922,6 @@
   "EAT": "Brinker International",
   "MMSI": "Merit Medical Systems",
   "PLTR": "Palantir Technologies",
-  "EIX": "Edison International",
   "DAR": "Darling Ingredients",
   "FIX": "Comfort Systems USA",
   "IP": "International Paper",
@@ -8945,6 +8942,7 @@
   "RIVN": "Rivian Automotive",
   "SOFI": "SoFi Technologies",
   "TXN": "Texas Instruments",
+  "UBER": "Uber Technologies",
   "AR": "Antero Resources",
   "BKNG": "Booking Holdings",
   "CLF": "Cleveland-Cliffs",
