@@ -1,8 +1,36 @@
 {
- "generated": "2026-11-01T02:21:15.981598+00:00",
+ "generated": "2026-11-01T02:29:22.379340+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "1bdbfe36ed91",
+   "title": "Trump calls $50 million contract for ex-lawyer Habba Mildon ’not acceptable’",
+   "link": "https://www.investing.com/news/economy-news/trump-calls-50-million-contract-for-exlawyer-habba-mildon-not-acceptable-4989369",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-01T02:24:17+00:00",
+   "tickers": []
+  },
+  {
+   "id": "cd62f422dbca",
+   "title": "OmniAb: A Self-Funding Option Book On 433 Partner Programs",
+   "link": "https://seekingalpha.com/article/4960691-omniab-a-self-funding-option-book-on-433-partner-programs?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-01T02:19:25+00:00",
+   "tickers": []
+  },
   {
    "id": "88c9766bd906",
    "title": "HIZENERGY представляет полный спектр аккумуляторных систем накопления энергии (BESS) для коммерческого и промышленного сектора в поддержку энергетического перехода Европы",
@@ -102,6 +130,22 @@
    "domain": "prnewswire.com",
    "published": "2026-11-01T02:10:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "922a239083e0",
+   "title": "Crocs: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/crocs-3-key-takeaways-long-term-investors",
+   "summary": "Key PointsCrocs raised full-year 2026 revenue guidance to approximately 3% growth.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-01T02:09:07+00:00",
+   "tickers": [
+    "CROX"
+   ]
   },
   {
    "id": "efe33af6beba",
@@ -8765,48 +8809,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-10-31T15:45:39+00:00",
    "tickers": []
-  },
-  {
-   "id": "8cdaf3b0a74f",
-   "title": "Earnings Scoreboard: 83% of reporting firms beat EPS estimates, 79% post Y/Y earnings growth",
-   "link": "https://seekingalpha.com/news/4661167-earnings-scoreboard-83-of-reporting-firms-beat-eps-estimates-79-post-yy-earnings-growth?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Markets Insider",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-31T15:45:39+00:00",
-   "tickers": []
-  },
-  {
-   "id": "fd255ed80249",
-   "title": "Russia strikes bulk carrier in Odessa",
-   "link": "https://biztoc.com/x/7ab0d132afe84127?ref=rss",
-   "summary": "The Russian Armed Forces struck a bulk carrier 37km south of Ukraine's Odessa, the Russian Defense Ministry revealed on Saturday.The vessel, allegedly carrying military equipment, was damaged in the s...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-31T15:45:24+00:00",
-   "tickers": []
-  },
-  {
-   "id": "266bcc252609",
-   "title": "From restaurant guides to payments, here’s how TikTok is building a super app",
-   "link": "https://biztoc.com/x/5acafd1f0db26039?ref=rss",
-   "summary": "TikTok announced this week that it’s adding an in-app restaurant guide, marking another step in the platform’s expansion beyond social media. The company has also recently been spotted developing a feature that would allow users to send money over direct messages. The social media app has steadily…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-31T15:45:14+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8929,6 +8931,7 @@
   "SPCX": "SpaceX",
   "TWLO": "Twilio",
   "AA": "Alcoa",
+  "CROX": "Crocs",
   "FDX": "FedEx",
   "INTC": "Intel",
   "KEX": "Kirby",
