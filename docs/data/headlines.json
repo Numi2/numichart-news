@@ -1,8 +1,39 @@
 {
- "generated": "2026-11-01T18:21:33.163905+00:00",
+ "generated": "2026-11-01T18:27:47.574496+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "4f7744645938",
+   "title": "SCHD Vs. FDVV: Which Dividend ETF Wins Into 2027",
+   "link": "https://seekingalpha.com/article/4960739-schd-vs-fdvv-which-dividend-etf-wins-into-2027?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-01T18:25:02+00:00",
+   "tickers": [
+    "SCHD",
+    "FDVV"
+   ]
+  },
+  {
+   "id": "2d37fbad62b6",
+   "title": "‘You Can See Everything’ tops weekend box office",
+   "link": "https://seekingalpha.com/news/4661889-you-can-see-everything-tops-weekend-box-office?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-01T18:19:55+00:00",
+   "tickers": []
+  },
   {
    "id": "38880c67ebb2",
    "title": "How Many AGNC Shares It Takes to Earn $500 a Month in Dividends",
@@ -1762,6 +1793,20 @@
    "tickers": [
     "PLTR"
    ]
+  },
+  {
+   "id": "6a11f37d807e",
+   "title": "Serbia shuts down bank favoured by Russians",
+   "link": "https://www.ft.com/content/c478c8b6-789f-4253-8970-1244b93c1cce?syn-25a6b1a6=1",
+   "summary": "Alta Bank is suspected of wiring large amounts of money out of the country after election loss of former president Aleksandar Vučić",
+   "article_text": "",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "ft.com",
+   "published": "2026-11-01T17:02:03+00:00",
+   "tickers": []
   },
   {
    "id": "94e6c32268fa",
@@ -8742,52 +8787,6 @@
    "domain": "biztoc.com",
    "published": "2026-11-01T11:22:48+00:00",
    "tickers": []
-  },
-  {
-   "id": "c020befd4b2b",
-   "title": "Eastman Q3 2026 slides show margin gains despite estimate miss",
-   "link": "https://www.investing.com/news/company-news/eastman-q3-2026-slides-show-margin-gains-despite-estimate-miss-93CH-4989684",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-01T11:22:44+00:00",
-   "tickers": []
-  },
-  {
-   "id": "a4cb1d6fddc6",
-   "title": "Capri Holdings: 3 Key Takeaways for Long-Term Investors",
-   "link": "https://www.nasdaq.com/articles/capri-holdings-3-key-takeaways-long-term-investors",
-   "summary": "Key PointsMichael Kors cut promotional days by about 50% in the quarter.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-01T11:21:49+00:00",
-   "tickers": [
-    "CPRI"
-   ]
-  },
-  {
-   "id": "178844190c96",
-   "title": "Earnings call transcript: Alliant Energy tops Q3 2026 EPS forecast",
-   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-alliant-energy-tops-q3-2026-eps-forecast-93CH-4989683",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-11-01T11:21:14+00:00",
-   "tickers": [
-    "LNT"
-   ]
   }
  ],
  "ticker_names": {
@@ -8804,12 +8803,12 @@
   "BAH": "Booz Allen Hamilton Holding",
   "EFV": "iShares MSCI EAFE Value ETF",
   "QQQ": "Invesco QQQ Trust, Series 1",
+  "FDVV": "Fidelity High Dividend ETF",
   "ICE": "Intercontinental Exchange",
   "TD": "The Toronto-Dominion Bank",
   "MPWR": "Monolithic Power Systems",
   "AEP": "American Electric Power",
   "GS": "The Goldman Sachs Group",
-  "CPRI": "Capri Holdings Limited",
   "QQQM": "Invesco NASDAQ 100 ETF",
   "COF": "Capital One Financial",
   "DKS": "DICK'S Sporting Goods",
@@ -8842,7 +8841,6 @@
   "LNG": "Cheniere Energy",
   "REG": "Regency Centers",
   "GM": "General Motors",
-  "LNT": "Alliant Energy",
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
   "QBTS": "D-Wave Quantum",
