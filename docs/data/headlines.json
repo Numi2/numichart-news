@@ -1,18 +1,34 @@
 {
- "generated": "2026-11-01T08:51:06.428682+00:00",
+ "generated": "2026-11-01T08:57:25.675250+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
   {
-   "id": "9ee622dc12ee",
-   "title": "Agnico Eagle: Soaring Above The Peer Group",
-   "link": "https://seekingalpha.com/article/4960705-agnico-eagle-soaring-above-the-peer-group?source=feed_all_articles",
+   "id": "7acf1ce0a4e8",
+   "title": "Tesla's Progress Still Falls Short Of Its Price",
+   "link": "https://seekingalpha.com/article/4960706-teslas-progress-still-falls-short-of-its-price?source=feed_all_articles",
    "summary": "",
    "article_text": "",
    "source": "Seeking Alpha",
    "category": "stocks",
    "type": "stocks",
-   "sentiment": "neutral",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-01T08:53:31+00:00",
+   "tickers": [
+    "TSLA"
+   ]
+  },
+  {
+   "id": "9ee622dc12ee",
+   "title": "Agnico Eagle: Soaring Above The Peer Group (Rating Upgrade)",
+   "link": "https://seekingalpha.com/article/4960705-agnico-eagle-soaring-above-the-peer-group?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "upgrade",
+   "sentiment": "positive",
    "domain": "seekingalpha.com",
    "published": "2026-11-01T08:44:54+00:00",
    "tickers": [
@@ -31,6 +47,20 @@
    "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-11-01T08:38:12+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f0e177a42098",
+   "title": "Social Security Cuts Could Happen in 6 Years. Here's How to Prepare",
+   "link": "https://www.nasdaq.com/articles/social-security-cuts-could-happen-6-years-heres-how-prepare",
+   "summary": "Key PointsSocial Security is facing a funding shortfall that could lead to benefit cuts.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-11-01T08:38:02+00:00",
    "tickers": []
   },
   {
@@ -8763,36 +8793,6 @@
    "domain": "biztoc.com",
    "published": "2026-10-31T18:33:40+00:00",
    "tickers": []
-  },
-  {
-   "id": "fe63adb569dc",
-   "title": "Curt Cignetti Shares Honest Take on Josh Hoover Ahead of Minnesota Clash",
-   "link": "https://biztoc.com/x/763dca60373ef5cf?ref=rss",
-   "summary": "Indiana enters Saturday's homecoming matchup against the Minnesota Golden Gophers riding high after their 13-6 victory at Michigan last weekend, but the Hoosiers need to stack more wins to defend their Big Ten title. Indiana currently sits 7-1 overall and 4-1 in Big Ten play, narrowly behind the…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-31T18:33:35+00:00",
-   "tickers": []
-  },
-  {
-   "id": "35384719bef2",
-   "title": "Chipotle is leaning on new menu items to bring diners back",
-   "link": "https://biztoc.com/x/ffaf301049dc3779?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-31T18:33:27+00:00",
-   "tickers": [
-    "CMG"
-   ]
   }
  ],
  "ticker_names": {
