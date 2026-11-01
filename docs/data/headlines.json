@@ -1,8 +1,68 @@
 {
- "generated": "2026-11-01T15:14:38.450252+00:00",
+ "generated": "2026-11-01T15:21:31.808226+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "86e710e91c01",
+   "title": "Social Security may have to cut retirement benefits in six years. Here's how much money is at stake for beneficiaries",
+   "link": "https://www.cnbc.com/2026/11/01/social-security-benefit-cuts-2032.html",
+   "summary": "The latest projections show Social Security may have to cut retirement benefits in six years. Here's what may happen if Congress doesn't prevent that.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "cnbc.com",
+   "published": "2026-11-01T15:18:38+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ead9466d6e22",
+   "title": "Amazon: Keep It Simple, Buy The Dip",
+   "link": "https://seekingalpha.com/article/4960725-amazon-keep-it-simple-buy-dip?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-01T15:15:11+00:00",
+   "tickers": [
+    "AMZN"
+   ]
+  },
+  {
+   "id": "aece3bbe4375",
+   "title": "Brandywine Realty Trust: The Philly Skyline Is Paying Me +10%",
+   "link": "https://seekingalpha.com/article/4960475-brandywine-realty-trust-philly-skyline-paying-me-10-percent?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-01T15:15:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "020e2effc491",
+   "title": "Johnson & Johnson reports lower mortality rates with Impella heart pumps",
+   "link": "https://seekingalpha.com/news/4661883-johnson-and-johnson-reports-lower-mortality-rates-with-impella-heart-pumps?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-01T15:14:29+00:00",
+   "tickers": [
+    "JNJ"
+   ]
+  },
   {
    "id": "415e9cdeaa75",
    "title": "The key races to watch for the 2026 election",
@@ -312,6 +372,20 @@
    "tickers": [
     "NDAQ"
    ]
+  },
+  {
+   "id": "4107109a57f6",
+   "title": "2 Space Stocks Down More Than 50% That Could Be the Best Buys of Q4",
+   "link": "https://www.nasdaq.com/articles/2-space-stocks-down-more-50-could-be-best-buys-q4",
+   "summary": "Key PointsAST SpaceMobile plans to launch initial intermittent coverage in five countries and is working with more than 60 mobile network operators.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-01T15:05:00+00:00",
+   "tickers": []
   },
   {
    "id": "60f83e878c6a",
@@ -672,6 +746,22 @@
    "tickers": []
   },
   {
+   "id": "259f90e10f3f",
+   "title": "Why Micron Stock Looks Cheap After a Record Year",
+   "link": "https://www.nasdaq.com/articles/why-micron-stock-looks-cheap-after-record-year",
+   "summary": "Key PointsMicron trades at about 5.5 times expected earnings, a multiple that reflects the memory industry’s history of boom-and-bust cycles.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-01T14:50:00+00:00",
+   "tickers": [
+    "MU"
+   ]
+  },
+  {
    "id": "fa3750050227",
    "title": "Geely Automobile October Vehicle Sales Edge Up",
    "link": "https://www.nasdaq.com/articles/geely-automobile-october-vehicle-sales-edge",
@@ -856,6 +946,20 @@
    "tickers": []
   },
   {
+   "id": "8d9ecc4b15c6",
+   "title": "I'm a psychologist who studies couples: People in the happiest relationships do 1 thing differently after time apart—whether it's hours, days or weeks",
+   "link": "https://www.cnbc.com/make-it/2026/11/01/reconnect-partner-after-time-apart.html",
+   "summary": "Psychologist Mark Travers argues that the first few minutes after time apart are key to a close, happy relationship, and shares five tips to get them right.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-11-01T14:36:01+00:00",
+   "tickers": []
+  },
+  {
    "id": "8384e8e54dbd",
    "title": "FuelCell Energy Deadline: FCEL Investors Have Opportunity to Lead FuelCell Energy, Inc. Securities Fraud Lawsuit",
    "link": "https://www.prnewswire.com/news-releases/fuelcell-energy-deadline-fcel-investors-have-opportunity-to-lead-fuelcell-energy-inc-securities-fraud-lawsuit-302924922.html",
@@ -966,20 +1070,6 @@
    "category": "markets",
    "type": "markets",
    "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-11-01T14:30:01+00:00",
-   "tickers": []
-  },
-  {
-   "id": "86e710e91c01",
-   "title": "Social Security may have to cut retirement benefits in six years. Here's how much money is at stake for beneficiaries",
-   "link": "https://www.cnbc.com/2026/11/01/social-security-benefit-cuts-2032.html",
-   "summary": "The latest projections show Social Security may have to cut retirement benefits in six years. Here's what may happen if Congress doesn't prevent that.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "downgrade",
-   "sentiment": "negative",
    "domain": "cnbc.com",
    "published": "2026-11-01T14:30:01+00:00",
    "tickers": []
@@ -8671,92 +8761,6 @@
    "domain": "biztoc.com",
    "published": "2026-11-01T07:34:02+00:00",
    "tickers": []
-  },
-  {
-   "id": "358f544da8a8",
-   "title": "Iran offers 48-hour Hormuz reopening plan as Trump signals progress in talks",
-   "link": "https://biztoc.com/x/5501d91b8950b540?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-01T07:33:46+00:00",
-   "tickers": []
-  },
-  {
-   "id": "fa2119a72789",
-   "title": "Turns To Profit Guidance As Investors Ask If The Recovery Is Priced In",
-   "link": "https://biztoc.com/x/eaeed9d367adbfb4?ref=rss",
-   "summary": "Kemper earnings guidance signals a sharp swing back to profit Kemper (KMPR) drew attention after issuing third quarter guidance that points to net income of about $52 million, or $0.88 per diluted share, following a loss in the prior quarter. The guidance drop has landed in a stock that has…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-11-01T07:33:41+00:00",
-   "tickers": []
-  },
-  {
-   "id": "59b3a3671907",
-   "title": "October Is Over, But Not Before Blessing Us With 39 Of The Funniest Signs We've Ever Seen",
-   "link": "https://biztoc.com/x/ed07ddfd6efd43a2?ref=rss",
-   "summary": "Tootles, October!!! To keep things positive every week, we scour the funniest signs from our BuzzFeed readers and from Reddit. They are meant to bring you a little pause in the day for some top-tier comedy. And, now, we've decided to round up all the ones you couldn't get enough of from the entire…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-01T07:33:40+00:00",
-   "tickers": [
-    "RDDT"
-   ]
-  },
-  {
-   "id": "7299e4236dcc",
-   "title": "Aramco buys 49% stake in AI firm Humain for $2.6B",
-   "link": "https://biztoc.com/x/8bf7d747dd48a4d1?ref=rss",
-   "summary": "Saudi Arabia's Public Investment Fund (PIF) and oil giant Aramco have completed a transaction under which the latter acquired a 49% stake in artificial intelligence company HUMAIN for $2.6 billion, wi...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-01T07:33:39+00:00",
-   "tickers": []
-  },
-  {
-   "id": "01caabc42496",
-   "title": "Iran's Supreme Leader Mojtaba Khamenei Warns of ‘Immediate’ Response If Trump Resumes Strikes After Midte",
-   "link": "https://biztoc.com/x/780e96dff16f0427?ref=rss",
-   "summary": "Iran’s leader orders preparations for retaliation as Trump weighs renewed strikes, while both sides signal diplomacy remains possible.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-11-01T07:33:32+00:00",
-   "tickers": []
-  },
-  {
-   "id": "aa67ee837df0",
-   "title": "Alamo earnings: what to look for from ALG",
-   "link": "https://biztoc.com/x/55780a53332a5b7f?ref=rss",
-   "summary": "Specialized equipment manufacturer for infrastructure and vegetation management Alamo Group (NYSE:ALG) will be announcing earnings results this Monday after the bell. Here's what investors should know. Alamo beat analysts' revenue expectations last quarter, reporting revenues of $450.7 million, up…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-01T07:19:14+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8791,7 +8795,9 @@
   "BEN": "Franklin Resources",
   "PANW": "Palo Alto Networks",
   "TYL": "Tyler Technologies",
+  "JNJ": "Johnson & Johnson",
   "MHK": "Mohawk Industries",
+  "MU": "Micron Technology",
   "SOFI": "SoFi Technologies",
   "AR": "Antero Resources",
   "BWXT": "BWX Technologies",
