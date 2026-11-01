@@ -1,8 +1,52 @@
 {
- "generated": "2026-11-01T03:43:44.154456+00:00",
+ "generated": "2026-11-01T03:50:51.358160+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "c2b0be71871d",
+   "title": "US Government Sold $907 Billion of Treasury Securities this Week. That’s a Lot of Paper. Yields Pulled Back",
+   "link": "https://biztoc.com/x/0942bb8c2f24263e?ref=rss",
+   "summary": "As AI & chip stocks tanked, investors shifted from the “AI trade” to the “safe-haven trade” and bid up Treasuries. By Wolf Richter for WOLF STREET. The US government sold $907 billion of Treasury securities this week, spread over 11 auctions. That’s a big pile of paper that went through the…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-01T03:44:07+00:00",
+   "tickers": []
+  },
+  {
+   "id": "33cf5984bd87",
+   "title": "Woman says protest was free speech after arrest for allegedly blocking robot’s path",
+   "link": "https://biztoc.com/x/839dfe0e4a9f03f3?ref=rss",
+   "summary": "A Philadelphia woman was arrested after allegedly blocking the path of a delivery robot. Police said witnesses called to report a disturbance earlier this month between Carolyn Marvin and an Uber delivery robot in Philadelphia. “I have been protesting them whenever I saw them by standing in front…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-01T03:44:03+00:00",
+   "tickers": [
+    "UBER"
+   ]
+  },
+  {
+   "id": "4ea79ed021a6",
+   "title": "(Q3 2026) Earnings Call Highlights: Record Downstream Earnings and $2. ..",
+   "link": "https://biztoc.com/x/d46eea2cedb6d15c?ref=rss",
+   "summary": "This article first appeared on GuruFocus. - Net Income: $2.454 billion in Q3 2026, up $1.915 billion YoY; up $264 million sequentially. - Upstream Earnings: $941 million, down $358 million from Q2 2026 on lower realizations. - Downstream Earnings: $1.555 billion (record), up $768 million from Q2…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-01T03:44:00+00:00",
+   "tickers": []
+  },
   {
    "id": "46ba9fb28f10",
    "title": "2026 Yangtze River Culture Festival Opens in Yonglian Village, Zhangjiagang, Jiangsu",
@@ -8784,50 +8828,6 @@
    "domain": "nasdaq.com",
    "published": "2026-10-31T16:25:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "0c34d55a5ea8",
-   "title": "Eastman: 3 Key Takeaways for Long-Term Investors",
-   "link": "https://www.nasdaq.com/articles/eastman-3-key-takeaways-long-term-investors",
-   "summary": "Key PointsA Department of Energy grant covers up to 50% of expansion capital and remains a core driver of expected revenue growth.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-31T16:23:39+00:00",
-   "tickers": []
-  },
-  {
-   "id": "4ac36452c462",
-   "title": "Earnings call transcript: Reliance posts Q2 2026 beat as energy drives record profit",
-   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-reliance-posts-q2-2026-beat-as-energy-drives-record-profit-93CH-4989298",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-10-31T16:21:56+00:00",
-   "tickers": [
-    "RS"
-   ]
-  },
-  {
-   "id": "20fc43fa91b2",
-   "title": "45.4% of Boomers on Fidelity’s Platform Keep Every 401(k) Dollar in One Target-Date Fund. Here’s What That Fund Actually Holds at 67",
-   "link": "https://biztoc.com/x/2a11942e2be1e892?ref=rss",
-   "summary": "The post 45.4% of Boomers on Fidelity’s Platform Keep Every 401(k) Dollar in One Target-Date Fund. Here’s What That Fund Actually Holds at 67 appeared first on 24/7 Wall St.. Target-date funds are the default investment in most workplace retirement plans, and many older savers use one for their…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-31T16:21:52+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8870,6 +8870,7 @@
   "ATEC": "Alphatec Holdings",
   "RIVN": "Rivian Automotive",
   "SOFI": "SoFi Technologies",
+  "UBER": "Uber Technologies",
   "AR": "Antero Resources",
   "COST": "Costco Wholesale",
   "EMN": "Eastman Chemical",
