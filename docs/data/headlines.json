@@ -1,8 +1,38 @@
 {
- "generated": "2026-11-01T08:44:33.019210+00:00",
+ "generated": "2026-11-01T08:51:06.428682+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "9ee622dc12ee",
+   "title": "Agnico Eagle: Soaring Above The Peer Group",
+   "link": "https://seekingalpha.com/article/4960705-agnico-eagle-soaring-above-the-peer-group?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-01T08:44:54+00:00",
+   "tickers": [
+    "EXP"
+   ]
+  },
+  {
+   "id": "6e2473db8ac2",
+   "title": "Saudi Arabia’s economy contracts 3.8% as war disrupts oil production",
+   "link": "https://www.investing.com/news/economy-news/saudi-arabias-economy-contracts-38-as-war-disrupts-oil-production-4989425",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-01T08:38:12+00:00",
+   "tickers": []
+  },
   {
    "id": "8bf0cba8d61e",
    "title": "Qatari LNG tanker attacked in Arabian Gulf",
@@ -8763,37 +8793,6 @@
    "tickers": [
     "CMG"
    ]
-  },
-  {
-   "id": "3d89f6088fe2",
-   "title": "Suze Orman Says You Don’t Have to Buy Every Market Dip. Here’s Why",
-   "link": "https://biztoc.com/x/f98beab24e1fd038?ref=rss",
-   "summary": "The post Suze Orman Says You Don’t Have to Buy Every Market Dip. Here’s Why appeared first on 24/7 Wall St.. Suze Orman told investors they can skip the reflex to act every time stocks dip. She said it on the October 25 episode of her Women & Money podcast, titled “When Is a Decision Right For…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-31T18:33:25+00:00",
-   "tickers": []
-  },
-  {
-   "id": "38f8a3475b0a",
-   "title": "Will Buyers Skip Apple's iPhone Duo Amid \"Crackgate\"? UBS Flags Wait-Time Warning Signs To Watch",
-   "link": "https://biztoc.com/x/b9b6eca0a7bd8f08?ref=rss",
-   "summary": "Will Buyers Skip Apple's iPhone Duo Amid \"Crackgate\"? UBS Flags Wait-Time Warning Signs To Watch \"Crackgate\" exploded last week on X and other social media platforms as dozens of users who dropped more than $2,000 on the new foldable iPhone Duo reported that, just days into owning the new…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-10-31T18:33:20+00:00",
-   "tickers": [
-    "AAPL",
-    "UBS"
-   ]
   }
  ],
  "ticker_names": {
@@ -8846,6 +8845,7 @@
   "THC": "Tenet Healthcare",
   "GE": "General Electric",
   "DIS": "The Walt Disney",
+  "EXP": "Eagle Materials",
   "HOG": "Harley-Davidson",
   "LMT": "Lockheed Martin",
   "LNG": "Cheniere Energy",
@@ -8864,7 +8864,6 @@
   "POST": "Post Holdings",
   "MSTR": "MicroStrategy",
   "LRCX": "Lam Research",
-  "UBS": "UBS Group AG",
   "GOOGL": "Google Cloud",
   "TSLA": "Supercharger",
   "RACE": "Ferrari N.V.",
