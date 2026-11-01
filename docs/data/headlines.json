@@ -1,8 +1,85 @@
 {
- "generated": "2026-11-01T05:44:35.554035+00:00",
+ "generated": "2026-11-01T05:50:32.378427+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "a3ef21e41aa2",
+   "title": "Cathay Pacific says Amadeus breach affected 53,000 bookings",
+   "link": "https://biztoc.com/x/41c3f5af1ea1df5a?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-01T05:46:12+00:00",
+   "tickers": []
+  },
+  {
+   "id": "760148cdaf0d",
+   "title": "Reddit stock plunges 29.2% as Google AI cuts US traffic",
+   "link": "https://biztoc.com/x/e68ff0b3614e9297?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-11-01T05:46:06+00:00",
+   "tickers": [
+    "RDDT",
+    "GOOGL"
+   ]
+  },
+  {
+   "id": "b195b9d33362",
+   "title": "NIO's October deliveries down 15.2% to 34,246",
+   "link": "https://biztoc.com/x/3663b92035b994d5?ref=rss",
+   "summary": "NIO Inc. revealed on Sunday that its deliveries in October amounted to 34,246 units, declining 15.2% on an annual basis and 8.4% on a monthly basis. This is the first time since February 2024 that the...",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-01T05:46:03+00:00",
+   "tickers": [
+    "NIO"
+   ]
+  },
+  {
+   "id": "cb68868f9c8f",
+   "title": "DeepSeek launches autonomous coding agent to challenge Anthropic’s Claude Code",
+   "link": "https://www.investing.com/news/company-news/deepseek-launches-autonomous-coding-agent-to-challenge-anthropics-claude-code-4989391",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-11-01T05:45:12+00:00",
+   "tickers": []
+  },
+  {
+   "id": "21018b70c402",
+   "title": "Intel Erupts, And It's About Time",
+   "link": "https://seekingalpha.com/article/4960702-intel-erupts-and-its-about-time?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-01T05:42:00+00:00",
+   "tickers": [
+    "INTC"
+   ]
+  },
   {
    "id": "3f3451a2c97d",
    "title": "Why Plug Power Fell While Sales Rose",
@@ -131,6 +208,20 @@
    "sentiment": "neutral",
    "domain": "nytimes.com",
    "published": "2026-11-01T05:25:35+00:00",
+   "tickers": []
+  },
+  {
+   "id": "18d24744cf2f",
+   "title": "Bitcoin faces further downside risks as fear surges, Binance hack rattles markets",
+   "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-faces-further-downside-risks-as-fear-surges-binance-hack-rattles-markets-4989389",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-11-01T05:19:12+00:00",
    "tickers": []
   },
   {
@@ -8745,95 +8836,6 @@
     "BLSH",
     "MGM"
    ]
-  },
-  {
-   "id": "ab5879d3668b",
-   "title": "Checks and Balance newsletter: Democrats’ nauseous optimism",
-   "link": "https://biztoc.com/x/bfa66bdc4d91881a?ref=rss",
-   "summary": "Charlotte Howard, our US editor, on what to watch in the final days before the midterms",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-31T17:04:18+00:00",
-   "tickers": []
-  },
-  {
-   "id": "052b50da776b",
-   "title": "How Weil Gotshal Collapsed: Law Firm Crashed to a Close in Days",
-   "link": "https://biztoc.com/x/86e09fb8c68ac3ef?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-10-31T17:04:17+00:00",
-   "tickers": []
-  },
-  {
-   "id": "183e5b3ab708",
-   "title": "Could Rivian's Model 3 Moment Be Coming? Tesla Stock Climbed 1,364% in 3 Years.",
-   "link": "https://www.nasdaq.com/articles/could-rivians-model-3-moment-be-coming-tesla-stock-climbed-1364-3-years",
-   "summary": "Key PointsAfter Tesla's Model 3 production breakthrough, the stock soared over 1,300% in three years.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-10-31T17:03:00+00:00",
-   "tickers": [
-    "RIVN",
-    "TSLA"
-   ]
-  },
-  {
-   "id": "4f56eaddb5a1",
-   "title": "Rubio doubts negotiated Ukraine peace is achievable",
-   "link": "https://biztoc.com/x/ec54fd5bcc1eadb6?ref=rss",
-   "summary": "United States Secretary of State Marco Rubio denied that \"we are on the verge\" of a peaceful settlement in Ukraine, claiming on Saturday that he does not know whether \"negotiated peace is achievable.\"...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-31T17:01:57+00:00",
-   "tickers": []
-  },
-  {
-   "id": "a4233eef4295",
-   "title": "SpaceX exec says she'll donate 2 million shares to kids from low-income families. See who's eligible",
-   "link": "https://biztoc.com/x/22e266e88839321e?ref=rss",
-   "summary": "SpaceX's president is gifting over 2 million company shares to children through Trump Accounts. Michael Yanow/NurPhoto via Getty Images American tweens and teens could get a piece of SpaceX. A SpaceX executive is gifting over 2 million company shares to children through Trump Accounts. Find out if…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-31T17:01:56+00:00",
-   "tickers": [
-    "SPCX"
-   ]
-  },
-  {
-   "id": "01bd3c71a25f",
-   "title": "Ten arrested in The Hague for provoking unrest",
-   "link": "https://biztoc.com/x/ab07da3d642faaf4?ref=rss",
-   "summary": "Ten individuals were arrested in the Hague on suspicion of attempting to provoke unrest, Dutch media reported on Saturday.A police spokesperson confirmed that the apprehended individuals were carrying...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-31T17:01:55+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
