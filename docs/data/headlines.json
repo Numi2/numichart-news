@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-31T23:53:59.257386+00:00",
+ "generated": "2026-11-01T00:00:19.309048+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -7,14 +7,106 @@
    "id": "db615d43b1db",
    "title": "Trump defamation suit against Murdoch, WSJ over Epstein letter dismissed with prejudice",
    "link": "https://www.cnbc.com/2026/10/31/trump-murdoch-wsj-epstein-defamation-lawsuit-dismissed.html",
-   "summary": "By dismissing the suit with prejudice, Trump can't file another amended version in district court. Trump's legal team said the president plans to appeal.",
+   "summary": "President Donald Trump denied writing a birthday letter to sex offender Jeffrey Epstein, which was the subject of a 2025 Wall Street Journal article.",
    "article_text": "",
    "source": "CNBC Top",
    "category": "markets",
    "type": "markets",
    "sentiment": "neutral",
    "domain": "cnbc.com",
-   "published": "2026-10-31T23:52:13+00:00",
+   "published": "2026-10-31T23:56:40+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f30a47e846d0",
+   "title": "OpenAI Cuts Funding Target As Investors Lose AI Appetite",
+   "link": "https://biztoc.com/x/ccdd718ccbb3e341?ref=rss",
+   "summary": "OpenAI is cutting its latest fundraising target, according to multiple reports, as investors grow wary of backing artificial intelligence. That comes as rival Anthropic prepares to go public and with Meta Platforms, Google-parent Alphabet, Microsoft and other titans tapping bond and equity markets…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-10-31T23:56:10+00:00",
+   "tickers": [
+    "META",
+    "MSFT",
+    "GOOG",
+    "GOOGL"
+   ]
+  },
+  {
+   "id": "60bdd48fcd06",
+   "title": "New York and LA didn't win America's best mega airport title, but one Midwest hub did",
+   "link": "https://biztoc.com/x/a4e16271ffa8d091?ref=rss",
+   "summary": "A Midwestern airport has once again come out on top among North America’s largest hubs, outpacing better-known coastal airports serving New York and Los Angeles. Minneapolis-Saint Paul International Airport topped the mega airport category for the third consecutive year, according to new 2026…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-10-31T23:55:56+00:00",
+   "tickers": []
+  },
+  {
+   "id": "78e0aa155607",
+   "title": "Methanex (TSX:MX) Q3 Earnings Power Cash Flow As Risks Persist",
+   "link": "https://biztoc.com/x/d57895b31d9c726a?ref=rss",
+   "summary": "Methanex closed today at CA$99.85 after the market processed its Q3 2026 report, a quarter that looked punchy on first glance and complex once you slowed down. Traders focused on the strong Q3 earnings headline, with basic earnings per share of US$3.43 and adjusted EBITDA of US$543 million, driven…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-31T23:55:55+00:00",
+   "tickers": []
+  },
+  {
+   "id": "4ded5c9193cc",
+   "title": "ESPN Makes Decision on Future of ‘Inside the NBA’ After Ernie Johnson News",
+   "link": "https://biztoc.com/x/90f6e063d7f4c52e?ref=rss",
+   "summary": "Well, this may get awkward. On Wednesday, “Inside the NBA” host Ernie Johnson announced that he would be leaving the famous show after 37 years, much to everyone’s horror. Along with Johnson’s devastating news, Charles Barkley has said that his future with the program is still up in the air. Read…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-31T23:54:50+00:00",
+   "tickers": [
+    "NWSA",
+    "DIS"
+   ]
+  },
+  {
+   "id": "c3bee30697c0",
+   "title": "Chili’s Margaritas Rimmed With Degreaser Burn 5 People in North Carolina",
+   "link": "https://biztoc.com/x/a9af4603768d7faa?ref=rss",
+   "summary": "Three customers and two employees were burned on and around their mouths after a granulated substance was mistaken for sugar, a health official said.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-10-31T23:54:43+00:00",
+   "tickers": []
+  },
+  {
+   "id": "1e6b2a394ac5",
+   "title": "Chili’s Margaritas Rimmed With Degreaser Burn 5 People in North Carolina",
+   "link": "https://www.nytimes.com/2026/10/31/us/chilis-margarita-chemical-burns-forest-city.html",
+   "summary": "Three customers and two employees were burned on and around their mouths after a granulated substance was mistaken for sugar, a health official said.",
+   "article_text": "",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-10-31T23:51:54+00:00",
    "tickers": []
   },
   {
@@ -129,20 +221,6 @@
    "sentiment": "negative",
    "domain": "biztoc.com",
    "published": "2026-10-31T23:39:25+00:00",
-   "tickers": []
-  },
-  {
-   "id": "1e6b2a394ac5",
-   "title": "Chili’s Margaritas Rimmed With Degreaser Burn 5 People in North Carolina",
-   "link": "https://www.nytimes.com/2026/10/31/us/chilis-margarita-chemical-burns-forest-city.html",
-   "summary": "Three customers and two employees were burned on and around their mouths after a granulated substance was mistaken for sugar, a health official said.",
-   "article_text": "",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "nytimes.com",
-   "published": "2026-10-31T23:38:37+00:00",
    "tickers": []
   },
   {
@@ -8737,84 +8815,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-10-31T15:00:09+00:00",
    "tickers": []
-  },
-  {
-   "id": "cdc58d49761f",
-   "title": "Life Time (LTH) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/life-time-lth-q3-2026-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-10-31T15:00:05+00:00",
-   "tickers": [
-    "LTH"
-   ]
-  },
-  {
-   "id": "50ecfdc43934",
-   "title": "Apple Leads Packed Earnings Calendar As Investors Eye Tech, Pharma Results",
-   "link": "https://seekingalpha.com/article/4960413-apple-leads-packed-earnings-calendar-as-investors-eye-tech-pharma-results?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-10-31T15:00:00+00:00",
-   "tickers": [
-    "AAPL"
-   ]
-  },
-  {
-   "id": "436392632537",
-   "title": "Binance: 90% of stolen assets replenished",
-   "link": "https://biztoc.com/x/b9431f1a88ff1fbc?ref=rss",
-   "summary": "Binance Holdings Ltd. said on Saturday that 90% of stolen crypto assets in the latest security incident were already replenished.More to come......",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-31T14:59:09+00:00",
-   "tickers": []
-  },
-  {
-   "id": "711ae20e9214",
-   "title": "Uber tests how tokenization can put idle cash to work with HSBC, Franklin Templeton",
-   "link": "https://biztoc.com/x/d5414d6db0f2c5d8?ref=rss",
-   "summary": "Vercel Security Checkpoint cle1::1793458745-8wOAp2jBP0bGyRhJoDc8eGBpBuN9Y4HO",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-31T14:59:08+00:00",
-   "tickers": [
-    "HSBC",
-    "BEN",
-    "UBER"
-   ]
-  },
-  {
-   "id": "1d6823fdcd61",
-   "title": "Here's where the smart money is moving after the stock market",
-   "link": "https://biztoc.com/x/7486b5c7ab23d3e8?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-10-31T14:59:05+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8834,7 +8834,6 @@
   "QQQ": "Invesco QQQ Trust, Series 1",
   "ICE": "Intercontinental Exchange",
   "REGN": "Regeneron Pharmaceuticals",
-  "LTH": "Life Time Group Holdings",
   "VHT": "Vanguard Health Care ETF",
   "AEP": "American Electric Power",
   "CHRW": "C.H. Robinson Worldwide",
@@ -8846,7 +8845,6 @@
   "BIO": "Bio-Rad Laboratories",
   "PG": "The Procter & Gamble",
   "ACGL": "Arch Capital Group",
-  "BEN": "Franklin Resources",
   "BOOT": "Boot Barn Holdings",
   "RBLX": "Roblox Corporation",
   "ATEC": "Alphatec Holdings",
@@ -8856,7 +8854,6 @@
   "RIVN": "Rivian Automotive",
   "SOFI": "SoFi Technologies",
   "TXN": "Texas Instruments",
-  "UBER": "Uber Technologies",
   "EMN": "Eastman Chemical",
   "J": "Jacobs Solutions",
   "GE": "General Electric",
@@ -8872,7 +8869,6 @@
   "IR": "Ingersoll Rand",
   "META": "Meta Platforms",
   "AVAV": "AeroVironment",
-  "HSBC": "HSBC Holdings",
   "KO": "The Coca-Cola",
   "LLY": "Eli Lilly and",
   "O": "Realty Income",
