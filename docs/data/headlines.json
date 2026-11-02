@@ -1,8 +1,50 @@
 {
- "generated": "2026-11-02T19:41:19.942791+00:00",
+ "generated": "2026-11-02T19:47:47.569295+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "760cc7f64812",
+   "title": "Big old profits tripled in Q3 as U.S.-Iran war intensified",
+   "link": "https://seekingalpha.com/news/4662806-big-old-profits-tripled-in-q3-as-u-s-iran-war-intensified?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-02T19:44:24+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a1fa0ce14b5a",
+   "title": "S&P 500 pulls back as tech stock losses outweigh cooler oil prices ahead of midterms: Live updates",
+   "link": "https://www.cnbc.com/2026/11/01/stock-market-today-live-updates.html",
+   "summary": "Investors braced for a packed week of earnings results, jobs reports and the upcoming midterm elections.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "cnbc.com",
+   "published": "2026-11-02T19:43:40+00:00",
+   "tickers": []
+  },
+  {
+   "id": "97d11483779e",
+   "title": "ISG targets Q4 revenue of $64M-$65M and adjusted EBITDA of $9M-$10M as AI-related revenue reaches over 50%",
+   "link": "https://seekingalpha.com/news/4662805-isg-targets-q4-revenue-of-64m-65m-and-adjusted-ebitda-of-9m-10m-as-ai-related-revenue-reaches?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-02T19:40:00+00:00",
+   "tickers": []
+  },
   {
    "id": "f5d1bde3a2a0",
    "title": "With Colder Weather Approaching, PG&E Offering Free Gas Appliance Safety Checks and Pilot Re-Lights",
@@ -35,17 +77,17 @@
    "tickers": []
   },
   {
-   "id": "a1fa0ce14b5a",
-   "title": "S&P 500 is little changed as tech stock losses outweigh cooler oil prices ahead of midterms: Live updates",
-   "link": "https://www.cnbc.com/2026/11/01/stock-market-today-live-updates.html",
-   "summary": "Investors braced for a packed week of earnings results, jobs reports and the upcoming midterm elections.",
+   "id": "cec1e005726a",
+   "title": "Information Services Group, Inc. (III) Q3 2026 Earnings Call Transcript",
+   "link": "https://seekingalpha.com/article/4961101-information-services-group-inc-iii-q3-2026-earnings-call-transcript?source=feed_all_articles",
+   "summary": "",
    "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "negative",
-   "domain": "cnbc.com",
-   "published": "2026-11-02T19:38:31+00:00",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-02T19:38:30+00:00",
    "tickers": []
   },
   {
@@ -547,6 +589,85 @@
    "tickers": []
   },
   {
+   "id": "73991912ffda",
+   "title": "Cocoa Prices Pressured by Rising ICE Inventories",
+   "link": "https://www.nasdaq.com/articles/cocoa-prices-pressured-rising-ice-inventories",
+   "summary": "December ICE NY cocoa (CCZ26 ) is down -18 (-0.33%) today, and ICE London cocoa #7 (CAZ26 ) is down -17 (-0.41%). Cocoa prices are under pressure today, with London cocoa falling to a 3-week low. Rising ICE cocoa inventories are weighing on prices. ICE cocoa inventories have steadily increased...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-02T19:24:11+00:00",
+   "tickers": [
+    "ICE"
+   ]
+  },
+  {
+   "id": "ad48542a0787",
+   "title": "Slumping Crude Oil Prices Weigh on Sugar",
+   "link": "https://www.nasdaq.com/articles/slumping-crude-oil-prices-weigh-sugar",
+   "summary": "March NY world sugar #11 (SBH27 ) is down -0.23 (-1.19%) today, and December London ICE white sugar #5 (SWZ26 ) is down -6.10 (-1.18%). Sugar prices are falling today, with London sugar sliding to a 5-week low after WTI crude oil (CLZ26 ) plunged -7% to a 1.5-week low....",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-02T19:24:11+00:00",
+   "tickers": [
+    "ICE"
+   ]
+  },
+  {
+   "id": "975551931390",
+   "title": "Soybeans Starting November with Steady Trade",
+   "link": "https://www.nasdaq.com/articles/soybeans-starting-november-steady-trade",
+   "summary": "Soybeans are showing fractionally lower trade to start the Monday session. Futures were mixed on Friday with contracts anywhere from 2 ½ cents higher to fractionally lower. November was down 34 ¼ cents last week, with the monthly loss at 70 ¾ cents. Open interest was up 2,321 contracts. There...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-02T19:24:10+00:00",
+   "tickers": []
+  },
+  {
+   "id": "80817edcf616",
+   "title": "Stocks Rally as Crude Oil Sinks on US-Iran Hopes",
+   "link": "https://www.nasdaq.com/articles/stocks-rally-crude-oil-sinks-us-iran-hopes",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) is up +0.74% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +1.04%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +0.74%. December E-mini S&P futures (ESZ26 ) are up +0.72%, and December E-mini Nasdaq futures...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-02T19:24:10+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
+  },
+  {
+   "id": "e11edee4460d",
+   "title": "Soybeans Close Friday with Mixed Trade, Falling from Early Highs",
+   "link": "https://www.nasdaq.com/articles/soybeans-close-friday-mixed-trade-falling-early-highs",
+   "summary": "Soybeans were mixed on Friday with contracts anywhere from 2 ½ cents higher to fractionally lower. November was down 34 ¼ cents this week, with the monthly loss at 70 ¾ cents. The cmdtyView national average Cash Bean price was up 1/2 cents at $11.63 1/2. Soymeal futures were 70...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-02T19:24:10+00:00",
+   "tickers": []
+  },
+  {
    "id": "f2f76a64f0e0",
    "title": "Mara stock hits 52-week low at $6.44",
    "link": "https://www.investing.com/news/company-news/mara-stock-hits-52week-low-at-644-93CH-4992613",
@@ -723,6 +844,20 @@
    "tickers": []
   },
   {
+   "id": "0ff6d3a72e33",
+   "title": "Aspen Group Consensus Price Target Lowered by 83.33% to $0.26",
+   "link": "https://www.nasdaq.com/articles/aspen-group-consensus-price-target-lowered-8333-026",
+   "summary": "The average one-year price target for Aspen Group (OTCPK:ASPU) has been revised to $0.26 / share. This represents a decrease of 83.33% from the prior estimate of $1.53 dated April 23, 2023. These figures represent aggregate analyst targets compiled from multiple",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "analyst",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-02T19:21:12+00:00",
+   "tickers": []
+  },
+  {
    "id": "d1034439c643",
    "title": "L3Harris receives $121M in U.S. Army radio equipment orders",
    "link": "https://seekingalpha.com/news/4662794-l3harris-receives-121m-in-us-army-radio-equipment-orders?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -845,6 +980,23 @@
    "tickers": []
   },
   {
+   "id": "3d9497f64dba",
+   "title": "Airbnb vs. Chewy: Comparing Revenue Stability and Seasonal Fluctuations",
+   "link": "https://www.nasdaq.com/articles/airbnb-vs-chewy-comparing-revenue-stability-and-seasonal-fluctuations",
+   "summary": "Key PointsWhen analyzing these recent historical trends, Chewy recorded higher total revenue than Airbnb during five of the eight comparable periods, giving it the overall lead in most quarters even though Airbnb reached higher individual peak values at certain points during the",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-02T19:20:01+00:00",
+   "tickers": [
+    "ABNB",
+    "CHWY"
+   ]
+  },
+  {
    "id": "7fdd6d9bed50",
    "title": "Collapsing Stock Prices Should Not Surprise Investors; Wall Street Is Losing Faith In The Hyperscalers' Growth Story",
    "link": "https://seekingalpha.com/article/4961084-collapsing-stock-prices-should-not-surprise-investors-wall-street-losing-faith-in-hyperscalers-growth-story?source=feed_all_articles",
@@ -857,6 +1009,22 @@
    "domain": "seekingalpha.com",
    "published": "2026-11-02T19:20:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "0f821cffa1ff",
+   "title": "SoFi Added a Record 1.2 Million Members Last Quarter. Its Stock Is Still Down More Than 30% in 2026.",
+   "link": "https://www.nasdaq.com/articles/sofi-added-record-12-million-members-last-quarter-its-stock-still-down-more-30-2026",
+   "summary": "Key PointsDespite recently alarming headlines, SoFi Technologies has continued to grow persistently on all key fronts this year.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-02T19:20:00+00:00",
+   "tickers": [
+    "SOFI"
+   ]
   },
   {
    "id": "bac35c4e51ad",
@@ -1306,20 +1474,6 @@
    "sentiment": "neutral",
    "domain": "nasdaq.com",
    "published": "2026-11-02T19:17:49+00:00",
-   "tickers": []
-  },
-  {
-   "id": "975551931390",
-   "title": "Soybeans Starting November with Steady Trade",
-   "link": "https://www.nasdaq.com/articles/soybeans-starting-november-steady-trade",
-   "summary": "Soybeans are showing fractionally lower trade to start the Monday session. Futures were mixed on Friday with contracts anywhere from 2 ½ cents higher to fractionally lower. November was down 34 ¼ cents last week, with the monthly loss at 70 ¾ cents. Open interest was up 2,321 contracts. There...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-02T19:17:48+00:00",
    "tickers": []
   },
   {
@@ -3503,55 +3657,6 @@
    ]
   },
   {
-   "id": "73991912ffda",
-   "title": "Cocoa Prices Pressured by Rising ICE Inventories",
-   "link": "https://www.nasdaq.com/articles/cocoa-prices-pressured-rising-ice-inventories",
-   "summary": "December ICE NY cocoa (CCZ26 ) is down -18 (-0.33%) today, and ICE London cocoa #7 (CAZ26 ) is down -17 (-0.41%). Cocoa prices are under pressure today, with London cocoa falling to a 3-week low. Rising ICE cocoa inventories are weighing on prices. ICE cocoa inventories have steadily increased...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-02T18:44:49+00:00",
-   "tickers": [
-    "ICE"
-   ]
-  },
-  {
-   "id": "80817edcf616",
-   "title": "Stocks Rally as Crude Oil Sinks on US-Iran Hopes",
-   "link": "https://www.nasdaq.com/articles/stocks-rally-crude-oil-sinks-us-iran-hopes",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) is up +0.74% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +1.04%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +0.74%. December E-mini S&P futures (ESZ26 ) are up +0.72%, and December E-mini Nasdaq futures...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-02T18:44:49+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
-   ]
-  },
-  {
-   "id": "e11edee4460d",
-   "title": "Soybeans Close Friday with Mixed Trade, Falling from Early Highs",
-   "link": "https://www.nasdaq.com/articles/soybeans-close-friday-mixed-trade-falling-early-highs",
-   "summary": "Soybeans were mixed on Friday with contracts anywhere from 2 ½ cents higher to fractionally lower. November was down 34 ¼ cents this week, with the monthly loss at 70 ¾ cents. The cmdtyView national average Cash Bean price was up 1/2 cents at $11.63 1/2. Soymeal futures were 70...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-02T18:44:48+00:00",
-   "tickers": []
-  },
-  {
    "id": "e5189884ae96",
    "title": "Meta to raise $20B from bond offering -- Bloomberg",
    "link": "https://seekingalpha.com/news/4662766-meta-to-raise-20b-from-bond-offering---bloomberg?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -3621,7 +3726,7 @@
    "title": "Apple earnings live updates: New CEO John Ternus faces first Wall Street test",
    "link": "https://www.cnbc.com/2026/11/02/apple-aapl-q4-2026-earnings-live-updates.html",
    "summary": "Follow Apple Q4 2026 earnings live for revenue, EPS, iPhone sales, China performance, AI updates, holiday guidance and AAPL stock reaction.",
-   "article_text": "Apple Q4 2026 earnings live updates: Ternus' first call Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu watch now VIDEO 3:49 03:49 Needham's Laura Martin on Apple: 'We need to watch what's happening in China' Squawk on the Street Apple reports fiscal fourth-quarter earnings after the bell on Monday, with new CEO John Ternus expected to address Wall Street in a meaningful way for the first time. Here's what analysts are expecting, according to LSEG. EPS: $1.99 Revenue: $113.39 billion Revenue is expected to increase 11% from $102.5 billion a year earlier. Analysts project $56.59 billion in iPhone sales for the quarter. Wall Street is closely watching iPhone revenue because the report will include eight days of new iPhone 18 Pro sales. But Apple's new flagship device, the iPhone Duo, didn't hit store shelves until the quarter was over, and Apple didn't announce a new entry-level iPhone 18. Apple also raised prices on iPhones by $100, which may have hurt demand in the quarter. Monday's earnings call, set to start at 5 p.m. ET, will be the first with Ternus at the helm. Investors want to hear from him about the company's plans in China after its AI software got approved, as well as the slew of recent product launches and how the company continues to grapple with global shortages of memory and flash storage. Read more CNBC Apple news Apple brings touch to the Mac, ending decades-old stance on touchscreen laptops Apple stock has become an anti-AI trade. Here’s why Apple responds to user reports of broken iPhone Duo screens 56 Min Ago Barclays stays underweight Apple, remains 'cautious on the stock' Analysts at Barclays wrote in an earnings preview over the weekend that they \"remain cautious on the stock given iPhone uncertainties this cycle, limited monetization of AI, and renewed fears on the App Store.\" The firm has an underweight rating on the shares, and said the \"pricing benefits AAPL has been enjoying from the memory backdrop due to its scale and preferential pricing are fading.\" —Ari Levy 2 Hours Ago Concerns about gross margin watch now VIDEO 1:09 01:09 Bank of America forecasts a much weaker December quarter for Apple Fast Money Bank of America analyst Wamsi Mohan said on Friday that his team had a \"conservative outlook\" on earnings because of gross margin concerns and price increases. The analyst pointed out that Apple's gross margins in the September quarter will be boosted by a positive impact from tariff refunds, and that margins could drop in the coming quarters. Apple reported a gross margin of 49.3% in its June quarter, but warned that it would be between 47.5% and 48% in the September period. \"Investor focus will likely be on component cost inflation, durability of gross margin and services revenue growth,\" Mohan wrote in the note. Bank of America maintains a Buy rating on the stock and a price target of $370. — Kif Leswing 3 Hours Ago Tough market for smartphones and PCs due to memory shortage watch now VIDEO 6:17 06:17 Intel faces a 'multi-quarter' issue balancing PC weakness with AI data-center gains: Vivek Arya Squawk Box Apple is competing in a smartphone and PC market that has \"never been worse,\" IDC's Ryan Reith told CNBC. Consumer electronics companies everywhere are grappling with surging prices for computer parts, including memory and flash storage that's used in every smartphone and laptop. Intel on Friday had its worst day on the stock market since the 1970s, dropping 29%, after the company cited PC softness for a disappointing forecast . Many companies have responded to component shortages by raising prices or reducing specifications for current devices. Consumers are holding onto their old computers for far longer, driving sales down. IDC says the smartphone market is set to drop nearly 17% this year based on shipments. PCs could be down 11%. Apple isn't immune. The company raised prices on almost all of its products since executives warned over the summer that the market was in a \"thousand year flood.\" — Kif Leswing 4 Hours Ago No iPhone Duo this quarter, but some iPhone 18 sales watch now VIDEO 2:07 02:07 Apple ramps iPhone Duo production as early screen failures emerge Squawk Box Asia Apple's new $2,000 foldable phone won't have any sales for the quarter, which ended last month. While Apple and Ternus announced new iPhones on Sept. 9, the foldable Duo didn't go on sale until a month later, on Oct 23. Some analysts have theorized that Apple's most committed fans may have been waiting to see the Duo come out before buying it. There will be a few weeks of sales from the iPhone 18 Pro and iPhone 18 Pro Max, which went on sale on Sept. 18. — Kif Leswing 5 Hours Ago Ternus has been everywhere John Ternus, chief executive officer of Apple Inc., speaks during an event in Los Angeles, California, US, on Wednesday, Oct. 28, 2026. Kyle Grillot | Bloomberg | Getty Images Apple investors and customers are still getting to know Ternus, but since he took over for Tim Cook on Sept. 1, the new CEO has embraced his new role as the face of the iPhone company. Ternus' first major appearance came nine days into his tenure, when he unveiled the iPhone Duo at Apple's headquarters. A week later, he was walking the red carpet at the Emmys. He then flew to New York, where he opened the doors at an Apple store to commemorate the new iPhone Pro going on sale. He also went to Austin, Texas, this month to kick off sales of the iPhone Duo, and appeared at an elementary school and an F1 race while on the trip. And he's had a busy media schedule, including an appearance on the cover of Time magazine. Last week, Ternus continued a new style of Apple product introduction in unveiling the first MacBook with a touchscreen using a format he first tried out in the spring. That's when Apple launched its low-cost MacBook Neo. Ternus addressed a crowd of media and analysts, giving a five minute speech interspersed with a few short videos. Investors will get their first in-depth look at Ternus on Monday. He's been on the past few calls, but hasn't given extended remarks, and largely deferred to Cook when asked questions. — Kif Leswing 5 Hours Ago Stock is Wall Street's favorite among the megacaps Apple vs. Nasdaq this year Heading into its earnings report, Apple has emerged as the preferred megacap tech stock on Wall Street. The shares are up 27% this year as of Friday's close, by far outpacing Apple's leading peers. It's also the last among the group (other than Nvidia, which reports next month) to issue quarterly earnings. Investors weren't kind to the hyperscalers over the past two weeks, scrutinizing their hefty expenses and dwindling cash flows. Apple is in a much different category as the iPhone maker has avoided running up huge capital expenditures bills, taking a more measured approach to its AI investing. —Ari Levy",
+   "article_text": "Apple Q4 2026 earnings live updates: Ternus' first call Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu watch now VIDEO 3:49 03:49 Needham's Laura Martin on Apple: 'We need to watch what's happening in China' Squawk on the Street Apple reports fiscal fourth-quarter earnings after the bell on Monday, with new CEO John Ternus expected to address Wall Street in a meaningful way for the first time. Here's what analysts are expecting, according to LSEG. EPS: $1.99 Revenue: $113.39 billion Revenue is expected to increase 11% from $102.5 billion a year earlier. Analysts project $56.59 billion in iPhone sales for the quarter. Wall Street is closely watching iPhone revenue because the report will include eight days of new iPhone 18 Pro sales. But Apple's new flagship device, the iPhone Duo, didn't hit store shelves until the quarter was over, and Apple didn't announce a new entry-level iPhone 18. Apple also raised prices on iPhones by $100, which may have hurt demand in the quarter. Monday's earnings call, set to start at 5 p.m. ET, will be the first with Ternus at the helm. Investors want to hear from him about the company's plans in China after its AI software got approved, as well as the slew of recent product launches and how the company continues to grapple with global shortages of memory and flash storage. Read more CNBC Apple news Apple brings touch to the Mac, ending decades-old stance on touchscreen laptops Apple stock has become an anti-AI trade. Here’s why Apple responds to user reports of broken iPhone Duo screens 1 Hour Ago Barclays stays underweight Apple, remains 'cautious on the stock' Analysts at Barclays wrote in an earnings preview over the weekend that they \"remain cautious on the stock given iPhone uncertainties this cycle, limited monetization of AI, and renewed fears on the App Store.\" The firm has an underweight rating on the shares, and said the \"pricing benefits AAPL has been enjoying from the memory backdrop due to its scale and preferential pricing are fading.\" —Ari Levy 2 Hours Ago Concerns about gross margin watch now VIDEO 1:09 01:09 Bank of America forecasts a much weaker December quarter for Apple Fast Money Bank of America analyst Wamsi Mohan said on Friday that his team had a \"conservative outlook\" on earnings because of gross margin concerns and price increases. The analyst pointed out that Apple's gross margins in the September quarter will be boosted by a positive impact from tariff refunds, and that margins could drop in the coming quarters. Apple reported a gross margin of 49.3% in its June quarter, but warned that it would be between 47.5% and 48% in the September period. \"Investor focus will likely be on component cost inflation, durability of gross margin and services revenue growth,\" Mohan wrote in the note. Bank of America maintains a Buy rating on the stock and a price target of $370. — Kif Leswing 3 Hours Ago Tough market for smartphones and PCs due to memory shortage watch now VIDEO 6:17 06:17 Intel faces a 'multi-quarter' issue balancing PC weakness with AI data-center gains: Vivek Arya Squawk Box Apple is competing in a smartphone and PC market that has \"never been worse,\" IDC's Ryan Reith told CNBC. Consumer electronics companies everywhere are grappling with surging prices for computer parts, including memory and flash storage that's used in every smartphone and laptop. Intel on Friday had its worst day on the stock market since the 1970s, dropping 29%, after the company cited PC softness for a disappointing forecast . Many companies have responded to component shortages by raising prices or reducing specifications for current devices. Consumers are holding onto their old computers for far longer, driving sales down. IDC says the smartphone market is set to drop nearly 17% this year based on shipments. PCs could be down 11%. Apple isn't immune. The company raised prices on almost all of its products since executives warned over the summer that the market was in a \"thousand year flood.\" — Kif Leswing 4 Hours Ago No iPhone Duo this quarter, but some iPhone 18 sales watch now VIDEO 2:07 02:07 Apple ramps iPhone Duo production as early screen failures emerge Squawk Box Asia Apple's new $2,000 foldable phone won't have any sales for the quarter, which ended last month. While Apple and Ternus announced new iPhones on Sept. 9, the foldable Duo didn't go on sale until a month later, on Oct 23. Some analysts have theorized that Apple's most committed fans may have been waiting to see the Duo come out before buying it. There will be a few weeks of sales from the iPhone 18 Pro and iPhone 18 Pro Max, which went on sale on Sept. 18. — Kif Leswing 5 Hours Ago Ternus has been everywhere John Ternus, chief executive officer of Apple Inc., speaks during an event in Los Angeles, California, US, on Wednesday, Oct. 28, 2026. Kyle Grillot | Bloomberg | Getty Images Apple investors and customers are still getting to know Ternus, but since he took over for Tim Cook on Sept. 1, the new CEO has embraced his new role as the face of the iPhone company. Ternus' first major appearance came nine days into his tenure, when he unveiled the iPhone Duo at Apple's headquarters. A week later, he was walking the red carpet at the Emmys. He then flew to New York, where he opened the doors at an Apple store to commemorate the new iPhone Pro going on sale. He also went to Austin, Texas, this month to kick off sales of the iPhone Duo, and appeared at an elementary school and an F1 race while on the trip. And he's had a busy media schedule, including an appearance on the cover of Time magazine. Last week, Ternus continued a new style of Apple product introduction in unveiling the first MacBook with a touchscreen using a format he first tried out in the spring. That's when Apple launched its low-cost MacBook Neo. Ternus addressed a crowd of media and analysts, giving a five minute speech interspersed with a few short videos. Investors will get their first in-depth look at Ternus on Monday. He's been on the past few calls, but hasn't given extended remarks, and largely deferred to Cook when asked questions. — Kif Leswing 5 Hours Ago Stock is Wall Street's favorite among the megacaps Apple vs. Nasdaq this year Heading into its earnings report, Apple has emerged as the preferred megacap tech stock on Wall Street. The shares are up 27% this year as of Friday's close, by far outpacing Apple's leading peers. It's also the last among the group (other than Nvidia, which reports next month) to issue quarterly earnings. Investors weren't kind to the hyperscalers over the past two weeks, scrutinizing their hefty expenses and dwindling cash flows. Apple is in a much different category as the iPhone maker has avoided running up huge capital expenditures bills, taking a more measured approach to its AI investing. —Ari Levy",
    "source": "CNBC Top",
    "category": "markets",
    "type": "markets",
@@ -8922,111 +9027,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-11-02T17:23:12+00:00",
    "tickers": []
-  },
-  {
-   "id": "befaf3a6382a",
-   "title": "Suspected cyberattacks trigger supermarket fridge failures across Europe",
-   "link": "https://biztoc.com/x/3ea2caae3312947f?ref=rss",
-   "summary": "Suspected cyberattacks have triggered temperatures to rise in grocery store refrigeration systems in a growing number of countries across Europe. Overnight temperature spikes were recorded in stores in Belgium, Estonia, Ireland, Luxembourg and Sweden. On Monday, retailers and authorities pointed…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-02T17:23:06+00:00",
-   "tickers": []
-  },
-  {
-   "id": "07ead7303d24",
-   "title": "Virginia Ranked Top 5 State in Nation for Innovation & Research Ecosystem by Area Development",
-   "link": "https://www.prnewswire.com/news-releases/virginia-ranked-top-5-state-in-nation-for-innovation--research-ecosystem-by-area-development-302926729.html",
-   "summary": "National ranking builds on record growth across Virginia's innovation ecosystem. RICHMOND, Va., Nov. 2, 2026 /PRNewswire/ -- The Virginia Innovation Partnership Corporation (VIPC) announced today that Virginia has been ranked #5 in the country for \"Innovation and Research Ecosystem\" in...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "positive",
-   "domain": "prnewswire.com",
-   "published": "2026-11-02T17:23:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "8c7f8c440403",
-   "title": "Goldman Sachs raises Estee Lauder stock price target on strong Q1 results",
-   "link": "https://www.investing.com/news/analyst-ratings/goldman-sachs-raises-estee-lauder-stock-price-target-on-strong-q1-results-93CH-4992507",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-11-02T17:22:47+00:00",
-   "tickers": [
-    "GS"
-   ]
-  },
-  {
-   "id": "ab2c02b6bf6e",
-   "title": "Baird reiterates Lyell Immunopharma stock rating ahead of data",
-   "link": "https://www.investing.com/news/analyst-ratings/baird-reiterates-lyell-immunopharma-stock-rating-ahead-of-data-93CH-4992506",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "analyst",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-02T17:22:45+00:00",
-   "tickers": []
-  },
-  {
-   "id": "da6e4ce5c6dc",
-   "title": "Northwood Space raises $375M Series C at a $2B valuation from a16z and DFJ growth",
-   "link": "https://biztoc.com/x/5b18fb171b6ec5af?ref=rss",
-   "summary": "Space infrastructure company Northwood Space on Monday said it had raised $375 million in a Series C round co-led by Andreessen Horowitz and DFJ Growth, valuing the company at $2 billion. Founded in 2022, Northwood builds antennas, software, and other technologies that help satellites communicate…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-11-02T17:22:39+00:00",
-   "tickers": []
-  },
-  {
-   "id": "2c756b2ab41c",
-   "title": "Stock Market Today: Dow Rallies As Amazon Pops; Oil Stocks Skid On These Hopes (Live Coverage)",
-   "link": "https://biztoc.com/x/6e96a655dddf9c37?ref=rss",
-   "summary": "The Dow Jones Industrial Average and other major stock indexes climbed Monday as oil prices sank and Anthropic revealed soaring quarterly revenue in its updated IPO filing. Anthropic investor Amazon.com (AMZN) popped while Apple (AAPL) fell on the stock market today. Energy stocks were pressured…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-11-02T17:22:38+00:00",
-   "tickers": [
-    "AMZN",
-    "AAPL"
-   ]
-  },
-  {
-   "id": "c97c1a2c8607",
-   "title": "Franklin, Get Ready to Tumble: The Little Gym is Now Open",
-   "link": "https://www.prnewswire.com/news-releases/franklin-get-ready-to-tumble-the-little-gym-is-now-open-302926709.html",
-   "summary": "World's Premier Children's Enrichment & Physical Development Center Celebrated Grand Opening October 26 FRANKLIN, Tenn., Nov. 2, 2026 /PRNewswire/ -- The Little Gym, the world's premier enrichment and physical development center for children ages four months through 12 and part of the...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "negative",
-   "domain": "prnewswire.com",
-   "published": "2026-11-02T17:22:00+00:00",
-   "tickers": [
-    "BEN"
-   ]
   }
  ],
  "ticker_names": {
@@ -9083,7 +9083,6 @@
   "ABT": "Abbott Laboratories",
   "AXSM": "Axsome Therapeutics",
   "TSEM": "Tower Semiconductor",
-  "BEN": "Franklin Resources",
   "BRK-A": "Berkshire Hathaway",
   "IDXX": "IDEXX Laboratories",
   "MRVL": "Marvell Technology",
@@ -9097,6 +9096,7 @@
   "LPX": "Louisiana-Pacific",
   "MU": "Micron Technology",
   "RIVN": "Rivian Automotive",
+  "SOFI": "SoFi Technologies",
   "TAN": "Invesco Solar ETF",
   "CVCO": "Cavco Industries",
   "ENSG": "The Ensign Group",
@@ -9184,6 +9184,7 @@
   "SCI": "Service",
   "SNDK": "Sandisk",
   "WMT": "Walmart",
+  "ABNB": "Airbnb",
   "BULL": "Webull",
   "FISV": "Fiserv",
   "NDAQ": "Nasdaq",
@@ -9194,6 +9195,7 @@
   "SPCX": "SpaceX",
   "TWLO": "Twilio",
   "AMGN": "Amgen",
+  "CHWY": "Chewy",
   "INTC": "Intel",
   "TOST": "Toast",
   "RHHBY": "Roche",
