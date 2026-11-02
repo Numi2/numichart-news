@@ -1,14 +1,513 @@
 {
- "generated": "2026-11-02T22:53:34.210092+00:00",
+ "generated": "2026-11-02T23:00:05.238039+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "354423c3e051",
+   "title": "Apple warns on rising costs from memory chip shortage",
+   "link": "https://www.ft.com/content/f6ad8c32-cacb-48ad-ad85-a9a7edac3f16?syn-25a6b1a6=1",
+   "summary": "Hardware giant predicted robust sales in the holiday season after solid performance in the third quarter",
+   "article_text": "",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "ft.com",
+   "published": "2026-11-02T22:58:51+00:00",
+   "tickers": [
+    "AAPL"
+   ]
+  },
+  {
+   "id": "879d232d36a1",
+   "title": "OpenAI hires former US Army secretary as military seeks to expand AI use",
+   "link": "https://www.ft.com/content/e6b8fd40-ef92-46e8-aeaf-f98dade55a67?syn-25a6b1a6=1",
+   "summary": "Dan Driscoll to join the start-up as senior counsellor for national security modernisation",
+   "article_text": "",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "ft.com",
+   "published": "2026-11-02T22:58:27+00:00",
+   "tickers": []
+  },
+  {
+   "id": "bedea63262be",
+   "title": "Stock Market Today: S&P 500, Nasdaq close lower as tech selloff deepens, but Dow rises and oil prices drop",
+   "link": "https://biztoc.com/x/d1ff48ca453bee06?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-11-02T22:57:20+00:00",
+   "tickers": [
+    "NDAQ"
+   ]
+  },
+  {
+   "id": "8965bf8a2c3d",
+   "title": "Why JPMorgan, Microsoft And Dozens Of Other Blue Chips Are Against The Latest Stock Tokenization Effort",
+   "link": "https://biztoc.com/x/6e8dc96509fa6581?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-02T22:57:15+00:00",
+   "tickers": [
+    "MSFT",
+    "JIRE"
+   ]
+  },
+  {
+   "id": "fa9f40b97a5f",
+   "title": "Brazil selloff extends dismal run for Latin American markets",
+   "link": "https://biztoc.com/x/332ce0f59a106cf4?ref=rss",
+   "summary": "The recent collapse of Brazil’s stock market following leftist President Luiz Inácio Lula da Silva’s reelection has extended a dismal run for Latin American equities, and analysts held out little hope for an imminent rebound. The region once drew major investment inflows as investors chased…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-02T22:56:31+00:00",
+   "tickers": []
+  },
+  {
+   "id": "10f6e3107084",
+   "title": "Palm Beach plane crash footage isn't AI-generated, despite social media claims",
+   "link": "https://biztoc.com/x/955db8b5b3f3bd4d?ref=rss",
+   "summary": "Footage from Palm Beach County, Florida, shows a plane nosediving into the ground at full speed. It looks unreal. So unreal that some social media users say it's fake.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-11-02T22:56:11+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b36f396b2616",
+   "title": "Apple beats revenue estimates in CEO Ternus' first earnings call",
+   "link": "https://biztoc.com/x/8700838026ae6819?ref=rss",
+   "summary": "Apple reported strong revenue growth Monday on sustained demand for its smartphones in CEO John Ternus’ first earnings call atop the iPhone maker. The company showed robust sales growth despite soaring memory costs, which have sandbagged other electronics makers, and which Apple blamed for a $100…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-11-02T22:56:08+00:00",
+   "tickers": [
+    "AAPL"
+   ]
+  },
+  {
+   "id": "83e5265a025b",
+   "title": "Kim Jong-Un’s sister rejects FBI claims linking North Korea to record $6 billion Binance hack: reports",
+   "link": "https://biztoc.com/x/f39d1b29e80feff2?ref=rss",
+   "summary": "North Korea is now reportedly saying it was not behind the hack, despite the FBI finding that North Korean hackers were behind the heist.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-02T22:56:04+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a9adddf2dd9c",
+   "title": "US automakers push for ban on Chinese vehicle imports",
+   "link": "https://biztoc.com/x/ec44139870f61304?ref=rss",
+   "summary": "Major automakers urged US lawmakers to ban Chinese vehicle imports after midterm elections, as Beijing’s car companies rapidly expand in international markets. A US industry representative cited Europe — which has blamed China’s industrial overcapacity for costing European auto sector jobs — as a…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-02T22:56:01+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c74a1f8b4e29",
+   "title": "Real Estate Expert Alex MacWilliam IV Explains Flood Zone Risks for Florida Homebuyers in HelloNation",
+   "link": "https://www.prnewswire.com/news-releases/real-estate-expert-alex-macwilliam-iv-explains-flood-zone-risks-for-florida-homebuyers-in-hellonation-302927040.html",
+   "summary": "The article examines flood maps, property elevation, insurance requirements, and potential expenses buyers should investigate before making an offer. VERO BEACH, Fla., Nov. 2, 2026 /PRNewswire/ -- KEY HIGHLIGHTS FEMA flood maps identify potential hazards, but lower-risk designations do...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-11-02T22:56:00+00:00",
+   "tickers": [
+    "VERO"
+   ]
+  },
+  {
+   "id": "63fbd0c93cde",
+   "title": "The best offices are filling up. Builders aren't following",
+   "link": "https://biztoc.com/x/db7b0dd5e8a00f74?ref=rss",
+   "summary": "Top-tier buildings captured 86% of third-quarter leasing, even as the pipeline for new offices shrank to less than 400,000 square feet.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-02T22:55:57+00:00",
+   "tickers": []
+  },
+  {
+   "id": "deff5b775350",
+   "title": "The Real Reason Behind Marvell’s $115 Billion Mega-Deal Has Nothing to Do With Chips",
+   "link": "https://biztoc.com/x/7cad9d2cddc30b7f?ref=rss",
+   "summary": "Marvell isn’t just buying lasers and optical gear. It’s buying the ability to sell its biggest customers a single, frictionless package instead of a coordination headache—and that strategy applies to any business.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-02T22:55:56+00:00",
+   "tickers": [
+    "MRVL"
+   ]
+  },
+  {
+   "id": "e71d691ce63e",
+   "title": "MAGA Cheers Haley Stevens After Split From Michigan Senate Hopeful El-Sayed",
+   "link": "https://biztoc.com/x/b71d73ec7ebc03de?ref=rss",
+   "summary": "Republicans are rallying behind Democratic Congresswoman Haley Stevens after her shock endorsement of GOP Senate candidate Mike Rogers in Michigan, with House Speaker Mike Johnson praising her decision and President Donald Trump even suggesting she should join the Republican Party. Johnson…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-02T22:55:54+00:00",
+   "tickers": []
+  },
+  {
+   "id": "9c44d11bb5ff",
+   "title": "What’s happening with AO3? Fan fiction readers are not okay as outage drags on longer than planned",
+   "link": "https://biztoc.com/x/098a78434ca18a38?ref=rss",
+   "summary": "The world of fan fiction is bracing for an apocalypse as one the world’s largest repositories of fan-written stories has gone dark—and may not return anytime soon. The panic began on October 29 when Archive of Our Own (AO3), the online library for fan-created stories ranging from Harry Potter and…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-02T22:55:52+00:00",
+   "tickers": []
+  },
+  {
+   "id": "6fd66c991c0c",
+   "title": "Burnham to Urge Debt Reform for Poorest Commonwealth Nations",
+   "link": "https://biztoc.com/x/72b70315a87b4d8b?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-02T22:55:51+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a25b1f856fe3",
+   "title": "Political opposition to data centers mounts in US and abroad",
+   "link": "https://biztoc.com/x/2f18ee2690107601?ref=rss",
+   "summary": "A competitive Texas governor’s race could shape the future of one of the biggest US data center markets, as opposition to the AI buildout goes global. Republican Gov. Greg Abbott has scrambled to revise his earlier pro-data center policies, while his Democratic opponent has pledged a stringent…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-02T22:55:44+00:00",
+   "tickers": [
+    "ABT"
+   ]
+  },
+  {
+   "id": "29bbf450f0e4",
+   "title": "Memory Headwinds Are 'Unprecedented'",
+   "link": "https://biztoc.com/x/7733e7b2547cf5f8?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-02T22:55:40+00:00",
+   "tickers": []
+  },
+  {
+   "id": "7210a7ab1077",
+   "title": "Another judge blocks DOJ ballot demands in California",
+   "link": "https://biztoc.com/x/1a83d75bfa8cdfb7?ref=rss",
+   "summary": "A federal judge on the eve of Election Day barred the Trump administration from demanding California officials set aside ballots from registered voters it suspects are noncitizens, finding the effort likely violates the Constitution. Why it matters: Courts had already rejected the Justice…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-02T22:55:38+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e47414e5ec1b",
+   "title": "Macquarie Quants Pick Point of Law as Melbourne Cup Winner",
+   "link": "https://biztoc.com/x/8e04c35c5d1278d8?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-02T22:55:34+00:00",
+   "tickers": []
+  },
+  {
+   "id": "6f4134b56dfa",
+   "title": "More college grads are finding jobs, but they’re still underemployed",
+   "link": "https://biztoc.com/x/0e87e707934b6efc?ref=rss",
+   "summary": "Unemployment is down for recent graduates, but underemployment is at the highest level since the coronavirus pandemic.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-02T22:55:34+00:00",
+   "tickers": []
+  },
+  {
+   "id": "5fb7220b3725",
+   "title": "America Votes: What To Expect",
+   "link": "https://biztoc.com/x/bcd1a5485179b052?ref=rss",
+   "summary": "America Votes: What To Expect Authored by Lawrence Wilson via The Epoch Times, Democrats appear poised to win control of the House of Representatives and possibly the Senate on Nov. 3 as Republicans labor to overcome a decades-long pattern of midterm losses by any party controlling the White…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-02T22:55:28+00:00",
+   "tickers": []
+  },
+  {
+   "id": "01a6e3ba15a6",
+   "title": "Science Applications International prices $500M senior notes offering due 2034",
+   "link": "https://seekingalpha.com/news/4663042-science-applications-international-prices-500m-senior-notes-offering-due-2034?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "offering",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-02T22:55:27+00:00",
+   "tickers": [
+    "SAIC"
+   ]
+  },
+  {
+   "id": "5cb2d8f552f1",
+   "title": "Grab Boosts Sales, Earnings Forecasts on Rising Ride Demand",
+   "link": "https://biztoc.com/x/f232f5c5338992f7?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-11-02T22:55:23+00:00",
+   "tickers": [
+    "GRAB"
+   ]
+  },
+  {
+   "id": "98bc4962389e",
+   "title": "Academy Sports + Outdoors and Little Debbie® Snacks Spread Holiday Cheer with Exclusive New Magellan Outdoors Collaboration",
+   "link": "https://www.prnewswire.com/news-releases/academy-sports--outdoors-and-little-debbie-snacks-spread-holiday-cheer-with-exclusive-new-magellan-outdoors-collaboration-302927038.html",
+   "summary": "Festive holiday collection helps customers have fun this holiday season KATY, Texas, Nov. 2, 2026 /PRNewswire/ -- Academy Sports + Outdoors (\"Academy\") (Nasdaq: ASO), a leading full-line sporting goods and outdoor recreation retailer, and Little Debbie® Snacks are serving up a sweet new...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-11-02T22:55:00+00:00",
+   "tickers": [
+    "NDAQ",
+    "ASO"
+   ]
+  },
+  {
+   "id": "ec513917f544",
+   "title": "Crude Oil Prices Plummet on Middle East Peace Hopes",
+   "link": "https://www.nasdaq.com/articles/crude-oil-prices-plummet-middle-east-peace-hopes",
+   "summary": "December WTI crude oil (CLZ26 ) closed down -7.66 (-7.36%) on Monday, and December RBOB gasoline (RBZ26 ) closed down -0.2564 (-8.12%). Energy prices plunged on Monday, with Dec WTI crude oil falling to a 2-week low and Dec gasoline dropping to a 3-month nearest-futures low. Crude prices slumped Monday...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-02T22:54:02+00:00",
+   "tickers": []
+  },
+  {
+   "id": "80817edcf616",
+   "title": "Stocks Rally as Crude Oil Sinks on US-Iran Hopes",
+   "link": "https://www.nasdaq.com/articles/stocks-rally-crude-oil-sinks-us-iran-hopes",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) is up +0.74% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +1.04%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +0.74%. December E-mini S&P futures (ESZ26 ) are up +0.72%, and December E-mini Nasdaq futures...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-02T22:54:02+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
+  },
+  {
+   "id": "aac26b94908e",
+   "title": "Wheat Fading Early Gains for Mixed Midday Trade",
+   "link": "https://www.nasdaq.com/articles/wheat-fading-early-gains-mixed-midday-trade",
+   "summary": "The wheat complex is showing mixed midday trade, with contracts fading early gains. Chicago SRW contracts are up 2 cents in the front months. KC HRW futures are fractionally lower in the nearby contracts. MPLS spring wheat is within a penny on either side of unchanged. Monday morning’s Export Inspections...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-11-02T22:54:02+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ad48542a0787",
+   "title": "Slumping Crude Oil Prices Weigh on Sugar",
+   "link": "https://www.nasdaq.com/articles/slumping-crude-oil-prices-weigh-sugar",
+   "summary": "March NY world sugar #11 (SBH27 ) is down -0.23 (-1.19%) today, and December London ICE white sugar #5 (SWZ26 ) is down -6.10 (-1.18%). Sugar prices are falling today, with London sugar sliding to a 5-week low after WTI crude oil (CLZ26 ) plunged -7% to a 1.5-week low....",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-02T22:54:02+00:00",
+   "tickers": [
+    "ICE"
+   ]
+  },
+  {
+   "id": "88b97477f980",
+   "title": "HIMS Deadline: HIMS Investors Have Opportunity to Lead Hims & Hers Health, Inc. Securities Fraud Lawsuit",
+   "link": "https://www.prnewswire.com/news-releases/hims-deadline-hims-investors-have-opportunity-to-lead-hims--hers-health-inc-securities-fraud-lawsuit-302926893.html",
+   "summary": "NEW YORK, Nov. 2, 2026 /PRNewswire/ -- Why: Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities of Hims & Hers Health, Inc. (NYSE: HIMS) between August 4, 2025 and July 29, 2026, both dates inclusive (the \"Class Period\"), of the important November 2, 2026...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "prnewswire.com",
+   "published": "2026-11-02T22:54:00+00:00",
+   "tickers": [
+    "HIMS"
+   ]
+  },
+  {
+   "id": "4e86e5b0f846",
+   "title": "AAR prices $1.92B senior notes at 7.125% and 7.375% for MRO deal",
+   "link": "https://seekingalpha.com/news/4663039-aar-prices-192b-senior-notes-at-7125-and-7375-for-mro-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-02T22:53:32+00:00",
+   "tickers": []
+  },
+  {
+   "id": "3f1dcb56fe05",
+   "title": "Palantir reports booming U.S. commercial revenue growth, topping government for first time",
+   "link": "https://www.cnbc.com/2026/11/02/palantir-pltr-earnings-q3-2026.html",
+   "summary": "Palantir's commercial revenue jumped 148% to $984 million, surpassing government revenue of $953 million.",
+   "article_text": "Palantir (PLTR) earnings Q3 2026 Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Key Points Palantir reported Q3 earnings that topped Wall Street's estimates. U.S. commercial revenue more than doubled and surpassed U.S. government revenue for the first time. The company has seen a boost from heightened demand for artificial intelligence tools. In this article PLTR Follow your favorite stocks CREATE FREE ACCOUNT watch now VIDEO 1:24 01:24 Palantir beats on earnings and revenue, Q3 commercial revenue surpasses government revenue Closing Bell: Overtime Palantir beat Wall Street's third-quarter estimates after the bell on Monday, with U.S. commercial revenue topping government for the first time as businesses adopt more of the company's artificial intelligence tools. Shares dipped about 3% in extended trading. Here's how the company did compared to LSEG estimates: Earnings per share : 44 cents adjusted vs. 41 cents expected Revenue : $2.31 billion vs. $2.18 billion expected Revenue nearly doubled from a year ago and blew past $2 billion for the first time ever, Palantir said. Net income more than doubled to $1.13 billion, or 44 cents per share, from about $476 million, or 18 cents per share. \"I don't believe anyone's had consistent results like this in the history of software AI, ever,\" CEO Alex Karp told CNBC's Seema Mody in an interview, adding that the business is succeeding without salespeople. Palantir has long been known for its strength in the government sector, but its commercial segment caught up in Q3. U.S. commercial revenue jumped 148% to $984 million, surpassing U.S. government revenue of $953 million, which was up 96%. The company's U.S. commercial revenue has more than quintupled over the last two years. Palantir lifted its guidance, saying it now expects U.S. commercial revenue \"in excess of\" $3.56 billion for the full year. Last quarter, the company boosted its forecast to $3.42 billion. The company projects about $2.65 billion in revenue for the fourth quarter and about $8.53 billion for full-year 2026. Karp has openly supported the use of open-weight models and criticized leading AI labs, which he told CNBC earlier this year are forcing businesses to sell their data sovereignty. Karp, on Monday, also reiterated recent calls to nationalize AI labs, calling it the \"only realistic way\" to manage liability. In September, Karp joined major tech CEOs at the White House as calls for regulation mounted following claims from AI researchers that the technology has a more than 10% of killing humanity . \"My message to everybody is: Beware of thinking you can delay the future in AI,\" he told CNBC. \"The future is here. The political ramifications of it are here.\" Palantir stock chart. Read more CNBC tech news Humans are still doing the work behind some AI agents OpenAI pares fundraising goal, now seeking up to $20 billion in latest round Binance resumes withdrawals following $6.3 billion hack, says 90% of stolen user assets are covered Why AI is boosting Meta’s ad business while hurting Google search Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
+   "source": "CNBC Earnings",
+   "category": "earnings",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-11-02T22:53:20+00:00",
+   "tickers": [
+    "PLTR"
+   ]
+  },
+  {
+   "id": "a52742dd262e",
+   "title": "i-80 Gold Reports Third Quarter 2026 Results; Archimedes Underground on Track to Begin Production Mining by Year-End",
+   "link": "https://www.prnewswire.com/news-releases/i-80-gold-reports-third-quarter-2026-results-archimedes-underground-on-track-to-begin-production-mining-by-year-end-302927036.html",
+   "summary": "TORONTO, Nov. 2, 2026 /PRNewswire/ -- i-80 GOLD CORP. (NYSE:IAUX) (TSX:IAU) (\"i-80 Gold\" or the \"Company\") reports its financial and operating results, as well as development highlights, for the three and nine months ended September 30, 2026. \"During the third quarter, we continued to...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-11-02T22:53:00+00:00",
+   "tickers": [
+    "IAU"
+   ]
+  },
+  {
+   "id": "a5617d39e537",
+   "title": "Lotus Technology receives Nasdaq minimum bid price deficiency notice",
+   "link": "https://seekingalpha.com/news/4663041-lotus-technology-receives-nasdaq-minimum-bid-price-deficiency-notice?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-02T22:52:01+00:00",
+   "tickers": [
+    "NDAQ"
+   ]
+  },
   {
    "id": "1a5db7823ec8",
    "title": "Apple shares drop after CEO John Ternus' first earnings report: Live updates",
    "link": "https://www.cnbc.com/2026/11/02/apple-aapl-q4-2026-earnings-live-updates.html",
    "summary": "Follow Apple Q4 2026 earnings live for revenue, EPS, iPhone sales, China performance, AI updates, holiday guidance and AAPL stock reaction.",
-   "article_text": "Apple Q4 2026 earnings live updates: Ternus' first call Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu watch now VIDEO 3:15 03:15 Apple beats on revenue in John Ternus' first quarter as CEO Closing Bell: Overtime Apple reported better-than-expected revenue but came up short of estimates on iPad sales for the fiscal fourth quarter. The stock slid in extended trading. On the earnings call, Apple said that it expected total revenue to grow between 7% and 10% on an annual basis in the December quarter. Here's how the company did compared to analysts' estimates, according to LSEG. EPS: $2.10 vs. $1.99 expected Revenue: $114.48 billion vs. $113.39 billion expected Here's how Apple's most important product lines did: iPhone revenue : $57.58 billion vs. $56.54 billion estimated Mac revenue : $10.79 billion vs. $9.61 billion estimated iPad revenue : $6.23 billion vs. $6.7 billion estimated Other Products revenue : $8.3 billion vs. $9.06 billion estimated Wearables, Home and Accessories revenue : $31.57 billion vs. $31.58 billion estimated Gross margin : 47.9% vs. 47.5% It's Apple's first earnings report since CEO John Ternus took the helm on Sept. 1, succeeding Tim Cook . Revenue increased 12% from $102.5 billion a year earlier, Apple said in a statement on Monday. Apple's iPhone revenue in the quarter only included eight days of new Phone 18 Pro sales. And Apple's new flagship device, the iPhone Duo, didn't hit store shelves until the period was over. Monday's report includes a full quarter of higher-priced Apple products, as the company raised prices across the board in June after it signaled challenges with memory supply and other parts. Apple increased prices on iPhones by $100. The iPhone maker is reckoning with a global memory crunch and a rush for computer components. Apple said on Monday that its memory costs were higher this quarter than in the June period. Still, Ternus said in a statement that Apple had just capped off its \"best fiscal year ever.\" Ternus told CNBC's MacKenzie Sigalos that Apple's growth came in spite of supply constraints and foreign exchange headwinds. \"I think at this point, with everything we've achieved, it just feels like we've never been more confident that the best is yet to come,\" Ternus said. Ternus said that Apple \"reluctantly\" raised prices, which helped it offset component increases. Apple said tariff refunds added 5 cents to earnings per share. Monday's earnings call, set to start at 5 p.m. ET, will be the first with Ternus as CEO. Investors want to hear from him about the company's plans in China after its AI software got approved, as well as the slew of recent product launches and how the company continues to grapple with global shortages of memory and flash storage. Read more CNBC Apple news Apple brings touch to the Mac, ending decades-old stance on touchscreen laptops Apple stock has become an anti-AI trade. Here’s why Apple responds to user reports of broken iPhone Duo screens 10 Min Ago Street doesn't love Apple's guidance At the end of prepared remarks, Apple CFO Kevan Parekh provided a guide for the December quarter. He said that Apple's revenue would grow between 7% and 10%. Analysts polled by LSEG were looking for 11.4%. Apple said that it expected services sales to rise between 8% and 9%, signaling slowing growth. Parekh also said that gross margin would be between 45% and 46%, lower than in the fourth quarter. — Kif Leswing 44 Min Ago CEO John Ternus addresses investors and analysts on earnings call for the first time as Apple chief Ternus is leading Apple's quarterly earnings call for the first time. He started with prepared remarks highlighting the company's packed schedule of product launches since he took over, including new iPhones, Home products, and touch screen laptops. \"This is an amazing time at Apple,\" Ternus said. \"We just completed one of the most prolific launch periods in our history.\" — Kif Leswing 59 Min Ago Ternus points to hardware monetization for Siri AI Apple CEO John Ternus delivers a keynote address during the Apple Experience LA event in Los Angeles, California, on Oct. 28, 2026, introducing new Mac computer models. Frederic J. Brown | AFP | Getty Images Apple released an updated Siri AI during the quarter, a free upgrade for people who own iPhones new enough to support the software. Investors want to know if Apple will offer more AI features through subscriptions or services. Ternus said on Monday that Apple has a \"lot of opportunities\" for monetization. \"One example is on the hardware side, right?\" Ternus said. \"It offers a compelling reason for upgrading or switching.\" — Kif Leswing 1 Hour Ago iPhone remains half of Apple's sales Apple remains synonymous with the iPhone, which accounted for just over half of Apple's sales in the quarter. Sales of iPhones jumped over 17%, capping off four quarters of strong growth behind last year's iPhone 17 models. Ternus said industry research firms reported market share gains for Apple during the quarter. — Kif Leswing 1 Hour Ago Slowest growth for services since 2022 Customers at the Apple Music section of the new Apple Inc. store in Mumbai, India, on Tuesday, April 18, 2023. Dhiraj Singh | Bloomberg | Getty Images The company's profitable services business grew less than 10% during the September quarter, the slowest expansion since 2022. The category includes a wide variety of products and subscriptions, including iCloud storage, App Store fees, AppleCare warranties, and licensing revenue from Google for using its search engine on the Safari browser. \"We saw strong performance in many service categories, with all-time records in video, cloud services, payment services, and advertising, and a September quarter record in music,\" Ternus told CNBC. — Kif Leswing 1 Hour Ago Apple capex remains far below hyperscaler spending Compared to its megacap peers, which are pouring hundreds of billions of dollars into AI capital expenditures, Apple is a light spender. Apple reported $2.24 billion in capex during the quarter, even lower than the $3.33 billion estimated by LSEG. — Kif Leswing 1 Hour Ago 'A new kind of plan' for Home The Apple HomeView, an iPad-like device meant to hang on walls or perch on tabletops that will showcase its AI-upgraded Siri virtual assistant, during a launch of smart home products in New York City, US, October 13, 2026. Shannon Stapleton | Reuters In August, Apple announced a new home product called HomeView that uses AI and a display to show personalized information to multiple users in a family. It's potentially a sign that Apple is going to take its home accessories more seriously under Ternus. For the September quarter, the category, which includes headphones, speakers, and the Apple TV hardware, was a laggard, with sales declining nearly 8% to $8.3 billion, trailing the $9.06 billion average analyst estimate, according to LSEG. \"With the home products, we're really establishing a new kind of plan for our home,\" Ternus told CNBC. — Kif Leswing 1 Hour Ago Strong growth in China Apple's Greater China business grew 21% on an annual basis to $17.53 billion in sales. The region includes the mainland as well as Taiwan and Hong Kong. Apple said the growth was due to iPhone and Mac sales. — Kif Leswing 1 Hour Ago Mac continues surge Apple's Mac division grew the most of any of the product categories during the quarter, with revenue surging nearly 24% on an annual basis to $10.79 billion, topping analyst estimates. Apple has been positioning its Mac lineup of desktops and laptops to provide the company a foothold in AI. It also announced new chips, Mac Studio and Mac Mini models in August. Last week, Apple introduced its first MacBook with a touch screen, although it hasn't hit store shelves yet. Ternus said that Mac growth was attributable to strong sales of its MacBook Neo, its low-cost laptop, and the MacBook Pro. — Kif Leswing 1 Hour Ago iPad continues",
+   "article_text": "Apple Q4 2026 earnings live updates: Ternus' first call Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu watch now VIDEO 3:15 03:15 Apple beats on revenue in John Ternus' first quarter as CEO Closing Bell: Overtime Apple reported better-than-expected revenue but came up short of estimates on iPad sales for the fiscal fourth quarter. The stock slid in extended trading. On the earnings call, Apple said that it expected total revenue to grow between 7% and 10% on an annual basis in the December quarter. Here's how the company did compared to analysts' estimates, according to LSEG. EPS: $2.10 vs. $1.99 expected Revenue: $114.48 billion vs. $113.39 billion expected Here's how Apple's most important product lines did: iPhone revenue : $57.58 billion vs. $56.54 billion estimated Mac revenue : $10.79 billion vs. $9.61 billion estimated iPad revenue : $6.23 billion vs. $6.7 billion estimated Other Products revenue : $8.3 billion vs. $9.06 billion estimated Wearables, Home and Accessories revenue : $31.57 billion vs. $31.58 billion estimated Gross margin : 47.9% vs. 47.5% It's Apple's first earnings report since CEO John Ternus took the helm on Sept. 1, succeeding Tim Cook . Revenue increased 12% from $102.5 billion a year earlier, Apple said in a statement on Monday. Apple's iPhone revenue in the quarter only included eight days of new Phone 18 Pro sales. And Apple's new flagship device, the iPhone Duo, didn't hit store shelves until the period was over. Monday's report includes a full quarter of higher-priced Apple products, as the company raised prices across the board in June after it signaled challenges with memory supply and other parts. Apple increased prices on iPhones by $100. The iPhone maker is reckoning with a global memory crunch and a rush for computer components. Apple said on Monday that its memory costs were higher this quarter than in the June period. Still, Ternus said in a statement that Apple had just capped off its \"best fiscal year ever.\" Ternus told CNBC's MacKenzie Sigalos that Apple's growth came in spite of supply constraints and foreign exchange headwinds. \"I think at this point, with everything we've achieved, it just feels like we've never been more confident that the best is yet to come,\" Ternus said. Ternus said that Apple \"reluctantly\" raised prices, which helped it offset component increases. Apple said tariff refunds added 5 cents to earnings per share. Monday's earnings call, set to start at 5 p.m. ET, will be the first with Ternus as CEO. Investors want to hear from him about the company's plans in China after its AI software got approved, as well as the slew of recent product launches and how the company continues to grapple with global shortages of memory and flash storage. Correction: A prior version of this story had an incorrect forecast for first-quarter guidance. Read more CNBC Apple news Apple brings touch to the Mac, ending decades-old stance on touchscreen laptops Apple stock has become an anti-AI trade. Here’s why Apple responds to user reports of broken iPhone Duo screens 15 Min Ago Street doesn't love Apple's guidance At the end of prepared remarks, Apple CFO Kevan Parekh provided a guide for the December quarter. He said that Apple's revenue would grow between 7% and 10%. Analysts polled by LSEG were looking for 11.4%. Apple said that it expected services sales to rise between 8% and 9%, signaling slowing growth. Parekh also said that gross margin would be between 45% and 46%, lower than in the fourth quarter. — Kif Leswing 50 Min Ago CEO John Ternus addresses investors and analysts on earnings call for the first time as Apple chief Ternus is leading Apple's quarterly earnings call for the first time. He started with prepared remarks highlighting the company's packed schedule of product launches since he took over, including new iPhones, Home products, and touch screen laptops. \"This is an amazing time at Apple,\" Ternus said. \"We just completed one of the most prolific launch periods in our history.\" — Kif Leswing 1 Hour Ago Ternus points to hardware monetization for Siri AI Apple CEO John Ternus delivers a keynote address during the Apple Experience LA event in Los Angeles, California, on Oct. 28, 2026, introducing new Mac computer models. Frederic J. Brown | AFP | Getty Images Apple released an updated Siri AI during the quarter, a free upgrade for people who own iPhones new enough to support the software. Investors want to know if Apple will offer more AI features through subscriptions or services. Ternus said on Monday that Apple has a \"lot of opportunities\" for monetization. \"One example is on the hardware side, right?\" Ternus said. \"It offers a compelling reason for upgrading or switching.\" — Kif Leswing 1 Hour Ago iPhone remains half of Apple's sales Apple remains synonymous with the iPhone, which accounted for just over half of Apple's sales in the quarter. Sales of iPhones jumped over 17%, capping off four quarters of strong growth behind last year's iPhone 17 models. Ternus said industry research firms reported market share gains for Apple during the quarter. — Kif Leswing 1 Hour Ago Slowest growth for services since 2022 Customers at the Apple Music section of the new Apple Inc. store in Mumbai, India, on Tuesday, April 18, 2023. Dhiraj Singh | Bloomberg | Getty Images The company's profitable services business grew less than 10% during the September quarter, the slowest expansion since 2022. The category includes a wide variety of products and subscriptions, including iCloud storage, App Store fees, AppleCare warranties, and licensing revenue from Google for using its search engine on the Safari browser. \"We saw strong performance in many service categories, with all-time records in video, cloud services, payment services, and advertising, and a September quarter record in music,\" Ternus told CNBC. — Kif Leswing 1 Hour Ago Apple capex remains far below hyperscaler spending Compared to its megacap peers, which are pouring hundreds of billions of dollars into AI capital expenditures, Apple is a light spender. Apple reported $2.24 billion in capex during the quarter, even lower than the $3.33 billion estimated by LSEG. — Kif Leswing 1 Hour Ago 'A new kind of plan' for Home The Apple HomeView, an iPad-like device meant to hang on walls or perch on tabletops that will showcase its AI-upgraded Siri virtual assistant, during a launch of smart home products in New York City, US, October 13, 2026. Shannon Stapleton | Reuters In August, Apple announced a new home product called HomeView that uses AI and a display to show personalized information to multiple users in a family. It's potentially a sign that Apple is going to take its home accessories more seriously under Ternus. For the September quarter, the category, which includes headphones, speakers, and the Apple TV hardware, was a laggard, with sales declining nearly 8% to $8.3 billion, trailing the $9.06 billion average analyst estimate, according to LSEG. \"With the home products, we're really establishing a new kind of plan for our home,\" Ternus told CNBC. — Kif Leswing 1 Hour Ago Strong growth in China Apple's Greater China business grew 21% on an annual basis to $17.53 billion in sales. The region includes the mainland as well as Taiwan and Hong Kong. Apple said the growth was due to iPhone and Mac sales. — Kif Leswing 1 Hour Ago Mac continues surge Apple's Mac division grew the most of any of the product categories during the quarter, with revenue surging nearly 24% on an annual basis to $10.79 billion, topping analyst estimates. Apple has been positioning its Mac lineup of desktops and laptops to provide the company a foothold in AI. It also announced new chips, Mac Studio and Mac Mini models in August. Last week, Apple introduced its first MacBook with a touch screen, although it hasn't hit store shelves yet. Ternus said that Mac growth was attributable to strong sales of its",
    "source": "CNBC Earnings",
    "category": "earnings",
    "type": "earnings",
@@ -17,6 +516,66 @@
    "published": "2026-11-02T22:51:36+00:00",
    "tickers": [
     "AAPL"
+   ]
+  },
+  {
+   "id": "e263c9759c4e",
+   "title": "Royce Small-Cap Trust: An 8% Yield That Gets Better With Time",
+   "link": "https://seekingalpha.com/article/4961138-royce-small-cap-trust-an-8-percent-yield-that-gets-better-with-time?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-02T22:51:34+00:00",
+   "tickers": []
+  },
+  {
+   "id": "398bc6cb632a",
+   "title": "Meta: 6.5% Preferreds Issuance",
+   "link": "https://seekingalpha.com/article/4961137-meta-6-5-percent-preferreds-issuance?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-02T22:51:28+00:00",
+   "tickers": [
+    "META"
+   ]
+  },
+  {
+   "id": "572654fab4c4",
+   "title": "First Community Bankshares Consensus Price Target Increased by 11.11% to $51.00",
+   "link": "https://www.nasdaq.com/articles/first-community-bankshares-consensus-price-target-increased-1111-5100",
+   "summary": "The average one-year price target for First Community Bankshares (NASDAQGS:FCBC) has been revised to $51.00 / share. This is an increase of 11.11% from the prior estimate of $45.90 dated October 20, 2026. These figures represent aggregate analyst targets and do not constitute a",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "analyst",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-02T22:50:52+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f1e9bca91df0",
+   "title": "Stagwell Consensus Price Target Raised 20% to $13.11",
+   "link": "https://www.nasdaq.com/articles/stagwell-consensus-price-target-raised-20-1311",
+   "summary": "The average one-year price target for Stagwell (NASDAQGS:STGW) (DB:6IY) has been revised to $13.11 / share. This is an increase of 20.00% from the prior estimate of $10.93 dated October 20, 2026. These figures represent aggregate analyst targets compiled by Fintel and do not cons",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-11-02T22:50:33+00:00",
+   "tickers": [
+    "DB"
    ]
   },
   {
@@ -31,6 +590,113 @@
    "sentiment": "negative",
    "domain": "prnewswire.com",
    "published": "2026-11-02T22:50:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "6a0857ccd85b",
+   "title": "J-Star Holding shareholders approve 1-for-10 share consolidation, capital restructuring",
+   "link": "https://seekingalpha.com/news/4663038-j-star-holding-shareholders-approve-1-forminus-10-share-consolidation-capital-restructuring?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-02T22:49:22+00:00",
+   "tickers": []
+  },
+  {
+   "id": "1b13cab85780",
+   "title": "Powell Industries: Data Centers Risk Offsetting Electrification Growth - But Watch Closely",
+   "link": "https://seekingalpha.com/article/4961135-powell-industries-data-centers-risk-offsetting-electrification-growth-but-watch?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-02T22:48:55+00:00",
+   "tickers": [
+    "POWL"
+   ]
+  },
+  {
+   "id": "93d66f076c2b",
+   "title": "Tighter ICE Inventories Lift Coffee Prices",
+   "link": "https://www.nasdaq.com/articles/tighter-ice-inventories-lift-coffee-prices",
+   "summary": "December arabica coffee (KCZ26 ) closed up +4.90 (+1.71) on Monday, and January ICE robusta coffee (RMF27 ) closed up +37 (+1.15%). Coffee prices rose sharply on Monday, with robusta climbing to a 1-week high. Tight coffee inventories are underpinning prices. ICE arabica inventories fell to a 1.5-month low of...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-02T22:48:27+00:00",
+   "tickers": [
+    "ICE"
+   ]
+  },
+  {
+   "id": "8cf69f0ceeb3",
+   "title": "Dollar Falls with Crude Oil Prices and Bond Yields",
+   "link": "https://www.nasdaq.com/articles/dollar-falls-crude-oil-prices-and-bond-yields",
+   "summary": "The dollar index (DXY00 ) tumbled to a 1-month low on Monday and finished down by -0.13%. The dollar fell as Monday’s -7% plunge in crude oil prices eased inflation expectations, which could persuade the Fed to ease monetary policy, a bearish factor for the dollar. The dollar was also...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-11-02T22:48:27+00:00",
+   "tickers": []
+  },
+  {
+   "id": "1531ca922169",
+   "title": "Cotton Facing Midday Weakness",
+   "link": "https://www.nasdaq.com/articles/cotton-facing-midday-weakness-0",
+   "summary": "Cotton futures are down 40 to 52 points across most contracts on Monday, with crude oil adding some spillover pressure. Crude oil is falling $8.20 per barrel on the session, with the US dollar index $0.210 lower. The large managed money speculators and cotton futures and options cut 10,276 contracts...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-02T22:48:27+00:00",
+   "tickers": []
+  },
+  {
+   "id": "5fc95d432725",
+   "title": "Stocks Rebound as Chipmakers Recover and Crude Oil Plunges",
+   "link": "https://www.nasdaq.com/articles/stocks-rebound-chipmakers-recover-and-crude-oil-plunges",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) is up +0.62% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +1.01%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +0.69%. December E-mini S&P futures (ESZ26 ) are up +0.58%, and December E-mini Nasdaq futures...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-11-02T22:48:26+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
+  },
+  {
+   "id": "ab9faebeef08",
+   "title": "Dollar Slides with Crude Oil Prices and Bond Yields",
+   "link": "https://www.nasdaq.com/articles/dollar-slides-crude-oil-prices-and-bond-yields",
+   "summary": "The dollar index (DXY00 ) tumbled to a 1-month low today and is down by -0.22%. Today’s -6% plunge in crude oil prices has eased inflation expectations, which could persuade the Fed to ease monetary policy, a bearish factor for the dollar. Also, today’s stock recovery has reduced demand for...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-11-02T22:48:26+00:00",
    "tickers": []
   },
   {
@@ -198,6 +864,20 @@
    ]
   },
   {
+   "id": "f95006c7e146",
+   "title": "Federal Home Loan Mortgage Corporation - Preferred Stock Price Target Decreased by 31.47% to $19.90",
+   "link": "https://www.nasdaq.com/articles/federal-home-loan-mortgage-corporation-preferred-stock-price-target-decreased-3147-1990",
+   "summary": "The average one-year price target for Federal Home Loan Mortgage Corporation - Preferred Stock (OTCPK:FMCCN) has been revised to $19.90 / share. This is a decrease of 31.47% from the prior estimate of $29.05 dated January 13, 2026. These figures represent aggrega",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "analyst",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-02T22:43:47+00:00",
+   "tickers": []
+  },
+  {
    "id": "01543c3752a2",
    "title": "Mid-America Apartment Communities prices $350M senior notes offering",
    "link": "https://seekingalpha.com/news/4663037-mid-america-apartment-communities-prices-350m-senior-notes-offering?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -296,6 +976,37 @@
    "domain": "biztoc.com",
    "published": "2026-11-02T22:41:37+00:00",
    "tickers": []
+  },
+  {
+   "id": "5d990fa7b77e",
+   "title": "Hovde Group Upgrades First Carolina Financial Services to Outperform from Market Perform",
+   "link": "https://www.nasdaq.com/articles/hovde-group-upgrades-first-carolina-financial-services-outperform-market-perform",
+   "summary": "Fintel reports that on November 2, 2026, Hovde Group upgraded their outlook for First Carolina Financial Services (NYSE:FCBM) from Market Perform to Outperform. This rating action follows Hovde Group's prior action on July 17, 2026, when the firm initiated coverage on the company",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-11-02T22:41:26+00:00",
+   "tickers": []
+  },
+  {
+   "id": "bd0aa147d209",
+   "title": "Flagstar Bank, National Association Consensus Price Target Lowered by 13.69% to $13.57",
+   "link": "https://www.nasdaq.com/articles/flagstar-bank-national-association-consensus-price-target-lowered-1369-1357",
+   "summary": "The average one-year price target for Flagstar Bank, National Association (NYSE:FLG) (DB:QC10) has been revised to $13.57 / share, as of the data date of October 30, 2026. This is a decrease of 13.69% from the prior estimate of $15.72 dated October 20, 2026. These figures represe",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "analyst",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-02T22:41:05+00:00",
+   "tickers": [
+    "FLG",
+    "DB"
+   ]
   },
   {
    "id": "2aee65910207",
@@ -579,6 +1290,22 @@
    "tickers": []
   },
   {
+   "id": "a25ca5229b59",
+   "title": "TPG RE Finance Trust, Inc. - Preferred Stock Price Target Decreased by 10.67% to $23.64",
+   "link": "https://www.nasdaq.com/articles/tpg-re-finance-trust-inc-preferred-stock-price-target-decreased-1067-2364",
+   "summary": "The average one-year price target for TPG RE Finance Trust, Inc. - Preferred Stock (NYSE:TRTX.PRC) has been revised to $23.64 / share. This is a decrease of 10.67% from the prior estimate of $26.47 dated October 22, 2026. These figures represent aggregate analyst",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "analyst",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-02T22:39:16+00:00",
+   "tickers": [
+    "TPG"
+   ]
+  },
+  {
    "id": "8e9f960ea149",
    "title": "Lightbridge Corporation (LTBR) Q3 2026 Earnings Call Transcript",
    "link": "https://seekingalpha.com/article/4961141-lightbridge-corporation-ltbr-q3-2026-earnings-call-transcript?source=feed_all_articles",
@@ -607,22 +1334,6 @@
    "tickers": [
     "PEG",
     "SCI"
-   ]
-  },
-  {
-   "id": "3f1dcb56fe05",
-   "title": "Palantir reports booming U.S. commercial revenue growth, topping government for first time",
-   "link": "https://www.cnbc.com/2026/11/02/palantir-pltr-earnings-q3-2026.html",
-   "summary": "Palantir's commercial revenue jumped 148% to $984 million, surpassing government revenue of $953 million.",
-   "article_text": "Palantir (PLTR) earnings Q3 2026 Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Key Points Palantir reported Q3 earnings that topped Wall Street's estimates. U.S. commercial revenue more than doubled and surpassed U.S. government revenue for the first time. The company has seen a boost from heightened demand for artificial intelligence tools. In this article PLTR Follow your favorite stocks CREATE FREE ACCOUNT watch now VIDEO 1:24 01:24 Palantir beats on earnings and revenue, Q3 commercial revenue surpasses government revenue Closing Bell: Overtime Palantir beat Wall Street's third-quarter estimates after the bell on Monday, with U.S. commercial revenue topping government for the first time as businesses adopt more of the company's artificial intelligence tools. Shares dipped about 4% in extended trading. Here's how the company did compared to LSEG estimates: Earnings per share : 44 cents adjusted vs. 41 cents expected Revenue : $2.31 billion vs. $2.18 billion expected Revenue nearly doubled from a year ago and blew past $2 billion for the first time ever, Palantir said. Net income more than doubled to $1.13 billion, or 44 cents per share, from about $476 million, or 18 cents per share. \"I don't believe anyone's had consistent results like this in the history of software AI, ever,\" CEO Alex Karp told CNBC's Seema Mody in an interview, adding that the business is succeeding without salespeople. Palantir has long been known for its strength in the government sector, but its commercial segment caught up in Q3. U.S. commercial revenue jumped 148% to $984 million, surpassing U.S. government revenue of $953 million, which was up 96%. The company's U.S. commercial revenue has more than quintupled over the last two years. Palantir lifted its guidance, saying it now expects U.S. commercial revenue \"in excess of\" $3.56 billion for the full year. Last quarter, the company boosted its forecast to $3.42 billion. The company projects about $2.65 billion in revenue for the fourth quarter and about $8.53 billion for full-year 2026. Karp has openly supported the use of open-weight models and criticized leading AI labs, which he told CNBC earlier this year are forcing businesses to sell their data sovereignty. Karp, on Monday, also reiterated recent calls to nationalize AI labs, calling it the \"only realistic way\" to manage liability. In September, Karp joined major tech CEOs at the White House as calls for regulation mounted following claims from AI researchers that the technology has a more than 10% of killing humanity . \"My message to everybody is: Beware of thinking you can delay the future in AI,\" he told CNBC. \"The future is here. The political ramifications of it are here.\" Palantir stock chart. Read more CNBC tech news Humans are still doing the work behind some AI agents OpenAI pares fundraising goal, now seeking up to $20 billion in latest round Binance resumes withdrawals following $6.3 billion hack, says 90% of stolen user assets are covered Why AI is boosting Meta’s ad business while hurting Google search Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
-   "source": "CNBC Earnings",
-   "category": "earnings",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-11-02T22:38:15+00:00",
-   "tickers": [
-    "PLTR"
    ]
   },
   {
@@ -1403,20 +2114,6 @@
    "tickers": []
   },
   {
-   "id": "ec513917f544",
-   "title": "Crude Oil Prices Plummet on Middle East Peace Hopes",
-   "link": "https://www.nasdaq.com/articles/crude-oil-prices-plummet-middle-east-peace-hopes",
-   "summary": "December WTI crude oil (CLZ26 ) closed down -7.66 (-7.36%) on Monday, and December RBOB gasoline (RBZ26 ) closed down -0.2564 (-8.12%). Energy prices plunged on Monday, with Dec WTI crude oil falling to a 2-week low and Dec gasoline dropping to a 3-month nearest-futures low. Crude prices slumped Monday...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-02T22:24:27+00:00",
-   "tickers": []
-  },
-  {
    "id": "8e40dacb6fc1",
    "title": "Warm US Temps Undercut Nat-Gas Prices",
    "link": "https://www.nasdaq.com/articles/warm-us-temps-undercut-nat-gas-prices",
@@ -1445,39 +2142,6 @@
    "tickers": [
     "ICE"
    ]
-  },
-  {
-   "id": "80817edcf616",
-   "title": "Stocks Rally as Crude Oil Sinks on US-Iran Hopes",
-   "link": "https://www.nasdaq.com/articles/stocks-rally-crude-oil-sinks-us-iran-hopes",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) is up +0.74% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +1.04%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +0.74%. December E-mini S&P futures (ESZ26 ) are up +0.72%, and December E-mini Nasdaq futures...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-02T22:24:26+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
-   ]
-  },
-  {
-   "id": "aac26b94908e",
-   "title": "Wheat Fading Early Gains for Mixed Midday Trade",
-   "link": "https://www.nasdaq.com/articles/wheat-fading-early-gains-mixed-midday-trade",
-   "summary": "The wheat complex is showing mixed midday trade, with contracts fading early gains. Chicago SRW contracts are up 2 cents in the front months. KC HRW futures are fractionally lower in the nearby contracts. MPLS spring wheat is within a penny on either side of unchanged. Monday morning’s Export Inspections...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-11-02T22:24:26+00:00",
-   "tickers": []
   },
   {
    "id": "57da99edc2b9",
@@ -1674,52 +2338,6 @@
    "tickers": [
     "ICE"
    ]
-  },
-  {
-   "id": "93d66f076c2b",
-   "title": "Tighter ICE Inventories Lift Coffee Prices",
-   "link": "https://www.nasdaq.com/articles/tighter-ice-inventories-lift-coffee-prices",
-   "summary": "December arabica coffee (KCZ26 ) closed up +4.90 (+1.71) on Monday, and January ICE robusta coffee (RMF27 ) closed up +37 (+1.15%). Coffee prices rose sharply on Monday, with robusta climbing to a 1-week high. Tight coffee inventories are underpinning prices. ICE arabica inventories fell to a 1.5-month low of...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-02T22:18:51+00:00",
-   "tickers": [
-    "ICE"
-   ]
-  },
-  {
-   "id": "ad48542a0787",
-   "title": "Slumping Crude Oil Prices Weigh on Sugar",
-   "link": "https://www.nasdaq.com/articles/slumping-crude-oil-prices-weigh-sugar",
-   "summary": "March NY world sugar #11 (SBH27 ) is down -0.23 (-1.19%) today, and December London ICE white sugar #5 (SWZ26 ) is down -6.10 (-1.18%). Sugar prices are falling today, with London sugar sliding to a 5-week low after WTI crude oil (CLZ26 ) plunged -7% to a 1.5-week low....",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-02T22:18:51+00:00",
-   "tickers": [
-    "ICE"
-   ]
-  },
-  {
-   "id": "8cf69f0ceeb3",
-   "title": "Dollar Falls with Crude Oil Prices and Bond Yields",
-   "link": "https://www.nasdaq.com/articles/dollar-falls-crude-oil-prices-and-bond-yields",
-   "summary": "The dollar index (DXY00 ) tumbled to a 1-month low on Monday and finished down by -0.13%. The dollar fell as Monday’s -7% plunge in crude oil prices eased inflation expectations, which could persuade the Fed to ease monetary policy, a bearish factor for the dollar. The dollar was also...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-11-02T22:18:51+00:00",
-   "tickers": []
   },
   {
    "id": "c5a4ef99c105",
@@ -3796,25 +4414,6 @@
    ]
   },
   {
-   "id": "5fc95d432725",
-   "title": "Stocks Rebound as Chipmakers Recover and Crude Oil Plunges",
-   "link": "https://www.nasdaq.com/articles/stocks-rebound-chipmakers-recover-and-crude-oil-plunges",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) is up +0.62% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +1.01%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +0.69%. December E-mini S&P futures (ESZ26 ) are up +0.58%, and December E-mini Nasdaq futures...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-11-02T21:49:30+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
-   ]
-  },
-  {
    "id": "e7ea328ba180",
    "title": "Equitable Holdings Non-GAAP EPS of $2.13 beats by $0.27, revenue of $3.88B misses by $80M",
    "link": "https://seekingalpha.com/news/4662984-equitable-holdings-non-gaap-eps-of-2_13-beats-by-0_27-revenue-of-3_88b-misses-by-80m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -4162,20 +4761,6 @@
    "tickers": []
   },
   {
-   "id": "ab9faebeef08",
-   "title": "Dollar Slides with Crude Oil Prices and Bond Yields",
-   "link": "https://www.nasdaq.com/articles/dollar-slides-crude-oil-prices-and-bond-yields",
-   "summary": "The dollar index (DXY00 ) tumbled to a 1-month low today and is down by -0.22%. Today’s -6% plunge in crude oil prices has eased inflation expectations, which could persuade the Fed to ease monetary policy, a bearish factor for the dollar. Also, today’s stock recovery has reduced demand for...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-11-02T21:43:05+00:00",
-   "tickers": []
-  },
-  {
    "id": "e8c57d3cc72b",
    "title": "Information Services Group: 3 Key Takeaways for Long-Term Investors",
    "link": "https://www.nasdaq.com/articles/information-services-group-3-key-takeaways-long-term-investors",
@@ -4319,6 +4904,20 @@
    "sentiment": "positive",
    "domain": "nasdaq.com",
    "published": "2026-11-02T21:40:23+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b3a44d4893b3",
+   "title": "FirstFT: Big majority of US voters disapprove of Trump’s handling of inflation, according to FT poll",
+   "link": "https://www.ft.com/content/65982705-e3f3-4dfe-8d5d-39809f8a1103?syn-25a6b1a6=1",
+   "summary": "Also in today’s newsletter: Anthropic reveals $900bn AI spending commitments and European supermarket freezers overheat in fresh cyber attack",
+   "article_text": "",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "ft.com",
+   "published": "2026-11-02T21:40:13+00:00",
    "tickers": []
   },
   {
@@ -8356,627 +8955,26 @@
    "domain": "prnewswire.com",
    "published": "2026-11-02T21:01:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "49e7bc440808",
-   "title": "REI Co-op Continues to Opt Outside on Black Friday",
-   "link": "https://www.prnewswire.com/news-releases/rei-co-op-continues-to-opt-outside-on-black-friday-302926942.html",
-   "summary": "On Friday, Nov. 27, the specialty outdoor retailer will once again give 12,000 employees a paid day off, inviting millions of members to trade shopping lines for time outdoors. SEATTLE, Nov. 2, 2026 /PRNewswire/ -- REI Co-op will once again close its doors on Black Friday, continuing a...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-11-02T21:01:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "f9c77f5300f0",
-   "title": "INOVIO to Participate in Upcoming Scientific Conferences",
-   "link": "https://www.prnewswire.com/news-releases/inovio-to-participate-in-upcoming-scientific-conferences-302926885.html",
-   "summary": "PLYMOUTH MEETING, Pa., Nov. 2, 2026 /PRNewswire/ -- INOVIO (NASDAQ: INO), a biotechnology company focused on developing and commercializing DNA medicines to help treat and protect people from HPV-related diseases, cancer and infectious diseases, today announced that it will participate in...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-11-02T21:01:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "67db38a18eb6",
-   "title": "Lumentum CEO touts 'enormous' opportunity in massive AI connectivity deal with Marvell",
-   "link": "https://www.cnbc.com/2026/11/02/marvell-lumentum-ai-deal.html",
-   "summary": "The AI infrastructure deal is expected to close during the first half of 2028.",
-   "article_text": "Marvell to buy Lumentum in all-stock deal Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Key Points Marvell will acquire Lumentum in an all-stock transaction. The deal will expand Marvell's push into optical connectivity for artificial intelligence data centers. Marvell's takeover marks one of the most significant bets on AI in 2026. In this article MRVL LITE Follow your favorite stocks CREATE FREE ACCOUNT watch now VIDEO 4:41 04:41 Marvell CEO Matt Murphy on Lumentum deal: We're creating the 'category leader in AI connectivity' Squawk on the Street Marvell Technology 's deal for optical components maker Lumentum will create an \"enormous\" opportunity to address growing connectivity demands from the artificial intelligence infrastructure buildout, Lumentum CEO Michael Hurlston told CNBC on Monday. \"You need scale-up technology that needs semiconductors and optical working seamlessly together,\" Marvell CEO Matt Murphy told CNBC's \"Squawk on the Street.\" \"We are going to create a new category of company here.\" Since the tie-up is a fixed-ratio deal with no cash, the value will depend on the price of Marvell shares. The company said the transaction has an implied enterprise value of $115 billion for Lumentum, in a release. Marvell shares slumped 13% in trading Monday, while Lumentum's stock sank nearly 19%. But both stocks have been huge winners in the artificial intelligence boom, with Marvell more than doubling in the past year, prior to Monday's sell-off, and Lumentum quadrupling over that stretch. Through the acquisition, Marvell said it can combine electrical and optical technologies to meet accelerating and shifting AI connectivity demands across regions and systems. Companies are increasingly relying on optical connections to piece together chips used to run and train large language models. \"We're actually going to create solutions around those that are highly sticky, and the reason that they're sold out is because the demand is exploding, and we don't see that changing anytime soon,\" Murphy said. Read more CNBC tech news Humans are still doing the work behind some AI agents OpenAI pares fundraising goal, now seeking up to $20 billion in latest round Binance resumes withdrawals following $6.3 billion hack, says 90% of stolen user assets are covered Why AI is boosting Meta’s ad business while hurting Google search Lumentum shareholders will receive 4.5 Marvell shares for each Lumentum share under the agreement. The deal is expected to close during the first half of 2028. Marvell's takeover marks one of the most significant bets on AI in 2026 and comes despite recent concerns over the long-term sustainability of infrastructure spending. This isn't the company's first bet on AI growth. This year, the company closed a multibillion-dollar deal for Celestial AI, a startup focused on optical interconnectivity technology. Marvell 's Murphy also shot down concerns about Nvidia's circular dealmaking, given the leading AI chipmaker's recent multibillion-dollar investments in both companies. In a bid to further support the data center infrastructure that houses its AI chips, Nvidia has positioned itself as a central cog in a network of related companies, investing in several technology companies that purchase its chips or neoclouds that rent out computing capacity. That's sparked criticism that companies like Nvidia are virtually funding themselves by taking stakes in customers. \"This is a double down on supporting Nvidia, who is the ecosystem leader in this area,\" Murphy told CNBC. \"We're very committed to that partnership, and I think having two of the key suppliers come together, that support that ecosystem, is going to be a big benefit for them.\" Marvell has seen its market value more than triple over the last three years, buoyed by unrelenting AI enthusiasm. Lumentum's stock has more than doubled in 2026 alone. watch now VIDEO 3:44 03:44 Applied Digital CEO Wes Cummins on Elon Musk’s 'guppy-level death' prediction for 200-plus neoclouds Squawk on the Street CORRECTION: This story has been updated to reflect that Lumentum CEO Michael Hurlston described the deal as an 'enormous' opportunity. A previous version of this story incorrectly cited the Marvell CEO. Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-11-02T21:00:59+00:00",
-   "tickers": [
-    "LITE",
-    "MRVL"
-   ]
-  },
-  {
-   "id": "862ba8893a7d",
-   "title": "Trump raises doubts about renewed attacks on Iran",
-   "link": "https://www.investing.com/news/commodities-news/trump-raises-doubts-about-renewed-attacks-on-iran-4992689",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-11-02T21:00:24+00:00",
-   "tickers": []
-  },
-  {
-   "id": "092d43ea64e8",
-   "title": "ZIEGLER CLOSES LONG-TERM FHA/HUD FINANCING FOR MAGNOLIA CROSSING, SECURING THE NEXT CHAPTER OF ITS MISSION-DRIVEN SENIOR LIVING MODEL",
-   "link": "https://www.prnewswire.com/news-releases/ziegler-closes-long-term-fhahud-financing-for-magnolia-crossing-securing-the-next-chapter-of-its-mission-driven-senior-living-model-302924619.html",
-   "summary": "CHICAGO, Nov. 2, 2026 /PRNewswire/ -- Ziegler is pleased to announce the successful closing of a long-term FHA/HUD Section 232/223(f) financing transaction that refinances the community's existing debt and positions Magnolia Crossing for continued growth, stability, and mission...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-11-02T21:00:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b7f4f4df9b6a",
-   "title": "Healthcare Services Group stock hits 52-week high at $25.75",
-   "link": "https://www.investing.com/news/company-news/healthcare-services-group-stock-hits-52week-high-at-2575-93CH-4992686",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-02T20:59:19+00:00",
-   "tickers": []
-  },
-  {
-   "id": "fad97b1c08f2",
-   "title": "TMC stock hits 52-week low at 2.33 USD",
-   "link": "https://www.investing.com/news/company-news/tmc-stock-hits-52week-low-at-233-usd-93CH-4992685",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-02T20:58:45+00:00",
-   "tickers": [
-    "TMC"
-   ]
-  },
-  {
-   "id": "df1161fcc127",
-   "title": "Liberty Energy stock hits 52-week low at 14.76 USD",
-   "link": "https://www.investing.com/news/company-news/liberty-energy-stock-hits-52week-low-at-1476-usd-93CH-4992684",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-02T20:58:32+00:00",
-   "tickers": [
-    "LBRT"
-   ]
-  },
-  {
-   "id": "742b9d481d01",
-   "title": "Napco Security Technologies, Inc. (NSSC) Q1 2027 Earnings Call Transcript",
-   "link": "https://seekingalpha.com/article/4961119-napco-security-technologies-inc-nssc-q1-2027-earnings-call-transcript?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-02T20:58:26+00:00",
-   "tickers": []
-  },
-  {
-   "id": "1a5ee94da876",
-   "title": "Copper And Tin Production Problems",
-   "link": "https://seekingalpha.com/article/4961117-copper-tin-production-problems?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-02T20:58:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "8a55025de0ba",
-   "title": "Entergy (ETR) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/entergy-etr-q3-2026-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-02T20:57:57+00:00",
-   "tickers": [
-    "ETR"
-   ]
-  },
-  {
-   "id": "926c21dbce59",
-   "title": "I bonds now pay 5.51% — but there are trade-offs. What to know before buying",
-   "link": "https://www.cnbc.com/2026/11/02/i-bonds-rate.html",
-   "summary": "I bonds are now paying 5.51%. Here are some key things to know before investing, according to financial experts.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-11-02T20:57:50+00:00",
-   "tickers": []
-  },
-  {
-   "id": "abc7648644d1",
-   "title": "Coffee Prices Climb on Tighter ICE Inventories",
-   "link": "https://www.nasdaq.com/articles/coffee-prices-climb-tighter-ice-inventories",
-   "summary": "December arabica coffee (KCZ26 ) is up +6.50 (+2.26) today, and January ICE robusta coffee (RMF27 ) is up +43 (+1.34%). Coffee prices are sharply higher today, with robusta climbing to a 1-week high. Tight coffee inventories are underpinning prices. ICE arabica inventories fell to a 1.5-month low of 222,035...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-11-02T20:57:19+00:00",
-   "tickers": [
-    "ICE"
-   ]
-  },
-  {
-   "id": "b4a5ffa28f4e",
-   "title": "Orchid Island Capital Consensus Price Target Decreased 20% to $6.12",
-   "link": "https://www.nasdaq.com/articles/orchid-island-capital-consensus-price-target-decreased-20-612",
-   "summary": "The average one-year price target for Orchid Island Capital (NYSE:ORC) (DB:45U0) has been revised to $6.12 / share. This is a decrease of 20.00% from the prior estimate of $7.65 dated October 20, 2026. These figures represent aggregate analyst targets compiled by Fintel, not a re",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "analyst",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-02T20:56:53+00:00",
-   "tickers": [
-    "ORC",
-    "DB"
-   ]
-  },
-  {
-   "id": "31ba70e22971",
-   "title": "Martha Stewart Apologizes for Homeless Halloween Costume",
-   "link": "https://www.nytimes.com/2026/11/02/style/martha-stewart-homeless-halloween-costume-apology.html",
-   "summary": "Stewart, the media mogul and entrepreneur, had posted a photo of a costume with tattered clothes and a sign asking for help.",
-   "article_text": "",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "nytimes.com",
-   "published": "2026-11-02T20:54:59+00:00",
-   "tickers": []
-  },
-  {
-   "id": "4ebf50c453b3",
-   "title": "US petrol prices dip ahead of midterms as voters eye costs",
-   "link": "https://biztoc.com/x/7abefa3af48527a2?ref=rss",
-   "summary": "Petrol prices have dipped amid renewed diplomatic efforts to end the US-Israel war on Iran, but remain high ahead of the United States midterm elections, as the cost of living remains a central issue for voters. On Monday, the average price for a gallon (3.78 litres) of regular petrol was $4.17,…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-02T20:54:32+00:00",
-   "tickers": []
-  },
-  {
-   "id": "dee8c0ba511c",
-   "title": "Millennium pulls over $1.5 billion from two external hedge funds, Bloomberg says",
-   "link": "https://www.investing.com/news/stock-market-news/millennium-pulls-over-15-billion-from-two-external-hedge-funds-bloomberg-says-4992682",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-02T20:54:10+00:00",
-   "tickers": []
-  },
-  {
-   "id": "430abb0b13cf",
-   "title": "Wall Street just got a candid look at who is winning the AI race",
-   "link": "https://biztoc.com/x/57e35ad312adf24c?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-02T20:54:08+00:00",
-   "tickers": []
-  },
-  {
-   "id": "4af554a3e165",
-   "title": "Current price of silver as of Monday, Nov. 2, 2026",
-   "link": "https://biztoc.com/x/fd53709e46eee558?ref=rss",
-   "summary": "At 6:30 a.m. Eastern Time today, silver was valued at $50.26 per ounce. That’s a 64-cent uptick from the same time yesterday and more than a $2 gain over the past year. Historical silver performance Silver is not a get-rich-quick investment. It tends to far underperform traditional stocks over the…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-02T20:54:07+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6acd3302fe4e",
-   "title": "Major automakers urge US Congress to pass permanent ban on Chinese vehicles",
-   "link": "https://biztoc.com/x/19b8ab585ebfddb2?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-02T20:54:02+00:00",
-   "tickers": []
-  },
-  {
-   "id": "5e7292852686",
-   "title": "ProShares Ultra Consumer Discretionary Breaks Above 200-Day Moving Average - Bullish for UCC",
-   "link": "https://www.nasdaq.com/articles/proshares-ultra-consumer-discretionary-breaks-above-200-day-moving-average-bullish-ucc",
-   "summary": "In trading on Monday, shares of the ProShares Ultra Consumer Discretionary ETF (Symbol: UCC) crossed above their 200 day moving average of $46.92, changing hands as high as $47.73 per share. ProShares Ultra Consumer Discretionary shares are currently trading up about 4.8% on th",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-02T20:53:56+00:00",
-   "tickers": [
-    "BLSH"
-   ]
-  },
-  {
-   "id": "df5369c9f2cd",
-   "title": "Marvell, Lumentum, Oracle, SpaceX, Rivian, Apple, Palantir, and More Stocks That Explain Today’s Market",
-   "link": "https://biztoc.com/x/16dd5a2b208f9b48?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-02T20:53:52+00:00",
-   "tickers": [
-    "LITE",
-    "PLTR",
-    "MRVL",
-    "ORCL"
-   ]
-  },
-  {
-   "id": "438dfdaa3917",
-   "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
-   "link": "https://biztoc.com/x/4765cf52f3590b48?ref=rss",
-   "summary": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters. The New York Times sues Brave web browser for AI scraping…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-02T20:53:49+00:00",
-   "tickers": [
-    "NYT"
-   ]
-  },
-  {
-   "id": "9aa55ad74bd8",
-   "title": "YPF Crosses Below Key Moving Average Level",
-   "link": "https://www.nasdaq.com/articles/ypf-crosses-below-key-moving-average-level",
-   "summary": "In trading on Monday, shares of YPF SA (Symbol: YPF) crossed below their 200 day moving average of $46.39, changing hands as low as $43.83 per share. YPF SA shares are currently trading down about 6% on the day. The chart below shows the one year performance of YPF shares, ver",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-02T20:53:37+00:00",
-   "tickers": []
-  },
-  {
-   "id": "faf96a5ff175",
-   "title": "MVV Crosses Above Key Moving Average Level",
-   "link": "https://www.nasdaq.com/articles/mvv-crosses-above-key-moving-average-level",
-   "summary": "In trading on Monday, shares of the ProShares Ultra MidCap400 ETF (Symbol: MVV) crossed above their 200 day moving average of $82.86, changing hands as high as $84.50 per share. ProShares Ultra MidCap400 shares are currently trading up about 2.2% on the day. The chart below sh",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-02T20:53:34+00:00",
-   "tickers": []
-  },
-  {
-   "id": "7ed7982c2934",
-   "title": "IYR Crosses Above Key Moving Average Level",
-   "link": "https://www.nasdaq.com/articles/iyr-crosses-above-key-moving-average-level",
-   "summary": "In trading on Monday, shares of the iShares US Real Estate ETF (Symbol: IYR) crossed above their 200 day moving average of $100.37, changing hands as high as $101.00 per share. iShares US Real Estate shares are currently trading up about 1.2% on the day. The chart below shows",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-02T20:53:18+00:00",
-   "tickers": [
-    "IAGG",
-    "IYR"
-   ]
-  },
-  {
-   "id": "653bc54c42a6",
-   "title": "ITB Makes Bullish Cross Above Critical Moving Average",
-   "link": "https://www.nasdaq.com/articles/itb-makes-bullish-cross-above-critical-moving-average",
-   "summary": "In trading on Monday, shares of the iShares U.S. Home Construction ETF (Symbol: ITB) crossed above their 200 day moving average of $96.07, changing hands as high as $97.22 per share. iShares U.S. Home Construction shares are currently trading up about 4.1% on the day. The char",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-02T20:53:13+00:00",
-   "tickers": [
-    "ITB",
-    "IYW",
-    "BLSH",
-    "IAGG"
-   ]
-  },
-  {
-   "id": "b6573fe7a39f",
-   "title": "Abundia Global Impact Group Consensus Price Target Lowered by 25.00% to $4.59",
-   "link": "https://www.nasdaq.com/articles/abundia-global-impact-group-consensus-price-target-lowered-2500-459",
-   "summary": "The average one-year price target for Abundia Global Impact Group (NYSEAM:AGIG) (LSE:0A7K) has been revised to $4.59 / share. This is a decrease of 25.00% from the prior estimate of $6.12 dated October 20, 2026. These figures represent aggregate analyst targets collected by Finte",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "analyst",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-02T20:53:11+00:00",
-   "tickers": []
-  },
-  {
-   "id": "fc948a6aad85",
-   "title": "iShares U.S. Basic Materials Breaks Above 200-Day Moving Average - Bullish for IYM",
-   "link": "https://www.nasdaq.com/articles/ishares-us-basic-materials-breaks-above-200-day-moving-average-bullish-iym",
-   "summary": "In trading on Monday, shares of the iShares U.S. Basic Materials ETF (Symbol: IYM) crossed above their 200 day moving average of $181.55, changing hands as high as $183.70 per share. iShares U.S. Basic Materials shares are currently trading up about 1.7% on the day. The chart",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-02T20:53:10+00:00",
-   "tickers": [
-    "IYW",
-    "BLSH",
-    "IAGG"
-   ]
-  },
-  {
-   "id": "9a414013d9f2",
-   "title": "VanEck Vectors Green Bond ETF declares monthly distribution of $0.0957",
-   "link": "https://seekingalpha.com/news/4662840-vaneck-vectors-green-bond-etf-declares-monthly-distribution-of-00957?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-02T20:53:05+00:00",
-   "tickers": []
-  },
-  {
-   "id": "2e88df3bf7a6",
-   "title": "Invesco Global Listed Private Equity Breaks Above 200-Day Moving Average - Bullish for PSP",
-   "link": "https://www.nasdaq.com/articles/invesco-global-listed-private-equity-breaks-above-200-day-moving-average-bullish-psp",
-   "summary": "In trading on Monday, shares of the Invesco Global Listed Private Equity ETF (Symbol: PSP) crossed above their 200 day moving average of $59.98, changing hands as high as $60.86 per share. Invesco Global Listed Private Equity shares are currently trading up about 2.5% on the da",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-02T20:52:48+00:00",
-   "tickers": [
-    "BLSH",
-    "IVZ"
-   ]
-  },
-  {
-   "id": "a778d95ceb58",
-   "title": "Dollar Falls with Crude Oil Prices and Bond Yields",
-   "link": "https://biztoc.com/x/e20f57f848cce483?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-11-02T20:52:43+00:00",
-   "tickers": []
-  },
-  {
-   "id": "2f0bb7d7ab83",
-   "title": "The busiest man on Broadway talks about the art of staying focused while multitasking",
-   "link": "https://biztoc.com/x/ca7116eafdbf3c9b?ref=rss",
-   "summary": "Hustle culture. Productivity porn. The business world has no shortage of stereotypes to describe the dangers of overwork, and probably for good reason. But on the flip side, sometimes you just have to get stuff done, and few people are getting more done these days than Michael Arden. At 44, the…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-02T20:52:36+00:00",
-   "tickers": []
-  },
-  {
-   "id": "23ded7f42728",
-   "title": "VanEck Vectors Investment Grade Floating Rate ETF declares monthly distribution of $0.0955",
-   "link": "https://seekingalpha.com/news/4662839-vaneck-vectors-investment-grade-floating-rate-etf-declares-monthly-distribution-of-00955?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-02T20:52:32+00:00",
-   "tickers": []
-  },
-  {
-   "id": "fe36bc787cf5",
-   "title": "Snapchat reaches settlement in case after teens allege platform designed to be addictive",
-   "link": "https://biztoc.com/x/4846807a34356b9f?ref=rss",
-   "summary": "Snapchat parent Snap Inc. has reached a settlement during a trial over claims brought by two teenagers who say the company designed the platform to be addictive, causing their depression, anxiety and eating disorders, attorneys for the plaintiffs said on Monday.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-11-02T20:52:29+00:00",
-   "tickers": [
-    "SNAP"
-   ]
-  },
-  {
-   "id": "2c3006478e4e",
-   "title": "One of Google’s Android partners turned 1.3 million set-top boxes into a botnet",
-   "link": "https://biztoc.com/x/9e82eeda9b43e64e?ref=rss",
-   "summary": "Google says one of its Android manufacturing partners secretly built a backdoor in 1.3 million devices and turned them into a botnet. The company says it has now dismantled the backdoor and “cut ties” with the manufacturer, the Shenzhen, China-based Videostrong Technology Co., which has been…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-11-02T20:52:29+00:00",
-   "tickers": [
-    "GOOGL"
-   ]
-  },
-  {
-   "id": "90492fca1e2e",
-   "title": "Initial results suggest Iliana Yotova wins runoff to become Bulgaria's 1st elected female president",
-   "link": "https://biztoc.com/x/197c06c0be5f079f?ref=rss",
-   "summary": "Former interim Prime Minister Andrey Gyurov conceded defeat.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-11-02T20:52:26+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d88ed094e197",
-   "title": "Robot Mowers Invade America's Golf Courses, Putting Groundskeepers On Notice",
-   "link": "https://biztoc.com/x/8084715c3e8eeefd?ref=rss",
-   "summary": "Robot Mowers Invade America's Golf Courses, Putting Groundskeepers On Notice From Four Seasons' Tranquilo Golf Club in Florida and Barton Hills Country Club in Michigan to Baltimore Country Club in Maryland and the Country Club of New Bedford in Massachusetts, robotic mowers are being spotted at…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-02T20:52:25+00:00",
-   "tickers": []
-  },
-  {
-   "id": "fd132484e1a7",
-   "title": "Trump Administration Said to Plan Rolling Back Pregnancy-Related Job Protections",
-   "link": "https://biztoc.com/x/443436f20feef669?ref=rss",
-   "summary": "The Biden era law was meant to help women stay in the workplace, but some conservatives say rules to enact it went too far with coverage for abortion and fertility treatment.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-02T20:52:23+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e64df548ce9e",
-   "title": "In an Alaska fishing community, the Dan Sullivan episode takes an ominous turn",
-   "link": "https://biztoc.com/x/ad2389502a8a29eb?ref=rss",
-   "summary": "In Petersburg, Alaska, nobody has seen Dan J. Sullivan for weeks. Sullivan's rustic home stood dark a day after FBI agents paid a visit to friends who donated to his campaign to unseat the Republican senator with the same first and last name.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-02T20:52:21+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
+  "JIRE": "JPMorgan International Research Enhanced Equity ETF",
   "ETH": "Grayscale Ethereum Staking Mini ETF Shares",
   "IAGG": "iShares International Aggregate Bond Fund",
   "DIA": "SPDR Dow Jones Industrial Average ETF",
-  "ITB": "iShares U.S. Home Construction ETF",
+  "FLG": "Flagstar Bank, National Association",
+  "SAIC": "Science Applications International",
   "TSM": "Taiwan Semiconductor Manufacturing",
   "DB": "Deutsche Bank Aktiengesellschaft",
   "PEG": "Public Service Enterprise Group",
   "BMNR": "Bitmine Immersion Technologies",
   "ALSN": "Allison Transmission Holdings",
   "AIG": "American International Group",
-  "IYR": "iShares U.S. Real Estate ETF",
   "WST": "West Pharmaceutical Services",
-  "IYW": "iShares U.S. Technology ETF",
   "QQQ": "Invesco QQQ Trust, Series 1",
   "AEIS": "Advanced Energy Industries",
   "CRNX": "Crinetics Pharmaceuticals",
+  "IAU": "iShares Gold Trust Shares",
   "ICE": "Intercontinental Exchange",
   "JEF": "Jefferies Financial Group",
   "RXRX": "Recursion Pharmaceuticals",
@@ -8991,8 +8989,8 @@
   "WBD": "Warner Bros. Discovery",
   "WMB": "The Williams Companies",
   "DOC": "Healthpeak Properties",
+  "GRAB": "Grab Holdings Limited",
   "LSCC": "Lattice Semiconductor",
-  "ORC": "Orchid Island Capital",
   "PLTR": "Palantir Technologies",
   "TAP": "Molson Coors Beverage",
   "CRBG": "Corebridge Financial",
@@ -9006,15 +9004,16 @@
   "CRK": "Comstock Resources",
   "EQH": "Equitable Holdings",
   "FANG": "Diamondback Energy",
+  "HIMS": "Hims & Hers Health",
   "IDXX": "IDEXX Laboratories",
   "MPC": "Marathon Petroleum",
   "MRVL": "Marvell Technology",
-  "NYT": "The New York Times",
   "SBAC": "SBA Communications",
   "TT": "Trane Technologies",
   "TYL": "Tyler Technologies",
   "LITE": "Lumentum Holdings",
   "MU": "Micron Technology",
+  "POWL": "Powell Industries",
   "RF": "Regions Financial",
   "RIVN": "Rivian Automotive",
   "ALGN": "Align Technology",
@@ -9034,13 +9033,12 @@
   "WDC": "Western Digital",
   "CARR": "Carrier Global",
   "KMB": "Kimberly-Clark",
-  "LBRT": "Liberty Energy",
   "META": "Meta Platforms",
-  "TMC": "TMC the metals",
   "CLH": "Clean Harbors",
   "LLY": "Eli Lilly and",
   "O": "Realty Income",
   "POST": "Post Holdings",
+  "VERO": "Venus Concept",
   "UNH": "United Health",
   "MSTR": "MicroStrategy",
   "ADC": "Agree Realty",
@@ -9058,6 +9056,7 @@
   "FORM": "FormFactor",
   "MCD": "McDonald's",
   "RIG": "Transocean",
+  "MSFT": "Office 365",
   "PARA": "Paramount+",
   "BC": "Brunswick",
   "BLK": "BlackRock",
@@ -9083,7 +9082,6 @@
   "BPOP": "Popular",
   "DHR": "Danaher",
   "ETR": "Entergy",
-  "IVZ": "Invesco",
   "OVV": "Ovintiv",
   "PEP": "PepsiCo",
   "PII": "Polaris",
