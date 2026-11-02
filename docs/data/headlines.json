@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-02T04:35:57.311582+00:00",
+ "generated": "2026-11-02T04:42:23.710738+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -515,6 +515,36 @@
    "sentiment": "neutral",
    "domain": "cnbc.com",
    "published": "2026-11-02T04:06:11+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f91155152b61",
+   "title": "First Solar: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/first-solar-3-key-takeaways-long-term-investors",
+   "summary": "Key PointsFirst Solar added 1.4 gigawatts of U.S. gross bookings at $0.36 per watt.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-02T04:01:02+00:00",
+   "tickers": [
+    "FSLR"
+   ]
+  },
+  {
+   "id": "46c9d5563b30",
+   "title": "The S&P 500's Shiller P/E Is Above 40. History Says What Happened the Only Other Time.",
+   "link": "https://www.nasdaq.com/articles/sp-500s-shiller-p-e-above-40-history-says-what-happened-only-other-time",
+   "summary": "Key PointsThe S&P 500's cyclically adjusted price-to-earnings ratio ended Oct. 28 at 41.04, versus a long-term average of around 17.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-02T04:01:02+00:00",
    "tickers": []
   },
   {
@@ -8751,38 +8781,6 @@
    "domain": "nasdaq.com",
    "published": "2026-11-01T19:50:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "b5dd268c8d52",
-   "title": "Ravens Turn to Undrafted Rookie QB With Lamar Jackson, Tyler Huntley Hurt",
-   "link": "https://biztoc.com/x/8202ab033d6948e2?ref=rss",
-   "summary": "The Baltimore Ravens thought they were finally getting back on track on Sunday as quarterback Lamar Jackson made his return after missing the last three games with a high-ankle sprain. But, Jackson's return unfortunately only lasted one play on Sunday as he suffered a thumb injury early in the…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-01T19:47:02+00:00",
-   "tickers": [
-    "TYL"
-   ]
-  },
-  {
-   "id": "5916dd8a060f",
-   "title": "Russell Wilson Pokes Fun at Sean Payton Amid Rumored Beef",
-   "link": "https://biztoc.com/x/25c8b82d204115e5?ref=rss",
-   "summary": "Russell Wilson kept the rumored beef between him and Denver Broncos coach Sean Payton alive on Sunday. The retired quarterback, who now works for CBS Sports, was busy picking winners between some of the NFL matchups on Sunday. When it came to the Kansas City Chiefs versus Broncos game, he was a…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-01T19:47:02+00:00",
-   "tickers": [
-    "PARA"
-   ]
   }
  ],
  "ticker_names": {
@@ -8857,6 +8855,7 @@
   "TSLA": "Supercharger",
   "BYD": "Boyd Gaming",
   "CAT": "Caterpillar",
+  "FSLR": "First Solar",
   "GEN": "Gen Digital",
   "NU": "Nu Holdings",
   "AAPL": "Apple Watch",
@@ -8871,7 +8870,6 @@
   "SPGI": "S&P Global",
   "STLA": "Stellantis",
   "MSFT": "Office 365",
-  "PARA": "Paramount+",
   "BC": "Brunswick",
   "C": "Citigroup",
   "CME": "CME Group",
