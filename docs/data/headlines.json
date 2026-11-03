@@ -1,8 +1,184 @@
 {
- "generated": "2026-11-03T20:20:54.729189+00:00",
+ "generated": "2026-11-03T20:27:07.482799+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "21b0003e4241",
+   "title": "Trump DOJ sends target letters to Democrats in Alaska Senate criminal probe: Reports",
+   "link": "https://www.cnbc.com/2026/11/03/trump-doj-election-lawsuits-monitors-2026-midterms.html",
+   "summary": "\"There's no doubt that the threats are threats to our democracy,\" said John Cusick, assistant counsel at the Legal Defense Fund.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "cnbc.com",
+   "published": "2026-11-03T20:25:37+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e87cd17624fa",
+   "title": "Investors watch US state races for signs of backlash against AI boom",
+   "link": "https://www.ft.com/content/c8a092e5-c1e4-46b8-83e1-73404900a0c5?syn-25a6b1a6=1",
+   "summary": "Wall Street bets that three dozen gubernatorial races could have significant impact on data centre development across America",
+   "article_text": "",
+   "source": "FT Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "ft.com",
+   "published": "2026-11-03T20:25:23+00:00",
+   "tickers": []
+  },
+  {
+   "id": "4b48a295d327",
+   "title": "CrowdStrike launches AI kill switch that it says can stop internal agents that go rogue",
+   "link": "https://www.cnbc.com/2026/11/03/crowdstrike-ai-kill-switch-rogue-agents.html",
+   "summary": "CrowdStrike launched an AI kill switch that the company says can stop internal agents, block relaunches and cut enterprise network access.",
+   "article_text": "CrowdStrike launches AI kill switch to control internal agents Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Key Points CrowdStrike launched an AI kill switch feature to stop and block internal agents that misbehave. The cybersecurity giant also announced a Claude Cowork integration and two AI acquisitions. Business chief Daniel Bernard told CNBC that being able to control and shut down agent activity is vital to the next wave of AI adoption. In this article CRWD Follow your favorite stocks CREATE FREE ACCOUNT George Kurtz, CEO and founder of CrowdStrike, speaks to the Economic Club of New York in New York City, U.S., Oct. 23, 2025. Brendan McDermid | Reuters CrowdStrike is betting that it has a solution to rogue artificial intelligence . The cybersecurity vendor on Tuesday launched an AI kill switch designed to let security teams stop internal AI agents that go rogue, block them from relaunching and cut off their enterprise network access. The tool is built into CrowdStrike's Falcon Guardian platform, launched in September to secure AI agents. CrowdStrike also announced an integration with Anthropic's Claude Cowork . \"Having the ability to control and turn off, and make a decision and decide, I think that's really important for this next chapter of AI adoption,\" Chief Business Officer Daniel Bernard told CNBC. A string of recent high-profile cyber incidents has added urgency to calls for some kind of emergency shutdown mechanism. The Hugging Face breach orchestrated by rogue OpenAI agents in July was particularly alarming for businesses. Last week, Binance disclosed the largest crypto cyberattack on record and hackers have recently targeted hundreds of refrigerators and freezers at supermarkets in France. Over the summer, U.S. representatives introduced bipartisan legislation that would require AI companies to build shutdown capabilities into their models. Critics argue, however, that an emergency stop button is far too complicated to implement across multiple systems, data centers and complex AI models. Read more CNBC tech news Humans are still doing the work behind some AI agents OpenAI pares fundraising goal, now seeking up to $20 billion in latest round Binance resumes withdrawals following $6.3 billion hack, says 90% of stolen user assets are covered Why AI is boosting Meta’s ad business while hurting Google search Bernard said the kill switch operates like a circuit breaker in systems where customers use its Falcon platform. The process can detect internal agent activity but requires a human to decide to cut the agent off and later reinstate access. \"If you kill a process at the root, and we have that level of access at the root … it's very binary,\" Bernard said. \"You either kill the AI and the agent, or you don't, and then you report on that.\" The kill switch doesn't delete the agent's code but uses connected AI gateways to cut off access to the AI models that influence decisions, CrowdStrike said. In the age of AI, businesses are moving quickly to adopt autonomous tools, often without the necessary safeguards and protections. CrowdStrike believes its new tool will let companies stop AI agent 'misbehavior in its tracks, while leaving room for innovation. The company also announced plans to acquire AI observability startup Fiddler AI and AI security testing firm Dreadnode . CrowdStrike and its rivals are rapidly scooping up cybersecurity startups to keep up with increasing security demands. The need for AI security tools has also powered a broader wave of cybersecurity deal-making . watch now VIDEO 10:19 10:19 Why it's so difficult to build an AI kill switch — experts weigh in Tech Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "cnbc.com",
+   "published": "2026-11-03T20:25:11+00:00",
+   "tickers": [
+    "CRWD"
+   ]
+  },
+  {
+   "id": "29c8a1224dd3",
+   "title": "Midterm elections 2026 live updates: Economy, inflation and other voter concerns",
+   "link": "https://www.cnbc.com/2026/11/03/midterm-elections-2026-live-updates.html",
+   "summary": "Follow 2026 midterm elections live updates, including House and Senate races, Texas, Georgia, Ohio and Minnesota, and key results as polls close.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-11-03T20:24:43+00:00",
+   "tickers": []
+  },
+  {
+   "id": "fe28700a15bd",
+   "title": "Saudi Aramco Profit Jumps Despite Damaging Attacks on Pipelines and Refineries",
+   "link": "https://www.nytimes.com/2026/11/03/business/saudi-aramco-q3-earnings.html",
+   "summary": "Saudi Arabia’s state-owned oil company posted a 9 percent increase in third-quarter profit on Tuesday.",
+   "article_text": "",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "positive",
+   "domain": "nytimes.com",
+   "published": "2026-11-03T20:23:22+00:00",
+   "tickers": []
+  },
+  {
+   "id": "1da3e4063d58",
+   "title": "Sprott raises quarterly dividend by 25%v to $0.50/share",
+   "link": "https://seekingalpha.com/news/4664000-sprott-raises-quarterly-dividend-by-25v-to-050share?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-03T20:23:10+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b1eeca443617",
+   "title": "Les cyberattaques subies par des supermarchés européens soulignent la nécessité d'un accès à distance sécurisé aux systèmes de réfrigération, selon Secomea",
+   "link": "https://www.prnewswire.com/news-releases/les-cyberattaques-subies-par-des-supermarches-europeens-soulignent-la-necessite-dun-acces-a-distance-securise-aux-systemes-de-refrigeration-selon-secomea-302928371.html",
+   "summary": "Une deuxième vague de cyberattaques présumées visant les systèmes de réfrigération des supermarchés soulève des questions urgentes quant à la manière dont les détaillants protègent leurs technologies opérationnelles critiques tout en assurant la continuité des services à distance...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-11-03T20:23:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "8bbb4d80d8b2",
+   "title": "A new Disney-WWE mashup has John Cena and the new Avengers movie working in tandem",
+   "link": "https://seekingalpha.com/news/4663975-a-new-disney-wwe-mashup-has-john-cena-and-the-new-avengers-movie-working-in-tandem?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-03T20:22:00+00:00",
+   "tickers": [
+    "DIS"
+   ]
+  },
+  {
+   "id": "68a72e9343a6",
+   "title": "Texas race results could kick AI trade while it's already down",
+   "link": "https://www.cnbc.com/2026/11/03/texas-election-could-pressure-ai-data-center-trade.html",
+   "summary": "Gov. Greg Abbott is facing a surprisingly strong challenge that could have significant policy implications.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-11-03T20:20:40+00:00",
+   "tickers": [
+    "ABT"
+   ]
+  },
+  {
+   "id": "f4f6faa19af9",
+   "title": "YieldMax Universe Fund of Option Income ETFs declares $0.0528 dividend",
+   "link": "https://seekingalpha.com/news/4663998-yieldmax-universe-fund-of-option-income-etfs-declares-00528-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-03T20:18:52+00:00",
+   "tickers": []
+  },
+  {
+   "id": "4ff67365e08c",
+   "title": "Eli Lilly: Priced For Acceleration, Reporting Deceleration",
+   "link": "https://seekingalpha.com/article/4961727-eli-lilly-priced-for-acceleration-reporting-deceleration?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-03T20:18:27+00:00",
+   "tickers": [
+    "LLY"
+   ]
+  },
+  {
+   "id": "447016cc9b4a",
+   "title": "YieldMax Memory & Storage Portfolio Option Inc ETF declares $0.3242 dividend",
+   "link": "https://seekingalpha.com/news/4663996-yieldmax-memory-and-storage-portfolio-option-inc-etf-declares-0_3242-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-03T20:18:27+00:00",
+   "tickers": []
+  },
   {
    "id": "090030c88909",
    "title": "Clarivoy Unveils the Next Generation of Its Independent Attribution Platform, Featuring Claire, an AI Data Analyst Built for Automotive Retail",
@@ -308,6 +484,95 @@
    ]
   },
   {
+   "id": "7a2b91eb51c1",
+   "title": "Hogs Post Mixed Midday Trade, with Cash Continuing its Weaker Trend",
+   "link": "https://www.nasdaq.com/articles/hogs-post-mixed-midday-trade-cash-continuing-its-weaker-trend",
+   "summary": "Lean hog futures are mixed, with nearby December up 52 cents and other front months down 20 to 25. USDA’s national base hog price was reported at $47.07 in the Tuesday morning report. The CME Lean Hog Index was down another 82 cents on October 29 at $65.75. USDA’s pork...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-03T20:15:45+00:00",
+   "tickers": [
+    "POST",
+    "CME"
+   ]
+  },
+  {
+   "id": "261dfc1c871c",
+   "title": "Corn Holding Midday Losses Following Export Business",
+   "link": "https://www.nasdaq.com/articles/corn-holding-midday-losses-following-export-business",
+   "summary": "Corn futures are fading another round of export business on Tuesday morning, with contracts down 3 to 4 ¼ cents so far at midday. The CmdtyView national average Cash Corn price is down 4 cents at $4.07 1/4. USDA reported a private export sale of 315,000 MT of corn to...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-11-03T20:15:45+00:00",
+   "tickers": [
+    "MT"
+   ]
+  },
+  {
+   "id": "2e699c1b8b07",
+   "title": "Soybeans Fade Another Export Sale with Midday Losses on Tuesday",
+   "link": "https://www.nasdaq.com/articles/soybeans-fade-another-export-sale-midday-losses-tuesday",
+   "summary": "Soybeans are trading with 3 to 8 cent losses across most contracts on Tuesday. The cmdtyView national average Cash Bean price is down 4 1/4 cents at $11.47 1/2. Soymeal futures are down $1.70 to $2.10, with Soy Oil futures up 2 to 4 points lower in the front months....",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-11-03T20:15:45+00:00",
+   "tickers": []
+  },
+  {
+   "id": "7d89111f5a94",
+   "title": "Cotton Slipping Lower on Tuesday",
+   "link": "https://www.nasdaq.com/articles/cotton-slipping-lower-tuesday",
+   "summary": "Cotton futures are facing losses of 50 to 55 points at midday on Tuesday. Crude oil is down 41 cents per barrel on the session, with the US dollar index $0.066 lower. USDA’s weekly Crop Progress report showed 92% of the US cotton crop with bolls open, behind the 95%...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-11-03T20:15:45+00:00",
+   "tickers": []
+  },
+  {
+   "id": "69b365bca238",
+   "title": "Soybeans Starting with Weakness on Tuesday",
+   "link": "https://www.nasdaq.com/articles/soybeans-starting-weakness-tuesday",
+   "summary": "Soybeans are trading 3 to 4 cents lower early on Tuesday. Futures were under pressure for much of Monday, with contracts down 6 ¾ to 17 ½ cents at the close. New selling interest was noted, with open interest down 9,487 contracts. The cmdtyView national average Cash Bean price was...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-03T20:15:45+00:00",
+   "tickers": []
+  },
+  {
+   "id": "62ce6254ef88",
+   "title": "Corn Falling to Kick Off Tuesday",
+   "link": "https://www.nasdaq.com/articles/corn-falling-kick-tuesday",
+   "summary": "Corn prices are down 3 to 4 cents to start the Tuesday session. Futures firmed into the Monday close, as contracts were up ½ to 2 cents across the board. Open interest was down 4,756 contracts on Monday, mainly in the front three contracts. The CmdtyView national average Cash Corn...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-03T20:15:44+00:00",
+   "tickers": []
+  },
+  {
    "id": "cdf84f20e946",
    "title": "He Can Make His 2026 IRA Contribution All the Way Until Tax Day in April 2027. Most People Think the Window Closes December 31",
    "link": "https://biztoc.com/x/0d4b6efad65e2d01?ref=rss",
@@ -438,20 +703,6 @@
    "tickers": []
   },
   {
-   "id": "29c8a1224dd3",
-   "title": "Midterm elections 2026 live updates: Economy, inflation and other voter concerns",
-   "link": "https://www.cnbc.com/2026/11/03/midterm-elections-2026-live-updates.html",
-   "summary": "Follow 2026 midterm elections live updates, including House and Senate races, Texas, Georgia, Ohio and Minnesota, and key results as polls close.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-11-03T20:14:33+00:00",
-   "tickers": []
-  },
-  {
    "id": "c2af08d8791c",
    "title": "Appeals Court Lifts Election Limits on Trump Administration",
    "link": "https://biztoc.com/x/977568aa7696dc2f?ref=rss",
@@ -573,6 +824,84 @@
    ]
   },
   {
+   "id": "9dd515dbfe46",
+   "title": "Stronger Indian Sugar Output Hammers Prices",
+   "link": "https://www.nasdaq.com/articles/stronger-indian-sugar-output-hammers-prices",
+   "summary": "March NY world sugar #11 (SBH27 ) is down -0.67 (-3.52%) today, and December London ICE white sugar #5 (SWZ26 ) is down -8.90 (-1.75%). Sugar prices are slumping today, with NY sugar falling to a 5-week low and London sugar sliding to a 3-month low. Strong Indian sugar production...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-03T20:10:51+00:00",
+   "tickers": [
+    "ICE"
+   ]
+  },
+  {
+   "id": "8d1fea175d5c",
+   "title": "Cocoa Prices Fall on Signs of Abundant Supplies",
+   "link": "https://www.nasdaq.com/articles/cocoa-prices-fall-signs-abundant-supplies",
+   "summary": "December ICE NY cocoa (CCZ26 ) is down -33 (-0.61%) today, and ICE London cocoa #7 (CAZ26 ) is down -30 (-0.72%). Cocoa prices extended their 2-week slide today and fell to 5-week lows as rising ICE cocoa inventories weigh on prices. ICE cocoa inventories have steadily increased since the...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-11-03T20:10:51+00:00",
+   "tickers": [
+    "ICE"
+   ]
+  },
+  {
+   "id": "3e8a3f205ea6",
+   "title": "Cattle Falling Lower on Election Day",
+   "link": "https://www.nasdaq.com/articles/cattle-falling-lower-election-day",
+   "summary": "Live cattle futures are down 42 cents to $1.50 so far on the Tuesday session. Cash trade has been quiet to start the week following the $224-225 reported last week. Feeder cattle futures are down $2.95 to $3.50 at midday. The CME Feeder Cattle Index was back down 77 cents...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-11-03T20:10:51+00:00",
+   "tickers": [
+    "CME"
+   ]
+  },
+  {
+   "id": "2f6c98633ed4",
+   "title": "Cattle Diverge on Monday, with Feeders Finding Strength and Live Cattle Weaker",
+   "link": "https://www.nasdaq.com/articles/cattle-diverge-monday-feeders-finding-strength-and-live-cattle-weaker",
+   "summary": "Live cattle futures fell anywhere from a nickel to $1.25 across most contracts on Monday. Open interest suggested some long’s exiting, down 2,039 contracts, heavily in the December (-3,882). Cash trade was reported by USDA at $224-225 live last week, with a few leaking towards $220. Feeder cattle futures were...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-03T20:10:50+00:00",
+   "tickers": []
+  },
+  {
+   "id": "be266539d19a",
+   "title": "Cattle Close Mixed on Monday as Feeders Find Strength",
+   "link": "https://www.nasdaq.com/articles/cattle-close-mixed-monday-feeders-find-strength",
+   "summary": "Live cattle futures fell anywhere from a nickel to $1.25 across most contracts on Monday. Cash trade was reported by USDA at $224-225 live last week, with a few leaking towards $220. Feeder cattle futures were up 65 cents to $1.42 at the close. The CME Feeder Cattle Index was...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-03T20:10:50+00:00",
+   "tickers": [
+    "CME"
+   ]
+  },
+  {
    "id": "baffd29673a2",
    "title": "Apple warns of risks related to AI agents behaving in 'unintended or unpredictable' ways",
    "link": "https://www.cnbc.com/2026/11/03/apple-warns-of-ai-agents-behave-in-unintended-or-unpredictable-ways.html",
@@ -616,20 +945,6 @@
    "sentiment": "neutral",
    "domain": "prnewswire.com",
    "published": "2026-11-03T20:10:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "21b0003e4241",
-   "title": "Trump DOJ sends target letters to Democrats in Alaska Senate criminal probe: Reports",
-   "link": "https://www.cnbc.com/2026/11/03/trump-doj-election-lawsuits-monitors-2026-midterms.html",
-   "summary": "\"There's no doubt that the threats are threats to our democracy,\" said John Cusick, assistant counsel at the Legal Defense Fund.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "cnbc.com",
-   "published": "2026-11-03T20:09:06+00:00",
    "tickers": []
   },
   {
@@ -791,22 +1106,6 @@
    "tickers": []
   },
   {
-   "id": "68a72e9343a6",
-   "title": "Texas race results could kick AI trade while it's already down",
-   "link": "https://www.cnbc.com/2026/11/03/texas-election-could-pressure-ai-data-center-trade.html",
-   "summary": "Gov. Greg Abbott is facing a surprisingly strong challenge that could have significant policy implications.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-11-03T20:01:28+00:00",
-   "tickers": [
-    "ABT"
-   ]
-  },
-  {
    "id": "53764dfbf357",
    "title": "Sanders accuses Google of 'extortion' over AI",
    "link": "https://biztoc.com/x/31fa82346958097d?ref=rss",
@@ -926,6 +1225,50 @@
    "sentiment": "neutral",
    "domain": "biztoc.com",
    "published": "2026-11-03T20:00:56+00:00",
+   "tickers": []
+  },
+  {
+   "id": "132b71bb17ab",
+   "title": "NexPoint Residential Trust, Inc. Reports Third Quarter 2026 Results",
+   "link": "https://www.nasdaq.com/articles/nexpoint-residential-trust-inc-reports-third-quarter-2026-results",
+   "summary": "NexPoint Residential Trust, Inc. reported its financial results for the third quarter ended September 30, 2026, recording a net loss attributable to common stockholders of $11.5M, compared to a net loss of $7.8M for the third quarter of 2025. FFO, Core FFO, and AFFO attributable",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-03T20:00:52+00:00",
+   "tickers": []
+  },
+  {
+   "id": "236bc8cba492",
+   "title": "SeaStar Medical Holding Corporation Announces FDA Determination on QUELIMMUNE Post-Approval Study Requirements on November 3, 2026",
+   "link": "https://www.nasdaq.com/articles/seastar-medical-holding-corporation-announces-fda-determination-quelimmune-post-approval",
+   "summary": "SeaStar Medical Holding Corporation announced that the Center for Biologics Evaluation and Research of the U.S. Food and Drug Administration has determined that the QUELIMMUNE Pediatric SAVE Surveillance Registry has fulfilled the post-approval study requirements as outlined in t",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "fda",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-03T20:00:44+00:00",
+   "tickers": [
+    "POST"
+   ]
+  },
+  {
+   "id": "3bad38687bf6",
+   "title": "PLDT Inc. Appoints PwC Philippines as New Auditor Effective November 2, 2026",
+   "link": "https://www.nasdaq.com/articles/pldt-inc-appoints-pwc-philippines-new-auditor-effective-november-2-2026",
+   "summary": "PLDT Inc. announced the appointment of Isla Lipana & Co., the Philippine member firm of the PwC network, as its independent external auditor for financial statements prepared in accordance with Philippine Financial Reporting Standards, effective November 2, 2026. The appointm",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-03T20:00:43+00:00",
    "tickers": []
   },
   {
@@ -2051,22 +2394,6 @@
    "tickers": []
   },
   {
-   "id": "9dd515dbfe46",
-   "title": "Stronger Indian Sugar Output Hammers Prices",
-   "link": "https://www.nasdaq.com/articles/stronger-indian-sugar-output-hammers-prices",
-   "summary": "March NY world sugar #11 (SBH27 ) is down -0.67 (-3.52%) today, and December London ICE white sugar #5 (SWZ26 ) is down -8.90 (-1.75%). Sugar prices are slumping today, with NY sugar falling to a 5-week low and London sugar sliding to a 3-month low. Strong Indian sugar production...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-03T19:44:17+00:00",
-   "tickers": [
-    "ICE"
-   ]
-  },
-  {
    "id": "375b4f292059",
    "title": "Brazilian Real Weakness Weighs on Coffee Prices",
    "link": "https://www.nasdaq.com/articles/brazilian-real-weakness-weighs-coffee-prices",
@@ -2376,73 +2703,10 @@
    ]
   },
   {
-   "id": "7a2b91eb51c1",
-   "title": "Hogs Post Mixed Midday Trade, with Cash Continuing its Weaker Trend",
-   "link": "https://www.nasdaq.com/articles/hogs-post-mixed-midday-trade-cash-continuing-its-weaker-trend",
-   "summary": "Lean hog futures are mixed, with nearby December up 52 cents and other front months down 20 to 25. USDA’s national base hog price was reported at $47.07 in the Tuesday morning report. The CME Lean Hog Index was down another 82 cents on October 29 at $65.75. USDA’s pork...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-03T19:41:55+00:00",
-   "tickers": [
-    "POST",
-    "CME"
-   ]
-  },
-  {
-   "id": "8d1fea175d5c",
-   "title": "Cocoa Prices Fall on Signs of Abundant Supplies",
-   "link": "https://www.nasdaq.com/articles/cocoa-prices-fall-signs-abundant-supplies",
-   "summary": "December ICE NY cocoa (CCZ26 ) is down -33 (-0.61%) today, and ICE London cocoa #7 (CAZ26 ) is down -30 (-0.72%). Cocoa prices extended their 2-week slide today and fell to 5-week lows as rising ICE cocoa inventories weigh on prices. ICE cocoa inventories have steadily increased since the...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-11-03T19:41:55+00:00",
-   "tickers": [
-    "ICE"
-   ]
-  },
-  {
-   "id": "3e8a3f205ea6",
-   "title": "Cattle Falling Lower on Election Day",
-   "link": "https://www.nasdaq.com/articles/cattle-falling-lower-election-day",
-   "summary": "Live cattle futures are down 42 cents to $1.50 so far on the Tuesday session. Cash trade has been quiet to start the week following the $224-225 reported last week. Feeder cattle futures are down $2.95 to $3.50 at midday. The CME Feeder Cattle Index was back down 77 cents...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-11-03T19:41:55+00:00",
-   "tickers": [
-    "CME"
-   ]
-  },
-  {
    "id": "5740d2935c6a",
    "title": "Wheat Falling Back on Tuesday Morning",
    "link": "https://www.nasdaq.com/articles/wheat-falling-back-tuesday-morning",
    "summary": "Wheat is facing weakness in early Tuesday trade. The wheat complex was higher across most contracts on Monday. Chicago SRW contracts were 1 ¼ to 3 cents higher at the close. Open interest suggested a rotation of ownership, up 572 contracts. KC HRW futures saw fractional to 1 ¾ cent...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-03T19:41:54+00:00",
-   "tickers": []
-  },
-  {
-   "id": "62ce6254ef88",
-   "title": "Corn Falling to Kick Off Tuesday",
-   "link": "https://www.nasdaq.com/articles/corn-falling-kick-tuesday",
-   "summary": "Corn prices are down 3 to 4 cents to start the Tuesday session. Futures firmed into the Monday close, as contracts were up ½ to 2 cents across the board. Open interest was down 4,756 contracts on Monday, mainly in the front three contracts. The CmdtyView national average Cash Corn...",
    "article_text": "",
    "source": "NASDAQ Stocks",
    "category": "stocks",
@@ -2467,20 +2731,6 @@
    "tickers": [
     "NWSA"
    ]
-  },
-  {
-   "id": "2f6c98633ed4",
-   "title": "Cattle Diverge on Monday, with Feeders Finding Strength and Live Cattle Weaker",
-   "link": "https://www.nasdaq.com/articles/cattle-diverge-monday-feeders-finding-strength-and-live-cattle-weaker",
-   "summary": "Live cattle futures fell anywhere from a nickel to $1.25 across most contracts on Monday. Open interest suggested some long’s exiting, down 2,039 contracts, heavily in the December (-3,882). Cash trade was reported by USDA at $224-225 live last week, with a few leaking towards $220. Feeder cattle futures were...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-03T19:41:53+00:00",
-   "tickers": []
   },
   {
    "id": "5e3ffa336a22",
@@ -2717,22 +2967,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-11-03T19:35:53+00:00",
    "tickers": []
-  },
-  {
-   "id": "4b48a295d327",
-   "title": "CrowdStrike launches AI kill switch that it says can stop internal agents that go rogue",
-   "link": "https://www.cnbc.com/2026/11/03/crowdstrike-ai-kill-switch-rogue-agents.html",
-   "summary": "CrowdStrike launched an AI kill switch that the company says can stop internal agents, block relaunches and cut enterprise network access.",
-   "article_text": "CrowdStrike launches AI kill switch to control internal agents Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Key Points CrowdStrike launched an AI kill switch feature to stop and block internal agents that misbehave. The cybersecurity giant also announced a Claude Cowork integration and two AI acquisitions. Business chief Daniel Bernard told CNBC that being able to control and shut down agent activity is vital to the next wave of AI adoption. In this article CRWD Follow your favorite stocks CREATE FREE ACCOUNT George Kurtz, CEO and founder of CrowdStrike, speaks to the Economic Club of New York in New York City, U.S., Oct. 23, 2025. Brendan McDermid | Reuters CrowdStrike is betting that it has a solution to rogue artificial intelligence . The cybersecurity vendor on Tuesday launched an AI kill switch designed to let security teams stop internal AI agents that go rogue, block them from relaunching and cut off their enterprise network access. The tool is built into CrowdStrike's Falcon Guardian platform, launched in September to secure AI agents. CrowdStrike also announced an integration with Anthropic's Claude Cowork . \"Having the ability to control and turn off, and make a decision and decide, I think that's really important for this next chapter of AI adoption,\" Chief Business Officer Daniel Bernard told CNBC. A string of recent high-profile cyber incidents has added urgency to calls for some kind of emergency shutdown mechanism. The Hugging Face breach orchestrated by rogue OpenAI agents in July was particularly alarming for businesses. Last week, Binance disclosed the largest crypto cyberattack on record and hackers have recently targeted hundreds of refrigerators and freezers at supermarkets in France. Over the summer, U.S. representatives introduced bipartisan legislation that would require AI companies to build shutdown capabilities into their models. Critics argue, however, that an emergency stop button is far too complicated to implement across multiple systems, data centers and complex AI models. Read more CNBC tech news Humans are still doing the work behind some AI agents OpenAI pares fundraising goal, now seeking up to $20 billion in latest round Binance resumes withdrawals following $6.3 billion hack, says 90% of stolen user assets are covered Why AI is boosting Meta’s ad business while hurting Google search Bernard said the kill switch operates like a light switch in systems where customers use its Falcon platform. The process can detect internal agent activity but requires a human to decide whether it's benign or malicious, he added. \"If you kill a process at the root, and we have that level of access at the root … it's very binary,\" Bernard said. \"You either kill the AI and the agent, or you don't, and then you report on that.\" In the age of AI, businesses are moving quickly to adopt autonomous tools, often without the necessary safeguards and protections. CrowdStrike believes its new tool will let companies stop AI agent 'misbehavior in its tracks, while leaving room for innovation. The company also announced plans to acquire AI observability startup Fiddler AI and AI security testing firm Dreadnode . CrowdStrike and its rivals are rapidly scooping up cybersecurity startups to keep up with increasing security demands. The need for AI security tools has also powered a broader wave of cybersecurity deal-making . watch now VIDEO 10:19 10:19 Why it's so difficult to build an AI kill switch — experts weigh in Tech Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "cnbc.com",
-   "published": "2026-11-03T19:35:24+00:00",
-   "tickers": [
-    "CRWD"
-   ]
   },
   {
    "id": "1d2e57f54fa4",
@@ -3220,22 +3454,6 @@
    "tickers": []
   },
   {
-   "id": "261dfc1c871c",
-   "title": "Corn Holding Midday Losses Following Export Business",
-   "link": "https://www.nasdaq.com/articles/corn-holding-midday-losses-following-export-business",
-   "summary": "Corn futures are fading another round of export business on Tuesday morning, with contracts down 3 to 4 ¼ cents so far at midday. The CmdtyView national average Cash Corn price is down 4 cents at $4.07 1/4. USDA reported a private export sale of 315,000 MT of corn to...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-11-03T19:26:52+00:00",
-   "tickers": [
-    "MT"
-   ]
-  },
-  {
    "id": "71636fdf8c3b",
    "title": "Six European nations threaten to boycott Russia in ice hockey world championships",
    "link": "https://www.ft.com/content/da34f13c-e138-4f08-b9af-ddfcaad791bf?syn-25a6b1a6=1",
@@ -3513,34 +3731,6 @@
    "sentiment": "negative",
    "domain": "nasdaq.com",
    "published": "2026-11-03T19:21:29+00:00",
-   "tickers": []
-  },
-  {
-   "id": "2e699c1b8b07",
-   "title": "Soybeans Fade Another Export Sale with Midday Losses on Tuesday",
-   "link": "https://www.nasdaq.com/articles/soybeans-fade-another-export-sale-midday-losses-tuesday",
-   "summary": "Soybeans are trading with 3 to 8 cent losses across most contracts on Tuesday. The cmdtyView national average Cash Bean price is down 4 1/4 cents at $11.47 1/2. Soymeal futures are down $1.70 to $2.10, with Soy Oil futures up 2 to 4 points lower in the front months....",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-11-03T19:21:29+00:00",
-   "tickers": []
-  },
-  {
-   "id": "7d89111f5a94",
-   "title": "Cotton Slipping Lower on Tuesday",
-   "link": "https://www.nasdaq.com/articles/cotton-slipping-lower-tuesday",
-   "summary": "Cotton futures are facing losses of 50 to 55 points at midday on Tuesday. Crude oil is down 41 cents per barrel on the session, with the US dollar index $0.066 lower. USDA’s weekly Crop Progress report showed 92% of the US cotton crop with bolls open, behind the 95%...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-11-03T19:21:28+00:00",
    "tickers": []
   },
   {
@@ -5899,22 +6089,6 @@
    "tickers": []
   },
   {
-   "id": "be266539d19a",
-   "title": "Cattle Close Mixed on Monday as Feeders Find Strength",
-   "link": "https://www.nasdaq.com/articles/cattle-close-mixed-monday-feeders-find-strength",
-   "summary": "Live cattle futures fell anywhere from a nickel to $1.25 across most contracts on Monday. Cash trade was reported by USDA at $224-225 live last week, with a few leaking towards $220. Feeder cattle futures were up 65 cents to $1.42 at the close. The CME Feeder Cattle Index was...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-03T18:46:16+00:00",
-   "tickers": [
-    "CME"
-   ]
-  },
-  {
    "id": "9643e5b7eb36",
    "title": "Walter Isaacson says the midterm elections will show impact of money in politics",
    "link": "https://biztoc.com/x/f88e64614480f512?ref=rss",
@@ -6662,20 +6836,6 @@
    "tickers": []
   },
   {
-   "id": "69b365bca238",
-   "title": "Soybeans Starting with Weakness on Tuesday",
-   "link": "https://www.nasdaq.com/articles/soybeans-starting-weakness-tuesday",
-   "summary": "Soybeans are trading 3 to 4 cents lower early on Tuesday. Futures were under pressure for much of Monday, with contracts down 6 ¾ to 17 ½ cents at the close. New selling interest was noted, with open interest down 9,487 contracts. The cmdtyView national average Cash Bean price was...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-03T18:39:55+00:00",
-   "tickers": []
-  },
-  {
    "id": "1a05d4b6acb7",
    "title": "7. čínsko-stredoeurópske fórum malých a stredných podnikov v Cangzhou otvára nové možnosti spolupráce",
    "link": "https://www.prnewswire.com/news-releases/7-insko-stredoeuropske-forum-malych-a-strednych-podnikov-v-cangzhou-otvara-nove-monosti-spoluprace-302928254.html",
@@ -7095,20 +7255,6 @@
    "tickers": [
     "SPCX"
    ]
-  },
-  {
-   "id": "e87cd17624fa",
-   "title": "Wall Street braces as voters head to high-stakes polls",
-   "link": "https://www.ft.com/content/c8a092e5-c1e4-46b8-83e1-73404900a0c5?syn-25a6b1a6=1",
-   "summary": "Vote will set the trajectory for everything from AI to public spending",
-   "article_text": "",
-   "source": "FT Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "ft.com",
-   "published": "2026-11-03T18:30:51+00:00",
-   "tickers": []
   },
   {
    "id": "15626dd62096",
@@ -8741,162 +8887,9 @@
    "tickers": [
     "MSFT"
    ]
-  },
-  {
-   "id": "1005c195e3f0",
-   "title": "Hunter Biden Says Joe Biden's Cancer Treatment 'Incredibly Taxing'",
-   "link": "https://biztoc.com/x/3d0b66ce1ead46d0?ref=rss",
-   "summary": "Joe Biden's battle with cancer is \"incredibly taxing\" on his body, his son Hunter has revealed in an update on the former president’s health. Biden, 83, was diagnosed with an aggressive form of prostate cancer in May 2025, shortly after his departure from the White House and has been receiving…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-03T18:11:13+00:00",
-   "tickers": []
-  },
-  {
-   "id": "f865a7feada1",
-   "title": "Dollar Rises With US Yields as Focus on Iran Outweighs Election",
-   "link": "https://biztoc.com/x/7217a18cd0b6e798?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-11-03T18:11:13+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e267977589b8",
-   "title": "Netflix will show you themed recommendations through a new ‘AI Discover’ tab",
-   "link": "https://biztoc.com/x/8c7cf32f16d4d418?ref=rss",
-   "summary": "Netflix’s TV app is getting a new “AI Discover” tab where the company will show experimental, AI-powered featuresto help you find new shows and movies to watch. Netflix will show you themed recommendations through a new ‘AI Discover’ tab Netflix’s first ‘AI Discover’ feature suggests content based…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-03T18:11:12+00:00",
-   "tickers": [
-    "NFLX"
-   ]
-  },
-  {
-   "id": "f52aec1ac2bc",
-   "title": "Merck’s Pipeline Could Be Its Next Big Growth Driver. Its Latest Earnings Offer a Clue",
-   "link": "https://biztoc.com/x/9412bf367ac5b654?ref=rss",
-   "summary": "The post Merck’s Pipeline Could Be Its Next Big Growth Driver. Its Latest Earnings Offer a Clue. appeared first on 24/7 Wall St.. Merck (NYSE:MRK) just posted its sixth consecutive earnings beat and raised its 2026 profit outlook. The 24/7 Wall St. price target stands at $124.70. Against the…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-03T18:11:10+00:00",
-   "tickers": [
-    "MRK"
-   ]
-  },
-  {
-   "id": "2afd7120729b",
-   "title": "Starbucks to Phase Out Impossible Breakfast Sandwich This Month",
-   "link": "https://biztoc.com/x/10b55b2d9833415d?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-03T18:11:09+00:00",
-   "tickers": [
-    "SBUX"
-   ]
-  },
-  {
-   "id": "bf6dcf002b00",
-   "title": "Tech Giants Try to Curb A.I.-Generated Misinformation About the Midterm Elections",
-   "link": "https://biztoc.com/x/0ce37bdcecfc9f72?ref=rss",
-   "summary": "OpenAI, Anthropic and other tech companies have vowed to protect Tuesday’s elections from efforts to undermine democracy.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-03T18:11:02+00:00",
-   "tickers": []
-  },
-  {
-   "id": "2184f8cd30cf",
-   "title": "AppLovin Rallies 6% Ahead of Earnings as Beaten-Down Ad-Tech Stocks Rebound; Unity Climbs 4%, The Trade Desk Edges Higher",
-   "link": "https://biztoc.com/x/a20c620ac1b47c9f?ref=rss",
-   "summary": "The post AppLovin Rallies 6% Ahead of Earnings as Beaten-Down Ad-Tech Stocks Rebound; Unity Climbs 4%, The Trade Desk Edges Higher appeared first on 24/7 Wall St.. Ad tech’s most battered large-cap name is snapping back a day before its third-quarter report. AppLovin (NASDAQ:APP) stock is at…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-11-03T18:11:02+00:00",
-   "tickers": [
-    "APP",
-    "TTD"
-   ]
-  },
-  {
-   "id": "8feb004decc4",
-   "title": "HSBC, JPMorgan Offer to Help Development Banks Get Capital Relief",
-   "link": "https://biztoc.com/x/5ddbde4a6a9a7c51?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-03T18:11:01+00:00",
-   "tickers": [
-    "HSBC",
-    "JIRE"
-   ]
-  },
-  {
-   "id": "dda9dd0e3ac6",
-   "title": "Nour Private Management Completes Acquisition of Mirabaud Canada's Wealth Management Business",
-   "link": "https://www.prnewswire.com/news-releases/nour-private-management-completes-acquisition-of-mirabaud-canadas-wealth-management-business-302928199.html",
-   "summary": "The acquisition expands NPW's integrated private wealth platform for ultra-high-net-worth families and institutions, with continuity of service for Mirabaud Canada clients as the primary focus. OAKVILLE, ON, Nov. 3, 2026 /PRNewswire/ -- Nour Private Wealth Inc. (NPW), together with its...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-11-03T18:11:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "c9d32211d31a",
-   "title": "The Election is Largely About Affordability. Inflation Isn't Letting Up",
-   "link": "https://biztoc.com/x/f6a7004a5a6d6d90?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-03T18:11:00+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
-  "JIRE": "JPMorgan International Research Enhanced Equity ETF",
   "VYMI": "Vanguard International High Dividend Yield ETF",
   "PFF": "iShares Preferred and Income Securities ETF",
   "DIA": "SPDR Dow Jones Industrial Average ETF",
@@ -8960,6 +8953,7 @@
   "GE": "General Electric",
   "ANET": "Arista Networks",
   "COIN": "Coinbase Global",
+  "DIS": "The Walt Disney",
   "EXP": "Eagle Materials",
   "GH": "Guardant Health",
   "LDOS": "Leidos Holdings",
@@ -8974,11 +8968,10 @@
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
   "NVT": "nVent Electric",
-  "TTD": "The Trade Desk",
   "CSCO": "Cisco Systems",
   "EG": "Everest Group",
-  "HSBC": "HSBC Holdings",
   "KO": "The Coca-Cola",
+  "LLY": "Eli Lilly and",
   "MT": "ArcelorMittal",
   "POST": "Post Holdings",
   "SU": "Suncor Energy",
@@ -9010,7 +9003,6 @@
   "DT": "Dynatrace",
   "JBTM": "JBT Marel",
   "MDT": "Medtronic",
-  "SBUX": "Starbucks",
   "TE": "T1 Energy",
   "NWSA": "News Corp",
   "APP": "AppLovin",
