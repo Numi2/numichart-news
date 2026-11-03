@@ -1,8 +1,67 @@
 {
- "generated": "2026-11-03T04:16:09.653409+00:00",
+ "generated": "2026-11-03T04:23:51.758520+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "dda1883c9a0c",
+   "title": "Highland Income Fund declares $0.0385 dividend",
+   "link": "https://seekingalpha.com/news/4663109-highland-income-fund-declares-0_0385-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-03T04:16:44+00:00",
+   "tickers": []
+  },
+  {
+   "id": "de73b2f4c60a",
+   "title": "Malibu Boats: Troubles Remain, But Stock Cheap Enough To Take A Cruise With (Rating Upgrade)",
+   "link": "https://seekingalpha.com/article/4961269-malibu-boats-troubles-remain-stock-cheap-earnings-preview?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-03T04:16:12+00:00",
+   "tickers": []
+  },
+  {
+   "id": "8ce3d1858bc9",
+   "title": "S&P 500 futures are flat as investors weigh Apple earnings; U.S. midterm elections loom: Live updates",
+   "link": "https://www.cnbc.com/2026/11/02/stock-market-today-live-updates.html",
+   "summary": "The S&P 500 and Nasdaq Composite started November with losses as investors sold tech stocks.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-11-03T04:16:01+00:00",
+   "tickers": [
+    "NDAQ",
+    "AAPL"
+   ]
+  },
+  {
+   "id": "b497b3bccfa6",
+   "title": "Earnings call transcript: Mindspace REIT posts record Q2 2026 DPU as growth stays strong",
+   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-mindspace-reit-posts-record-q2-2026-dpu-as-growth-stays-strong-93CH-4993465",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-11-03T04:15:27+00:00",
+   "tickers": []
+  },
   {
    "id": "942aa3181e0c",
    "title": "PIMCO California Municipal Income Fund declares $0.036 dividend",
@@ -45,23 +104,6 @@
    "published": "2026-11-03T04:14:00+00:00",
    "tickers": [
     "MSTR"
-   ]
-  },
-  {
-   "id": "8ce3d1858bc9",
-   "title": "S&P 500 futures are flat as investors weigh Apple earnings; U.S. midterm elections loom: Live updates",
-   "link": "https://www.cnbc.com/2026/11/02/stock-market-today-live-updates.html",
-   "summary": "The S&P 500 and Nasdaq Composite started November with losses as investors sold tech stocks.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-11-03T04:13:49+00:00",
-   "tickers": [
-    "NDAQ",
-    "AAPL"
    ]
   },
   {
@@ -121,6 +163,36 @@
    "tickers": []
   },
   {
+   "id": "1945a4a71496",
+   "title": "S&P 500 ends down; Apple dips ahead of quarterly report",
+   "link": "https://www.investing.com/news/stock-market-news/wall-street-futures-rise-as-ai-stocks-catch-their-breath-midterms-in-focus-4990733",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-03T04:12:21+00:00",
+   "tickers": [
+    "AAPL"
+   ]
+  },
+  {
+   "id": "78daa97387ca",
+   "title": "Endava earnings beat, revenue topped estimates",
+   "link": "https://www.investing.com/news/earnings/endava-earnings-beat-revenue-topped-estimates-4993456",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-11-03T04:12:02+00:00",
+   "tickers": []
+  },
+  {
    "id": "3fcb5c196d5a",
    "title": "Himel Highlights Electrical Solutions Addressing Evolving Industrial and Everyday Needs",
    "link": "https://www.prnewswire.com/news-releases/himel-highlights-electrical-solutions-addressing-evolving-industrial-and-everyday-needs-302927331.html",
@@ -135,6 +207,23 @@
    "tickers": []
   },
   {
+   "id": "37622dcc0cad",
+   "title": "Asia stocks mixed as Apple outlook weighs; RBA raises rates to 18-yr high",
+   "link": "https://www.investing.com/news/stock-market-news/asia-stocks-mixed-as-apple-outlook-weighs-rba-raises-rates-to-18yr-high-4993455",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-11-03T04:10:34+00:00",
+   "tickers": [
+    "AAPL",
+    "RBA"
+   ]
+  },
+  {
    "id": "c5f091b0a985",
    "title": "Hinge Health, Inc. (HNGE) Q3 2026 Earnings Call Transcript",
    "link": "https://seekingalpha.com/article/4961275-hinge-health-inc-hnge-q3-2026-earnings-call-transcript?source=feed_all_articles",
@@ -146,6 +235,64 @@
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
    "published": "2026-11-03T04:08:25+00:00",
+   "tickers": []
+  },
+  {
+   "id": "afd6f06ef0ee",
+   "title": "Soybeans Fall on Monday",
+   "link": "https://www.nasdaq.com/articles/soybeans-fall-monday",
+   "summary": "Soybeans were under pressure for much of Monday, with contracts down 6 ¾ to 17 ½ cents at the close. The cmdtyView national average Cash Bean price was down 12 3/4 cents at $11.51 3/4. Soymeal futures fell 50 cents to $5.40 at the close, with Soy Oil futures down...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-11-03T04:05:59+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b843efc9e517",
+   "title": "Hogs Fall Lower on Monday",
+   "link": "https://www.nasdaq.com/articles/hogs-fall-lower-monday",
+   "summary": "Lean hog futures closed Monday with nearby December down 70 cents and other contracts up 12 cents to $1.42. USDA’s national base hog price was reported at $50.01 in the Monday afternoon report, down $10.28 from the day prior. The CME Lean Hog Index was down 73 cents on October...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-11-03T04:05:59+00:00",
+   "tickers": [
+    "CME"
+   ]
+  },
+  {
+   "id": "a2c27b44f26a",
+   "title": "Corn Closes Higher on Monday",
+   "link": "https://www.nasdaq.com/articles/corn-closes-higher-monday",
+   "summary": "Corn futures firmed into the close, as contracts were up ½ to 2 cents across the board. The CmdtyView national average Cash Corn price was down 2 3/4 cents at $4.11 1/2. USDA reported a private export sale of 1.73 MMT of corn to Mexico, with 1.135 MMT for the...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-03T04:05:59+00:00",
+   "tickers": []
+  },
+  {
+   "id": "08194448c701",
+   "title": "Wheat Posts Monday Gains, Despite Abysmal Exports",
+   "link": "https://www.nasdaq.com/articles/wheat-posts-monday-gains-despite-abysmal-exports",
+   "summary": "The wheat complex was higher across most contracts on Monday. Chicago SRW contracts were 1 ¼ to 3 cents higher at the close. KC HRW futures saw fractional to 1 ¾ cent gains on the day. MPLS spring wheat was steady to 2 cents higher. NASS Crop Progress data showed...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-11-03T04:05:59+00:00",
    "tickers": []
   },
   {
@@ -279,6 +426,20 @@
    ]
   },
   {
+   "id": "b4ddb096f66d",
+   "title": "Gift Nifty 50 parabolic rally hits overbought RSI 75: Live levels",
+   "link": "https://www.investing.com/news/stock-market-news/gift-nifty-50-vbottom-rally-hits-overbought-zone-live-levels-93CH-4990309",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-11-03T04:02:17+00:00",
+   "tickers": []
+  },
+  {
    "id": "ad30817108df",
    "title": "Jazz Pharmaceuticals plc 2026 Q3 - Results - Earnings Call Presentation",
    "link": "https://seekingalpha.com/article/4961274-jazz-pharmaceuticals-plc-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
@@ -295,6 +456,36 @@
    ]
   },
   {
+   "id": "68b3c47eb9bf",
+   "title": "Jewett Cameron Trading Co director Melinda Bradley buys $17,389 in shares",
+   "link": "https://www.investing.com/news/insider-trading-news/jewett-cameron-trading-co-director-melinda-bradley-buys-17389-in-shares-93CH-4993450",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-03T04:01:17+00:00",
+   "tickers": []
+  },
+  {
+   "id": "185fc6694a8b",
+   "title": "Liberty Energy CFO Michael Stock sells $55,794 in company stock",
+   "link": "https://www.investing.com/news/insider-trading-news/liberty-energy-cfo-michael-stock-sells-55794-in-company-stock-93CH-4993449",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-03T04:00:56+00:00",
+   "tickers": [
+    "LBRT"
+   ]
+  },
+  {
    "id": "86161847eb01",
    "title": "Fuji Electric Co., Ltd. (FELTY) Q3 2025 Earnings Call Prepared Remarks Transcript",
    "link": "https://seekingalpha.com/article/4872326-fuji-electric-co-ltd-felty-q3-2025-earnings-call-prepared-remarks-transcript?source=feed_all_articles",
@@ -306,6 +497,55 @@
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
    "published": "2026-11-03T04:00:41+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f1333e845085",
+   "title": "Oracle taps investors for $20 billion to finance AI expansion",
+   "link": "https://www.investing.com/news/stock-market-news/oracle-to-offer-10-billion-in-bonds-4991687",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-03T04:00:29+00:00",
+   "tickers": [
+    "ORCL"
+   ]
+  },
+  {
+   "id": "34a1ee60679d",
+   "title": "Broader Market Settles Lower on Weakness in Chipmakers and AI Stocks",
+   "link": "https://www.nasdaq.com/articles/broader-market-settles-lower-weakness-chipmakers-and-ai-stocks",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down -0.51% on Monday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.41%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -1.39%. December E-mini S&P futures (ESZ26 ) fell -0.49%, and December E-mini Nasdaq futures...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-11-03T03:59:54+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
+  },
+  {
+   "id": "1531ca922169",
+   "title": "Cotton Facing Midday Weakness",
+   "link": "https://www.nasdaq.com/articles/cotton-facing-midday-weakness-0",
+   "summary": "Cotton futures are down 40 to 52 points across most contracts on Monday, with crude oil adding some spillover pressure. Crude oil is falling $8.20 per barrel on the session, with the US dollar index $0.210 lower. The large managed money speculators and cotton futures and options cut 10,276 contracts...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-03T03:59:53+00:00",
    "tickers": []
   },
   {
@@ -391,6 +631,22 @@
    "domain": "prnewswire.com",
    "published": "2026-11-03T03:56:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "3f8dbf92c117",
+   "title": "Coca-Cola Is Exercising its Pricing Power as Inflation Persists",
+   "link": "https://www.nasdaq.com/articles/coca-cola-exercising-its-pricing-power-inflation-persists",
+   "summary": "Should you buy stock in Coca-Cola right now? Before you buy stock in Coca-Cola, consider this:Missed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Tot",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-03T03:55:02+00:00",
+   "tickers": [
+    "KO"
+   ]
   },
   {
    "id": "5ba39b08dbb0",
@@ -641,50 +897,6 @@
    "tickers": []
   },
   {
-   "id": "1531ca922169",
-   "title": "Cotton Facing Midday Weakness",
-   "link": "https://www.nasdaq.com/articles/cotton-facing-midday-weakness-0",
-   "summary": "Cotton futures are down 40 to 52 points across most contracts on Monday, with crude oil adding some spillover pressure. Crude oil is falling $8.20 per barrel on the session, with the US dollar index $0.210 lower. The large managed money speculators and cotton futures and options cut 10,276 contracts...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-03T03:47:57+00:00",
-   "tickers": []
-  },
-  {
-   "id": "afd6f06ef0ee",
-   "title": "Soybeans Fall on Monday",
-   "link": "https://www.nasdaq.com/articles/soybeans-fall-monday",
-   "summary": "Soybeans were under pressure for much of Monday, with contracts down 6 ¾ to 17 ½ cents at the close. The cmdtyView national average Cash Bean price was down 12 3/4 cents at $11.51 3/4. Soymeal futures fell 50 cents to $5.40 at the close, with Soy Oil futures down...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-11-03T03:47:57+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b843efc9e517",
-   "title": "Hogs Fall Lower on Monday",
-   "link": "https://www.nasdaq.com/articles/hogs-fall-lower-monday",
-   "summary": "Lean hog futures closed Monday with nearby December down 70 cents and other contracts up 12 cents to $1.42. USDA’s national base hog price was reported at $50.01 in the Monday afternoon report, down $10.28 from the day prior. The CME Lean Hog Index was down 73 cents on October...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-11-03T03:47:57+00:00",
-   "tickers": [
-    "CME"
-   ]
-  },
-  {
    "id": "1771bbf367ed",
    "title": "Corn Posting Mixed Monday Trade",
    "link": "https://www.nasdaq.com/articles/corn-posting-mixed-monday-trade",
@@ -755,6 +967,54 @@
    "domain": "cnbc.com",
    "published": "2026-11-03T03:46:20+00:00",
    "tickers": []
+  },
+  {
+   "id": "500c7f7e339c",
+   "title": "Franklin BSP Realty Trust, Inc. - Preferred Stock Price Target Decreased by 11.42% to $31.01",
+   "link": "https://www.nasdaq.com/articles/franklin-bsp-realty-trust-inc-preferred-stock-price-target-decreased-1142-3101",
+   "summary": "The average one-year price target for Franklin BSP Realty Trust, Inc. - Preferred Stock (NYSE:FBRT.PRE) has been revised to $31.01 / share. This is a decrease of 11.42% from the prior estimate of $35.01 dated October 22, 2026. These figures represent an aggregate",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "analyst",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-03T03:46:12+00:00",
+   "tickers": [
+    "BEN"
+   ]
+  },
+  {
+   "id": "052757a3e084",
+   "title": "Rithm Capital - Preferred Stock Price Target Decreased by 13.52% to $33.18",
+   "link": "https://www.nasdaq.com/articles/rithm-capital-preferred-stock-price-target-decreased-1352-3318",
+   "summary": "The average one-year price target for Rithm Capital - Preferred Stock (NYSE:RITM.PRC) has been revised to $33.18 / share. This is a decrease of 13.52% from the prior estimate of $38.37 dated October 22, 2026. These figures represent aggregate analyst targets and",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "analyst",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-03T03:45:15+00:00",
+   "tickers": [
+    "RITM"
+   ]
+  },
+  {
+   "id": "ee25c50c9bd0",
+   "title": "ACRES Commercial Realty - Preferred Stock Price Target Decreased by 39.10% to $22.49",
+   "link": "https://www.nasdaq.com/articles/acres-commercial-realty-preferred-stock-price-target-decreased-3910-2249",
+   "summary": "The average one-year price target for ACRES Commercial Realty - Preferred Stock (NYSE:ACR.PRD) (DB:R9L0) has been revised to $22.49 / share. This is a decrease of 39.10% from the prior estimate of $36.94 dated October 22, 2026. Please note that these figures represent aggregate a",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "analyst",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-03T03:45:01+00:00",
+   "tickers": [
+    "DB"
+   ]
   },
   {
    "id": "dedf4a31b688",
@@ -1885,20 +2145,6 @@
    ]
   },
   {
-   "id": "a2c27b44f26a",
-   "title": "Corn Closes Higher on Monday",
-   "link": "https://www.nasdaq.com/articles/corn-closes-higher-monday",
-   "summary": "Corn futures firmed into the close, as contracts were up ½ to 2 cents across the board. The CmdtyView national average Cash Corn price was down 2 3/4 cents at $4.11 1/2. USDA reported a private export sale of 1.73 MMT of corn to Mexico, with 1.135 MMT for the...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-03T03:11:02+00:00",
-   "tickers": []
-  },
-  {
    "id": "8cf69f0ceeb3",
    "title": "Dollar Falls with Crude Oil Prices and Bond Yields",
    "link": "https://www.nasdaq.com/articles/dollar-falls-crude-oil-prices-and-bond-yields",
@@ -2796,39 +3042,6 @@
    "domain": "investing.com",
    "published": "2026-11-03T02:42:26+00:00",
    "tickers": []
-  },
-  {
-   "id": "08194448c701",
-   "title": "Wheat Posts Monday Gains, Despite Abysmal Exports",
-   "link": "https://www.nasdaq.com/articles/wheat-posts-monday-gains-despite-abysmal-exports",
-   "summary": "The wheat complex was higher across most contracts on Monday. Chicago SRW contracts were 1 ¼ to 3 cents higher at the close. KC HRW futures saw fractional to 1 ¾ cent gains on the day. MPLS spring wheat was steady to 2 cents higher. NASS Crop Progress data showed...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-11-03T02:40:55+00:00",
-   "tickers": []
-  },
-  {
-   "id": "34a1ee60679d",
-   "title": "Broader Market Settles Lower on Weakness in Chipmakers and AI Stocks",
-   "link": "https://www.nasdaq.com/articles/broader-market-settles-lower-weakness-chipmakers-and-ai-stocks",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down -0.51% on Monday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.41%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -1.39%. December E-mini S&P futures (ESZ26 ) fell -0.49%, and December E-mini Nasdaq futures...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-11-03T02:40:54+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
-   ]
   },
   {
    "id": "5a81d2f66036",
@@ -4563,7 +4776,7 @@
    "title": "Apple's stock drops on weak margin forecast in Ternus’ first earnings report",
    "link": "https://www.cnbc.com/2026/11/02/apple-aapl-q4-2026-earnings-live-updates.html",
    "summary": "Follow Apple Q4 2026 earnings live for revenue, EPS, iPhone sales, China performance, AI updates, holiday guidance and AAPL stock reaction.",
-   "article_text": "Apple Q4 2026 earnings live updates: Ternus' first call Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu watch now VIDEO 3:15 03:15 Apple beats on revenue in John Ternus' first quarter as CEO Closing Bell: Overtime Apple reported better-than-expected revenue but came up short of estimates on iPad sales for the fiscal fourth quarter and issued a disappointing margin forecast. The stock slid 3% in extended trading. Here's how the company did compared to analysts' estimates, according to LSEG. EPS: $2.10 vs. $1.99 expected Revenue: $114.48 billion vs. $113.39 billion expected Here's how Apple's most important product lines performed: iPhone revenue : $57.58 billion vs. $56.54 billion estimated Mac revenue : $10.79 billion vs. $9.61 billion estimated iPad revenue : $6.23 billion vs. $6.7 billion estimated Other Products revenue : $31.57 billion vs. $31.58 billion estimated Wearables, Home and Accessories revenue : $8.3 billion vs. $9.06 billion estimated Gross margin : 47.9% vs. 47.5% estimated It's Apple's first earnings report since CEO John Ternus took the helm on Sept. 1, succeeding Tim Cook . On the earnings call, Apple said it expects revenue to increase between 7% and 10% on an annual basis in the December quarter, compared to the 6.1% average analyst estimate, according to LSEG. The company's gross margin forecast for the current quarter is 45% to 46%, trailing the 46.3% average estimate. Revenue in the past quarter rose 12% from $102.5 billion a year earlier, Apple said in a statement on Monday. Apple's iPhone revenue in the quarter only included eight days of new iPhone 18 Pro sales. And Apple's new flagship device, the iPhone Duo, didn't hit store shelves until the period was over. Monday's report includes a full quarter of higher-priced Apple products, as the company raised prices across the board in June after it signaled challenges with memory supply and other parts. Apple increased prices on iPhones by $100. The iPhone maker is reckoning with a global memory crunch and a rush for computer components. Apple said on Monday that its memory costs were higher this quarter than in the June period. Still, Ternus said in a statement that Apple had just capped off its \"best fiscal year ever.\" Ternus told CNBC's MacKenzie Sigalos that Apple's growth came in spite of supply constraints and foreign exchange headwinds. \"I think at this point, with everything we've achieved, it just feels like we've never been more confident that the best is yet to come,\" Ternus said. Ternus said that Apple \"reluctantly\" raised prices, which helped it offset component costs. Apple said tariff refunds added 5 cents to earnings per share. Correction: A prior version of this story had an incorrect forecast for first-quarter guidance and incorrect figures for two segments. Read more CNBC Apple news Apple brings touch to the Mac, ending decades-old stance on touchscreen laptops Apple stock has become an anti-AI trade. Here’s why Apple responds to user reports of broken iPhone Duo screens 6 Hours Ago Street doesn't love Apple's guidance At the end of prepared remarks, Apple CFO Kevan Parekh provided a guide for the December quarter. He said that Apple's revenue would grow between 7% and 10%. Analysts polled by LSEG were looking for 6.1%. Apple said that it expected services sales to rise between 8% and 9%, signaling slowing growth. Parekh also said that gross margin would be between 45% and 46%, lower than in the fourth quarter. — Kif Leswing 6 Hours Ago CEO John Ternus addresses investors and analysts on earnings call for the first time as Apple chief Ternus is leading Apple's quarterly earnings call for the first time. He started with prepared remarks highlighting the company's packed schedule of product launches since he took over, including new iPhones, Home products, and touch screen laptops. \"This is an amazing time at Apple,\" Ternus said. \"We just completed one of the most prolific launch periods in our history.\" — Kif Leswing 6 Hours Ago Ternus points to hardware monetization for Siri AI Apple CEO John Ternus delivers a keynote address during the Apple Experience LA event in Los Angeles, California, on Oct. 28, 2026, introducing new Mac computer models. Frederic J. Brown | AFP | Getty Images Apple released an updated Siri AI during the quarter, a free upgrade for people who own iPhones new enough to support the software. Investors want to know if Apple will offer more AI features through subscriptions or services. Ternus said on Monday that Apple has a \"lot of opportunities\" for monetization. \"One example is on the hardware side, right?\" Ternus said. \"It offers a compelling reason for upgrading or switching.\" — Kif Leswing 6 Hours Ago iPhone remains half of Apple's sales Apple remains synonymous with the iPhone, which accounted for just over half of Apple's sales in the quarter. Sales of iPhones jumped over 17%, capping off four quarters of strong growth behind last year's iPhone 17 models. Ternus said industry research firms reported market share gains for Apple during the quarter. — Kif Leswing 6 Hours Ago Slowest growth for services since 2022 Customers at the Apple Music section of the new Apple Inc. store in Mumbai, India, on Tuesday, April 18, 2023. Dhiraj Singh | Bloomberg | Getty Images The company's profitable services business grew less than 10% during the September quarter, the slowest expansion since 2022. The category includes a wide variety of products and subscriptions, including iCloud storage, App Store fees, AppleCare warranties, and licensing revenue from Google for using its search engine on the Safari browser. \"We saw strong performance in many service categories, with all-time records in video, cloud services, payment services, and advertising, and a September quarter record in music,\" Ternus told CNBC. — Kif Leswing 6 Hours Ago Apple capex remains far below hyperscaler spending Compared to its megacap peers, which are pouring hundreds of billions of dollars into AI capital expenditures, Apple is a light spender. Apple reported $2.24 billion in capex during the quarter, even lower than the $3.33 billion estimated by LSEG. — Kif Leswing 6 Hours Ago 'A new kind of plan' for Home The Apple HomeView, an iPad-like device meant to hang on walls or perch on tabletops that will showcase its AI-upgraded Siri virtual assistant, during a launch of smart home products in New York City, US, October 13, 2026. Shannon Stapleton | Reuters In August, Apple announced a new home product called HomeView that uses AI and a display to show personalized information to multiple users in a family. It's potentially a sign that Apple is going to take its home accessories more seriously under Ternus. For the September quarter, the category, which includes headphones, speakers, and the Apple TV hardware, was a laggard, with sales declining nearly 8% to $8.3 billion, trailing the $9.06 billion average analyst estimate, according to LSEG. \"With the home products, we're really establishing a new kind of plan for our home,\" Ternus told CNBC. — Kif Leswing 6 Hours Ago Strong growth in China Apple's Greater China business grew 21% on an annual basis to $17.53 billion in sales. The region includes the mainland as well as Taiwan and Hong Kong. Apple said the growth was due to iPhone and Mac sales. — Kif Leswing 7 Hours Ago Mac continues surge Apple's Mac division grew the most of any of the product categories during the quarter, with revenue surging nearly 24% on an annual basis to $10.79 billion, topping analyst estimates. Apple has been positioning its Mac lineup of desktops and laptops to provide the company a foothold in AI. It also announced new chips, Mac Studio and Mac Mini models in August. Last week, Apple introduced its first MacBook with a touch screen, although it hasn't hit store shelves yet. Ternus said that Mac growth was attributable to strong sales of its MacBook Neo, its low-cost laptop, and",
+   "article_text": "Apple Q4 2026 earnings live updates: Ternus' first call Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu watch now VIDEO 3:15 03:15 Apple beats on revenue in John Ternus' first quarter as CEO Closing Bell: Overtime Apple reported better-than-expected revenue but came up short of estimates on iPad sales for the fiscal fourth quarter and issued a disappointing margin forecast. The stock slid 3% in extended trading. Here's how the company did compared to analysts' estimates, according to LSEG. EPS: $2.10 vs. $1.99 expected Revenue: $114.48 billion vs. $113.39 billion expected Here's how Apple's most important product lines performed: iPhone revenue : $57.58 billion vs. $56.54 billion estimated Mac revenue : $10.79 billion vs. $9.61 billion estimated iPad revenue : $6.23 billion vs. $6.7 billion estimated Other Products revenue : $31.57 billion vs. $31.58 billion estimated Wearables, Home and Accessories revenue : $8.3 billion vs. $9.06 billion estimated Gross margin : 47.9% vs. 47.5% estimated It's Apple's first earnings report since CEO John Ternus took the helm on Sept. 1, succeeding Tim Cook . On the earnings call, Apple said it expects revenue to increase between 7% and 10% on an annual basis in the December quarter, compared to the 6.1% average analyst estimate, according to LSEG. The company's gross margin forecast for the current quarter is 45% to 46%, trailing the 46.3% average estimate. Revenue in the past quarter rose 12% from $102.5 billion a year earlier, Apple said in a statement on Monday. Apple's iPhone revenue in the quarter only included eight days of new iPhone 18 Pro sales. And Apple's new flagship device, the iPhone Duo, didn't hit store shelves until the period was over. Monday's report includes a full quarter of higher-priced Apple products, as the company raised prices across the board in June after it signaled challenges with memory supply and other parts. Apple increased prices on iPhones by $100. The iPhone maker is reckoning with a global memory crunch and a rush for computer components. Apple said on Monday that its memory costs were higher this quarter than in the June period. Still, Ternus said in a statement that Apple had just capped off its \"best fiscal year ever.\" Ternus told CNBC's MacKenzie Sigalos that Apple's growth came in spite of supply constraints and foreign exchange headwinds. \"I think at this point, with everything we've achieved, it just feels like we've never been more confident that the best is yet to come,\" Ternus said. Ternus said that Apple \"reluctantly\" raised prices, which helped it offset component costs. Apple said tariff refunds added 5 cents to earnings per share. Correction: A prior version of this story had an incorrect forecast for first-quarter guidance and incorrect figures for two segments. Read more CNBC Apple news Apple brings touch to the Mac, ending decades-old stance on touchscreen laptops Apple stock has become an anti-AI trade. Here’s why Apple responds to user reports of broken iPhone Duo screens 6 Hours Ago Street doesn't love Apple's guidance At the end of prepared remarks, Apple CFO Kevan Parekh provided a guide for the December quarter. He said that Apple's revenue would grow between 7% and 10%. Analysts polled by LSEG were looking for 6.1%. Apple said that it expected services sales to rise between 8% and 9%, signaling slowing growth. Parekh also said that gross margin would be between 45% and 46%, lower than in the fourth quarter. — Kif Leswing 6 Hours Ago CEO John Ternus addresses investors and analysts on earnings call for the first time as Apple chief Ternus is leading Apple's quarterly earnings call for the first time. He started with prepared remarks highlighting the company's packed schedule of product launches since he took over, including new iPhones, Home products, and touch screen laptops. \"This is an amazing time at Apple,\" Ternus said. \"We just completed one of the most prolific launch periods in our history.\" — Kif Leswing 6 Hours Ago Ternus points to hardware monetization for Siri AI Apple CEO John Ternus delivers a keynote address during the Apple Experience LA event in Los Angeles, California, on Oct. 28, 2026, introducing new Mac computer models. Frederic J. Brown | AFP | Getty Images Apple released an updated Siri AI during the quarter, a free upgrade for people who own iPhones new enough to support the software. Investors want to know if Apple will offer more AI features through subscriptions or services. Ternus said on Monday that Apple has a \"lot of opportunities\" for monetization. \"One example is on the hardware side, right?\" Ternus said. \"It offers a compelling reason for upgrading or switching.\" — Kif Leswing 7 Hours Ago iPhone remains half of Apple's sales Apple remains synonymous with the iPhone, which accounted for just over half of Apple's sales in the quarter. Sales of iPhones jumped over 17%, capping off four quarters of strong growth behind last year's iPhone 17 models. Ternus said industry research firms reported market share gains for Apple during the quarter. — Kif Leswing 7 Hours Ago Slowest growth for services since 2022 Customers at the Apple Music section of the new Apple Inc. store in Mumbai, India, on Tuesday, April 18, 2023. Dhiraj Singh | Bloomberg | Getty Images The company's profitable services business grew less than 10% during the September quarter, the slowest expansion since 2022. The category includes a wide variety of products and subscriptions, including iCloud storage, App Store fees, AppleCare warranties, and licensing revenue from Google for using its search engine on the Safari browser. \"We saw strong performance in many service categories, with all-time records in video, cloud services, payment services, and advertising, and a September quarter record in music,\" Ternus told CNBC. — Kif Leswing 7 Hours Ago Apple capex remains far below hyperscaler spending Compared to its megacap peers, which are pouring hundreds of billions of dollars into AI capital expenditures, Apple is a light spender. Apple reported $2.24 billion in capex during the quarter, even lower than the $3.33 billion estimated by LSEG. — Kif Leswing 7 Hours Ago 'A new kind of plan' for Home The Apple HomeView, an iPad-like device meant to hang on walls or perch on tabletops that will showcase its AI-upgraded Siri virtual assistant, during a launch of smart home products in New York City, US, October 13, 2026. Shannon Stapleton | Reuters In August, Apple announced a new home product called HomeView that uses AI and a display to show personalized information to multiple users in a family. It's potentially a sign that Apple is going to take its home accessories more seriously under Ternus. For the September quarter, the category, which includes headphones, speakers, and the Apple TV hardware, was a laggard, with sales declining nearly 8% to $8.3 billion, trailing the $9.06 billion average analyst estimate, according to LSEG. \"With the home products, we're really establishing a new kind of plan for our home,\" Ternus told CNBC. — Kif Leswing 7 Hours Ago Strong growth in China Apple's Greater China business grew 21% on an annual basis to $17.53 billion in sales. The region includes the mainland as well as Taiwan and Hong Kong. Apple said the growth was due to iPhone and Mac sales. — Kif Leswing 7 Hours Ago Mac continues surge Apple's Mac division grew the most of any of the product categories during the quarter, with revenue surging nearly 24% on an annual basis to $10.79 billion, topping analyst estimates. Apple has been positioning its Mac lineup of desktops and laptops to provide the company a foothold in AI. It also announced new chips, Mac Studio and Mac Mini models in August. Last week, Apple introduced its first MacBook with a touch screen, although it hasn't hit store shelves yet. Ternus said that Mac growth was attributable to strong sales of its MacBook Neo, its low-cost laptop, and",
    "source": "CNBC Earnings",
    "category": "earnings",
    "type": "earnings",
@@ -6596,22 +6809,6 @@
    ]
   },
   {
-   "id": "f1333e845085",
-   "title": "Oracle taps investors for $20 billion to finance AI expansion",
-   "link": "https://www.investing.com/news/stock-market-news/oracle-to-offer-10-billion-in-bonds-4991687",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-03T00:54:37+00:00",
-   "tickers": [
-    "ORCL"
-   ]
-  },
-  {
    "id": "2748958cb4f4",
    "title": "Singapore’s Grab lifts 2026 forecasts on strong ride-hailing, delivery demand",
    "link": "https://www.investing.com/news/stock-market-news/grab-holdings-boosts-2026-forecasts-on-strong-delivery-ridehailing-demand-4993190",
@@ -7354,22 +7551,6 @@
    "domain": "investing.com",
    "published": "2026-11-03T00:30:56+00:00",
    "tickers": []
-  },
-  {
-   "id": "1945a4a71496",
-   "title": "S&P 500 ends down; Apple dips ahead of quarterly report",
-   "link": "https://www.investing.com/news/stock-market-news/wall-street-futures-rise-as-ai-stocks-catch-their-breath-midterms-in-focus-4990733",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-03T00:30:24+00:00",
-   "tickers": [
-    "AAPL"
-   ]
   },
   {
    "id": "512545517f5c",
@@ -8650,182 +8831,6 @@
    "tickers": [
     "DB"
    ]
-  },
-  {
-   "id": "e4b25ad309cd",
-   "title": "Rosen Law Firm Encourages NVE Corporation Investors to Inquire About Securities Class Action Investigation - NVEC",
-   "link": "https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-nve-corporation-investors-to-inquire-about-securities-class-action-investigation---nvec-302926905.html",
-   "summary": "NEW YORK, Nov. 2, 2026 /PRNewswire/ -- Why: Rosen Law Firm, a global investor rights law firm, announces an investigation of potential securities claims on behalf of shareholders of NVE Corporation (NASDAQ: NVEC) resulting from allegations that NVE Corporation may have issued materially...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "prnewswire.com",
-   "published": "2026-11-02T23:52:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "92d18312d2d3",
-   "title": "Notice of Data Event",
-   "link": "https://www.prnewswire.com/news-releases/notice-of-data-event-302927076.html",
-   "summary": "EAST LONGMEADOW, Mass., Nov. 2, 2026 /PRNewswire/ -- Magnolia Management Company, LLC (\"Magnolia\") is providing notice of a recent data privacy event that may have affected limited protected health information for certain individuals. On April 3, 2026, Magnolia became aware of...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-11-02T23:52:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "67620863a0a6",
-   "title": "South Korea CPI grows less than expected in Oct",
-   "link": "https://www.investing.com/news/economic-indicators/south-korea-cpi-grows-less-than-expected-in-oct-4993229",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-02T23:51:35+00:00",
-   "tickers": []
-  },
-  {
-   "id": "77f5d2a3d076",
-   "title": "Oruka Therapeutics CEO Lawrence Klein sells $2.39M in stock",
-   "link": "https://www.investing.com/news/insider-trading-news/oruka-therapeutics-ceo-lawrence-klein-sells-239m-in-stock-93CH-4993228",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-02T23:51:23+00:00",
-   "tickers": []
-  },
-  {
-   "id": "dbf7427d8d9d",
-   "title": "Saba Capital Management acquires $136,120 of ECF common stock",
-   "link": "https://www.investing.com/news/insider-trading-news/saba-capital-management-acquires-136120-of-ecf-common-stock-93CH-4993227",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-02T23:51:12+00:00",
-   "tickers": []
-  },
-  {
-   "id": "2bbabf21a3f1",
-   "title": "Apple Q4: Record Earnings, Broken Expectations - I'm Downgrading",
-   "link": "https://seekingalpha.com/article/4961187-apple-q4-record-earnings-broken-expectations-im-downgrading?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-02T23:50:53+00:00",
-   "tickers": [
-    "AAPL"
-   ]
-  },
-  {
-   "id": "85d0b4dab592",
-   "title": "En marge de Gateway Gulf 2026, Tamkeen signe un protocole d'accord avec EY MENA pour établir un centre de talents EY à Bahreïn et créer 125 emplois, soutenant ainsi la région MENA",
-   "link": "https://www.prnewswire.com/news-releases/en-marge-de-gateway-gulf-2026-tamkeen-signe-un-protocole-daccord-avec-ey-mena-pour-etablir-un-centre-de-talents-ey-a-bahrein-et-creer-125-emplois-soutenant-ainsi-la-region-mena-302927071.html",
-   "summary": "MANAMA, Bahreïn, 3 novembre 2026 /PRNewswire/ -- En marge de Gateway Gulf 2026, le Fonds du travail (Tamkeen) a annoncé la signature d'un protocole d'accord (MoU) avec EY MENA qui vise à établir un centre de talents EY dans le Royaume de Bahreïn. Une fois établi, ce centre devrait...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-11-02T23:49:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e166a318a768",
-   "title": "Grifols, S.A. (GIKLY) Q3 2026 Earnings Call Transcript",
-   "link": "https://seekingalpha.com/article/4961235-grifols-s-a-gikly-q3-2026-earnings-call-transcript?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-02T23:48:25+00:00",
-   "tickers": []
-  },
-  {
-   "id": "9f9e90f84413",
-   "title": "Robinhood CFO on Retail IPO Demand, Agentic Trading",
-   "link": "https://biztoc.com/x/aebabd00b0769c6f?ref=rss",
-   "summary": "Robinhood is competing with other retail brokerages over access to Anthropic's mega-IPO and others as they come to market.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "offering",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-02T23:48:01+00:00",
-   "tickers": [
-    "HOOD"
-   ]
-  },
-  {
-   "id": "7ae4dc066d60",
-   "title": "The Untold Story Of The Elizabeth Holmes Photo That Framed The Scandal",
-   "link": "https://biztoc.com/x/a43f765cd7b68a82?ref=rss",
-   "summary": "Is one of Forbes most famous portraits deceiving us or just telling us what we want to hear? Examining the extraordinary afterlife of ...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-11-02T23:47:56+00:00",
-   "tickers": []
-  },
-  {
-   "id": "c05b7b1d2f83",
-   "title": "Stocks making the biggest moves after hours: Fabrinet, Clorox, Apple, Palantir & more",
-   "link": "https://www.cnbc.com/2026/11/02/stocks-making-the-biggest-moves-after-hours-fn-clx-aapl-pltr.html",
-   "summary": "Here are some of the companies making headlines in extended trading.",
-   "article_text": "Stocks making the biggest moves after hours: FN, CLX, AAPL, PLTR Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Here are some of the companies making headlines in extended trading. Upwork – Shares of the freelance marketplace surged 10% on the back of a guidance raise. Full-year adjusted earnings are expected to range from $1.45 to $1.47 per share, topping the FactSet consensus of $1.39 per share. Palantir Technologies — Palantir shares were down 2% even after the company's third-quarter earnings topped Wall Street's estimates. Revenue for the period nearly doubled from a year earlier and surpassed $2 billion for the first time. The company's U.S. commercial revenue jumped 148% to $984 million, topping U.S. government revenue of $953 million. Palantir is also projecting about $2.65 billion in fourth-quarter revenue and $8.53 billion for full-year 2026. Lattice Semiconductor — The company's stock jumped 8% after Lattice solidly outpaced third-quarter revenue estimates and raised its forecast for the year. The semiconductor designer expects fourth-quarter revenue of between $325 million and $345 million, above the $293 million LSEG consensus estimate, and anticipates it will earn 82 cents to 86 cents per share after adjustments, topping the consensus estimate of 64 cents per share. The Clorox Company — The maker of Clorox Disinfecting Wipes added 2% after fiscal first-quarter results came in ahead of estimates. The company earned $1.55 per share on an adjusted basis on revenue of $1.91 billion. Analysts surveyed by LSEG were looking for $1.07 a share and $1.88 billion. Organic sales growth for the period also topped estimates. On Semiconductor — Shares fell about 2%. On Semiconductor said it would acquire Ferric, a maker of power converters, for $600 million in cash, plus up to $175 million in contingent consideration if certain revenue milestones are reached. Separately, the company said it expects fourth-quarter adjusted earnings in a range of 95 cents to $1.07 per share, while analysts polled by LSEG called for 95 cents per share. Apple — Apple shares were down 2% in extended trading after the consumer tech giant rolled out a disappointing margin forecast and iPad sales in the fiscal fourth quarter missed the Street's estimates. Fabrinet – The provider of advanced optical packaging jumped more than 10% after current-quarter guidance trounced the Street's estimates. Fabrinet sees second-quarter adjusted earnings in a range of $4.77 to $4.92 per share on revenue of $1.6 billion to $1.65 billion. Analysts were looking for $4.43 a share and $1.48 billion, per FactSet. Ibotta — The digital consumer promotions company gained 13% after its fourth-quarter guidance beat analysts' expectations. Ibotta sees revenue in a range of $94 million to $98 million, beating the FactSet consensus estimate of $93.4 million. Adjusted EBITDA also topped expectations. CNBC's Deena Zaidi, Scott Schnipper, Christina Cheddar Berk and Nick Wells contributed reporting. Correction: A prior version of this story had an incorrect forecast for Apple's first-quarter guidance.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-11-02T23:47:49+00:00",
-   "tickers": [
-    "FN",
-    "PLTR",
-    "AAPL"
-   ]
-  },
-  {
-   "id": "e1793aa45961",
-   "title": "BREAKING: Supreme Court REJECTS Trump's last minute effort to INTERFERE in California election",
-   "link": "https://biztoc.com/x/9546b14242a9000b?ref=rss",
-   "summary": "Nicolle Wallace is joined by Norm Eisen, whose group is defending California voters, for his instant reaction to the Supreme Court ...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-02T23:47:45+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8887,11 +8892,14 @@
   "SCCO": "Southern Copper",
   "VAL": "Valaris Limited",
   "VRT": "Vertiv Holdings",
+  "LBRT": "Liberty Energy",
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
   "QBTS": "D-Wave Quantum",
+  "KO": "The Coca-Cola",
   "LLY": "Eli Lilly and",
   "O": "Realty Income",
+  "RITM": "Rithm Capital",
   "MSTR": "MicroStrategy",
   "EPAM": "EPAM Systems",
   "R": "Ryder System",
