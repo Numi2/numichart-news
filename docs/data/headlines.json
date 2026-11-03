@@ -1,8 +1,81 @@
 {
- "generated": "2026-11-03T08:21:20.441206+00:00",
+ "generated": "2026-11-03T08:29:22.860886+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "de2dab14e2cb",
+   "title": "U.S. strikes Iran’s Qeshm Island as Vance hopes for ‘negotiated settlement’ with Tehran",
+   "link": "https://www.cnbc.com/2026/11/03/iran-us-vance-trump-strikes.html",
+   "summary": "U.S. military carried out attacks on Iran's Qeshm Island on Monday, even as the Trump administration has been underplaying war risks.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "cnbc.com",
+   "published": "2026-11-03T08:27:23+00:00",
+   "tickers": []
+  },
+  {
+   "id": "8ce3d1858bc9",
+   "title": "S&P 500 futures are flat as investors weigh Apple earnings; U.S. midterm elections loom: Live updates",
+   "link": "https://www.cnbc.com/2026/11/02/stock-market-today-live-updates.html",
+   "summary": "The S&P 500 and Nasdaq Composite started November with losses as investors sold tech stocks.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-11-03T08:22:21+00:00",
+   "tickers": [
+    "NDAQ",
+    "AAPL"
+   ]
+  },
+  {
+   "id": "fe28700a15bd",
+   "title": "Saudi Aramco Profit Jumps Despite Damaging Attacks on Pipelines and Refineries",
+   "link": "https://www.nytimes.com/2026/11/03/business/saudi-aramco-q3-earnings.html",
+   "summary": "Saudi Arabia’s state-owned oil company posted a 9 percent increase in third-quarter profit on Tuesday.",
+   "article_text": "",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "positive",
+   "domain": "nytimes.com",
+   "published": "2026-11-03T08:20:55+00:00",
+   "tickers": []
+  },
+  {
+   "id": "1b0e443cb683",
+   "title": "Schaeffler: €4 Remains Generous Because Of E-Mobility Struggles",
+   "link": "https://seekingalpha.com/article/4961315-schaeffler-stock-euro-4-remains-generous-because-of-e-mobility-struggles?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-03T08:20:34+00:00",
+   "tickers": []
+  },
+  {
+   "id": "9ec98ddef5ba",
+   "title": "Frontier Airlines: The Turnaround Is Working, But Fuel Costs Remain A Risk",
+   "link": "https://seekingalpha.com/article/4961314-frontier-airlines-the-turnaround-is-working-but-fuel-costs-remain-a-risk?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-03T08:20:00+00:00",
+   "tickers": []
+  },
   {
    "id": "6271d7f569c2",
    "title": "UBS downgrades adidas to sell as footwear slowdown threatens 2027 growth",
@@ -107,20 +180,6 @@
     "CCEP",
     "KO"
    ]
-  },
-  {
-   "id": "fe28700a15bd",
-   "title": "Saudi Aramco Profit Jumps Despite Damaging Attacks on Pipelines and Refineries",
-   "link": "https://www.nytimes.com/2026/11/03/business/saudi-aramco-q3-earnings.html",
-   "summary": "Saudi Arabia’s state-owned oil company posted a 9 percent increase in third-quarter profit on Tuesday.",
-   "article_text": "",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "positive",
-   "domain": "nytimes.com",
-   "published": "2026-11-03T08:12:08+00:00",
-   "tickers": []
   },
   {
    "id": "35bed991ae6e",
@@ -291,23 +350,6 @@
    "domain": "investing.com",
    "published": "2026-11-03T08:09:02+00:00",
    "tickers": [
-    "AAPL"
-   ]
-  },
-  {
-   "id": "8ce3d1858bc9",
-   "title": "S&P 500 futures are flat as investors weigh Apple earnings; U.S. midterm elections loom: Live updates",
-   "link": "https://www.cnbc.com/2026/11/02/stock-market-today-live-updates.html",
-   "summary": "The S&P 500 and Nasdaq Composite started November with losses as investors sold tech stocks.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-11-03T08:07:24+00:00",
-   "tickers": [
-    "NDAQ",
     "AAPL"
    ]
   },
@@ -7608,20 +7650,6 @@
    ]
   },
   {
-   "id": "de2dab14e2cb",
-   "title": "U.S. reportedly strikes Iran's Qeshm Island as Vance hopes for ‘negotiated settlement’ with Tehran",
-   "link": "https://www.cnbc.com/2026/11/03/iran-us-vance-trump-strikes.html",
-   "summary": "U.S. military carried out attacks on Iran's Qeshm Island on Monday, even as the Trump administration has been underplaying war risks.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "cnbc.com",
-   "published": "2026-11-03T04:27:41+00:00",
-   "tickers": []
-  },
-  {
    "id": "6eb3085de0d0",
    "title": "XAI Madison Equity Premium Income Fund declares $0.06 dividend",
    "link": "https://seekingalpha.com/news/4663115-xai-madison-equity-premium-income-fund-declares-0_06-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -8706,38 +8734,6 @@
    "published": "2026-11-03T03:46:12+00:00",
    "tickers": [
     "BEN"
-   ]
-  },
-  {
-   "id": "052757a3e084",
-   "title": "Rithm Capital - Preferred Stock Price Target Decreased by 13.52% to $33.18",
-   "link": "https://www.nasdaq.com/articles/rithm-capital-preferred-stock-price-target-decreased-1352-3318",
-   "summary": "The average one-year price target for Rithm Capital - Preferred Stock (NYSE:RITM.PRC) has been revised to $33.18 / share. This is a decrease of 13.52% from the prior estimate of $38.37 dated October 22, 2026. These figures represent aggregate analyst targets and",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "analyst",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-03T03:45:15+00:00",
-   "tickers": [
-    "RITM"
-   ]
-  },
-  {
-   "id": "ee25c50c9bd0",
-   "title": "ACRES Commercial Realty - Preferred Stock Price Target Decreased by 39.10% to $22.49",
-   "link": "https://www.nasdaq.com/articles/acres-commercial-realty-preferred-stock-price-target-decreased-3910-2249",
-   "summary": "The average one-year price target for ACRES Commercial Realty - Preferred Stock (NYSE:ACR.PRD) (DB:R9L0) has been revised to $22.49 / share. This is a decrease of 39.10% from the prior estimate of $36.94 dated October 22, 2026. Please note that these figures represent aggregate a",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "analyst",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-03T03:45:01+00:00",
-   "tickers": [
-    "DB"
    ]
   }
  ],
