@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-04T04:00:42.040277+00:00",
+ "generated": "2026-11-04T04:15:39.150332+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
   {
    "id": "29c8a1224dd3",
-   "title": "Midterm elections 2026 live updates: Democrats flip South Carolina Senate seat, projected to win House",
+   "title": "Midterm elections 2026 live updates: Talarico projected to win Texas Senate seat",
    "link": "https://www.cnbc.com/2026/11/03/midterm-elections-2026-live-updates.html",
    "summary": "Follow 2026 midterm elections live updates, including House and Senate races in Texas, Georgia, Ohio and Minnesota, and key results as polls close.",
    "article_text": "",
@@ -14,7 +14,77 @@
    "type": "markets",
    "sentiment": "positive",
    "domain": "cnbc.com",
-   "published": "2026-11-04T03:58:43+00:00",
+   "published": "2026-11-04T04:13:09+00:00",
+   "tickers": []
+  },
+  {
+   "id": "867ba480f0a0",
+   "title": "Democrat James Talarico wins Texas Senate seat as blue wave sweeps US",
+   "link": "https://www.ft.com/content/77c2eaca-4fe1-4c69-b3bd-c517b045ff37?syn-25a6b1a6=1",
+   "summary": "High-stakes midterm election doubles as referendum on president’s policies",
+   "article_text": "",
+   "source": "FT Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "ft.com",
+   "published": "2026-11-04T04:10:33+00:00",
+   "tickers": []
+  },
+  {
+   "id": "dde03e5997ea",
+   "title": "Stock futures fall on speculation Democrats to win big in midterms, slow data center buildout: Live updates",
+   "link": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html",
+   "summary": "Investors braced for the results of the 2026 U.S. midterm elections.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-11-04T04:10:31+00:00",
+   "tickers": []
+  },
+  {
+   "id": "6039756c3f30",
+   "title": "Democrat Bob Brooks flips Pennsylvania US House seat",
+   "link": "https://seekingalpha.com/news/4664438-democrat-bob-brooks-flips-pennsylvania-us-house-seat?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-04T04:01:26+00:00",
+   "tickers": []
+  },
+  {
+   "id": "3b9b54382d7c",
+   "title": "Thinkific Labs Inc. 2026 Q3 - Results - Earnings Call Presentation",
+   "link": "https://seekingalpha.com/article/4961940-thinkific-labs-inc-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-04T04:01:19+00:00",
+   "tickers": []
+  },
+  {
+   "id": "d93b164c8e72",
+   "title": "Crisis widens at top platinum refiner as probe exposes metal test manipulation",
+   "link": "https://www.ft.com/content/97ce0d59-0d82-4f22-8ac1-d1b299c5b9d7",
+   "summary": "German group Heraeus alleged to have understated precious metals content in material processed for 450 customers worldwide",
+   "article_text": "",
+   "source": "FT Markets",
+   "category": "markets",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "ft.com",
+   "published": "2026-11-04T04:00:07+00:00",
    "tickers": []
   },
   {
@@ -33,6 +103,20 @@
     "SWKS",
     "QRVO"
    ]
+  },
+  {
+   "id": "181c8f6b1c7e",
+   "title": "Democrats take control of House",
+   "link": "https://seekingalpha.com/news/4664435-democrats-take-control-house?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-04T03:58:21+00:00",
+   "tickers": []
   },
   {
    "id": "68657a50e0eb",
@@ -491,6 +575,22 @@
    ]
   },
   {
+   "id": "9704b30eb38f",
+   "title": "Navitas Semiconductor Corp Q3 Loss Climbs",
+   "link": "https://www.nasdaq.com/articles/navitas-semiconductor-corp-q3-loss-climbs",
+   "summary": "(RTTNews) - Navitas Semiconductor Corp (NVTS) revealed Loss for its third quarter of -$37.10 million",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-04T03:50:15+00:00",
+   "tickers": [
+    "NVTS"
+   ]
+  },
+  {
    "id": "7d15beeb54ee",
    "title": "Fractal delivers its first ever $100 million revenue quarter, reports EBITDA growth of 71% YoY",
    "link": "https://www.prnewswire.com/news-releases/fractal-delivers-its-first-ever-100-million-revenue-quarter-reports-ebitda-growth-of-71-yoy-302928756.html",
@@ -568,20 +668,6 @@
    "tickers": []
   },
   {
-   "id": "dde03e5997ea",
-   "title": "Stock futures fall on speculation Democrats to win big in midterms, slow data center buildout: Live updates",
-   "link": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html",
-   "summary": "Investors braced for the results of the 2026 U.S. midterm elections.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-11-04T03:47:12+00:00",
-   "tickers": []
-  },
-  {
    "id": "7a6597903937",
    "title": "Amgen projects 2026 revenue of $38.9B-$39.7B while raising non-GAAP EPS to $22.90-$23.70",
    "link": "https://seekingalpha.com/news/4664437-amgen-projects-2026-revenue-of-38_9b-39_7b-while-raising-non-gaap-eps-to-22_90-23_70?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -656,20 +742,6 @@
    "tickers": []
   },
   {
-   "id": "867ba480f0a0",
-   "title": "Democrats score early victories over Trump’s Republicans in battle for Congress",
-   "link": "https://www.ft.com/content/77c2eaca-4fe1-4c69-b3bd-c517b045ff37?syn-25a6b1a6=1",
-   "summary": "High-stakes midterm election doubles as referendum on president’s policies",
-   "article_text": "",
-   "source": "FT Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "ft.com",
-   "published": "2026-11-04T03:45:55+00:00",
-   "tickers": []
-  },
-  {
    "id": "b1be589e0e6d",
    "title": "Eaton Corporation plc (ETN) Q3 2026 Earnings Call Transcript",
    "link": "https://seekingalpha.com/article/4961673-eaton-corporation-plc-etn-q3-2026-earnings-call-transcript?source=feed_all_articles",
@@ -684,6 +756,20 @@
    "tickers": [
     "ETN"
    ]
+  },
+  {
+   "id": "bb52ec45dec7",
+   "title": "Par Pacific Holdings Inc. Q3 Income Advances",
+   "link": "https://www.nasdaq.com/articles/par-pacific-holdings-inc-q3-income-advances",
+   "summary": "(RTTNews) - Par Pacific Holdings Inc. (PARR) announced a profit for its third quarter that Increases, from last year",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-04T03:44:45+00:00",
+   "tickers": []
   },
   {
    "id": "9a288e2a305a",
@@ -1396,6 +1482,22 @@
    "domain": "nasdaq.com",
    "published": "2026-11-04T03:28:12+00:00",
    "tickers": []
+  },
+  {
+   "id": "adaeef439f64",
+   "title": "CMS Energy: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/cms-energy-3-key-takeaways-long-term-investors",
+   "summary": "Key PointsCMS Energy added 745 megawatts of new customer contracts.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-04T03:28:08+00:00",
+   "tickers": [
+    "CMS"
+   ]
   },
   {
    "id": "7c65a8925f46",
@@ -8653,110 +8755,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-11-04T00:45:54+00:00",
    "tickers": []
-  },
-  {
-   "id": "1c7bd2fcb3f9",
-   "title": "Middle East oil supply said to outpace demand for first time since July",
-   "link": "https://seekingalpha.com/news/4664353-middle-east-oil-supply-said-to-outpace-demand-for-first-time-since-july?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-04T00:45:45+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6c0d2e6c9ae6",
-   "title": "Cattle Take Risk Off on Election Day, with Weaker Cash",
-   "link": "https://www.nasdaq.com/articles/cattle-take-risk-election-day-weaker-cash",
-   "summary": "Live cattle futures posted losses of $1.55 to $2.67 across the board on Tuesday. Cash trade has been quiet to start the week, with USDA reporting light early at $340 dressed in the north and $215 live. Feeder cattle futures were down $2.80 to $4.35 at the close. The CME...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-04T00:44:53+00:00",
-   "tickers": [
-    "CME"
-   ]
-  },
-  {
-   "id": "f273c911feab",
-   "title": "Cotton Fall Lower on Tuesday",
-   "link": "https://www.nasdaq.com/articles/cotton-fall-lower-tuesday",
-   "summary": "Cotton futures closed the session with contracts down 50 to 69 points across the board on Tuesday. Crude oil was up 30 cents per barrel on the session, with the US dollar index $0.111 higher. USDA’s weekly Crop Progress report showed 92% of the US cotton crop with bolls open,...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-11-04T00:44:53+00:00",
-   "tickers": []
-  },
-  {
-   "id": "c0f30db839e6",
-   "title": "Hogs Face Tuesday Losses, as December Holds Gains",
-   "link": "https://www.nasdaq.com/articles/hogs-face-tuesday-losses-december-holds-gains",
-   "summary": "Lean hog futures were mixed at the close, with contracts down 27 cents to $1.32, with December the lone contract seeing strength, up 42 cents. USDA’s national base hog price was reported at $45.39 in the Tuesday afternoon report, down $4.62 from the day prior. The CME Lean Hog Index...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-04T00:44:52+00:00",
-   "tickers": [
-    "CME"
-   ]
-  },
-  {
-   "id": "12c929129aa1",
-   "title": "EG Investors Have Opportunity to Lead Everest Group, Ltd. Securities Fraud Lawsuit",
-   "link": "https://www.prnewswire.com/news-releases/eg-investors-have-opportunity-to-lead-everest-group-ltd-securities-fraud-lawsuit-302928487.html",
-   "summary": "NEW YORK, Nov. 3, 2026 /PRNewswire/ -- Why: Rosen Law Firm, a global investor rights law firm, announces a class action lawsuit on behalf of purchasers of common stock of Everest Group, Ltd. (NYSE: EG) between February 8, 2024 and October 27, 2025, both dates inclusive (the \"Class...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "prnewswire.com",
-   "published": "2026-11-04T00:43:00+00:00",
-   "tickers": [
-    "EG"
-   ]
-  },
-  {
-   "id": "ddc85c92c542",
-   "title": "PennantPark Investment Corporation Announces Monthly Distribution of $0.08 per Share",
-   "link": "https://www.nasdaq.com/articles/pennantpark-investment-corporation-announces-monthly-distribution-008-share",
-   "summary": "PennantPark Investment Corporation declared its monthly distribution for November 2026 of $0.08 per share. The distribution is comprised of a $0.04 per share base dividend and $0.04 per share supplemental dividend.",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-04T00:41:22+00:00",
-   "tickers": []
-  },
-  {
-   "id": "5b0a44932072",
-   "title": "Regis Corporation Announces Executive Departure and Results of October 28, 2026 Annual Meeting",
-   "link": "https://www.nasdaq.com/articles/regis-corporation-announces-executive-departure-and-results-october-28-2026-annual-meeting",
-   "summary": "On October 28, 2026, Regis Corporation determined that Jamie Suarez, the Company’s Executive Vice President, Company Operations, would no longer serve in his officer role effective at the end of the day on October 30, 2026. His employment will terminate at the end of the da",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-04T00:41:13+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8818,7 +8816,6 @@
   "MS": "Morgan Stanley",
   "CB": "Chubb Limited",
   "DX": "Dynex Capital",
-  "EG": "Everest Group",
   "MT": "ArcelorMittal",
   "POST": "Post Holdings",
   "TLRY": "Tilray Brands",
@@ -8835,6 +8832,7 @@
   "AAPL": "Apple Watch",
   "SHOP": "Shopify Inc",
   "BA": "The Boeing",
+  "CMS": "CMS Energy",
   "CVS": "CVS Health",
   "ERO": "Ero Copper",
   "F": "Ford Motor",
