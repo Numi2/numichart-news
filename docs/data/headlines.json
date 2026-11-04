@@ -1,8 +1,69 @@
 {
- "generated": "2026-11-04T08:45:06.960869+00:00",
+ "generated": "2026-11-04T08:51:44.997873+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "dde03e5997ea",
+   "title": "Stock futures rise as Democrats win big in midterms, traders bet they will slow data center buildout: Live updates",
+   "link": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html",
+   "summary": "Investors braced for the results of the 2026 U.S. midterm elections.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "cnbc.com",
+   "published": "2026-11-04T08:49:18+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a8241fb57c07",
+   "title": "AMD records $1B quarterly charge tied to warrants issued to OpenAI, Meta",
+   "link": "https://seekingalpha.com/news/4664484-amd-quarterly-charge-warrants?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "earnings",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-04T08:45:04+00:00",
+   "tickers": [
+    "AMD",
+    "META"
+   ]
+  },
+  {
+   "id": "244b8abebd9f",
+   "title": "Meta launches debut euro bond sale after $15B US raising",
+   "link": "https://seekingalpha.com/news/4664495-meta-launches-debut-euro-bond-sale-after-15b-us-raising?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-04T08:44:25+00:00",
+   "tickers": [
+    "META"
+   ]
+  },
+  {
+   "id": "66844056c405",
+   "title": "PolyPid: Strong Phase 3 Data Support A Buy Ahead Of November's FDA Decision",
+   "link": "https://seekingalpha.com/article/4961998-polypid-strong-phase-3-data-support-a-buy-ahead-of-novembers-fda-decision?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "fda",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-04T08:44:05+00:00",
+   "tickers": []
+  },
   {
    "id": "3281f3c3ee6e",
    "title": "ZINZINO AB (PUBL.): PRELIMINARY SALES REPORT OCTOBER 2026",
@@ -343,20 +404,6 @@
    "sentiment": "neutral",
    "domain": "prnewswire.com",
    "published": "2026-11-04T08:27:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "dde03e5997ea",
-   "title": "Stock futures rise as Democrats win big in midterms, traders bet they will slow data center buildout: Live updates",
-   "link": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html",
-   "summary": "Investors braced for the results of the 2026 U.S. midterm elections.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "cnbc.com",
-   "published": "2026-11-04T08:23:43+00:00",
    "tickers": []
   },
   {
@@ -870,14 +917,14 @@
   },
   {
    "id": "dcf7923fa498",
-   "title": "AI stocks tied to Texas data center boom slide after Hinojosa win",
+   "title": "AI stocks tied to Texas data center in focus after Hinojosa win",
    "link": "https://seekingalpha.com/news/4664474-ai-stocks-tied-to-texas-data-center-boom-slide-after-hinojosa-win?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
    "summary": "",
    "article_text": "",
    "source": "Seeking Alpha M&A",
    "category": "ma",
    "type": "ma",
-   "sentiment": "neutral",
+   "sentiment": "positive",
    "domain": "seekingalpha.com",
    "published": "2026-11-04T08:09:35+00:00",
    "tickers": []
@@ -8685,54 +8732,6 @@
    "tickers": [
     "ORCL"
    ]
-  },
-  {
-   "id": "07a68aff2021",
-   "title": "Qatar set to become world’s biggest buyer of US LNG",
-   "link": "https://www.ft.com/content/88e46724-0bd4-451a-b02b-f5709c9771b7?syn-25a6b1a6=1",
-   "summary": "Once the world’s top producer, the Gulf nation will control largest share of US output by 2033",
-   "article_text": "",
-   "source": "FT Companies",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "ft.com",
-   "published": "2026-11-04T05:00:09+00:00",
-   "tickers": [
-    "LNG"
-   ]
-  },
-  {
-   "id": "d11cfc7ef39c",
-   "title": "Behind Musk and Zuckerberg’s decade-long efforts to repel investor lawsuits",
-   "link": "https://www.ft.com/content/e8d40d03-4d86-46ca-aab5-68f7ea69f364?syn-25a6b1a6=1",
-   "summary": "SpaceX-Tesla merger and Meta’s new share class expected to fend off legal challenges after shareholder rights diminished in Delaware and Texas",
-   "article_text": "",
-   "source": "FT Companies",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "ft.com",
-   "published": "2026-11-04T05:00:09+00:00",
-   "tickers": [
-    "SPCX",
-    "TSLA",
-    "META"
-   ]
-  },
-  {
-   "id": "fdf9d287b40e",
-   "title": "Politics And The Markets 11/4/26",
-   "link": "https://seekingalpha.com/article/4960813-politics-and-the-markets-11426?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-04T05:00:00+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
