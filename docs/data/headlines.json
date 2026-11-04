@@ -1,15 +1,512 @@
 {
- "generated": "2026-11-04T14:31:32.005551+00:00",
+ "generated": "2026-11-04T14:38:57.859140+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "e5eccc8e6275",
+   "title": "The New York Times Adds 420,000 Digital Subscribers",
+   "link": "https://www.nytimes.com/2026/11/04/business/media/new-york-times-earnings.html",
+   "summary": "The additions in the third quarter keep the company roughly on track to meet its goal of 15 million subscribers by the end of next year, after a slower second quarter.",
+   "article_text": "",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-11-04T14:37:24+00:00",
+   "tickers": [
+    "NYT"
+   ]
+  },
+  {
+   "id": "8c68d0f64531",
+   "title": "Musk Faces Setback as SpaceX and Tesla Stocks Tumble on Midterm Election Results",
+   "link": "https://www.nytimes.com/2026/11/04/business/musk-elections-spacex-tesla-stocks.html",
+   "summary": "The world’s richest person has antagonized Democrats, some of whom have signaled their intent to investigate him when they take control of Congress.",
+   "article_text": "",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "earnings",
+   "sentiment": "negative",
+   "domain": "nytimes.com",
+   "published": "2026-11-04T14:37:13+00:00",
+   "tickers": [
+    "SPCX",
+    "TSLA"
+   ]
+  },
+  {
+   "id": "780b780f8959",
+   "title": "Stocks rebound after Democrats’ sweep",
+   "link": "https://www.ft.com/content/a0b18705-3bd8-4886-992c-b6062fdec6ea?syn-25a6b1a6=1",
+   "summary": "Wall Street indices open higher as analysts say divided government reduces policymaking risks",
+   "article_text": "",
+   "source": "FT Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "ft.com",
+   "published": "2026-11-04T14:35:52+00:00",
+   "tickers": []
+  },
+  {
+   "id": "9961dd2a3cbd",
+   "title": "Earnings call transcript: Nippon Sanso Q2 2026 revenue beats forecast, shares rise",
+   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-nippon-sanso-q2-2026-revenue-beats-forecast-shares-rise-93CH-4999937",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-11-04T14:35:25+00:00",
+   "tickers": []
+  },
+  {
+   "id": "061c7f33be82",
+   "title": "Gold jumps above $4,000 as dollar retreats after Democratic midterm win",
+   "link": "https://www.investing.com/news/commodities-news/gold-holds-near-3930-as-iran-talks-us-midterms-shape-outlook-4997059",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-11-04T14:35:11+00:00",
+   "tickers": []
+  },
+  {
+   "id": "8cdf90c3e26a",
+   "title": "Barry Callebaut AG (BRRLY) Q4 2026 Earnings Call Transcript",
+   "link": "https://seekingalpha.com/article/4962191-barry-callebaut-ag-brrly-q4-2026-earnings-call-transcript?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-04T14:34:45+00:00",
+   "tickers": []
+  },
+  {
+   "id": "dde03e5997ea",
+   "title": "Dow rallies 1,000 points as political risk eases after resounding Democratic victory in U.S. midterms: Live updates",
+   "link": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html",
+   "summary": "Stocks ripped higher on Wednesday after a decisive victory by Democrats in the U.S. midterm elections removed political risk that was hanging over Wall Street.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "cnbc.com",
+   "published": "2026-11-04T14:34:42+00:00",
+   "tickers": []
+  },
+  {
+   "id": "04669963fa37",
+   "title": "Coca-Cola HBC AG (CCHGY) Q3 2026 Sales/Trading Call Transcript",
+   "link": "https://seekingalpha.com/article/4962077-coca-cola-hbc-ag-cchgy-q3-2026-sales-trading-call-transcript?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-04T14:34:40+00:00",
+   "tickers": [
+    "KO"
+   ]
+  },
+  {
+   "id": "2b66bd06f4c5",
+   "title": "Solstad Offshore ASA (SLOFF) Q3 2026 Earnings Call Transcript",
+   "link": "https://seekingalpha.com/article/4962180-solstad-offshore-asa-sloff-q3-2026-earnings-call-transcript?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-04T14:34:36+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a52ee291874a",
+   "title": "ConocoPhillips Q3 preview: High expectations as upstream focus drives growth",
+   "link": "https://seekingalpha.com/news/4664801-conocophillips-q3-preview-high-expectations-as-upstream-focus-drives-growth?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-04T14:34:19+00:00",
+   "tickers": []
+  },
+  {
+   "id": "abff473fd265",
+   "title": "International Flavors & Fragrances Inc. 2026 Q3 - Results - Earnings Call Presentation",
+   "link": "https://seekingalpha.com/article/4962188-international-flavors-and-fragrances-inc-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-04T14:33:23+00:00",
+   "tickers": [
+    "IFF"
+   ]
+  },
+  {
+   "id": "984372edb650",
+   "title": "Midterm elections 2026 live updates: What's next after Democrats flip Congress in blue wave",
+   "link": "https://www.cnbc.com/2026/11/04/2026-midterm-election-results-live-updates.html",
+   "summary": "Follow day two of 2026 midterm elections live updates as Democrats flip Congress in blue wave.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-11-04T14:33:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b05beefd5ce3",
+   "title": "CVS Health plans to split in two. Here’s what is driving the massive healthcare breakup.",
+   "link": "https://www.marketwatch.com/story/cvs-health-plans-to-split-in-two-heres-what-is-driving-the-massive-healthcare-breakup-27c0d6be?mod=mw_rss_topstories",
+   "summary": "The healthcare giant surprised analysts with the decision to separate its business. Its stock is down.",
+   "article_text": "",
+   "source": "MarketWatch",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "marketwatch.com",
+   "published": "2026-11-04T14:33:00+00:00",
+   "tickers": [
+    "CVS"
+   ]
+  },
+  {
+   "id": "fa94c814eb16",
+   "title": "Oil extends losses as markets weigh U.S. election outcome, Iran war uncertainty",
+   "link": "https://www.investing.com/news/commodities-news/oil-edges-higher-as-mixed-usiran-signals-temper-peace-hopes-4997079",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-11-04T14:32:57+00:00",
+   "tickers": []
+  },
+  {
+   "id": "4b23edc577b6",
+   "title": "NRG Energy stock hits 52-week low at 90.75 USD",
+   "link": "https://www.investing.com/news/company-news/nrg-energy-stock-hits-52week-low-at-9075-usd-93CH-4999931",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-04T14:32:47+00:00",
+   "tickers": [
+    "NRG"
+   ]
+  },
+  {
+   "id": "edc43d7e5e59",
+   "title": "Cintas stock hits 52-week high at $228.09",
+   "link": "https://www.investing.com/news/company-news/cintas-stock-hits-52week-high-at-22809-93CH-4999929",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-04T14:32:44+00:00",
+   "tickers": [
+    "CTAS"
+   ]
+  },
+  {
+   "id": "dd9313a90a91",
+   "title": "Avient Corp stock hits 52-week high at 46.97 USD",
+   "link": "https://www.investing.com/news/company-news/avient-corp-stock-hits-52week-high-at-4697-usd-93CH-4999927",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-04T14:32:38+00:00",
+   "tickers": []
+  },
+  {
+   "id": "3ad075f44089",
+   "title": "MSCI stock hits 52-week high at 652.75 USD",
+   "link": "https://www.investing.com/news/company-news/msci-stock-hits-52week-high-at-65275-usd-93CH-4999925",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-04T14:32:33+00:00",
+   "tickers": [
+    "MSCI"
+   ]
+  },
+  {
+   "id": "7d1c505bebc9",
+   "title": "Modine Manufacturing stock hits 52-week low at 111.16 USD",
+   "link": "https://www.investing.com/news/company-news/modine-manufacturing-stock-hits-52week-low-at-11116-usd-93CH-4999926",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-04T14:32:33+00:00",
+   "tickers": [
+    "MOD"
+   ]
+  },
+  {
+   "id": "d4c8cd776518",
+   "title": "Tenet Healthcare Corporation stock hits all-time high at 285.71 USD",
+   "link": "https://www.investing.com/news/company-news/tenet-healthcare-corporation-stock-hits-alltime-high-at-28571-usd-93CH-4999924",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-11-04T14:32:31+00:00",
+   "tickers": [
+    "THC"
+   ]
+  },
+  {
+   "id": "8439456b312e",
+   "title": "3M stock hits 52-week high at 192.7 USD",
+   "link": "https://www.investing.com/news/company-news/3m-stock-hits-52week-high-at-1927-usd-93CH-4999923",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-04T14:32:29+00:00",
+   "tickers": []
+  },
+  {
+   "id": "494b4811d512",
+   "title": "U.S. Air Force Awards Exiger $12 Million Contract to Support Intercontinental Ballistic Missile Supply Chain Illumination and Defense Industrial Base Analysis",
+   "link": "https://www.prnewswire.com/news-releases/us-air-force-awards-exiger-12-million-contract-to-support-intercontinental-ballistic-missile-supply-chain-illumination-and-defense-industrial-base-analysis-302928837.html",
+   "summary": "Exiger to provide parts-level intelligence, supplier risk monitoring, and industrial base analytics for the ICBM enterprise to support the U.S. ground-based strategic deterrent WASHINGTON, Nov. 4, 2026 /PRNewswire/ -- Exiger, the market-leading supply chain Super Intelligence (SI)...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-11-04T14:32:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "fde87718edc2",
+   "title": "Ceva Welcomes Introduction of Bluetooth High Data Throughput, Accelerating Next-Generation Wireless Connectivity",
+   "link": "https://www.prnewswire.com/news-releases/ceva-welcomes-introduction-of-bluetooth-high-data-throughput-accelerating-next-generation-wireless-connectivity-302929364.html",
+   "summary": "Early investment in Bluetooth HDT, integrated RF capabilities and proven interoperability drive strong commercial momentum, with more than ten customers already licensing Ceva's technology ROCKVILLE, Md., Nov. 4, 2026 /PRNewswire/ -- Ceva, Inc. (NASDAQ: CEVA), the leading licensor of...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-11-04T14:32:00+00:00",
+   "tickers": [
+    "RF"
+   ]
+  },
+  {
+   "id": "d6c735cf0e43",
+   "title": "YieldMax BRKB Option Income Strategy ETF announces weekly distribution of $0.1633",
+   "link": "https://seekingalpha.com/news/4664810-yieldmax-brkb-option-income-strategy-etf-announces-weekly-distribution-of-01633?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-04T14:31:50+00:00",
+   "tickers": [
+    "MSTR"
+   ]
+  },
+  {
+   "id": "58e08f1ea91f",
+   "title": "Qnity Electronics, Inc. 2026 Q3 - Results - Earnings Call Presentation",
+   "link": "https://seekingalpha.com/article/4962187-qnity-electronics-inc-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-04T14:31:40+00:00",
+   "tickers": [
+    "Q"
+   ]
+  },
+  {
+   "id": "b85e50ed6708",
+   "title": "CrowdStrike: Valuation Implies They Will Be A Sole Market Leader, But That Won't Happen",
+   "link": "https://seekingalpha.com/article/4962137-crowdstrike-valuation-implies-they-will-be-a-sole-market-leader-but-that-won-t-happen?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-04T14:31:17+00:00",
+   "tickers": [
+    "CRWD"
+   ]
+  },
+  {
+   "id": "69325ddfcd08",
+   "title": "Sherritt furloughs half of Canada workforce as Alberta refinery idled",
+   "link": "https://seekingalpha.com/news/4664797-sherritt-furloughs-half-of-canada-workforce-as-alberta-refinery-idled?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-04T14:31:17+00:00",
+   "tickers": []
+  },
+  {
+   "id": "5d45f018c501",
+   "title": "Scout24 SE 2026 Q3 - Results - Earnings Call Presentation",
+   "link": "https://seekingalpha.com/article/4962186-scout24-se-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-04T14:31:10+00:00",
+   "tickers": []
+  },
+  {
+   "id": "8811acee2d8b",
+   "title": "America’s Trade Deficit Remained Elevated in September",
+   "link": "https://www.nytimes.com/2026/11/04/business/us-trade-deficit-september.html",
+   "summary": "The gap between U.S. exports and imports, which remained at a relatively high level in September, has defied efforts by President Trump to decrease it with tariffs.",
+   "article_text": "",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-11-04T14:31:01+00:00",
+   "tickers": []
+  },
+  {
+   "id": "83f8da7f60a9",
+   "title": "Jasper Therapeutics to execute 1-for-30 reverse stock split",
+   "link": "https://seekingalpha.com/news/4664745-jasper-therapeutics-to-execute-1-for-30-reverse-stock-split?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-04T14:30:56+00:00",
+   "tickers": []
+  },
+  {
+   "id": "87232ab0a804",
+   "title": "YieldMax BABA Option Income Strategy announces weekly distribution of $0.0405",
+   "link": "https://seekingalpha.com/news/4664808-yieldmax-baba-option-income-strategy-announces-weekly-distribution-of-00405?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-04T14:30:55+00:00",
+   "tickers": [
+    "MSTR"
+   ]
+  },
+  {
+   "id": "65cd64b716a0",
+   "title": "Why I'm Not Worried About AMD Anymore (Rating Upgrade)",
+   "link": "https://seekingalpha.com/article/4962150-why-im-not-worried-about-amd-anymore-rating-upgrade?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-04T14:30:38+00:00",
+   "tickers": [
+    "AMD"
+   ]
+  },
+  {
+   "id": "0a40872422ba",
+   "title": "BioNTech Q3: Bristol Myers Revenue Masks A Narrowing Oncology Bet (Rating Downgrade)",
+   "link": "https://seekingalpha.com/article/4962059-biontech-q3-bmy-revenue-masks-a-narrowing-oncology-bet-rating-downgrade?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-04T14:30:19+00:00",
+   "tickers": [
+    "BNTX"
+   ]
+  },
   {
    "id": "efb3e0c93159",
    "title": "TPA WellNet Healthcare Selects EHVAhealth Voice AI to Automate Health Plan Provider Calls",
    "link": "https://www.prnewswire.com/news-releases/tpa-wellnet-healthcare-selects-ehvahealth-voice-ai-to-automate-health-plan-provider-calls-302928436.html",
    "summary": "Third-party administrator deploys conversational AI agents for eligibility verification, benefits verification, and claims status inquiries across medical, dental, and vision plans, integrated with its Five9 contact center and Salesforce CRM. DORADO, Puerto Rico and TREVOSE, Pa., Nov. 4,...",
    "article_text": "",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -25,7 +522,7 @@
    "link": "https://www.prnewswire.com/news-releases/lemonade-expands-renters-insurance-to-minnesota-completing-nationwide-availability-302929358.html",
    "summary": "Renters is the first Lemonade product available in all 50 states and Washington, D.C. NEW YORK, Nov. 4, 2026 /PRNewswire/ -- Lemonade (NYSE: LMND) today announced the availability of its renters insurance in Minnesota. With this launch, Lemonade Renters is now available in all 50 states...",
    "article_text": "",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "press",
    "sentiment": "positive",
@@ -41,7 +538,7 @@
    "link": "https://www.prnewswire.com/news-releases/skyrem-announces-150-million-credit-facility-to-accelerate-industrial-acquisitions-and-portfolio-repositioning-302929201.html",
    "summary": "NEW YORK, Nov. 4, 2026 /PRNewswire/ -- SkyREM, a vertically integrated industrial real estate investment, ownership, development and asset management platform with more than 12 million square feet under management, today announced a fully committed $150 million credit facility to support...",
    "article_text": "",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -55,12 +552,87 @@
    "link": "https://www.prnewswire.com/news-releases/chicagos-business-community-rallies-for-kids-firstservice-residential-and-in-good-company-partners-raise-65-000-for-lurie-childrens-hospital-302928846.html",
    "summary": "14th Annual IGC Vendor Expo turns a day of connection into lasting support for children and families, lifting total giving to more than $375,000 since 2017. CHICAGO, Nov. 4, 2026 /PRNewswire/ -- When a child is seriously ill, families need more than world-class medicine – they need a...",
    "article_text": "",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "upgrade",
    "sentiment": "positive",
    "domain": "prnewswire.com",
    "published": "2026-11-04T14:30:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "7aafbea4187d",
+   "title": "Satisfi Labs Awarded Two U.S. Patents That Lay the Foundation for Satisfi Forward",
+   "link": "https://www.prnewswire.com/news-releases/satisfi-labs-awarded-two-us-patents-that-lay-the-foundation-for-satisfi-forward-302929203.html",
+   "summary": "Patented platform capabilities, developed over years of client deployments, give clients control over what their AI Agents say and put the data they already have to work NEW YORK, Nov. 4, 2026 /PRNewswire/ -- Satisfi Labs, the leading agentic AI platform for sports, entertainment, and...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-11-04T14:30:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "1604d5ed94af",
+   "title": "Crocs™ Achieves Cradle to Cradle Certified® Circularity Gold for the Classic Clog, Marking a New Milestone in Circular Design and Recycled Material Innovation",
+   "link": "https://www.prnewswire.com/news-releases/crocs-achieves-cradle-to-cradle-certified-circularity-gold-for-the-classic-clog-marking-a-new-milestone-in-circular-design-and-recycled-material-innovation-302928272.html",
+   "summary": "This certification recognizes the brand designs three popular styles for circularity: the Classic Clog, Bae Clog and Keep It Going Classic Clog BROOMFIELD, Colo., Nov. 4, 2026 /PRNewswire/ -- Crocs, Inc. (NADSAQ: CROX), a world leader in innovative casual footwear for all, today announced...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-11-04T14:30:00+00:00",
+   "tickers": [
+    "CROX"
+   ]
+  },
+  {
+   "id": "37135b86a25b",
+   "title": "Natuvion and PwC Launch Transformation Roadbook: Practical Insights from Over 1,000 Transformations, Now Available in Bookstores",
+   "link": "https://www.prnewswire.com/news-releases/natuvion-and-pwc-launch-transformation-roadbook-practical-insights-from-over-1-000-transformations-now-available-in-bookstores-302927934.html",
+   "summary": "IT transformations are undergoing a fundamental shift. Drawing on many years of expertise, Natuvion and PricewaterhouseCoopers outline what matters most for successful IT transformation today in their jointly authored book WALLDORF, Germany, Nov. 4, 2026 /PRNewswire/ -- Created by...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-11-04T14:30:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "fcdf8b1f4c2e",
+   "title": "YieldMax AAPL Option Income Strategy ETF announces weekly distribution of $0.0571",
+   "link": "https://seekingalpha.com/news/4664807-yieldmax-aapl-option-income-strategy-etf-announces-weekly-distribution-of-00571?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-04T14:29:49+00:00",
+   "tickers": [
+    "MSTR",
+    "AAPL"
+   ]
+  },
+  {
+   "id": "4d0760fdcb41",
+   "title": "Bank regulator issues supervisory framework for use of Super Intelligence technology",
+   "link": "https://seekingalpha.com/news/4664788-bank-regulator-issues-supervisory-framework-for-use-of-super-intelligence-technology?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-04T14:29:28+00:00",
    "tickers": []
   },
   {
@@ -95,20 +667,6 @@
    "tickers": []
   },
   {
-   "id": "984372edb650",
-   "title": "Midterm elections 2026 live updates: What's next after Democrats flip Congress in blue wave",
-   "link": "https://www.cnbc.com/2026/11/04/2026-midterm-election-results-live-updates.html",
-   "summary": "Follow day two of 2026 midterm elections live updates as Democrats flip Congress in blue wave.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-11-04T14:28:39+00:00",
-   "tickers": []
-  },
-  {
    "id": "0750f1ebda98",
    "title": "YieldMax AMD Option Income Strategy ETF announces weekly distribution of $0.3361",
    "link": "https://seekingalpha.com/news/4664805-yieldmax-amd-option-income-strategy-etf-announces-weekly-distribution-of-03361?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -123,6 +681,22 @@
    "tickers": [
     "AMD",
     "MSTR"
+   ]
+  },
+  {
+   "id": "ddab54b092e9",
+   "title": "Pershing Square: Client Inflows In Q3, But Still Has To Prove Earnings Story",
+   "link": "https://seekingalpha.com/article/4962136-pershing-square-client-inflows-in-q3-but-still-has-to-prove-earnings-story?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-04T14:28:03+00:00",
+   "tickers": [
+    "SQ"
    ]
   },
   {
@@ -708,6 +1282,20 @@
    "tickers": []
   },
   {
+   "id": "1807312bde22",
+   "title": "Flutter pauses share buybacks to focus on cutting costs and debt",
+   "link": "https://www.investing.com/news/stock-market-news/flutter-pauses-share-buybacks-to-focus-on-deleveraging-cost-saving-4998870",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-04T14:24:51+00:00",
+   "tickers": []
+  },
+  {
    "id": "f51f9a0f67a8",
    "title": "Merck parasiticide granted FDA emergency use nod for screwworm infestations in dogs",
    "link": "https://seekingalpha.com/news/4664798-merck-wins-fda-nod-bravecto-screwworm-infestations?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -722,6 +1310,20 @@
    "tickers": [
     "MRK"
    ]
+  },
+  {
+   "id": "76c8fabd6273",
+   "title": "Sequoia Capital closes London office citing lack of need for local presence",
+   "link": "https://www.investing.com/news/stock-market-news/sequoia-capital-closes-london-office-citing-lack-of-need-for-local-presence-93CH-4999856",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-04T14:23:08+00:00",
+   "tickers": []
   },
   {
    "id": "1f897f299612",
@@ -960,6 +1562,20 @@
    "tickers": []
   },
   {
+   "id": "c7bc9c7c5148",
+   "title": "ARRAY to combine with Shoals in $1.32 billion all-stock deal",
+   "link": "https://www.investing.com/news/stock-market-news/array-to-buy-shoals-in-132-billion-allstock-deal-4999420",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-04T14:18:30+00:00",
+   "tickers": []
+  },
+  {
    "id": "6d80f5cdcdcd",
    "title": "NNN REIT Q3 earnings beat as occupancy increased, portfolio grows",
    "link": "https://seekingalpha.com/news/4664782-nnn-reit-q3-earnings-beat-as-occupancy-increased-portfolio-grows?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -976,6 +1592,20 @@
    ]
   },
   {
+   "id": "d411512c251a",
+   "title": "European shares jump to 2-month highs following U.S. midterms; Novo surges",
+   "link": "https://www.investing.com/news/stock-market-news/european-shares-gain-on-novos-results-markets-weigh-us-midterms-4997607",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-11-04T14:17:29+00:00",
+   "tickers": []
+  },
+  {
    "id": "4c7ab43ca305",
    "title": "Southwest Gas Q3 Profit Falls, Reiterates FY26 EPS Guidance",
    "link": "https://www.nasdaq.com/articles/southwest-gas-q3-profit-falls-reiterates-fy26-eps-guidance",
@@ -988,6 +1618,22 @@
    "domain": "nasdaq.com",
    "published": "2026-11-04T14:17:18+00:00",
    "tickers": []
+  },
+  {
+   "id": "7b824394e20a",
+   "title": "Qualcomm to supply equipment for SpaceX’s nationwide 5G mobile network",
+   "link": "https://www.investing.com/news/stock-market-news/qualcomm-to-supply-equipment-for-spacexs-nationwide-5g-mobile-network-4999793",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-04T14:16:26+00:00",
+   "tickers": [
+    "SPCX"
+   ]
   },
   {
    "id": "85ec2592240e",
@@ -1019,6 +1665,22 @@
    "published": "2026-11-04T14:15:07+00:00",
    "tickers": [
     "SWKS"
+   ]
+  },
+  {
+   "id": "eab698893c48",
+   "title": "Freedom Broker cuts PayPal to Hold as branded checkout stalls",
+   "link": "https://www.investing.com/news/stock-market-news/freedom-broker-cuts-paypal-to-hold-as-branded-checkout-stalls-4999784",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-11-04T14:15:07+00:00",
+   "tickers": [
+    "PYPL"
    ]
   },
   {
@@ -1167,20 +1829,6 @@
     "SCI",
     "SOC"
    ]
-  },
-  {
-   "id": "d411512c251a",
-   "title": "European shares jump to 2-month highs following U.S. midterms; Novo surges",
-   "link": "https://www.investing.com/news/stock-market-news/european-shares-gain-on-novos-results-markets-weigh-us-midterms-4997607",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-11-04T14:13:49+00:00",
-   "tickers": []
   },
   {
    "id": "b689bce3f133",
@@ -1405,20 +2053,6 @@
    "tickers": [
     "EVR"
    ]
-  },
-  {
-   "id": "8811acee2d8b",
-   "title": "America’s Trade Deficit Remained Elevated in September",
-   "link": "https://www.nytimes.com/2026/11/04/business/us-trade-deficit-september.html",
-   "summary": "The gap between U.S. exports and imports, which remained at a relatively high level in September, has defied efforts by President Trump to decrease it with tariffs.",
-   "article_text": "",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "nytimes.com",
-   "published": "2026-11-04T14:11:26+00:00",
-   "tickers": []
   },
   {
    "id": "1491d2993d7c",
@@ -2053,22 +2687,6 @@
    "tickers": []
   },
   {
-   "id": "c7bc9c7c5148",
-   "title": "ARRY to combine with Shoals in $1.32 billion all-stock deal",
-   "link": "https://www.investing.com/news/stock-market-news/array-to-buy-shoals-in-132-billion-allstock-deal-4999420",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-04T14:06:38+00:00",
-   "tickers": [
-    "ARRY"
-   ]
-  },
-  {
    "id": "77e881b7b274",
    "title": "Nasdaq 100 tests key resistance in active Bear Flag: Live levels",
    "link": "https://www.investing.com/news/stock-market-news/nasdaq-100-bear-flag-active-as-price-nears-resistance-live-93CH-4991916",
@@ -2418,6 +3036,20 @@
     "SPCX",
     "TSLA"
    ]
+  },
+  {
+   "id": "707ad61796a2",
+   "title": "Blue wave sweeps markets back towards normality",
+   "link": "https://www.ft.com/content/fc404189-8dde-4dfe-8da7-0df8e92effd2?syn-25a6b1a6=1",
+   "summary": "US midterm results may point to more restraints on the Trump administration",
+   "article_text": "",
+   "source": "FT Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "ft.com",
+   "published": "2026-11-04T14:03:10+00:00",
+   "tickers": []
   },
   {
    "id": "e597c61900f2",
@@ -4143,20 +4775,6 @@
    "tickers": [
     "AIR"
    ]
-  },
-  {
-   "id": "dde03e5997ea",
-   "title": "Dow futures soar 1,000 points as big midterm wins by Democrats remove political uncertainty risk on Wall Street: Live updates",
-   "link": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html",
-   "summary": "Stock futures ripped higher on Wednesday after a decisive victory by Democrats in the U.S. midterm elections removed political risk that was hanging over Wall Street.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "cnbc.com",
-   "published": "2026-11-04T13:45:57+00:00",
-   "tickers": []
   },
   {
    "id": "9ec6f6854c2b",
@@ -7212,6 +7830,20 @@
    "tickers": []
   },
   {
+   "id": "16ab27153816",
+   "title": "China steps up defence of stock market in bid to revive AI boom",
+   "link": "https://www.ft.com/content/b86cc3e7-e638-4b58-8d4d-4516c13c45f5?syn-25a6b1a6=1",
+   "summary": "ETFs commonly used by Beijing to support market see second-highest net inflows on record",
+   "article_text": "",
+   "source": "FT Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "ft.com",
+   "published": "2026-11-04T13:14:01+00:00",
+   "tickers": []
+  },
+  {
    "id": "0a9f483a0d69",
    "title": "Treasuries rally as Democrats sweep into Congress",
    "link": "https://www.investing.com/news/forex-news/german-yields-steady-as-us-midterm-shifts-and-eurozone-cpi-loom-4997605",
@@ -8283,628 +8915,6 @@
    "domain": "prnewswire.com",
    "published": "2026-11-04T13:04:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "53f6faa8d919",
-   "title": "Only About 5,000 U.S. Truck Drivers Can Haul America's Most Sensitive Freight. The Driver Crackdown Makes That Number Matter More.",
-   "link": "https://www.prnewswire.com/news-releases/only-about-5-000-us-truck-drivers-can-haul-americas-most-sensitive-freight-the-driver-crackdown-makes-that-number-matter-more-302927376.html",
-   "summary": "As new federal rules push drivers out of trucking, Roadmaster Group's Michael Fisk says shippers of hazmat, explosives and defense cargo face the tightest labor market in the industry. GLENDALE, Ariz., Nov. 4, 2026 /PRNewswire/ -- The driver shortage is the biggest story in trucking this...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-11-04T13:04:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "f770fd77639a",
-   "title": "Oxford Instruments America launches New Investigator Program for early-career researchers",
-   "link": "https://www.prnewswire.com/news-releases/oxford-instruments-america-launches-new-investigator-program-for-early-career-researchers-302929266.html",
-   "summary": "Targeted program offers funding support and expert guidance to principal investigators setting up a laboratory for the first time, and to those relocating CONCORD, Mass., Nov. 4, 2026 /PRNewswire/ -- Oxford Instruments America today announced the launch of its New Investigator Program for...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "positive",
-   "domain": "prnewswire.com",
-   "published": "2026-11-04T13:04:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "f22d47ab0287",
-   "title": "Microsoft Wins Even If The AI Bubble Pops",
-   "link": "https://seekingalpha.com/article/4962094-microsoft-wins-even-if-the-ai-bubble-pops?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-04T13:03:53+00:00",
-   "tickers": [
-    "MSFT"
-   ]
-  },
-  {
-   "id": "e3b1ecc1b09e",
-   "title": "Brookfield Renewable Partners L.P. Q3 26 Earnings Conference Call At 9:00 AM ET",
-   "link": "https://www.nasdaq.com/articles/brookfield-renewable-partners-lp-q3-26-earnings-conference-call-9-00-am-et",
-   "summary": "(RTTNews) - Brookfield Renewable Partners L.P. (BEP) will host a conference call at 9:00 AM ET on November 4, 2026, to discuss Q3 26 earnings results.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-04T13:03:46+00:00",
-   "tickers": [
-    "BN"
-   ]
-  },
-  {
-   "id": "cdea747f67f8",
-   "title": "Ashland Global Holdings Q4 26 Earnings Conference Call At 9:00 AM ET",
-   "link": "https://www.nasdaq.com/articles/ashland-global-holdings-q4-26-earnings-conference-call-9-00-am-et",
-   "summary": "(RTTNews) - Ashland Global Holdings Inc. (ASH) will host a conference call at 9:00 AM ET on November 4, 2026, to discuss Q4 26 earnings results.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-04T13:03:45+00:00",
-   "tickers": []
-  },
-  {
-   "id": "c665a262c3ba",
-   "title": "Performance Food Group Q1 27 Earnings Conference Call At 9:00 AM ET",
-   "link": "https://www.nasdaq.com/articles/performance-food-group-q1-27-earnings-conference-call-9-00-am-et",
-   "summary": "(RTTNews) - Performance Food Group (PFGC) will host a conference call at 9:00 AM ET on November 4, 2026, to discuss Q1 27 earnings results.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-04T13:03:45+00:00",
-   "tickers": [
-    "PFGC"
-   ]
-  },
-  {
-   "id": "5ead78642b73",
-   "title": "Vishay Intertechnology Q3 26 Earnings Conference Call At 9:00 AM ET",
-   "link": "https://www.nasdaq.com/articles/vishay-intertechnology-q3-26-earnings-conference-call-9-00-am-et",
-   "summary": "(RTTNews) - Vishay Intertechnology Inc. (VSH) will host a conference call at 9:00 AM ET on November 4, 2026, to discuss Q3 26 earnings results.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-04T13:03:45+00:00",
-   "tickers": []
-  },
-  {
-   "id": "a664ef5223fa",
-   "title": "The Kraft Heinz Q3 26 Earnings Conference Call At 9:00 AM ET",
-   "link": "https://www.nasdaq.com/articles/kraft-heinz-q3-26-earnings-conference-call-9-00-am-et",
-   "summary": "(RTTNews) - The Kraft Heinz Company (KHC) will host a conference call at 9:00 AM ET on Nov. 4, 2026, to discuss Q3 26 earnings results.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-04T13:03:45+00:00",
-   "tickers": [
-    "KHC"
-   ]
-  },
-  {
-   "id": "f251753436bb",
-   "title": "Avnet beats top-line and bottom-line estimates; gives Q2 outlook",
-   "link": "https://seekingalpha.com/news/4664723-avnet-beats-top-line-and-bottom-line-estimates-gives-q2-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-04T13:03:34+00:00",
-   "tickers": []
-  },
-  {
-   "id": "69f7bf333b7f",
-   "title": "AI data center stocks and Musk's SpaceX decline as Texas governor result raises risks of a slowdown",
-   "link": "https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html",
-   "summary": "AI fortunes were mixed as premarket trading opened on Wednesday.",
-   "article_text": "SpaceX, Tesla stocks fall over 4% on Democrats big win Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Key Points Several AI-linked stocks fell as election results came in showing a convincing win by Democrats of both houses of Congress. Democrat Gina Hinojosa won the Texas governor’s race after campaigning for tougher limits on data center development. Investors are weighing whether state-level data center restrictions could delay projects in major buildout markets. In this article CRWV TSLA SPCX NBIS NVDA Follow your favorite stocks CREATE FREE ACCOUNT State Rep. Gina Hinojosa, the 2026 Democratic nominee for Texas governor, speaks at an Arlington, Texas, campaign rally on Sunday, Sept. 27, 2026. She faces Gov. Greg Abbott, a Republican, in the Nov. 3 general election. (Eleanor Dearman/Fort Worth Star-Telegram/Tribune News Service via Getty Images) Eleanor Dearman | Fort Worth Star-Telegram | Getty Images AI data center stocks came under pressure as Democrats — seen as proponents of moratoriums on the buildout — won big in midterm elections and in key technology hubs like Texas. Markets were already anticipating the Democrats to win the House of Representatives and possibly take Senate control. But the Texas governor mansion going to Democrats was a big blow, analysts said. Democrat Gina Hinojosa, who wants to enact an immediate moratorium on data centers in the state, won over incumbent Republican Gov. Greg Abbott. According to Wells Fargo, 27% of planned data center gigawatts is in the Lone Star State. The midterm elections will slow the pace of data center buildouts across the U.S., Dan Ives, partner at Yorkville Ives & Co., said in a note on Wednesday morning. \"There is no way to sugarcoat that Democrats taking control especially over the Senate will create some major hurdles for AI and tech legislation in the Beltway over the next 2 years,\" he said. He added that the election in Texas was the \"biggest worry\" of the night for tech investors and the AI trade because that's where around 25%-30% of data center gigawatts and capacity will come from. Shares of Elon Musk 's SpaceX shed 7%. The Democrats' victory in Texas is a big setback for Musk , where he heavily backed Republican candidates, and where his companies Tesla and SpaceX are based. Musk spent a record of at least $474 million on the midterms and funneled $224 million into Texas alone, where Republican Senate nominee Ken Paxton and Gov. Greg Abbott lost to Democrats. SpaceX is currently building out multiple gigawatts of data center capacity, including projects in Texas. \"Data centers in space looking pretty appealing right now,\" Musk said in a post on X in the early hours on Wednesday, referring to his speculative plans to build AI infrastructure off-planet. Neoclouds CoreWeave and Iren fell by 7% and 6%, respectively. Peer Nebius Group was down 3% and Oracle shed 4.3%. Nvidia shares were slightly in the red. Tech giants Alphabet , Meta and Microsoft mostly bucked the trend and were higher. The Democratic win in Texas adds to existing pressure on the bull-market-leading AI trade. The Nasdaq-100 index fell into correction territory to end October as concerns mounted that the growth of data center spending by big hyperscalers and private AI juggernauts OpenAI and Anthropic was slowing. \"We believe the equity market reaction from the midterms mostly depends on the outcome of the Texas governor's race — a Dem win could potentially be a left-tail event to the AI trade, warned Ohsung Kwon, Wells Fargo's chief equity strategist, in a report this week. Democrats won or retained the governorships in other key data center states Georgia, Pennsylvania and Ohio. Georgia represents 7% of all the planned U.S. datacenter gigawatts, while Ohio and Pennsylvania account for 5% apiece, estimates Wells Fargo. Notable investment strategist Michael Hartnett of Bank of America warned earlier this year that Democrats winning the Senate, combined with taking the Texas governorship could lead to a \"big slump\" in stocks of more than 10% into year-end. \"Data centers went from being a popular economic development tool in 2024 and 2025 to something of a pariah by the time the midterm campaigns gathered steam,\" wrote the Washington policy team at Optimal Advisory this week. \"The midterms are likely to send a message to local and state officials that there is a political upside to blocking, delaying and/or raising the cost of data centers.\" Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "cnbc.com",
-   "published": "2026-11-04T13:03:31+00:00",
-   "tickers": [
-    "SPCX"
-   ]
-  },
-  {
-   "id": "6a98e673e126",
-   "title": "Lockheed Martin: Congress Is Now A Hurdle For The Golden Dome",
-   "link": "https://seekingalpha.com/article/4962093-lockheed-martin-congress-is-now-a-hurdle-for-the-golden-dome?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-04T13:03:24+00:00",
-   "tickers": [
-    "LMT"
-   ]
-  },
-  {
-   "id": "84930a5e2047",
-   "title": "Datadog’s stock extends steep declines in the wake of earnings",
-   "link": "https://www.marketwatch.com/story/datadogs-stock-extends-steep-declines-in-the-wake-of-earnings-af412874?mod=mw_rss_topstories",
-   "summary": "Datadog failed to top expectations with its revenue forecast.",
-   "article_text": "",
-   "source": "MarketWatch",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "marketwatch.com",
-   "published": "2026-11-04T13:03:00+00:00",
-   "tickers": [
-    "DDOG"
-   ]
-  },
-  {
-   "id": "4e2ca0de0e05",
-   "title": "Trace3 Says Disconnected AI Investments Are Creating Hidden Costs for Enterprises",
-   "link": "https://www.prnewswire.com/news-releases/trace3-says-disconnected-ai-investments-are-creating-hidden-costs-for-enterprises-302928832.html",
-   "summary": "As AI adoption expands faster than operational readiness, Trace3 points to duplicated investments, inconsistent data preparation, and weak cost oversight as obstacles to enterprise-wide AI value. IRVINE, Calif., Nov. 4, 2026 /PRNewswire/ -- Only 22% of organizations surveyed by Gartner...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-11-04T13:03:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ef89dc4ef8e7",
-   "title": "Life Time Is the Definitive Destination for Whole-Person Health",
-   "link": "https://www.prnewswire.com/news-releases/life-time-is-the-definitive-destination-for-whole-person-health-302928943.html",
-   "summary": "From athletic country clubs to expert-led programs and services, Life Time gives members every dimension of health in one place, and Experience Life's November/December issue highlights how it all connects Key Highlights: The November/December 2026 issue of Experience Life, Life Time's...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-11-04T13:03:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "4840514b9453",
-   "title": "Braskem S.A. Board Approves PD.CA/BAK-33/2026 to Define Delegation Limits for Statutory Officers",
-   "link": "https://www.nasdaq.com/articles/braskem-sa-board-approves-pdca-bak-33-2026-define-delegation-limits-statutory-officers",
-   "summary": "Braskem S.A. announced that its Board of Directors, at a meeting held on October 22, 2026, unanimously approved PD.CA/BAK-33/2026 to define delegation limits and approval thresholds for the company's Statutory Officers. Under the approved framework, Statutory Officers may decide",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-11-04T13:02:38+00:00",
-   "tickers": []
-  },
-  {
-   "id": "5c83125e3a3d",
-   "title": "3M Company Enters $7.35 billion Settlement to Resolve PFAS Personal Injury Claims",
-   "link": "https://www.nasdaq.com/articles/3m-company-enters-735-billion-settlement-resolve-pfas-personal-injury-claims",
-   "summary": "On November 3, 2026, 3M Company entered into a settlement arrangement structured to promote participation by claimants and intended to resolve the vast majority of alleged PFAS-related personal injury claims that are the focus of the Aqueous Film-Forming Foam multidistrict litiga",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-11-04T13:02:37+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ac40a1af9d35",
-   "title": "Addentax Group Corp. Enters Share Exchange Agreement to Acquire Double Cash Finance Limited for 464,907 Shares",
-   "link": "https://www.nasdaq.com/articles/addentax-group-corp-enters-share-exchange-agreement-acquire-double-cash-finance-limited",
-   "summary": "On November 3, 2026, Addentax Group Corp. entered into a Share Exchange Agreement with Yingxi Industrial Chain Investment Co., Ltd, a wholly owned subsidiary of the Company, Double Cash Finance Limited, and the sole shareholder of the Target, Mr. Chan Kai Sang. Pursuant to the Sh",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-04T13:02:37+00:00",
-   "tickers": []
-  },
-  {
-   "id": "5e13591b4073",
-   "title": "U.S. midterm elections in pictures: Democrats' sweeping victories deliver rebuke to Trump",
-   "link": "https://www.cnbc.com/2026/11/04/us-midterm-elections-in-pictures-democrats-republicans-trump.html",
-   "summary": "Democrats scored sweeping victories in the U.S. midterm elections on Wednesday, flipping key Republican-held seats in Congress.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-11-04T13:02:32+00:00",
-   "tickers": []
-  },
-  {
-   "id": "5f26ace9f173",
-   "title": "Starlight Investments Announces Topping Out of Major Build-to-Rent Development in Basildon",
-   "link": "https://www.prnewswire.com/news-releases/starlight-investments-announces-topping-out-of-major-build-to-rent-development-in-basildon-302928619.html",
-   "summary": "Milestone marks significant progress toward delivery of 492 new rental homes in the heart of Basildon Town Centre BASILDON, United Kingdom, Nov. 4, 2026 /PRNewswire/ -- Starlight Investments (\"Starlight\"), a leading global real estate investment and asset management firm, has announced...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-11-04T13:02:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "caa7b1fbc6e3",
-   "title": "DAVE & BUSTER'S SURRENDERS TO DOOM. INTRODUCING DOOM & BUSTER'S.",
-   "link": "https://www.prnewswire.com/news-releases/dave--busters-surrenders-to-doom-introducing-doom--busters-302928815.html",
-   "summary": "Dave & Buster's yields to the awesome might of Doctor Doom, surrendering its own name for a nationwide takeover built around Marvel Studios' Avengers: Doomsday, with Doomsday Zones, Marvel games, exclusive Marvel merchandise, Collectible Power Cards, a villain-worthy drink menu and...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-11-04T13:02:00+00:00",
-   "tickers": [
-    "DAVE",
-    "DIS"
-   ]
-  },
-  {
-   "id": "362bd93a91d7",
-   "title": "Earnings Snapshot: McDonald's Q3 systemwide sales top $38B, comps up 1.5%",
-   "link": "https://seekingalpha.com/news/4664719-earnings-snapshot-mcdonalds-q3-systemwide-sales-top-38b-comps-up-15?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-04T13:01:40+00:00",
-   "tickers": [
-    "MCD"
-   ]
-  },
-  {
-   "id": "8a34113a4690",
-   "title": "Fresenius SE & Co. KGaA 2026 Q3 - Results - Earnings Call Presentation",
-   "link": "https://seekingalpha.com/article/4962123-fresenius-se-and-co-kgaa-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-04T13:01:26+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ed5b97e63308",
-   "title": "Wipfli survey: Manufacturers eye 2027 growth as profit pressures persist",
-   "link": "https://www.prnewswire.com/news-releases/wipfli-survey-manufacturers-eye-2027-growth-as-profit-pressures-persist-302928373.html",
-   "summary": "Two-thirds expect revenue growth, but only 25% are very confident in achieving 2027 profit goals MILWAUKEE, Nov. 4, 2026 /PRNewswire/ -- Manufacturers are heading into 2027 with their strongest optimism in years, but confidence in turning stronger demand into profitable growth remains...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "press",
-   "sentiment": "positive",
-   "domain": "prnewswire.com",
-   "published": "2026-11-04T13:01:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "7b5ea364d584",
-   "title": "Carsforsale.com Ranks #1 in Automotive Lead Conversion, Delivering Nearly 3x the Close Rate of Competitors at a Fraction of the Cost",
-   "link": "https://www.prnewswire.com/news-releases/carsforsalecom-ranks-1-in-automotive-lead-conversion-delivering-nearly-3x-the-close-rate-of-competitors-at-a-fraction-of-the-cost-302928549.html",
-   "summary": "Converting dealership leads at 7.0% — nearly 3x the rate of CarGurus and more than 2x Autotrader — Carsforsale.com combines industry-leading performance with packages starting at just $99 per month. SIOUX FALLS, S.D., Nov. 4, 2026 /PRNewswire/ -- A new AutoRaptor study analyzing more than...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-11-04T13:01:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "2c932430fcca",
-   "title": "New Book Chronicles Diver's 17-Hour Survival Ordeal in the Atlantic Ocean",
-   "link": "https://www.prnewswire.com/news-releases/new-book-chronicles-divers-17-hour-survival-ordeal-in-the-atlantic-ocean-302928645.html",
-   "summary": "Allyson Aaron's 'Never Give Up' documents the true story of Christopher Bugros and his fight for survival off the coast of Trinidad NEW YORK, Nov. 4, 2026 /PRNewswire/ -- A routine spearfishing excursion in April 2019 turned into an extraordinary fight for survival when Trinidadian diver...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-11-04T13:01:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "47c523c0087f",
-   "title": "Soitec wins UBS upgrade as AI transceiver demand lifts growth prospects",
-   "link": "https://www.investing.com/news/stock-market-news/soitec-wins-ubs-upgrade-as-ai-transceiver-demand-lifts-growth-prospects-4999172",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-11-04T13:00:38+00:00",
-   "tickers": [
-    "UBS"
-   ]
-  },
-  {
-   "id": "e979b01943ae",
-   "title": "US Democratic win unlikely to ease firms’ cost, tariff woes in near term, executives say",
-   "link": "https://www.investing.com/news/stock-market-news/us-democratic-win-unlikely-to-ease-firms-cost-tariff-woes-in-near-term-executives-say-4999169",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "macro",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-11-04T13:00:30+00:00",
-   "tickers": []
-  },
-  {
-   "id": "8a551f000ff4",
-   "title": "China expands overseas mining stakes, tightening grip on critical minerals",
-   "link": "https://www.cnbc.com/2026/11/04/china-critical-minerals-rare-earths-trump-japan-export-control-.html",
-   "summary": "Beijing is building a system of agencies and state-backed vehicles to own more of the metals it depends on, while keeping its edge in processing skills.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "cnbc.com",
-   "published": "2026-11-04T13:00:01+00:00",
-   "tickers": []
-  },
-  {
-   "id": "3026be43cd59",
-   "title": "Think the Fed will be done after two more rate hikes? How Friday’s jobs report may trigger a major market repricing.",
-   "link": "https://www.marketwatch.com/story/think-the-fed-will-be-done-after-two-more-rate-hikes-how-fridays-jobs-report-may-trigger-a-major-market-repricing-6aca874c?mod=mw_rss_topstories",
-   "summary": "Unexpectedly hot jobs data could affect the number and timing of future rate hikes",
-   "article_text": "",
-   "source": "MarketWatch",
-   "category": "markets",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "marketwatch.com",
-   "published": "2026-11-04T13:00:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d74d8eb8f17f",
-   "title": "Regions Financial: 19% Total Return In 12 Months, More To Come",
-   "link": "https://seekingalpha.com/article/4961648-regions-financial-19-percent-total-return-in-12-months-more-to-come?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-04T13:00:00+00:00",
-   "tickers": [
-    "RF"
-   ]
-  },
-  {
-   "id": "6219eac826ce",
-   "title": "Rare Stock Picks In October 2026 - From 14 Discerning Analysts",
-   "link": "https://seekingalpha.com/article/4961008-rare-stock-picks-in-october-2026-from-14-discerning-analysts?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-04T13:00:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "95430b8bf388",
-   "title": "VisiQuate Acquires Artiva HCx, Uniting Revenue Cycle Intelligence and Workflow Expertise to Turn Insight Into Action",
-   "link": "https://www.prnewswire.com/news-releases/visiquate-acquires-artiva-hcx-uniting-revenue-cycle-intelligence-and-workflow-expertise-to-turn-insight-into-action-302927996.html",
-   "summary": "Combination brings together analytics and AI, proven workflow technology and deep operational expertise to help revenue cycle teams know which work matters and get it done SANTA ROSA, Calif., Nov. 4, 2026 /PRNewswire/ -- VisiQuate, a healthcare revenue cycle intelligence, workflow and...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-11-04T13:00:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "94bdb6080e11",
-   "title": "The 2026 Sales Tax Year in Review",
-   "link": "https://www.prnewswire.com/news-releases/the-2026-sales-tax-year-in-review-302918190.html",
-   "summary": "BOULDER, Colo., Nov. 4, 2026 /PRNewswire/ -- For ecommerce sellers, 2026 brought some welcome changes to sales tax, along with new rules to work through. Some states removed registration thresholds and added programs to resolve unpaid taxes, while others expanded taxes on software and...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-11-04T13:00:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "16f592a8289a",
-   "title": "Burford Reports 3Q26 and YTD26 Financial Results",
-   "link": "https://www.prnewswire.com/news-releases/burford-reports-3q26-and-ytd26-financial-results-302929128.html",
-   "summary": "NEW YORK, Nov. 4, 2026 /PRNewswire/ -- Burford Capital Limited (\"Burford\"), the leading global finance and asset management firm focused on law, announces its unaudited financial results for the three and nine months ended September 30, 2026 (\"3Q26\" and \"YTD26\", respectively). The full...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-11-04T13:00:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e3a117ab1ccc",
-   "title": "Justt Launches 'Flows,' Its New Chargeback Automation Engine",
-   "link": "https://www.prnewswire.com/news-releases/justt-launches-flows-its-new-chargeback-automation-engine-302929137.html",
-   "summary": "Three platform upgrades help merchants automatically stop disputes before they're filed, block serial disputers, and close a PayPal blind spot that card-network alert services can't see NEW YORK, Nov. 4, 2026 /PRNewswire/ -- Justt, the AI-native platform for enterprise chargeback...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "press",
-   "sentiment": "positive",
-   "domain": "prnewswire.com",
-   "published": "2026-11-04T13:00:00+00:00",
-   "tickers": [
-    "PYPL"
-   ]
-  },
-  {
-   "id": "35751ee19c3f",
-   "title": "Ben Zinder Joins PKF Investment Banking as Managing Director and Co-Head",
-   "link": "https://www.prnewswire.com/news-releases/ben-zinder-joins-pkf-investment-banking-as-managing-director-and-co-head-302928170.html",
-   "summary": "NEW YORK, Nov. 4, 2026 /PRNewswire/ -- PKF Investment Banking, the investment banking affiliate and subsidiary of PKF O'Connor Davies, one of the nation's largest accounting, tax and advisory practices, announced today that Ben Zinder has joined the Firm as Managing Director and Co-Head....",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-11-04T13:00:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "8149d0260e6e",
-   "title": "EMBERPOINT Adds State Farm® as Investor to Strengthen Community Wildfire Response",
-   "link": "https://www.prnewswire.com/news-releases/emberpoint-adds-state-farm-as-investor-to-strengthen-community-wildfire-response-302928910.html",
-   "summary": "Investment expands support for offering designed to give firefighters faster, better information during wildfires WASHINGTON, Nov. 4, 2026 /PRNewswire/ -- EMBERPOINT™, a wildfire intelligence company built to give first responders an operational advantage, today announced State Farm® as...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-11-04T13:00:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e5329bd950a9",
-   "title": "Sokin Appoints Former Corpay Leader Christopher Morris as Chief Revenue Officer",
-   "link": "https://www.prnewswire.com/news-releases/sokin-appoints-former-corpay-leader-christopher-morris-as-chief-revenue-officer-302929196.html",
-   "summary": "Financial infrastructure company also appoints Benedict Kelly as Chief Product Officer and names Peter Daunton as Chief Strategy Officer NEW YORK, Nov. 4, 2026 /PRNewswire/ -- Sokin, the financial infrastructure global business runs on, has appointed Christopher Morris as Chief Revenue...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-11-04T13:00:00+00:00",
-   "tickers": [
-    "MSTR",
-    "CPAY"
-   ]
-  },
-  {
-   "id": "e6bf17ca60b3",
-   "title": "Cognizant to Present at the BMO Technology and Innovation Leaders Conference",
-   "link": "https://www.prnewswire.com/news-releases/cognizant-to-present-at-the-bmo-technology-and-innovation-leaders-conference-302928928.html",
-   "summary": "TEANECK, N.J., Nov. 4, 2026 /PRNewswire/ -- Cognizant (Nasdaq: CTSH), a leading AI builder and technology services provider, today announced its participation at the following investor conference: BMO Technology and Innovation Leaders Conference Presenter: Jatin Dalal, Chief Financial...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-11-04T13:00:00+00:00",
-   "tickers": [
-    "CTSH",
-    "NDAQ",
-    "BMO"
-   ]
-  },
-  {
-   "id": "9592daac8818",
-   "title": "JLL elects Nabeel Al-Amudi and Toni Townes-Whitley to its Board of Directors",
-   "link": "https://www.prnewswire.com/news-releases/jll-elects-nabeel-al-amudi-and-toni-townes-whitley-to-its-board-of-directors-302929241.html",
-   "summary": "Leaders from global investment, infrastructure and technology bring decades of experience to JLL's board Key Takeaways JLL has elected Nabeel Al-Amudi and Toni Townes-Whitley as independent, non-executive directors, effective December 1, 2026, expanding the Board to 13 members. Al-Amudi...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-11-04T13:00:00+00:00",
-   "tickers": [
-    "JLL"
-   ]
-  },
-  {
-   "id": "30a53427c021",
-   "title": "Keyfactor Appoints Gerald Beuchelt as Chief Information Security Officer",
-   "link": "https://www.prnewswire.com/news-releases/keyfactor-appoints-gerald-beuchelt-as-chief-information-security-officer-302928127.html",
-   "summary": "Former Acronis CISO brings 25+ years of experience to further advance Keyfactor's security strategy across its products and global operations ATLANTA, Nov. 4, 2026 /PRNewswire/ -- Keyfactor, the leader in trust infrastructure for the AI and quantum era, today announced the appointment of...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-11-04T13:00:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "f8c45d846be0",
-   "title": "Govee Leads the Shift from Seasonal Décor to Everyday Outdoor Lighting",
-   "link": "https://www.prnewswire.com/news-releases/govee-leads-the-shift-from-seasonal-decor-to-everyday-outdoor-lighting-302928672.html",
-   "summary": "New YouGov research* finds 58% of U.S. adults interested in adaptable, year-round outdoor lighting, as Govee builds on its No. 1 market position to bring more possibilities to American homes. BELLEVUE, Wash., Nov. 4, 2026 /PRNewswire/ -- Govee, a global leader in smart lighting, is...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-11-04T13:00:00+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8918,7 +8928,6 @@
   "VFLO": "VictoryShares Free Cash Flow ETF",
   "IBM": "International Business Machines",
   "QSR": "Restaurant Brands International",
-  "CTSH": "Cognizant Technology Solutions",
   "DJT": "Trump Media & Technology Group",
   "AIG": "American International Group",
   "WST": "West Pharmaceutical Services",
@@ -8940,12 +8949,12 @@
   "DOC": "Healthpeak Properties",
   "NVTS": "Navitas Semiconductor",
   "BMY": "Bristol-Myers Squibb",
+  "CRWD": "CrowdStrike Holdings",
+  "MOD": "Modine Manufacturing",
   "SMCI": "Super Micro Computer",
   "ZETA": "Zeta Global Holdings",
   "ABT": "Abbott Laboratories",
-  "ARRY": "Array Technologies",
   "IDXX": "IDEXX Laboratories",
-  "JLL": "Jones Lang LaSalle",
   "MRVL": "Marvell Technology",
   "NYT": "The New York Times",
   "SWKS": "Skyworks Solutions",
@@ -8953,6 +8962,7 @@
   "HOOD": "Robinhood Markets",
   "LITE": "Lumentum Holdings",
   "MU": "Micron Technology",
+  "Q": "Qnity Electronics",
   "RF": "Regions Financial",
   "SVM": "Silvercorp Metals",
   "UBER": "Uber Technologies",
@@ -8961,15 +8971,13 @@
   "EMR": "Emerson Electric",
   "FCX": "Freeport-McMoRan",
   "NVO": "Novo Nordisk A/S",
+  "THC": "Tenet Healthcare",
   "MARA": "Marathon Digital",
   "ANET": "Arista Networks",
   "BAC": "Bank of America",
   "COIN": "Coinbase Global",
-  "DIS": "The Walt Disney",
   "EXP": "Eagle Materials",
   "GFS": "GLOBALFOUNDRIES",
-  "KHC": "The Kraft Heinz",
-  "LMT": "Lockheed Martin",
   "MTG": "MGIC Investment",
   "PYPL": "PayPal Holdings",
   "TEL": "TE Connectivity",
@@ -8988,6 +8996,7 @@
   "GWW": "W.W. Grainger",
   "HLNE": "Hamilton Lane",
   "JOBY": "Joby Aviation",
+  "KO": "The Coca-Cola",
   "LLY": "Eli Lilly and",
   "OC": "Owens Corning",
   "POST": "Post Holdings",
@@ -9009,11 +9018,11 @@
   "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
   "DDOG": "Datadog Inc",
-  "BN": "Brookfield",
   "CRM": "Salesforce",
   "CVS": "CVS Health",
   "F": "Ford Motor",
   "MCD": "McDonald's",
+  "NRG": "NRG Energy",
   "RKLB": "Rocket Lab",
   "SN": "SharkNinja",
   "MSFT": "Office 365",
@@ -9033,6 +9042,7 @@
   "RS": "Reliance",
   "WULF": "TeraWulf",
   "SQ": "Cash App",
+  "BNTX": "BioNTech",
   "CNC": "Centene",
   "COR": "Cencora",
   "ETR": "Entergy",
@@ -9044,17 +9054,18 @@
   "SCI": "Service",
   "W": "Wayfair",
   "WMT": "Walmart",
-  "CPAY": "Corpay",
+  "CTAS": "Cintas",
   "NDAQ": "Nasdaq",
   "PFE": "Pfizer",
   "SPCX": "SpaceX",
   "AMGN": "Amgen",
+  "CROX": "Crocs",
   "FLR": "Fluor",
   "INTC": "Intel",
   "NE": "Noble",
   "ONDS": "Ondas",
   "TOST": "Toast",
-  "DAVE": "Dave",
+  "MSCI": "MSCI",
   "ROKU": "Roku",
   "T": "AT&T",
   "TREX": "Trex"
