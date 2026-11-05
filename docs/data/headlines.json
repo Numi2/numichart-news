@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-05T03:47:17.723164+00:00",
+ "generated": "2026-11-05T03:54:25.293811+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -15,6 +15,50 @@
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
    "published": "2026-11-05T03:45:19+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ca11137be6db",
+   "title": "Grand Canyon Education, Inc. (LOPE) Q3 2026 Earnings Call Transcript",
+   "link": "https://seekingalpha.com/article/4962681-grand-canyon-education-inc-lope-q3-2026-earnings-call-transcript?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-05T03:44:35+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c261a3994e9b",
+   "title": "Amcor plc (AMCR) Q1 2027 Earnings Call Transcript",
+   "link": "https://seekingalpha.com/article/4962628-amcor-plc-amcr-q1-2027-earnings-call-transcript?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-05T03:44:32+00:00",
+   "tickers": [
+    "AMCR"
+   ]
+  },
+  {
+   "id": "fb4339a5b8c2",
+   "title": "Inside the chip talent war: Trade secrets and rising Chinese rivals",
+   "link": "https://www.cnbc.com/2026/11/05/semiconductor-china-korea-talents-rivalry.html",
+   "summary": "Growing competition for semiconductor talent is fueling a battle over trade secrets as Chinese chipmakers gain ground.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-11-05T03:44:05+00:00",
    "tickers": []
   },
   {
@@ -8778,48 +8822,6 @@
    "tickers": [
     "CME"
    ]
-  },
-  {
-   "id": "786772a6243a",
-   "title": "HP Inc. president Anneliese Olson sells $618,542 in shares",
-   "link": "https://www.investing.com/news/insider-trading-news/hp-inc-president-anneliese-olson-sells-618542-in-shares-93CH-5001878",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-05T00:16:15+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d004444fe7e9",
-   "title": "Boundless Bio director Kevin Tang buys $25,696 in shares",
-   "link": "https://www.investing.com/news/insider-trading-news/boundless-bio-director-kevin-tang-buys-25696-in-shares-93CH-5001877",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-05T00:15:51+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d1f0364aabb0",
-   "title": "Liberty Latin America A earnings missed by $0.04, revenue fell short of estimates",
-   "link": "https://www.investing.com/news/earnings/liberty-latin-america-a-earnings-missed-by-004-revenue-fell-short-of-estimates-5001876",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-11-05T00:15:43+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8952,6 +8954,7 @@
   "VSAT": "Viasat",
   "VST": "Vistra",
   "WAT": "Waters",
+  "AMCR": "Amcor",
   "FIG": "Figma",
   "GRAL": "GRAIL",
   "INTC": "Intel",
