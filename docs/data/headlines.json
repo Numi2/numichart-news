@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-06T09:26:06.314722+00:00",
+ "generated": "2026-11-06T09:32:26.576952+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -16,6 +16,22 @@
    "domain": "seekingalpha.com",
    "published": "2026-11-06T09:24:37+00:00",
    "tickers": []
+  },
+  {
+   "id": "703a8b55308e",
+   "title": "AMG Critical Materials beats top-line estimates; raises FY26 outlook",
+   "link": "https://seekingalpha.com/news/4667878-amg-critical-materials-beats-top-line-estimates-raises-fy26-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-06T09:23:41+00:00",
+   "tickers": [
+    "AMG"
+   ]
   },
   {
    "id": "f7aeb10d2c5a",
@@ -8788,20 +8804,6 @@
    "domain": "biztoc.com",
    "published": "2026-11-06T05:56:59+00:00",
    "tickers": []
-  },
-  {
-   "id": "f84c973f874c",
-   "title": "Uninsured and flooded out, a Colorado man worries if life will be normal again",
-   "link": "https://biztoc.com/x/86412d8d544a5c5c?ref=rss",
-   "summary": "Matthew Martinez has lived nearly all his 60 years on a piece of property on the Navajo River and never saw severe flooding until now",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-06T05:56:56+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8813,6 +8815,7 @@
   "BR": "Broadridge Financial Solutions",
   "WST": "West Pharmaceutical Services",
   "QQQ": "Invesco QQQ Trust, Series 1",
+  "AMG": "Affiliated Managers Group",
   "ICE": "Intercontinental Exchange",
   "LYV": "Live Nation Entertainment",
   "SHLD": "Global X Defense Tech ETF",
