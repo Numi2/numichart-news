@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-06T23:50:30.894453+00:00",
+ "generated": "2026-11-06T23:56:55.441187+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -30,6 +30,36 @@
    "domain": "seekingalpha.com",
    "published": "2026-11-06T23:45:49+00:00",
    "tickers": []
+  },
+  {
+   "id": "571a05bf894c",
+   "title": "The Wild Week That Brought AI Investors to the Brink",
+   "link": "https://biztoc.com/x/c41422ac606431fc?ref=rss",
+   "summary": "Democrats’ victories supercharged anxieties that had been building for weeks. Systematic trades amplified losses.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-06T23:44:46+00:00",
+   "tickers": []
+  },
+  {
+   "id": "d86bf7f867fe",
+   "title": "A Berkshire Hathaway Electric Utility Wants a Historic Rate Hike in California",
+   "link": "https://biztoc.com/x/bc6105bd87419594?ref=rss",
+   "summary": "Pacific Power is asking state regulators to approve a 57% rate increase that would boost the typical residential power bill by $120 a month.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-11-06T23:44:44+00:00",
+   "tickers": [
+    "BRK-A"
+   ]
   },
   {
    "id": "607d89e7b9dc",
@@ -8758,34 +8788,6 @@
    "domain": "nasdaq.com",
    "published": "2026-11-06T21:20:19+00:00",
    "tickers": []
-  },
-  {
-   "id": "96e74db18338",
-   "title": "Financial Institutions: 3 Key Takeaways for Long-Term Investors",
-   "link": "https://www.nasdaq.com/articles/financial-institutions-3-key-takeaways-long-term-investors",
-   "summary": "Key PointsCommercial loans grew 3% from the prior quarter.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-06T21:20:19+00:00",
-   "tickers": []
-  },
-  {
-   "id": "4bb17530194d",
-   "title": "American Financial: 3 Key Takeaways for Long-Term Investors",
-   "link": "https://www.nasdaq.com/articles/american-financial-3-key-takeaways-long-term-investors",
-   "summary": "Key PointsCore net operating earnings per share increased 48% year over year.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-06T21:20:19+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8821,6 +8823,7 @@
   "WTRG": "Essential Utilities",
   "ARRY": "Array Technologies",
   "BEN": "Franklin Resources",
+  "BRK-A": "Berkshire Hathaway",
   "MLI": "Mueller Industries",
   "NYT": "The New York Times",
   "PANW": "Palo Alto Networks",
