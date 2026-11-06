@@ -1,8 +1,22 @@
 {
- "generated": "2026-11-06T08:51:18.421326+00:00",
+ "generated": "2026-11-06T08:57:33.041438+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "a0f786570157",
+   "title": "Western Forest Products reports Q3 results",
+   "link": "https://seekingalpha.com/news/4667858-western-forest-products-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-06T08:50:05+00:00",
+   "tickers": []
+  },
   {
    "id": "7b56552b30ca",
    "title": "Kuaishou Technology to Report 2026 Third Quarter Financial Results on November 19, 2026",
@@ -46,6 +60,37 @@
    "tickers": []
   },
   {
+   "id": "91799bc849df",
+   "title": "Elizabeth Warren Dares Trump to Use His Veto Power as Democrats Prepare to Take Over Congress: 'Let's Test…",
+   "link": "https://biztoc.com/x/ae4f9e33344050e5?ref=rss",
+   "summary": "On Thursday, Elizabeth Warren challenged Trump to veto Democratic bills targeting affordability and corruption.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-06T08:45:19+00:00",
+   "tickers": []
+  },
+  {
+   "id": "03dbca6f2186",
+   "title": "Elon Musk's SpaceX Wants to Take On AT&T, T-Mobile — But Both Carriers Could Cut Off Boost Mobile: Report -…",
+   "link": "https://biztoc.com/x/c56807cbab3105c4?ref=rss",
+   "summary": "AT&T and T-Mobile may cut Boost Mobile's network access if SpaceX buys it, complicating Musk's plans to disrupt the U.S. wireless market.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "upgrade",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-11-06T08:45:16+00:00",
+   "tickers": [
+    "SPCX",
+    "T"
+   ]
+  },
+  {
    "id": "fda22683a765",
    "title": "Ajman Government Media Office unveils vision and programme for inaugural Ajman Media Forum 2026",
    "link": "https://www.prnewswire.com/news-releases/ajman-government-media-office-unveils-vision-and-programme-for-inaugural-ajman-media-forum-2026-302931916.html",
@@ -57,6 +102,62 @@
    "sentiment": "neutral",
    "domain": "prnewswire.com",
    "published": "2026-11-06T08:45:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b7de903a600d",
+   "title": "Global market rout deepens after midterms intensify AI fears",
+   "link": "https://biztoc.com/x/caf0b798fbf8fc45?ref=rss",
+   "summary": "People stand near a board displaying the Nikkei Stock Average on Tokyo Stock Exchange in Tokyo on November 6, 2026. Japanese shares plunged on November 6, after US shares tumbled overnight on worries that midterm election results could slow or derail the artificial intelligence data center…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-06T08:44:49+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a4703691fc3e",
+   "title": "How I Lost 40 Pounds With a Weighted Vest and No GLP-1 Drugs",
+   "link": "https://biztoc.com/x/b617c47f61a4e956?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-06T08:44:47+00:00",
+   "tickers": []
+  },
+  {
+   "id": "8ab559a7bb35",
+   "title": "Trump Isn't the Only One in Democrats' Crosshairs: Party Eyes Big Tech, AI Giants and Hundreds of Corporate…",
+   "link": "https://biztoc.com/x/a0ea07ecffddf289?ref=rss",
+   "summary": "Democrats are reportedly planning sweeping investigations into Big Tech, AI firms and hundreds of companies over alleged corporate misconduct.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-06T08:44:46+00:00",
+   "tickers": []
+  },
+  {
+   "id": "983990f300a9",
+   "title": "Swedish heart patients urge government to back dedicated EU health fund [Partner Content]",
+   "link": "https://biztoc.com/x/2d95cb681166fe58?ref=rss",
+   "summary": "Sweden’s government is siding with Brussels on scrapping a dedicated EU health budget, but heart patients warn the move could undermine prevention efforts just as the country builds its first national cardiovascular plan",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-06T08:44:39+00:00",
    "tickers": []
   },
   {
@@ -2808,7 +2909,7 @@
    "id": "038e88495a6c",
    "title": "Wall Street AI sell-off spreads to Asia and Europe",
    "link": "https://www.ft.com/content/642b32dc-e3a1-4df8-ae91-5c84bdeb89e0",
-   "summary": "Donald Trump blames voters for sell-off as investors fear Democrats will slow data centre build-out after midterms",
+   "summary": "Donald Trump blames voters for tech rout as futures suggest sell-off will ease at the US open on Friday",
    "article_text": "",
    "source": "FT Companies",
    "category": "stocks",
@@ -8708,111 +8809,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-11-06T05:14:36+00:00",
    "tickers": []
-  },
-  {
-   "id": "e79ee871fa62",
-   "title": "IREN Limited (IREN) Q1 2027 Earnings Call Transcript",
-   "link": "https://seekingalpha.com/article/4963685-iren-limited-iren-q1-2027-earnings-call-transcript?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-06T05:14:34+00:00",
-   "tickers": [
-    "IREN"
-   ]
-  },
-  {
-   "id": "8fc461975569",
-   "title": "NV Bekaert SA (BEKAY) Dextra, - M&A Call - Slideshow",
-   "link": "https://seekingalpha.com/article/4963747-nv-bekaert-sa-bekay-dextra-m-and-a-call-slideshow?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-06T05:14:11+00:00",
-   "tickers": []
-  },
-  {
-   "id": "90795589022c",
-   "title": "Samen voor een door AI aangedreven stedelijke toekomst: Dahua Technology presenteert praktische AIoT-oplossingen op SCEWC 2026.",
-   "link": "https://www.prnewswire.com/news-releases/samen-voor-een-door-ai-aangedreven-stedelijke-toekomst-dahua-technology-presenteert-praktische-aiot-oplossingen-op-scewc-2026-302931759.html",
-   "summary": "BARCELONA, Spanje, 6 november 2026 /PRNewswire/ -- Dahua Technology, een wereldwijd toonaangevende aanbieder van op video gerichte AIoT-oplossingen en -diensten, heeft zijn nieuwste slimme stadsoplossingen gepresenteerd op het Smart City Expo World Congress (SCEWC) 2026, dat van 3 tot en...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-11-06T05:14:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "27aa37d956a6",
-   "title": "Japanese investors snap up foreign long-term bonds as tech stocks slide",
-   "link": "https://www.investing.com/news/economy-news/japanese-investors-snap-up-foreign-longterm-bonds-as-tech-stocks-slide-5006480",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-11-06T05:12:54+00:00",
-   "tickers": []
-  },
-  {
-   "id": "59b5620d30be",
-   "title": "Increased Distributions On Eaton Vance Income Funds",
-   "link": "https://seekingalpha.com/article/4963731-increased-distributions-on-eaton-vance-income-funds?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-06T05:12:35+00:00",
-   "tickers": [
-    "ETN"
-   ]
-  },
-  {
-   "id": "9e018d67c95f",
-   "title": "Shoals Technologies Group, Inc. (SHLS) M&A Call Transcript",
-   "link": "https://seekingalpha.com/article/4962477-shoals-technologies-group-inc-shls-m-and-a-call-transcript?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-06T05:11:22+00:00",
-   "tickers": []
-  },
-  {
-   "id": "c73a7fbc321e",
-   "title": "Future of Marketing Briefing: Creators had a big year. Christmas still went to the celebrities",
-   "link": "https://biztoc.com/x/75407c8fb22d4f4d?ref=rss",
-   "summary": "Creators are everywhere in marketing these days — everywhere except Christmas ads. The first batch of festive campaigns, from John Lewis, SharkNinja, Ulta Beauty and Burberry among others, makes little for the industry’s favorite obsession. Despite leaning on creators throughout the rest of the…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-06T05:11:14+00:00",
-   "tickers": [
-    "ULTA",
-    "SN"
-   ]
   }
  ],
  "ticker_names": {
@@ -8906,10 +8902,8 @@
   "UBS": "UBS Group AG",
   "GOOGL": "Google Cloud",
   "TSLA": "Supercharger",
-  "ULTA": "Ulta Beauty",
   "AAPL": "Apple Watch",
   "GL": "Globe Life",
-  "SN": "SharkNinja",
   "STLA": "Stellantis",
   "DE": "John Deere",
   "ACN": "Accenture",
@@ -8953,11 +8947,11 @@
   "VTR": "Ventas",
   "AMCR": "Amcor",
   "CROX": "Crocs",
-  "ETN": "Eaton",
   "FROG": "JFrog",
   "HUT": "Hut 8",
   "DAVE": "Dave",
   "IONQ": "IonQ",
-  "LYFT": "Lyft"
+  "LYFT": "Lyft",
+  "T": "AT&T"
  }
 }
