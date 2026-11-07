@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T09:43:41.047729+00:00",
+ "generated": "2026-11-07T09:49:41.187602+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -420,6 +420,38 @@
    "domain": "biztoc.com",
    "published": "2026-11-07T09:29:38+00:00",
    "tickers": []
+  },
+  {
+   "id": "c1742cb9f3f9",
+   "title": "President Donald Trump Just Proclaimed That &quot;Inflation Is Way Down,&quot; but Federal Reserve Economists Have a Different Take",
+   "link": "https://www.nasdaq.com/articles/president-donald-trump-just-proclaimed-inflation-way-down-federal-reserve-economists-have",
+   "summary": "Key PointsStatistically, the Dow Jones Industrial Average, S&P 500, and Nasdaq Composite have excelled under Donald Trump.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-07T09:26:02+00:00",
+   "tickers": [
+    "NDAQ"
+   ]
+  },
+  {
+   "id": "e3cc4eaa9902",
+   "title": "1 Reason to Buy AMD Stock Before 2027",
+   "link": "https://www.nasdaq.com/articles/1-reason-buy-amd-stock-2027",
+   "summary": "Key PointsAMD expects 2027 revenue to grow more than 80% -- more than double its previous forecast.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-07T09:25:00+00:00",
+   "tickers": [
+    "AMD"
+   ]
   },
   {
    "id": "86b91e536954",
@@ -8751,36 +8783,6 @@
    "domain": "biztoc.com",
    "published": "2026-11-07T00:53:31+00:00",
    "tickers": []
-  },
-  {
-   "id": "4cf4bc1bf249",
-   "title": "Companies urged to adapt as restaurant franchisee files for bankruptcy: 'Businesses want to make excuses'",
-   "link": "https://biztoc.com/x/603aba632aa329c0?ref=rss",
-   "summary": "Companies operating in California and across the nation face growing pressure to adapt to high overhead and point to local economic conditions as the reason for financial collapse, experts say. \"A lot of businesses want to make excuses now,\" entrepreneur and FOX Business contributor Marcus Lemonis…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-11-07T00:53:30+00:00",
-   "tickers": [
-    "FOX"
-   ]
-  },
-  {
-   "id": "268e7c5f2ea5",
-   "title": "An unreleased Anthropic model just helped solve a major quantum-computing question",
-   "link": "https://biztoc.com/x/9fc91fa0b8102a9d?ref=rss",
-   "summary": "Physical Superintelligence Inc. said it used an unreleased Anthropic model to help solve a major open question in quantum computing. Christophe Gateau/picture alliance via Getty Images PSI said it used an unreleased Anthropic AI model to solve a quantum computing question. The Aaronson-Ambainis…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-07T00:53:28+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8799,6 +8801,7 @@
   "MPWR": "Monolithic Power Systems",
   "HON": "Honeywell International",
   "WPM": "Wheaton Precious Metals",
+  "AMD": "Advanced Micro Devices",
   "AXTA": "Axalta Coating Systems",
   "COF": "Capital One Financial",
   "BMY": "Bristol-Myers Squibb",
@@ -8885,7 +8888,6 @@
   "PLD": "Prologis",
   "WULF": "TeraWulf",
   "SQ": "Cash App",
-  "FOX": "Fox Corp",
   "AES": "The AES",
   "ALV": "Autoliv",
   "COMP": "Compass",
