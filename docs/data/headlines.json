@@ -1,8 +1,22 @@
 {
- "generated": "2026-11-07T07:13:18.580603+00:00",
+ "generated": "2026-11-07T07:19:07.232408+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "f2e6c0da98fe",
+   "title": "The Goodyear Tire & Rubber Company (GT) Q3 2026 Earnings Call Transcript",
+   "link": "https://seekingalpha.com/article/4964525-the-goodyear-tire-and-rubber-company-gt-q3-2026-earnings-call-transcript?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-07T07:14:35+00:00",
+   "tickers": []
+  },
   {
    "id": "a7ebf7a6b6c2",
    "title": "Data centers are unpopular — and a powerful motor of economic growth, experts say",
@@ -46,6 +60,20 @@
    "tickers": []
   },
   {
+   "id": "332484bcb017",
+   "title": "UK PM Burnham seeks closer EU ties as Brexit tensions threaten growth push",
+   "link": "https://www.investing.com/news/economy-news/uk-pm-burnham-seeks-closer-eu-ties-as-brexit-tensions-threaten-growth-push-5009734",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-07T07:01:55+00:00",
+   "tickers": []
+  },
+  {
    "id": "6e3b4c8ce769",
    "title": "Trump administration drops California mail-in ballot lawsuit after midterms",
    "link": "https://biztoc.com/x/667090ae957b3e0d?ref=rss",
@@ -58,6 +86,22 @@
    "domain": "biztoc.com",
    "published": "2026-11-07T07:01:53+00:00",
    "tickers": []
+  },
+  {
+   "id": "b0f00b7dd0d6",
+   "title": "Bristol Myers Squibb director Julia Haller sells $240,578 in stock",
+   "link": "https://www.investing.com/news/insider-trading-news/bristol-myers-squibb-director-julia-haller-sells-240578-in-stock-93CH-5009733",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-07T07:01:11+00:00",
+   "tickers": [
+    "BMY"
+   ]
   },
   {
    "id": "bfa2956bef3d",
@@ -8745,48 +8789,6 @@
    "domain": "nasdaq.com",
    "published": "2026-11-06T23:50:22+00:00",
    "tickers": []
-  },
-  {
-   "id": "cb3725cf21d7",
-   "title": "AN2 Therapeutics COO Eizen reports $11,925 in stock sale",
-   "link": "https://www.investing.com/news/insider-trading-news/an2-therapeutics-coo-eizen-reports-11925-in-stock-sale-93CH-5009420",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-06T23:46:15+00:00",
-   "tickers": []
-  },
-  {
-   "id": "f1188c5f0e53",
-   "title": "Definity targets $125M synergies while staying on track for $6.5B 2026 premiums and late-2027 TSA exits",
-   "link": "https://seekingalpha.com/news/4668694-definity-targets-125m-synergies-while-staying-on-track-for-6_5b-2026-premiums-and-lateminus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-06T23:46:09+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d77d358a5a03",
-   "title": "TIC Solutions (TIC) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/tic-solutions-tic-q3-2026-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-06T23:46:09+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8805,6 +8807,7 @@
   "HON": "Honeywell International",
   "WPM": "Wheaton Precious Metals",
   "SFM": "Sprouts Farmers Market",
+  "BMY": "Bristol-Myers Squibb",
   "PCOR": "Procore Technologies",
   "STZ": "Constellation Brands",
   "ABT": "Abbott Laboratories",
