@@ -1,8 +1,39 @@
 {
- "generated": "2026-11-07T12:31:53.929917+00:00",
+ "generated": "2026-11-07T12:38:10.312460+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "9e69dcd95609",
+   "title": "Brookfield Asset Management: Time To Buy This Dividend Compounder Now",
+   "link": "https://seekingalpha.com/article/4964358-brookfield-asset-management-time-to-buy-this-dividend-compounder-now?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-07T12:35:00+00:00",
+   "tickers": [
+    "BAM",
+    "BN"
+   ]
+  },
+  {
+   "id": "4a65da21adf4",
+   "title": "Raffles Medical CFO Woo Yeng Yeng To Step Down; Group Financial Controller Takes Interim Role",
+   "link": "https://www.nasdaq.com/articles/raffles-medical-cfo-woo-yeng-yeng-step-down-group-financial-controller-takes-interim-role",
+   "summary": "(RTTNews) - Raffles Medical Group Ltd (BSL.SI) announced that Woo Yeng Yeng will resign as Chief Financial Officer, effective December 31, 2026.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-07T12:25:34+00:00",
+   "tickers": []
+  },
   {
    "id": "5f623da2fe8c",
    "title": "JOYEE N01 Global Mass Production Launch and First Batch Delivery of 2,000 Overseas Orders Kicks Off",
@@ -8705,40 +8736,13 @@
    "domain": "nasdaq.com",
    "published": "2026-11-07T03:18:42+00:00",
    "tickers": []
-  },
-  {
-   "id": "17faca29826c",
-   "title": "BNP Paribas: French Political Unrest Is A Manageable Risk",
-   "link": "https://seekingalpha.com/article/4964472-bnp-paribas-french-political-unrest-is-a-manageable-risk?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-07T03:17:06+00:00",
-   "tickers": []
-  },
-  {
-   "id": "87a86ea9471e",
-   "title": "Telus targets $900M annualized cash savings exiting 2028 while projecting $500M AI infrastructure revenue over 3 years",
-   "link": "https://seekingalpha.com/news/4668703-telus-targets-900m-annualized-cash-savings-exiting-2028-while-projecting-500m-ai?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-07T03:15:56+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
   "DB": "Deutsche Bank Aktiengesellschaft",
   "QSR": "Restaurant Brands International",
   "WST": "West Pharmaceutical Services",
+  "BAM": "Brookfield Asset Management",
   "AEIS": "Advanced Energy Industries",
   "ICE": "Intercontinental Exchange",
   "JEF": "Jefferies Financial Group",
@@ -8799,6 +8803,7 @@
   "ROST": "Ross Stores",
   "SHAK": "Shake Shack",
   "SHOP": "Shopify Inc",
+  "BN": "Brookfield",
   "MNDY": "monday.com",
   "SPGI": "S&P Global",
   "SSRM": "SSR Mining",
