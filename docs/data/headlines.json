@@ -1,8 +1,22 @@
 {
- "generated": "2026-11-07T15:50:10.931738+00:00",
+ "generated": "2026-11-07T15:57:03.155004+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "6cb53281331d",
+   "title": "Earnings scorecard: 20 out of 21 technology companies beat EPS estimates this week",
+   "link": "https://seekingalpha.com/news/4668252-earnings-scorecard-20-out-of-21-technology-companies-beat-eps-estimates-this-week?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-07T15:50:07+00:00",
+   "tickers": []
+  },
   {
    "id": "3eb89eb9ee5e",
    "title": "Clarivate PLC: Return Of Organic Growth Confirms Speculative Appeal",
@@ -336,6 +350,25 @@
    "domain": "seekingalpha.com",
    "published": "2026-11-07T15:34:34+00:00",
    "tickers": []
+  },
+  {
+   "id": "854452e40a23",
+   "title": "Stock Indexes Settle Mostly Higher as Chipmakers Rebound",
+   "link": "https://www.nasdaq.com/articles/stock-indexes-settle-mostly-higher-chipmakers-rebound",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed up +0.31% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -0.46%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +1.35%. December E-mini S&P futures (ESZ26 ) rose +0.31%, and December E-mini Nasdaq futures...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-07T15:33:24+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
   },
   {
    "id": "e2679606aa77",
@@ -1832,25 +1865,6 @@
    "domain": "biztoc.com",
    "published": "2026-11-07T14:40:27+00:00",
    "tickers": []
-  },
-  {
-   "id": "854452e40a23",
-   "title": "Stock Indexes Settle Mostly Higher as Chipmakers Rebound",
-   "link": "https://www.nasdaq.com/articles/stock-indexes-settle-mostly-higher-chipmakers-rebound",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed up +0.31% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -0.46%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +1.35%. December E-mini S&P futures (ESZ26 ) rose +0.31%, and December E-mini Nasdaq futures...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-07T14:38:40+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
-   ]
   },
   {
    "id": "fbc6c4a138c4",
@@ -8802,20 +8816,6 @@
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
    "published": "2026-11-07T09:34:54+00:00",
-   "tickers": []
-  },
-  {
-   "id": "7f9730d7b1bf",
-   "title": "Future World’s Tallest Tower Faces El Niño Challenge Before Major Milestone",
-   "link": "https://biztoc.com/x/c099ef5e7916985f?ref=rss",
-   "summary": "The Jeddah Tower, poised to be the world’s tallest building upon completion, is expected to hit its record-setting biggest milestone yet in just over a year-and-a-half, but faces the unpredictable challenge of a \"Super El Niño\" before getting there, the team behind the project told…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-07T09:34:52+00:00",
    "tickers": []
   }
  ],
