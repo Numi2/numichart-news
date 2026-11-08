@@ -1,8 +1,22 @@
 {
- "generated": "2026-11-08T16:09:36.670320+00:00",
+ "generated": "2026-11-08T16:16:03.478561+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "b563599b4d98",
+   "title": "Basic Materials earnings mixed, with revenue results outperforming EPS",
+   "link": "https://seekingalpha.com/news/4668755-basic-materials-earnings-mixed-with-revenue-results-outperforming-eps?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-08T16:05:44+00:00",
+   "tickers": []
+  },
   {
    "id": "b394e249beb0",
    "title": "While AI speeds up SMEs, delivery remains hard to automate",
@@ -8782,22 +8796,6 @@
    "domain": "biztoc.com",
    "published": "2026-11-08T04:31:07+00:00",
    "tickers": []
-  },
-  {
-   "id": "a7abe0d6af97",
-   "title": "AI agents need to learn when not to buy",
-   "link": "https://biztoc.com/x/ee91cc9802b0220a?ref=rss",
-   "summary": "The holiday season is around the corner, but letting AI place your orders may still be a ways away, according to a new benchmark from Visa. Last week, the credit card giant launched its Agentic Comme...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-08T04:31:05+00:00",
-   "tickers": [
-    "V"
-   ]
   }
  ],
  "ticker_names": {
@@ -8922,7 +8920,6 @@
   "DAVE": "Dave",
   "EBAY": "eBay",
   "IONQ": "IonQ",
-  "T": "AT&T",
-  "V": "Visa"
+  "T": "AT&T"
  }
 }
