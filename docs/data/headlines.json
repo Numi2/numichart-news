@@ -1,8 +1,52 @@
 {
- "generated": "2026-11-08T02:27:42.468715+00:00",
+ "generated": "2026-11-08T02:33:49.536451+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "c1351c9694d1",
+   "title": "Intermodal rates coming in hot this fall; mostly fuel driven",
+   "link": "https://biztoc.com/x/6fda2ee12a246f6a?ref=rss",
+   "summary": "Chart of the Week: Intermodal Contract Rate per Mile – Transcontinental and East Coast lanes SONAR: IMCRPM.TRANSCON, IMCRPM.LOCALEAST Intermodal contract rates, including fuel, have taken off in the fourth quarter. Transcontinental (TRANSCON) rates are up more than 12% year over year, and rates on…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "macro",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-11-08T02:29:37+00:00",
+   "tickers": [
+    "GTLS"
+   ]
+  },
+  {
+   "id": "d9cd4f2ff032",
+   "title": "White to meet Trump on Monday",
+   "link": "https://biztoc.com/x/a1f0272c1dc22a10?ref=rss",
+   "summary": "Ultimate Fighting Championship (UFC) President and CEO Dana White said he will meet with United States President Donald Trump on Monday. He did not confirm or deny whether he accepted the American lea...",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-08T02:28:08+00:00",
+   "tickers": []
+  },
+  {
+   "id": "1f4ebbf6ae1c",
+   "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+   "link": "https://biztoc.com/x/54139ecc85c4cf16?ref=rss",
+   "summary": "Democrats’ historic victory in this week’s midterm elections could also have a dramatic effect on the tech industry. In dozens of local ballot measures, voters rejected data centers. And even when they weren’t voting on the issue directly, they were electing politicians — like Texas’ new…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-08T02:28:01+00:00",
+   "tickers": []
+  },
   {
    "id": "b77e7f7823f2",
    "title": "Global Crossing Airlines Group Inc. (JET:CA) Q3 2026 Earnings Call Transcript",
@@ -34,20 +78,6 @@
    ]
   },
   {
-   "id": "df49724f50fb",
-   "title": "Cotton Fading Lower into the Weekend",
-   "link": "https://www.nasdaq.com/articles/cotton-fading-lower-weekend",
-   "summary": "Cotton futures are trading with contracts 1 to 15 points lower across the front months on Friday. Crude oil is down 57 cents per barrel on the session, with the US dollar index $0.699 higher. USDA’s Export Sales data has total cotton export commitments at 5.942 million RB as of...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-11-08T02:18:19+00:00",
-   "tickers": []
-  },
-  {
    "id": "7e93d5486a2e",
    "title": "Hogs Extend Losses into the Weekend",
    "link": "https://www.nasdaq.com/articles/hogs-extend-losses-weekend-0",
@@ -75,36 +105,6 @@
    "sentiment": "neutral",
    "domain": "nasdaq.com",
    "published": "2026-11-08T02:18:19+00:00",
-   "tickers": []
-  },
-  {
-   "id": "972da34a273b",
-   "title": "Corn Firming on Friday",
-   "link": "https://www.nasdaq.com/articles/corn-firming-friday",
-   "summary": "Corn futures are trading with contracts steady to 1 ¼ cents higher at midday. The CmdtyView national average Cash Corn price is down 3 3/4 cents at $4.04. USDA reported a private export sale of 101,000 MT of corn to unknown destinations this morning, all for 2026/27. USDA’s Export Sales...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-08T02:18:18+00:00",
-   "tickers": [
-    "MT"
-   ]
-  },
-  {
-   "id": "88f930c116e9",
-   "title": "Wheat Facing Friday Weakness on Black Sea Pressure",
-   "link": "https://www.nasdaq.com/articles/wheat-facing-friday-weakness-black-sea-pressure",
-   "summary": "The wheat complex is showing losses across the three markets on Friday. Chicago SRW contracts are falling back 4 to 6 cents so far on the session. KC HRW futures were fare trading with 1 to 2 cent losses on Friday. MPLS spring wheat is back down 4 to 6...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-08T02:18:18+00:00",
    "tickers": []
   },
   {
@@ -651,6 +651,22 @@
    ]
   },
   {
+   "id": "972da34a273b",
+   "title": "Corn Firming on Friday",
+   "link": "https://www.nasdaq.com/articles/corn-firming-friday",
+   "summary": "Corn futures are trading with contracts steady to 1 ¼ cents higher at midday. The CmdtyView national average Cash Corn price is down 3 3/4 cents at $4.04. USDA reported a private export sale of 101,000 MT of corn to unknown destinations this morning, all for 2026/27. USDA’s Export Sales...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-08T01:32:32+00:00",
+   "tickers": [
+    "MT"
+   ]
+  },
+  {
    "id": "9948ce67ad13",
    "title": "SmartStop Self Storage REIT, Inc. (SMA) Seasonal Returns Chart",
    "link": "https://biztoc.com/x/dd1282c130fe8a86?ref=rss",
@@ -1060,6 +1076,20 @@
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
    "published": "2026-11-08T01:04:33+00:00",
+   "tickers": []
+  },
+  {
+   "id": "df49724f50fb",
+   "title": "Cotton Fading Lower into the Weekend",
+   "link": "https://www.nasdaq.com/articles/cotton-fading-lower-weekend",
+   "summary": "Cotton futures are trading with contracts 1 to 15 points lower across the front months on Friday. Crude oil is down 57 cents per barrel on the session, with the US dollar index $0.699 higher. USDA’s Export Sales data has total cotton export commitments at 5.942 million RB as of...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-11-08T01:02:58+00:00",
    "tickers": []
   },
   {
@@ -5389,6 +5419,20 @@
    ]
   },
   {
+   "id": "88f930c116e9",
+   "title": "Wheat Facing Friday Weakness on Black Sea Pressure",
+   "link": "https://www.nasdaq.com/articles/wheat-facing-friday-weakness-black-sea-pressure",
+   "summary": "The wheat complex is showing losses across the three markets on Friday. Chicago SRW contracts are falling back 4 to 6 cents so far on the session. KC HRW futures were fare trading with 1 to 2 cent losses on Friday. MPLS spring wheat is back down 4 to 6...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-07T21:31:30+00:00",
+   "tickers": []
+  },
+  {
    "id": "761fcb89eb88",
    "title": "Cattle Weakness Pushing to Friday",
    "link": "https://www.nasdaq.com/articles/cattle-weakness-pushing-friday",
@@ -8762,56 +8806,6 @@
    "domain": "biztoc.com",
    "published": "2026-11-07T18:16:17+00:00",
    "tickers": []
-  },
-  {
-   "id": "468cbafb6a21",
-   "title": "Heavily Armed Illegal Alien Arrested Near White House With AR-15, MAC-10; DHS Say He \"Heard Voices In Head To Kill Trump\"",
-   "link": "https://biztoc.com/x/fa1d2a2a855a82d0?ref=rss",
-   "summary": "Heavily Armed Illegal Alien Arrested Near White House With AR-15, MAC-10; DHS Say He \"Heard Voices In Head To Kill Trump\" Secret Service agents arrested a heavily armed illegal alien from Venezuela down the street from the White House who, according to the federal government, \"heard voices in…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-07T18:16:16+00:00",
-   "tickers": [
-    "SCI",
-    "AR"
-   ]
-  },
-  {
-   "id": "f2c4ae8d455b",
-   "title": "S&P 500 Faces Double Top Risk as Rate Hike Bets Build and AI Fears Spread - State Street SPDR S&P 500 ETF…",
-   "link": "https://biztoc.com/x/53d9d200238611ff?ref=rss",
-   "summary": "The S&P 500 Index is facing double-top risks as rate hike odds jump on Polymarket and Kalshi as AI fears continue spreading",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-11-07T18:16:11+00:00",
-   "tickers": [
-    "SPY",
-    "STT"
-   ]
-  },
-  {
-   "id": "4cf13dc5cbc6",
-   "title": "Good Luck Getting a Cheap GPU. AMD Is a 'Data Center First Company,' CEO Says",
-   "link": "https://biztoc.com/x/b45f69a4a87d7558?ref=rss",
-   "summary": "Though voters in the US may not be excited to hear it, AMD's CEO is all in on data centers. \"We are a data center first company; that is our profile,\" Lisa Su said in an interview with Yahoo Finance. AMD's data center business was expected to grow by another 50% over the next three months, and AMD…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-07T18:16:10+00:00",
-   "tickers": [
-    "AMD"
-   ]
   }
  ],
  "ticker_names": {
@@ -8861,7 +8855,6 @@
   "PCTY": "Paylocity Holding",
   "POWL": "Powell Industries",
   "ALK": "Alaska Air Group",
-  "AR": "Antero Resources",
   "BWXT": "BWX Technologies",
   "COST": "Costco Wholesale",
   "GTLS": "Chart Industries",
