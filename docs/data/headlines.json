@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08T17:10:43.925259+00:00",
+ "generated": "2026-11-08T17:17:58.653524+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -222,6 +222,22 @@
    "tickers": []
   },
   {
+   "id": "cc2225c939a1",
+   "title": "Cullen/Frost Bankers chief accounting officer Henson sells $85,290 of stock",
+   "link": "https://www.investing.com/news/insider-trading-news/cullenfrost-bankers-chief-accounting-officer-henson-sells-85290-of-stock-93CH-5010272",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-08T17:01:15+00:00",
+   "tickers": [
+    "CFR"
+   ]
+  },
+  {
    "id": "340f534ea33c",
    "title": "South Korea selects Sikorsky for presidential helicopter program",
    "link": "https://seekingalpha.com/news/4668764-south-korea-selects-sikorsky-for-presidential-helicopter-program?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -337,6 +353,22 @@
    "domain": "seekingalpha.com",
    "published": "2026-11-08T16:50:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "d7f74a69ad00",
+   "title": "SoFi Has 17.1 Million Members. Prediction: It Tops 20 Million in 2027.",
+   "link": "https://www.nasdaq.com/articles/sofi-has-171-million-members-prediction-it-tops-20-million-2027",
+   "summary": "Key PointsSoFi's user base expanded by 35% year over year in Q3, following similar gains in the prior two quarters.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-11-08T16:50:00+00:00",
+   "tickers": [
+    "SOFI"
+   ]
   },
   {
    "id": "f8c464291a54",
@@ -8781,34 +8813,6 @@
    "domain": "biztoc.com",
    "published": "2026-11-08T08:05:49+00:00",
    "tickers": []
-  },
-  {
-   "id": "4529156fa8dc",
-   "title": "Club Offers for Travel Enthusiasts in Canada",
-   "link": "https://www.prnewswire.com/news-releases/club-offers-for-travel-enthusiasts-in-canada-302932399.html",
-   "summary": "TORONTO, Nov. 8, 2026 /PRNewswire/ -- Travelzoo® (NASDAQ: TZOO), the club for travel enthusiasts, announces five of many new Club Offers for Club Members in Canada. Rigorously vetted and negotiated for us travel enthusiasts: $849—LISBON CITY BREAK WITH FLIGHTS Spend five nights in the...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-11-08T08:00:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "2fb229fe7711",
-   "title": "Blend Labs, Inc. 2026 Q3 - Results - Earnings Call Presentation",
-   "link": "https://seekingalpha.com/article/4964816-blend-labs-inc-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-08T07:54:55+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8835,6 +8839,7 @@
   "BDX": "Becton, Dickinson and",
   "PLTR": "Palantir Technologies",
   "CEG": "Constellation Energy",
+  "CFR": "Cullen/Frost Bankers",
   "PG": "The Procter & Gamble",
   "RVMD": "Revolution Medicines",
   "STZ": "Constellation Brands",
@@ -8852,6 +8857,7 @@
   "MU": "Micron Technology",
   "NFG": "National Fuel Gas",
   "QUBT": "Quantum Computing",
+  "SOFI": "SoFi Technologies",
   "UBER": "Uber Technologies",
   "BKNG": "Booking Holdings",
   "COST": "Costco Wholesale",
