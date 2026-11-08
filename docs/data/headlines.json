@@ -1,8 +1,55 @@
 {
- "generated": "2026-11-08T01:35:43.910598+00:00",
+ "generated": "2026-11-08T01:42:32.277474+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "5d303c88a10b",
+   "title": "Global gas market could remain tight well into 2027, IEA warns",
+   "link": "https://seekingalpha.com/news/4668739-global-gas-market-could-remain-tight-well-into-2027-iea-warns?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-08T01:35:23+00:00",
+   "tickers": []
+  },
+  {
+   "id": "6612a7dec195",
+   "title": "Crane NXT, Co. (CXT) Q3 2026 Earnings Call Transcript",
+   "link": "https://seekingalpha.com/article/4964795-crane-nxt-co-cxt-q3-2026-earnings-call-transcript?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-08T01:34:35+00:00",
+   "tickers": [
+    "CR",
+    "NXT"
+   ]
+  },
+  {
+   "id": "972da34a273b",
+   "title": "Corn Firming on Friday",
+   "link": "https://www.nasdaq.com/articles/corn-firming-friday",
+   "summary": "Corn futures are trading with contracts steady to 1 ¼ cents higher at midday. The CmdtyView national average Cash Corn price is down 3 3/4 cents at $4.04. USDA reported a private export sale of 101,000 MT of corn to unknown destinations this morning, all for 2026/27. USDA’s Export Sales...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-08T01:32:32+00:00",
+   "tickers": [
+    "MT"
+   ]
+  },
   {
    "id": "9948ce67ad13",
    "title": "SmartStop Self Storage REIT, Inc. (SMA) Seasonal Returns Chart",
@@ -500,22 +547,6 @@
    "domain": "biztoc.com",
    "published": "2026-11-08T00:56:11+00:00",
    "tickers": []
-  },
-  {
-   "id": "972da34a273b",
-   "title": "Corn Firming on Friday",
-   "link": "https://www.nasdaq.com/articles/corn-firming-friday",
-   "summary": "Corn futures are trading with contracts steady to 1 ¼ cents higher at midday. The CmdtyView national average Cash Corn price is down 3 3/4 cents at $4.04. USDA reported a private export sale of 101,000 MT of corn to unknown destinations this morning, all for 2026/27. USDA’s Export Sales...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-08T00:55:57+00:00",
-   "tickers": [
-    "MT"
-   ]
   },
   {
    "id": "fd43921d8371",
@@ -8793,34 +8824,6 @@
     "DIS",
     "TE"
    ]
-  },
-  {
-   "id": "823120f12a4e",
-   "title": "Riley Exploration Permian, Inc. 2026 Q3 - Results - Earnings Call Presentation",
-   "link": "https://seekingalpha.com/article/4964654-riley-exploration-permian-inc-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-07T17:44:59+00:00",
-   "tickers": []
-  },
-  {
-   "id": "5087aa70c110",
-   "title": "Riley Exploration Permian, Inc. (REPX) Q3 2026 Earnings Call Transcript",
-   "link": "https://seekingalpha.com/article/4964653-riley-exploration-permian-inc-repx-q3-2026-earnings-call-transcript?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-07T17:44:39+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8922,6 +8925,7 @@
   "CME": "CME Group",
   "CRWV": "CoreWeave",
   "INGR": "Ingredion",
+  "NXT": "Nextpower",
   "TE": "T1 Energy",
   "NWSA": "News Corp",
   "RS": "Reliance",
@@ -8944,6 +8948,7 @@
   "PFE": "Pfizer",
   "SPCX": "SpaceX",
   "SRE": "Sempra",
+  "CR": "Crane",
   "FROG": "JFrog",
   "KEX": "Kirby",
   "NE": "Noble",
