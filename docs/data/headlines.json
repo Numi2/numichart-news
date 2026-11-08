@@ -1,8 +1,22 @@
 {
- "generated": "2026-11-08T15:20:26.435775+00:00",
+ "generated": "2026-11-08T15:26:39.816066+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "f2636a70cbf6",
+   "title": "Wall Street hiring helps lift finance jobs in October",
+   "link": "https://biztoc.com/x/089e7237cd9194db?ref=rss",
+   "summary": "Hiring across the financial sector showed signs of life in October, with Wall Street-related firms adding workers, while commercial lending and insurers continued to shed jobs. Firms in financial activities-related businesses added 7,000 jobs last month, according to Bureau of Labor Statistics…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-08T15:15:47+00:00",
+   "tickers": []
+  },
   {
    "id": "4613f18e7b52",
    "title": "Lucid set to report another loss-making quarter; cash flow updates in focus",
@@ -17,6 +31,24 @@
    "published": "2026-11-08T15:15:42+00:00",
    "tickers": [
     "LCID"
+   ]
+  },
+  {
+   "id": "ecb1b54803dc",
+   "title": "Morgan Stanley Sees AI Making Ecolab’s (ECL) Competitive Moat Even Stronger",
+   "link": "https://biztoc.com/x/d01b97dfc1173536?ref=rss",
+   "summary": "We just published a list of the 10 Stocks to Watch from Morgan Stanley's Ultra-Selective Tailwinds Strategy, and Ecolab Inc. (NYSE:ECL) ranked 8th on this list. Artificial intelligence is rapidly reshaping the current corporate landscape. However, the next phase of its economic impact may extend…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-08T15:15:30+00:00",
+   "tickers": [
+    "ECL",
+    "MS",
+    "MSTR"
    ]
   },
   {
@@ -8759,36 +8791,6 @@
    "tickers": [
     "MTD"
    ]
-  },
-  {
-   "id": "b036c418baac",
-   "title": "Marriott International (MAR) Enters Laos With Luxury Collection Debut In Luang Prabang",
-   "link": "https://biztoc.com/x/7afd98d485b17bc6?ref=rss",
-   "summary": "Marriott International (NasdaqGS:MAR) has entered Laos with the opening of La Résidence Phou Vao in Luang Prabang. - The property joins Marriott's Luxury Collection portfolio and is located in a UNESCO World Heritage city in northern Laos. - La Résidence Phou Vao expands Marriott's presence in…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-08T03:14:29+00:00",
-   "tickers": [
-    "MAR"
-   ]
-  },
-  {
-   "id": "2334492fe178",
-   "title": "LCI Industries Q3 Earnings Call Highlights",
-   "link": "https://biztoc.com/x/2b0bd94d0f570f17?ref=rss",
-   "summary": "Key Points - Interested in LCI Industries? Here are five stocks we like better. - Margins and earnings improved despite softer sales: Q3 revenue fell 4% to just under $1 billion, led by a 17% decline in RV OEM sales, while aftermarket and adjacent-industry sales grew. Adjusted operating margin…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-08T03:14:23+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8810,7 +8812,6 @@
   "GS": "The Goldman Sachs Group",
   "AMD": "Advanced Micro Devices",
   "CMG": "Chipotle Mexican Grill",
-  "MAR": "Marriott International",
   "VRTX": "Vertex Pharmaceuticals",
   "AMH": "American Homes 4 Rent",
   "CEG": "Constellation Energy",
@@ -8897,6 +8898,7 @@
   "NFLX": "Netflix",
   "ABNB": "Airbnb",
   "CHE": "Chemed",
+  "ECL": "Ecolab",
   "NDAQ": "Nasdaq",
   "ORCL": "Oracle",
   "PFE": "Pfizer",
