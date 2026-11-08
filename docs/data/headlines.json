@@ -1,22 +1,8 @@
 {
- "generated": "2026-11-08T06:46:15.353022+00:00",
+ "generated": "2026-11-08T06:52:50.446859+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
-  {
-   "id": "88f930c116e9",
-   "title": "Wheat Facing Friday Weakness on Black Sea Pressure",
-   "link": "https://www.nasdaq.com/articles/wheat-facing-friday-weakness-black-sea-pressure",
-   "summary": "The wheat complex is showing losses across the three markets on Friday. Chicago SRW contracts are falling back 4 to 6 cents so far on the session. KC HRW futures were fare trading with 1 to 2 cent losses on Friday. MPLS spring wheat is back down 4 to 6...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-08T06:39:26+00:00",
-   "tickers": []
-  },
   {
    "id": "5d83ce112aca",
    "title": "Sugar Prices Retreat on Stronger India Sugar Output",
@@ -972,6 +958,20 @@
    "sentiment": "negative",
    "domain": "investing.com",
    "published": "2026-11-08T04:17:43+00:00",
+   "tickers": []
+  },
+  {
+   "id": "88f930c116e9",
+   "title": "Wheat Facing Friday Weakness on Black Sea Pressure",
+   "link": "https://www.nasdaq.com/articles/wheat-facing-friday-weakness-black-sea-pressure",
+   "summary": "The wheat complex is showing losses across the three markets on Friday. Chicago SRW contracts are falling back 4 to 6 cents so far on the session. KC HRW futures were fare trading with 1 to 2 cent losses on Friday. MPLS spring wheat is back down 4 to 6...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-08T04:17:33+00:00",
    "tickers": []
   },
   {
@@ -6845,6 +6845,23 @@
    ]
   },
   {
+   "id": "daa232a0ffbc",
+   "title": "Meta chief strategy officer Dave Wehner leaves to join AI infrastructure startup Fireworks as CFO",
+   "link": "https://www.cnbc.com/2026/11/07/dave-wehner-meta-fireworks-cfo.html",
+   "summary": "Dave Wehner, Meta’s chief strategy officer, is leaving the company to become CFO of Fireworks, the AI infrastructure startup valued at $17.5 billion in July.",
+   "article_text": "Meta strategy chief Dave Wehner joins Fireworks as CFO Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Key Points Meta chief strategy officer Dave Wehner is leaving the company to become CFO of Fireworks. Fireworks is an AI inference and model-training platform that helps companies customize and run open models. Fireworks was valued at $17.5 billion in a July Series D and is in early talks to raise again at a possible $30 billion to $40 billion valuation, Business Insider reported. In this article META Follow your favorite stocks CREATE FREE ACCOUNT Dave Wehner, Meta's chief strategy officer, is leaving the company for four-year-old AI startup Fireworks. At Fireworks — an AI inference and model-training platform focused on open models that was valued at $17.5 billion during a Series D fundraising round in July — Wehner will assume the CFO role, he announced on X on Friday. Wehner will be tasked with scaling the company's finances and operations, Fireworks CEO Lin Qiao said in a statement to CNBC. \"Fireworks has the right mission for the moment,\" Wehner wrote on X, adding: \"I've become increasingly bullish on what they are building. There's a remarkable depth of technical talent here, coupled with a very practical focus on what customers need.\" The AI startup, founded in 2022 by former Meta and Google employees, is a platform that lets developers customize and run open models for their businesses. Its latest investment round was led by Atreides Management, Index Ventures and TCV, but Fireworks is also backed by Nvidia and Sequoia Capital. Business Insider reported that it is in early talks to raise funds again at a possible $30 billion to $40 billion valuation. Wehner joined Meta, then called Facebook, in 2012 and was the company's chief financial officer from 2014 to 2022. \"Dave helped guide Meta through tremendous growth and complexity over 14 years, and brought disciplined thinking to some of our hardest company-level decisions,\" Meta COO Javier Olivan said in a statement to CNBC. Fireworks is notably smaller than Meta — the tech giant has about a $1.56 trillion market capitalization as of Friday's close — and its competitors, which include OpenAI and Anthropic. \"Dave told me he wanted to get back to a smaller company where he could build toward a big impact again,\" Fireworks' Lin wrote in a LinkedIn post on Friday. \"He sees AI as the defining technology shift of his lifetime and wants to help shape what comes next.\" The company's size has not made it immune to the risks and complications often associated with AI technology. In October, the company found \"a security incident involving unauthorized use of internal Fireworks credentials,\" in which \"an unauthorized third party accessed environment variables used in evaluation jobs in a limited number of customer accounts,\" it said in a press release. \"Based on our investigation at this time, we have not detected evidence of unauthorized access to customer models, datasets, training data, personal information, or inference traffic within the Fireworks security perimeter or control,\" the release said. Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-11-07T22:01:17+00:00",
+   "tickers": [
+    "DAVE",
+    "META"
+   ]
+  },
+  {
    "id": "af8dbf3920e1",
    "title": "Elon Musk Is Winding Down Cybertruck Production to Build Cybercabs. The Model S and Model X Already Gave Up Their Factory Space to Robots.",
    "link": "https://www.nasdaq.com/articles/elon-musk-winding-down-cybertruck-production-build-cybercabs-model-s-and-model-x-already",
@@ -8769,22 +8786,6 @@
    "domain": "biztoc.com",
    "published": "2026-11-07T20:04:30+00:00",
    "tickers": []
-  },
-  {
-   "id": "c7617a80e371",
-   "title": "Charter Communications Inc (CHTR) Q3 2026 Earnings Call Highlights: Cox Integration, Cost ..",
-   "link": "https://biztoc.com/x/c1b5f543c10a4b17?ref=rss",
-   "summary": "This article first appeared on GuruFocus. - Pro Forma Consolidated Revenue: Down 1.5% year-over-year; down 1% excluding advertising revenue and programming GAAP allocation. - Pro Forma Residential Revenue: Declined 4.1% year-over-year; down 2.6% excluding GAAP allocation of programming costs…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-07T20:04:30+00:00",
-   "tickers": [
-    "CHTR"
-   ]
   }
  ],
  "ticker_names": {
