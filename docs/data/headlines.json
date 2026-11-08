@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08T04:52:07.023252+00:00",
+ "generated": "2026-11-08T04:58:53.309768+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -116,8 +116,24 @@
    "type": "stocks",
    "sentiment": "negative",
    "domain": "nasdaq.com",
-   "published": "2026-11-08T04:23:56+00:00",
+   "published": "2026-11-08T04:30:21+00:00",
    "tickers": []
+  },
+  {
+   "id": "b6694065ef63",
+   "title": "Corn Bounces to Close the Week as Specs Flip Short",
+   "link": "https://www.nasdaq.com/articles/corn-bounces-close-week-specs-flip-short",
+   "summary": "Corn futures closed the Friday session with contracts fractionally to 2 cents higher, as that eased the weekly loss in the December contract to 6 ¼ cents. The CmdtyView national average Cash Corn price was up 1 3/4 cents at $4.06. USDA reported a private export sale of 101,000 MT...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-08T04:30:20+00:00",
+   "tickers": [
+    "MT"
+   ]
   },
   {
    "id": "d3a5e5ee4b00",
@@ -146,22 +162,6 @@
    "domain": "investing.com",
    "published": "2026-11-08T04:17:43+00:00",
    "tickers": []
-  },
-  {
-   "id": "b6694065ef63",
-   "title": "Corn Bounces to Close the Week as Specs Flip Short",
-   "link": "https://www.nasdaq.com/articles/corn-bounces-close-week-specs-flip-short",
-   "summary": "Corn futures closed the Friday session with contracts fractionally to 2 cents higher, as that eased the weekly loss in the December contract to 6 ¼ cents. The CmdtyView national average Cash Corn price was up 1 3/4 cents at $4.06. USDA reported a private export sale of 101,000 MT...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-08T04:17:33+00:00",
-   "tickers": [
-    "MT"
-   ]
   },
   {
    "id": "88f930c116e9",
