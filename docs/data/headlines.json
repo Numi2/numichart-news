@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08T22:52:12.804041+00:00",
+ "generated": "2026-11-08T22:58:39.631226+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -14,8 +14,24 @@
    "type": "markets",
    "sentiment": "neutral",
    "domain": "cnbc.com",
-   "published": "2026-11-08T22:50:12+00:00",
+   "published": "2026-11-08T22:53:57+00:00",
    "tickers": []
+  },
+  {
+   "id": "7ba231babfa5",
+   "title": "Nuclear stocks surge as Oklo results spark rally for reactors, uranium suppliers",
+   "link": "https://seekingalpha.com/news/4668778-nuclear-stocks-surge-as-oklo-results-spark-rally-for-reactors-uranium-suppliers?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-08T22:51:30+00:00",
+   "tickers": [
+    "OKLO"
+   ]
   },
   {
    "id": "cf9e617a9975",
@@ -30,6 +46,22 @@
    "domain": "prnewswire.com",
    "published": "2026-11-08T22:50:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "c615a04f6249",
+   "title": "RBA’s Hunter says AI has yet to deliver productivity boost, trigger job losses",
+   "link": "https://www.investing.com/news/economy-news/rbas-hunter-says-ai-has-yet-to-deliver-productivity-boost-trigger-job-losses-5010341",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "upgrade",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-11-08T22:48:20+00:00",
+   "tickers": [
+    "RBA"
+   ]
   },
   {
    "id": "5e387705bccd",
@@ -287,6 +319,20 @@
    "sentiment": "neutral",
    "domain": "globenewswire.com",
    "published": "2026-11-08T22:46:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "1d66dc2cef01",
+   "title": "Crude Oil Prices Finish Higher as Global Energy Supplies Remain Tight",
+   "link": "https://www.nasdaq.com/articles/crude-oil-prices-finish-higher-global-energy-supplies-remain-tight",
+   "summary": "December WTI crude oil (CLZ26 ) closed up +0.31 (+0.34%) on Friday, and December RBOB gasoline (RBZ26 ) closed up +0.0133 (+0.48%). Crude oil and gasoline prices fluctuated between gains and losses on Friday and finally settled higher. Crude found support Friday as Ukraine ramped up drone attacks on Russian...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-08T22:45:38+00:00",
    "tickers": []
   },
   {
@@ -8737,50 +8783,6 @@
     "AMZN",
     "PEP"
    ]
-  },
-  {
-   "id": "8f8cc5e23268",
-   "title": "Vanguard and Fidelity Expect Less Than Half the Stock Returns of the Past Decade. Here’s the Math for a 66-Year-Old With $2 Million and $4,000 a Month in Social Security",
-   "link": "https://biztoc.com/x/69ff7d71f7c25384?ref=rss",
-   "summary": "The post Vanguard and Fidelity Expect Less Than Half the Stock Returns of the Past Decade. Here’s the Math for a 66-Year-Old With $2 Million and $4,000 a Month in Social Security. appeared first on 24/7 Wall St.. Vanguard and Fidelity now expect American stocks to earn about 5.8% a year, and for a…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-08T15:14:19+00:00",
-   "tickers": [
-    "VYMI"
-   ]
-  },
-  {
-   "id": "3d602b790e79",
-   "title": "The average worker would need to save for 52 years to claw their way out of the middle class and be classified as wealthy, research reveals",
-   "link": "https://biztoc.com/x/8aa8683cde723f5a?ref=rss",
-   "summary": "The exact number of years of saving it would take for the average worker to claw out of the middle-class bracket has been revealed—and it’s nearly half a century. Sobering research released in October 2025 from the think tank Resolution Foundation shows that for aspirational Brits looking to move…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-08T15:14:17+00:00",
-   "tickers": []
-  },
-  {
-   "id": "64518230a2d6",
-   "title": "3 Insurance Dividend Stocks Built to Keep Paying Through Tough Times",
-   "link": "https://biztoc.com/x/6f014c801c85e8ec?ref=rss",
-   "summary": "The post 3 Insurance Dividend Stocks Built to Keep Paying Through Tough Times appeared first on 24/7 Wall St.. Insurance companies collect premiums up front and pay claims later, and the cash held in between earns interest. When underwriting remains disciplined, that model produces steady profits…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "dividend",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-11-08T15:14:12+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8878,6 +8880,7 @@
   "BC": "Brunswick",
   "CME": "CME Group",
   "CRWV": "CoreWeave",
+  "RBA": "RB Global",
   "NWSA": "News Corp",
   "APP": "AppLovin",
   "AVGO": "Broadcom",
@@ -8912,6 +8915,7 @@
   "XYL": "Xylem",
   "DAVE": "Dave",
   "EBAY": "eBay",
-  "IONQ": "IonQ"
+  "IONQ": "IonQ",
+  "OKLO": "Oklo"
  }
 }
