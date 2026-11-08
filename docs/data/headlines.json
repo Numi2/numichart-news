@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08T01:42:32.277474+00:00",
+ "generated": "2026-11-08T01:48:54.846264+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -209,6 +209,22 @@
    "domain": "seekingalpha.com",
    "published": "2026-11-08T01:24:32+00:00",
    "tickers": []
+  },
+  {
+   "id": "34749387f18a",
+   "title": "Alphabet's $15 Billion Investment in Malaysia Data Centers Shows That Midterm Results Won't Stop the AI Boom",
+   "link": "https://www.nasdaq.com/articles/alphabets-15-billion-investment-malaysia-data-centers-shows-midterm-results-wont-stop-ai",
+   "summary": "Key PointsAlphabet's $15 billion Malaysian data center investment shows that companies can diversify overseas, but this trend has been taking place for a while. It's not just because of the midterm results.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-11-08T01:20:00+00:00",
+   "tickers": [
+    "GOOG"
+   ]
   },
   {
    "id": "37e05bcdaa11",
@@ -8806,24 +8822,6 @@
    "tickers": [
     "FBIN"
    ]
-  },
-  {
-   "id": "5c797cd38716",
-   "title": "Broncos Trying to Acquire All-Pro TE Ahead of Trade Deadline",
-   "link": "https://biztoc.com/x/ad2298d529a79c75?ref=rss",
-   "summary": "The Denver Broncos are trying to load up for another run at the Super Bowl as they sit in first place in the AFC West at 6-2, and it looks like they aren't leaving any stone unturned. According to NFL insider Adam Schefter of ESPN, the Broncos have checked in on the availability of Arizona…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-07T17:45:15+00:00",
-   "tickers": [
-    "WST",
-    "DIS",
-    "TE"
-   ]
   }
  ],
  "ticker_names": {
@@ -8926,8 +8924,8 @@
   "CRWV": "CoreWeave",
   "INGR": "Ingredion",
   "NXT": "Nextpower",
-  "TE": "T1 Energy",
   "NWSA": "News Corp",
+  "GOOG": "Alphabet",
   "RS": "Reliance",
   "SQ": "Cash App",
   "FOX": "Fox Corp",
