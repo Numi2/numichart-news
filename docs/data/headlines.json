@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08T12:35:34.717395+00:00",
+ "generated": "2026-11-08T12:42:30.516270+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -141,6 +141,22 @@
    "tickers": []
   },
   {
+   "id": "dd19c0e90bfb",
+   "title": "Massive News for AI Stock Investors",
+   "link": "https://www.nasdaq.com/articles/massive-news-ai-stock-investors",
+   "summary": "Should you buy stock in Nvidia right now? Before you buy stock in Nvidia, consider this:Missed AI’s \"Act 1\"? Act 2 Could Be 15x Bigger. Most investors think they missed the AI boat because they didn't buy Nvidia in 2005. But according to our analysts, we’re only at the end of \"Ac",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-08T12:20:02+00:00",
+   "tickers": [
+    "NWSA"
+   ]
+  },
+  {
    "id": "9c0d1ab09403",
    "title": "Les fausses boutiques prolifèrent avant le Black Friday : un test d'AV-Comparatives révèle quels produits protègent les consommateurs",
    "link": "https://www.prnewswire.com/news-releases/les-fausses-boutiques-proliferent-avant-le-black-friday--un-test-dav-comparatives-revele-quels-produits-protegent-les-consommateurs-302932722.html",
@@ -155,6 +171,22 @@
    "tickers": []
   },
   {
+   "id": "920d72af05c9",
+   "title": "Caterpillar director James Fish Jr. buys $620,390 in stock",
+   "link": "https://www.investing.com/news/insider-trading-news/caterpillar-director-james-fish-jr-buys-620390-in-stock-93CH-5010216",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-08T12:16:15+00:00",
+   "tickers": [
+    "CAT"
+   ]
+  },
+  {
    "id": "0d957e026aa5",
    "title": "Saudi Aramco office in Riyadh damaged in latest Houthi strikes",
    "link": "https://www.ft.com/content/eeadc13e-b915-4591-ab85-54db81030996?syn-25a6b1a6=1",
@@ -166,6 +198,20 @@
    "sentiment": "neutral",
    "domain": "ft.com",
    "published": "2026-11-08T12:16:02+00:00",
+   "tickers": []
+  },
+  {
+   "id": "88f930c116e9",
+   "title": "Wheat Facing Friday Weakness on Black Sea Pressure",
+   "link": "https://www.nasdaq.com/articles/wheat-facing-friday-weakness-black-sea-pressure",
+   "summary": "The wheat complex is showing losses across the three markets on Friday. Chicago SRW contracts are falling back 4 to 6 cents so far on the session. KC HRW futures were fare trading with 1 to 2 cent losses on Friday. MPLS spring wheat is back down 4 to 6...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-08T12:15:50+00:00",
    "tickers": []
   },
   {
@@ -915,20 +961,6 @@
    "tickers": [
     "MSFT"
    ]
-  },
-  {
-   "id": "88f930c116e9",
-   "title": "Wheat Facing Friday Weakness on Black Sea Pressure",
-   "link": "https://www.nasdaq.com/articles/wheat-facing-friday-weakness-black-sea-pressure",
-   "summary": "The wheat complex is showing losses across the three markets on Friday. Chicago SRW contracts are falling back 4 to 6 cents so far on the session. KC HRW futures were fare trading with 1 to 2 cent losses on Friday. MPLS spring wheat is back down 4 to 6...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-08T11:14:29+00:00",
-   "tickers": []
   },
   {
    "id": "9597ecbc4f82",
@@ -8722,36 +8754,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-11-07T23:30:50+00:00",
    "tickers": []
-  },
-  {
-   "id": "9a4b92c5e154",
-   "title": "Schaeffler AG 2026 Q3 - Results - Earnings Call Presentation",
-   "link": "https://seekingalpha.com/article/4964734-schaeffler-ag-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-07T23:30:43+00:00",
-   "tickers": []
-  },
-  {
-   "id": "f9ef09276585",
-   "title": "Ingredion Incorporated 2026 Q3 - Results - Earnings Call Presentation",
-   "link": "https://seekingalpha.com/article/4964733-ingredion-incorporated-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-07T23:30:17+00:00",
-   "tickers": [
-    "INGR"
-   ]
   }
  ],
  "ticker_names": {
@@ -8819,6 +8821,7 @@
   "TSLA": "Supercharger",
   "ARM": "Arm Holdings",
   "ALAB": "Astera Labs",
+  "CAT": "Caterpillar",
   "NVS": "Novartis AG",
   "XOM": "Exxon Mobil",
   "AAPL": "Apple Watch",
@@ -8832,7 +8835,6 @@
   "DE": "John Deere",
   "CME": "CME Group",
   "CRWV": "CoreWeave",
-  "INGR": "Ingredion",
   "NXT": "Nextpower",
   "TEAM": "Atlassian",
   "TEM": "Tempus AI",
