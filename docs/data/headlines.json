@@ -1,8 +1,24 @@
 {
- "generated": "2026-11-08T03:51:31.600713+00:00",
+ "generated": "2026-11-08T03:58:53.816619+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "3427cb5e32bf",
+   "title": "Credo Technology: Recent Drop Turns My Hold Into A Buy (Rating Upgrade)",
+   "link": "https://seekingalpha.com/article/4964805-credo-technology-recent-drop-turns-my-hold-into-a-buy-rating-upgrade?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-08T03:49:07+00:00",
+   "tickers": [
+    "CRDO"
+   ]
+  },
   {
    "id": "9f626a7a20d2",
    "title": "Tillis fires warning shots at Charlotte leaders ahead of airport vote",
@@ -120,6 +136,20 @@
    "tickers": [
     "MS"
    ]
+  },
+  {
+   "id": "f98c1c7343dc",
+   "title": "Judge orders ethics probe into Trump’s Washington golf course project",
+   "link": "https://www.investing.com/news/economy-news/judge-orders-ethics-probe-into-trumps-washington-golf-course-project-5010119",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-11-08T03:40:36+00:00",
+   "tickers": []
   },
   {
    "id": "dcd43d1819f7",
@@ -8765,34 +8795,6 @@
    "domain": "markets.businessinsider.com",
    "published": "2026-11-07T18:53:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "42d59c5bf0fe",
-   "title": "The AI Selloff Just Got Messy. Here's 3 Ways It Can Resolve",
-   "link": "https://seekingalpha.com/article/4964656-the-ai-selloff-just-got-messy-heres-3-ways-it-can-resolve?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-07T18:52:30+00:00",
-   "tickers": []
-  },
-  {
-   "id": "93c989317b3e",
-   "title": "A ‘Legend of Zelda’ Game Is Reborn and ’90s Nostalgia Fans Are All In",
-   "link": "https://www.nytimes.com/2026/11/07/business/media/zelda-ocarina-of-time-remake-nintendo.html",
-   "summary": "Nintendo’s “Legend of Zelda: Ocarina of Time” was released in 1998. Now, its remake has some fans giddily reliving their childhoods.",
-   "article_text": "",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "nytimes.com",
-   "published": "2026-11-07T18:52:25+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8804,6 +8806,7 @@
   "IBM": "International Business Machines",
   "QSR": "Restaurant Brands International",
   "SCHF": "Schwab International Equity ETF",
+  "CRDO": "Credo Technology Group Holding",
   "HDV": "iShares Core High Dividend ETF",
   "VIG": "Vanguard Div Appreciation ETF",
   "MTD": "Mettler-Toledo International",
