@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08T17:30:32.898203+00:00",
+ "generated": "2026-11-08T17:37:30.746651+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -206,6 +206,22 @@
    "tickers": []
   },
   {
+   "id": "3b5969e1e6ab",
+   "title": "Krones AG - Depositary Receipt Price Target Decreased by 11.38% to $80.40",
+   "link": "https://www.nasdaq.com/articles/krones-ag-depositary-receipt-price-target-decreased-1138-8040",
+   "summary": "The average one-year price target for Krones AG - Depositary Receipt (OTCPK:KRNTY) (DB:KRNU) has been revised to $80.40 / share, representing an 11.38% decrease from the prior estimate of $90.73 dated December 5, 2025. These figures represent aggregate analyst targets compiled by",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "analyst",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-08T17:08:13+00:00",
+   "tickers": [
+    "DB"
+   ]
+  },
+  {
    "id": "f41889e0823b",
    "title": "If I Could Give My Younger Self 1 Piece of Investing Advice, This Is What It Would Be",
    "link": "https://www.nasdaq.com/articles/if-i-could-give-my-younger-self-1-piece-investing-advice-what-it-would-be",
@@ -335,6 +351,20 @@
    "sentiment": "neutral",
    "domain": "biztoc.com",
    "published": "2026-11-08T17:03:48+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b41c85bcbcc1",
+   "title": "Shanghai Industrial Holdings Limited - Depositary Receipt Consensus Price Target Increased by 30.74% to $20.84",
+   "link": "https://www.nasdaq.com/articles/shanghai-industrial-holdings-limited-depositary-receipt-consensus-price-target-increased",
+   "summary": "The average one-year price target for Shanghai Industrial Holdings Limited - Depositary Receipt (OTCPK:SGHIY) has been revised to $20.84 / share. This is an increase of 30.74% from the prior estimate of $15.94 dated October 21, 2024. These figures represent aggregate analyst tar",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "analyst",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-08T17:03:44+00:00",
    "tickers": []
   },
   {
@@ -8778,39 +8808,6 @@
    "domain": "biztoc.com",
    "published": "2026-11-08T08:37:05+00:00",
    "tickers": []
-  },
-  {
-   "id": "7e9e5e805240",
-   "title": "Stock Fair Value Edges Lower After Analysts Cut Targets",
-   "link": "https://biztoc.com/x/20f824580930d02f?ref=rss",
-   "summary": "The latest update for Sallie Mae points to a lower assessed fair value, moving from US$26.09 to US$24.78 per share. This reset lines up with recent analyst commentary that highlights a mixed picture, with reduced price targets alongside ongoing confidence in SLM's ability to execute over time…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-11-08T08:36:54+00:00",
-   "tickers": [
-    "SLM"
-   ]
-  },
-  {
-   "id": "9a21164e080c",
-   "title": "Banks ban AI from accounts over fears of rogue agents",
-   "link": "https://biztoc.com/x/c1996113704b5068?ref=rss",
-   "summary": "Britain's biggest banks have banned AI agents from accessing customer accounts over fears that personal finance bots will go rogue. HSBC, Nationwide, NatWest, Barclays and Lloyds have all moved to block AI agents, including in some cases specific bans on making transactions on a customer's behalf…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-08T08:36:48+00:00",
-   "tickers": [
-    "HSBC",
-    "BCS"
-   ]
   }
  ],
  "ticker_names": {
@@ -8878,7 +8875,6 @@
   "RPRX": "Royalty Pharma",
   "TTD": "The Trade Desk",
   "CSCO": "Cisco Systems",
-  "HSBC": "HSBC Holdings",
   "KO": "The Coca-Cola",
   "O": "Realty Income",
   "POST": "Post Holdings",
