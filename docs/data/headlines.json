@@ -1,8 +1,22 @@
 {
- "generated": "2026-11-08T07:13:23.238819+00:00",
+ "generated": "2026-11-08T07:20:13.816876+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "adaad2c2f9da",
+   "title": "Turkish villagers demand COP31 leaders see for themselves devastation caused by coal",
+   "link": "https://www.investing.com/news/commodities-news/turkish-villagers-demand-cop31-leaders-see-for-themselves-devastation-caused-by-coal-5010152",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-08T07:12:17+00:00",
+   "tickers": []
+  },
   {
    "id": "30e0ca9e7729",
    "title": "Crypto industry braces for reckoning over Trump ties",
@@ -48,6 +62,22 @@
    ]
   },
   {
+   "id": "e9d4dab7a0c6",
+   "title": "Matthew Janzaruk, P&G SVP, sells $1.55 million in shares",
+   "link": "https://www.investing.com/news/insider-trading-news/matthew-janzaruk-pg-svp-sells-155-million-in-shares-93CH-5010150",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-08T07:01:06+00:00",
+   "tickers": [
+    "PG"
+   ]
+  },
+  {
    "id": "2a00bb3e2fac",
    "title": "XCMG hebt internationale Innovationen beim Wettbewerb „AI + Construction Machinery\" hervor",
    "link": "https://www.prnewswire.com/news-releases/xcmg-hebt-internationale-innovationen-beim-wettbewerb-ai--construction-machinery-hervor-302932669.html",
@@ -59,6 +89,20 @@
    "sentiment": "neutral",
    "domain": "prnewswire.com",
    "published": "2026-11-08T07:00:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "627b96ff1e59",
+   "title": "How Mercedes suffered a €14bn EBIT drop",
+   "link": "https://www.investing.com/news/company-news/how-mercedes-suffered-a-14bn-ebit-drop-5010147",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-11-08T06:54:10+00:00",
    "tickers": []
   },
   {
@@ -8740,48 +8784,6 @@
    "domain": "biztoc.com",
    "published": "2026-11-07T20:19:40+00:00",
    "tickers": []
-  },
-  {
-   "id": "739b1299945c",
-   "title": "Kentucky Fans Troll Tennessee in the Most Savage Way Ahead of SEC Rivalry Game",
-   "link": "https://biztoc.com/x/6eea85b0ede25a51?ref=rss",
-   "summary": "College football's slate features plenty of rivalries this week, including the Kentucky Wildcats playing against the Tennessee Volunteers in Knoxville. Loyal Kentucky fans found quite a way to get everyone's attention by sending a strong visual ahead of the huge matchup. With the clash between the…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-07T20:19:23+00:00",
-   "tickers": []
-  },
-  {
-   "id": "a79bdbd02355",
-   "title": "Warren Buffett Warned Investors About This in 1999. The Past Week Looked Familiar",
-   "link": "https://biztoc.com/x/3d224e44369ebcb1?ref=rss",
-   "summary": "The post Warren Buffett Warned Investors About This in 1999. The Past Week Looked Familiar appeared first on 24/7 Wall St.. In July 1999, at Allen & Co.’s Sun Valley, Idaho, gathering of business leaders, Warren Buffett told the room: “Investors in stocks these days are expecting far too much, and…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-11-07T20:19:19+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b8b872578d74",
-   "title": "\"Defend Us Against The Lunatic Left\": Trump Wants UFC's Dana White As Press Secretary",
-   "link": "https://biztoc.com/x/9aa46b4e3a0973d8?ref=rss",
-   "summary": "\"Defend Us Against The Lunatic Left\": Trump Wants UFC's Dana White As Press Secretary President Trump said Saturday he has offered the White House press secretary job to UFC CEO Dana White, three weeks after his last pick was pushed out five days into the job. \"I am pleased to announce that the…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-07T20:19:18+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8812,6 +8814,7 @@
   "PLTR": "Palantir Technologies",
   "BMY": "Bristol-Myers Squibb",
   "PCOR": "Procore Technologies",
+  "PG": "The Procter & Gamble",
   "SRPT": "Sarepta Therapeutics",
   "VOO": "Vanguard S&P 500 ETF",
   "VOYG": "Voyager Technologies",
