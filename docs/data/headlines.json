@@ -1,8 +1,80 @@
 {
- "generated": "2026-11-08T16:48:49.400801+00:00",
+ "generated": "2026-11-08T16:55:55.374292+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "d1b43848d75f",
+   "title": "Growth funds limit losses as active managers deliver mixed October results, BofA says",
+   "link": "https://seekingalpha.com/news/4668763-growth-funds-limit-losses-as-active-managers-deliver-mixed-october-results-bofa-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "earnings",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-08T16:52:47+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b71658e16059",
+   "title": "Wall Street Brunch: Anthropic IPO Goes On The Road",
+   "link": "https://seekingalpha.com/article/4964841-wall-street-brunch-anthropic-ipo-goes-on-the-road?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "offering",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-08T16:50:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "86b760313f4e",
+   "title": "ASTS Deadline in 5 Days: AST SpaceMobile, Inc. Securities Fraud Class Action Lawsuit Filed; November 13, 2026, Lead Plaintiff Deadline - Kessler Topaz Meltzer & Check, LLP",
+   "link": "https://www.prnewswire.com/news-releases/asts-deadline-in-5-days-ast-spacemobile-inc-securities-fraud-class-action-lawsuit-filed-november-13-2026-lead-plaintiff-deadline---kessler-topaz-meltzer--check-llp-302932289.html",
+   "summary": "Did you buy ASTS securities between March 4, 2025 and July 15, 2026? Affected ASTS Investor Summary Who: AST SpaceMobile, Inc. (NASDAQ: ASTS) What: Securities fraud class action lawsuit filed Class Period: March 4, 2025 through July 15, 2026 Deadline to Seek Lead Plaintiff Status:...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "prnewswire.com",
+   "published": "2026-11-08T16:48:00+00:00",
+   "tickers": [
+    "ASTS"
+   ]
+  },
+  {
+   "id": "9dc77ff3b935",
+   "title": "Light & Wonder, Inc. (LNWO) Q3 2026 Earnings Call Transcript",
+   "link": "https://seekingalpha.com/article/4964843-light-and-wonder-inc-lnwo-q3-2026-earnings-call-transcript?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-08T16:44:36+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a2d7537bffc9",
+   "title": "FIGS, Inc. (FIGS) Q3 2026 Earnings Call Transcript",
+   "link": "https://seekingalpha.com/article/4964842-figs-inc-figs-q3-2026-earnings-call-transcript?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-08T16:44:32+00:00",
+   "tickers": []
+  },
   {
    "id": "01b5ca2c04fa",
    "title": "Cleaner Bedroom Air May Help Manage Blood Sugar in Prediabetes",
@@ -282,25 +354,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-11-08T16:34:32+00:00",
    "tickers": []
-  },
-  {
-   "id": "854452e40a23",
-   "title": "Stock Indexes Settle Mostly Higher as Chipmakers Rebound",
-   "link": "https://www.nasdaq.com/articles/stock-indexes-settle-mostly-higher-chipmakers-rebound",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed up +0.31% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -0.46%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +1.35%. December E-mini S&P futures (ESZ26 ) rose +0.31%, and December E-mini Nasdaq futures...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-08T16:32:51+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
-   ]
   },
   {
    "id": "a67aa7674760",
@@ -2443,6 +2496,25 @@
    "domain": "biztoc.com",
    "published": "2026-11-08T14:43:21+00:00",
    "tickers": []
+  },
+  {
+   "id": "854452e40a23",
+   "title": "Stock Indexes Settle Mostly Higher as Chipmakers Rebound",
+   "link": "https://www.nasdaq.com/articles/stock-indexes-settle-mostly-higher-chipmakers-rebound",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed up +0.31% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -0.46%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +1.35%. December E-mini S&P futures (ESZ26 ) rose +0.31%, and December E-mini Nasdaq futures...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-08T14:40:15+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
   },
   {
    "id": "dae3ee1fdad0",
@@ -8737,78 +8809,6 @@
    "domain": "investing.com",
    "published": "2026-11-08T06:54:10+00:00",
    "tickers": []
-  },
-  {
-   "id": "5f1504ba9a85",
-   "title": "Bitcoin holds below $76K as Binance EU closures add to crypto market pressure",
-   "link": "https://biztoc.com/x/ce0df58428edc536?ref=rss",
-   "summary": "Investing.com -- Bitcoin traded below $76,000 on Sunday as fresh regulatory and security concerns weighed on the cryptocurrency industry, with Binance preparing to close certain European customer accounts and authorities intensifying scrutiny of digital asset transactions. The world's largest…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-08T06:49:57+00:00",
-   "tickers": []
-  },
-  {
-   "id": "4a63197e1118",
-   "title": "Willis Lease Finance (WLFC) Could Be 34% Below Fair Value As Mixed Earnings Land",
-   "link": "https://biztoc.com/x/407708ddac9191f8?ref=rss",
-   "summary": "Willis Lease Finance (WLFC) just reported third quarter results that paired higher sales and revenue with lower net income and earnings per share, a mix that is already shaping how investors interpret the stock's recent move. At a share price of US$46.86, Willis Lease Finance has seen a sharp 7…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-08T06:49:52+00:00",
-   "tickers": []
-  },
-  {
-   "id": "4c6482d73038",
-   "title": "Expands Enterprise AI Access Through A New Multitenant Cloud Model",
-   "link": "https://biztoc.com/x/22e283b0047a7eeb?ref=rss",
-   "summary": "Nutanix (NasdaqGS: NTNX) and Expedient announced an expanded partnership to deliver a multitenant cloud model for enterprises. - The new offering uses Nutanix infrastructure to provide managed environments for both traditional applications and governed AI workloads. - Expedient plans to use the…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-11-08T06:49:42+00:00",
-   "tickers": [
-    "NTNX"
-   ]
-  },
-  {
-   "id": "8f43630340f6",
-   "title": "What Magnachip Semiconductor (MX) Said on Its Q3 Earnings Call",
-   "link": "https://biztoc.com/x/2e59454ca77f93cd?ref=rss",
-   "summary": "Key Points - Interested in Magnachip Semiconductor Corp.? Here are five stocks we like better. - Q3 results were pressured by currency and supply constraints: Revenue fell 4.3% year over year to $44 million, while gross margin dropped to 14%, below guidance of 17%–19%, largely because the Korean…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-08T06:49:41+00:00",
-   "tickers": []
-  },
-  {
-   "id": "cb6817c93685",
-   "title": "Iran executes 3 men over protest unrest",
-   "link": "https://biztoc.com/x/8ea66322a82cb653?ref=rss",
-   "summary": "Iranian authorities executed three men convicted of participating in operational measures against the country's security and collaborating with Israel and the United States, national broadcaster IRIB ...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-08T06:49:32+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8863,6 +8863,7 @@
   "GE": "General Electric",
   "MARA": "Marathon Digital",
   "ANET": "Arista Networks",
+  "ASTS": "AST SpaceMobile",
   "KMB": "Kimberly-Clark",
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
@@ -8915,7 +8916,6 @@
   "IVZ": "Invesco",
   "MRK": "Merck &",
   "MRNA": "Moderna",
-  "NTNX": "Nutanix",
   "PEP": "PepsiCo",
   "SCI": "Service",
   "SNDK": "Sandisk",
