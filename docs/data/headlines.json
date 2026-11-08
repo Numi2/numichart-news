@@ -1,8 +1,38 @@
 {
- "generated": "2026-11-08T19:39:03.791991+00:00",
+ "generated": "2026-11-08T19:45:49.870393+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "9978cbe4202e",
+   "title": "Mbappe Said Sorry to Beijing. Takaichi Shouldn't",
+   "link": "https://biztoc.com/x/cd11a36d7d7aa0a1?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-08T19:43:38+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ff363cc19cd2",
+   "title": "J&J reports patient findings from Sjögren’s drug study",
+   "link": "https://seekingalpha.com/news/4668767-j-and-j-reports-patient-findings-from-sjogren-s-drug-study?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-08T19:36:04+00:00",
+   "tickers": [
+    "JNJ"
+   ]
+  },
   {
    "id": "bc6c3a0060e9",
    "title": "MasterBrand, Inc. (MBC) Q3 2026 Earnings Call Transcript",
@@ -216,6 +246,22 @@
    "published": "2026-11-08T19:27:00+00:00",
    "tickers": [
     "BULL"
+   ]
+  },
+  {
+   "id": "ebd71df26546",
+   "title": "Why Centrus Energy Stock Crashed 26% in October",
+   "link": "https://www.nasdaq.com/articles/why-centrus-energy-stock-crashed-26-october",
+   "summary": "Key PointsCentrus announced the $116 million acquisition of Westerman, one of its largest suppliers.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-11-08T19:26:12+00:00",
+   "tickers": [
+    "LEU"
    ]
   },
   {
@@ -8760,51 +8806,6 @@
    "domain": "investing.com",
    "published": "2026-11-08T11:27:01+00:00",
    "tickers": []
-  },
-  {
-   "id": "1efbc063fcf4",
-   "title": "Doom delivers five minutes of terminal violence on an IBM mainframe",
-   "link": "https://biztoc.com/x/b1c1eb659c7444e7?ref=rss",
-   "summary": "PyTorch 2.15 tackles the 'one bad GPU' problem Technical debt shoveled aside to make large-scale AI training more resilient - Meta brings Conductor on board its model train Agent orchestration startup gets its exit - Bare metal boom: On-prem server sales for HPC and AI up 20% this year Firms still…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-08T11:24:44+00:00",
-   "tickers": [
-    "IBM",
-    "META"
-   ]
-  },
-  {
-   "id": "8631600ad97b",
-   "title": "Student-loan borrowers are entering a new oversight era",
-   "link": "https://biztoc.com/x/ce7295b112ebaeb6?ref=rss",
-   "summary": "Democratic lawmakers are expected to launch new oversight over federal student loans. Stefani Reynolds/Getty Images; BI Democratic lawmakers are promising bolstered student-loan oversight after a blue wave swept the midterms. That oversight could include hearings and investigations into Trump's…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-08T11:24:42+00:00",
-   "tickers": []
-  },
-  {
-   "id": "c9e9b50e3999",
-   "title": "What Is Jetty? Co-Founder Allison Ellsworth Unpacks Her Splashy Poppi Follow-Up",
-   "link": "https://biztoc.com/x/ef29e6bb4ce499a8?ref=rss",
-   "summary": "Water is boring. Allison Ellsworth is not. The Poppi co-founder talks tummy tucks, diamonds, and Jetty, the new hydration startup she’s betting will eclipse her last giant exit.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-08T11:24:41+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8813,7 +8814,6 @@
   "DIA": "SPDR Dow Jones Industrial Average ETF",
   "BTC": "Grayscale Bitcoin Mini Trust (BTC)",
   "DB": "Deutsche Bank Aktiengesellschaft",
-  "IBM": "International Business Machines",
   "QSR": "Restaurant Brands International",
   "DJT": "Trump Media & Technology Group",
   "TTWO": "Take-Two Interactive Software",
@@ -8867,6 +8867,7 @@
   "GM": "General Motors",
   "HD": "The Home Depot",
   "KMB": "Kimberly-Clark",
+  "LEU": "Centrus Energy",
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
   "PSA": "Public Storage",
