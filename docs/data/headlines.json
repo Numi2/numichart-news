@@ -1,8 +1,57 @@
 {
- "generated": "2026-11-08T14:04:20.912823+00:00",
+ "generated": "2026-11-08T14:12:47.140009+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "9d0bc4d32b29",
+   "title": "How a Duck Named Olivia Helped Pass D.C.’s Foie Gras Ban",
+   "link": "https://www.nytimes.com/2026/11/08/us/dc-foie-gras-ban.html",
+   "summary": "Initiative 86, which bars the force-feeding of birds and the sale of foie gras, passed handily but restaurateurs and prominent chefs are preparing for a fight.",
+   "article_text": "",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-11-08T14:05:43+00:00",
+   "tickers": []
+  },
+  {
+   "id": "aee717b2e4f5",
+   "title": "Notable healthcare headlines for the week: Moderna, Pfizer, and CVS Health in focus",
+   "link": "https://seekingalpha.com/news/4668617-notable-healthcare-headlines-for-the-week-moderna-pfizer-and-cvs-health-in-focus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-08T14:05:29+00:00",
+   "tickers": [
+    "CVS",
+    "MRNA",
+    "PFE"
+   ]
+  },
+  {
+   "id": "b03f72e3c3ba",
+   "title": "SpaceX has had limited impact on stock indexes, Goldman Sachs says",
+   "link": "https://seekingalpha.com/news/4668759-spacex-has-had-limited-impact-on-stock-indexes-goldman-sachs-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-08T14:03:09+00:00",
+   "tickers": [
+    "GS",
+    "SPCX"
+   ]
+  },
   {
    "id": "809b6fd455d2",
    "title": "Poppi founders are going after PepsiCo's Gatorade with new beverage startup Jetty",
@@ -8730,50 +8779,6 @@
    "domain": "biztoc.com",
    "published": "2026-11-08T00:41:17+00:00",
    "tickers": []
-  },
-  {
-   "id": "79f2460a5841",
-   "title": "Galiano Gold Q3 Earnings Call Highlights",
-   "link": "https://biztoc.com/x/7cc0a586d775dcf7?ref=rss",
-   "summary": "Key Points - Interested in Galiano Gold Inc.? Here are five stocks we like better. - Q3 production and finances strengthened: Galiano produced 40,922 ounces of gold, up 19% from Q2, and generated $172 million in revenue. Operating cash flow rose to $57 million, and net income was $40 million…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-08T00:41:12+00:00",
-   "tickers": []
-  },
-  {
-   "id": "acdd0e21dc36",
-   "title": "Said on Its Q3 Earnings Call",
-   "link": "https://biztoc.com/x/4c79d9a468ddf2ce?ref=rss",
-   "summary": "Key Points - Interested in Suncor Energy Inc.? Here are five stocks we like better. - Suncor reported record Q3 adjusted funds from operations of CAD 6.7 billion and free funds flow of CAD 5.2 billion, supported by strong production and refining. It raised its dividend 10% and plans monthly share…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-08T00:40:58+00:00",
-   "tickers": [
-    "SU"
-   ]
-  },
-  {
-   "id": "36d613d80727",
-   "title": "Versigent Q3 Earnings Call Highlights",
-   "link": "https://biztoc.com/x/c2e51fa084c7b6bc?ref=rss",
-   "summary": "Key Points - Interested in Versigent? Here are five stocks we like better. - Q3 results improved despite weaker auto production: Sales rose 7% to $2.45 billion, adjusted EBITDA increased 11% to $275 million, and adjusted EPS climbed to $1.91. Net income and free cash flow declined year over year,…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-08T00:40:51+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8835,7 +8840,6 @@
   "MT": "ArcelorMittal",
   "O": "Realty Income",
   "POST": "Post Holdings",
-  "SU": "Suncor Energy",
   "MSTR": "MicroStrategy",
   "MP": "MP Materials",
   "NBIS": "Nebius Group",
@@ -8852,6 +8856,7 @@
   "AMZN": "Whole Foods",
   "SHOP": "Shopify Inc",
   "BROS": "Dutch Bros",
+  "CVS": "CVS Health",
   "F": "Ford Motor",
   "MCD": "McDonald's",
   "PLUG": "Plug Power",
@@ -8869,6 +8874,7 @@
   "GOOG": "Alphabet",
   "SNAP": "Snapchat",
   "IVZ": "Invesco",
+  "MRNA": "Moderna",
   "NTNX": "Nutanix",
   "PEP": "PepsiCo",
   "SCI": "Service",
