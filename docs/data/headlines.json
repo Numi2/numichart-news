@@ -1,8 +1,52 @@
 {
- "generated": "2026-11-09T04:50:43.327947+00:00",
+ "generated": "2026-11-09T04:57:24.433137+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "7336d21fda97",
+   "title": "Tencent Cloud Named a Leader in the Inaugural Gartner® Magic Quadrant for Edge Distribution Platforms",
+   "link": "https://www.prnewswire.com/news-releases/tencent-cloud-named-a-leader-in-the-inaugural-gartner-magic-quadrant-for-edge-distribution-platforms-302932950.html",
+   "summary": "SHENZHEN, China, Nov. 8, 2026 /PRNewswire/ -- Gartner has published its inaugural Magic Quadrant™ for Edge Distribution Platforms report, naming Tencent Cloud a Leader for EdgeOne, its edge security and acceleration platform. Tencent's Ability to Execute and Completeness of Vision are the...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-11-09T04:55:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f627b71dcafa",
+   "title": "Blackstone Mortgage Trust's 36% Dividend Cut",
+   "link": "https://seekingalpha.com/article/4964900-blackstone-mortgage-trusts-36-percent-dividend-cut?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-09T04:54:05+00:00",
+   "tickers": [
+    "BX"
+   ]
+  },
+  {
+   "id": "4ed03bdb9925",
+   "title": "Clover Health Investments, Corp. 2026 Q3 - Results - Earnings Call Presentation",
+   "link": "https://seekingalpha.com/article/4964909-clover-health-investments-corp-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-09T04:48:49+00:00",
+   "tickers": []
+  },
   {
    "id": "f25600800383",
    "title": "Strathcona Resources Ltd. Reports Third Quarter 2026 Financial and Operating Results and Announces Quarterly Dividend",
@@ -8706,53 +8750,6 @@
    "domain": "biztoc.com",
    "published": "2026-11-08T21:15:47+00:00",
    "tickers": []
-  },
-  {
-   "id": "68acb135922e",
-   "title": "Data Center CFOs Prepare for Tougher Road Ahead (PLD, AIB, DBX, CLSK, LUMN)",
-   "link": "https://biztoc.com/x/e31e4d9bb72c024b?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-08T21:15:44+00:00",
-   "tickers": [
-    "PLD",
-    "DBX",
-    "CLSK",
-    "LUMN"
-   ]
-  },
-  {
-   "id": "af4cd7e84f9e",
-   "title": "Nvidia board to investigate CEO over relationship with suspected Chinese spy",
-   "link": "https://biztoc.com/x/3d33506607aaf9ed?ref=rss",
-   "summary": "Nvidia CEO Jensen Huang said Sunday he had been unfaithful to his wife, and he apologized to the company and its customers.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-08T21:15:44+00:00",
-   "tickers": []
-  },
-  {
-   "id": "249643c4e457",
-   "title": "Low Wind Triggers UK Power Grid Margin Warning for Monday",
-   "link": "https://biztoc.com/x/958e9479bb212cd3?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-11-08T21:15:44+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8781,7 +8778,6 @@
   "BRK-A": "Berkshire Hathaway",
   "FANG": "Diamondback Energy",
   "JLL": "Jones Lang LaSalle",
-  "LUMN": "Lumen Technologies",
   "MGY": "Magnolia Oil & Gas",
   "MLI": "Mueller Industries",
   "NYT": "The New York Times",
@@ -8827,7 +8823,6 @@
   "DDOG": "Datadog Inc",
   "BROS": "Dutch Bros",
   "BX": "Blackstone",
-  "CLSK": "CleanSpark",
   "MCD": "McDonald's",
   "SPGI": "S&P Global",
   "TECH": "Bio-Techne",
@@ -8847,13 +8842,11 @@
   "CELC": "Celcuity",
   "DOCS": "Doximity",
   "GOOG": "Alphabet",
-  "PLD": "Prologis",
   "WING": "Wingstop",
   "SQ": "Cash App",
   "SNAP": "Snapchat",
   "BLSH": "Bullish",
   "CPNG": "Coupang",
-  "DBX": "Dropbox",
   "HUBB": "Hubbell",
   "HUBS": "HubSpot",
   "MRNA": "Moderna",
