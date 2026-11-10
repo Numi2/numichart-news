@@ -1,8 +1,22 @@
 {
- "generated": "2026-11-10T01:48:55.365027+00:00",
+ "generated": "2026-11-10T01:55:16.538988+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "3b327e0e5c3f",
+   "title": "SoftBank Group shares surge 11% as Asian tech stocks track Wall Street rebound",
+   "link": "https://www.cnbc.com/2026/11/10/ai-softbank-sk-hynix-samsung-wall-street-tech-stocks.html",
+   "summary": "A sharp decline in oil prices lifted sentiment while renewed buying in semiconductor names overnight spilled over into Asia, following last week's bruising sell-off.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "cnbc.com",
+   "published": "2026-11-10T01:50:57+00:00",
+   "tickers": []
+  },
   {
    "id": "7418eb672f29",
    "title": "30,000 TONNE BINDING MONAZITE CONCENTRATE OFFTAKE SECURED AHEAD OF DECEMBER PRODUCTION",
@@ -136,20 +150,6 @@
    "tickers": []
   },
   {
-   "id": "0aa9bb32dabc",
-   "title": "Wheat Close Mixed on Monday, with Spring Wheat Seeing the Green",
-   "link": "https://www.nasdaq.com/articles/wheat-close-mixed-monday-spring-wheat-seeing-green",
-   "summary": "The wheat complex is posting mixed trade on Monday, as the spring wheat is posting modest strength. Chicago SRW futures saw weakness, with contracts down 2 ¼ to 4 ½ cents. KC HRW futures closed with contracts steady to 1 ½ cents on the day. MPLS spring wheat was up...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-10T01:40:51+00:00",
-   "tickers": []
-  },
-  {
    "id": "4498648fd987",
    "title": "Corn Falls on Monday with USDA Report Ahead",
    "link": "https://www.nasdaq.com/articles/corn-falls-monday-usda-report-ahead",
@@ -164,53 +164,6 @@
    "tickers": [
     "MT"
    ]
-  },
-  {
-   "id": "83fb61f414b2",
-   "title": "Cotton Posts Mixed Monday Trade",
-   "link": "https://www.nasdaq.com/articles/cotton-posts-mixed-monday-trade",
-   "summary": "Cotton futures posted mixed Monday trade, with front months down 1 to 33 points and other contracts up 9 to 33 points. Crude oil was down $4.45 per barrel on the session, with the US dollar index $0.639 lower. USDA’s weekly Crop Progress report showed 94% of the US cotton...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-10T01:40:51+00:00",
-   "tickers": []
-  },
-  {
-   "id": "c44965e8c868",
-   "title": "Stock Indexes Surge as Buyers Return to Chipmakers and AI Stocks",
-   "link": "https://www.nasdaq.com/articles/stock-indexes-surge-buyers-return-chipmakers-and-ai-stocks",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed up +2.35% on Monday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +2.15%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +3.40%. December E-mini S&P futures (ESZ26 ) rose +2.35%, and December E-mini Nasdaq futures...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-11-10T01:40:50+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
-   ]
-  },
-  {
-   "id": "a9cdaf1d7ee5",
-   "title": "Soybeans Fading Back from Early Strength on Monday",
-   "link": "https://www.nasdaq.com/articles/soybeans-fading-back-early-strength-monday",
-   "summary": "Soybeans are trading with contracts down 3 to 4 ½ cents across the front months on Monday, fading back from AM gains. The cmdtyView national average Cash Bean price is down 4 1/4 cents at $11.26. Soymeal futures are steady to 20 cents higher, as Soy Oil futures are down...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-10T01:40:50+00:00",
-   "tickers": []
   },
   {
    "id": "4bc539f12d88",
@@ -386,6 +339,53 @@
    "published": "2026-11-10T01:34:42+00:00",
    "tickers": [
     "ACN"
+   ]
+  },
+  {
+   "id": "0aa9bb32dabc",
+   "title": "Wheat Close Mixed on Monday, with Spring Wheat Seeing the Green",
+   "link": "https://www.nasdaq.com/articles/wheat-close-mixed-monday-spring-wheat-seeing-green",
+   "summary": "The wheat complex is posting mixed trade on Monday, as the spring wheat is posting modest strength. Chicago SRW futures saw weakness, with contracts down 2 ¼ to 4 ½ cents. KC HRW futures closed with contracts steady to 1 ½ cents on the day. MPLS spring wheat was up...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-10T01:34:16+00:00",
+   "tickers": []
+  },
+  {
+   "id": "83fb61f414b2",
+   "title": "Cotton Posts Mixed Monday Trade",
+   "link": "https://www.nasdaq.com/articles/cotton-posts-mixed-monday-trade",
+   "summary": "Cotton futures posted mixed Monday trade, with front months down 1 to 33 points and other contracts up 9 to 33 points. Crude oil was down $4.45 per barrel on the session, with the US dollar index $0.639 lower. USDA’s weekly Crop Progress report showed 94% of the US cotton...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-10T01:34:16+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c44965e8c868",
+   "title": "Stock Indexes Surge as Buyers Return to Chipmakers and AI Stocks",
+   "link": "https://www.nasdaq.com/articles/stock-indexes-surge-buyers-return-chipmakers-and-ai-stocks",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed up +2.35% on Monday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +2.15%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +3.40%. December E-mini S&P futures (ESZ26 ) rose +2.35%, and December E-mini Nasdaq futures...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-11-10T01:34:16+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
    ]
   },
   {
@@ -587,17 +587,17 @@
    "tickers": []
   },
   {
-   "id": "3b327e0e5c3f",
-   "title": "SoftBank Group shares surge 11% as Asian tech stocks rally after Wall Street rebounds",
-   "link": "https://www.cnbc.com/2026/11/10/ai-softbank-sk-hynix-samsung-wall-street-tech-stocks.html",
-   "summary": "A sharp decline in oil prices lifted sentiment while renewed buying in semiconductor names overnight spilled over into Asia, following last week's bruising sell-off.",
+   "id": "a9cdaf1d7ee5",
+   "title": "Soybeans Fading Back from Early Strength on Monday",
+   "link": "https://www.nasdaq.com/articles/soybeans-fading-back-early-strength-monday",
+   "summary": "Soybeans are trading with contracts down 3 to 4 ½ cents across the front months on Monday, fading back from AM gains. The cmdtyView national average Cash Bean price is down 4 1/4 cents at $11.26. Soymeal futures are steady to 20 cents higher, as Soy Oil futures are down...",
    "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "cnbc.com",
-   "published": "2026-11-10T01:26:53+00:00",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-10T01:27:44+00:00",
    "tickers": []
   },
   {
