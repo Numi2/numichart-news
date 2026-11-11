@@ -1,8 +1,327 @@
 {
- "generated": "2026-11-11T15:51:35.137679+00:00",
+ "generated": "2026-11-11T15:57:59.254187+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "e0b3a5fba52b",
+   "title": "Earnings call transcript: Baylin Technologies Q3 2026 revenue beats, stock slides",
+   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-baylin-technologies-q3-2026-revenue-beats-stock-slides-93CH-5019508",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-11T15:55:08+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c08f6de6f724",
+   "title": "Quantinuum und RIKEN erweitern ihre Partnerschaft, um die Kommerzialisierung von Quanten-KI-Hybrid-Supercomputing in Japan zu beschleunigen",
+   "link": "https://www.prnewswire.com/news-releases/quantinuum-und-riken-erweitern-ihre-partnerschaft-um-die-kommerzialisierung-von-quanten-ki-hybrid-supercomputing-in-japan-zu-beschleunigen-302936678.html",
+   "summary": "Mit dem abgeschlossenen Upgrade des Reimei-Quantencomputers von Quantinuum auf das H2-System etabliert sich die hybride Quanten-Supercomputing-Plattform von RIKEN als die leistungsfähigste ihrer Art weltweit und schafft einen Weg zur Ausweitung der Forschung in den Bereichen Elektronik,...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-11-11T15:55:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "832f27d4bfcb",
+   "title": "OptiMantra Launches AI Scribe, Bringing Native AI Charting to Independent Practices",
+   "link": "https://www.prnewswire.com/news-releases/optimantra-launches-ai-scribe-bringing-native-ai-charting-to-independent-practices-302936679.html",
+   "summary": "AI Scribe records the clinical encounter and drafts a structured note directly in the chart, starting at $19 per provider per month, with additional AI solutions coming soon. ATLANTA, Nov. 11, 2026 /PRNewswire/ -- OptiMantra, the EHR and practice management platform built for integrative,...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "positive",
+   "domain": "prnewswire.com",
+   "published": "2026-11-11T15:55:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "58bd8bc24bff",
+   "title": "US tech stocks surge as AI trade revives",
+   "link": "https://www.ft.com/content/639de881-6017-454f-abfa-cfb191d1e7cd?syn-25a6b1a6=1",
+   "summary": "Nasdaq erases last week’s losses as better-than-expected CoreWeave results and prospect of higher Anthropic IPO valuation boost sentiment",
+   "article_text": "",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "ft.com",
+   "published": "2026-11-11T15:54:42+00:00",
+   "tickers": [
+    "CRWV",
+    "NDAQ"
+   ]
+  },
+  {
+   "id": "543d4ca9d43a",
+   "title": "Wells Fargo Names Top Pick in Biotechnology Sector",
+   "link": "https://www.investing.com/news/stock-market-news/wells-fargo-names-top-pick-in-biotechnology-sector-5019506",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-11-11T15:54:35+00:00",
+   "tickers": [
+    "WFC"
+   ]
+  },
+  {
+   "id": "41f046c9d960",
+   "title": "JetBlue's CEO has pushed back on creditor fears and is betting on premium to return to profitability",
+   "link": "https://www.cnbc.com/2026/11/11/jetblue-ceo-premium.html",
+   "summary": "JetBlue will give reporters a look at its new first class seats on Wednesday.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-11-11T15:53:57+00:00",
+   "tickers": []
+  },
+  {
+   "id": "1ed2819bdd00",
+   "title": "Democrats could snarl Trump administration stakes in companies; Watch U.S. Steel CEO speak",
+   "link": "https://www.cnbc.com/2026/11/11/trump-company-equity-takes.html",
+   "summary": "The Trump administration had established some form of equity position in 41 companies as of November, according to the CATO Institute's tally.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-11-11T15:53:43+00:00",
+   "tickers": []
+  },
+  {
+   "id": "4309e4b5ce60",
+   "title": "CoreWeave CEO Intrator tells CNBC he has canceled his planned share sale program",
+   "link": "https://www.cnbc.com/2026/11/11/coreweave-ceo-election-data-center-buildout.html",
+   "summary": "After CoreWeave beat on revenue and upped its forecast, CEO Mike Intrator indicated the company will be fine despite last week's Democratic midterm sweep.",
+   "article_text": "CoreWeave CEO cancels planned share sale program Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Key Points CoreWeave CEO Michael Intrator said Wednesday that he has canceled his 10b5 stock sale plan. Intrator has sold 8.26 million shares at an average price of $96.14 per share for a total of $794.2 million under his most recent plan. The neocloud beat on revenue in Q3 and upped its forecast, while Intrator indicated the company will be fine despite last week's Democratic midterm sweep. In this article CRWV Follow your favorite stocks CREATE FREE ACCOUNT Michael Intrator, co-founder and chief executive officer of CoreWeave Inc., at the Bloomberg Tech summit in London, UK, on Tuesday, Oct. 21, 2025. Chris J. Ratcliffe | Bloomberg | Getty Images CoreWeave CEO Michael Intrator told CNBC on Wednesday that he has canceled his 10b5 stock sale plan after the company reported strong revenue growth and beat Q3 expectations . \"Until there is a material change in in, in our equity pricing, my 10b5 has been sidelined,\" he told CNBC's \"Squawk on the Street.\" He said any further selling would be \"just normal tax stuff.\" Under Intrator's 10b5-1 plan announced in November 2025, the CEO has sold 8.26 million shares at an average price of $96.14 per share for a total of $794.2 million. Intrator and his co-founders have faced criticism for their stock sales as the company's stock has struggled, with shares down 18% so far in 2026 despite a 20% post-earnings rally on Wednesday. The company has faced further pressure from the sell-off in the aftermath of last week's sweeping electoral victory for Democrats, but Intrator told investors on the earnings call that the company isn't worried about the political changes on the horizon. \"We do not anticipate any impact from the seismic regulatory shift that's occurred,\" Intrator said on his company's earnings call late Tuesday, in response to a question about new pressures after the election. \"We believe that what has occurred is a statement around how you build. We want to build responsibly.\" Intrator's comments came after CoreWeave reported 168% year-over-year revenue growth, beating estimates, and lifted its forecast for 2026. The stock rallied in extended trading, as the report offered some relief to investors, who have pushed the shares down about 27% over the past month. Read more CNBC tech news Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers Nvidia’s CEO turmoil gives newly empowered Democrats fresh ammunition in pursuit of oversight CoreWeave confronts 'doom cycle' narrative as neocloud credit risk overshadows growth Amazon’s Astro home robot has fans but looks destined for the ‘trash heap.’ Why it’s trying again Rising interest rates and an unfavorable political environment have fueled concerns that the artificial intelligence boom is poised to cool and that companies like CoreWeave will struggle to raise capital. In the Nov. 3 midterm elections, voters sided in favor of greater restrictions on data centers in 40 out of 41 ballot measures in 10 states, according to Ballotpedia . Democrats won control of both houses of Congress and were victorious in governors' races in critical AI infrastructure states like Texas, Ohio and Georgia. In each state, the winning candidate favors some restrictions on new data centers. J.P. Morgan Asset Management wrote in a report after the election that data center projects from 2028 onward are \"most exposed,\" and \"face greater uncertainty around permitting, power availability and financing.\" But CoreWeave says it's not slowing down. The company said it still anticipates 1.85 gigawatts in active power by the end of 2026, and it's now targeting $37 billion to $39 billion in full-year capital expenditures, implying 155% growth at the middle of the range. Analysts polled by Visible Alpha were looking for $37.69 billion. \"We are very comfortable with our pipeline,\" Intrator said, adding that the message from voters isn't a deterrent because the company is always conscious about \"being good neighbors.\" \"We think that that is an opportunity for us to continue to scale our business within the new political reality that exists,\" Intrator said. —CNBC's Nick Wells contributed to this article. WATCH: Steadfastly bullish on CoreWeave watch now VIDEO 3:59 03:59 'Steadfastly bullish' on CoreWeave for 2027, 'worry a bit' about 2028: Analyst Squawk Box Asia Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
+   "source": "CNBC Earnings",
+   "category": "earnings",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-11-11T15:53:36+00:00",
+   "tickers": [
+    "CRWV"
+   ]
+  },
+  {
+   "id": "0eb5a5348339",
+   "title": "Wisconsin Winters and Construction Timelines Examined in HelloNation Featuring Residential Construction Expert Kyle Tielens",
+   "link": "https://www.prnewswire.com/news-releases/wisconsin-winters-and-construction-timelines-examined-in-hellonation-featuring-residential-construction-expert-kyle-tielens-302936030.html",
+   "summary": "The article explains how seasonal weather conditions influence project planning, site preparation, and custom home construction schedules. STURGEON BAY, Wis., Nov. 11, 2026 /PRNewswire/ -- How do Wisconsin winters affect construction timelines and project planning? HelloNation answers...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-11-11T15:53:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "48097e3b870c",
+   "title": "Earnings call transcript: Telecom Italia posts stronger q3 2026 growth",
+   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-telecom-italia-posts-stronger-q3-2026-growth-93CH-5019503",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-11T15:51:29+00:00",
+   "tickers": []
+  },
+  {
+   "id": "05d41f24a743",
+   "title": "Earnings call transcript: Stingray Group posts strong Q2 2026 growth, shares jump",
+   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-stingray-group-posts-strong-q2-2026-growth-shares-jump-93CH-5019502",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-11-11T15:51:26+00:00",
+   "tickers": []
+  },
+  {
+   "id": "5635e9b5ea6c",
+   "title": "McCormick's Progress Doesn't Justify An Upgrade As Its Merger Nears",
+   "link": "https://seekingalpha.com/article/4966494-mccormicks-progress-doesnt-justify-an-upgrade-as-its-merger-nears?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-11T15:51:17+00:00",
+   "tickers": []
+  },
+  {
+   "id": "8e87cf50278c",
+   "title": "AMG TimesSquare International Small Cap Fund Q3 2026 Commentary",
+   "link": "https://seekingalpha.com/article/4966495-amg-timessquare-international-small-cap-fund-q3-2026-commentary?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-11T15:51:00+00:00",
+   "tickers": [
+    "AMG"
+   ]
+  },
+  {
+   "id": "b586e95a654a",
+   "title": "Toll Brothers Announces New Luxury Homes Coming Soon to Jacksonville, Florida",
+   "link": "https://www.globenewswire.com/news-release/2026/11/11/3400940/1924/en/toll-brothers-announces-new-luxury-homes-coming-soon-to-jacksonville-florida.html",
+   "summary": "Sagebrush at EverRange will offer luxury homes and vibrant amenities in a golf cart-friendly master-planned community Sagebrush at EverRange will offer luxury homes and vibrant amenities in a golf cart-friendly master-planned community",
+   "article_text": "",
+   "source": "GlobeNewswire",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "globenewswire.com",
+   "published": "2026-11-11T15:51:00+00:00",
+   "tickers": [
+    "TOL"
+   ]
+  },
+  {
+   "id": "0b70627c6e5d",
+   "title": "Data I/O Q3 2026 Earnings Preview",
+   "link": "https://seekingalpha.com/news/4670693-data-i-o-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-11T15:50:24+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c511884f028f",
+   "title": "Anthropic's IPO is poised for a historic retail debut, analysis suggests",
+   "link": "https://seekingalpha.com/news/4670688-anthropics-ipo-is-poised-for-a-historic-retail-debut-analysis-suggests?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "offering",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-11T15:50:19+00:00",
+   "tickers": []
+  },
+  {
+   "id": "15d3e0424e5a",
+   "title": "OrthoPediatrics at Stifel 2026 Healthcare Conference 2026: growth broadens",
+   "link": "https://www.investing.com/news/transcripts/orthopediatrics-at-stifel-2026-healthcare-conference-2026-growth-broadens-93CH-5019500",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-11T15:50:10+00:00",
+   "tickers": []
+  },
+  {
+   "id": "3fa082180eff",
+   "title": "Greece stocks higher at close of trade; Athens General Composite up 0.53%",
+   "link": "https://www.investing.com/news/stock-market-news/greece-stocks-higher-at-close-of-trade-athens-general-composite-up-053-5019499",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-11T15:50:03+00:00",
+   "tickers": []
+  },
+  {
+   "id": "4c962c1e9c09",
+   "title": "Inflation Fears Push Treasury Yields Further Above Fair Value",
+   "link": "https://seekingalpha.com/article/4966543-inflation-fears-push-treasury-yields-further-above-fair-value?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-11T15:50:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "95e62b1f0d92",
+   "title": "Gabelli Utility Trust Continues Monthly Distributions, Declares Distributions of $0.05 Per Share",
+   "link": "https://www.globenewswire.com/news-release/2026/11/11/3400938/0/en/gabelli-utility-trust-continues-monthly-distributions-declares-distributions-of-0-05-per-share.html",
+   "summary": "RYE, N.Y., Nov. 11, 2026 (GLOBE NEWSWIRE) -- The Board of Trustees of The Gabelli Utility Trust (NYSE:GUT) (the “Fund”) approved the continuation of its policy of paying fixed monthly cash distributions. The Board of Trustees declared cash distributions of $0.05 per share for each of January, February, and March 2027.",
+   "article_text": "",
+   "source": "GlobeNewswire",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "globenewswire.com",
+   "published": "2026-11-11T15:50:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e07219f42643",
+   "title": "Gabelli Equity Trust 10% Distribution Policy Reaffirmed and Declared Fourth Quarter Distribution of $0.15 Per Share",
+   "link": "https://www.globenewswire.com/news-release/2026/11/11/3400937/0/en/gabelli-equity-trust-10-distribution-policy-reaffirmed-and-declared-fourth-quarter-distribution-of-0-15-per-share.html",
+   "summary": "RYE, N.Y., Nov. 11, 2026 (GLOBE NEWSWIRE) -- The Board of Directors of The Gabelli Equity Trust Inc. (NYSE:GAB) (the “Fund”) reaffirmed and satisfied its 10% distribution policy by declaring a $0.15 per share cash distribution payable on December 18, 2026 to common stock shareholders of record on December 11, 2026.",
+   "article_text": "",
+   "source": "GlobeNewswire",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "globenewswire.com",
+   "published": "2026-11-11T15:50:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "0fab74a07815",
+   "title": "Earnings call transcript: GVS Q3 2026 sales rise nearly 13% as guidance holds",
+   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-gvs-q3-2026-sales-rise-nearly-13-as-guidance-holds-93CH-5019498",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-11-11T15:49:56+00:00",
+   "tickers": []
+  },
   {
    "id": "5ffb6adaddff",
    "title": "Conduit Holdings Limited (CNDHF) Q3 2026 Sales/Trading Call Transcript",
@@ -250,6 +569,22 @@
    ]
   },
   {
+   "id": "22a46e58be3a",
+   "title": "Helsing debuts Clarity military AI to challenge Palantir in Europe",
+   "link": "https://www.investing.com/news/stock-market-news/helsing-debuts-clarity-military-ai-to-challenge-palantir-in-europe-5019492",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-11T15:46:25+00:00",
+   "tickers": [
+    "PLTR"
+   ]
+  },
+  {
    "id": "7c246e659ae7",
    "title": "Edgewell Q4 2026 Earnings Preview",
    "link": "https://seekingalpha.com/news/4670689-edgewell-q4-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -420,6 +755,22 @@
    "tickers": []
   },
   {
+   "id": "8549cd9fb7ab",
+   "title": "Capri Holdings names longtime Estee Lauder executive Justin Boxford CEO",
+   "link": "https://www.investing.com/news/stock-market-news/capri-holdings-names-estee-lauder-senior-executive-justin-boxford-new-ceo-5018878",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-11T15:42:25+00:00",
+   "tickers": [
+    "CPRI"
+   ]
+  },
+  {
    "id": "130b5e2c13ac",
    "title": "ERock Q3 2026 Earnings Preview",
    "link": "https://seekingalpha.com/news/4670680-erock-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -532,23 +883,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-11-11T15:38:58+00:00",
    "tickers": []
-  },
-  {
-   "id": "58bd8bc24bff",
-   "title": "US tech stocks gain as AI trade revives",
-   "link": "https://www.ft.com/content/639de881-6017-454f-abfa-cfb191d1e7cd?syn-25a6b1a6=1",
-   "summary": "Nasdaq erases bulk of last week’s losses as better-than-expected CoreWeave results and prospect of higher Anthropic IPO valuation boost sentiment",
-   "article_text": "",
-   "source": "FT Companies",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "ft.com",
-   "published": "2026-11-11T15:38:13+00:00",
-   "tickers": [
-    "CRWV",
-    "NDAQ"
-   ]
   },
   {
    "id": "75c35013bced",
@@ -1230,22 +1564,6 @@
    "tickers": []
   },
   {
-   "id": "8549cd9fb7ab",
-   "title": "Capri Holdings names longtime Estee Lauder executive Justin Boxford new CEO",
-   "link": "https://www.investing.com/news/stock-market-news/capri-holdings-names-estee-lauder-senior-executive-justin-boxford-new-ceo-5018878",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-11T15:30:28+00:00",
-   "tickers": [
-    "CPRI"
-   ]
-  },
-  {
    "id": "89c8fb314cc2",
    "title": "Turkey stocks higher at close of trade; BIST 100 up 0.04%",
    "link": "https://www.investing.com/news/stock-market-news/turkey-stocks-higher-at-close-of-trade-bist-100-up-004-5019451",
@@ -1454,7 +1772,7 @@
    "title": "Stocks making the biggest moves Wednesday: CoreWeave, Nvidia, NextNav & more",
    "link": "https://www.cnbc.com/2026/11/11/stocks-moving-the-most-today-live-updates.html",
    "summary": "Follow below as CNBC covers the biggest stock market moves of the day.",
-   "article_text": "Stocks moving the most today: Live updates Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Jonathan Raa | Nurphoto | Getty Images CoreWeave surged 20% Wednesday, as investors breathed a sigh of relief after the struggling neocloud reported better-than-expected third quarter results. Nvidia also rose as the chipmaker tries to recover from steep back-to-back losses. Follow below as CNBC covers the biggest stock market moves of the day. 21 Min Ago CoreWeave shares surge 20% CoreWeave shares jumped 20% Wednesday after the neocloud posted quarterly earnings that beat estimates and raised its guidance for the year. \"Demand for the infrastructure is and remains overwhelming.\" CEO Michael Intrator told CNBC's \"Squawk on the Street\" Wednesday. \"I think I said that we are 10x oversubscribed to the existing capacity that we have left in 2027, and we are multiples ... oversubscribed on the capacity we have out in 2028,\" he said. CoreWeave — April Roach 3 Hours Ago Talen Energy stock rises on deal that offers revenue visibility Cheng Xin | Getty Images News | Getty Images Talen Energy stock advanced nearly 5% in the premarket trading Wednesday. It comes after the power producer and energy infrastructure company announced a seven-year agreement to sell 750 megawatts of capacity to an investment-grade counterparty. Talen Energy is expected to generate about $100 million per year in revenue through 2036. That should lead to about $1 billion of cumulative capacity revenue visibility from these megawatts. — Paulina Likos 3 Hours Ago NextNav rallies after loss narrows and cash grows NextNav , the ground-based backup for GPS, climbed 9%. Third-quarter revenue nearly doubled from the same period a year ago, while the quarterly loss narrowed to 4 cents a share from 12 cents last year. Cash, cash equivalents and short-term investments on hand rose to $264.1 million on Sept. 30 from $152.1 million on Dec. 31, the company said. Based in Reston, Virginia, NextNav is down 50% in 2026 and has a market value of about $1.5 billion, according to FactSet data. NextNav has been cut in half in 2026 — Scott Schnipper 3 Hours Ago Nvidia jumps after back-to-back losing sessions Nvidia jumped 5%, recovering some of the sharp losses seen earlier this week after CEO Jensen Huang confirmed he had an affair with an alleged Chinese spy. The chipmaker entered Wednesday's session down nearly 10% week to date. NVDA 5-day chart — Fred Imbert 3 Hours Ago CoreWeave rises on Q3 beat, guidance increase CoreWeave shares surged 13% after the neocloud company reported third-quarter revenue that exceeded analyst expectations along with a smaller-than-expected loss. The company's top line came in at $3.66 billion, marking a 168% surge from the year-earlier period. Analysts polled by LSEG expected revenue of $3.55 billion. CoreWeave also hiked its full-year revenue outlook. CRWV year to date — Fred Imbert",
+   "article_text": "Stocks moving the most today: Live updates Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Jonathan Raa | Nurphoto | Getty Images CoreWeave surged 20% Wednesday, as investors breathed a sigh of relief after the struggling neocloud reported better-than-expected third quarter results. Nvidia also rose as the chipmaker tries to recover from steep back-to-back losses. Follow below as CNBC covers the biggest stock market moves of the day. 27 Min Ago CoreWeave shares surge 20% CoreWeave shares jumped 20% Wednesday after the neocloud posted quarterly earnings that beat estimates and raised its guidance for the year. \"Demand for the infrastructure is and remains overwhelming.\" CEO Michael Intrator told CNBC's \"Squawk on the Street\" Wednesday. \"I think I said that we are 10x oversubscribed to the existing capacity that we have left in 2027, and we are multiples ... oversubscribed on the capacity we have out in 2028,\" he said. CoreWeave — April Roach 3 Hours Ago Talen Energy stock rises on deal that offers revenue visibility Cheng Xin | Getty Images News | Getty Images Talen Energy stock advanced nearly 5% in the premarket trading Wednesday. It comes after the power producer and energy infrastructure company announced a seven-year agreement to sell 750 megawatts of capacity to an investment-grade counterparty. Talen Energy is expected to generate about $100 million per year in revenue through 2036. That should lead to about $1 billion of cumulative capacity revenue visibility from these megawatts. — Paulina Likos 3 Hours Ago NextNav rallies after loss narrows and cash grows NextNav , the ground-based backup for GPS, climbed 9%. Third-quarter revenue nearly doubled from the same period a year ago, while the quarterly loss narrowed to 4 cents a share from 12 cents last year. Cash, cash equivalents and short-term investments on hand rose to $264.1 million on Sept. 30 from $152.1 million on Dec. 31, the company said. Based in Reston, Virginia, NextNav is down 50% in 2026 and has a market value of about $1.5 billion, according to FactSet data. NextNav has been cut in half in 2026 — Scott Schnipper 3 Hours Ago Nvidia jumps after back-to-back losing sessions Nvidia jumped 5%, recovering some of the sharp losses seen earlier this week after CEO Jensen Huang confirmed he had an affair with an alleged Chinese spy. The chipmaker entered Wednesday's session down nearly 10% week to date. NVDA 5-day chart — Fred Imbert 3 Hours Ago CoreWeave rises on Q3 beat, guidance increase CoreWeave shares surged 13% after the neocloud company reported third-quarter revenue that exceeded analyst expectations along with a smaller-than-expected loss. The company's top line came in at $3.66 billion, marking a 168% surge from the year-earlier period. Analysts polled by LSEG expected revenue of $3.55 billion. CoreWeave also hiked its full-year revenue outlook. CRWV year to date — Fred Imbert",
    "source": "CNBC Top",
    "category": "markets",
    "type": "markets",
@@ -1479,22 +1797,6 @@
    "published": "2026-11-11T15:29:02+00:00",
    "tickers": [
     "CVS"
-   ]
-  },
-  {
-   "id": "4309e4b5ce60",
-   "title": "CoreWeave CEO Intrator tells CNBC he has canceled his planned share sale program",
-   "link": "https://www.cnbc.com/2026/11/11/coreweave-ceo-election-data-center-buildout.html",
-   "summary": "After CoreWeave beat on revenue and upped its forecast, CEO Mike Intrator indicated the company will be fine despite last week's Democratic midterm sweep.",
-   "article_text": "CoreWeave CEO cancels planned share sale program Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Key Points CoreWeave CEO Michael Intrator said Wednesday that he has canceled his 10b5 stock sale plan. Intrator has sold 8.26 million shares at an average price of $96.14 per share for a total of $794.2 million under his most recent plan. The neocloud beat on revenue in Q3 and upped its forecast, while Intrator indicated the company will be fine despite last week's Democratic midterm sweep. In this article CRWV Follow your favorite stocks CREATE FREE ACCOUNT Michael Intrator, co-founder and chief executive officer of CoreWeave Inc., at the Bloomberg Tech summit in London, UK, on Tuesday, Oct. 21, 2025. Chris J. Ratcliffe | Bloomberg | Getty Images CoreWeave CEO Michael Intrator told CNBC on Wednesday that he has canceled his 10b5 stock sale plan after the company reported strong revenue growth and beat Q3 expectations. \"Until there is a material change in in, in our equity pricing, my 10b5 has been sidelined,\" he told CNBC's \"Squawk on the Street.\" He said any further selling would be \"just normal tax stuff.\" Under Intrator's 10b5-1 plan announced in November 2025, the CEO has sold 8.26 million shares at an average price of $96.14 per share for a total of $794.2 million. Intrator and his co-founders have faced criticism for their stock sales as the company's stock has struggled, with shares down 18% so far in 2026 despite a 20% post-earnings rally on Wednesday. The company has faced further pressure from the sell-off in the aftermath of last week's sweeping electoral victory for Democrats, but Intrator told investors on the earnings call that the company isn't worried about the political changes on the horizon. \"We do not anticipate any impact from the seismic regulatory shift that's occurred,\" Intrator said on his company's earnings call late Tuesday, in response to a question about new pressures after the election. \"We believe that what has occurred is a statement around how you build. We want to build responsibly.\" Intrator's comments came after CoreWeave reported 168% year-over-year revenue growth, beating estimates, and lifted its forecast for 2026. The stock rallied in extended trading, as the report offered some relief to investors, who have pushed the shares down about 27% over the past month. Read more CNBC tech news Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers Nvidia’s CEO turmoil gives newly empowered Democrats fresh ammunition in pursuit of oversight CoreWeave confronts 'doom cycle' narrative as neocloud credit risk overshadows growth Amazon’s Astro home robot has fans but looks destined for the ‘trash heap.’ Why it’s trying again Rising interest rates and an unfavorable political environment have fueled concerns that the artificial intelligence boom is poised to cool and that companies like CoreWeave will struggle to raise capital. In the Nov. 3 midterm elections, voters sided in favor of greater restrictions on data centers in 40 out of 41 ballot measures in 10 states, according to Ballotpedia . Democrats won control of both houses of Congress and were victorious in governors' races in critical AI infrastructure states like Texas, Ohio and Georgia. In each state, the winning candidate favors some restrictions on new data centers. J.P. Morgan Asset Management wrote in a report after the election that data center projects from 2028 onward are \"most exposed,\" and \"face greater uncertainty around permitting, power availability and financing.\" But CoreWeave says it's not slowing down. The company said it still anticipates 1.85 gigawatts in active power by the end of 2026, and it's now targeting $37 billion to $39 billion in full-year capital expenditures, implying 155% growth at the middle of the range. Analysts polled by Visible Alpha were looking for $37.69 billion. \"We are very comfortable with our pipeline,\" Intrator said, adding that the message from voters isn't a deterrent because the company is always conscious about \"being good neighbors.\" \"We think that that is an opportunity for us to continue to scale our business within the new political reality that exists,\" Intrator said. —CNBC's Nick Wells contributed to this article. WATCH: Steadfastly bullish on CoreWeave watch now VIDEO 3:59 03:59 'Steadfastly bullish' on CoreWeave for 2027, 'worry a bit' about 2028: Analyst Squawk Box Asia Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
-   "source": "CNBC Earnings",
-   "category": "earnings",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-11-11T15:28:29+00:00",
-   "tickers": [
-    "CRWV"
    ]
   },
   {
@@ -3404,20 +3706,6 @@
     "IBM",
     "NWSA"
    ]
-  },
-  {
-   "id": "41f046c9d960",
-   "title": "JetBlue's CEO has pushed back on creditor fears and is betting on premium to return to profitability",
-   "link": "https://www.cnbc.com/2026/11/11/jetblue-ceo-premium.html",
-   "summary": "JetBlue will give reporters a look at its new first class seats on Wednesday.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-11-11T15:00:02+00:00",
-   "tickers": []
   },
   {
    "id": "4cbc1b50654c",
@@ -8530,301 +8818,6 @@
    "domain": "prnewswire.com",
    "published": "2026-11-11T13:55:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "a538dc5d8947",
-   "title": "NYSE Honors Those Who Have Served on Veterans Day: NYSE Content Update",
-   "link": "https://www.prnewswire.com/news-releases/nyse-honors-those-who-have-served-on-veterans-day-nyse-content-update-302936535.html",
-   "summary": "NYSE issues a pre-market daily advisory direct from the trading floor. NEW YORK, Nov. 11, 2026 /PRNewswire/ -- The New York Stock Exchange (NYSE) provides a daily pre-market update directly from the NYSE Trading Floor. Access today's NYSE Pre-market update for market insights before...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-11-11T13:55:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "2f24358a093a",
-   "title": "French Florist Opens New Boutique in Gilbert, Marking Second Arizona Location",
-   "link": "https://www.prnewswire.com/news-releases/french-florist-opens-new-boutique-in-gilbert-marking-second-arizona-location-302935752.html",
-   "summary": "Local Husband-and-Wife Team Brings French Florist's Luxury Floral Experience to Gilbert GILBERT, Ariz., Nov. 11, 2026 /PRNewswire/ -- French Florist, the best-in-class boutique introducing botanical architecture and elevated floral arrangements, is expanding its presence in Arizona with a...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-11-11T13:55:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "9ba25a4f7681",
-   "title": "LPL Financial Welcomes SteadRock Private Wealth",
-   "link": "https://www.globenewswire.com/news-release/2026/11/11/3400719/29579/en/lpl-financial-welcomes-steadrock-private-wealth.html",
-   "summary": "SAN DIEGO, Nov. 11, 2026 (GLOBE NEWSWIRE) -- LPL Financial LLC announced today that financial advisor Nathan J. “Nate” Hershman, ChFC®, CEPA, AAMS®, CPWA® CRPC®, has joined LPL Financial’s broker-dealer and Registered Investment Advisor (RIA) platforms to launch SteadRock Private Wealth. Hershman reported serving approximately $185 million in advisory, brokerage and retirement plan assets* and joins LPL from Edward Jones.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-11-11T13:55:00+00:00",
-   "tickers": [
-    "LPLA"
-   ]
-  },
-  {
-   "id": "b89a33e947b0",
-   "title": "Earnings call transcript: ITG posts strong Q3 2026 growth, stock barely moves",
-   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-itg-posts-strong-q3-2026-growth-stock-barely-moves-93CH-5019073",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-11-11T13:54:41+00:00",
-   "tickers": []
-  },
-  {
-   "id": "be11d845ed02",
-   "title": "Chip, memory stocks rally after CoreWeave results ease AI demand worries",
-   "link": "https://seekingalpha.com/news/4670625-chip-memory-stocks-rally-after-coreweave-results-ease-ai-demand-worries?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-11T13:54:37+00:00",
-   "tickers": [
-    "CRWV"
-   ]
-  },
-  {
-   "id": "57839cf54550",
-   "title": "VINCORION 9M 2026 slides: revenue surges 41%, guidance raised",
-   "link": "https://www.investing.com/news/company-news/vincorion-9m-2026-slides-revenue-surges-41-guidance-raised-93CH-5019072",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-11-11T13:54:31+00:00",
-   "tickers": []
-  },
-  {
-   "id": "c1c33ec30903",
-   "title": "ICF International: The Blue Wave Can Be A Tailwind, But With Risks In 2028",
-   "link": "https://seekingalpha.com/article/4966412-icf-international-the-blue-wave-can-be-a-tailwind-but-with-risks-in-2028?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-11T13:54:17+00:00",
-   "tickers": []
-  },
-  {
-   "id": "23c4288f609e",
-   "title": "Miller-Howard Q3 2026 Quarterly Report",
-   "link": "https://seekingalpha.com/article/4966413-miller-howard-q3-2026-quarterly-report?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-11T13:54:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "08cf66b37243",
-   "title": "Real Estate Expert Angi Oakes Explains What Buyers Should Know About a New Construction Home in HelloNation",
-   "link": "https://www.prnewswire.com/news-releases/real-estate-expert-angi-oakes-explains-what-buyers-should-know-about-a-new-construction-home-in-hellonation-302935904.html",
-   "summary": "The Article Reviews Representation, Pricing, Builder Incentives, Contracts, Financing, Inspections, and Warranties That Can Shape a New Construction Purchase. GREENWOOD, Ind., Nov. 11, 2026 /PRNewswire/ -- What should buyers know before buying a new construction home? A HelloNation...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-11-11T13:54:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "22e609f11793",
-   "title": "Service Experts Recognizes Veteran Franchise Owners Leading the Way in Home Services",
-   "link": "https://www.prnewswire.com/news-releases/service-experts-recognizes-veteran-franchise-owners-leading-the-way-in-home-services-302936541.html",
-   "summary": "Veterans Represent 25% of the Brand's Franchise Network, Bringing Military Experience and Leadership to Local HVAC Businesses RICHARDSON, Texas, Nov. 11, 2026 /PRNewswire/ -- As the nation prepares to recognize the service and contributions of military veterans, Service Experts is...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-11-11T13:54:00+00:00",
-   "tickers": [
-    "SCI"
-   ]
-  },
-  {
-   "id": "c16089112d45",
-   "title": "Earnings call transcript: Angel beats Q3 2026 estimates as growth accelerates",
-   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-angel-beats-q3-2026-estimates-as-growth-accelerates-93CH-5019070",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-11-11T13:53:57+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b8c208ea0579",
-   "title": "Torus raises $500 million for AI data center product - Bloomberg",
-   "link": "https://www.investing.com/news/stock-market-news/torus-raises-500-million-for-ai-data-center-product--bloomberg-93CH-5019068",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-11-11T13:53:03+00:00",
-   "tickers": []
-  },
-  {
-   "id": "2b4f5584039d",
-   "title": "Palo Alto Networks in focus as Citi sees 'compelling' risk-reward",
-   "link": "https://seekingalpha.com/news/4670632-palo-alto-networks-in-focus-as-citi-sees-compelling-risk-reward?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-11T13:53:03+00:00",
-   "tickers": [
-    "PANW",
-    "C"
-   ]
-  },
-  {
-   "id": "cc78b35f508f",
-   "title": "Tempest Therapeutics Exercises Option to License Senlang’s CD7-Targeted Lentiviral In Vivo CAR-T Platform Following Initial Phase 1 Results with Lead BCMA/GPRC5D Candidate",
-   "link": "https://www.globenewswire.com/news-release/2026/11/11/3400717/0/en/tempest-therapeutics-exercises-option-to-license-senlang-s-cd7-targeted-lentiviral-in-vivo-car-t-platform-following-initial-phase-1-results-with-lead-bcma-gprc5d-candidate.html",
-   "summary": "-Tempest secures exclusive global rights outside China to a targeted lentiviral platform and portfolio of in vivo CAR-T candidates",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-11-11T13:53:00+00:00",
-   "tickers": [
-    "CAR"
-   ]
-  },
-  {
-   "id": "0742b1bb1e72",
-   "title": "Boston Scientific at Stifel 2026 Healthcare Conference 2026: growth and strain",
-   "link": "https://www.investing.com/news/transcripts/boston-scientific-at-stifel-2026-healthcare-conference-2026-growth-and-strain-93CH-5019067",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-11T13:52:59+00:00",
-   "tickers": [
-    "BSX"
-   ]
-  },
-  {
-   "id": "f443b0eb667f",
-   "title": "Oppenheimer reiterates Kopin stock rating on strong Q3 results",
-   "link": "https://www.investing.com/news/analyst-ratings/oppenheimer-reiterates-kopin-stock-rating-on-strong-q3-results-93CH-5019066",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "analyst",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-11-11T13:52:55+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6fe1f42e804e",
-   "title": "Freedom Broker downgrades ConocoPhillips stock rating to hold",
-   "link": "https://www.investing.com/news/analyst-ratings/freedom-broker-downgrades-conocophillips-stock-rating-to-hold-93CH-5019064",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-11-11T13:52:54+00:00",
-   "tickers": []
-  },
-  {
-   "id": "68d21ac9847d",
-   "title": "Rosenblatt reiterates CoreWeave stock rating on strong growth",
-   "link": "https://www.investing.com/news/analyst-ratings/rosenblatt-reiterates-coreweave-stock-rating-on-strong-growth-93CH-5019065",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "analyst",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-11-11T13:52:54+00:00",
-   "tickers": [
-    "CRWV"
-   ]
-  },
-  {
-   "id": "cbeaaac14a48",
-   "title": "Corporate America is making a trillion-dollar mistake about retirement",
-   "link": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
-   "summary": "The market is dramatically underpricing the economic impact of Americans age 50 and older.",
-   "article_text": "",
-   "source": "MarketWatch",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "marketwatch.com",
-   "published": "2026-11-11T13:52:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "9ef4035d0906",
-   "title": "Palm Beach Atlantic University to Honor Jack Nicklaus and Grant Horvat at 42nd Annual American Free Enterprise Day",
-   "link": "https://www.prnewswire.com/news-releases/palm-beach-atlantic-university-to-honor-jack-nicklaus-and-grant-horvat-at-42nd-annual-american-free-enterprise-day-302936003.html",
-   "summary": "Golf icon and entrepreneur Jack Nicklaus named 2026 lead medalist; golf content creator and entrepreneur Grant Horvat named companion medalist WEST PALM BEACH, Fla., Nov. 11, 2026 /PRNewswire/ -- Palm Beach Atlantic University (PBA) is teeing up another memorable American Free Enterprise...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-11-11T13:52:00+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8850,7 +8843,6 @@
   "GS": "The Goldman Sachs Group",
   "AMD": "Advanced Micro Devices",
   "CPRI": "Capri Holdings Limited",
-  "LPLA": "LPL Financial Holdings",
   "FLUT": "Flutter Entertainment",
   "PLTR": "Palantir Technologies",
   "AMPX": "Amprius Technologies",
@@ -8861,11 +8853,8 @@
   "GWRE": "Guidewire Software",
   "MRVL": "Marvell Technology",
   "NYT": "The New York Times",
-  "PANW": "Palo Alto Networks",
   "TT": "Trane Technologies",
   "BEAM": "Beam Therapeutics",
-  "BSX": "Boston Scientific",
-  "CAR": "Avis Budget Group",
   "HOOD": "Robinhood Markets",
   "LITE": "Lumentum Holdings",
   "MU": "Micron Technology",
@@ -8899,6 +8888,7 @@
   "HSBC": "HSBC Holdings",
   "LLY": "Eli Lilly and",
   "POST": "Post Holdings",
+  "TOL": "Toll Brothers",
   "WFC": "Wells Fargo &",
   "MSTR": "MicroStrategy",
   "CDE": "Coeur Mining",
