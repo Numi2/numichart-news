@@ -1,8 +1,22 @@
 {
- "generated": "2026-11-11T22:49:35.460535+00:00",
+ "generated": "2026-11-11T22:56:02.906607+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "c97de9ed5801",
+   "title": "Nvidia prepares to oust Jensen Huang, WSJ reports — stock sinks",
+   "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html",
+   "summary": "The report comes days after Huang admitted to an affair with a woman who is believed by U.S. intelligence of being a Chinese spy.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "cnbc.com",
+   "published": "2026-11-11T22:52:14+00:00",
+   "tickers": []
+  },
   {
    "id": "11da1c066491",
    "title": "Banco do Brasil S.A. reports 9M results",
@@ -18,17 +32,17 @@
    "tickers": []
   },
   {
-   "id": "c97de9ed5801",
-   "title": "Nvidia prepares to oust Jensen Huang, WSJ reports — stock sinks",
-   "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html",
-   "summary": "The report comes days after Huang admitted to an affair with a woman who is believed by U.S. intelligence of being a Chinese spy.",
+   "id": "595857608fcc",
+   "title": "Nvidia’s stock drops as the board reportedly prepares to remove CEO Jensen Huang",
+   "link": "https://www.marketwatch.com/story/nvidias-stock-drops-as-the-board-reportedly-prepares-to-remove-ceo-jensen-huang-9edee58d?mod=mw_rss_topstories",
+   "summary": "Nvidia’s board of directors could reportedly meet as soon as today to determine the CEO’s fate.",
    "article_text": "",
-   "source": "CNBC Top",
+   "source": "MarketWatch",
    "category": "markets",
    "type": "markets",
    "sentiment": "negative",
-   "domain": "cnbc.com",
-   "published": "2026-11-11T22:46:32+00:00",
+   "domain": "marketwatch.com",
+   "published": "2026-11-11T22:47:00+00:00",
    "tickers": []
   },
   {
@@ -46,6 +60,40 @@
    "tickers": []
   },
   {
+   "id": "8ff86499d42d",
+   "title": "Stock Market Today, Nov. 11: SpaceX Shares Slip Amid Upcoming Starship Test Flight Jitters",
+   "link": "https://biztoc.com/x/883732261b8872dc?ref=rss",
+   "summary": "Space Exploration Technologies (NASDAQ:SPCX), an orbital launch and satellite broadband services provider better known as SpaceX, closed at $139.75, down 2.33%. Reports that the FCC accepted SpaceX's nationwide spectrum application and a separate Singulus equipment order supported premarket…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-11T22:45:17+00:00",
+   "tickers": [
+    "SPCX"
+   ]
+  },
+  {
+   "id": "82ba9babb1f8",
+   "title": "Stock Market Today, Nov. 11: IREN Rises as AI Cloud Peers Rally on CoreWeave Results",
+   "link": "https://biztoc.com/x/778a8443412ed95b?ref=rss",
+   "summary": "IREN (NASDAQ:IREN), a vertically integrated data center operator, closed at $20.84, up 5.63%. The stock rose as AI cloud peers gained, with CoreWeave's strong results easing financing and demand concerns. Investors are watching IREN's AI cloud execution and its next update on Microsoft deliveries…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-11-11T22:45:07+00:00",
+   "tickers": [
+    "IREN",
+    "CRWV",
+    "MSFT"
+   ]
+  },
+  {
    "id": "fa8ec8138638",
    "title": "Greenberg Traurig's Joel Tasca Elected to Las Vegas Regional Economic Partnership Board; Michael Bonner Named Emeritus Director",
    "link": "https://www.prnewswire.com/news-releases/greenberg-traurigs-joel-tasca-elected-to-las-vegas-regional-economic-partnership-board-michael-bonner-named-emeritus-director-302936906.html",
@@ -57,6 +105,50 @@
    "sentiment": "neutral",
    "domain": "prnewswire.com",
    "published": "2026-11-11T22:45:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "d20609f7c925",
+   "title": "Stock Market Today, Nov. 11: CoreWeave Surges 25% on Beat-and-Raise Quarter",
+   "link": "https://biztoc.com/x/bea680520b5870ba?ref=rss",
+   "summary": "CoreWeave (NASDAQ:CRWV), a specialized cloud infrastructure provider, closed at $60.77, up 24.71%. Quarterly results showed revenue of $3.66 billion and a raised 2026 outlook, easing financing and AI-demand worries. Investors are next watching revenue growth, profit outlook, and data center build…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-11-11T22:44:56+00:00",
+   "tickers": [
+    "CRWV"
+   ]
+  },
+  {
+   "id": "a7261870c7b6",
+   "title": "Nvidia preparing to oust CEO Jensen Huang, according to the Wall Street Journal",
+   "link": "https://www.cnbc.com/video/2026/11/11/nvidia-preparing-to-oust-ceo-jensen-huang-according-to-the-wall-street-journal.html",
+   "summary": "CNBC's Megan Cassella joins 'Fast Money' with breaking news on Nvidia.",
+   "article_text": "",
+   "source": "CNBC Investing",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-11-11T22:44:34+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ebd8cccd1ab9",
+   "title": "Nvidia is Preparing to Oust CEO Jensen Huang",
+   "link": "https://biztoc.com/x/c1fe98f616429375?ref=rss",
+   "summary": "Move follows company investigation into an affair with a Chinese woman alleged to be a spy.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-11T22:44:25+00:00",
    "tickers": []
   },
   {
@@ -120,6 +212,22 @@
    "tickers": []
   },
   {
+   "id": "8a3afdd48e4b",
+   "title": "Ring Drone Cam Becomes a Reality for Homeowners Eager To Level Up With Smart Home Security",
+   "link": "https://biztoc.com/x/2a43720ffd9f5803?ref=rss",
+   "summary": "If you remember Rosie from “The Jetsons,” congratulations—the future is here. Amazon’s Ring announced the launch of two new products on Tuesday, offering homeowners room-to-room surveillance and smart home functionality in brand-new ways. First, there’s an indoor security drone. The Ring Drone Cam…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-11T22:42:44+00:00",
+   "tickers": [
+    "AMZN"
+   ]
+  },
+  {
    "id": "fe41ee6d5db8",
    "title": "Nvidia board prepares to remove Huang after latest allegations: report",
    "link": "https://seekingalpha.com/news/4671063-nvidia-board-prepares-to-remove-huang-after-latest-allegations-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -159,6 +267,259 @@
    "sentiment": "neutral",
    "domain": "prnewswire.com",
    "published": "2026-11-11T22:42:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e34608167ac9",
+   "title": "Alpha Cognition Q3 2026 Earnings Call Transcript",
+   "link": "https://biztoc.com/x/1e6946fcc67942eb?ref=rss",
+   "summary": "Alpha Cognition (NASDAQ:ACOG) reported third-quarter financial results on Wednesday. The transcript from the company’s third-quarter earnings call has been provided below.This transcript is brought to you by Benzinga",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-11T22:41:52+00:00",
+   "tickers": []
+  },
+  {
+   "id": "090a8b0cef70",
+   "title": "Nvidia said to be preparing to remove CEO Huang",
+   "link": "https://biztoc.com/x/ad30a844d9b1e4c6?ref=rss",
+   "summary": "Nvidia's board is preparing to oust CEO Jensen Huang amid allegations that he was involved in two extramarital affairs, including one with a suspected Chinese spy, the Wall Street Journal reported.The...",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-11T22:41:49+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f746b44bb09c",
+   "title": "Nvidia Stock Tumbles As CEO Jensen Huang Had Second Affair, NYT Reports. N",
+   "link": "https://biztoc.com/x/886527a21cb90142?ref=rss",
+   "summary": "AI chip giant slides in extended trading after the report. The post Nvidia Stock Tumbles As CEO Jensen Huang Had Second Affair, NYT Reports. N appeared first on Investor's Business Daily.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-11-11T22:41:41+00:00",
+   "tickers": [
+    "NYT"
+   ]
+  },
+  {
+   "id": "e3871a2d32a5",
+   "title": "Nvidia CEO said to have had affair with executive",
+   "link": "https://biztoc.com/x/1d169591da3aa5a3?ref=rss",
+   "summary": "Nvidia Chief Executive Jensen Huang had a personal relationship with Kimberly Powell, a vice president reporting to him, while security staff reportedly detained a witness who filmed them at a March h...",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-11T22:41:41+00:00",
+   "tickers": [
+    "POWL"
+   ]
+  },
+  {
+   "id": "a50f80c59cdd",
+   "title": "SeaStar Medical Holding Q3 2026 Earnings Call Transcript",
+   "link": "https://biztoc.com/x/fb2b8b88cc090fa9?ref=rss",
+   "summary": "SeaStar Medical Holding (NASDAQ:ICU) reported third-quarter financial results on Wednesday. The transcript from the company’s third-quarter earnings call has been provided below.This transcript is brought to you by",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-11T22:41:39+00:00",
+   "tickers": []
+  },
+  {
+   "id": "87050c1be7e8",
+   "title": "What ‘Medicare for More’ could mean for workers over 50",
+   "link": "https://biztoc.com/x/2674dd4d60359433?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-11T22:41:37+00:00",
+   "tickers": []
+  },
+  {
+   "id": "5c34f97f3fda",
+   "title": "Nvidia prepares to oust Jensen Huang, WSJ reports — stock sinks further",
+   "link": "https://biztoc.com/x/a91d333541bb289d?ref=rss",
+   "summary": "Shares of Nvidia fell more than 7% in after-hours trading on Wednesday after The Wall Street Journal reported that the company's board is preparing to oust CEO Jensen Huang. The news landed minutes after The New York Times reported that Huang had an extramarital relationship with another executive…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-11-11T22:41:36+00:00",
+   "tickers": [
+    "NYT"
+   ]
+  },
+  {
+   "id": "a738383321d9",
+   "title": "Record credit card balances, fewer trips to McDonald’s: More signs of strain ahead of the holidays",
+   "link": "https://biztoc.com/x/f88e6dd871e51baa?ref=rss",
+   "summary": "Big credit card bills are supposed to show up after the holiday shopping season.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-11T22:41:35+00:00",
+   "tickers": []
+  },
+  {
+   "id": "799e3d2c4e61",
+   "title": "Dollar Tree debuts exclusive candy line",
+   "link": "https://biztoc.com/x/c6e3cd18b586712d?ref=rss",
+   "summary": "Dollar Tree has been working to give shoppers more reasons to visit its stores. And that effort increasingly involves more than simply offering low prices. The discount retailer is expanding its merchandise assortment, adding new products, and creating a shopping experience that emphasizes value…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-11T22:41:34+00:00",
+   "tickers": [
+    "DLTR"
+   ]
+  },
+  {
+   "id": "41cf1352a085",
+   "title": "Top Democrat vows to increase oversight of intelligence agencies",
+   "link": "https://biztoc.com/x/db3d4a389dac8cd6?ref=rss",
+   "summary": "The top Democrat in charge of overseeing US intelligence agencies in the next Congress vowed Wednesday to increase oversight of the Trump administration’s expanded use of covert action. The White House has reportedly increased spy agencies’ footprint in Mexico and Latin America, and against…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-11-11T22:41:34+00:00",
+   "tickers": []
+  },
+  {
+   "id": "5bb363a9c153",
+   "title": "Xanadu Quantum Stock Falls After Q3 Double Miss: Details",
+   "link": "https://biztoc.com/x/1b95e0ba473973c2?ref=rss",
+   "summary": "Here's a detailed look inside the Q3 earnings report from Xanadu Quantum.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "earnings",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-11-11T22:41:33+00:00",
+   "tickers": []
+  },
+  {
+   "id": "029d4b8a791f",
+   "title": "Two Rescued After Building Partially Collapses In Brooklyn",
+   "link": "https://biztoc.com/x/31ea75427042af66?ref=rss",
+   "summary": "At least four people were injured after a partial building collapse at 2625 Bedford Avenue in Brooklyn's Flatbush neighbourhood on Wednesday, prompting a major rescue operation by the New York City Fire Department (FDNY). Emergency crews launched a technical rescue operation shortly after 4 p.m.,…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-11T22:41:31+00:00",
+   "tickers": []
+  },
+  {
+   "id": "7e674a52c9f7",
+   "title": "Nvidia CEO Had an Affair With Health Executive at Firm, NYT Says",
+   "link": "https://biztoc.com/x/c9632cb688b363c2?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-11T22:41:28+00:00",
+   "tickers": [
+    "NYT"
+   ]
+  },
+  {
+   "id": "af761ba7cce4",
+   "title": "Nvidia sinks after report implicates CEO Jensen Huang in 2nd affair",
+   "link": "https://biztoc.com/x/c3c99da9b05399e5?ref=rss",
+   "summary": "Shares in Nvidia sank Wednesday night after the New York Times reported CEO Jensen Huang had a second affair with a senior executive who reports to him. Why it matters: The report adds to mounting scrutiny of Huang, already under investigation over an affair with a purported Chinese spy. The…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-11-11T22:41:24+00:00",
+   "tickers": [
+    "NYT"
+   ]
+  },
+  {
+   "id": "9f202fd776ce",
+   "title": "Nvidia Just Fell 8.3% After Hours on a Report of a Second Jensen Huang Affair. Here’s What 2,000 Shares Have Lost This Week",
+   "link": "https://biztoc.com/x/ce2fb469404137bc?ref=rss",
+   "summary": "The post Nvidia Just Fell 8.3% After Hours on a Report of a Second Jensen Huang Affair. Here’s What 2,000 Shares Have Lost This Week appeared first on 24/7 Wall St.. Nvidia (NASDAQ: NVDA) fell 8.3% in after-hours trading Wednesday after The New York Times reported that CEO Jensen Huang also had a…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-11-11T22:41:21+00:00",
+   "tickers": [
+    "NYT",
+    "NVDA"
+   ]
+  },
+  {
+   "id": "ac3412c5354d",
+   "title": "Mom Will Need Nursing Home Care in 2028 With $1.1 Million in Home Equity. A New Medicaid Ceiling Puts Her Over the Limit In Every State",
+   "link": "https://biztoc.com/x/0db219ba16615f99?ref=rss",
+   "summary": "The post Mom Will Need Nursing Home Care in 2028 With $1.1 Million in Home Equity. A New Medicaid Ceiling Puts Her Over the Limit In Every State appeared first on 24/7 Wall St.. Picture a mother who spent three decades paying down her mortgage. By 2028, when her doctor says she needs nursing home…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-11T22:41:20+00:00",
+   "tickers": []
+  },
+  {
+   "id": "cdd797bdd131",
+   "title": "Middle East Oil Flows Far From Normal Despite Signs Of Oversupply",
+   "link": "https://biztoc.com/x/c07f276dedc15671?ref=rss",
+   "summary": "Middle East Oil Flows Far From Normal Despite Signs Of Oversupply Authored by Tsvetana Paraskova via OilPrice, Middle Eastern crude exports have recovered to near pre-war levels, raising fears of an oil glut and pushing Brent down roughly 17% in five trading days. Record tanker rates and war…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-11T22:41:14+00:00",
    "tickers": []
   },
   {
@@ -513,6 +874,22 @@
    "published": "2026-11-11T22:29:56+00:00",
    "tickers": [
     "BLK"
+   ]
+  },
+  {
+   "id": "6ce20db246b1",
+   "title": "Jensen Huang said to have had relationship with Nvidia executive who reports to him: New York Times",
+   "link": "https://www.cnbc.com/video/2026/11/11/jensen-huang-said-to-have-had-relationship-with-nvidia-executive-who-reports-to-him-new-york-times.html",
+   "summary": "CNBC's Megan Cassella joins 'Fast Money' with a breaking report on Nvidia CEO Jensen Huang out of the New York Times.",
+   "article_text": "",
+   "source": "CNBC Investing",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-11-11T22:29:34+00:00",
+   "tickers": [
+    "NYT"
    ]
   },
   {
@@ -3627,7 +4004,7 @@
    "link": "https://www.prnewswire.com/news-releases/cardinal-health-board-of-directors-approves-quarterly-dividend-302936942.html",
    "summary": "DUBLIN, Ohio, Nov. 11, 2026 /PRNewswire/ -- Cardinal Health (NYSE: CAH) announced today that its Board of Directors approved its quarterly dividend of $0.5158 per share, out of the Company's capital surplus. The dividend will be payable on January 15, 2027 to shareholders of record at the...",
    "article_text": "",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "earnings",
    "sentiment": "positive",
@@ -8413,390 +8790,9 @@
    "domain": "biztoc.com",
    "published": "2026-11-11T19:54:01+00:00",
    "tickers": []
-  },
-  {
-   "id": "f015a551f41a",
-   "title": "Americans Fill Prescriptions Every Month, and $90,000 Across These 3 Drugmakers Pays $3,650 a Year",
-   "link": "https://biztoc.com/x/eba9b6e308c5e448?ref=rss",
-   "summary": "The post Americans Fill Prescriptions Every Month, and $90,000 Across These 3 Drugmakers Pays $3,650 a Year appeared first on 24/7 Wall St.. Pharmacy counters stay busy in every kind of market. Blood thinners, cancer drugs, and vaccines get refilled on schedule, and the companies that make them…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-11T19:53:49+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e8d69e923f28",
-   "title": "Evolus at Stifel 2026 Healthcare Conference: growth, pipeline in focus",
-   "link": "https://www.investing.com/news/transcripts/evolus-at-stifel-2026-healthcare-conference-growth-pipeline-in-focus-93CH-5019772",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-11T19:53:48+00:00",
-   "tickers": []
-  },
-  {
-   "id": "bdc4e68803dd",
-   "title": "The Trader Who Raised The Alarm On Nvidia Months Ago",
-   "link": "https://biztoc.com/x/d5f6971ba98ec085?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-11-11T19:53:46+00:00",
-   "tickers": []
-  },
-  {
-   "id": "725889c2c24e",
-   "title": "Trump Picks Palantir's Security Chief To Run CISA",
-   "link": "https://biztoc.com/x/f56b9faf95ea2c02?ref=rss",
-   "summary": "Trump Picks Palantir's Security Chief To Run CISA Authored by Owen Evans via The Epoch Times, The White House said on Monday it nominated Michael LoSapio to lead America's premier cyber defense agency. If confirmed by the Senate, LoSapio will take over from the Department of Homeland Security's…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-11T19:53:35+00:00",
-   "tickers": [
-    "PLTR"
-   ]
-  },
-  {
-   "id": "1f6fc0aa50ba",
-   "title": "Jack Henry at KBW fintech ecosystem conference: growth picks up",
-   "link": "https://www.investing.com/news/transcripts/jack-henry-at-kbw-fintech-ecosystem-conference-growth-picks-up-93CH-5019771",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-11T19:53:22+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e32326c78022",
-   "title": "Apollo at 2026 Wolfe Research Wealth Symposium: private markets push",
-   "link": "https://www.investing.com/news/transcripts/apollo-at-2026-wolfe-research-wealth-symposium-private-markets-push-93CH-5019770",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-11T19:53:09+00:00",
-   "tickers": [
-    "APO"
-   ]
-  },
-  {
-   "id": "c77892b3d538",
-   "title": "Flowserve at Baird 2026 Global Industrial Conference: margin plan builds",
-   "link": "https://www.investing.com/news/transcripts/flowserve-at-baird-2026-global-industrial-conference-margin-plan-builds-93CH-5019769",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-11T19:52:21+00:00",
-   "tickers": [
-    "FLS"
-   ]
-  },
-  {
-   "id": "d60872565e1a",
-   "title": "Argá Medtech Completes Enrollment of Paroxysmal AF Cohort in the COHERENT-AF Pivotal IDE Study",
-   "link": "https://www.prnewswire.com/news-releases/arga-medtech-completes-enrollment-of-paroxysmal-af-cohort-in-the-coherent-af-pivotal-ide-study-302936901.html",
-   "summary": "Prospective, multicenter study evaluates the Coherent Sine Burst Electroporation Ablation Platform, a sine wave-based pulsed field ablation technology, in drug-refractory atrial fibrillation; persistent AF cohort enrollment continues SAN DIEGO, Nov. 11, 2026 /PRNewswire/ -- Argá Medtech,...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-11-11T19:52:00+00:00",
-   "tickers": [
-    "COHR"
-   ]
-  },
-  {
-   "id": "e9d76f990f42",
-   "title": "GrayMar Environmental Services Expands Southeast Presence with Acquisition of Hull's Environmental Services Locations",
-   "link": "https://www.prnewswire.com/news-releases/graymar-environmental-services-expands-southeast-presence-with-acquisition-of-hulls-environmental-services-locations-302936899.html",
-   "summary": "Acquisition adds six locations across Florida, Georgia, and Tennessee to GrayMar's growing national footprint CHERRY HILL, N.J., Nov. 11, 2026 /PRNewswire/ -- GrayMar Environmental Services, LLC (\"GrayMar\"), a nationwide full-service provider of environmental, emergency response and...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "ma",
-   "sentiment": "positive",
-   "domain": "prnewswire.com",
-   "published": "2026-11-11T19:51:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "3aea188327b1",
-   "title": "Upbound Group Inc stock hits 52-week high at 25.31 USD",
-   "link": "https://www.investing.com/news/company-news/upbound-group-inc-stock-hits-52week-high-at-2531-usd-93CH-5019767",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-11T19:49:36+00:00",
-   "tickers": []
-  },
-  {
-   "id": "cff037eca95b",
-   "title": "Meren Energy Inc. (MER:CA) Q3 2026 Earnings Call Transcript",
-   "link": "https://seekingalpha.com/article/4966656-meren-energy-inc-mer-ca-q3-2026-earnings-call-transcript?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-11T19:49:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d0b6b8e73e2f",
-   "title": "BIDU UPCOMING DEADLINE: Faruqi & Faruqi, LLP Reminds Baidu (NASDAQ: BIDU) Investors of Securities Class Action Lawsuit Deadline on November 13, 2026",
-   "link": "https://www.prnewswire.com/news-releases/bidu-upcoming-deadline-faruqi--faruqi-llp-reminds-baidu-nasdaq-bidu-investors-of-securities-class-action-lawsuit-deadline-on-november-13-2026-302936779.html",
-   "summary": "Faruqi & Faruqi, LLP Securities Litigation Partner James (Josh) Wilson Encourages Investors Who Suffered Losses In Baidu To Contact Him Directly To Discuss Their Options If you purchased or acquired securities in Baidu between November 18, 2025 and August 17, 2026 and would like to...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "prnewswire.com",
-   "published": "2026-11-11T19:49:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e7489e42d9f7",
-   "title": "Innoviz Technologies Ltd. (INVZ) Q3 2026 Earnings Call Transcript",
-   "link": "https://seekingalpha.com/article/4966529-innoviz-technologies-ltd-invz-q3-2026-earnings-call-transcript?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-11T19:48:55+00:00",
-   "tickers": []
-  },
-  {
-   "id": "67a8db8794b1",
-   "title": "JPMorgan names top Mid & Small Cap stock pick",
-   "link": "https://www.investing.com/news/stock-market-news/jpmorgan-names-top-mid--small-cap-stock-pick-5019766",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-11-11T19:48:32+00:00",
-   "tickers": [
-    "JIRE"
-   ]
-  },
-  {
-   "id": "26f1cbc2174e",
-   "title": "Stocks climb as CoreWeave results ease AI spending concerns",
-   "link": "https://www.investing.com/news/economy-news/sp-500-nasdaq-futures-rise-after-coreweave-soothes-ai-spending-fears-5018288",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-11-11T19:48:23+00:00",
-   "tickers": [
-    "CRWV"
-   ]
-  },
-  {
-   "id": "f16fa6561749",
-   "title": "Alphabet's DeepMind unveils new AlphaGenome 2 model aimed at reading DNA cells",
-   "link": "https://seekingalpha.com/news/4670939-alphabets-deepmind-unveils-new-alphagenome-2-model-aimed-at-reading-dna-cells?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-11T19:48:03+00:00",
-   "tickers": [
-    "GOOG",
-    "GOOGL"
-   ]
-  },
-  {
-   "id": "1c0da890e435",
-   "title": "Nomura considers selling its Laser Digital Crypto division - report",
-   "link": "https://seekingalpha.com/news/4670937-nomura-considers-selling-its-laser-digital-crypto-division---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-11T19:47:53+00:00",
-   "tickers": []
-  },
-  {
-   "id": "00b381a2f78c",
-   "title": "Ukraine Peace Talks Wrap With No Major Breakthroughs",
-   "link": "https://biztoc.com/x/f6f110f3e6019fea?ref=rss",
-   "summary": "The U.S.-brokered talks were the first negotiations between Ukraine and Russia since February. WSJ Correspondent Georgi ...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-11T19:47:28+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e3a81ee18384",
-   "title": "Scaling AI Governance: Insights from Microsoft, Vanguard, and Elevance Health",
-   "link": "https://biztoc.com/x/96f21008b6380f45?ref=rss",
-   "summary": "As organizations embed more AI tools across their operations, they need to update their approach to governance, both to improve ...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-11T19:47:26+00:00",
-   "tickers": [
-    "ELV",
-    "MSFT",
-    "VYMI"
-   ]
-  },
-  {
-   "id": "2b604fa4ba3c",
-   "title": "‘We will get back to the rule of law’: Dem Rep. on stopping Trump’s vanity projects",
-   "link": "https://biztoc.com/x/839a4a20be490962?ref=rss",
-   "summary": "We will get back with American values, not with just rewarding the rich, not with just turning a blind eye to the grotesque corruption ...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-11T19:47:22+00:00",
-   "tickers": []
-  },
-  {
-   "id": "189b6485bb4f",
-   "title": "Costco Is Never Cheap, But This Is Special Dividend Euphoria (Downgrade)",
-   "link": "https://seekingalpha.com/article/4966627-costco-is-never-cheap-but-this-is-special-dividend-euphoria-downgrade?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-11T19:44:41+00:00",
-   "tickers": [
-    "COST"
-   ]
-  },
-  {
-   "id": "727834d6afe0",
-   "title": "Google rolls out Gemini AI voice assistant to Apple CarPlay dashboards",
-   "link": "https://www.investing.com/news/stock-market-news/google-rolls-out-gemini-ai-voice-assistant-to-apple-carplay-dashboards-5019761",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-11T19:43:40+00:00",
-   "tickers": [
-    "GOOGL",
-    "AAPL"
-   ]
-  },
-  {
-   "id": "d3c65c44e7e1",
-   "title": "Duolingo, Strava, and Ticketmaster Are All Caught Up in EU’s New Digital Fairness Rules",
-   "link": "https://biztoc.com/x/7049b04ad02ee366?ref=rss",
-   "summary": "The European Commission announced a sweeping set of updates to consumer law on Wednesday to protect European Union citizens from “harmful digital practices”—whether while online shopping, browsing social media, or doing their Duolingo lesson. Within the package, the Commission unveiled its Digital…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-11T19:42:10+00:00",
-   "tickers": [
-    "DUOL"
-   ]
-  },
-  {
-   "id": "462df682bc42",
-   "title": "Why Goldman Sachs is changing its Fed interest-rate forecast",
-   "link": "https://biztoc.com/x/31f09cd815af7ded?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "guidance",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-11T19:42:09+00:00",
-   "tickers": [
-    "GS"
-   ]
-  },
-  {
-   "id": "1b6ab50849b3",
-   "title": "3 Stocks I’m Buying As The Huang Scandal Unfolds (NASDAQ:SMH)",
-   "link": "https://biztoc.com/x/33b9bc0037de2875?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-11-11T19:42:07+00:00",
-   "tickers": [
-    "SMH"
-   ]
   }
  ],
  "ticker_names": {
-  "JIRE": "JPMorgan International Research Enhanced Equity ETF",
   "VYMI": "Vanguard International High Dividend Yield ETF",
   "IGV": "iShares Expanded Tech-Software Sector ETF",
   "JEPQ": "JPMorgan Nasdaq Equity Premium Income ETF",
@@ -8808,10 +8804,7 @@
   "PRAX": "Praxis Precision Medicines",
   "JEF": "Jefferies Financial Group",
   "PFG": "Principal Financial Group",
-  "APO": "Apollo Global Management",
-  "SMH": "VanEck Semiconductor ETF",
   "BMRN": "BioMarin Pharmaceutical",
-  "GS": "The Goldman Sachs Group",
   "JKHY": "Jack Henry & Associates",
   "RJF": "Raymond James Financial",
   "AMD": "Advanced Micro Devices",
@@ -8819,7 +8812,6 @@
   "COF": "Capital One Financial",
   "KNSL": "Kinsale Capital Group",
   "LHX": "L3Harris Technologies",
-  "PLTR": "Palantir Technologies",
   "BLDR": "Builders FirstSource",
   "BMY": "Bristol-Myers Squibb",
   "EGP": "EastGroup Properties",
@@ -8834,6 +8826,7 @@
   "GFL": "GFL Environmental",
   "LITE": "Lumentum Holdings",
   "MU": "Micron Technology",
+  "POWL": "Powell Industries",
   "RIVN": "Rivian Automotive",
   "AXP": "American Express",
   "BKNG": "Booking Holdings",
@@ -8843,7 +8836,6 @@
   "CAH": "Cardinal Health",
   "CI": "The Cigna Group",
   "COIN": "Coinbase Global",
-  "ELV": "Elevance Health",
   "GH": "Guardant Health",
   "PH": "Parker-Hannifin",
   "PWR": "Quanta Services",
@@ -8868,9 +8860,9 @@
   "TSLA": "Supercharger",
   "NVDA": "Grace Hopper",
   "CAT": "Caterpillar",
+  "DLTR": "Dollar Tree",
   "XOM": "Exxon Mobil",
   "YUM": "Yum! Brands",
-  "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
   "DDOG": "Datadog Inc",
   "BX": "Blackstone",
@@ -8888,7 +8880,6 @@
   "NWSA": "News Corp",
   "AZO": "AutoZone",
   "COHR": "Coherent",
-  "DUOL": "Duolingo",
   "EVR": "Evercore",
   "EXEL": "Exelixis",
   "GOOG": "Alphabet",
