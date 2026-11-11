@@ -1,15 +1,47 @@
 {
- "generated": "2026-11-11T23:52:04.400340+00:00",
+ "generated": "2026-11-11T23:58:33.802982+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "1417e040defa",
+   "title": "Sempra Declares Common Dividend",
+   "link": "https://www.prnewswire.com/news-releases/sempra-declares-common-dividend-302937057.html",
+   "summary": "SAN DIEGO, Nov. 11, 2026 /PRNewswire/ -- Sempra (NYSE: SRE) today announced that its board of directors has declared a $0.6575 per share quarterly dividend on the company's common stock, which is payable Jan. 15, 2027, to common stock shareholders of record at the close of business on Dec....",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "prnewswire.com",
+   "published": "2026-11-11T23:56:00+00:00",
+   "tickers": [
+    "SRE"
+   ]
+  },
+  {
+   "id": "70485addfc72",
+   "title": "CoreWeave Earnings Alleviate Some AI Spending Fears",
+   "link": "https://seekingalpha.com/article/4966723-coreweave-earnings-alleviate-some-ai-spending-fears?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-11T23:55:00+00:00",
+   "tickers": [
+    "CRWV"
+   ]
+  },
   {
    "id": "3ff87b95624e",
    "title": "Ingram Micro Holding Set to Join S&P SmallCap 600",
    "link": "https://www.prnewswire.com/news-releases/ingram-micro-holding-set-to-join-sp-smallcap-600-302937055.html",
    "summary": "NEW YORK, Nov. 11, 2026 /PRNewswire/ -- Ingram Micro Holding Corp. (NYSE: INGM) will replace Pacira BioSciences Inc. (NASD: PCRX) in the S&P SmallCap 600 effective prior to the opening of trading on Tuesday, November 17. S&P 500 constituent Viatris Inc. (NASD: VTRS) is acquiring Pacira...",
    "article_text": "",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -17,6 +49,52 @@
    "published": "2026-11-11T23:51:00+00:00",
    "tickers": [
     "VTRS"
+   ]
+  },
+  {
+   "id": "7b8cd9f092ad",
+   "title": "OTP Bank Nyrt. (OTPBF) Q3 2026 Earnings Call Transcript",
+   "link": "https://seekingalpha.com/article/4966562-otp-bank-nyrt-otpbf-q3-2026-earnings-call-transcript?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-11T23:48:57+00:00",
+   "tickers": []
+  },
+  {
+   "id": "6ef422c2bf99",
+   "title": "Nvidia reportedly preparing to oust CEO Huang after alleged affairs with spy, Nvidia exec",
+   "link": "https://biztoc.com/x/b48d3ac77e4fa2ef?ref=rss",
+   "summary": "CEO Jensen Huang was allegedly involved in a second extramarital affair. The company's board is reportedly meeting to determine if it will oust Huang as chief executive, the Wall Street Journal reports. Nvidia stock fell in after-hours trading following the report. According to The New York Times,…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-11T23:45:17+00:00",
+   "tickers": [
+    "NYT"
+   ]
+  },
+  {
+   "id": "90d6fc954b2a",
+   "title": "Target's shoppers are back, but BofA says the stock got ahead of itself",
+   "link": "https://biztoc.com/x/8040fc11572b2565?ref=rss",
+   "summary": "Target finally has shoppers' attention again. Pokémon card drops, a new in-house beauty department and price cuts on more than 10,000 items have pulled people back into its red-and-khaki aisles. Sales are growing again after two years of declines. Bank of America isn't buying the stock, though. In…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-11T23:45:04+00:00",
+   "tickers": [
+    "BAC"
    ]
   },
   {
@@ -7736,14 +7814,14 @@
   },
   {
    "id": "f58fb685c1bf",
-   "title": "Bloom Energy’s stock is rallying as data-center jitters subside",
+   "title": "Bloom Energy’s stock rallies as data-center jitters subside",
    "link": "https://www.marketwatch.com/story/bloom-energys-stock-is-soaring-as-data-center-jitters-subside-5fda5689?mod=mw_rss_topstories",
    "summary": "CoreWeave’s upbeat outlook helped calm nerves around the energy company.",
    "article_text": "",
    "source": "MarketWatch",
    "category": "markets",
    "type": "markets",
-   "sentiment": "neutral",
+   "sentiment": "positive",
    "domain": "marketwatch.com",
    "published": "2026-11-11T21:14:00+00:00",
    "tickers": [
@@ -8755,83 +8833,6 @@
    "tickers": [
     "OLN"
    ]
-  },
-  {
-   "id": "725bc0618629",
-   "title": "OptimizeRx Reports Third Quarter 2026 Financial Results and Updates Fiscal Year 2026 Guidance",
-   "link": "https://www.globenewswire.com/news-release/2026/11/11/3401114/0/en/optimizerx-reports-third-quarter-2026-financial-results-and-updates-fiscal-year-2026-guidance.html",
-   "summary": "WALTHAM, Mass., Nov. 11, 2026 (GLOBE NEWSWIRE) -- OptimizeRx Corp. (the “Company”) (Nasdaq: OPRX), a leading provider of healthcare technology solutions helping life sciences companies reach and engage healthcare professionals (HCPs) and patients, today announced results for the three months ended September 30, 2026.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-11-11T21:01:00+00:00",
-   "tickers": [
-    "NDAQ"
-   ]
-  },
-  {
-   "id": "99fd20d92927",
-   "title": "Kiniksa Pharmaceuticals to Present at Jefferies Global Healthcare Conference in London",
-   "link": "https://www.globenewswire.com/news-release/2026/11/11/3401115/0/en/kiniksa-pharmaceuticals-to-present-at-jefferies-global-healthcare-conference-in-london.html",
-   "summary": "LONDON, Nov. 11, 2026 (GLOBE NEWSWIRE) -- Kiniksa Pharmaceuticals International, plc (Nasdaq: KNSA) today announced that management will participate in a fireside chat at the Jefferies Global Healthcare Conference in London on Monday, November 16, 2026 at 11:00 a.m. Greenwich Mean Time (6:00 a.m. Eastern Time).",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-11-11T21:01:00+00:00",
-   "tickers": [
-    "JEF",
-    "NDAQ"
-   ]
-  },
-  {
-   "id": "d134c1f5edae",
-   "title": "Lakefront Biotherapeutics Reports Nine Months 2026 Financial Results and Provides Business Update",
-   "link": "https://www.globenewswire.com/news-release/2026/11/11/3401116/0/en/lakefront-biotherapeutics-reports-nine-months-2026-financial-results-and-provides-business-update.html",
-   "summary": "Gamgertamig poster accepted for presentation at the 2026 ASH1 Annual Meeting, featuring data from ongoing Phase 1b studies that suggest potential to retain remission after B cell reconstitution, maintained in the absence of background therapy for autoimmune cytopenias, consistent with an “immune reset”",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-11-11T21:01:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "07bbfb3c326d",
-   "title": "Lakefront Biotherapeutics rapporteert financiële resultaten over de eerste negen maanden van 2026 en geeft bedrijfsupdate",
-   "link": "https://www.globenewswire.com/news-release/2026/11/11/3401116/0/nl/lakefront-biotherapeutics-rapporteert-financi%C3%ABle-resultaten-over-de-eerste-negen-maanden-van-2026-en-geeft-bedrijfsupdate.html",
-   "summary": "Gamgertamig-poster geaccepteerd voor presentatie op de ASH1 Annual Meeting 2026, met gegevens uit lopende fase 1b-studies die wijzen op het potentieel om remissie te behouden na B-celreconstitutie, ook in afwezigheid van achtergrondtherapie voor auto-immuuncytopenieën, consistent met een “immune reset”",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-11-11T21:01:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "94b5d41453f2",
-   "title": "Travere at Stifel 2026 Healthcare Conference: growth meets competition",
-   "link": "https://www.investing.com/news/transcripts/travere-at-stifel-2026-healthcare-conference-growth-meets-competition-93CH-5019826",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-11T21:00:55+00:00",
-   "tickers": [
-    "TVTX"
-   ]
   }
  ],
  "ticker_names": {
@@ -8860,7 +8861,6 @@
   "BLDR": "Builders FirstSource",
   "BMY": "Bristol-Myers Squibb",
   "EGP": "EastGroup Properties",
-  "TVTX": "Travere Therapeutics",
   "VOO": "Vanguard S&P 500 ETF",
   "VOYG": "Voyager Technologies",
   "ABT": "Abbott Laboratories",
@@ -8881,6 +8881,7 @@
   "NVO": "Novo Nordisk A/S",
   "ANET": "Arista Networks",
   "ASTS": "AST SpaceMobile",
+  "BAC": "Bank of America",
   "CAH": "Cardinal Health",
   "CI": "The Cigna Group",
   "GH": "Guardant Health",
@@ -8941,6 +8942,7 @@
   "NDAQ": "Nasdaq",
   "PFE": "Pfizer",
   "SPCX": "SpaceX",
+  "SRE": "Sempra",
   "DOV": "Dover",
   "INTC": "Intel",
   "KEX": "Kirby",
