@@ -1,8 +1,41 @@
 {
- "generated": "2026-11-12T09:53:29.242315+00:00",
+ "generated": "2026-11-12T09:59:15.634056+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "17e1033e5980",
+   "title": "PRU AGM Webcast",
+   "link": "https://www.globenewswire.com/news-release/2026/11/12/3401298/0/en/pru-agm-webcast.html",
+   "summary": "Perth, Western Australia, Nov. 12, 2026 (GLOBE NEWSWIRE) -- 2026 ANNUAL GENERAL MEETING WEBCAST DETAILS",
+   "article_text": "",
+   "source": "GlobeNewswire",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "globenewswire.com",
+   "published": "2026-11-12T09:56:00+00:00",
+   "tickers": [
+    "PRU"
+   ]
+  },
+  {
+   "id": "451a91f4b3ba",
+   "title": "Chevron Vs. ExxonMobil: Buy The Peace, Not The War Premium",
+   "link": "https://seekingalpha.com/article/4966854-chevron-vs-exxonmobil-buy-the-peace-not-the-war-premium?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-12T09:55:52+00:00",
+   "tickers": [
+    "XOM",
+    "CVX"
+   ]
+  },
   {
    "id": "d93a2b1c574e",
    "title": "Nvidia stock falls 6% as investors await Jensen Huang’s fate",
@@ -1988,7 +2021,7 @@
    "link": "https://www.prnewswire.com/news-releases/allegiant-and-bank-of-america-extend-co-branded-credit-card-partnership-302936945.html",
    "summary": "Long-term agreement builds on a decade of success and positions the Allways Rewards Visa® card for continued growth and enhanced customer value. LAS VEGAS, Nov. 12, 2026 /PRNewswire/ -- Allegiant Travel Company (NASDAQ: ALGT) and Bank of America today announced a long-term extension of...",
    "article_text": "",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -8668,38 +8701,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-11-12T06:00:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "6be91bec2bc9",
-   "title": "Lazard Developing Markets Equity Portfolio Q3 2026 Commentary",
-   "link": "https://seekingalpha.com/article/4966807-lazard-developing-markets-equity-portfolio-q3-2026-commentary?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-12T06:00:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "cd4dcb2ff8a3",
-   "title": "GIGABYTE stellt den AI TOP AERO auf Basis von NVIDIA RTX Spark™ vor",
-   "link": "https://www.prnewswire.com/news-releases/gigabyte-stellt-den-ai-top-aero-auf-basis-von-nvidia-rtx-spark-vor-302937343.html",
-   "summary": "Kompaktes Personal AI Studio für lokale KI, RTX-beschleunigte Content-Erstellung und Gaming unter Windows 11 – mit bis zu 128 GB Unified Memory und GIGABYTE-Kühldesign TAIPEH, 12. November 2026 /PRNewswire/ -- GIGABYTE hat heute den AI TOP AERO angekündigt. Der neue KI-Desktop-PC auf...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "positive",
-   "domain": "prnewswire.com",
-   "published": "2026-11-12T06:00:00+00:00",
-   "tickers": [
-    "NVDA",
-    "MSFT",
-    "RTX"
-   ]
   }
  ],
  "ticker_names": {
@@ -8724,6 +8725,7 @@
   "PLTR": "Palantir Technologies",
   "BIO": "Bio-Rad Laboratories",
   "CRWD": "CrowdStrike Holdings",
+  "PRU": "Prudential Financial",
   "AKAM": "Akamai Technologies",
   "STM": "STMicroelectronics",
   "TYL": "Tyler Technologies",
@@ -8782,7 +8784,7 @@
   "CE": "Celanese",
   "EXEL": "Exelixis",
   "GOOG": "Alphabet",
-  "RTX": "Raytheon",
+  "CVX": "Chevron",
   "ETR": "Entergy",
   "LGN": "Legence",
   "MRK": "Merck &",
