@@ -1,8 +1,139 @@
 {
- "generated": "2026-11-13T16:36:52.838073+00:00",
+ "generated": "2026-11-13T16:43:11.868917+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "83a19125b3c6",
+   "title": "How Apple became the safe ‘Costco’ of tech. Bernstein says keep buying",
+   "link": "https://www.cnbc.com/2026/11/13/how-apple-became-the-safe-costco-of-tech-bernstein-says-keep-buying.html",
+   "summary": "Apple's safe haven status has driven its multiples to all-time highs, bringing it in line with some high quality consumer stocks",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-11-13T16:41:27+00:00",
+   "tickers": [
+    "COST",
+    "AAPL"
+   ]
+  },
+  {
+   "id": "dcc81e9fa4e1",
+   "title": "Porter Capital Launches Term Loans and Lines of Credit",
+   "link": "https://www.prnewswire.com/news-releases/porter-capital-launches-term-loans-and-lines-of-credit-302939136.html",
+   "summary": "Birmingham-based commercial finance company, with more than $15 billion funded over 35 years, expands beyond invoice factoring and asset-based lending to give growing businesses more ways to access capital BIRMINGHAM, Ala., Nov. 13, 2026 /PRNewswire/ -- Porter Capital, a commercial...",
+   "article_text": "",
+   "source": "PR Newswire Fin",
+   "category": "press",
+   "type": "press",
+   "sentiment": "positive",
+   "domain": "prnewswire.com",
+   "published": "2026-11-13T16:40:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "4337bd6f78f3",
+   "title": "Microsoft says email delivery and service availability 'improving' across more infrastructure",
+   "link": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+   "summary": "A Microsoft outage on Thursday and Friday affected users of services like Outlook, Teams and 365.",
+   "article_text": "Microsoft begins restoring Outlook and other 365 services Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Key Points A Microsoft outage on Thursday and Friday affected users of services like Outlook, Teams and 365. The company said it did not suspect malicious activity was the cause and it was attempting to restore operations. Microsoft said in a 10:30 a.m. ET update that it was seeing \"encouraging recovery progress\" and that email delivery performance was improving. In this article MSFT Follow your favorite stocks CREATE FREE ACCOUNT watch now VIDEO 2:03 02:03 Widespread Microsoft outage stretches into second day Squawk Box A growing number of Microsoft users regained access to email and other services on Friday amid one of the company's biggest-ever server issues that lasted more than 20 hours, causing disruption to millions of its customers. Engineers scrambled to solve connectivity problems that began shortly before 1 p.m. ET on Thursday. Email and calendar service Outlook, along with multiple Microsoft 365 services such as Sharepoint and Copilot, were largely down during the morning hours in the U.S. on Friday and throughout the Asian and European business days. Numerous external services that connect with Microsoft products were also hit. In an update around 10:30 a.m. ET, Microsoft noted \"encouraging recovery progress\" and said that \"service availability and email delivery performance [was] improving across a growing portion of affected infrastructure\" as Outlook and other Microsoft 365 tools began to come back online. In an earlier update Friday morning, Microsoft said that email queues were \"approaching normal levels,\" but that intermittent issues were expected as recovery efforts continue. It had previously given updates by region, with Asia Pacific services among the first to start normalizing. Read more CNBC tech news Nvidia live updates: CEO Jensen Huang resigns, Colette Kress named interim chief CoreWeave CEO Intrator tells CNBC he has canceled his planned share sale program Meta head of infrastructure will leave and be succeeded by former AWS cloud exec Amazon’s Ring unveils flying drone and robot to patrol homes and businesses Engineering teams have been taking affected systems offline for fixes and bringing them back online in stages. They are prioritizing efforts to preserve emails delayed during the recovery process and reduce email queues and backlogs, extending the timeout window, whereby delayed emails continue to attempt delivery, to 48 hours to help protect messages. Microsoft says it has not detected any malicious activity causing the outage, which it initially blamed on a traffic surge in part of its infrastructure and issues with a component responsible for processing server health. The company said in its initial updates on Thursday that the connectivity problems related to infrastructure \"elevated load across multiple regions,\" caused by a \"number of servers being unexpectedly unavailable; straining the remaining infrastructure.\" Some servers were failing automated health checks, it said. Microsoft shares traded largely flat Friday. Governments and businesses review impact Governments and businesses in Asia-Pacific and Europe said they were monitoring the situation, which was causing widespread disruption. The U.K.'s National Health Service said the outage was affecting some of its services but that patients should attend appointments as normal. Calls \"may be subject to long waits\" as a result of disruption to the organization, a hospital group serving South West London and the English county of Surrey said on X. Earnings for Swiss luxury goods giant Richemont were slightly delayed on Friday due to the outage. Electric truck maker Workhorse Group, which was expected to report third-quarter results on Nov. 12, rescheduled the release to Nov. 16, citing business disruptions caused by the global Microsoft outage. Air India said it had \"temporarily rerouted\" emails so it could continue to receive customer messages, adding that its flight operations were not affected. A sign on the Microsoft campus in Redmond, Washington, US, Oct. 26, 2026. David Ryder | Reuters Australian Home Affairs and Cyber Security Minister Tony Burke said in a press conference that Microsoft \"believe they are dealing in some ways similar to what we saw with respect to CrowdStrike where there is an update that has gone awry,\" Reuters reported. A fault with an update issued by cybersecurity company CrowdStrike caused one of the world's biggest IT system outages in 2024 , hitting airlines, banks and more. Microsoft reported in 2025 that Copilot, its collection of AI assistants and tools, had more than 100 million monthly active users. The incident highlights a business \"resilience and dependency issue that has been decades in the making,\" James Owen, managing partner of Digital Risks at consultancy Control Risks, said by phone. \"We have become, organizationally in the private sector and more broadly, increasingly dependent on a smaller segment of technology and infrastructure as critical to daily life and business activities.\" \"Organizations are becoming more aware through a geopolitical lens about what technologies they adopt, whether their services are provided by firms in the U.S., or China, or elsewhere, but this shows the importance of proper recovery planning in the case of an IT outage. That could be manual backups, protocols that do not require internet connection, investing in diverse suppliers and crisis management planning rehearsals,\" he said. Amazon Web Services and Google users also reported outages on the site on Thursday. Amazon wrote on X that services were \"operating normally\" and an \"unrelated disruption elsewhere on the internet is prompting some inaccurate news reports.\" The company referred users to its health dashboard for \"accurate data.\" At 4 p.m. ET Thursday, Microsoft said it had \"validated an alternative service health check method\" that brought some affected servers back online. \"We're now applying this change more broadly,\" Microsoft wrote. \"We're also preparing automated recovery systems to continually detect and restart unresponsive servers, to maintain service stability while this change progresses.\" Read more CNBC tech news Nvidia live updates: CEO Jensen Huang resigns, Colette Kress named interim chief CoreWeave CEO Intrator tells CNBC he has canceled his planned share sale program Meta head of infrastructure will leave and be succeeded by former AWS cloud exec Amazon’s Ring unveils flying drone and robot to patrol homes and businesses watch now VIDEO 2:27 02:27 Microsoft outage hits hundreds of millions, CNBC anchors can't read your emails Squawk Box Europe Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-11-13T16:38:33+00:00",
+   "tickers": [
+    "MSFT"
+   ]
+  },
+  {
+   "id": "2e9f13951384",
+   "title": "Betterness Expands Seed Round to $3.5 Million to Build Neighborhood Health Networks in Miami",
+   "link": "https://www.prnewswire.com/news-releases/betterness-expands-seed-round-to-3-5-million-to-build-neighborhood-health-networks-in-miami-302938694.html",
+   "summary": "The first network launches at Miami Worldcenter on Nov. 15 with more than 30 local businesses, a free member app and the software those businesses run on. MIAMI, Nov. 13, 2026 /PRNewswire/ -- Betterness, Inc., which builds neighborhood health networks that connect people with the gyms,...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "positive",
+   "domain": "prnewswire.com",
+   "published": "2026-11-13T16:38:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "8fccd73563c8",
+   "title": "8-K - VOLKSWAGEN AUTO LEASE TRUST 2026-C (0002161311) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/2161311/000110465926126761/0001104659-26-126761-index.htm",
+   "summary": "Filed: 2026-11-13 AccNo: 0001104659-26-126761 Size: 77 KB Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
+   "article_text": "",
+   "source": "SEC 8-K Filings",
+   "category": "filings",
+   "type": "8k",
+   "sentiment": "neutral",
+   "domain": "sec.gov",
+   "published": "2026-11-13T16:37:46+00:00",
+   "tickers": []
+  },
+  {
+   "id": "7db4b3d245e6",
+   "title": "8-K - VOLKSWAGEN AUTO LEASE/LOAN UNDERWRITTEN FUNDING, LLC (0001182534) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/1182534/000110465926126761/0001104659-26-126761-index.htm",
+   "summary": "Filed: 2026-11-13 AccNo: 0001104659-26-126761 Size: 77 KB Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
+   "article_text": "",
+   "source": "SEC 8-K Filings",
+   "category": "filings",
+   "type": "8k",
+   "sentiment": "neutral",
+   "domain": "sec.gov",
+   "published": "2026-11-13T16:37:46+00:00",
+   "tickers": []
+  },
+  {
+   "id": "098168721dcb",
+   "title": "Silicon Valley Start-Ups Face a Future Without Jensen Huang’s Money",
+   "link": "https://www.nytimes.com/2026/11/13/technology/jensen-huang-silicon-valley-start-ups.html",
+   "summary": "Mr. Huang championed start-ups, with Nvidia holding $48 billion worth of stakes in 229 private companies, including OpenAI and Anthropic, at the end of July.",
+   "article_text": "",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-11-13T16:36:28+00:00",
+   "tickers": []
+  },
+  {
+   "id": "4c4911f14edc",
+   "title": "8-K - VOLKSWAGEN AUTO LEASE TRUST 2026-C (0002161311) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/2161311/000110465926126756/0001104659-26-126756-index.htm",
+   "summary": "Filed: 2026-11-13 AccNo: 0001104659-26-126756 Size: 2 MB Item 1.01: Entry into a Material Definitive Agreement Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
+   "article_text": "",
+   "source": "SEC 8-K Filings",
+   "category": "filings",
+   "type": "8k",
+   "sentiment": "neutral",
+   "domain": "sec.gov",
+   "published": "2026-11-13T16:36:24+00:00",
+   "tickers": []
+  },
+  {
+   "id": "34c891640df0",
+   "title": "8-K - VOLKSWAGEN AUTO LEASE/LOAN UNDERWRITTEN FUNDING, LLC (0001182534) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/1182534/000110465926126756/0001104659-26-126756-index.htm",
+   "summary": "Filed: 2026-11-13 AccNo: 0001104659-26-126756 Size: 2 MB Item 1.01: Entry into a Material Definitive Agreement Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
+   "article_text": "",
+   "source": "SEC 8-K Filings",
+   "category": "filings",
+   "type": "8k",
+   "sentiment": "neutral",
+   "domain": "sec.gov",
+   "published": "2026-11-13T16:36:24+00:00",
+   "tickers": []
+  },
   {
    "id": "233361c4801b",
    "title": "Nasdaq falls on Friday as Nvidia keeps sliding, but major averages are up for week: Live updates",
@@ -66,6 +197,76 @@
    "tickers": []
   },
   {
+   "id": "e2e9d1f3f96d",
+   "title": "Despite Nvidia’s Drop, Stocks Push Ahead",
+   "link": "https://www.nytimes.com/2026/11/13/business/nvidia-turmoil-stock-market.html",
+   "summary": "A drop in Nvidia shares after the ouster of the company’s chief executive has not spread to the rest of the market, as stocks have held their ground broadly.",
+   "article_text": "",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "negative",
+   "domain": "nytimes.com",
+   "published": "2026-11-13T16:34:51+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b6c213a15ca4",
+   "title": "Xenetic Biosciences GAAP EPS of -$0.72, revenue of $0.7M",
+   "link": "https://seekingalpha.com/news/4672524-xenetic-biosciences-gaap-eps-of-0_72-revenue-of-0_7m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-13T16:34:07+00:00",
+   "tickers": []
+  },
+  {
+   "id": "14fad5977187",
+   "title": "Angola aims to acquire 10% stake in De Beers under Anglo American's proposed exit",
+   "link": "https://seekingalpha.com/news/4672504-angola-aims-to-acquire-10-stake-in-de-beers-under-anglo-americans-proposed-exit?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-13T16:33:54+00:00",
+   "tickers": []
+  },
+  {
+   "id": "3b2c3a9b4f61",
+   "title": "Koil Energy Solutions GAAP EPS of $0.02, revenue of $10.3M",
+   "link": "https://seekingalpha.com/news/4672523-koil-energy-solutions-gaap-eps-of-0_02-revenue-of-10_3m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-13T16:33:28+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ea26fd039df8",
+   "title": "Rightmove gains on report activist Sachem Head pushing for sale",
+   "link": "https://seekingalpha.com/news/4672508-rightmove-gains-on-report-activist-sachem-head-pushing-for-sale?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-13T16:33:01+00:00",
+   "tickers": []
+  },
+  {
    "id": "fec5f295b02a",
    "title": "United Airlines Doesn’t Want AI Booking Your Flights — and It’s Taking Action",
    "link": "https://biztoc.com/x/89eca2a885ce5766?ref=rss",
@@ -80,6 +281,34 @@
    "tickers": [
     "BKNG"
    ]
+  },
+  {
+   "id": "8a78d8f338f8",
+   "title": "Anthropic’s IPO debut meets strong post-IPO S&P history",
+   "link": "https://seekingalpha.com/news/4672515-anthropics-ipo-debut-meets-strong-post-ipo-sp-history?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "offering",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-13T16:32:40+00:00",
+   "tickers": []
+  },
+  {
+   "id": "37066f373278",
+   "title": "Benitec GAAP EPS of -$0.26 beats by $0.03",
+   "link": "https://seekingalpha.com/news/4672522-benitec-gaap-eps-of-0_26-beats-by-0_03?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-13T16:32:32+00:00",
+   "tickers": []
   },
   {
    "id": "1c6fc4ab4f2d",
@@ -477,20 +706,33 @@
    ]
   },
   {
-   "id": "83a19125b3c6",
-   "title": "How Apple became the safe ‘Costco’ of tech. Bernstein says keep buying",
-   "link": "https://www.cnbc.com/2026/11/13/how-apple-became-the-safe-costco-of-tech-bernstein-says-keep-buying.html",
-   "summary": "Apple's safe haven status has driven its multiples to all-time highs, bringing it in line with some high quality consumer stocks",
+   "id": "10a27a490e78",
+   "title": "US Air Force conducts weapons test on B-21 Raider",
+   "link": "https://www.investing.com/news/stock-market-news/us-air-force-conducts-weapons-test-on-b21-raider-5026177",
+   "summary": "",
    "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
    "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-11-13T16:31:09+00:00",
+   "domain": "investing.com",
+   "published": "2026-11-13T16:31:13+00:00",
+   "tickers": []
+  },
+  {
+   "id": "baba45eec840",
+   "title": "Uber says US drivers’ license data stolen in data breach",
+   "link": "https://www.investing.com/news/stock-market-news/uber-says-us-drivers-license-data-stolen-in-data-breach-5026168",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-13T16:30:58+00:00",
    "tickers": [
-    "COST",
-    "AAPL"
+    "UBER"
    ]
   },
   {
@@ -510,6 +752,20 @@
    ]
   },
   {
+   "id": "7697948d85d3",
+   "title": "Fed’s Warsh to take stock of AI revolution as US public grows wary",
+   "link": "https://www.investing.com/news/economy-news/feds-warsh-to-take-stock-of-ai-revolution-as-us-public-grows-wary-5024808",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-13T16:30:29+00:00",
+   "tickers": []
+  },
+  {
    "id": "26ca6ed5822d",
    "title": "8-K - PGIM Private Credit Fund (0001923622) (Filer)",
    "link": "https://www.sec.gov/Archives/edgar/data/1923622/000119312526459747/0001193125-26-459747-index.htm",
@@ -521,6 +777,20 @@
    "sentiment": "neutral",
    "domain": "sec.gov",
    "published": "2026-11-13T16:30:13+00:00",
+   "tickers": []
+  },
+  {
+   "id": "2c0e50d6d8e9",
+   "title": "Denmark stocks higher at close of trade; OMX Copenhagen 20 up 0.28%",
+   "link": "https://www.investing.com/news/stock-market-news/denmark-stocks-higher-at-close-of-trade-omx-copenhagen-20-up-028-5026172",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-13T16:30:04+00:00",
    "tickers": []
   },
   {
@@ -698,6 +968,34 @@
    "tickers": []
   },
   {
+   "id": "bc66c2fc37d1",
+   "title": "Dallas Fed’s Logan calls for clearer split between liquidity tools and policy",
+   "link": "https://www.investing.com/news/economy-news/dallas-feds-logan-calls-for-clearer-split-between-liquidity-tools-and-policy-5026171",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-13T16:27:50+00:00",
+   "tickers": []
+  },
+  {
+   "id": "4a25d8d1bfb1",
+   "title": "OptimumBank Q3 2026 slides: record profit, 45% asset growth",
+   "link": "https://www.investing.com/news/company-news/optimumbank-q3-2026-slides-record-profit-45-asset-growth-93CH-5026170",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-13T16:26:22+00:00",
+   "tickers": []
+  },
+  {
    "id": "80395d1b5eca",
    "title": "SPAR Non-GAAP EPS of $0.01, revenue of $33.5M",
    "link": "https://seekingalpha.com/news/4672514-spar-non-gaap-eps-of-0_01-revenue-of-33_5m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -723,6 +1021,20 @@
    "sentiment": "negative",
    "domain": "seekingalpha.com",
    "published": "2026-11-13T16:25:54+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c46e5ddb228f",
+   "title": "Trump cannot withhold highway funding from New York, court says",
+   "link": "https://www.investing.com/news/economy-news/trump-cannot-withhold-highway-funding-from-new-york-court-says-5026169",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-13T16:25:18+00:00",
    "tickers": []
   },
   {
@@ -782,6 +1094,34 @@
    "tickers": []
   },
   {
+   "id": "995bd939a1d4",
+   "title": "Colette Kress, the CFO who challenged Huang’s bets, is Nvidia’s interim CEO",
+   "link": "https://www.investing.com/news/stock-market-news/colette-kress-the-cfo-who-challenged-huangs-bets-is-nvidias-interim-ceo-5023936",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-13T16:24:47+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c548cf6e8865",
+   "title": "Earnings call transcript: Inter posts strong Q3 2026 growth, shares rise 2.48%",
+   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-inter-posts-strong-q3-2026-growth-shares-rise-248-93CH-5026167",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-11-13T16:24:42+00:00",
+   "tickers": []
+  },
+  {
    "id": "890b1588e01f",
    "title": "HSBC downgrades Nvidia, says stock to struggle until new CEO named",
    "link": "https://www.cnbc.com/2026/11/13/hsbc-downgrades-nvidia-says-stock-to-struggle-until-new-ceo-named.html",
@@ -796,6 +1136,20 @@
    "tickers": [
     "HSBC"
    ]
+  },
+  {
+   "id": "fcce42f2e938",
+   "title": "Dollar set for biggest weekly gain in two months",
+   "link": "https://www.investing.com/news/economy-news/dollar-near-19month-high-on-fed-hike-bets-yen-tests-160-5023930",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-11-13T16:24:29+00:00",
+   "tickers": []
   },
   {
    "id": "c10bce8dab42",
@@ -855,6 +1209,20 @@
    "sentiment": "positive",
    "domain": "seekingalpha.com",
    "published": "2026-11-13T16:23:41+00:00",
+   "tickers": []
+  },
+  {
+   "id": "3b1885302f81",
+   "title": "Cohen & Co. (COHN) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/cohen-co-cohn-q3-2026-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-13T16:23:27+00:00",
    "tickers": []
   },
   {
@@ -928,6 +1296,20 @@
    "tickers": []
   },
   {
+   "id": "1fd800223d85",
+   "title": "Ultrapar (UGP) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/ultrapar-ugp-q3-2026-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-13T16:21:26+00:00",
+   "tickers": []
+  },
+  {
    "id": "14a170c73d0b",
    "title": "CCTV4 - Ausstrahlung der Sonderberichterstattung APEC: Shenzhen Engagement",
    "link": "https://www.prnewswire.com/news-releases/cctv4--ausstrahlung-der-sonderberichterstattung-apec-shenzhen-engagement-302939115.html",
@@ -941,6 +1323,22 @@
    "published": "2026-11-13T16:21:00+00:00",
    "tickers": [
     "FRO"
+   ]
+  },
+  {
+   "id": "e667331f2c35",
+   "title": "Tech Sector Weakness Once Again Weighing On Wall Street",
+   "link": "https://www.nasdaq.com/articles/tech-sector-weakness-once-again-weighing-wall-street",
+   "summary": "(RTTNews) - After an initial move to the upside, stocks have come under considerable pressure over the course of the trading session on Friday. The Nasdaq and S&P 500 have shown notable moves to the downside, while the narrower Dow is posting a more modest loss.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-13T16:20:54+00:00",
+   "tickers": [
+    "NDAQ"
    ]
   },
   {
@@ -1022,6 +1420,20 @@
    ]
   },
   {
+   "id": "d7aff2ff6b8f",
+   "title": "US urges owners of 720,000 BMW vehicles to park outside over fire risks",
+   "link": "https://www.investing.com/news/stock-market-news/us-urges-owners-of-720000-bmw-vehicles-to-park-outside-over-fire-risks-5025521",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-13T16:19:29+00:00",
+   "tickers": []
+  },
+  {
    "id": "795702010960",
    "title": "Microsoft vs. Meta: enterprise AI distribution against monetization speed",
    "link": "https://biztoc.com/x/f1dc4676072483ab?ref=rss",
@@ -1039,6 +1451,20 @@
    ]
   },
   {
+   "id": "d5b0b93bae45",
+   "title": "White House urges Congress to provide $30.1 billion for aviation reform",
+   "link": "https://www.investing.com/news/stock-market-news/white-house-urges-congress-to-provide-301-billion-for-aviation-reform-5024655",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-13T16:19:11+00:00",
+   "tickers": []
+  },
+  {
    "id": "3b0886102f34",
    "title": "CCTV4: Cobertura especial de la APEC: Se emitirá el programa Shenzhen Engagement",
    "link": "https://www.prnewswire.com/news-releases/cctv4-cobertura-especial-de-la-apec-se-emitira-el-programa-shenzhen-engagement-302939114.html",
@@ -1050,6 +1476,20 @@
    "sentiment": "neutral",
    "domain": "prnewswire.com",
    "published": "2026-11-13T16:19:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "76728e5b1f1c",
+   "title": "US Congress Democrats plot ’must-have’ victories in 2027",
+   "link": "https://www.investing.com/news/stock-market-news/us-congress-democrats-plot-musthave-victories-in-2027-5024779",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-13T16:18:58+00:00",
    "tickers": []
   },
   {
@@ -1127,6 +1567,20 @@
    "tickers": []
   },
   {
+   "id": "9610fef58d61",
+   "title": "Nvidia-led tech selloff drags Wall Street lower despite inflation relief",
+   "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-after-nvidia-ceo-exit-spooks-wall-st-5023780",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-11-13T16:17:34+00:00",
+   "tickers": []
+  },
+  {
    "id": "4032684001f8",
    "title": "Let’s talk about Jensen Huang’s many affairs!",
    "link": "https://biztoc.com/x/b55a216cbdb625c6?ref=rss",
@@ -1161,7 +1615,7 @@
    "title": "Stocks making the biggest moves Friday: Nvidia, Microsoft, Cerebras, Modine & more",
    "link": "https://www.cnbc.com/2026/11/13/stocks-moving-the-most-today-live-updates.html",
    "summary": "Follow along as CNBC highlights the biggest stock market moves of the day.",
-   "article_text": "Stocks moving the most today: Live updates Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu 22 October 2026, North Rhine-Westphalia, Cologne: Satya Nadella, CEO of Microsoft, speaks at the Microsoft AI Tour in Cologne. Microsoft is making a stop in Cologne as part of its promotional tour for artificial intelligence. Oliver Berg | Picture Alliance | Getty Images Microsoft shares were under pressure early Friday after an outage interrupted Outlook and other services. Nvidia, meanwhile, extended its recent slump as the chipmaker tried to rebound from another losing session after the exit of former CEO Jensen Huang. Follow along as CNBC highlights the biggest stock market moves of the day. 20 Min Ago Modine Manufacturing soars 25% on possible acquisition by Samsung Shares of Modine Manufacturing Company soared more than 25% after a Bloomberg report that Samsung Electronics is in talks to acquire the U.S. maker of thermal management equipment. The report cited people familiar with the matter. Modine shares had soared more than 29% in after-hours trading Thursday following the report, while Samsung was up 2%. Modine Manufacturing and Samsung Electronics shares in 2026 The companies are discussing a potential deal that could be reached in coming weeks, according to the report. Modine has a market cap of roughly $5.6 billion, according to LSEG data. Samsung acquired Germany's FläktGroup last year as part of an effort to expand its presence in the data center cooling market. — Deena Zaidi 25 Min Ago Mortgage real estate investment trusts tumble to 52-week lows as rates rise The iShares Mortgage Real Estate ETF (REM) dropped 1.3% on Friday after the latest wholesale inflation report sent Treasury yields higher. The fund hit its lowest level since April 2020 and was headed for its fourth straight daily loss. REM components trading at 52-week lows included Armour Residential , Dynex Capital , Starwood Property , Annaly Capital , AGNC Investment . REM year to date — Fred Imbert, Gina Francolla 1 Hour Ago Nvidia resumes decline Friday, bringing weekly loss to almost 14% Nvidia is down almost 14% this week Embattled Nvidia fell as much as 3.5% in early trading Friday, brining the weekly decline to almost 14% in the wake of Thursday's resignation of former CEO Jensen Huang. Nvidia has now fallen for six straight weeks, and hasn't posted a weekly advance since the week ending Oct. 2. Nvidia is down 31% duriing this six-week slump. — Scott Schnipper 2 Hours Ago Lowe's shares fall more than 1% after Stifel downgrade Customers shop at a Lowe's home improvement store on May 20, 2026 in Chicago, Illinois. Scott Olson | Getty Images Shares of the home improvement slid more than 1% after Stifel downgraded Lowe's Companies to sell from hold, ahead of next week's earnings report. \"We believe HD/LOW shares do not currently offer this required certainty with underappreciated challenges on three fronts: weaker F2H26 backdrop; FY27-FY28 operating margin pressure; structural issues including known DIY weakness, housing category uncertainty, and increased competition requiring investments to sustain long-term growth prospects,\" analyst Andrew Carter wrote on Thursday. \"Our HD/LOW FY28E adjusted EPS are -7%/-8% below consensus respectively.\" The analyst trimmed his price target to $190.00 from $195.00, representing a more than 16% fall from Thursday's close of $227.46. The stock is already down more than 5% this year. — Sarah Min 2 Hours Ago Broadcom shares decline 5% following Rothschild & Co. Redburn downgrade Shares for Broadcom fell 5% after Rothschild & Co. Redburn downgraded the global technology company to neutral from buy on Friday. AVGO \"Broadcom's alignment with Anthropic and OpenAI means the frontier labs need to establish sustained primacy over open models and become self-financing in short order,\" wrote Mike Harrison, an analyst at Rothschild & Co. Redburn. — Ananya Chetia 2 Hours Ago Domino's upgraded as Baird sees improving sales and franchisee profits Baird upgraded Domino's Pizza to outperform from neutral, raising its price target to $400, implying about 20% upside from Thursday's close. Domino's stock price \"Improving sales and franchisee economics should drive the stock,\" analyst David Tarantino wrote. The analyst expects a more disciplined promotional strategy to lift order values and same-store sales in 2027. Tarantino said Domino's has refined its promotions to generate more profitable sales. The firm raised its fourth-quarter U.S. same-store sales forecast to 1.5% from 1% and lifted its 2027 projection to roughly 2%. Easier comparisons, new menu items and efforts to attract more group-dining orders could provide additional support. — Deena Zaidi 2 Hours Ago Lowe's shares fall more than 1% after Stifel downgrade Customers shop at a Lowe's home improvement store on May 20, 2026 in Chicago, Illinois. Scott Olson | Getty Images Shares of the home improvement slid more than 1% after Stifel downgraded Lowe's Companies to sell from hold, ahead of next week's earnings report. \"We believe HD/LOW shares do not currently offer this required certainty with underappreciated challenges on three fronts: weaker F2H26 backdrop; FY27-FY28 operating margin pressure; structural issues including known DIY weakness, housing category uncertainty, and increased competition requiring investments to sustain long-term growth prospects,\" analyst Andrew Carter wrote on Thursday. \"Our HD/LOW FY28E adjusted EPS are -7%/-8% below consensus respectively.\" The analyst trimmed his price target to $190.00 from $195.00, representing a more than 16% fall from Thursday's close of $227.46. The stock is already down more than 5% this year. — Sarah Min 4 Hours Ago Palo Alto Networks shares gain following KeyBanc Capital Markets upgrade Shares for Palo Alto Networks were over 3.5% after KeyBanc Capital Markets upgraded the company to overweight from sector weight. Analyst Eric Heath said the artificial intelligence cybersecurity outperforms others in the industry and expects the company's security budgets to grow faster through 2027. \"Given this, along with our positive F1Q checks and the 20% pullback in shares the past month, we see an attractive entry point,\" Heath said. panw Health gave the artificial intelligence cybersecurity company a $380 price target, implying a 17.7% upside from Thursday's close. — Ananya Chetia 4 Hours Ago Shares for Applied Materials pop slightly after it beat earnings estimates Shares for Applied Materials gained slightly after the company beat on earnings per share and revenue against estimates on Thursday. The materials engineering and solution company reported fourth quarter earnings of $4.16 per share, excluding items, with revenues of $10.41 billion. Analysts polled by LSEG expected earnings per share of $4.05 on revenues of $10.30 billion. amat — Ananya Chetia 4 Hours Ago Cerebras rallies on Q3 beat Shares of Cerebras were up 16% after the AI play reported a surprise profit and better-than-expected revenue for the third quarter. The company earned an adjusted 12 cents per share. Analysts polled by LSEG expected a loss of 14 cents per share. Revenue of $231 million exceeded a forecast of $215 million. CBRS 5-day chart — Fred Imbert 4 Hours Ago Microsoft shares fall amid outage Shares for Microsoft shed more than 1% amid a widespread outage that interrupted the company's Outlook and Teams services , among others. mst — Ananya Chetia",
+   "article_text": "Stocks moving the most today: Live updates Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu 22 October 2026, North Rhine-Westphalia, Cologne: Satya Nadella, CEO of Microsoft, speaks at the Microsoft AI Tour in Cologne. Microsoft is making a stop in Cologne as part of its promotional tour for artificial intelligence. Oliver Berg | Picture Alliance | Getty Images Microsoft shares were under pressure early Friday after an outage interrupted Outlook and other services. Nvidia, meanwhile, extended its recent slump as the chipmaker tried to rebound from another losing session after the exit of former CEO Jensen Huang. Follow along as CNBC highlights the biggest stock market moves of the day. 27 Min Ago Modine Manufacturing soars 25% on possible acquisition by Samsung Shares of Modine Manufacturing Company soared more than 25% after a Bloomberg report that Samsung Electronics is in talks to acquire the U.S. maker of thermal management equipment. The report cited people familiar with the matter. Modine shares had soared more than 29% in after-hours trading Thursday following the report, while Samsung was up 2%. Modine Manufacturing and Samsung Electronics shares in 2026 The companies are discussing a potential deal that could be reached in coming weeks, according to the report. Modine has a market cap of roughly $5.6 billion, according to LSEG data. Samsung acquired Germany's FläktGroup last year as part of an effort to expand its presence in the data center cooling market. — Deena Zaidi 31 Min Ago Mortgage real estate investment trusts tumble to 52-week lows as rates rise The iShares Mortgage Real Estate ETF (REM) dropped 1.3% on Friday after the latest wholesale inflation report sent Treasury yields higher. The fund hit its lowest level since April 2020 and was headed for its fourth straight daily loss. REM components trading at 52-week lows included Armour Residential , Dynex Capital , Starwood Property , Annaly Capital , AGNC Investment . REM year to date — Fred Imbert, Gina Francolla 1 Hour Ago Nvidia resumes decline Friday, bringing weekly loss to almost 14% Nvidia is down almost 14% this week Embattled Nvidia fell as much as 3.5% in early trading Friday, brining the weekly decline to almost 14% in the wake of Thursday's resignation of former CEO Jensen Huang. Nvidia has now fallen for six straight weeks, and hasn't posted a weekly advance since the week ending Oct. 2. Nvidia is down 31% duriing this six-week slump. — Scott Schnipper 2 Hours Ago Lowe's shares fall more than 1% after Stifel downgrade Customers shop at a Lowe's home improvement store on May 20, 2026 in Chicago, Illinois. Scott Olson | Getty Images Shares of the home improvement slid more than 1% after Stifel downgraded Lowe's Companies to sell from hold, ahead of next week's earnings report. \"We believe HD/LOW shares do not currently offer this required certainty with underappreciated challenges on three fronts: weaker F2H26 backdrop; FY27-FY28 operating margin pressure; structural issues including known DIY weakness, housing category uncertainty, and increased competition requiring investments to sustain long-term growth prospects,\" analyst Andrew Carter wrote on Thursday. \"Our HD/LOW FY28E adjusted EPS are -7%/-8% below consensus respectively.\" The analyst trimmed his price target to $190.00 from $195.00, representing a more than 16% fall from Thursday's close of $227.46. The stock is already down more than 5% this year. — Sarah Min 2 Hours Ago Broadcom shares decline 5% following Rothschild & Co. Redburn downgrade Shares for Broadcom fell 5% after Rothschild & Co. Redburn downgraded the global technology company to neutral from buy on Friday. AVGO \"Broadcom's alignment with Anthropic and OpenAI means the frontier labs need to establish sustained primacy over open models and become self-financing in short order,\" wrote Mike Harrison, an analyst at Rothschild & Co. Redburn. — Ananya Chetia 2 Hours Ago Domino's upgraded as Baird sees improving sales and franchisee profits Baird upgraded Domino's Pizza to outperform from neutral, raising its price target to $400, implying about 20% upside from Thursday's close. Domino's stock price \"Improving sales and franchisee economics should drive the stock,\" analyst David Tarantino wrote. The analyst expects a more disciplined promotional strategy to lift order values and same-store sales in 2027. Tarantino said Domino's has refined its promotions to generate more profitable sales. The firm raised its fourth-quarter U.S. same-store sales forecast to 1.5% from 1% and lifted its 2027 projection to roughly 2%. Easier comparisons, new menu items and efforts to attract more group-dining orders could provide additional support. — Deena Zaidi 2 Hours Ago Lowe's shares fall more than 1% after Stifel downgrade Customers shop at a Lowe's home improvement store on May 20, 2026 in Chicago, Illinois. Scott Olson | Getty Images Shares of the home improvement slid more than 1% after Stifel downgraded Lowe's Companies to sell from hold, ahead of next week's earnings report. \"We believe HD/LOW shares do not currently offer this required certainty with underappreciated challenges on three fronts: weaker F2H26 backdrop; FY27-FY28 operating margin pressure; structural issues including known DIY weakness, housing category uncertainty, and increased competition requiring investments to sustain long-term growth prospects,\" analyst Andrew Carter wrote on Thursday. \"Our HD/LOW FY28E adjusted EPS are -7%/-8% below consensus respectively.\" The analyst trimmed his price target to $190.00 from $195.00, representing a more than 16% fall from Thursday's close of $227.46. The stock is already down more than 5% this year. — Sarah Min 4 Hours Ago Palo Alto Networks shares gain following KeyBanc Capital Markets upgrade Shares for Palo Alto Networks were over 3.5% after KeyBanc Capital Markets upgraded the company to overweight from sector weight. Analyst Eric Heath said the artificial intelligence cybersecurity outperforms others in the industry and expects the company's security budgets to grow faster through 2027. \"Given this, along with our positive F1Q checks and the 20% pullback in shares the past month, we see an attractive entry point,\" Heath said. panw Health gave the artificial intelligence cybersecurity company a $380 price target, implying a 17.7% upside from Thursday's close. — Ananya Chetia 4 Hours Ago Shares for Applied Materials pop slightly after it beat earnings estimates Shares for Applied Materials gained slightly after the company beat on earnings per share and revenue against estimates on Thursday. The materials engineering and solution company reported fourth quarter earnings of $4.16 per share, excluding items, with revenues of $10.41 billion. Analysts polled by LSEG expected earnings per share of $4.05 on revenues of $10.30 billion. amat — Ananya Chetia 4 Hours Ago Cerebras rallies on Q3 beat Shares of Cerebras were up 16% after the AI play reported a surprise profit and better-than-expected revenue for the third quarter. The company earned an adjusted 12 cents per share. Analysts polled by LSEG expected a loss of 14 cents per share. Revenue of $231 million exceeded a forecast of $215 million. CBRS 5-day chart — Fred Imbert 4 Hours Ago Microsoft shares fall amid outage Shares for Microsoft shed more than 1% amid a widespread outage that interrupted the company's Outlook and Teams services , among others. mst — Ananya Chetia",
    "source": "CNBC Top",
    "category": "markets",
    "type": "markets",
@@ -1674,6 +2128,50 @@
    "tickers": []
   },
   {
+   "id": "771053898fbf",
+   "title": "Lineage (LCTX) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/lineage-lctx-q3-2026-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-13T16:13:56+00:00",
+   "tickers": [
+    "LINE"
+   ]
+  },
+  {
+   "id": "1f70b0b90c5e",
+   "title": "Health In Tech (HIT) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/health-tech-hit-q3-2026-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-13T16:13:56+00:00",
+   "tickers": []
+  },
+  {
+   "id": "cfdb585af84b",
+   "title": "Dyadic (DYAI) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/dyadic-dyai-q3-2026-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-13T16:13:55+00:00",
+   "tickers": []
+  },
+  {
    "id": "bb9c83e405b0",
    "title": "Intercorp Financial Services: Soft Q3, But Clear Signs Of An Inflection Point",
    "link": "https://seekingalpha.com/article/4967864-intercorp-financial-services-soft-q3-but-clear-signs-of-an-inflection-point?source=feed_all_articles",
@@ -2107,20 +2605,6 @@
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
    "published": "2026-11-13T16:06:57+00:00",
-   "tickers": []
-  },
-  {
-   "id": "098168721dcb",
-   "title": "Silicon Valley Start-Ups Face a Future Without Jensen Huang’s Money",
-   "link": "https://www.nytimes.com/2026/11/13/technology/jensen-huang-silicon-valley-start-ups.html",
-   "summary": "Mr. Huang championed start-ups, with Nvidia holding $48 billion worth of stakes in 229 private companies, including OpenAI and Anthropic, at the end of July.",
-   "article_text": "",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "nytimes.com",
-   "published": "2026-11-13T16:06:55+00:00",
    "tickers": []
   },
   {
@@ -3497,9 +3981,9 @@
    "link": "https://www.nasdaq.com/articles/jpmorgan-ultra-short-income-etf-experiences-big-outflow",
    "summary": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the JPMorgan Ultra-Short Income ETF (Symbol: JPST) where we have detected an approximate $296.5 million dollar outflow -- that's a 0.7% decrease week ov",
    "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
    "sentiment": "neutral",
    "domain": "nasdaq.com",
    "published": "2026-11-13T15:49:02+00:00",
@@ -3528,9 +4012,9 @@
    "link": "https://www.nasdaq.com/articles/sphy-etf-inflow-alert",
    "summary": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the State Street SPDR Portfolio High Yield Bond ETF (Symbol: SPHY) where we have detected an approximate $323.3 million dollar inflow -- that's a 2.7% in",
    "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
    "sentiment": "neutral",
    "domain": "nasdaq.com",
    "published": "2026-11-13T15:48:59+00:00",
@@ -3545,9 +4029,9 @@
    "link": "https://www.nasdaq.com/articles/misl-ba-tdg-hei-etf-outflow-alert",
    "summary": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the First Trust Indxx Aerospace & Defense ETF (Symbol: MISL) where we have detected an approximate $157.8 million dollar outflow -- that's a 23.2% d",
    "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
    "sentiment": "neutral",
    "domain": "nasdaq.com",
    "published": "2026-11-13T15:48:58+00:00",
@@ -3635,9 +4119,9 @@
    "link": "https://www.nasdaq.com/articles/notable-etf-inflow-detected-itot-amzn-mu-amd",
    "summary": "Looking today at week-over-week shares outstanding changes among the universe of ETFs covered at ETF Channel, one standout is the iShares Core S&P Total U.S. Stock Market ETF (Symbol: ITOT) where we have detected an approximate $346.9 million dollar inflow -- that's a 0.4% i",
    "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
    "sentiment": "neutral",
    "domain": "nasdaq.com",
    "published": "2026-11-13T15:48:32+00:00",
@@ -4388,20 +4872,6 @@
    "sentiment": "positive",
    "domain": "nytimes.com",
    "published": "2026-11-13T15:45:40+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e2e9d1f3f96d",
-   "title": "Looking Past Nvidia Turmoil, Stocks Set for Best Week in Months",
-   "link": "https://www.nytimes.com/2026/11/13/business/nvidia-turmoil-stock-market.html",
-   "summary": "A drop in Nvidia shares after the ouster of the company’s chief executive has not spread to the rest of the market, as artificial intelligence stocks have broadly risen.",
-   "article_text": "",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "nytimes.com",
-   "published": "2026-11-13T15:45:36+00:00",
    "tickers": []
   },
   {
@@ -5991,22 +6461,6 @@
    ]
   },
   {
-   "id": "9610fef58d61",
-   "title": "Wall Street gives up opening gains, Nasdaq falls over 1.5% as Nvidia extends slide",
-   "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-after-nvidia-ceo-exit-spooks-wall-st-5023780",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-13T15:23:45+00:00",
-   "tickers": [
-    "NDAQ"
-   ]
-  },
-  {
    "id": "706ad69063cb",
    "title": "Biggest stock movers Friday: CBRS, MOD, and more",
    "link": "https://seekingalpha.com/news/4672196-biggest-stock-movers-friday-cbrs-flo-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -7059,22 +7513,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-11-13T15:10:31+00:00",
    "tickers": []
-  },
-  {
-   "id": "4337bd6f78f3",
-   "title": "Microsoft says email queues 'approaching normal levels' as Outlook issues persist",
-   "link": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
-   "summary": "A Microsoft outage on Thursday and Friday affected users of services like Outlook, Teams and 365.",
-   "article_text": "Microsoft begins restoring Outlook and other 365 services Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Key Points A Microsoft outage on Thursday and Friday affected users of services like Outlook, Teams and 365. The company said it did not suspect malicious activity was the cause and it was attempting to restore operations. Amazon Web Services said it was \"operating normally\" and noted inaccurate reports of outages on its platforms. In this article MSFT Follow your favorite stocks CREATE FREE ACCOUNT watch now VIDEO 2:27 02:27 Microsoft outage hits hundreds of millions, CNBC anchors can't read your emails Squawk Box Europe Microsoft users began to regain email access on Friday amid one of the company's biggest-ever server issues that lasted more than 20 hours, causing disruption to millions of its customers. Engineers scrambled to solve connectivity problems that began shortly before 1 p.m. ET on Thursday. Email and calendar service Outlook, along with multiple Microsoft 365 services such as Sharepoint and Copilot, were largely down during the Asian business day on Friday, throughout the European morning and into the early U.S. hours. Numerous external services that connect with Microsoft products were also hit. 'Encouraging recovery progress' A sign on the Microsoft campus in Redmond, Washington, US, Oct. 26, 2026. David Ryder | Reuters In an update at around 9 a.m. ET, Microsoft continued to warn that users may be unable to connect to multiple Microsoft 365 products, including Outlook on either web or desktop and many services that interact with email. However, it said it was \"continuing to see improvements in service availability, with email queues significantly reduced and approaching normal levels.\" It had previously given updates by region, with Asia Pacific services among the first to start normalizing. Intermittent issues are expected as recovery efforts continue. Engineering teams have been taking affected systems offline for fixes and bringing them back online in stages. They are prioritizing efforts to preserve emails delayed during the recovery process and reduce email queues and backlogs, extending the timeout window, whereby delayed emails continue to attempt delivery, to 48 hours to help protect messages. Microsoft says it has not detected any malicious activity causing the outage, which it initially blamed on a traffic surge in part of its infrastructure and issues with a component responsible for processing server health. The company said in its initial updates on Thursday that the connectivity problems related to infrastructure \"elevated load across multiple regions,\" caused by a \"number of servers being unexpectedly unavailable; straining the remaining infrastructure.\" Some servers were failing automated health checks, it said. Microsoft shares opened slightly lower, declining less than 1%. Governments and businesses review impact Governments and businesses in Asia-Pacific and Europe said they were monitoring the situation, which was causing widespread disruption. The U.K.'s National Health Service said the outage was affecting some of its services but that patients should attend appointments as normal. Calls \"may be subject to long waits\" as a result of disruption to the organization, a hospital group serving South West London and the English county of Surrey said on X. Earnings for Swiss luxury goods giant Richemont were slightly delayed on Friday due to the outage. Electric truck maker Workhorse Group, which was expected to report third-quarter results on Nov. 12, rescheduled the release to Nov. 16, citing business disruptions caused by the global Microsoft outage. Air India said it had \"temporarily rerouted\" emails so it could continue to receive customer messages, adding that its flight operations were not affected. Australian Home Affairs and Cyber Security Minister Tony Burke said in a press conference that Microsoft \"believe they are dealing in some ways similar to what we saw with respect to CrowdStrike where there is an update that has gone awry,\" Reuters reported. A fault with an update issued by cybersecurity company CrowdStrike caused one of the world's biggest IT system outages in 2024 , hitting airlines, banks and more. Microsoft reported in 2025 that Copilot, its collection of AI assistants and tools, had more than 100 million monthly active users. The incident highlights a business \"resilience and dependency issue that has been decades in the making,\" James Owen, managing partner of Digital Risks at consultancy Control Risks, said by phone. \"We have become, organizationally in the private sector and more broadly, increasingly dependent on a smaller segment of technology and infrastructure as critical to daily life and business activities.\" \"Organizations are becoming more aware through a geopolitical lens about what technologies they adopt, whether their services are provided by firms in the U.S., or China, or elsewhere, but this shows the importance of proper recovery planning in the case of an IT outage. That could be manual backups, protocols that do not require internet connection, investing in diverse suppliers and crisis management planning rehearsals,\" he said. Amazon Web Services and Google users also reported outages on the site on Thursday. Amazon wrote on X that services were \"operating normally\" and an \"unrelated disruption elsewhere on the internet is prompting some inaccurate news reports.\" The company referred users to its health dashboard for \"accurate data.\" At 4 p.m. ET Thursday, Microsoft said it had \"validated an alternative service health check method\" that brought some affected servers back online. \"We're now applying this change more broadly,\" Microsoft wrote. \"We're also preparing automated recovery systems to continually detect and restart unresponsive servers, to maintain service stability while this change progresses.\" Read more CNBC tech news Nvidia live updates: CEO Jensen Huang resigns, Colette Kress named interim chief CoreWeave CEO Intrator tells CNBC he has canceled his planned share sale program Meta head of infrastructure will leave and be succeeded by former AWS cloud exec Amazon’s Ring unveils flying drone and robot to patrol homes and businesses Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "guidance",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-11-13T15:10:20+00:00",
-   "tickers": [
-    "MSFT"
-   ]
   },
   {
    "id": "c07f7369d0a2",
@@ -8477,460 +8915,6 @@
    "domain": "globenewswire.com",
    "published": "2026-11-13T15:00:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "7f3f592829d2",
-   "title": "Nokia Oyj - Johtohenkilöiden liiketoimet (Sahgal)",
-   "link": "https://www.globenewswire.com/news-release/2026/11/13/3402705/0/fi/nokia-oyj-johtohenkil%C3%B6iden-liiketoimet-sahgal.html",
-   "summary": "Nokia OyjJohtohenkilöiden liiketoimet13.11.2026 klo 17.00Nokia Oyj - Johtohenkilöiden liiketoimet (Sahgal)",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-11-13T15:00:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "39985422f8db",
-   "title": "Form Energy Adds Meta and Tesla Veterans Lori Goler and Jon McNeill to Board as It Ramps Production for Commercial Growth",
-   "link": "https://www.globenewswire.com/news-release/2026/11/13/3402710/0/en/form-energy-adds-meta-and-tesla-veterans-lori-goler-and-jon-mcneill-to-board-as-it-ramps-production-for-commercial-growth.html",
-   "summary": "WEIRTON, W.Va., Nov. 13, 2026 (GLOBE NEWSWIRE) -- Form Energy, Inc. (“Form Energy” or the “Company”), an American technology company developing and commercializing a new class of cost-effective, multi-day energy storage systems, today announced the appointment of two new members of its Board of Directors (the “Board”): Lori Goler, President of the Chan Zuckerberg Initiative and former Chief People Officer at Meta, and Jon McNeill, Co-Founder and Chief Executive Officer of DVx Ventures and former executive at Tesla and Lyft. Both bring a proven track record of building and scaling innovative businesses.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-11-13T15:00:00+00:00",
-   "tickers": [
-    "TSLA",
-    "LYFT",
-    "META"
-   ]
-  },
-  {
-   "id": "2045d599e7a1",
-   "title": "Bessent Says Treasury Supported Blacklisting Megaspeed but Commerce Didn’t Act",
-   "link": "https://biztoc.com/x/6314f406f611ab96?ref=rss",
-   "summary": "The Treasury secretary pointed at the agency run by Howard Lutnick, whom some Trump administration officials have sought to blame for the political mess.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-13T15:00:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "5c131f8f4c7a",
-   "title": "We're making 3 trades to adjust our consumer exposure after an analyst downgrade",
-   "link": "https://www.cnbc.com/investingclub/2026/11/13/were-making-3-trades-to-adjust-our-consumer-exposure-after-downgrade.html",
-   "summary": "We want to take protect gains heading into earnings results next week.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "cnbc.com",
-   "published": "2026-11-13T14:59:57+00:00",
-   "tickers": []
-  },
-  {
-   "id": "52744f7ab6f5",
-   "title": "Tandem Diabetes Care jumps 12% on FDA clearance for tubeless Mobi",
-   "link": "https://seekingalpha.com/news/4672417-tandem-diabetes-care-jumps-12-percent-on-fda-clearance-for-tubeless-mobi?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "fda",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-13T14:59:35+00:00",
-   "tickers": []
-  },
-  {
-   "id": "af72cb6e5fc2",
-   "title": "Técnicas Reunidas, S.A. (TNISY) Q3 2026 Earnings Call Transcript",
-   "link": "https://seekingalpha.com/article/4967794-tecnicas-reunidas-s-a-tnisy-q3-2026-earnings-call-transcript?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-13T14:59:19+00:00",
-   "tickers": []
-  },
-  {
-   "id": "9bed86b6fa4e",
-   "title": "Cytosorbents Corporation Reports Third Quarter 2026 Revenue of $9.7 million",
-   "link": "https://www.nasdaq.com/articles/cytosorbents-corporation-reports-third-quarter-2026-revenue-97-million",
-   "summary": "Cytosorbents Corporation reported Third Quarter 2026 revenue of $9.7 million, an increase of 3% compared to $9.5 million in Q3 2025. Gross margin improved to 75% in the quarter, up from 70% a year ago. Total operating expenses decreased 11% to $8.5 million from $9.5 million in Q3",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-13T14:58:31+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ad211576cf18",
-   "title": "ProKidney Corp. Reports Third Quarter 2026 Financial Results and Business Highlights",
-   "link": "https://www.nasdaq.com/articles/prokidney-corp-reports-third-quarter-2026-financial-results-and-business-highlights",
-   "summary": "ProKidney Corp. reported its financial results for the third quarter ended September 30, 2026. The company ended the quarter with $141.9 million in cash, cash equivalents and marketable securities, compared to $181.6 million as of June 30, 2026. Research and development expenses",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-13T14:58:31+00:00",
-   "tickers": []
-  },
-  {
-   "id": "34b57e28e2aa",
-   "title": "Telecom Argentina S.A. Reports 3Q26 Net Loss of P$56,615 million and US$ 450 million Asset Divestiture Agreement",
-   "link": "https://www.nasdaq.com/articles/telecom-argentina-sa-reports-3q26-net-loss-p-56615-million-and-us-450-million-asset",
-   "summary": "Telecom Argentina S.A. announced a consolidated Net Loss of P$56,615 million for the third quarter ended September 30, 2026, and a consolidated Net Income of P$862,959 million for the nine-month period. The Net Loss attributable to the Controlling Company amounted to P$66,216 mil",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-11-13T14:58:30+00:00",
-   "tickers": []
-  },
-  {
-   "id": "37b2b50ada22",
-   "title": "Modine Manufacturing jumps 30% on reports of acquisition talks with Samsung",
-   "link": "https://seekingalpha.com/news/4672104-samsung-in-talks-to-acquire-data-center-cooling-maker-modine---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-13T14:58:16+00:00",
-   "tickers": [
-    "MOD"
-   ]
-  },
-  {
-   "id": "b45a05f7ceb2",
-   "title": "Zealand Pharma announces EU approval of Zeydovio™ (glepaglutide) for the treatment of short bowel syndrome",
-   "link": "https://www.globenewswire.com/news-release/2026/11/13/3402696/0/en/zealand-pharma-announces-eu-approval-of-zeydovio-glepaglutide-for-the-treatment-of-short-bowel-syndrome.html",
-   "summary": "Press release – No. 24 / 2026",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "fda",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-11-13T14:58:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "32bf16850147",
-   "title": "Mitsubishi UFJ Financial reports 1H results",
-   "link": "https://seekingalpha.com/news/4672420-mitsubishi-ufj-financial-reports-1h-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-13T14:56:51+00:00",
-   "tickers": [
-    "MUFG"
-   ]
-  },
-  {
-   "id": "08efd8156cd1",
-   "title": "The Bears Were Right About IREN",
-   "link": "https://seekingalpha.com/article/4967802-the-bears-were-right-about-iren?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-13T14:56:16+00:00",
-   "tickers": [
-    "IREN"
-   ]
-  },
-  {
-   "id": "f37c86714cc8",
-   "title": "Nvidia stock sinks 2% in fallout from Jensen Huang resignation",
-   "link": "https://www.cnbc.com/2026/11/13/nvidia-nvda-stock-jensen-huang-transition.html",
-   "summary": "Jensen Huang resigned as CEO of Nvidia on Thursday after coming under scrutiny for two extramarital affairs.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "negative",
-   "domain": "cnbc.com",
-   "published": "2026-11-13T14:55:12+00:00",
-   "tickers": []
-  },
-  {
-   "id": "2b266fad351a",
-   "title": "Printing Expert Adam Norsworthy Discusses What to Consider When Ordering a Banner for a Business or Event in HelloNation",
-   "link": "https://www.prnewswire.com/news-releases/printing-expert-adam-norsworthy-discusses-what-to-consider-when-ordering-a-banner-for-a-business-or-event-in-hellonation-302937076.html",
-   "summary": "The article explains how location, dimensions, materials, readability, installation, and display conditions can guide decisions when ordering a banner. LEXINGTON, Ky., Nov. 13, 2026 /PRNewswire/ -- How do you choose the right banner for your business or event? HelloNation has published an...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-11-13T14:55:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "01254fc5dc58",
-   "title": "Education Expert Brent Reckman Explains How Academic Rigor and Student Interests Can Work Together",
-   "link": "https://www.prnewswire.com/news-releases/education-expert-brent-reckman-explains-how-academic-rigor-and-student-interests-can-work-together-302939028.html",
-   "summary": "Brent Reckman explores how thoughtful academic planning helps students balance challenging coursework with meaningful extracurricular activities. WESTMINSTER, Colo., Nov. 13, 2026 /PRNewswire/ -- How can students balance academic rigor with extracurricular activities? A HelloNation...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-11-13T14:55:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "34d5dfff49ba",
-   "title": "Atea Pharmaceuticals: A Clean DDI Profile And Shorter Treatment Duration Threaten Current Market Leaders",
-   "link": "https://seekingalpha.com/article/4967801-atea-pharmaceuticals-clean-ddi-profile-and-shorter-treatment-duration?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-13T14:54:50+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e05dfdc68552",
-   "title": "HelloNation Article Explains Audit vs. Review vs. Compilation: Which Financial Statement Service Fits? Featuring Accounting Expert Tracey Rink",
-   "link": "https://www.prnewswire.com/news-releases/hellonation-article-explains-audit-vs-review-vs-compilation-which-financial-statement-service-fits-featuring-accounting-expert-tracey-rink-302911505.html",
-   "summary": "The article explains how businesses can choose the right financial statement service based on reporting needs and outside requirements. ROCHESTER, N.Y., Nov. 13, 2026 /PRNewswire/ -- What is the difference between an audit, review, and compilation? HelloNation answers that question in an...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-11-13T14:54:00+00:00",
-   "tickers": [
-    "SCI"
-   ]
-  },
-  {
-   "id": "0f0965f69d88",
-   "title": "TIMEX DECLARES TODAY ANALOG LIFE DAY",
-   "link": "https://www.prnewswire.com/news-releases/timex-declares-today-analog-life-day-302939026.html",
-   "summary": "A National Invitation to Get Off the Clock and Into Life An unexpected opening in your calendar? Don't fill it. Live it. SHELTON, Conn., Nov. 13, 2026 /PRNewswire/ -- Timex, the Official Timekeeper of Analog Life, is declaring today, Friday, November 13, Analog Life Day, and giving...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-11-13T14:54:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "9f98bb8d98e3",
-   "title": "Why AAON Stock Surged 37.8% This Week",
-   "link": "https://www.nasdaq.com/articles/why-aaon-stock-surged-378-week",
-   "summary": "Key PointsAAON reported record third-quarter revenue of $707.4 million, driven by demand for data center cooling systems.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-11-13T14:53:52+00:00",
-   "tickers": [
-    "AAON"
-   ]
-  },
-  {
-   "id": "1429fd341485",
-   "title": "Change in the Management Board of a Group Subsidiary",
-   "link": "https://www.globenewswire.com/news-release/2026/11/13/3402688/0/en/change-in-the-management-board-of-a-group-subsidiary.html",
-   "summary": "On 12 November 2026, the Supervisory Board of AS Lido, a wholly owned subsidiary of Apollo Group OÜ, recalled Solvita Treilande from her position as a member of the Management Board of AS Lido.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-11-13T14:52:00+00:00",
-   "tickers": [
-    "APO"
-   ]
-  },
-  {
-   "id": "a3dde4ba4dfa",
-   "title": "Muudatus kontserni tütarettevõtte juhatuses",
-   "link": "https://www.globenewswire.com/news-release/2026/11/13/3402688/0/et/muudatus-kontserni-t%C3%BCtarettev%C3%B5tte-juhatuses.html",
-   "summary": "12.11.2026 kutsus Apollo Group OÜ 100%-lise tütarettevõtte AS Lido nõukogu Solvita Treilande tagasi AS Lido juhatuse liikme ametikohalt.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-11-13T14:52:00+00:00",
-   "tickers": [
-    "APO"
-   ]
-  },
-  {
-   "id": "5a195f17d339",
-   "title": "CapsoVision, Inc. GAAP EPS of -$0.15 misses by $0.01, revenue of $3.6M misses by $0.16M",
-   "link": "https://seekingalpha.com/news/4672351-capsovision-inc-gaap-eps-of-0_15-misses-by-0_01-revenue-of-3_6m-misses-by-0_16m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "earnings",
-   "sentiment": "negative",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-13T14:51:34+00:00",
-   "tickers": []
-  },
-  {
-   "id": "57b7bc47f3d1",
-   "title": "Sumitomo Mitsui Financial GAAP EPS of ¥232.59, total operating income of ¥1.43B",
-   "link": "https://seekingalpha.com/news/4672416-sumitomo-mitsui-financial-gaap-eps-of-23259-total-operating-income-of-143b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-13T14:50:46+00:00",
-   "tickers": []
-  },
-  {
-   "id": "23f18eeed2ea",
-   "title": "8-K - MOBIX LABS, INC (0001855467) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1855467/000149315226051572/0001493152-26-051572-index.htm",
-   "summary": "Filed: 2026-11-13 AccNo: 0001493152-26-051572 Size: 312 KB Item 1.02: Termination of a Material Definitive Agreement Item 2.02: Results of Operations and Financial Condition Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-11-13T14:50:33+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6c1fad5268fe",
-   "title": "Dance Experts Sandy Young & Jenna Engen Break Down How to Choose a Dance Style in HelloNation",
-   "link": "https://www.prnewswire.com/news-releases/dance-experts-sandy-young--jenna-engen-break-down-how-to-choose-a-dance-style-in-hellonation-302936796.html",
-   "summary": "The article explains how movement preferences, music, training goals, and age can help students find classes that keep them interested in learning. OAK CREEK, Wis., Nov. 13, 2026 /PRNewswire/ -- How do you choose the right dance style? HelloNation answers that question in an article...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-11-13T14:50:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "c85dfdc2a503",
-   "title": "Timken declares $0.36 dividend",
-   "link": "https://seekingalpha.com/news/4672415-timken-declares-0_36-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "dividend",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-13T14:49:25+00:00",
-   "tickers": []
-  },
-  {
-   "id": "156fdf99c6b8",
-   "title": "8-K - Utz Brands, Inc. (0001739566) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1739566/000119312526459503/0001193125-26-459503-index.htm",
-   "summary": "Filed: 2026-11-13 AccNo: 0001193125-26-459503 Size: 136 KB Item 8.01: Other Events",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-11-13T14:49:15+00:00",
-   "tickers": []
-  },
-  {
-   "id": "9e82adf3d5f4",
-   "title": "Cisco: 3 Key Takeaways for Long-Term Investors",
-   "link": "https://www.nasdaq.com/articles/cisco-3-key-takeaways-long-term-investors",
-   "summary": "Key PointsCisco raised its fiscal year 2027 AI revenue target to $9 billion.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-13T14:49:05+00:00",
-   "tickers": [
-    "CSCO"
-   ]
-  },
-  {
-   "id": "b38b97c7c55c",
-   "title": "ams-OSRAM AG (AMSSY) Q3 2026 Earnings Call Transcript",
-   "link": "https://seekingalpha.com/article/4967724-ams-osram-ag-amssy-q3-2026-earnings-call-transcript?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-13T14:48:52+00:00",
-   "tickers": []
-  },
-  {
-   "id": "61fd099481f7",
-   "title": "Silver price today, Friday, November 13, 2026: Silver opens down 3%, slides further",
-   "link": "https://biztoc.com/x/f604a4737dd5ead9?ref=rss",
-   "summary": "Silver (SI=F) December futures opened at $50.01 per ounce on Friday, November 13, 2026, down 3.2% from Thursday's open. Silver is sliding this morning, reaching $49.60 as of 9:28 a.m. ET. Silver and gold prices are struggling this morning as inflation signals persist and Wall Street is pricing in…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-11-13T14:48:43+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8955,7 +8939,6 @@
   "BMNR": "Bitmine Immersion Technologies",
   "CTSH": "Cognizant Technology Solutions",
   "ESGU": "iShares ESG Aware MSCI USA ETF",
-  "MUFG": "Mitsubishi UFJ Financial Group",
   "MDY": "SPDR S&P MidCap 400 ETF Trust",
   "HIG": "The Hartford Insurance Group",
   "IYR": "iShares U.S. Real Estate ETF",
@@ -8967,7 +8950,6 @@
   "HPE": "Hewlett Packard Enterprise",
   "ARWR": "Arrowhead Pharmaceuticals",
   "ICE": "Intercontinental Exchange",
-  "APO": "Apollo Global Management",
   "IVV": "iShares Core S&P 500 ETF",
   "IWM": "iShares Russell 2000 ETF",
   "AAL": "American Airlines Group",
@@ -9031,7 +9013,6 @@
   "SOUN": "SoundHound AI",
   "TOL": "Toll Brothers",
   "MSTR": "MicroStrategy",
-  "IREN": "IREN Limited",
   "LRCX": "Lam Research",
   "NBIS": "Nebius Group",
   "SPY": "SPDR S&P 500",
@@ -9082,6 +9063,7 @@
   "EQIX": "Equinix",
   "IVZ": "Invesco",
   "KVYO": "Klaviyo",
+  "LINE": "Lineage",
   "SCI": "Service",
   "SNDK": "Sandisk",
   "STNE": "StoneCo",
@@ -9101,10 +9083,8 @@
   "KKR": "KKR &",
   "LIN": "Linde",
   "NE": "Noble",
-  "AAON": "AAON",
   "BALL": "Ball",
   "IONQ": "IonQ",
-  "LYFT": "Lyft",
   "MSCI": "MSCI",
   "T": "AT&T",
   "V": "Visa",
