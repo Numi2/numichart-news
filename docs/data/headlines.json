@@ -1,8 +1,38 @@
 {
- "generated": "2026-11-13T05:35:52.149696+00:00",
+ "generated": "2026-11-13T05:42:18.473872+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "78818f336845",
+   "title": "Telecom Argentina reports Q3 results",
+   "link": "https://seekingalpha.com/news/4672114-telecom-argentina-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-13T05:35:10+00:00",
+   "tickers": []
+  },
+  {
+   "id": "37b2b50ada22",
+   "title": "Samsung in talks to acquire data center cooling maker Modine - report",
+   "link": "https://seekingalpha.com/news/4672104-samsung-in-talks-to-acquire-data-center-cooling-maker-modine---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-13T05:34:35+00:00",
+   "tickers": [
+    "MOD"
+   ]
+  },
   {
    "id": "959347ba7747",
    "title": "Reviva Pharmaceuticals GAAP EPS of -$0.17 beats by $0.23",
@@ -189,6 +219,20 @@
    "tickers": []
   },
   {
+   "id": "e2cfe49ec3bc",
+   "title": "TRM Labs launches new service to help police seize stolen crypto in minutes",
+   "link": "https://biztoc.com/x/5abaf9532f6db08c?ref=rss",
+   "summary": "The new service is built on the Beacon Network, which has more than 200 members covering 80% of crypto trading volume.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-11-13T05:26:03+00:00",
+   "tickers": []
+  },
+  {
    "id": "019cc41bb19e",
    "title": "The Alpine crypto ‘wonderland’ forging close ties with Tether",
    "link": "https://biztoc.com/x/08d099f1639913ab?ref=rss",
@@ -301,6 +345,82 @@
    "domain": "seekingalpha.com",
    "published": "2026-11-13T05:25:17+00:00",
    "tickers": []
+  },
+  {
+   "id": "736cfc3c1711",
+   "title": "Newsmax (NMAX) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/newsmax-nmax-q3-2026-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-13T05:20:15+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a8eec548f530",
+   "title": "HeartBeam (BEAT) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/heartbeam-beat-q3-2026-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-11-13T05:20:15+00:00",
+   "tickers": []
+  },
+  {
+   "id": "43b4f6188be3",
+   "title": "TMC (TMC) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/tmc-tmc-q3-2026-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-13T05:20:15+00:00",
+   "tickers": [
+    "TMC"
+   ]
+  },
+  {
+   "id": "95ddb832e127",
+   "title": "Arrowhead (ARWR) Q4 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/arrowhead-arwr-q4-2026-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-13T05:20:15+00:00",
+   "tickers": [
+    "ARWR"
+   ]
+  },
+  {
+   "id": "a43d04a59a78",
+   "title": "Cisco (CSCO) Q1 2027 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/cisco-csco-q1-2027-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-13T05:20:15+00:00",
+   "tickers": [
+    "CSCO"
+   ]
   },
   {
    "id": "d3e9e61c9d89",
@@ -478,6 +598,34 @@
    "tickers": []
   },
   {
+   "id": "b965f6ab5a96",
+   "title": "Oncolytics Biotech Inc. Announces Clinical Supply Agreement with Coherus Oncology, Inc.",
+   "link": "https://www.nasdaq.com/articles/oncolytics-biotech-inc-announces-clinical-supply-agreement-coherus-oncology-inc",
+   "summary": "Oncolytics Biotech Inc. announced that it has entered into a clinical supply agreement with Coherus Oncology, Inc. to evaluate Oncolytics’ investigational oncolytic virus immunotherapy, pelareorep, in combination with Coherus’ next-generation PD-1 inhibitor, LOQTORZI&",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-13T05:10:53+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f985d0e1400f",
+   "title": "Kyverna Therapeutics, Inc. Announces Completion of BLA Submission for Miv-cel in Stiff Person Syndrome and Reports Third Quarter 2026 Financial Results",
+   "link": "https://www.nasdaq.com/articles/kyverna-therapeutics-inc-announces-completion-bla-submission-miv-cel-stiff-person-syndrome",
+   "summary": "Kyverna Therapeutics, Inc. has completed the submission of its rolling Biologics License Application to the U.S. Food and Drug Administration, seeking priority review of miv-cel in stiff person syndrome under its Regenerative Medicine Advanced Therapy designation. The submission",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-13T05:10:52+00:00",
+   "tickers": []
+  },
+  {
    "id": "5fff89d2170f",
    "title": "EM Stocks Eye First Weekly Gain Since September as Tech Rebounds",
    "link": "https://biztoc.com/x/bfe4911963ce10e1?ref=rss",
@@ -546,6 +694,22 @@
    "domain": "biztoc.com",
    "published": "2026-11-13T05:10:45+00:00",
    "tickers": []
+  },
+  {
+   "id": "223b169364b9",
+   "title": "PLDT Inc. Reports 9M 2026 Results with Gross Service Revenues of ₱161.2 billion",
+   "link": "https://www.nasdaq.com/articles/pldt-inc-reports-9m-2026-results-gross-service-revenues-1612-billion",
+   "summary": "PLDT Inc. reported its unaudited consolidated financial results for the nine (9) months ended September 30, 2026, with Gross Service Revenues increasing 2% year on year to ₱161.2 billion. Net Service Revenues grew 1% to ₱146.9 billion, while consolidated EBITDA rose 1",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-13T05:10:45+00:00",
+   "tickers": [
+    "SCI"
+   ]
   },
   {
    "id": "8913654b1e3e",
@@ -8524,172 +8688,6 @@
    "tickers": [
     "NBIS"
    ]
-  },
-  {
-   "id": "2413c2deb2a3",
-   "title": "Stock Gets Fair Value Trim As Analysts Split On Ficera",
-   "link": "https://biztoc.com/x/7a3dcdb5ea4d3bce?ref=rss",
-   "summary": "The shift in Bicara Therapeutics valuation framework, including Fair Value moving from about US$35.67 to US$32.17, is feeding directly into how investors read recent price target updates. Street research points to a tug of war between bullish views that focus on the broader oncology pipeline and…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-13T01:43:27+00:00",
-   "tickers": []
-  },
-  {
-   "id": "7563b47cf104",
-   "title": "Lutnick should have prevented the diversion of sensitive Nvidia AI chips to China, critics charge",
-   "link": "https://biztoc.com/x/86007e13e8235f0d?ref=rss",
-   "summary": "Commerce Secretary Howard Lutnick is under fire by critics asking whether his ties to Chinese companies and friendship with Nvidia's ousted CEO Jensen Huang contributed to the federal agency's lack of oversight over billions in Nvidia AI chip sales, CBS has learned. Before President Trump…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-11-13T01:42:59+00:00",
-   "tickers": [
-    "PARA"
-   ]
-  },
-  {
-   "id": "443f32915078",
-   "title": "Kiora Pharmaceuticals Reports Third Quarter 2026 Financial Results and KIO-401 In-Licensing",
-   "link": "https://www.nasdaq.com/articles/kiora-pharmaceuticals-reports-third-quarter-2026-financial-results-and-kio-401-licensing",
-   "summary": "Kiora Pharmaceuticals, Inc. reported its financial results for the third quarter ended September 30, 2026, and provided a corporate update highlighted by the in-licensing of KIO-401 (mitucapistat) from Senju Pharmaceutical Co., Ltd. The company acquired exclusive development and",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-13T01:42:56+00:00",
-   "tickers": []
-  },
-  {
-   "id": "eecdd3e6f09b",
-   "title": "BK Technologies Corporation Reports Third Quarter 2026 Financial Results",
-   "link": "https://www.nasdaq.com/articles/bk-technologies-corporation-reports-third-quarter-2026-financial-results",
-   "summary": "BK Technologies Corporation announced its financial and operating results for the third quarter ended September 30, 2026, with revenue increasing 3.6% to $25.3 million compared to $24.4 million in the third quarter of 2025. Net income rose 9% to $3.7 million, or $0.93 per diluted",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-13T01:42:56+00:00",
-   "tickers": [
-    "BK"
-   ]
-  },
-  {
-   "id": "6cde7be867df",
-   "title": "Alkermes plc Enters Settlement Agreement With Teva Over LYBALVI Patent Litigation",
-   "link": "https://www.nasdaq.com/articles/alkermes-plc-enters-settlement-agreement-teva-over-lybalvi-patent-litigation",
-   "summary": "On November 6, 2026, Alkermes, Inc. and Alkermes Pharma Ireland Limited, two wholly-owned indirect subsidiaries of Alkermes plc, entered into a Confidential Settlement and License Agreement with Teva Pharmaceuticals, Inc. The agreement resolves a patent infringement lawsuit relat",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-11-13T01:42:56+00:00",
-   "tickers": [
-    "ALKS"
-   ]
-  },
-  {
-   "id": "34bb0b0713fa",
-   "title": "Bank of America raises Fed interest rate warning after October CPI surprise",
-   "link": "https://biztoc.com/x/ae934400188fae3d?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-11-13T01:42:52+00:00",
-   "tickers": [
-    "BAC"
-   ]
-  },
-  {
-   "id": "130fc731f786",
-   "title": "Japanese Market Sharply Higher",
-   "link": "https://www.nasdaq.com/articles/japanese-market-sharply-higher-9",
-   "summary": "(RTTNews) - The Japanese market is trading sharply higher on Friday, reversing the losses in the previous session, despite the broadly negative cues from Wall Street overnight. The Nikkei 225 is moving above the 61,650 level, with gains across most sectors led by financial and te",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-13T01:42:47+00:00",
-   "tickers": []
-  },
-  {
-   "id": "aa5a6cb67721",
-   "title": "U.S. Jobless Claims Rise More Than Expected in the Week",
-   "link": "https://biztoc.com/x/b61edbc0891241c2?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-11-13T01:42:45+00:00",
-   "tickers": []
-  },
-  {
-   "id": "4e35545a35f8",
-   "title": "Walmart Black Friday 2026 Event 1 Is Live: Best Early Gaming, TV, LEGO and 4K Blu-Ray Deals",
-   "link": "https://biztoc.com/x/8cb611514610e51d?ref=rss",
-   "summary": "Walmart's Black Friday sale has officially started, with the major US retailer's \"Black Friday - Event 1\" discounts now live, with a few select \"early access deals\" only available for Walmart+ members. Walmart's Black Friday sale is running in three separate \"events\" this year, with the initial…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-13T01:42:43+00:00",
-   "tickers": [
-    "WMT"
-   ]
-  },
-  {
-   "id": "c7dbe665eed3",
-   "title": "CervoMed Consensus Price Target Increased by 16.92% to $15.50",
-   "link": "https://www.nasdaq.com/articles/cervomed-consensus-price-target-increased-1692-1550",
-   "summary": "The average one-year price target for CervoMed (NASDAQCM:CRVO) (DB:DP8) has been revised to $15.50 / share. This is an increase of 16.92% from the prior estimate of $13.26 dated November 6, 2026. These figures represent aggregate analyst targets collected from multiple sources an",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "analyst",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-13T01:42:35+00:00",
-   "tickers": [
-    "DB"
-   ]
-  },
-  {
-   "id": "d1b8f00c4dd6",
-   "title": "The Silicon Valley veterans now steering Nvidia",
-   "link": "https://www.ft.com/content/74e95e42-3f1d-4128-98ef-9ce4c160b077?syn-25a6b1a6=1",
-   "summary": "New chair Harvey Jones and CEO Colette Kress need to steady the chip group after founder Jensen Huang’s shocking departure",
-   "article_text": "",
-   "source": "FT Companies",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "ft.com",
-   "published": "2026-11-13T01:42:30+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8701,7 +8699,6 @@
   "KBE": "State Street SPDR S&P Bank ETF",
   "MGK": "Vanguard Mega Cap Growth ETF",
   "WST": "West Pharmaceutical Services",
-  "BK": "The Bank of New York Mellon",
   "IBP": "Installed Building Products",
   "PFSI": "PennyMac Financial Services",
   "QQQ": "Invesco QQQ Trust, Series 1",
@@ -8722,6 +8719,7 @@
   "PLTR": "Palantir Technologies",
   "ALHC": "Alignment Healthcare",
   "LW": "Lamb Weston Holdings",
+  "MOD": "Modine Manufacturing",
   "SMCI": "Super Micro Computer",
   "PGY": "Pagaya Technologies",
   "BRK-A": "Berkshire Hathaway",
@@ -8738,7 +8736,6 @@
   "LOW": "Lowe's Companies",
   "OWL": "Blue Owl Capital",
   "ACHR": "Archer Aviation",
-  "BAC": "Bank of America",
   "BZ": "Kanzhun Limited",
   "HWC": "Hancock Whitney",
   "KHC": "The Kraft Heinz",
@@ -8749,6 +8746,7 @@
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
   "QBTS": "D-Wave Quantum",
+  "TMC": "TMC the metals",
   "CSCO": "Cisco Systems",
   "EG": "Everest Group",
   "ELF": "e.l.f. Beauty",
@@ -8774,11 +8772,9 @@
   "STLA": "Stellantis",
   "MSFT": "Office 365",
   "DE": "John Deere",
-  "PARA": "Paramount+",
   "CME": "CME Group",
   "CRWV": "CoreWeave",
   "NWSA": "News Corp",
-  "ALKS": "Alkermes",
   "APPF": "AppFolio",
   "ILMN": "Illumina",
   "COMP": "Compass",
