@@ -1,8 +1,24 @@
 {
- "generated": "2026-11-13T01:44:05.095842+00:00",
+ "generated": "2026-11-13T01:50:00.277305+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "4cf0361790ab",
+   "title": "TSMC: Investors Are Well Insulated From Potential Shocks",
+   "link": "https://seekingalpha.com/article/4967553-tsmc-investors-are-well-insulated-from-potential-shocks?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-13T01:44:49+00:00",
+   "tickers": [
+    "TSM"
+   ]
+  },
   {
    "id": "7563b47cf104",
    "title": "Lutnick should have prevented the diversion of sensitive Nvidia AI chips to China, critics charge",
@@ -504,6 +520,37 @@
    ]
   },
   {
+   "id": "0f8969e8dd9c",
+   "title": "Hogs Post Mixed Thursday Trade",
+   "link": "https://www.nasdaq.com/articles/hogs-post-mixed-thursday-trade-0",
+   "summary": "Lean hog futures were mixed on Thursday, with contracts up 47 cents to 87 cents lower. USDA’s national base hog price was reported at $39.64 on Thursday afternoon, up $2.12 from the day prior. The CME Lean Hog Index was down 21 cents on November 6 at $59.78. USDA’s pork...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-13T01:29:14+00:00",
+   "tickers": [
+    "POST",
+    "CME"
+   ]
+  },
+  {
+   "id": "54e29286ddce",
+   "title": "Cotton Firms into Thursday’s Close",
+   "link": "https://www.nasdaq.com/articles/cotton-firms-thursdays-close-0",
+   "summary": "Cotton futures closed with Thursday gains of 12 to 17 points across most contracts. Crude oil was up $2.17 per barrel on the session, with the US dollar index $0.280 higher. Export Sales data will be pushed back to Friday due to the Wednesday Veterans Day federal holiday. The Seam...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-13T01:29:14+00:00",
+   "tickers": []
+  },
+  {
    "id": "340ffd439340",
    "title": "Corn Fades Lower into Thursday’s Close to Settle Near the Lows",
    "link": "https://www.nasdaq.com/articles/corn-fades-lower-thursdays-close-settle-near-lows",
@@ -513,6 +560,36 @@
    "category": "stocks",
    "type": "downgrade",
    "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-11-13T01:29:13+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a74d48222c3c",
+   "title": "Cattle Post Gains as Feeders Power Higher",
+   "link": "https://www.nasdaq.com/articles/cattle-post-gains-feeders-power-higher",
+   "summary": "Live cattle futures were down 7 cents in the nearby December, with other contracts up 25 cents to $1.45. Cash trade saw some light dressed trade at $330 in the North. Some light bids of $215 have been reported in the South. The Thursday Fed Cattle Exchange online auction showed...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-11-13T01:29:13+00:00",
+   "tickers": [
+    "POST"
+   ]
+  },
+  {
+   "id": "02399a1ff9d8",
+   "title": "Soybeans Retreat on Thursday, Despite Export Business",
+   "link": "https://www.nasdaq.com/articles/soybeans-retreat-thursday-despite-export-business",
+   "summary": "Soybeans closed Thursday trade with contracts 11 to 14 ½ cents lower, as November was the exception ahead of Friday’s expiration, down 2 cents. The cmdtyView national average Cash Bean price was down 8 1/2 cents at $11.60 1/4. Soymeal futures were down $2.20 to $4.30, with Soy Oil futures...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
    "domain": "nasdaq.com",
    "published": "2026-11-13T01:29:13+00:00",
    "tickers": []
@@ -690,23 +767,6 @@
    "tickers": []
   },
   {
-   "id": "0f8969e8dd9c",
-   "title": "Hogs Post Mixed Thursday Trade",
-   "link": "https://www.nasdaq.com/articles/hogs-post-mixed-thursday-trade-0",
-   "summary": "Lean hog futures were mixed on Thursday, with contracts up 47 cents to 87 cents lower. USDA’s national base hog price was reported at $39.64 on Thursday afternoon, up $2.12 from the day prior. The CME Lean Hog Index was down 21 cents on November 6 at $59.78. USDA’s pork...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-13T01:23:42+00:00",
-   "tickers": [
-    "POST",
-    "CME"
-   ]
-  },
-  {
    "id": "09ba2c37be42",
    "title": "Wheat Falls to New Lows on Thursday",
    "link": "https://www.nasdaq.com/articles/wheat-falls-new-lows-thursday",
@@ -718,50 +778,6 @@
    "sentiment": "negative",
    "domain": "nasdaq.com",
    "published": "2026-11-13T01:23:42+00:00",
-   "tickers": []
-  },
-  {
-   "id": "a74d48222c3c",
-   "title": "Cattle Post Gains as Feeders Power Higher",
-   "link": "https://www.nasdaq.com/articles/cattle-post-gains-feeders-power-higher",
-   "summary": "Live cattle futures were down 7 cents in the nearby December, with other contracts up 25 cents to $1.45. Cash trade saw some light dressed trade at $330 in the North. Some light bids of $215 have been reported in the South. The Thursday Fed Cattle Exchange online auction showed...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-11-13T01:23:42+00:00",
-   "tickers": [
-    "POST"
-   ]
-  },
-  {
-   "id": "54e29286ddce",
-   "title": "Cotton Firms into Thursday’s Close",
-   "link": "https://www.nasdaq.com/articles/cotton-firms-thursdays-close-0",
-   "summary": "Cotton futures closed with Thursday gains of 12 to 17 points across most contracts. Crude oil was up $2.17 per barrel on the session, with the US dollar index $0.280 higher. Export Sales data will be pushed back to Friday due to the Wednesday Veterans Day federal holiday. The Seam...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-13T01:23:42+00:00",
-   "tickers": []
-  },
-  {
-   "id": "02399a1ff9d8",
-   "title": "Soybeans Retreat on Thursday, Despite Export Business",
-   "link": "https://www.nasdaq.com/articles/soybeans-retreat-thursday-despite-export-business",
-   "summary": "Soybeans closed Thursday trade with contracts 11 to 14 ½ cents lower, as November was the exception ahead of Friday’s expiration, down 2 cents. The cmdtyView national average Cash Bean price was down 8 1/2 cents at $11.60 1/4. Soymeal futures were down $2.20 to $4.30, with Soy Oil futures...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-13T01:23:41+00:00",
    "tickers": []
   },
   {
@@ -1018,6 +1034,20 @@
    "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-11-13T01:18:41+00:00",
+   "tickers": []
+  },
+  {
+   "id": "fd972218e06b",
+   "title": "Lower Open Called For Hong Kong Stock Market",
+   "link": "https://www.nasdaq.com/articles/lower-open-called-hong-kong-stock-market",
+   "summary": "(RTTNews) - The Hong Kong stock market has tracked lower in back-to-back sessions, sliding almost 550 points or 2.3 percent in that span. The Hang Seng now sits just above the 24,000-point plateau and it's looking at a soft start again on Friday.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-11-13T01:18:17+00:00",
    "tickers": []
   },
   {
@@ -8642,7 +8672,7 @@
    "link": "https://www.prnewswire.com/news-releases/strategic-value-partners-appoints-shigesuke-kashiwagi-to-its-advisory-council-302938404.html",
    "summary": "Former Nomura CFO and Schroders Japan Country Head to Serve as Senior Advisor in Japan GREENWICH, Conn. and TOKYO, Nov. 12, 2026 /PRNewswire/ -- Strategic Value Partners, L.P. (together with its affiliates, \"SVP\"), a global alternative investment firm, today announced the appointment of...",
    "article_text": "",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -8709,36 +8739,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-11-12T22:59:19+00:00",
    "tickers": []
-  },
-  {
-   "id": "f02bff02e05e",
-   "title": "Excessive Ivory Coast Rains Disrupt Cocoa Supplies and Boost Prices",
-   "link": "https://www.nasdaq.com/articles/excessive-ivory-coast-rains-disrupt-cocoa-supplies-and-boost-prices",
-   "summary": "December ICE NY cocoa (CCZ26 ) closed up +159 (+3.24%) on Thursday, and ICE London cocoa #7 (CAZ26 ) closed up +75 (+2.00%). Cocoa prices rallied sharply for a second day on Thursday as short covering intensified in cocoa futures on reports of heavy rains in the Ivory Coast that...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-11-12T22:59:06+00:00",
-   "tickers": [
-    "ICE"
-   ]
-  },
-  {
-   "id": "46d478c78781",
-   "title": "Woodside Energy Group Ltd (WDS) Analyst/Investor Day Transcript",
-   "link": "https://seekingalpha.com/article/4967329-woodside-energy-group-ltd-wds-analyst-investor-day-transcript?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-12T22:58:59+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8746,6 +8746,7 @@
   "JIRE": "JPMorgan International Research Enhanced Equity ETF",
   "VYMI": "Vanguard International High Dividend Yield ETF",
   "DIA": "SPDR Dow Jones Industrial Average ETF",
+  "TSM": "Taiwan Semiconductor Manufacturing",
   "DB": "Deutsche Bank Aktiengesellschaft",
   "WST": "West Pharmaceutical Services",
   "BK": "The Bank of New York Mellon",
