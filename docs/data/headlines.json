@@ -1,8 +1,94 @@
 {
- "generated": "2026-11-13T09:32:40.327642+00:00",
+ "generated": "2026-11-13T09:38:58.837791+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "4337bd6f78f3",
+   "title": "Widespread Microsoft outage takes down Outlook and other 365 services",
+   "link": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+   "summary": "A Microsoft outage on Thursday affected users of services like Outlook, Teams and 365.",
+   "article_text": "Widespread Microsoft outage takes down Outlook and other 365 services Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Key Points A Microsoft outage on Thursday and Friday affected users of services like Outlook, Teams and 365. The company said it did not suspect malicious activity was the cause and it was attempting to restore operations. Amazon Web Services said it was \"operating normally\" and noted inaccurate reports of outages on its platforms. In this article MSFT Follow your favorite stocks CREATE FREE ACCOUNT A sign on the Microsoft campus in Redmond, Washington, US, Oct. 26, 2026. David Ryder | Reuters Microsoft suffered a widespread outage on Thursday and Friday, as engineers scrambled to fix server issues that caused disruption to millions of its customers around the world. Connectivity issues began shortly before 1 p.m. ET on Thursday and continued into Friday, with Outlook and Teams, along with multiple Microsoft 365 services such as Sharepoint and Copilot, affected. Numerous external services that connect with Microsoft products such as Outlook Calendar were also hit. 'Early signs of stabilization' Microsoft said it was not aware of any malicious activity causing the outage, which it initially blamed on a traffic surge in part of its infrastructure and issues with a component responsible for processing server health. Email and related tools were unavailable for Microsoft users through the Asian business day and into the European morning. In an update at around 9:15 a.m. in London (4:15 a.m. ET), Microsoft said users may still be unable to connect to multiple Microsoft 365 products — including Outlook on either web or desktop and any services that interact with email — and did not give a timeline for restoring full service. Most access to Teams was available. \"We are seeing early signs of stabilization, but service capacity has not yet returned to normal levels and health remains variable as traffic is carefully reintroduced,\" the company said. Engineering teams are taking affected systems offline for fixes and bringing them back online in stages while looking at additional options, Microsoft said, adding that it was prioritizing efforts to preserve emails delayed during the recovery process. It is extending the timeout window, whereby delayed emails continue to attempt delivery, for up to 48 hours to help protect messages. Microsoft said in its initial updates on Thursday that the connectivity problems related to infrastructure \"elevated load across multiple regions,\" caused by a \"number of servers being unexpectedly unavailable; straining the remaining infrastructure.\" Some servers were failing automated health checks, it said. Microsoft shares were 2.6% lower in premarket trade. Governments and businesses review impact Governments and businesses in Asia-Pacific and Europe said they were monitoring the situation, which was causing widespread disruption. Earnings for Swiss luxury goods giant Richemont were slightly delayed on Friday due to the outage. Electric truck maker Workhorse Group, which was expected to report third-quarter results on Nov. 12, rescheduled the release to Nov. 16, citing business disruptions caused by the global Microsoft outage. Air India said it had \"temporarily rerouted\" emails so it could continue to receive customer messages, adding that its flight operations were not affected. Australian Home Affairs and Cyber Security Minister Tony Burke said in a press conference that Microsoft \"believe they are dealing in some ways similar to what we saw with respect to CrowdStrike where there is an update that has gone awry,\" Reuters reported. A fault with an update issued by cybersecurity company CrowdStrike caused one of the world's biggest IT system outages in 2024 , hitting airlines, banks and more, Microsoft reported in 2025 that Copilot, its collection of AI assistants and tools, had more than 100 million monthly active users. Amazon Web Services and Google users also reported outages on the site on Thursday. Amazon wrote on X that services were \"operating normally\" and an \"unrelated disruption elsewhere on the internet is prompting some inaccurate news reports.\" The company referred users to its health dashboard for \"accurate data.\" At 4 p.m. ET Thursday, Microsoft said it had \"validated an alternative service health check method\" that brought some affected servers back online. \"We're now applying this change more broadly,\" Microsoft wrote. \"We're also preparing automated recovery systems to continually detect and restart unresponsive servers, to maintain service stability while this change progresses.\" Read more CNBC tech news Nvidia live updates: CEO Jensen Huang resigns, Colette Kress named interim chief CoreWeave CEO Intrator tells CNBC he has canceled his planned share sale program Meta head of infrastructure will leave and be succeeded by former AWS cloud exec Amazon’s Ring unveils flying drone and robot to patrol homes and businesses Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "guidance",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-11-13T09:37:03+00:00",
+   "tickers": [
+    "MSFT"
+   ]
+  },
+  {
+   "id": "5a2a5c625aa2",
+   "title": "QuoteMedia reports Q3 results",
+   "link": "https://seekingalpha.com/news/4672203-quotemedia-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-13T09:33:55+00:00",
+   "tickers": []
+  },
+  {
+   "id": "dab781a06240",
+   "title": "Deutsche EuroShop AG 2026 Q3 - Results - Earnings Call Presentation",
+   "link": "https://seekingalpha.com/article/4967700-deutsche-euroshop-ag-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-13T09:32:46+00:00",
+   "tickers": []
+  },
+  {
+   "id": "651cb6b1e85d",
+   "title": "ASUSTeK Computer Inc. 2026 Q3 - Results - Earnings Call Presentation",
+   "link": "https://seekingalpha.com/article/4967699-asustek-computer-inc-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-13T09:31:52+00:00",
+   "tickers": []
+  },
+  {
+   "id": "69d1858b2047",
+   "title": "TIM S.A. Q3: Growth Doesn't Convince Again",
+   "link": "https://seekingalpha.com/article/4967682-tim-sa-q3-growth-doesnt-convince-again?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-13T09:31:27+00:00",
+   "tickers": []
+  },
+  {
+   "id": "eddc5a931cc2",
+   "title": "NBPE Announces Transaction in Own Shares",
+   "link": "https://www.globenewswire.com/news-release/2026/11/13/3402418/0/en/nbpe-announces-transaction-in-own-shares.html",
+   "summary": "THE INFORMATION CONTAINED HEREIN IS NOT FOR RELEASE, PUBLICATION OR DISTRIBUTION IN OR INTO AUSTRALIA, CANADA, ITALY, DENMARK, JAPAN, THE UNITED STATES, OR TO ANY NATIONAL OF SUCH JURISDICTIONS",
+   "article_text": "",
+   "source": "GlobeNewswire",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "globenewswire.com",
+   "published": "2026-11-13T09:31:00+00:00",
+   "tickers": []
+  },
   {
    "id": "8e9dcf3a7ca3",
    "title": "Storm Clouds Over The World Economy",
@@ -3447,22 +3533,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-11-13T08:09:32+00:00",
    "tickers": []
-  },
-  {
-   "id": "4337bd6f78f3",
-   "title": "Widespread Microsoft outage takes down Outlook and other 365 services",
-   "link": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
-   "summary": "A Microsoft outage on Thursday affected users of services like Outlook, Teams and 365.",
-   "article_text": "Widespread Microsoft outage takes down Outlook and other 365 services Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Key Points A Microsoft outage on Thursday and Friday affected users of services like Outlook, Teams and 365. The company said it did not suspect malicious activity was the cause and it was attempting to restore operations. Amazon Web Services said it was \"operating normally\" and noted inaccurate reports of outages on its platforms. In this article MSFT Follow your favorite stocks CREATE FREE ACCOUNT A sign on the Microsoft campus in Redmond, Washington, US, Oct. 26, 2026. David Ryder | Reuters Microsoft suffered a widespread outage on Thursday and Friday, as engineers scrambled to fix server issues that caused disruption to millions of its customers around the world. Connectivity issues began shortly before 1 p.m. ET on Thursday and continued into Friday, with Outlook and Teams, along with multiple Microsoft 365 services such as Sharepoint and Copilot, affected. External services that connect with Outlook features such as Calendar were also hit. Email and other tools were unavailable for Microsoft users through much of the Asian business day and into the European morning, though some access to Teams was restored. In an update just before 7:30 a.m. in London (2:30 a.m. ET), Microsoft said users may still be unable to connect to multiple Microsoft 365 services, including Outlook on either web or desktop. It did not give a timeline for restoring full service but said it was seeing \"positive results for server stability\" after applying a new patch fix to some infrastructure. \"As of now, we are not aware of any malicious activity that is causing this incident. We will continue to treat this incident with urgency and priority until full resolution,\" Microsoft said, adding that it would provide a full report with further details once the problem was mitigated. Microsoft said on Thursday the connectivity problems related to infrastructure \"elevated load across multiple regions,\" caused by a \"number of servers being unexpectedly unavailable; straining the remaining infrastructure.\" Some servers were failing automated health checks, it said. Governments and businesses review impact Governments and businesses in Asia-Pacific and Europe said they were monitoring the situation, which was causing widespread disruption. Earnings for Swiss luxury goods giant Richemont were slightly delayed on Friday due to the outage. Electric truck maker Workhorse Group, which was expected to report third-quarter results on Nov. 12, rescheduled the release to Nov. 16, citing business disruptions caused by the global Microsoft outage. Air India said it had \"temporarily rerouted\" emails so it could continue to receive customer messages, adding that its flight operations were not affected. Australian Home Affairs and Cyber Security Minister Tony Burke said in a press conference that Microsoft \"believe they are dealing in some ways similar to what we saw with respect to CrowdStrike where there is an update that has gone awry,\" Reuters reported. A fault with an update issued by cybersecurity company CrowdStrike caused one of the world's biggest IT system outages in 2024 , hitting airlines, banks and more, Microsoft reported in 2025 that Copilot, its collection of AI assistants and tools, had more than 100 million monthly active users. Amazon Web Services and Google users also reported outages on the site on Thursday. Amazon wrote on X that services were \"operating normally\" and an \"unrelated disruption elsewhere on the internet is prompting some inaccurate news reports.\" The company referred users to its health dashboard for \"accurate data.\" At 4 p.m. ET Thursday, Microsoft said it had \"validated an alternative service health check method\" that brought some affected servers back online. \"We're now applying this change more broadly,\" Microsoft wrote. \"We're also preparing automated recovery systems to continually detect and restart unresponsive servers, to maintain service stability while this change progresses.\" Read more CNBC tech news Nvidia live updates: CEO Jensen Huang resigns, Colette Kress named interim chief CoreWeave CEO Intrator tells CNBC he has canceled his planned share sale program Meta head of infrastructure will leave and be succeeded by former AWS cloud exec Amazon’s Ring unveils flying drone and robot to patrol homes and businesses Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "guidance",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-11-13T08:05:49+00:00",
-   "tickers": [
-    "MSFT"
-   ]
   },
   {
    "id": "0e6c81740b90",
@@ -8611,78 +8681,6 @@
    "domain": "nasdaq.com",
    "published": "2026-11-13T06:11:19+00:00",
    "tickers": []
-  },
-  {
-   "id": "ec215f826786",
-   "title": "For Some, Winter Heating Bills Could Skyrocket",
-   "link": "https://biztoc.com/x/5f3c25165a866f5c?ref=rss",
-   "summary": "For Some, Winter Heating Bills Could Skyrocket The head of an organization that's behind a new report on anticipated home heating costs tells the New York Times that \"we hope we're wrong.\" Wrong about what, exactly? According to the National Energy Assistance Directors Association, staying warm…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-13T06:11:18+00:00",
-   "tickers": [
-    "NYT"
-   ]
-  },
-  {
-   "id": "937efd73e627",
-   "title": "CorMedix Inc. Reports Third Quarter 2026 Financial Results",
-   "link": "https://www.nasdaq.com/articles/cormedix-inc-reports-third-quarter-2026-financial-results",
-   "summary": "CorMedix Inc. reported its third quarter 2026 financial results, posting consolidated revenue of $54.5 million, down from $104.3 million in the third quarter of 2025. The company recorded a net loss of $14.7 million, or $(0.19) per basic and diluted share, compared to net income",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-13T06:11:18+00:00",
-   "tickers": []
-  },
-  {
-   "id": "111c63643ac9",
-   "title": "David Cameron Calls for UK to Leave European Human Rights Convention",
-   "link": "https://biztoc.com/x/a338ba195b15ef45?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-13T06:11:10+00:00",
-   "tickers": []
-  },
-  {
-   "id": "8647fed0d06e",
-   "title": "Nvidia has a big leather jacket to fill: Jensen’s out",
-   "link": "https://biztoc.com/x/b7ca95b11740726d?ref=rss",
-   "summary": "The only thing that’s certain for Nvidia’s future is that its earnings call next week will be extremely awk. Its rockstar CEO, Jensen Huang, resigned yesterday amid reports that he had an affair with two employees, which came days after he admitted to a romantic entanglement with a suspected…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-13T06:11:04+00:00",
-   "tickers": []
-  },
-  {
-   "id": "8cd1afc436e8",
-   "title": "Andy Burnham says win-win Brexit deal possible with EU",
-   "link": "https://biztoc.com/x/274eddba60c34d49?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "ma",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-11-13T06:11:03+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8712,7 +8710,6 @@
   "CNP": "CenterPoint Energy",
   "LUNR": "Intuitive Machines",
   "MFC": "Manulife Financial",
-  "NYT": "The New York Times",
   "AMAT": "Applied Materials",
   "AU": "AngloGold Ashanti",
   "MU": "Micron Technology",
