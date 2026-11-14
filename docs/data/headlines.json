@@ -1,8 +1,22 @@
 {
- "generated": "2026-11-14T18:57:34.501405+00:00",
+ "generated": "2026-11-14T19:05:34.948660+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "3a8620ac7853",
+   "title": "Layne's Chicken Fingers Brings the Crunch to Brownsville with 11/14 Grand Opening",
+   "link": "https://www.prnewswire.com/news-releases/laynes-chicken-fingers-brings-the-crunch-to-brownsville-with-1114-grand-opening-302939559.html",
+   "summary": "Ricki Oberoi opens Layne's Chicken Fingers in Brownsville as part of the brand's continued expansion in the Rio Grande Valley. BROWNSVILLE, Texas, Nov. 14, 2026 /PRNewswire/ -- Layne's Chicken Fingers, the fast-growing, 50+ location chicken finger franchise known for its hand-breaded...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-11-14T19:01:00+00:00",
+   "tickers": []
+  },
   {
    "id": "24ec55bc9614",
    "title": "Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors",
@@ -164,6 +178,25 @@
    "domain": "investing.com",
    "published": "2026-11-14T18:52:05+00:00",
    "tickers": []
+  },
+  {
+   "id": "1e2bee54d017",
+   "title": "Stock Indexes Settle Mostly Lower as Chipmakers Slide",
+   "link": "https://www.nasdaq.com/articles/stock-indexes-settle-mostly-lower-chipmakers-slide",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down -0.40% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.10%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -1.22%. December E-mini S&P futures (ESZ26 ) fell -0.46%, and December E-mini Nasdaq futures...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-11-14T18:49:59+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
   },
   {
    "id": "c4efd2e2cee7",
@@ -804,25 +837,6 @@
    "tickers": [
     "KO",
     "PEP"
-   ]
-  },
-  {
-   "id": "1e2bee54d017",
-   "title": "Stock Indexes Settle Mostly Lower as Chipmakers Slide",
-   "link": "https://www.nasdaq.com/articles/stock-indexes-settle-mostly-lower-chipmakers-slide",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down -0.40% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.10%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -1.22%. December E-mini S&P futures (ESZ26 ) fell -0.46%, and December E-mini Nasdaq futures...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-11-14T18:20:09+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
    ]
   },
   {
@@ -8893,20 +8907,6 @@
    "tickers": [
     "CME"
    ]
-  },
-  {
-   "id": "5adb65f8940f",
-   "title": "The Grand Theft Auto 6 economy reaches far and wide",
-   "link": "https://seekingalpha.com/news/4670613-the-grand-theft-auto-6-economy-reaches-far-and-wide?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-14T12:00:48+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
