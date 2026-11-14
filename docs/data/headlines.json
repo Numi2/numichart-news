@@ -1,8 +1,43 @@
 {
- "generated": "2026-11-14T15:17:13.378894+00:00",
+ "generated": "2026-11-14T15:24:15.632353+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "55b1bc342913",
+   "title": "See Which Recent 13F Filers Hold VTI But Walleye Trading Exited",
+   "link": "https://www.nasdaq.com/articles/see-which-recent-13f-filers-hold-vti-walleye-trading-exited",
+   "summary": "At Holdings Channel, we have reviewed the latest batch of the 135 most recent 13F filings for the 09/30/2026 reporting period, and noticed that Vanguard Morningstar Total Stock Market ETF (Symbol: VTI) was held by 34 of these funds. When hedge fund managers appear to be thinking",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-14T15:16:48+00:00",
+   "tickers": [
+    "MORN",
+    "VYMI",
+    "VTI"
+   ]
+  },
+  {
+   "id": "80aff4f4693f",
+   "title": "Rising rents draw Wall Street money to industrial outdoor storage lot investments across the U.S.",
+   "link": "https://www.cnbc.com/2026/11/14/real-estate-rental-income-industrial-storage-market.html",
+   "summary": "A real estate investment in markets across the U.S. called 'industrial outdoor storage' is attracting Wall Street giants including Brookfield and Blackstone.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-11-14T15:14:57+00:00",
+   "tickers": [
+    "BN",
+    "BX"
+   ]
+  },
   {
    "id": "1ceab45296cd",
    "title": "Notable tech headlines for the week: Nvidia, Microsoft and Cisco in focus",
@@ -8842,42 +8877,16 @@
    "domain": "biztoc.com",
    "published": "2026-11-14T06:58:01+00:00",
    "tickers": []
-  },
-  {
-   "id": "83814ba83970",
-   "title": "The Maturing Phase Of AI: From Enthusiasm To Moderation",
-   "link": "https://seekingalpha.com/article/4968148-maturing-phase-of-ai-from-enthusiasm-to-moderation?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-14T06:55:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ae4737105545",
-   "title": "Maharashtra Seamless Q2 FY27 slides: margins dip on inventory impact",
-   "link": "https://www.investing.com/news/company-news/maharashtra-seamless-q2-fy27-slides-margins-dip-on-inventory-impact-93CH-5027159",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-11-14T06:53:43+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
   "JIRE": "JPMorgan International Research Enhanced Equity ETF",
+  "VYMI": "Vanguard International High Dividend Yield ETF",
   "WAB": "Westinghouse Air Brake Technologies",
   "BTC": "Grayscale Bitcoin Mini Trust (BTC)",
   "TSM": "Taiwan Semiconductor Manufacturing",
   "QQQI": "NEOS Nasdaq 100 High Income ETF",
+  "VTI": "Vanguard Total Stock Market ETF",
   "WST": "West Pharmaceutical Services",
   "CHH": "Choice Hotels International",
   "FIGR": "Figure Technology Solutions",
@@ -8946,11 +8955,13 @@
   "NVDA": "Grace Hopper",
   "ARM": "Arm Holdings",
   "LCID": "Lucid Group",
+  "MORN": "Morningstar",
   "ROST": "Ross Stores",
   "TSN": "Tyson Foods",
   "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
   "BN": "Brookfield",
+  "BX": "Blackstone",
   "CMS": "CMS Energy",
   "CVS": "CVS Health",
   "F": "Ford Motor",
