@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T05:16:04.722904+00:00",
+ "generated": "2026-11-14T05:23:09.254834+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -165,6 +165,22 @@
    "domain": "cnbc.com",
    "published": "2026-11-14T05:08:24+00:00",
    "tickers": []
+  },
+  {
+   "id": "c8a99fd46659",
+   "title": "Venture Global senior VP Fory Musser sells $6.58M in stock",
+   "link": "https://www.investing.com/news/insider-trading-news/venture-global-senior-vp-fory-musser-sells-658m-in-stock-93CH-5027075",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-14T05:01:11+00:00",
+   "tickers": [
+    "VG"
+   ]
   },
   {
    "id": "6b09d1b7a959",
@@ -8778,20 +8794,6 @@
    "tickers": [
     "CCK"
    ]
-  },
-  {
-   "id": "f303c4ce23a0",
-   "title": "TrustBIX closes $227,000 private placement financing",
-   "link": "https://www.investing.com/news/company-news/trustbix-closes-227000-private-placement-financing-93CH-5026734",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-13T23:04:38+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8851,6 +8853,7 @@
   "CCK": "Crown Holdings",
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
+  "VG": "Venture Global",
   "EG": "Everest Group",
   "LLY": "Eli Lilly and",
   "MT": "ArcelorMittal",
