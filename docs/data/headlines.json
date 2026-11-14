@@ -1,8 +1,40 @@
 {
- "generated": "2026-11-14T06:23:14.634415+00:00",
+ "generated": "2026-11-14T06:34:26.340883+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "dc8c6e8c1723",
+   "title": "Embraer Q3: Strong Operating Result With Better Outlook Ahead",
+   "link": "https://seekingalpha.com/article/4968132-embraer-q3-strong-operating-result-with-better-outlook-ahead?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-14T06:25:20+00:00",
+   "tickers": [
+    "EMBJ"
+   ]
+  },
+  {
+   "id": "596a9d6e07ce",
+   "title": "Lowe's Companies Can Keep Capturing Upside As Remodeling Spending Rises",
+   "link": "https://seekingalpha.com/article/4968130-lowes-companies-can-keep-capturing-upside-as-remodeling-spending-rises?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-14T06:20:31+00:00",
+   "tickers": [
+    "LOW"
+   ]
+  },
   {
    "id": "e1145de988d9",
    "title": "Crescent Energy: The Stock Should Begin To Perform Better",
@@ -171,6 +203,20 @@
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
    "published": "2026-11-14T06:00:06+00:00",
+   "tickers": []
+  },
+  {
+   "id": "9005438806dc",
+   "title": "Ecuador wants to monetize its biodiversity — while still drilling for oil",
+   "link": "https://www.cnbc.com/2026/11/14/ecuador-biodiversity-green-finance-oil.html",
+   "summary": "Ecuador is planning to channel funds into its biodiversity, but faces a key challenge: its reliance on oil.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-11-14T06:00:01+00:00",
    "tickers": []
   },
   {
@@ -8742,50 +8788,6 @@
    "domain": "biztoc.com",
    "published": "2026-11-13T23:23:29+00:00",
    "tickers": []
-  },
-  {
-   "id": "5c7eba46dac7",
-   "title": "Seer, Inc. 2026 Q3 - Results - Earnings Call Presentation",
-   "link": "https://seekingalpha.com/article/4968053-seer-inc-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-13T23:23:26+00:00",
-   "tickers": []
-  },
-  {
-   "id": "97e701ab5fc5",
-   "title": "Agi Inc. 2026 Q3 - Results - Earnings Call Presentation",
-   "link": "https://seekingalpha.com/article/4968052-agi-inc-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-13T23:23:17+00:00",
-   "tickers": []
-  },
-  {
-   "id": "779b78b6fd03",
-   "title": "Jim Cramer tells investors to buy a stock his Trust is glad it owns",
-   "link": "https://biztoc.com/x/8cfe6ca9387aa3f0?ref=rss",
-   "summary": "Costco has always struck me as an unusual retail business. Customers pay an annual membership fee just for the privilege of shopping there. And the crazy part is that the model has helped build a fiercely loyal customer base. Between the bulk discounts, the famous $1.50 hot dog deal it’s offered…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-13T23:22:56+00:00",
-   "tickers": [
-    "COST"
-   ]
   }
  ],
  "ticker_names": {
@@ -8831,7 +8833,6 @@
   "RGTI": "Rigetti Computing",
   "RIVN": "Rivian Automotive",
   "SOFI": "SoFi Technologies",
-  "COST": "Costco Wholesale",
   "ENSG": "The Ensign Group",
   "JPM": "JPMorgan Chase &",
   "LOW": "Lowe's Companies",
@@ -8895,6 +8896,7 @@
   "BNTX": "BioNTech",
   "FOX": "Fox Corp",
   "BLSH": "Bullish",
+  "EMBJ": "Embraer",
   "IOT": "Samsara",
   "MET": "MetLife",
   "NOVT": "Novanta",
