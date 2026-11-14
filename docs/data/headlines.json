@@ -1,8 +1,41 @@
 {
- "generated": "2026-11-14T18:23:24.550930+00:00",
+ "generated": "2026-11-14T18:29:52.368880+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "1e2bee54d017",
+   "title": "Stock Indexes Settle Mostly Lower as Chipmakers Slide",
+   "link": "https://www.nasdaq.com/articles/stock-indexes-settle-mostly-lower-chipmakers-slide",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down -0.40% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.10%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -1.22%. December E-mini S&P futures (ESZ26 ) fell -0.46%, and December E-mini Nasdaq futures...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-11-14T18:20:09+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
+  },
+  {
+   "id": "b70b279a7202",
+   "title": "FAA Administrator Bedford warns comms system will \"continue to break\" without fix",
+   "link": "https://seekingalpha.com/news/4672773-faa-administrator-bedford-warns-comms-system-will-continue-to-break-without-fix?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-14T18:18:24+00:00",
+   "tickers": []
+  },
   {
    "id": "314bd2c28eaf",
    "title": "Nationwide ground stop followed contractor upgrade to L3Harris telecommunication system: DOT’s Duffy",
@@ -168,25 +201,6 @@
    "published": "2026-11-14T18:08:19+00:00",
    "tickers": [
     "PKG"
-   ]
-  },
-  {
-   "id": "1e2bee54d017",
-   "title": "Stock Indexes Settle Mostly Lower as Chipmakers Slide",
-   "link": "https://www.nasdaq.com/articles/stock-indexes-settle-mostly-lower-chipmakers-slide",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down -0.40% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.10%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -1.22%. December E-mini S&P futures (ESZ26 ) fell -0.46%, and December E-mini Nasdaq futures...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-11-14T18:06:42+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
    ]
   },
   {
@@ -8879,20 +8893,6 @@
    "tickers": [
     "NKE"
    ]
-  },
-  {
-   "id": "a605756a9760",
-   "title": "Nebius: 2 Reasons Why You Should Buy The Bloodbath",
-   "link": "https://seekingalpha.com/article/4968176-nebius-2-reasons-you-should-buy-bloodbath?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-14T11:08:43+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
