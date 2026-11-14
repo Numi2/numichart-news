@@ -1,8 +1,38 @@
 {
- "generated": "2026-11-14T17:16:33.626603+00:00",
+ "generated": "2026-11-14T17:23:50.707014+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "18b1f4109a41",
+   "title": "Novo's Wegovy® was associated with a reduction in food noise according to real-world studies at ObesityWeek® 2026",
+   "link": "https://www.prnewswire.com/news-releases/novos-wegovy-was-associated-with-a-reduction-in-food-noise-according-to-real-world-studies-at-obesityweek-2026-302939553.html",
+   "summary": "Statistically significant reductions in food noise scores from baseline were observed in adults taking semaglutide injection within the first month of initiation and through six months in the SIGNAL study1 Oral semaglutide was associated with about a 25% reduction from baseline in...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-11-14T17:15:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "4b6e863aaa7d",
+   "title": "Super Micro Computer: Explosive Growth, But Broken Cash Conversion",
+   "link": "https://seekingalpha.com/article/4968208-super-micro-computer-explosive-growth-but-broken-cash-conversion?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-14T17:14:17+00:00",
+   "tickers": [
+    "SMCI"
+   ]
+  },
   {
    "id": "e4c2ac2fa6c4",
    "title": "Thousands of US flights canceled, delayed as air travel system recovers from shutdown",
@@ -213,6 +243,25 @@
    "published": "2026-11-14T17:07:20+00:00",
    "tickers": [
     "R"
+   ]
+  },
+  {
+   "id": "1e2bee54d017",
+   "title": "Stock Indexes Settle Mostly Lower as Chipmakers Slide",
+   "link": "https://www.nasdaq.com/articles/stock-indexes-settle-mostly-lower-chipmakers-slide",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down -0.40% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.10%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -1.22%. December E-mini S&P futures (ESZ26 ) fell -0.46%, and December E-mini Nasdaq futures...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-11-14T17:06:32+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
    ]
   },
   {
@@ -430,25 +479,6 @@
    "domain": "prnewswire.com",
    "published": "2026-11-14T17:00:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "1e2bee54d017",
-   "title": "Stock Indexes Settle Mostly Lower as Chipmakers Slide",
-   "link": "https://www.nasdaq.com/articles/stock-indexes-settle-mostly-lower-chipmakers-slide",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down -0.40% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.10%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -1.22%. December E-mini S&P futures (ESZ26 ) fell -0.46%, and December E-mini Nasdaq futures...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-11-14T16:54:25+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
-   ]
   },
   {
    "id": "dc9096b650d1",
@@ -8872,38 +8902,6 @@
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
    "published": "2026-11-14T09:45:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "5b6da01a4687",
-   "title": "Tech companies are betting big on AI shopping, but Americans may already have bot fatigue as 72% don’t plan to use it for holiday gifts",
-   "link": "https://biztoc.com/x/3c341fb81e9a47ec?ref=rss",
-   "summary": "Tech companies have spent the past year teaching AI how to shop. Google has introduced an AI-powered shopping cart, Meta’s Muse can search for products and prepare purchases for approval, and OpenAI’s new ChatGPT Wallet lets eligible users pay for purchases through an AI agent. Adobe expects…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-14T09:44:59+00:00",
-   "tickers": [
-    "GOOGL",
-    "ADBE",
-    "META"
-   ]
-  },
-  {
-   "id": "255412ef13dd",
-   "title": "Trump came for the H-1B visa. We spent a year reporting on the fallout",
-   "link": "https://biztoc.com/x/1009c7184959fcaa?ref=rss",
-   "summary": "Business Insider spoke to more than 20 H-1B visa holders and hopefuls after the $100,000 H-1B fee was announced. Rob Dobi for BI Immigration policies are changing at breakneck speed. For people chasing the American dream through the coveted H-1B visa, it has meant a year of chaos. In September…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-14T09:44:57+00:00",
    "tickers": []
   }
  ],
