@@ -1,8 +1,36 @@
 {
- "generated": "2026-11-14T17:43:33.791729+00:00",
+ "generated": "2026-11-14T17:50:13.470435+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "638da9dfbecd",
+   "title": "/C O R R E C T I O N - WeaveGrid/",
+   "link": "https://www.prnewswire.com/news-releases/north-carolinas-electric-cooperatives-launches-evconnectnc-powered-by-weavegrid-to-maximize-charging-during-lower-demand-and-power-cost-periods-302913655.html",
+   "summary": "In the news release, North Carolina's Electric Cooperatives Launches EVConnectNC, Powered by WeaveGrid, to Maximize Charging During Lower Demand and Power Cost Periods, issued 20-Oct-2026 by WeaveGrid over PR Newswire, we are advised by the company that changes have been made. The...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-11-14T17:48:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a220594d2a40",
+   "title": "Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors",
+   "link": "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html",
+   "summary": "Two Nvidia investors with about $2.13 billion of stock disclosed as of June 30 are calling for a deliberate leadership search after Huang’s resignation.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-11-14T17:46:06+00:00",
+   "tickers": []
+  },
   {
    "id": "103fcf0f2d8f",
    "title": "AGNC’s Book Value Fell 17% in One Quarter. Here’s Why I’m Still Not Worried About the 17.5%-Yielding Dividend Just Yet",
@@ -256,17 +284,17 @@
    "tickers": []
   },
   {
-   "id": "a220594d2a40",
-   "title": "Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors",
-   "link": "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html",
-   "summary": "Two Nvidia investors with about $2.13 billion of stock disclosed as of June 30 are calling for a deliberate leadership search after Huang’s resignation.",
+   "id": "dd8f7f37f92b",
+   "title": "A Larger-Than-Normal Fed Rate Hike in December Now Looks More Likely. Here's Why.",
+   "link": "https://www.nasdaq.com/articles/larger-normal-fed-rate-hike-december-now-looks-more-likely-heres-why",
+   "summary": "Key PointsOne Federal Reserve official says a larger rate hike in December is appropriate.",
    "article_text": "",
-   "source": "CNBC Top",
+   "source": "NASDAQ Markets",
    "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-11-14T17:35:51+00:00",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-11-14T17:35:01+00:00",
    "tickers": []
   },
   {
@@ -328,22 +356,19 @@
    ]
   },
   {
-   "id": "1e2bee54d017",
-   "title": "Stock Indexes Settle Mostly Lower as Chipmakers Slide",
-   "link": "https://www.nasdaq.com/articles/stock-indexes-settle-mostly-lower-chipmakers-slide",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down -0.40% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.10%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -1.22%. December E-mini S&P futures (ESZ26 ) fell -0.46%, and December E-mini Nasdaq futures...",
+   "id": "ff40846cdda5",
+   "title": "Bitcoin Is Slumping, but Michael Saylor Says Strategy Can Create $10 Billion to $30 Billion in &quot;Digital Credit&quot;",
+   "link": "https://www.nasdaq.com/articles/bitcoin-slumping-michael-saylor-says-strategy-can-create-10-billion-30-billion-digital",
+   "summary": "Key PointsMichael Saylor said on Strategy’s third-quarter earnings call that the company could create between $10 billion and $30 billion of “digital credit.”",
    "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
    "domain": "nasdaq.com",
-   "published": "2026-11-14T17:30:00+00:00",
+   "published": "2026-11-14T17:31:00+00:00",
    "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
+    "MSTR"
    ]
   },
   {
@@ -417,6 +442,22 @@
    "domain": "biztoc.com",
    "published": "2026-11-14T17:24:51+00:00",
    "tickers": []
+  },
+  {
+   "id": "208fba28b5a8",
+   "title": "AGNC’s Book Value Fell 17% in One Quarter. Here’s Why I’m Still Not Worried About the 17.5%-Yielding Dividend Just Yet.",
+   "link": "https://www.nasdaq.com/articles/agncs-book-value-fell-17-one-quarter-heres-why-im-still-not-worried-about-175-yielding",
+   "summary": "Key PointsAGNC’s tangible book value fell 16.9% in the third quarter to $7.13 per share, but the $0.12 monthly dividend remained in place.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "dividend",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-11-14T17:24:01+00:00",
+   "tickers": [
+    "AGNC"
+   ]
   },
   {
    "id": "84bd2c532e48",
@@ -922,6 +963,25 @@
    "published": "2026-11-14T17:07:20+00:00",
    "tickers": [
     "R"
+   ]
+  },
+  {
+   "id": "1e2bee54d017",
+   "title": "Stock Indexes Settle Mostly Lower as Chipmakers Slide",
+   "link": "https://www.nasdaq.com/articles/stock-indexes-settle-mostly-lower-chipmakers-slide",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down -0.40% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.10%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -1.22%. December E-mini S&P futures (ESZ26 ) fell -0.46%, and December E-mini Nasdaq futures...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-11-14T17:06:32+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
    ]
   },
   {
@@ -8839,66 +8899,6 @@
    "tickers": [
     "NVDA"
    ]
-  },
-  {
-   "id": "6c174c12153e",
-   "title": "Hidden homeownership costs can catch first-time buyers off guard",
-   "link": "https://biztoc.com/x/0fb397632223c203?ref=rss",
-   "summary": "Beyond the mortgage payment, other expenses like property taxes, maintenance and homeowners insurance add to the cost of owning a home.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-14T10:30:38+00:00",
-   "tickers": []
-  },
-  {
-   "id": "0cec2b0a6848",
-   "title": "Why homeowners who go electric have a secret advantage",
-   "link": "https://biztoc.com/x/ff7832753a404ab5?ref=rss",
-   "summary": "Homeowners who go green to power their houses and cars have an extra economic edge not available to renters.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-14T10:30:38+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6d5d7bed8276",
-   "title": "Meet ‘Captain Keel,’ the 37-year-old steering a Bitcoin miner into the AI data center gold rush",
-   "link": "https://biztoc.com/x/c27ac9a699505e4e?ref=rss",
-   "summary": "In late 2023, Bitcoin miner Ben Gagnon concluded that his employer, Bitfarms of Quebec, was in the wrong business. For Gagnon, Bitfarms’ greatest value lay not in the giant racks of GPUs that generated Bitcoin, but the immense power supplies it controlled. The then 34-year-old chief mining officer…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-14T10:30:32+00:00",
-   "tickers": [
-    "BITF"
-   ]
-  },
-  {
-   "id": "52e2e23b567d",
-   "title": "Rivian's spinoff thinks America's $51,000 average car price creates an opening for e-bikes",
-   "link": "https://biztoc.com/x/0e0fd8019506fef3?ref=rss",
-   "summary": "Also, a Rivian spinoff, is selling the launch edition of its consumer bike. Amber De Vos/Getty Images for ALSO America's car prices are at a record high. Also, a Rivian spinoff thinks its e-bikes could be an antidote to the US's SUV obsession. Bringing a full-size vehicle to the grocery store is…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-14T10:30:30+00:00",
-   "tickers": [
-    "RIVN"
-   ]
   }
  ],
  "ticker_names": {
@@ -8939,7 +8939,6 @@
   "NYT": "The New York Times",
   "LITE": "Lumentum Holdings",
   "QUBT": "Quantum Computing",
-  "RIVN": "Rivian Automotive",
   "UBER": "Uber Technologies",
   "AXP": "American Express",
   "CLF": "Cleveland-Cliffs",
@@ -9001,7 +9000,6 @@
   "NWSA": "News Corp",
   "APP": "AppLovin",
   "AVGO": "Broadcom",
-  "BITF": "Bitfarms",
   "DASH": "DoorDash",
   "ENB": "Enbridge",
   "GOOG": "Alphabet",
