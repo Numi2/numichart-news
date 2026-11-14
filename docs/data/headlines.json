@@ -1,8 +1,22 @@
 {
- "generated": "2026-11-14T17:10:47.472775+00:00",
+ "generated": "2026-11-14T17:16:33.626603+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "e4c2ac2fa6c4",
+   "title": "Thousands of US flights canceled, delayed as air travel system recovers from shutdown",
+   "link": "https://www.investing.com/news/stock-market-news/thousands-of-us-flights-canceled-delayed-as-air-travel-system-recovers-from-shutdown-5027394",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-14T17:12:19+00:00",
+   "tickers": []
+  },
   {
    "id": "79e44c5d6aa4",
    "title": "Quantum Computing: 3 Key Takeaways for Long-Term Investors",
@@ -202,25 +216,6 @@
    ]
   },
   {
-   "id": "1e2bee54d017",
-   "title": "Stock Indexes Settle Mostly Lower as Chipmakers Slide",
-   "link": "https://www.nasdaq.com/articles/stock-indexes-settle-mostly-lower-chipmakers-slide",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down -0.40% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.10%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -1.22%. December E-mini S&P futures (ESZ26 ) fell -0.46%, and December E-mini Nasdaq futures...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-11-14T17:06:32+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
-   ]
-  },
-  {
    "id": "db6c55928731",
    "title": "People think I’m a mug for not moving to Monaco, says Phones 4u billionaire",
    "link": "https://biztoc.com/x/ac3b7e33ff82d9d3?ref=rss",
@@ -233,6 +228,36 @@
    "domain": "biztoc.com",
    "published": "2026-11-14T17:04:50+00:00",
    "tickers": []
+  },
+  {
+   "id": "ef7d42fba258",
+   "title": "Amylyx avexitide trial meets primary endpoint for hypoglycemia",
+   "link": "https://www.investing.com/news/company-news/amylyx-avexitide-trial-meets-primary-endpoint-for-hypoglycemia-93CH-5027425",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-14T17:04:41+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a1d7c775e489",
+   "title": "Lilly presents obesity drug trial results at ObesityWeek 2026",
+   "link": "https://www.investing.com/news/company-news/lilly-presents-obesity-drug-trial-results-at-obesityweek-2026-93CH-5027426",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-14T17:04:41+00:00",
+   "tickers": [
+    "LLY"
+   ]
   },
   {
    "id": "bfb034b4ccce",
@@ -290,6 +315,34 @@
    "sentiment": "negative",
    "domain": "biztoc.com",
    "published": "2026-11-14T17:04:24+00:00",
+   "tickers": []
+  },
+  {
+   "id": "1182b1421272",
+   "title": "Amdocs director Amos Genish buys $149,730 in shares",
+   "link": "https://www.investing.com/news/insider-trading-news/amdocs-director-amos-genish-buys-149730-in-shares-93CH-5027422",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-14T17:01:16+00:00",
+   "tickers": []
+  },
+  {
+   "id": "05eb879aeed5",
+   "title": "Nylim MacKay portfolio manager sells $46,266 in MMD shares",
+   "link": "https://www.investing.com/news/insider-trading-news/nylim-mackay-portfolio-manager-sells-46266-in-mmd-shares-93CH-5027421",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-14T17:01:09+00:00",
    "tickers": []
   },
   {
@@ -377,6 +430,25 @@
    "domain": "prnewswire.com",
    "published": "2026-11-14T17:00:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "1e2bee54d017",
+   "title": "Stock Indexes Settle Mostly Lower as Chipmakers Slide",
+   "link": "https://www.nasdaq.com/articles/stock-indexes-settle-mostly-lower-chipmakers-slide",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down -0.40% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.10%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -1.22%. December E-mini S&P futures (ESZ26 ) fell -0.46%, and December E-mini Nasdaq futures...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-11-14T16:54:25+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
   },
   {
    "id": "dc9096b650d1",
@@ -559,20 +631,6 @@
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
    "published": "2026-11-14T16:45:08+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e4c2ac2fa6c4",
-   "title": "Thousands of US flights canceled, delayed as air travel system recovers from shutdown",
-   "link": "https://www.investing.com/news/stock-market-news/thousands-of-us-flights-canceled-delayed-as-air-travel-system-recovers-from-shutdown-5027394",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-14T16:42:20+00:00",
    "tickers": []
   },
   {
@@ -8846,62 +8904,6 @@
    "sentiment": "neutral",
    "domain": "biztoc.com",
    "published": "2026-11-14T09:44:57+00:00",
-   "tickers": []
-  },
-  {
-   "id": "c42d726423be",
-   "title": "Should You Really Buy Nvidia Stock After CEO Jensen Huang's Exit? Wall Street Has a Clear Answer for Investors.",
-   "link": "https://www.nasdaq.com/articles/should-you-really-buy-nvidia-stock-after-ceo-jensen-huangs-exit-wall-street-has-clear",
-   "summary": "Key PointsJensen Huang resigned from his position as CEO of Nvidia following revelations of extramarital affairs, including one with an alleged Chinese spy.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-14T09:41:02+00:00",
-   "tickers": []
-  },
-  {
-   "id": "59a390299cc3",
-   "title": "Gator Capital Management acquires $82,690 in U S Global Investors stock",
-   "link": "https://www.investing.com/news/insider-trading-news/gator-capital-management-acquires-82690-in-u-s-global-investors-stock-93CH-5027256",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-14T09:31:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "bd4adba08cd6",
-   "title": "China’s Singles’ Day Sells Robots, AI Credits and a Little Help Around the House",
-   "link": "https://biztoc.com/x/f7e4463ede9d9a15?ref=rss",
-   "summary": "The real Ning Zetao showed up on a shopping livestream to flex his muscles. So did his artificial intelligence double. The former world champion swimmer was one of six celebrities and creators whose digital likenesses took turns hosting broadcasts for Tmall’s Singles’ Day promotion, according to…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-14T09:30:03+00:00",
-   "tickers": []
-  },
-  {
-   "id": "bcc52cc0db4e",
-   "title": "Prediction: Nov. 18 Will Be a Massive Day for the Stock Market",
-   "link": "https://www.nasdaq.com/articles/prediction-nov-18-will-be-massive-day-stock-market",
-   "summary": "Key PointsInvestors have looked to artificial intelligence (AI) stocks to set the pace for the stock market in recent years.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-14T09:30:02+00:00",
    "tickers": []
   }
  ],
