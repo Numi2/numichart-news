@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T07:52:09.958842+00:00",
+ "generated": "2026-11-14T07:57:56.051195+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -122,6 +122,20 @@
    ]
   },
   {
+   "id": "9c37d3583e4e",
+   "title": "China, US discuss tariffs, farm trade at first trade council meeting",
+   "link": "https://www.investing.com/news/economy-news/china-us-discuss-tariffs-farm-trade-at-first-trade-council-meeting-5027183",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-14T07:42:25+00:00",
+   "tickers": []
+  },
+  {
    "id": "cce6476dc7b0",
    "title": "MV Transportation Supports the Nomination of Mark Aesch to serve as FTA Administrator",
    "link": "https://www.prnewswire.com/news-releases/mv-transportation-supports-the-nomination-of-mark-aesch-to-serve-as-fta-administrator-302939488.html",
@@ -149,6 +163,22 @@
    "published": "2026-11-14T07:37:23+00:00",
    "tickers": [
     "POST"
+   ]
+  },
+  {
+   "id": "b99138333a98",
+   "title": "Paylocity director Steven Sarowitz sells $72,016 in common stock",
+   "link": "https://www.investing.com/news/insider-trading-news/paylocity-director-steven-sarowitz-sells-72016-in-common-stock-93CH-5027202",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-14T07:36:20+00:00",
+   "tickers": [
+    "PCTY"
    ]
   },
   {
@@ -540,9 +570,9 @@
    ]
   },
   {
-   "id": "9c37d3583e4e",
-   "title": "China, US discuss tariffs, farm trade at first trade council meeting",
-   "link": "https://www.investing.com/news/economy-news/china-us-discuss-tariffs-farm-trade-at-first-trade-council-meeting-5027183",
+   "id": "49b8c1fb1dca",
+   "title": "Microsoft consumer services recover after global outage, enterprise issues persist",
+   "link": "https://www.investing.com/news/company-news/microsoft-consumer-services-recover-after-global-outage-enterprise-issues-persist-5027188",
    "summary": "",
    "article_text": "",
    "source": "Investing.com",
@@ -550,8 +580,10 @@
    "type": "markets",
    "sentiment": "neutral",
    "domain": "investing.com",
-   "published": "2026-11-14T07:18:19+00:00",
-   "tickers": []
+   "published": "2026-11-14T07:21:16+00:00",
+   "tickers": [
+    "MSFT"
+   ]
   },
   {
    "id": "43c9d9924afc",
@@ -8769,34 +8801,6 @@
    "domain": "biztoc.com",
    "published": "2026-11-13T23:54:21+00:00",
    "tickers": []
-  },
-  {
-   "id": "ae59cd7b843a",
-   "title": "Increasing cost of housing squeezes Americans out of market",
-   "link": "https://biztoc.com/x/6aa4a4a48a2c1d51?ref=rss",
-   "summary": "Sales of existing homes in the U.S. fell last month to their lowest level in more than 16 years. That's according to a new report by the National Association of Realtors. In October alone, sales dropped to 3.75 million homes, an 8.8% drop compared with the same time last year. Stephanie Sy reports…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-13T23:53:31+00:00",
-   "tickers": []
-  },
-  {
-   "id": "8a94bf28e82d",
-   "title": "Jensen Huang Resigns, Leaving Nvidia’s China Chip Fight Without Its Chief Advocate",
-   "link": "https://biztoc.com/x/986fc7b466bfe775?ref=rss",
-   "summary": "Jensen Huang resigned as Nvidia’s chief executive, Nvidia said in a statement Thursday, leaving the most influential corporate voice in the U.S.-China fight over A.I. chips silent. The sudden exit followed two reported extramarital affairs involving the erstwhile CEO. Huang was a key interlocutor…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-11-13T23:53:28+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8842,6 +8846,7 @@
   "HOOD": "Robinhood Markets",
   "JNJ": "Johnson & Johnson",
   "MOH": "Molina Healthcare",
+  "PCTY": "Paylocity Holding",
   "RIVN": "Rivian Automotive",
   "SOFI": "SoFi Technologies",
   "TXN": "Texas Instruments",
