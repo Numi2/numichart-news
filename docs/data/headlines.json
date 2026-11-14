@@ -1,8 +1,39 @@
 {
- "generated": "2026-11-14T10:57:19.915867+00:00",
+ "generated": "2026-11-14T11:06:23.256456+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "834df0b37368",
+   "title": "Teleperformance: Deep Value Is Calling",
+   "link": "https://seekingalpha.com/article/4968174-teleperformance-deep-value-calling?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-14T10:59:57+00:00",
+   "tickers": []
+  },
+  {
+   "id": "85c7dbf948db",
+   "title": "Constellation Energy: The Coiled Spring Releases As Rising Power Prices Meet Calpine Synergy",
+   "link": "https://seekingalpha.com/article/4968172-constellation-energy-the-coiled-spring-releases-as-rising-power-prices-meet-calpine-synergy?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-14T10:55:14+00:00",
+   "tickers": [
+    "CEG",
+    "STZ"
+   ]
+  },
   {
    "id": "b3c945fb053f",
    "title": "Germany suffers setback in joining fighter jet project",
@@ -8798,34 +8829,6 @@
    "domain": "nasdaq.com",
    "published": "2026-11-14T01:54:02+00:00",
    "tickers": []
-  },
-  {
-   "id": "c475a8efd531",
-   "title": "Liberty Defense Holdings Ltd Q3 Sales Increase",
-   "link": "https://www.nasdaq.com/articles/liberty-defense-holdings-ltd-q3-sales-increase",
-   "summary": "(RTTNews) - Liberty Defense Holdings Ltd (SCAN.V) released Loss for third quarter of -$2.97 million",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-14T01:52:29+00:00",
-   "tickers": []
-  },
-  {
-   "id": "833a37fdece7",
-   "title": "SUPERINTENDENCY OF INDUSTRY AND COMMERCE CLOSES THE INVESTIGATION INITIATED AGAINST ECOPETROL AND ITS SUBSIDIARIES CENIT AND OCENSA",
-   "link": "https://www.prnewswire.com/news-releases/superintendency-of-industry-and-commerce-closes-the-investigation-initiated-against-ecopetrol-and-its-subsidiaries-cenit-and-ocensa-302939462.html",
-   "summary": "BOGOTA, Nov. 13, 2026 /PRNewswire/ -- Ecopetrol S.A. (BVC: ECOPETROL; NYSE: EC) (\"Ecopetrol\" or the \"Company\") hereby informs that, by Resolution No. 88976 of 2026 (the \"Resolution\"), the Superintendency of Industry and Commerce of Colombia (Superintendencia de Industria y Comercio, or...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "prnewswire.com",
-   "published": "2026-11-14T01:51:00+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8854,8 +8857,10 @@
   "CHTR": "Charter Communications",
   "CRVS": "Corvus Pharmaceuticals",
   "MIRM": "Mirum Pharmaceuticals",
+  "CEG": "Constellation Energy",
   "MANH": "Manhattan Associates",
   "SMCI": "Super Micro Computer",
+  "STZ": "Constellation Brands",
   "AKAM": "Akamai Technologies",
   "BBAI": "BigBear.ai Holdings",
   "ACGL": "Arch Capital Group",
