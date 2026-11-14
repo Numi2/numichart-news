@@ -1,8 +1,22 @@
 {
- "generated": "2026-11-14T11:33:46.487008+00:00",
+ "generated": "2026-11-14T11:39:24.865303+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "314bd2c28eaf",
+   "title": "Flight disruptions continue after FAA lifts ground stop, some college football games delayed",
+   "link": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
+   "summary": "U.S. flights are resuming after the FAA ground stop, but delays and cancellations are still piling up.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-11-14T11:34:02+00:00",
+   "tickers": []
+  },
   {
    "id": "473e98405957",
    "title": "Engie: Q3 Earnings Growth Changes Our View (Rating Upgrade)",
@@ -18,6 +32,22 @@
    "tickers": []
   },
   {
+   "id": "9d84082f878d",
+   "title": "Most Investors Are Wrong About Who Owns the Most Bitcoin. That Misunderstanding Is a Buying Opportunity.",
+   "link": "https://www.nasdaq.com/articles/most-investors-are-wrong-about-who-owns-most-bitcoin-misunderstanding-buying-opportunity",
+   "summary": "Key PointsSatoshi Nakamoto owns an estimated 1.1 million BTC.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-14T11:22:00+00:00",
+   "tickers": [
+    "BTC"
+   ]
+  },
+  {
    "id": "c2749f91e938",
    "title": "Advanta To Strengthen Market Presence in Africa with Strategic Acquisition of Hytech",
    "link": "https://www.prnewswire.com/news-releases/advanta-to-strengthen-market-presence-in-africa-with-strategic-acquisition-of-hytech-302939525.html",
@@ -29,20 +59,6 @@
    "sentiment": "neutral",
    "domain": "prnewswire.com",
    "published": "2026-11-14T11:21:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "314bd2c28eaf",
-   "title": "Flight disruptions continue after FAA lifts ground stop, some college football games delayed",
-   "link": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
-   "summary": "U.S. flights are resuming after the FAA ground stop, but delays and cancellations are still piling up.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-11-14T11:19:47+00:00",
    "tickers": []
   },
   {
@@ -805,6 +821,22 @@
    "domain": "biztoc.com",
    "published": "2026-11-14T10:38:30+00:00",
    "tickers": []
+  },
+  {
+   "id": "401c42cacbcf",
+   "title": "Netflix Stock Has Been Cut in Half Since Its 2025 Peak. History Says What Came After Its Last 5 Drops Like This.",
+   "link": "https://www.nasdaq.com/articles/netflix-stock-has-been-cut-half-its-2025-peak-history-says-what-came-after-its-last-5",
+   "summary": "Key PointsNetflix shares have now closed at least 50% under a record high six times since 2002.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-11-14T10:33:02+00:00",
+   "tickers": [
+    "NFLX"
+   ]
   },
   {
    "id": "f6a81395a89c",
@@ -8791,38 +8823,6 @@
    "domain": "biztoc.com",
    "published": "2026-11-14T02:25:17+00:00",
    "tickers": []
-  },
-  {
-   "id": "fd2e8aeffb0b",
-   "title": "Delta: It will take time to reset operations",
-   "link": "https://biztoc.com/x/55a81724c19594c9?ref=rss",
-   "summary": "Delta Air Lines Inc. stated that it \"will take time\" to reset its operations after the United States Federal Aviation Administration (FAA) lifted today's nationwide ground stop.In an official statemen...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-14T02:25:17+00:00",
-   "tickers": [
-    "DAL"
-   ]
-  },
-  {
-   "id": "0239de0a0745",
-   "title": "One Microsoft glitch stalled courts, government offices and police—exposing how fragile America’s systems really are",
-   "link": "https://biztoc.com/x/54437ecb6c006005?ref=rss",
-   "summary": "On Thursday, Nov. 12, a widespread Microsoft outage left millions around the world unable to send emails, open Outlook, or use workplace tools like Teams. At first it sounded like a corporate problem: unanswered emails, derailed meetings, employees unable to get work done. Some even welcomed the…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-14T02:25:14+00:00",
-   "tickers": [
-    "MSFT"
-   ]
   }
  ],
  "ticker_names": {
@@ -8881,7 +8881,6 @@
   "ACHR": "Archer Aviation",
   "BAC": "Bank of America",
   "BSY": "Bentley Systems",
-  "DAL": "Delta Air Lines",
   "EXP": "Eagle Materials",
   "LNG": "Cheniere Energy",
   "MRCY": "Mercury Systems",
