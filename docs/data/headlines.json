@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T01:49:29.253790+00:00",
+ "generated": "2026-11-14T01:56:14.002132+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -14,8 +14,38 @@
    "type": "markets",
    "sentiment": "neutral",
    "domain": "cnbc.com",
-   "published": "2026-11-14T01:44:39+00:00",
+   "published": "2026-11-14T01:53:31+00:00",
    "tickers": []
+  },
+  {
+   "id": "833a37fdece7",
+   "title": "SUPERINTENDENCY OF INDUSTRY AND COMMERCE CLOSES THE INVESTIGATION INITIATED AGAINST ECOPETROL AND ITS SUBSIDIARIES CENIT AND OCENSA",
+   "link": "https://www.prnewswire.com/news-releases/superintendency-of-industry-and-commerce-closes-the-investigation-initiated-against-ecopetrol-and-its-subsidiaries-cenit-and-ocensa-302939462.html",
+   "summary": "BOGOTA, Nov. 13, 2026 /PRNewswire/ -- Ecopetrol S.A. (BVC: ECOPETROL; NYSE: EC) (\"Ecopetrol\" or the \"Company\") hereby informs that, by Resolution No. 88976 of 2026 (the \"Resolution\"), the Superintendency of Industry and Commerce of Colombia (Superintendencia de Industria y Comercio, or...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "prnewswire.com",
+   "published": "2026-11-14T01:51:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "fe6fed460926",
+   "title": "LITEON présente ses innovations en matière d'IA du cloud à la périphérie et la plateforme NVIDIA MGX à l'electronica 2026",
+   "link": "https://www.prnewswire.com/news-releases/liteon-presente-ses-innovations-en-matiere-dia-du-cloud-a-la-peripherie-et-la-plateforme-nvidia-mgx-a-lelectronica-2026-302939461.html",
+   "summary": "MUNICH, 14 novembre 2026 /PRNewswire/ -- LITEON Technology (2301) présente ses capacités technologiques transversales à l'electronica 2026, qui se tient du 10 au 13 novembre à Munich, en Allemagne. Sous le thème « LITEON Powers AI », LITEON présente des technologies couvrant la puissance...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-11-14T01:49:00+00:00",
+   "tickers": [
+    "NVDA"
+   ]
   },
   {
    "id": "349b50549929",
@@ -29,6 +59,20 @@
    "sentiment": "positive",
    "domain": "seekingalpha.com",
    "published": "2026-11-14T01:42:33+00:00",
+   "tickers": []
+  },
+  {
+   "id": "fa37ba2b9151",
+   "title": "Piper Sandler Initiates Coverage of Innio N.V. at Overweight",
+   "link": "https://www.nasdaq.com/articles/piper-sandler-initiates-coverage-innio-nv-overweight",
+   "summary": "Fintel reports that on November 13, 2026, Piper Sandler initiated coverage of Innio N.V. (NASDAQGS:INIO) (MUN:S0P) with a Overweight recommendation.",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "analyst",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-14T01:42:30+00:00",
    "tickers": []
   },
   {
@@ -190,6 +234,132 @@
    "domain": "biztoc.com",
    "published": "2026-11-14T01:39:22+00:00",
    "tickers": []
+  },
+  {
+   "id": "4eba927209d3",
+   "title": "Loop Capital Upgrades Autodesk to Buy from Hold",
+   "link": "https://www.nasdaq.com/articles/loop-capital-upgrades-autodesk-buy-hold",
+   "summary": "Fintel reports that on November 13, 2026, Loop Capital upgraded their outlook for Autodesk (NASDAQGS:ADSK) (BMV:ADSK) from Hold to Buy.",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-11-14T01:36:54+00:00",
+   "tickers": [
+    "ADSK"
+   ]
+  },
+  {
+   "id": "ba1748ae3a98",
+   "title": "Cotton Bulls Hold Firm on Friday",
+   "link": "https://www.nasdaq.com/articles/cotton-bulls-hold-firm-friday",
+   "summary": "Cotton futures posted Friday gains of 4 to 27 points in the front months, with deferred losses of 2 points. December was down 33 points on the week. Crude oil was up just 18 cents per barrel on the session, with the US dollar index $0.231 higher. USDA’s Export Sales...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-14T01:34:46+00:00",
+   "tickers": []
+  },
+  {
+   "id": "bcdf733a7d05",
+   "title": "Hogs Post Gains Across the Board on Friday",
+   "link": "https://www.nasdaq.com/articles/hogs-post-gains-across-board-friday",
+   "summary": "Lean hog futures found some footing on Friday, with contracts up 30 cents to $2.40 across the board on the session, as December was up $1.92 on the week. USDA’s national base hog price was reported at $43.10 on Friday afternoon, up $3.46 from the day prior. The CME Lean...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-11-14T01:34:46+00:00",
+   "tickers": [
+    "POST",
+    "CME"
+   ]
+  },
+  {
+   "id": "84e4d57b5c9a",
+   "title": "Cattle Close the Week with a Rally",
+   "link": "https://www.nasdaq.com/articles/cattle-close-week-rally",
+   "summary": "Live cattle futures saw Friday gains of $1.75 to $2.30 across the board at the close, with December $6.60 higher on the week. Cash trade saw some light dressed trade at $335-340 in the North. The Friday Fed Cattle Exchange online auction showed a few bids of $218 on 237...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-11-14T01:34:46+00:00",
+   "tickers": []
+  },
+  {
+   "id": "1e2bee54d017",
+   "title": "Stock Indexes Settle Mostly Lower as Chipmakers Slide",
+   "link": "https://www.nasdaq.com/articles/stock-indexes-settle-mostly-lower-chipmakers-slide",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down -0.40% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.10%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -1.22%. December E-mini S&P futures (ESZ26 ) fell -0.46%, and December E-mini Nasdaq futures...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-11-14T01:34:45+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
+  },
+  {
+   "id": "3928c8ef228e",
+   "title": "Corn Firm into the Weekend as Export Business Picks Up",
+   "link": "https://www.nasdaq.com/articles/corn-firm-weekend-export-business-picks",
+   "summary": "Corn futures posted modest gains on Friday, with contracts up 1 to 3 cents across the board. December saw a 4 cent gain for the week. The CmdtyView national average Cash Corn price was up 4 cents at $4.13 1/4. USDA reported a private export sale of 303,800 MT to...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-14T01:34:45+00:00",
+   "tickers": [
+    "MT"
+   ]
+  },
+  {
+   "id": "6b1f48dc51b7",
+   "title": "Wheat Posts Friday Gains",
+   "link": "https://www.nasdaq.com/articles/wheat-posts-friday-gains-0",
+   "summary": "The wheat complex is trading with gains across the three markets on to round out the week. Chicago SRW futures posted Friday gains of 5 to 9 cents across the board, as December was up just 2 cents for the week. KC HRW futures saw strength of 3 to 6...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-11-14T01:34:45+00:00",
+   "tickers": []
+  },
+  {
+   "id": "56d99f48b4b1",
+   "title": "Soybeans Post Friday Gains Following Export Announcements",
+   "link": "https://www.nasdaq.com/articles/soybeans-post-friday-gains-following-export-announcements",
+   "summary": "Soybeans posted gains of 9 ½ to 16 cents across the board on Friday, as November expired. January was up 37 ¾ cents for the week. The cmdtyView national average Cash Bean price was up 13 3/4 cents at $11.74. Soymeal futures closed with gains of $3 to $4.40, as...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-11-14T01:34:45+00:00",
+   "tickers": [
+    "POST"
+   ]
   },
   {
    "id": "007e0f5902ef",
@@ -500,41 +670,6 @@
    "tickers": []
   },
   {
-   "id": "1e2bee54d017",
-   "title": "Stock Indexes Settle Mostly Lower as Chipmakers Slide",
-   "link": "https://www.nasdaq.com/articles/stock-indexes-settle-mostly-lower-chipmakers-slide",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down -0.40% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.10%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -1.22%. December E-mini S&P futures (ESZ26 ) fell -0.46%, and December E-mini Nasdaq futures...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-11-14T01:23:19+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
-   ]
-  },
-  {
-   "id": "3928c8ef228e",
-   "title": "Corn Firm into the Weekend as Export Business Picks Up",
-   "link": "https://www.nasdaq.com/articles/corn-firm-weekend-export-business-picks",
-   "summary": "Corn futures posted modest gains on Friday, with contracts up 1 to 3 cents across the board. December saw a 4 cent gain for the week. The CmdtyView national average Cash Corn price was up 4 cents at $4.13 1/4. USDA reported a private export sale of 303,800 MT to...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-14T01:23:19+00:00",
-   "tickers": [
-    "MT"
-   ]
-  },
-  {
    "id": "5718fb66660d",
    "title": "Bob's Discount Furniture: 3 Key Takeaways for Long-Term Investors",
    "link": "https://www.nasdaq.com/articles/bobs-discount-furniture-3-key-takeaways-long-term-investors",
@@ -596,34 +731,6 @@
    "tickers": [
     "SPCX"
    ]
-  },
-  {
-   "id": "ba1748ae3a98",
-   "title": "Cotton Bulls Hold Firm on Friday",
-   "link": "https://www.nasdaq.com/articles/cotton-bulls-hold-firm-friday",
-   "summary": "Cotton futures posted Friday gains of 4 to 27 points in the front months, with deferred losses of 2 points. December was down 33 points on the week. Crude oil was up just 18 cents per barrel on the session, with the US dollar index $0.231 higher. USDA’s Export Sales...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-14T01:16:58+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6b1f48dc51b7",
-   "title": "Wheat Posts Friday Gains",
-   "link": "https://www.nasdaq.com/articles/wheat-posts-friday-gains-0",
-   "summary": "The wheat complex is trading with gains across the three markets on to round out the week. Chicago SRW futures posted Friday gains of 5 to 9 cents across the board, as December was up just 2 cents for the week. KC HRW futures saw strength of 3 to 6...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-11-14T01:16:58+00:00",
-   "tickers": []
   },
   {
    "id": "395f9a2e8ad9",
@@ -993,53 +1100,6 @@
    "domain": "investing.com",
    "published": "2026-11-14T01:06:18+00:00",
    "tickers": []
-  },
-  {
-   "id": "bcdf733a7d05",
-   "title": "Hogs Post Gains Across the Board on Friday",
-   "link": "https://www.nasdaq.com/articles/hogs-post-gains-across-board-friday",
-   "summary": "Lean hog futures found some footing on Friday, with contracts up 30 cents to $2.40 across the board on the session, as December was up $1.92 on the week. USDA’s national base hog price was reported at $43.10 on Friday afternoon, up $3.46 from the day prior. The CME Lean...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-11-14T01:04:36+00:00",
-   "tickers": [
-    "POST",
-    "CME"
-   ]
-  },
-  {
-   "id": "84e4d57b5c9a",
-   "title": "Cattle Close the Week with a Rally",
-   "link": "https://www.nasdaq.com/articles/cattle-close-week-rally",
-   "summary": "Live cattle futures saw Friday gains of $1.75 to $2.30 across the board at the close, with December $6.60 higher on the week. Cash trade saw some light dressed trade at $335-340 in the North. The Friday Fed Cattle Exchange online auction showed a few bids of $218 on 237...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-11-14T01:04:36+00:00",
-   "tickers": []
-  },
-  {
-   "id": "56d99f48b4b1",
-   "title": "Soybeans Post Friday Gains Following Export Announcements",
-   "link": "https://www.nasdaq.com/articles/soybeans-post-friday-gains-following-export-announcements",
-   "summary": "Soybeans posted gains of 9 ½ to 16 cents across the board on Friday, as November expired. January was up 37 ¾ cents for the week. The cmdtyView national average Cash Bean price was up 13 3/4 cents at $11.74. Soymeal futures closed with gains of $3 to $4.40, as...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-11-14T01:04:35+00:00",
-   "tickers": [
-    "POST"
-   ]
   },
   {
    "id": "652f5a80031e",
@@ -5257,6 +5317,22 @@
    ]
   },
   {
+   "id": "2d9ee5f595d4",
+   "title": "Walmart, Target, and Nvidia Headline a Pivotal Week for Q3 Earnings",
+   "link": "https://www.nasdaq.com/articles/walmart-target-and-nvidia-headline-pivotal-week-q3-earnings",
+   "summary": "Nvidia, Target, and Walmart reflect three notable upcoming releases in the Q3 earnings season, with Nvidia's release wrapping up the reporting cycle for the Magnificent 7 group. Total Q3 earnings for the S&P 500 members that have reported are up +24.9% year-over-year on +13.7% higher revenues.",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-13T23:00:00+00:00",
+   "tickers": [
+    "WMT"
+   ]
+  },
+  {
    "id": "7b9ffcbe3b1a",
    "title": "AiRWA Inc. announces $1.5 million private placement of common stock",
    "link": "https://www.investing.com/news/sec-filings/airwa-inc-announces-15-million-private-placement-of-common-stock-93CH-5026720",
@@ -6646,7 +6722,7 @@
    "link": "https://www.prnewswire.com/news-releases/terminales-portuarios-euroandinos-paita-sa-announces-successful-results-of-consent-solicitation-related-to-its-8-125-series-2012-1-senior-tpe-secured-notes-due-2037--302939395.html",
    "summary": "PIURA, Peru, November 13, 2026 /PRNewswire/ -- Terminales Portuarios Euroandinos Paita S.A. (the \"Company\") announced today the successful results of its previously announced consent solicitation (the \"Consent Solicitation\"), where it sought the consents (the \"Consents\") from the holders...",
    "article_text": "",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "earnings",
    "sentiment": "positive",
@@ -8698,83 +8774,10 @@
    "tickers": [
     "NDAQ"
    ]
-  },
-  {
-   "id": "ba5e850f1690",
-   "title": "Refined Energy Appoints Leo Power to Its Board of Directors",
-   "link": "https://www.globenewswire.com/news-release/2026/11/13/3402987/0/en/refined-energy-appoints-leo-power-to-its-board-of-directors.html",
-   "summary": "VANCOUVER, British Columbia, Nov. 13, 2026 (GLOBE NEWSWIRE) -- Refined Energy Corp. (CSE: RUU) (OTC: RRUUF) (FSE: CWA0) (“Refined” or the “Company”) is pleased to announce the appointment of Leo Power to its board of directors, effective November 13, 2026.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-11-13T22:00:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d5c4bf26b53c",
-   "title": "Liberty Defense Clarifies Previously Announced Credit Facility and Term Loan",
-   "link": "https://www.globenewswire.com/news-release/2026/11/13/3402988/0/en/liberty-defense-clarifies-previously-announced-credit-facility-and-term-loan.html",
-   "summary": "WILMINGTON, Mass., Nov. 13, 2026 (GLOBE NEWSWIRE) -- Liberty Defense Holdings Ltd. (“Liberty” or the “Company”) (NASDAQ: DETX; TSXV: SCAN), a leading provider of AI-based next-generation detection solutions for concealed weapons and threats, issues this clarifying news release requested by the TSX Venture Exchange (the “TSXV”) regarding a credit facility and term loan entered into by the Company with PFF, LLC (“Parabilis”) previously announced on August 22, 2024.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-11-13T22:00:00+00:00",
-   "tickers": [
-    "PFF"
-   ]
-  },
-  {
-   "id": "b26df245da56",
-   "title": "Stardust Power Reports Q3 2026 Financial Results and Business Update",
-   "link": "https://www.globenewswire.com/news-release/2026/11/13/3402989/0/en/stardust-power-reports-q3-2026-financial-results-and-business-update.html",
-   "summary": "",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-11-13T22:00:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "0f6fcf4b76a8",
-   "title": "Global Uranium Engages Nordcore Media for Marketing and Investor Awareness",
-   "link": "https://www.globenewswire.com/news-release/2026/11/13/3402990/0/en/global-uranium-engages-nordcore-media-for-marketing-and-investor-awareness.html",
-   "summary": "CALGARY, Alberta, Nov. 13, 2026 (GLOBE NEWSWIRE) -- Global Uranium Corp. (CSE: GURN | OTCQB: GURFF | FRA: Q3J0) (the “Company” or “Global Uranium”) announces its engagement of Nordcore Media LLC (address: 30 N Gould St, Suite R, Sheridan, Wyoming 82801; email: olga@nordcoremedia.net) (“Nordcore”) to provide digital marketing and investor awareness services designed to increase awareness of the Company and its uranium exploration portfolio.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-11-13T22:00:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "9f7f49df2006",
-   "title": "8-K - byNordic Acquisition Corp (0001801417) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1801417/000121390026119837/0001213900-26-119837-index.htm",
-   "summary": "Filed: 2026-11-13 AccNo: 0001213900-26-119837 Size: 258 KB Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-11-13T21:59:49+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
   "JIRE": "JPMorgan International Research Enhanced Equity ETF",
-  "PFF": "iShares Preferred and Income Securities ETF",
   "IAGG": "iShares International Aggregate Bond Fund",
   "BNDX": "Vanguard Total International Bond ETF",
   "DIA": "SPDR Dow Jones Industrial Average ETF",
@@ -8856,6 +8859,7 @@
   "CME": "CME Group",
   "CRWV": "CoreWeave",
   "NWSA": "News Corp",
+  "ADSK": "Autodesk",
   "AVGO": "Broadcom",
   "ENB": "Enbridge",
   "RS": "Reliance",
@@ -8867,6 +8871,7 @@
   "NOVT": "Novanta",
   "SCI": "Service",
   "SNDK": "Sandisk",
+  "WMT": "Walmart",
   "AEE": "Ameren",
   "CGNX": "Cognex",
   "INCY": "Incyte",
