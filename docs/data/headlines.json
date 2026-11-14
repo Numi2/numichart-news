@@ -1,8 +1,99 @@
 {
- "generated": "2026-11-14T17:30:27.386679+00:00",
+ "generated": "2026-11-14T17:37:12.269070+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "84b52993eae6",
+   "title": "Passengers face widespread disruption after US air traffic control outage",
+   "link": "https://www.ft.com/content/f66f9811-59a2-4e52-a944-c7ed81dabc50?syn-25a6b1a6=1",
+   "summary": "Thousands of flights delayed or cancelled as political blame game mounts",
+   "article_text": "",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "ft.com",
+   "published": "2026-11-14T17:36:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "be17ac21a1f8",
+   "title": "Savara: The Market May Be Overestimating Its FDA Risk",
+   "link": "https://seekingalpha.com/article/4968209-savara-the-market-may-be-overestimating-its-fda-risk?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "fda",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-14T17:32:42+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e6e5e331648a",
+   "title": "Amdocs director Yvette Kanouff acquires $100,800 in ordinary shares",
+   "link": "https://www.investing.com/news/insider-trading-news/amdocs-director-yvette-kanouff-acquires-100800-in-ordinary-shares-93CH-5027434",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-14T17:31:13+00:00",
+   "tickers": []
+  },
+  {
+   "id": "3e54737fa8c3",
+   "title": "Ferguson chief digital & info. officer sells $594,757 in shares",
+   "link": "https://www.investing.com/news/insider-trading-news/ferguson-chief-digital--info-officer-sells-594757-in-shares-93CH-5027433",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-14T17:31:12+00:00",
+   "tickers": []
+  },
+  {
+   "id": "bbc9c76f780e",
+   "title": "Ferguson Enterprises CAO Richard Winckler sells $238,315 in stock",
+   "link": "https://www.investing.com/news/insider-trading-news/ferguson-enterprises-cao-richard-winckler-sells-238315-in-stock-93CH-5027432",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-14T17:31:08+00:00",
+   "tickers": [
+    "FERG"
+   ]
+  },
+  {
+   "id": "1e2bee54d017",
+   "title": "Stock Indexes Settle Mostly Lower as Chipmakers Slide",
+   "link": "https://www.nasdaq.com/articles/stock-indexes-settle-mostly-lower-chipmakers-slide",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down -0.40% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.10%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -1.22%. December E-mini S&P futures (ESZ26 ) fell -0.46%, and December E-mini Nasdaq futures...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-11-14T17:30:00+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
+  },
   {
    "id": "6b09d1b7a959",
    "title": "A ‘Generational Clash’ Is Fueling Europe’s Protests",
@@ -29,6 +120,286 @@
    "sentiment": "neutral",
    "domain": "nytimes.com",
    "published": "2026-11-14T17:25:50+00:00",
+   "tickers": []
+  },
+  {
+   "id": "131455127f23",
+   "title": "Here is How a Tightening Cycle Bodes Well For PNC Financial (PNC)",
+   "link": "https://biztoc.com/x/838e665124d6f5f7?ref=rss",
+   "summary": "We just published a list of 10 Best Stocks to Buy for a Rising Interest Rate Environment, and PNC Financial Services Group Inc. (NYSE:PNC) ranked 7th on this list. After a prolonged run of easing speculation, the interest rate outlook has taken a shift. Back in September, the Federal Reserve…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-14T17:25:06+00:00",
+   "tickers": [
+    "PNC"
+   ]
+  },
+  {
+   "id": "3aff5e47c3cc",
+   "title": "The S&P 500 Has Gone 18 Months Without a 10% Drop. Here's How the Next Year Has Gone After Streaks This Long",
+   "link": "https://biztoc.com/x/cd32929bb39e9472?ref=rss",
+   "summary": "The S&P 500 (SNPINDEX:^GSPC) last closed in correction territory on April 28, 2025. It ended the day at 5,528.75, just over 10% under the record close of 6,144.15 it had set on Feb. 19. Since then, every close has stayed within 10% of a record. In other words, the index has gone more than 380…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-11-14T17:25:06+00:00",
+   "tickers": []
+  },
+  {
+   "id": "2ad64ed358c4",
+   "title": "Wall Street is watching a troubling move in Treasury yields",
+   "link": "https://biztoc.com/x/09cee1a32ba6be29?ref=rss",
+   "summary": "The Federal Reserve under Kevin Warsh has become harder to read. Officials have pulled back from rigid forward guidance, leaving traders to piece together each meeting on their own. This time, the bond market did not wait for a signal. By Nov. 13, a December hike had gone from likely to certain in…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-14T17:24:51+00:00",
+   "tickers": []
+  },
+  {
+   "id": "84bd2c532e48",
+   "title": "Trump Official Offers College Football Teams Help After US Flight Halt",
+   "link": "https://biztoc.com/x/f51a27a255febc68?ref=rss",
+   "summary": "College football teams scrambling to reach their Saturday games received an invitation from Washington on Friday night. Call the Federal Aviation Administration. U.S. Transportation Secretary Sean Duffy encouraged teams traveling on charter planes to coordinate their departures with the agency as…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-11-14T17:23:10+00:00",
+   "tickers": []
+  },
+  {
+   "id": "3977f08c9b3a",
+   "title": "Tesla stops selling every Cybertruck except the $109,990 Cyberbeast",
+   "link": "https://biztoc.com/x/0236a7437c062564?ref=rss",
+   "summary": "Tesla is now only selling one version of the Cybertruck in the US: the tri-motor Cyberbeast, which just got another $7,500 price hike to $109,990. The Dual Motor and Premium AWD trims are still listed on Tesla’s configurator, but both are greyed out and can’t be selected. So the cheapest…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-14T17:23:09+00:00",
+   "tickers": [
+    "TSLA"
+   ]
+  },
+  {
+   "id": "d5ca3b27aa08",
+   "title": "Trump Attacks Newsom Over Death Penalty Move: 'Disaster for Justice'",
+   "link": "https://biztoc.com/x/b8ab5c888111aaaf?ref=rss",
+   "summary": "President Donald Trump on Saturday attacked California Governor Gavin Newsom’s plan to commute hundreds of death sentences to life imprisonment without the possibility of parole, calling the move a “disaster for Justice in America.” In a post on Truth Social, Trump argued the Democratic governor's…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-14T17:23:05+00:00",
+   "tickers": []
+  },
+  {
+   "id": "3f7146d7e8be",
+   "title": "Wholesale food prices are on the rise",
+   "link": "https://biztoc.com/x/03ef71c86d1feb1d?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-11-14T17:23:04+00:00",
+   "tickers": []
+  },
+  {
+   "id": "1d43845d8694",
+   "title": "Dr. Ann Lawani Controversy Explained as Anger Grows Over ICE Arrest",
+   "link": "https://biztoc.com/x/1406939b782e750d?ref=rss",
+   "summary": "A California nurse and university professor has been held in U.S. Immigration and Customs Enforcement custody for nearly two months after being arrested at her home, prompting calls for her release from relatives, colleagues, and elected officials. Dr. Ann Lawani, 39, was detained by federal…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-14T17:23:02+00:00",
+   "tickers": [
+    "ICE"
+   ]
+  },
+  {
+   "id": "a5e648b65003",
+   "title": "Russia, UAE call for secure navigation in Hormuz",
+   "link": "https://biztoc.com/x/990c9cd4b453e7b7?ref=rss",
+   "summary": "Russian Foreign Minister Sergey Lavrov and United Arab Emirates Foreign Minister Abdullah bin Zayed Al Nahyan discussed tensions in the Persian Gulf and maritime security during talks in Abu Dhabi, th...",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-11-14T17:22:59+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e7b15749e1aa",
+   "title": "Tens of thousands march in Portuguese cities against surging home prices",
+   "link": "https://biztoc.com/x/f59b7df8ce60d011?ref=rss",
+   "summary": "Tens of thousands march in Portuguese cities against surging home prices Tens of thousands of people have marched in Portugal in the biggest protest yet against surging housing prices LISBON, Portugal -- Tens of thousands of people marched in more than 30 cities and towns across Portugal on…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-14T17:22:55+00:00",
+   "tickers": []
+  },
+  {
+   "id": "45d72cf25c50",
+   "title": "He Gave Each Grandchild $19,000, Now Medicaid Could Refuse Nursing Home Payments",
+   "link": "https://biztoc.com/x/859c51c3d35cece1?ref=rss",
+   "summary": "The post He Gave Each Grandchild $19,000, Now Medicaid Could Refuse Nursing Home Payments appeared first on 24/7 Wall St.. The IRS annual gift-tax exclusion and Medicaid’s transfer rules are separate systems. A $19,000 gift can require no federal gift-tax return yet still trigger scrutiny, and…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-14T17:22:50+00:00",
+   "tickers": []
+  },
+  {
+   "id": "1deef63b5d49",
+   "title": "Retail sales and Fed minutes in focus next week",
+   "link": "https://biztoc.com/x/c2ab0f21b6256ba9?ref=rss",
+   "summary": "A report on retail sales will anchor the calendar of economic updates this week, which also includes details about the most recent Federal Reserve meeting and the latest take on consumer sentiment",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-14T17:22:50+00:00",
+   "tickers": []
+  },
+  {
+   "id": "08de45cbd0b0",
+   "title": "SpaceX Starship Skips Booster Catch in Key Test Launch",
+   "link": "https://biztoc.com/x/3cd17a79d0fef8c7?ref=rss",
+   "summary": "SpaceX launched its massive Starship on a pivotal flight that aims to perform a first-of-its-kind spacecraft landing, though the Elon Musk-led company aborted an attempt to catch the rocket’s booster. #spacex #space #elonmusk #news #texas #technology Starship lifted off from SpaceX’s Starbase…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-14T17:22:48+00:00",
+   "tickers": [
+    "SPCX"
+   ]
+  },
+  {
+   "id": "dabda09b7ccc",
+   "title": "His Wife Keeps Hiding New Debt From Him, But Dave Ramsey Turns The Tables. 'You Should Apologize To Your Wife'",
+   "link": "https://biztoc.com/x/72047bc26c06b124?ref=rss",
+   "summary": "Finding out your spouse has secretly racked up thousands of dollars in debt is bad enough. Discovering they’ve done it twice, even after you borrowed against your home to clean up the first mess, is another",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-14T17:22:47+00:00",
+   "tickers": [
+    "DAVE"
+   ]
+  },
+  {
+   "id": "2108ddbc636f",
+   "title": "The RMD Mistake That Turns a $1.18 Million IRA’s $5,925 Monthly Paycheck Into a Bigger Tax Bill",
+   "link": "https://biztoc.com/x/6593f8870f753c57?ref=rss",
+   "summary": "The post The RMD Mistake That Turns a $1.18 Million IRA’s $5,925 Monthly Paycheck Into a Bigger Tax Bill appeared first on 24/7 Wall St.. A retired couple learns they can push their very first required minimum distribution (RMD) into the following spring. An RMD is the withdrawal the IRS forces…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-14T17:22:40+00:00",
+   "tickers": [
+    "RMD"
+   ]
+  },
+  {
+   "id": "c769f1859df6",
+   "title": "These 6 battered AI stocks could bounce back big, analyst says",
+   "link": "https://biztoc.com/x/ea457351549d93fd?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-14T17:22:38+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ae436f0f973e",
+   "title": "As Dems Take Congress, Alito Warns They Can \"Turn Off The Lights\" At Supreme Court",
+   "link": "https://biztoc.com/x/e58511be9994cf4b?ref=rss",
+   "summary": "As Dems Take Congress, Alito Warns They Can \"Turn Off The Lights\" At Supreme Court Authored by Jack Phillips via The Epoch Times, Supreme Court Justice Samuel Alito said Thursday that he is concerned Congress could make decisions that affect the high court's funding. \"Congress can turn off the…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-11-14T17:22:34+00:00",
+   "tickers": []
+  },
+  {
+   "id": "3f4eed86a678",
+   "title": "Duffy Says an L3Harris Crew Was Working on the FAA Network When Flights Stopped. Its Stock Fell 4% After Hours",
+   "link": "https://biztoc.com/x/fffa223b44682807?ref=rss",
+   "summary": "The post Duffy Says an L3Harris Crew Was Working on the FAA Network When Flights Stopped. Its Stock Fell 4% After Hours appeared first on 24/7 Wall St.. A retired couple in their late 60s with a $1,200 round trip to see their grandchildren were among the travelers stuck at the airport Friday…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-11-14T17:22:33+00:00",
+   "tickers": [
+    "LHX"
+   ]
+  },
+  {
+   "id": "986506ab2dcb",
+   "title": "Pentagon Eyes Smaller Troop Cuts Across Europe in Reversal",
+   "link": "https://biztoc.com/x/eb9ff6e0bde045f4?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-11-14T17:22:28+00:00",
    "tickers": []
   },
   {
@@ -87,6 +458,20 @@
    "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-11-14T17:12:19+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ca06a90fa4aa",
+   "title": "Quantum Corp.: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/quantum-corp-3-key-takeaways-long-term-investors",
+   "summary": "Key PointsFiscal second-quarter revenue grew 43% year over year to $89.6 million.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-14T17:11:02+00:00",
    "tickers": []
   },
   {
@@ -285,25 +670,6 @@
    "published": "2026-11-14T17:07:20+00:00",
    "tickers": [
     "R"
-   ]
-  },
-  {
-   "id": "1e2bee54d017",
-   "title": "Stock Indexes Settle Mostly Lower as Chipmakers Slide",
-   "link": "https://www.nasdaq.com/articles/stock-indexes-settle-mostly-lower-chipmakers-slide",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down -0.40% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.10%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -1.22%. December E-mini S&P futures (ESZ26 ) fell -0.46%, and December E-mini Nasdaq futures...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-11-14T17:06:32+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
    ]
   },
   {
@@ -4589,20 +4955,6 @@
    ]
   },
   {
-   "id": "84b52993eae6",
-   "title": "Passengers face widespread disruption after US air traffic control outage",
-   "link": "https://www.ft.com/content/f66f9811-59a2-4e52-a944-c7ed81dabc50?syn-25a6b1a6=1",
-   "summary": "Thousands of flights set to be delayed or cancelled over the weekend",
-   "article_text": "",
-   "source": "FT Companies",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "ft.com",
-   "published": "2026-11-14T13:52:46+00:00",
-   "tickers": []
-  },
-  {
    "id": "8cf2aa9fde20",
    "title": "The bond market just turned on the AI trade — and chip stocks lost more than $650 billion in two days: Chart of the Day",
    "link": "https://biztoc.com/x/d17393817b970232?ref=rss",
@@ -8545,367 +8897,6 @@
    "domain": "biztoc.com",
    "published": "2026-11-14T10:15:21+00:00",
    "tickers": []
-  },
-  {
-   "id": "94616fd5350c",
-   "title": "Inflation is pushing consumers to trade down and hunt for value",
-   "link": "https://biztoc.com/x/56abdd758f029a03?ref=rss",
-   "summary": "A new report shows apparel is one area where consumers are trading down their spending. Images By Tang Ming Tung/Getty Images Consumers are still shopping, but they're looking for value as inflation stays stubbornly high. A Bank of America Institute report found this is especially the case for…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-14T10:15:16+00:00",
-   "tickers": [
-    "BAC"
-   ]
-  },
-  {
-   "id": "fa73be5df594",
-   "title": "Democrats Won Congress. Can Their Leaders Read the Room? | Opinion",
-   "link": "https://biztoc.com/x/d7bc2d6e4f1a64cf?ref=rss",
-   "summary": "Democrats have won back Congress. Whether the party's established leadership understands what brought them there is another matter. The November 3 midterms dealt President Donald Trump a sweeping rebuke. Democrats captured both chambers, won Senate races in traditionally Republican states and…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-11-14T10:15:16+00:00",
-   "tickers": []
-  },
-  {
-   "id": "593fa0f3af9d",
-   "title": "Guardian to follow lives of eight young people in their search for work",
-   "link": "https://biztoc.com/x/34ddf68314c7e82b?ref=rss",
-   "summary": "How long will it take? What challenges will they face? Series to shine light on one of biggest crises facing UK ‘The social contract is broken’: young people on feeling shut out of careers Britain is at risk of creating a lost generation. Across the country, almost a million young people – one in…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-14T10:15:14+00:00",
-   "tickers": []
-  },
-  {
-   "id": "44925f9424fb",
-   "title": "Measuring My Current Top Five Holdings Against My Most Successful Historical Pick",
-   "link": "https://seekingalpha.com/article/4968169-measuring-my-current-top-five-holdings-against-my-most-successful-historical-pick?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-14T10:15:12+00:00",
-   "tickers": []
-  },
-  {
-   "id": "10df22edc8de",
-   "title": "He Was China’s Man in Panama. Then He Became a Wanted Man",
-   "link": "https://biztoc.com/x/a6c2aa23403ad4e1?ref=rss",
-   "summary": "A Chinese businessman arrived in Panama with money and power. Then he sold a port when his luck turned. Now China wants him sent back.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-14T10:15:06+00:00",
-   "tickers": []
-  },
-  {
-   "id": "959515ae776e",
-   "title": "Ave Maria Value Fund Q3 2026 Commentary",
-   "link": "https://seekingalpha.com/article/4968178-ave-maria-value-fund-q3-2026-commentary?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-14T10:15:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "0a4402aadb02",
-   "title": "Thornburg Core Plus Bond Fund Q3 2026 Commentary",
-   "link": "https://seekingalpha.com/article/4968175-thornburg-core-plus-bond-fund-q3-2026-commentary?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-14T10:10:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "31c52974d161",
-   "title": "Binance aims to restore all withdrawals next week after $6.3 billion hack",
-   "link": "https://www.investing.com/news/company-news/binance-aims-to-restore-all-withdrawals-next-week-after-63-billion-hack-5027266",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-14T10:03:13+00:00",
-   "tickers": []
-  },
-  {
-   "id": "087ee46cfb4a",
-   "title": "Cloudastructure founder Bentley sells $2,370 in shares",
-   "link": "https://www.investing.com/news/insider-trading-news/cloudastructure-founder-bentley-sells-2370-in-shares-93CH-5027265",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-14T10:01:22+00:00",
-   "tickers": [
-    "BSY"
-   ]
-  },
-  {
-   "id": "e641f3865c84",
-   "title": "Prediction: 2 Stocks That Will Be Worth More Than SpaceX 5 Years From Now",
-   "link": "https://biztoc.com/x/30692ef000a6cb64?ref=rss",
-   "summary": "Space Exploration Technologies (NASDAQ: SPCX) is worth roughly $1.9 trillion and has the potential to eventually grow to become the largest company in the world. CEO Elon Musk has some huge goals, including putting data centers in space, earth-to-earth cargo transport, and creating a new U.S.…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-14T10:00:39+00:00",
-   "tickers": [
-    "SPCX"
-   ]
-  },
-  {
-   "id": "3079337f7d2a",
-   "title": "Prediction: Nov. 18 Will Be a Massive Day for the Stock Market",
-   "link": "https://biztoc.com/x/a5baa23e8af9c567?ref=rss",
-   "summary": "Artificial intelligence (AI) stocks, heavily weighted in the S&P 500, have fueled its direction in recent years. In the early stages of the AI boom, the direction was clearly upward, but in 2026, the major index has delivered a mix of gains and declines. And the tech-heavy Nasdaq Composite even…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-14T10:00:33+00:00",
-   "tickers": [
-    "NDAQ"
-   ]
-  },
-  {
-   "id": "f24594176487",
-   "title": "He Was China’s Man in Panama. Then He Became a Wanted Man.",
-   "link": "https://www.nytimes.com/2026/11/14/business/zhang-liang-china-panama.html",
-   "summary": "A Chinese businessman arrived in Panama with money and power. Then he sold a port when his luck turned. Now China wants him sent back.",
-   "article_text": "",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "nytimes.com",
-   "published": "2026-11-14T10:00:32+00:00",
-   "tickers": []
-  },
-  {
-   "id": "14dd5c4abf22",
-   "title": "Zelensky: US asked if we would exit Donbass for NATO",
-   "link": "https://biztoc.com/x/e6db3b673b1b1260?ref=rss",
-   "summary": "Ukrainian President Volodymyr Zelensky told reporters that the United States representatives asked Kyiv if it would withdraw its military from Donbass in exchange for NATO membership, the Kyiv Post re...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-14T10:00:30+00:00",
-   "tickers": [
-    "POST"
-   ]
-  },
-  {
-   "id": "f3abd6277fb2",
-   "title": "UK: Flights to US may face disruptions",
-   "link": "https://biztoc.com/x/03fd10b9d9714615?ref=rss",
-   "summary": "Flights to the United States may still face disruptions, although the Federal Aviation Administration (FAA) lifted the nationwide ground stop, the British Civil Aviation Authority (CAA) stated on Satu...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-14T10:00:27+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d87ad6479873",
-   "title": "Microsoft Service Restored After Widespread Outage, Company Says",
-   "link": "https://biztoc.com/x/fbe295fa6db708c7?ref=rss",
-   "summary": "The tech giant said it has processed a backlog of emails after widespread disruption to Microsoft 365.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-14T10:00:23+00:00",
-   "tickers": [
-    "MSFT",
-    "SCI"
-   ]
-  },
-  {
-   "id": "53dd246514c5",
-   "title": "The Jensen defenders are seizing on Alice Huang uncertainty",
-   "link": "https://biztoc.com/x/6762bc3b6cafc3ae?ref=rss",
-   "summary": "Jensen Huang's relationship with Alice Huang remains under investigation. CTI via REUTERS TV The US AG said the DOJ has yet to reach a conclusion on whether Alice Huang was a Chinese spy. Allies of Jensen Huang have rallied around the uncertainty over the spy allegations, which China has…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-14T10:00:20+00:00",
-   "tickers": []
-  },
-  {
-   "id": "286875793322",
-   "title": "Natera CFO Defends CEO Switch, Calls $6 Billion Revenue Target a “Way Station”",
-   "link": "https://biztoc.com/x/013984d3b8f8632e?ref=rss",
-   "summary": "Key Points - Interested in Natera, Inc.? Here are five stocks we like better. - Natera CFO Mike Brophy said the company's $6 billion 2029 revenue target is achievable and a \"way station,\" with revenue expected to exceed $3 billion in 2026. He defended the immediate CEO handoff to Solomon, citing…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-14T10:00:20+00:00",
-   "tickers": [
-    "NTRA"
-   ]
-  },
-  {
-   "id": "66948d20f65a",
-   "title": "Heartland Small Cap Value Strategy Q3 2026 Commentary",
-   "link": "https://seekingalpha.com/article/4968171-heartland-small-cap-value-strategy-q3-2026-commentary?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-14T10:00:00+00:00",
-   "tickers": [
-    "MSTR"
-   ]
-  },
-  {
-   "id": "3857f4e09e9f",
-   "title": "Heartland Small Cap Value Strategy Q3 2026 Portfolio Activity",
-   "link": "https://seekingalpha.com/article/4968173-heartland-small-cap-value-strategy-q3-2026-portfolio-activity?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-14T10:00:00+00:00",
-   "tickers": [
-    "MSTR"
-   ]
-  },
-  {
-   "id": "4de501957f8d",
-   "title": "Her Late Husband’s IRA Is Now Hers. The Choice She Has to Make, in Plain English",
-   "link": "https://biztoc.com/x/1e5c9df5c235dc0a?ref=rss",
-   "summary": "The post Her Late Husband’s IRA Is Now Hers. The Choice She Has to Make, in Plain English appeared first on 24/7 Wall St.. A widow who is the sole beneficiary of her husband’s traditional IRA has one decision that sets her withdrawal schedule for years: make the account her own, or keep it as an…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-14T09:59:59+00:00",
-   "tickers": [
-    "CHH"
-   ]
-  },
-  {
-   "id": "1ad42291a942",
-   "title": "Zelenskyy Says US Floats NATO Membership in Deal for Donbas",
-   "link": "https://biztoc.com/x/0695d82750775ddd?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-14T09:59:57+00:00",
-   "tickers": []
-  },
-  {
-   "id": "beab1af35458",
-   "title": "CARsgen's CAR-T Product Satri-cel Included in China's Commercial Health Insurance Innovative Drug List",
-   "link": "https://www.prnewswire.com/news-releases/carsgens-car-t-product-satri-cel-included-in-chinas-commercial-health-insurance-innovative-drug-list-302939514.html",
-   "summary": "SHANGHAI, Nov. 14, 2026 /PRNewswire/ -- CARsgen Therapeutics Holdings Limited (Stock Code: 2171.HK), a company focused on developing innovative CAR T-cell therapies, announces that satricabtagene autoleucel (\"satri-cel\", product code: CT041), an autologous CAR T-cell therapy product...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-11-14T09:55:00+00:00",
-   "tickers": [
-    "CAR"
-   ]
-  },
-  {
-   "id": "1e82af977657",
-   "title": "Chinese Team Drops a \"Game-Changer\": Motphys Launches MotrixSim 1.0, Sparking Industry Buzz",
-   "link": "https://www.prnewswire.com/news-releases/chinese-team-drops-a-game-changer-motphys-launches-motrixsim-1-0--sparking-industry-buzz-302939513.html",
-   "summary": "BEIJING, Nov. 14, 2026 /PRNewswire/ -- If the global expansion of Chinese-made robots defined the hardware boom in the first half of the embodied AI race, the second half will be won by those that can bring down the high cost of real-world trial and error and make robot training more...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-11-14T09:49:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d59c0e820df4",
-   "title": "Earnings call transcript: CMS Info Systems posts record Q2 2027 services revenue",
-   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-cms-info-systems-posts-record-q2-2027-services-revenue-93CH-5027262",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-14T09:47:49+00:00",
-   "tickers": [
-    "CMS"
-   ]
   }
  ],
  "ticker_names": {
@@ -8914,6 +8905,7 @@
   "DIA": "SPDR Dow Jones Industrial Average ETF",
   "BTC": "Grayscale Bitcoin Mini Trust (BTC)",
   "TSM": "Taiwan Semiconductor Manufacturing",
+  "PNC": "The PNC Financial Services Group",
   "QQQI": "NEOS Nasdaq 100 High Income ETF",
   "QSR": "Restaurant Brands International",
   "VTI": "Vanguard Total Stock Market ETF",
@@ -8935,13 +8927,13 @@
   "LHX": "L3Harris Technologies",
   "BMY": "Bristol-Myers Squibb",
   "CEG": "Constellation Energy",
+  "FERG": "Ferguson Enterprises",
   "PG": "The Procter & Gamble",
   "SMCI": "Super Micro Computer",
   "STZ": "Constellation Brands",
   "ZM": "Zoom Communications",
   "BRK-A": "Berkshire Hathaway",
   "MRVL": "Marvell Technology",
-  "CAR": "Avis Budget Group",
   "QUBT": "Quantum Computing",
   "RIVN": "Rivian Automotive",
   "UBER": "Uber Technologies",
@@ -8956,7 +8948,6 @@
   "NOC": "Northrop Grumman",
   "OWL": "Blue Owl Capital",
   "BAC": "Bank of America",
-  "BSY": "Bentley Systems",
   "GPN": "Global Payments",
   "VICI": "VICI Properties",
   "CCK": "Crown Holdings",
@@ -8992,7 +8983,6 @@
   "BA": "The Boeing",
   "BN": "Brookfield",
   "BX": "Blackstone",
-  "CMS": "CMS Energy",
   "CVS": "CVS Health",
   "F": "Ford Motor",
   "MA": "Mastercard",
@@ -9024,11 +9014,11 @@
   "BULL": "Webull",
   "CHE": "Chemed",
   "NDAQ": "Nasdaq",
-  "NTRA": "Natera",
   "RDDT": "Reddit",
   "RMD": "ResMed",
   "SPCX": "SpaceX",
   "FDX": "FedEx",
+  "DAVE": "Dave",
   "EBAY": "eBay",
   "IONQ": "IonQ",
   "NKE": "NIKE",
