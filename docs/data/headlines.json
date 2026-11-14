@@ -1,8 +1,40 @@
 {
- "generated": "2026-11-14T20:20:46.208117+00:00",
+ "generated": "2026-11-14T20:26:47.424190+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "aea45ed078c8",
+   "title": "How Some Flights Were Exempt From the Ground Stop",
+   "link": "https://www.nytimes.com/2026/11/14/business/faa-ground-stop-exceptions-airlines.html",
+   "summary": "Dozens of international flights departed from the United States during Friday’s nationwide ground stop. Some planes also left for Hawaii from the West Coast.",
+   "article_text": "",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-11-14T20:21:13+00:00",
+   "tickers": [
+    "WST"
+   ]
+  },
+  {
+   "id": "7e93430a82ed",
+   "title": "Prominent NVIDIA investors call for board to contemplate Huang's return",
+   "link": "https://seekingalpha.com/news/4672775-prominent-nvidia-investors-call-for-board-contemplate-huang-return?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-14T20:19:16+00:00",
+   "tickers": [
+    "NVDA"
+   ]
+  },
   {
    "id": "e52557e31708",
    "title": "US aviation shutdown blamed on L3 Harris installed router",
@@ -8897,34 +8929,6 @@
    "tickers": [
     "ADBE"
    ]
-  },
-  {
-   "id": "c6e1d3ddc106",
-   "title": "BoE’s Greene says acting proactively now on inflation would ’screw’ things up the least",
-   "link": "https://www.investing.com/news/economy-news/boes-greene-says-acting-proactively-now-on-inflation-would-screw-things-up-the-least-5027328",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-14T13:00:27+00:00",
-   "tickers": []
-  },
-  {
-   "id": "8a5521986979",
-   "title": "Trump Media group stares down $1bn debt crunch as bitcoin bet fades",
-   "link": "https://www.ft.com/content/ada459c4-5f43-4a4a-bc6c-90de8897a4f0?syn-25a6b1a6=1",
-   "summary": "Plunge in shares and cryptocurrency prices could force Truth Social owner to sell assets or take on costly new debt",
-   "article_text": "",
-   "source": "FT Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "ft.com",
-   "published": "2026-11-14T13:00:09+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
