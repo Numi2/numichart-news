@@ -1,8 +1,24 @@
 {
- "generated": "2026-11-14T22:52:11.152754+00:00",
+ "generated": "2026-11-14T22:57:26.976070+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "c9d545dc9487",
+   "title": "DraftKings director Gregory Wendt buys $98,800 in shares",
+   "link": "https://www.investing.com/news/insider-trading-news/draftkings-director-gregory-wendt-buys-98800-in-shares-93CH-5027554",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-14T22:45:54+00:00",
+   "tickers": [
+    "DKNG"
+   ]
+  },
   {
    "id": "af4edb02c908",
    "title": "CJ Gardner-Johnson Breaks Silence After Shocking Bills Release",
@@ -203,6 +219,20 @@
    "sentiment": "neutral",
    "domain": "biztoc.com",
    "published": "2026-11-14T22:43:34+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b5ed3548b613",
+   "title": "$180 million Van Gogh tests the art market and collector confidence",
+   "link": "https://www.cnbc.com/2026/11/14/180-million-van-gogh-tests-the-art-market-and-collector-confidence-.html",
+   "summary": "The art auctions in New York next week could top $2 billion, as a treasure trove of masterpieces comes to the market for the first time in decades.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-11-14T22:34:07+00:00",
    "tickers": []
   },
   {
@@ -8903,34 +8933,6 @@
    "domain": "biztoc.com",
    "published": "2026-11-14T14:34:39+00:00",
    "tickers": []
-  },
-  {
-   "id": "086a328cc02a",
-   "title": "My parents raised 5 kids without losing their minds. They had a system for everything, from dinner to Christmas presents",
-   "link": "https://biztoc.com/x/e512f4cde97bd02f?ref=rss",
-   "summary": "was the youngest of five siblings Liderina/Getty Images I grew up as the youngest of five kids, and our parents relied on strict routines to manage us all. We each had assigned days for chores, cooking, walking the dog, and even sitting in the front seat. I used to resent all the rules, but now I…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-11-14T14:34:33+00:00",
-   "tickers": []
-  },
-  {
-   "id": "bfaf213ef1fc",
-   "title": "Travel Hell Continues: 1000s Still Stranded After Ground Stop As Duffy Demands $50 Billion: 'This Is An Emergency'",
-   "link": "https://biztoc.com/x/f174f584bdf2f1e2?ref=rss",
-   "summary": "Travel Hell Continues: 1000s Still Stranded After Ground Stop As Duffy Demands $50 Billion: 'This Is An Emergency' More than 3,000 flights within, into or out of the US had been canceled by Saturday morning, according to FlightAware, as airlines dug out from Friday's nationwide ground stop,…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-14T14:34:27+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -9026,6 +9028,7 @@
   "BN": "Brookfield",
   "BWA": "BorgWarner",
   "BX": "Blackstone",
+  "DKNG": "DraftKings",
   "F": "Ford Motor",
   "FIVE": "Five Below",
   "MA": "Mastercard",
