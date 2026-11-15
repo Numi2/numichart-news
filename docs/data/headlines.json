@@ -1,8 +1,38 @@
 {
- "generated": "2026-11-15T14:20:22.349881+00:00",
+ "generated": "2026-11-15T14:26:25.907599+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "63ca4a0b3e53",
+   "title": "'We slept here.' Flight delays linger as airlines scramble to recover from ground stop",
+   "link": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html",
+   "summary": "Flight disruptions lingered two days after the Federal Aviation Administration grounded departures nationwide for more than four hours.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-11-15T14:24:18+00:00",
+   "tickers": []
+  },
+  {
+   "id": "0b4d210377e5",
+   "title": "Microsoft outage, flight disruptions expose infrastructure risks",
+   "link": "https://seekingalpha.com/news/4672783-microsoft-outage-flight-disruptions-expose-infrastructure-risks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-15T14:21:57+00:00",
+   "tickers": [
+    "MSFT"
+   ]
+  },
   {
    "id": "b1f66770ecd6",
    "title": "Palo Alto Networks: Sell Before Earnings, Even After The Pullback",
@@ -1911,20 +1941,6 @@
    "tickers": [
     "SPCX"
    ]
-  },
-  {
-   "id": "63ca4a0b3e53",
-   "title": "'We slept here.' Flight delays linger as airlines scramble to recover from ground stop",
-   "link": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html",
-   "summary": "Flight disruptions lingered two days after the Federal Aviation Administration grounded departures nationwide for more than four hours.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-11-15T12:51:28+00:00",
-   "tickers": []
   },
   {
    "id": "1f91d48080f6",
@@ -8765,23 +8781,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-11-15T04:20:38+00:00",
    "tickers": []
-  },
-  {
-   "id": "9c868040f4f0",
-   "title": "1 ETF That Can Turn $500 Monthly Into a $600,000 Portfolio That Pays Out $18,000 Annually",
-   "link": "https://www.nasdaq.com/articles/1-etf-can-turn-500-monthly-600000-portfolio-pays-out-18000-annually",
-   "summary": "Key PointsThe Schwab U.S. Dividend Equity ETF (SCHD) has averaged 13.7% annual total returns since its inception.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-15T04:20:01+00:00",
-   "tickers": [
-    "SCHD",
-    "SCHF"
-   ]
   }
  ],
  "ticker_names": {
@@ -8790,9 +8789,7 @@
   "DIA": "SPDR Dow Jones Industrial Average ETF",
   "IBM": "International Business Machines",
   "QSR": "Restaurant Brands International",
-  "SCHF": "Schwab International Equity ETF",
   "MUFG": "Mitsubishi UFJ Financial Group",
-  "SCHD": "Schwab US Dividend Equity ETF",
   "TTWO": "Take-Two Interactive Software",
   "WST": "West Pharmaceutical Services",
   "CHH": "Choice Hotels International",
