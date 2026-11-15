@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T01:12:41.875051+00:00",
+ "generated": "2026-11-15T01:18:44.845681+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -15,6 +15,34 @@
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
    "published": "2026-11-15T01:05:08+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c5469cc29571",
+   "title": "Ethereum Falls 10% In Rout",
+   "link": "https://www.investing.com/news/cryptocurrency-news/ethereum-falls-10-in-rout-5027613",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-11-15T01:04:01+00:00",
+   "tickers": []
+  },
+  {
+   "id": "9df736c9e70f",
+   "title": "Mbx Biosciences ceo Steven Hoerter sells $268,234 in shares",
+   "link": "https://www.investing.com/news/insider-trading-news/mbx-biosciences-ceo-steven-hoerter-sells-268234-in-shares-93CH-5027612",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-15T01:01:19+00:00",
    "tickers": []
   },
   {
@@ -57,6 +85,36 @@
    "sentiment": "neutral",
    "domain": "biztoc.com",
    "published": "2026-11-15T01:01:01+00:00",
+   "tickers": []
+  },
+  {
+   "id": "840947752d5d",
+   "title": "BILL: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/bill-3-key-takeaways-long-term-investors",
+   "summary": "Key PointsCore revenue grew 14% year-over-year to $316.4 million in fiscal Q1.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-15T01:00:53+00:00",
+   "tickers": [
+    "BILL"
+   ]
+  },
+  {
+   "id": "e487596d3afe",
+   "title": "Hamas confirms senior commander killed in Israeli airstrike in Gaza",
+   "link": "https://www.investing.com/news/economy-news/hamas-confirms-senior-commander-killed-in-israeli-airstrike-in-gaza-5027609",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-15T01:00:19+00:00",
    "tickers": []
   },
   {
@@ -8751,66 +8809,6 @@
    "domain": "biztoc.com",
    "published": "2026-11-14T17:07:21+00:00",
    "tickers": []
-  },
-  {
-   "id": "83265d542227",
-   "title": "Iran Microwaves Babies! Rep Joe Wilson Concocts Bizarre Justification For Iran War",
-   "link": "https://biztoc.com/x/e0e97b0107649716?ref=rss",
-   "summary": "Iran Microwaves Babies! Rep Joe Wilson Concocts Bizarre Justification For Iran War This is a new one, and quite insane in terms of pro-war propaganda coming from elected officials... South Carolina Rep. Joe Wilson (R) has bizarrely claimed that Iranians have been putting babies in microwaves.…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-14T17:07:20+00:00",
-   "tickers": [
-    "R"
-   ]
-  },
-  {
-   "id": "db6c55928731",
-   "title": "People think I’m a mug for not moving to Monaco, says Phones 4u billionaire",
-   "link": "https://biztoc.com/x/ac3b7e33ff82d9d3?ref=rss",
-   "summary": "Despite spending most of the year in Monaco, John Caudwell continues to pay British taxes – even though he has very little faith ...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-14T17:04:50+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ef7d42fba258",
-   "title": "Amylyx avexitide trial meets primary endpoint for hypoglycemia",
-   "link": "https://www.investing.com/news/company-news/amylyx-avexitide-trial-meets-primary-endpoint-for-hypoglycemia-93CH-5027425",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-14T17:04:41+00:00",
-   "tickers": []
-  },
-  {
-   "id": "a1d7c775e489",
-   "title": "Lilly presents obesity drug trial results at ObesityWeek 2026",
-   "link": "https://www.investing.com/news/company-news/lilly-presents-obesity-drug-trial-results-at-obesityweek-2026-93CH-5027426",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-14T17:04:41+00:00",
-   "tickers": [
-    "LLY"
-   ]
   }
  ],
  "ticker_names": {
@@ -8873,13 +8871,12 @@
   "REG": "Regency Centers",
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
+  "BILL": "BILL Holdings",
   "HSBC": "HSBC Holdings",
   "KO": "The Coca-Cola",
-  "LLY": "Eli Lilly and",
   "POST": "Post Holdings",
   "UNP": "Union Pacific",
   "MSTR": "MicroStrategy",
-  "R": "Ryder System",
   "RL": "Ralph Lauren",
   "SPY": "SPDR S&P 500",
   "STT": "State Street",
