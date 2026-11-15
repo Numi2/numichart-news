@@ -1,8 +1,36 @@
 {
- "generated": "2026-11-15T22:35:04.429031+00:00",
+ "generated": "2026-11-15T22:41:13.526543+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "05cce8777317",
+   "title": "Asian Stocks Brace for AI Pressure, Data Dump: Markets Wrap",
+   "link": "https://biztoc.com/x/c27f709c71d91dcf?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-15T22:37:25+00:00",
+   "tickers": []
+  },
+  {
+   "id": "7dd1f288f65c",
+   "title": "Baidu Q3 2026 Earnings Preview",
+   "link": "https://seekingalpha.com/news/4672582-baidu-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-15T22:35:25+00:00",
+   "tickers": []
+  },
   {
    "id": "63ca4a0b3e53",
    "title": "'We slept here': Flight delays linger but schedule is back on track for Monday",
@@ -204,6 +232,37 @@
    "sentiment": "positive",
    "domain": "seekingalpha.com",
    "published": "2026-11-15T22:20:36+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c353a59b1d2b",
+   "title": "Diamondback Energy nears $5 bln Double Eagle deal - report",
+   "link": "https://www.investing.com/news/stock-market-news/diamondback-energy-nears-5-bln-double-eagle-deal--report-5028152",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-15T22:20:32+00:00",
+   "tickers": [
+    "FANG",
+    "EXP"
+   ]
+  },
+  {
+   "id": "8bef355c8646",
+   "title": "Designer Brands svp Mark Haley sells $123,520 in shares",
+   "link": "https://www.investing.com/news/insider-trading-news/designer-brands-svp-mark-haley-sells-123520-in-shares-93CH-5028150",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-15T22:16:22+00:00",
    "tickers": []
   },
   {
@@ -8757,66 +8816,6 @@
    "tickers": [
     "AL"
    ]
-  },
-  {
-   "id": "727126ee76c7",
-   "title": "CVS shoppers have just HOURS left to get cold hard cash from $20.5million 'consent' settlement",
-   "link": "https://biztoc.com/x/a24de45ed51468c6?ref=rss",
-   "summary": "Verifying your device, please wait Verification failed. Please try again.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-11-15T15:00:00+00:00",
-   "tickers": [
-    "CVS"
-   ]
-  },
-  {
-   "id": "44488b7380ac",
-   "title": "Glitter Bug Gold Buyers Expands Estate and Large-Collection Evaluation Services in Orange County",
-   "link": "https://markets.businessinsider.com/news/stocks/glitter-bug-gold-buyers-expands-estate-and-large-collection-evaluation-services-in-orange-county-1036764623",
-   "summary": "Laguna Hills, CA, Nov. 15, 2026 (GLOBE NEWSWIRE) -- Glitter Bug Gold Buyers today announced the expansion of its Estate and Large-Collection Evaluation Services , increasing...",
-   "article_text": "",
-   "source": "Markets Insider",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "markets.businessinsider.com",
-   "published": "2026-11-15T15:00:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d51692e623b9",
-   "title": "Meta's 'Rapture' could send wealthy employees into early retirement",
-   "link": "https://www.businessinsider.com/meta-rapture-stock-awards-employee-pay-retirement-2026-11",
-   "summary": "",
-   "article_text": "",
-   "source": "Markets Insider",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "businessinsider.com",
-   "published": "2026-11-15T15:00:00+00:00",
-   "tickers": [
-    "META"
-   ]
-  },
-  {
-   "id": "e0b7937faa59",
-   "title": "Unruly Logan Airport passenger tackled, arrested after trying to grab computer behind baggage counter",
-   "link": "https://biztoc.com/x/c8bdf4ab51545942?ref=rss",
-   "summary": "Unruly Logan Airport passenger tackled, arrested after trying to grab computer behind baggage counter An unruly passenger at Logan Airport was arrested after a heated confrontation over damaged luggage, amid growing frustrations over widespread flight delays and cancellations after a nationwide…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-15T14:59:56+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8845,6 +8844,7 @@
   "VKTX": "Viking Therapeutics",
   "ACGL": "Arch Capital Group",
   "BRK-A": "Berkshire Hathaway",
+  "FANG": "Diamondback Energy",
   "ISRG": "Intuitive Surgical",
   "LUMN": "Lumen Technologies",
   "NYT": "The New York Times",
