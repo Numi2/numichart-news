@@ -1,8 +1,24 @@
 {
- "generated": "2026-11-15T08:36:27.427869+00:00",
+ "generated": "2026-11-15T08:42:33.333049+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "be83888556fa",
+   "title": "Selling Pressure In Fixed Income Gives Us This 8.8%+ From Prologis' Preferred Stock",
+   "link": "https://seekingalpha.com/article/4968359-selling-pressure-in-fixed-income-gives-us-this-8_8-percent-from-plds-preferred-stock?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-15T08:36:45+00:00",
+   "tickers": [
+    "PLD"
+   ]
+  },
   {
    "id": "aea45ed078c8",
    "title": "Why Some Flights Were Exempt From the Ground Stop",
@@ -32,6 +48,22 @@
    "domain": "cnbc.com",
    "published": "2026-11-15T08:34:46+00:00",
    "tickers": []
+  },
+  {
+   "id": "52f4eff35d1f",
+   "title": "Moderna president Stephen Hoge sells $11.7M in common stock",
+   "link": "https://www.investing.com/news/insider-trading-news/moderna-president-stephen-hoge-sells-117m-in-common-stock-93CH-5027738",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-15T08:31:13+00:00",
+   "tickers": [
+    "MRNA"
+   ]
   },
   {
    "id": "ceb3f85042d4",
@@ -132,6 +164,22 @@
    "domain": "biztoc.com",
    "published": "2026-11-15T08:23:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "94bd24f4cb96",
+   "title": "Airbnb CSO Blecharczyk sells $2.35M in shares",
+   "link": "https://www.investing.com/news/insider-trading-news/airbnb-cso-blecharczyk-sells-235m-in-shares-93CH-5027733",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-15T08:16:05+00:00",
+   "tickers": [
+    "ABNB"
+   ]
   },
   {
    "id": "6511cdb666e1",
@@ -8705,48 +8753,6 @@
    "tickers": [
     "NWSA"
    ]
-  },
-  {
-   "id": "42e81f3372ae",
-   "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
-   "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-5027517",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-11-14T21:20:03+00:00",
-   "tickers": []
-  },
-  {
-   "id": "2eddfa401bde",
-   "title": "HONGQI EHS4 Set for Global Debut in Venice: Eastern Elegance Arrives in Europe",
-   "link": "https://www.prnewswire.com/news-releases/hongqi-ehs4-set-for-global-debut-in-venice-eastern-elegance-arrives-in-europe-302939551.html",
-   "summary": "VENICE, Italy, Nov. 14, 2026 /PRNewswire/ -- HONGQI, one of China's leading automotive marques, will introduce its all-new all-electric SUV, HONGQI EHS4, to the European market. Making its global debut in Venice, Italy, on 16 November 2026, the EHS4 marks another milestone in the brand's...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-11-14T21:15:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "f903a1e4bb79",
-   "title": "The Massive Chinese Spy Operation Targeting Western Tech and AI | The 10-Point for Nov. 14",
-   "link": "https://biztoc.com/x/c1279a4de530a908?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-14T21:12:16+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8831,12 +8837,15 @@
   "ENB": "Enbridge",
   "EVR": "Evercore",
   "GOOG": "Alphabet",
+  "PLD": "Prologis",
   "SNAP": "Snapchat",
   "FOX": "Fox Corp",
   "BPOP": "Popular",
   "CVNA": "Carvana",
+  "MRNA": "Moderna",
   "SCI": "Service",
   "W": "Wayfair",
+  "ABNB": "Airbnb",
   "HUM": "Humana",
   "NDAQ": "Nasdaq",
   "NTAP": "NetApp",
