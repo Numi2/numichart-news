@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T21:01:40.124529+00:00",
+ "generated": "2026-11-15T21:11:46.737769+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -14,6 +14,20 @@
    "type": "press",
    "sentiment": "neutral",
    "domain": "prnewswire.com",
+   "published": "2026-11-15T21:00:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c517b424ff50",
+   "title": "S&P 500: It's Not Over, What To Expect In Chapter Two Of This Correction (Technical Analysis)",
+   "link": "https://seekingalpha.com/article/4968368-s-and-p500-its-not-over-what-to-expect-in-chapter-two-of-this-correction?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
    "published": "2026-11-15T21:00:00+00:00",
    "tickers": []
   },
@@ -8782,25 +8796,6 @@
    "domain": "biztoc.com",
    "published": "2026-11-15T13:58:31+00:00",
    "tickers": []
-  },
-  {
-   "id": "21156a9a6465",
-   "title": "These 4 Waste and Services Stocks Collect Recurring Revenue",
-   "link": "https://biztoc.com/x/e336f9efc7557875?ref=rss",
-   "summary": "Waste Management (NYSE: WM), Republic Services (NYSE: RSG), Waste Connections (NYSE: WCN), and Cintas (NASDAQ: CTAS) have something important in common: They generate recurring revenue by providing services their customers need. Whether it's collecting garbage or supplying workplace uniforms,…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-15T13:58:28+00:00",
-   "tickers": [
-    "WM",
-    "RSG",
-    "WCN",
-    "CTAS"
-   ]
   }
  ],
  "ticker_names": {
@@ -8843,16 +8838,13 @@
   "OLED": "Universal Display",
   "POWL": "Powell Industries",
   "RIVN": "Rivian Automotive",
-  "RSG": "Republic Services",
   "SOFI": "SoFi Technologies",
   "TXN": "Texas Instruments",
-  "WCN": "Waste Connections",
   "AR": "Antero Resources",
   "GTLS": "Chart Industries",
   "NVO": "Novo Nordisk A/S",
   "UPST": "Upstart Holdings",
   "VMC": "Vulcan Materials",
-  "WM": "Waste Management",
   "ACHR": "Archer Aviation",
   "ASTS": "AST SpaceMobile",
   "DIS": "The Walt Disney",
@@ -8914,7 +8906,6 @@
   "STNE": "StoneCo",
   "W": "Wayfair",
   "WMT": "Walmart",
-  "CTAS": "Cintas",
   "KMX": "CarMax",
   "LEN": "Lennar",
   "NDAQ": "Nasdaq",
