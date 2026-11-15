@@ -1,8 +1,22 @@
 {
- "generated": "2026-11-15T17:38:48.123778+00:00",
+ "generated": "2026-11-15T17:45:05.208145+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "0be433df9ba9",
+   "title": "Anti-Houthi forces retreat in Yemen as Iran strikes Bahrain in attack on U.S. base",
+   "link": "https://www.cnbc.com/2026/11/15/bahrain-iran-drone-attacks-tehran-us-base.html",
+   "summary": "Iranian attacks on Bahrain, headquarters of the U.S. Fifth Fleet in the Gulf, were likely to put new pressure on U.S. President Donald Trump to resolve the war.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-11-15T17:43:14+00:00",
+   "tickers": []
+  },
   {
    "id": "ad0cdd0a2a62",
    "title": "Lane Kiffin Makes Bold LSU Promise After Back-to-Back Losses",
@@ -172,6 +186,22 @@
    "domain": "biztoc.com",
    "published": "2026-11-15T17:31:56+00:00",
    "tickers": []
+  },
+  {
+   "id": "e68b330eeb83",
+   "title": "3 Beaten-Down Stocks Under $10 to Buy in November",
+   "link": "https://www.nasdaq.com/articles/3-beaten-down-stocks-under-10-buy-november",
+   "summary": "Key PointsWall Street has soured on Archer, Joby, and USA Rare Earth, but the best days for these stocks could still lie ahead.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-15T17:20:02+00:00",
+   "tickers": [
+    "USAR"
+   ]
   },
   {
    "id": "87199f4ef9a4",
@@ -3856,20 +3886,6 @@
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
    "published": "2026-11-15T14:52:40+00:00",
-   "tickers": []
-  },
-  {
-   "id": "0be433df9ba9",
-   "title": "Bahrain intercepts Iranian aerial attacks as Tehran says it attacked US base",
-   "link": "https://www.cnbc.com/2026/11/15/bahrain-iran-drone-attacks-tehran-us-base.html",
-   "summary": "The Bahraini military said its air defenses had intercepted several Iranian aerial attacks before they reached their targets.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-11-15T14:51:36+00:00",
    "tickers": []
   },
   {
@@ -8759,27 +8775,10 @@
     "AMZN",
     "IBM"
    ]
-  },
-  {
-   "id": "c7f6341cf115",
-   "title": "Peter Schiff Warns Of ‘A Black Monday’ For BitMine And Ethereum ETFs If ETH Loses Key Support",
-   "link": "https://biztoc.com/x/bc0c35f936c6a875?ref=rss",
-   "summary": "Long-term critic Peter Schiff claimed on Saturday that Ethereum might plummet to $1,000 on Monday if it fails this weekend. - Ethereum fell to a low of $1,713 on Sunday, its lowest level since July. - A Stocktwits user said that when the market opens on Monday, the price could tank further…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-11-15T10:55:51+00:00",
-   "tickers": [
-    "ETH"
-   ]
   }
  ],
  "ticker_names": {
   "VYMI": "Vanguard International High Dividend Yield ETF",
-  "ETH": "Grayscale Ethereum Staking Mini ETF Shares",
   "DIA": "SPDR Dow Jones Industrial Average ETF",
   "BTC": "Grayscale Bitcoin Mini Trust (BTC)",
   "TSM": "Taiwan Semiconductor Manufacturing",
@@ -8841,6 +8840,7 @@
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
   "QBTS": "D-Wave Quantum",
+  "USAR": "USA Rare Earth",
   "EXE": "Expand Energy",
   "JOBY": "Joby Aviation",
   "KMI": "Kinder Morgan",
