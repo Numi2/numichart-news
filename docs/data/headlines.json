@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T01:53:40.576650+00:00",
+ "generated": "2026-11-15T01:59:45.990229+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -62,18 +62,21 @@
    "tickers": []
   },
   {
-   "id": "bd346fcf2ec3",
-   "title": "Wheat Popping Higher on Friday",
-   "link": "https://www.nasdaq.com/articles/wheat-popping-higher-friday",
-   "summary": "The wheat complex is trading with gains across the three markets on to round out the week. Chicago SRW futures are 8 to 9 cents in the green on Friday. KC HRW futures are trading 7 to 9 ¼ cents higher on the session. MPLS spring wheat is facing Friday...",
+   "id": "88743323a8b3",
+   "title": "Evercore explains why Apple has the right assets to win the personal agents race",
+   "link": "https://www.investing.com/news/stock-market-news/evercore-explains-why-apple-has-the-right-assets-to-win-the-personal-agents-race-5027628",
+   "summary": "",
    "article_text": "",
-   "source": "NASDAQ Stocks",
+   "source": "Investing Stock",
    "category": "stocks",
    "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-15T01:36:21+00:00",
-   "tickers": []
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-11-15T01:38:04+00:00",
+   "tickers": [
+    "EVR",
+    "AAPL"
+   ]
   },
   {
    "id": "3e50d3673d59",
@@ -269,6 +272,20 @@
    "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-11-15T01:24:20+00:00",
+   "tickers": []
+  },
+  {
+   "id": "bd346fcf2ec3",
+   "title": "Wheat Popping Higher on Friday",
+   "link": "https://www.nasdaq.com/articles/wheat-popping-higher-friday",
+   "summary": "The wheat complex is trading with gains across the three markets on to round out the week. Chicago SRW futures are 8 to 9 cents in the green on Friday. KC HRW futures are trading 7 to 9 ¼ cents higher on the session. MPLS spring wheat is facing Friday...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-15T01:23:23+00:00",
    "tickers": []
   },
   {
@@ -8787,20 +8804,6 @@
    "tickers": [
     "ICE"
    ]
-  },
-  {
-   "id": "a5e648b65003",
-   "title": "Russia, UAE call for secure navigation in Hormuz",
-   "link": "https://biztoc.com/x/990c9cd4b453e7b7?ref=rss",
-   "summary": "Russian Foreign Minister Sergey Lavrov and United Arab Emirates Foreign Minister Abdullah bin Zayed Al Nahyan discussed tensions in the Persian Gulf and maritime security during talks in Abu Dhabi, th...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-11-14T17:22:59+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8895,6 +8898,7 @@
   "NWSA": "News Corp",
   "AVGO": "Broadcom",
   "ENB": "Enbridge",
+  "EVR": "Evercore",
   "GOOG": "Alphabet",
   "FOX": "Fox Corp",
   "BPOP": "Popular",
