@@ -1,8 +1,24 @@
 {
- "generated": "2026-11-15T02:41:41.347631+00:00",
+ "generated": "2026-11-15T02:48:23.619305+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "21bbdf739236",
+   "title": "CEF Weekly Review: RSF Goes Big On SPACs",
+   "link": "https://seekingalpha.com/article/4968330-cef-weekly-review-rsf-goes-big-on-spacs?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-15T02:42:06+00:00",
+   "tickers": [
+    "CEF"
+   ]
+  },
   {
    "id": "887e4aaecdde",
    "title": "Judge temporarily blocks Trump’s push to overhaul municipal golf course in D.C",
@@ -131,6 +147,20 @@
    "sentiment": "neutral",
    "domain": "biztoc.com",
    "published": "2026-11-15T02:32:47+00:00",
+   "tickers": []
+  },
+  {
+   "id": "6b1f48dc51b7",
+   "title": "Wheat Posts Friday Gains",
+   "link": "https://www.nasdaq.com/articles/wheat-posts-friday-gains-0",
+   "summary": "The wheat complex is trading with gains across the three markets on to round out the week. Chicago SRW futures posted Friday gains of 5 to 9 cents across the board, as December was up just 2 cents for the week. KC HRW futures saw strength of 3 to 6...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-11-15T02:26:30+00:00",
    "tickers": []
   },
   {
@@ -8770,39 +8800,12 @@
     "LITE",
     "MRVL"
    ]
-  },
-  {
-   "id": "4f73fbfe20c0",
-   "title": "PTH: Caution Merited Given Weak Risk-Adjusted Returns",
-   "link": "https://seekingalpha.com/article/4968210-pth-caution-merited-given-weak-risk-adjusted-returns?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "negative",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-14T17:38:12+00:00",
-   "tickers": []
-  },
-  {
-   "id": "0e9ea1f69755",
-   "title": "Retirees sometimes tap savings for one-off expenses. Here’s what advisors say to consider first",
-   "link": "https://biztoc.com/x/b4989d400c7fc589?ref=rss",
-   "summary": "Retirees facing a large expense that's not in their regular household budget may turn to their traditional 401(k) or individual retirement account balances to cover it. While retirement savings may be the easiest place to turn for the money, financial advisors say there are a few things worth…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-14T17:38:10+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
   "JIRE": "JPMorgan International Research Enhanced Equity ETF",
   "VYMI": "Vanguard International High Dividend Yield ETF",
+  "CEF": "Sprott Physical Gold and Silver Trust Units",
   "IAGG": "iShares International Aggregate Bond Fund",
   "DIA": "SPDR Dow Jones Industrial Average ETF",
   "VCLT": "Vanguard Long-Term Corporate Bond ETF",
