@@ -1,8 +1,38 @@
 {
- "generated": "2026-11-15T08:28:24.264420+00:00",
+ "generated": "2026-11-15T08:36:27.427869+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "aea45ed078c8",
+   "title": "Why Some Flights Were Exempt From the Ground Stop",
+   "link": "https://www.nytimes.com/2026/11/14/business/faa-ground-stop-exceptions-airlines.html",
+   "summary": "Dozens of international flights departed from the United States during Friday’s nationwide ground stop. Some planes also left for Hawaii from the West Coast.",
+   "article_text": "",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-11-15T08:35:03+00:00",
+   "tickers": [
+    "WST"
+   ]
+  },
+  {
+   "id": "aba9083e164a",
+   "title": "Megaspeed says Alice Huang left in 2025 as it launches internal probe into reports about its business",
+   "link": "https://www.cnbc.com/2026/11/15/megaspeed-alice-huang-probe-nvidia-scandal.html",
+   "summary": "The Singapore-based cloud computing company has faced heightened scrutiny since reports linked Nvidia's Jensen Huang to former Megaspeed executive Alice Huang.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "cnbc.com",
+   "published": "2026-11-15T08:34:46+00:00",
+   "tickers": []
+  },
   {
    "id": "ceb3f85042d4",
    "title": "Lula: Brazil seeks new partners in response to US tariffs",
@@ -101,20 +131,6 @@
    "sentiment": "neutral",
    "domain": "biztoc.com",
    "published": "2026-11-15T08:23:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "aba9083e164a",
-   "title": "Megaspeed says Alice Huang left in 2025 as it launches internal probe into reports about its business",
-   "link": "https://www.cnbc.com/2026/11/15/megaspeed-alice-huang-probe-nvidia-scandal.html",
-   "summary": "The Singapore-based cloud computing company has faced heightened scrutiny since reports linked Nvidia's Jensen Huang to former Megaspeed executive Alice Huang.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "cnbc.com",
-   "published": "2026-11-15T08:22:21+00:00",
    "tickers": []
   },
   {
@@ -3174,22 +3190,6 @@
    "published": "2026-11-15T02:53:59+00:00",
    "tickers": [
     "LHX"
-   ]
-  },
-  {
-   "id": "aea45ed078c8",
-   "title": "How Some Flights Were Exempt From the Ground Stop",
-   "link": "https://www.nytimes.com/2026/11/14/business/faa-ground-stop-exceptions-airlines.html",
-   "summary": "Dozens of international flights departed from the United States during Friday’s nationwide ground stop. Some planes also left for Hawaii from the West Coast.",
-   "article_text": "",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "nytimes.com",
-   "published": "2026-11-15T02:52:12+00:00",
-   "tickers": [
-    "WST"
    ]
   },
   {
