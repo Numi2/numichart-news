@@ -1,8 +1,22 @@
 {
- "generated": "2026-11-16T23:51:26.418735+00:00",
+ "generated": "2026-11-16T23:57:37.168080+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "8a94bf7a5652",
+   "title": "United Airlines Flights Resume After ‘Widespread System Outage’",
+   "link": "https://www.nytimes.com/2026/11/16/business/united-airlines-outage-flights.html",
+   "summary": "The brief disruption, after a nationwide ground stop last week, added to concerns about air travel ahead of a busy Thanksgiving travel period.",
+   "article_text": "",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-11-16T23:49:11+00:00",
+   "tickers": []
+  },
   {
    "id": "ddb5b9c43374",
    "title": "Stock futures are little changed after Nvidia pressures tech to start the week: Live updates",
@@ -270,17 +284,33 @@
    "tickers": []
   },
   {
-   "id": "8a94bf7a5652",
-   "title": "United Airlines Flights Resume After ‘Widespread System Outage’",
-   "link": "https://www.nytimes.com/2026/11/16/business/united-airlines-outage-flights.html",
-   "summary": "The brief disruption, after a nationwide ground stop last week, added to concerns about air travel ahead of a busy Thanksgiving travel period.",
+   "id": "843274e61c14",
+   "title": "Rising Indian Sugar Production Weighs on Prices",
+   "link": "https://www.nasdaq.com/articles/rising-indian-sugar-production-weighs-prices",
+   "summary": "March NY world sugar #11 (SBH27 ) closed down -0.31 (-1.68%) on Monday, and March London ICE white sugar #5 (SWH2 7) closed down -10.50 (-2.02%). Sugar prices moved lower on Monday amid an increase in India’s sugar production. India’s Sugar & Bio-Energy Manufacturers Association (ISMA) reported Monday that India’s...",
    "article_text": "",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
    "sentiment": "neutral",
-   "domain": "nytimes.com",
-   "published": "2026-11-16T23:45:29+00:00",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T23:45:52+00:00",
+   "tickers": [
+    "ICE"
+   ]
+  },
+  {
+   "id": "3d85f73735a1",
+   "title": "Soybeans Posting Midday Losses, Despite Record NOPA Crush",
+   "link": "https://www.nasdaq.com/articles/soybeans-posting-midday-losses-despite-record-nopa-crush",
+   "summary": "Soybeans are trading with losses of 6 to 8 ½ cents across most contracts on Monday. The cmdtyView national average Cash Bean price is down 7 1/2 cents at $11.66 1/2. Soymeal futures are trading with $3.50 to $4 gains at midday. Soy Oil futures are 150 to 155 lower...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T23:45:52+00:00",
    "tickers": []
   },
   {
@@ -356,6 +386,62 @@
    "sentiment": "neutral",
    "domain": "marketwatch.com",
    "published": "2026-11-16T23:42:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "477b00155a3d",
+   "title": "Cementos Pacasmayo S.A.A. Board Approves Amended Tender Offer Report Following Regulator Observations",
+   "link": "https://www.nasdaq.com/articles/cementos-pacasmayo-saa-board-approves-amended-tender-offer-report-following-regulator",
+   "summary": "Cementos Pacasmayo S.A.A. announced that its Board of Directors, at a meeting held on November 13, 2026, approved a new, comprehensive version of the Board of Directors' Report in response to observations raised by the Superintendencia del Mercado de Valores. The regulator's requ",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T23:41:47+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b24e6327a5a7",
+   "title": "Enlivex Therapeutics Ltd. Enters into Securities Purchase Agreement for $7,500,000 Registered Direct Offering",
+   "link": "https://www.nasdaq.com/articles/enlivex-therapeutics-ltd-enters-securities-purchase-agreement-7500000-registered-direct",
+   "summary": "Enlivex Therapeutics Ltd. entered into a securities purchase agreement on November 14, 2026, with certain investors for a registered direct offering of $7,500,000 of ordinary shares, par value NIS 96.00 per share, or pre-funded warrants, together with accompanying ordinary warran",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "offering",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T23:41:47+00:00",
+   "tickers": []
+  },
+  {
+   "id": "099a06ef2712",
+   "title": "ANI Pharmaceuticals, Inc. Details Offer to Acquire Egetis Therapeutics for SEK 5.6B",
+   "link": "https://www.nasdaq.com/articles/ani-pharmaceuticals-inc-details-offer-acquire-egetis-therapeutics-sek-56b",
+   "summary": "ANI Pharmaceuticals, Inc. has announced a public cash tender offer to acquire Egetis Therapeutics, a Swedish public limited liability company, for SEK 11.25 per share. The total offer value is SEK 5.6B, which is approximately $560M, with a net enterprise value of ~$434M. The tran",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T23:41:46+00:00",
+   "tickers": []
+  },
+  {
+   "id": "5107868475e0",
+   "title": "Dollar Climbs on Stock Weakness and Fed Tightening Prospects",
+   "link": "https://www.nasdaq.com/articles/dollar-climbs-stock-weakness-and-fed-tightening-prospects",
+   "summary": "The dollar index (DXY00 ) climbed to a fresh 1.5-year high today and is up +0.10%. The dollar is climbing today amid weakness in stocks, which is boosting demand for dollar liquidity. The dollar also has carryover support from last Friday, when several Fed members expressed their support for additional...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "macro",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T23:41:38+00:00",
    "tickers": []
   },
   {
@@ -493,6 +579,39 @@
    ]
   },
   {
+   "id": "daf72b3232e1",
+   "title": "Weakness in Chipmakers and AI Stocks Weighs on Stock Indexes",
+   "link": "https://www.nasdaq.com/articles/weakness-chipmakers-and-ai-stocks-weighs-stock-indexes",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) is down -0.75% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.22%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -1.36%. December E-mini S&P futures (ESZ26 ) are down -0.80%, and December E-mini Nasdaq futures...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T23:36:17+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
+  },
+  {
+   "id": "8f53998d20c0",
+   "title": "Tech Leaders Want Jensen Huang to Return to Nvidia. Here’s What That Would Mean for the Stock Price.",
+   "link": "https://www.nasdaq.com/articles/tech-leaders-want-jensen-huang-return-nvidia-heres-what-would-mean-stock-price",
+   "summary": "Key PointsInvestigations are ongoing into Jensen Huang’s relationship with a woman U.S. intelligence calls a Chinese spy.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T23:35:02+00:00",
+   "tickers": []
+  },
+  {
    "id": "f42c1fd3c518",
    "title": "Spotify: Straightforward Business, Senseless Valuation (Rating Downgrade)",
    "link": "https://seekingalpha.com/article/4968791-spotify-straightforward-business-senseless-valuation-rating-downgrade?source=feed_all_articles",
@@ -537,6 +656,20 @@
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
    "published": "2026-11-16T23:33:53+00:00",
+   "tickers": []
+  },
+  {
+   "id": "565de3f3308e",
+   "title": "Malaysia Stock Market May Turn Lower Again On Tuesday.",
+   "link": "https://www.nasdaq.com/articles/malaysia-stock-market-may-turn-lower-again-tuesday",
+   "summary": "(RTTNews) - The Malaysia stock market on Monday halted the five-day losing streak in which it had dropped more than 55 points or 3.3 percent. The Kuala Lumpur Composite Index now sits just beneath the 1,590-point plateau although it may hand those gains back on Tuesday.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T23:33:22+00:00",
    "tickers": []
   },
   {
@@ -962,6 +1095,55 @@
    ]
   },
   {
+   "id": "6a48f1b19c81",
+   "title": "Cattle Pulling off Early Lows at Monday’s Midday",
+   "link": "https://www.nasdaq.com/articles/cattle-pulling-early-lows-mondays-midday",
+   "summary": "Live cattle futures are showing 12 to 60 cent losses across most contracts on Monday. Cash trade last week saw some light dressed trade at $335-340 in the North, with a few southern sales at $218. Feeder cattle futures are $1.40 to $2.15 lower across the front months on the...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T23:30:38+00:00",
+   "tickers": []
+  },
+  {
+   "id": "58f178a36e27",
+   "title": "Cocoa Prices Fall on Abundant Supplies",
+   "link": "https://www.nasdaq.com/articles/cocoa-prices-fall-abundant-supplies",
+   "summary": "December ICE NY cocoa (CCZ26 ) closed down -77 (-1.50%) on Monday, and ICE London cocoa #7 (CAZ26 ) closed down -34 (-0.88%). Cocoa prices retreated on Monday amid signs of abundant current supplies. Cocoa prices have trended lower over the past month and posted a 4.75-month low last Tuesday...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T23:30:38+00:00",
+   "tickers": [
+    "ICE"
+   ]
+  },
+  {
+   "id": "e3bf76456719",
+   "title": "Stock Indexes Retreat as Chipmakers and AI Stocks Fall",
+   "link": "https://www.nasdaq.com/articles/stock-indexes-retreat-chipmakers-and-ai-stocks-fall",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) is down -0.95% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.47%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -1.58%. December E-mini S&P futures (ESZ26 ) are down -1.02%, and December E-mini Nasdaq futures...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T23:30:37+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
+  },
+  {
    "id": "00b2b9e30f81",
    "title": "The Inner Circle acknowledges Stephanie L. Beiermann as a Pinnacle Professional of The Year",
    "link": "https://www.prnewswire.com/news-releases/the-inner-circle-acknowledges-stephanie-l-beiermann-as-a-pinnacle-professional-of-the-year-302941126.html",
@@ -987,6 +1169,20 @@
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
    "published": "2026-11-16T23:30:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f8a51d2434a4",
+   "title": "Elauwit (ELWT) Q3 2026 Earnings Call Transcript",
+   "link": "https://www.nasdaq.com/articles/elauwit-elwt-q3-2026-earnings-call-transcript",
+   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T23:29:38+00:00",
    "tickers": []
   },
   {
@@ -1107,6 +1303,41 @@
    "domain": "seekingalpha.com",
    "published": "2026-11-16T23:25:40+00:00",
    "tickers": []
+  },
+  {
+   "id": "4bb33fe54fe2",
+   "title": "Stock Indexes Settle Sharply Lower on Big Tech Drubbing",
+   "link": "https://www.nasdaq.com/articles/stock-indexes-settle-sharply-lower-big-tech-drubbing",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down -1.92% on Monday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -1.41%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -2.67%. December E-mini S&P futures (ESZ26 ) fell -1.91%, and December E-mini Nasdaq futures...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T23:25:04+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
+  },
+  {
+   "id": "2cf2992f9999",
+   "title": "Corn Posting Midday Gains",
+   "link": "https://www.nasdaq.com/articles/corn-posting-midday-gains-0",
+   "summary": "Corn futures are showing 1 to 2 cent gains on Monday, with new crop seeing fractional losses. The CmdtyView national average Cash Corn price is up 1 1/2 cents at $4.15 1/2. USDA reported a private export sale of 130,000 MT to Colombia this morning, all for 2026/27. Weekly FGIS...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T23:25:04+00:00",
+   "tickers": [
+    "MT"
+   ]
   },
   {
    "id": "5c7b6921ac33",
@@ -1375,6 +1606,50 @@
    "tickers": []
   },
   {
+   "id": "64f260631f3d",
+   "title": "Strategy Inc Announces ATM Sales of 2,087,040 Class A Shares and Purchase of 485 Bitcoin",
+   "link": "https://www.nasdaq.com/articles/strategy-inc-announces-atm-sales-2087040-class-shares-and-purchase-485-bitcoin",
+   "summary": "Strategy Inc announced updates regarding its at-the-market offering program, bitcoin holdings, share repurchases, and dividend declarations. During the period from November 9, 2026 to November 15, 2026, the company sold 2,087,040 shares of Class A Common Stock. According to the c",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T23:20:57+00:00",
+   "tickers": [
+    "MSTR"
+   ]
+  },
+  {
+   "id": "3584f715db44",
+   "title": "Jasper Therapeutics, Inc. Reports Third Quarter 2026 Financial Results and Clinical Pipeline Progress",
+   "link": "https://www.nasdaq.com/articles/jasper-therapeutics-inc-reports-third-quarter-2026-financial-results-and-clinical-pipeline",
+   "summary": "Jasper Therapeutics, Inc. reported its financial results for the fiscal quarter ended September 30, 2026, and provided a corporate update. Cash and cash equivalents as of September 30, 2026, totaled $135.3 million. Research and development expense for the three months ended Septe",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T23:20:55+00:00",
+   "tickers": []
+  },
+  {
+   "id": "3b503387f8b4",
+   "title": "Relmada Therapeutics, Inc. Appoints Jørn Skibsted Jakobsen, MD, PhD, as Chief Development Officer",
+   "link": "https://www.nasdaq.com/articles/relmada-therapeutics-inc-appoints-jorn-skibsted-jakobsen-md-phd-chief-development-officer",
+   "summary": "Relmada Therapeutics, Inc. announced the appointment of Jørn Skibsted Jakobsen, MD, PhD, as Chief Development Officer, Urology & Uro-Oncology, on November 16, 2026. Dr. Jakobsen will lead clinical development across the company's pipeline, including the planned Phase 3",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-16T23:20:54+00:00",
+   "tickers": []
+  },
+  {
    "id": "b69a154cbfb8",
    "title": "AAON, Inc. (AAON) Presents at Baird 2026 Global Industrial Conference 2026 - Slideshow",
    "link": "https://seekingalpha.com/article/4968825-aaon-inc-aaon-presents-at-baird-2026-global-industrial-conference-2026-slideshow?source=feed_all_articles",
@@ -1431,107 +1706,6 @@
    "domain": "nasdaq.com",
    "published": "2026-11-16T23:20:02+00:00",
    "tickers": []
-  },
-  {
-   "id": "4bb33fe54fe2",
-   "title": "Stock Indexes Settle Sharply Lower on Big Tech Drubbing",
-   "link": "https://www.nasdaq.com/articles/stock-indexes-settle-sharply-lower-big-tech-drubbing",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down -1.92% on Monday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -1.41%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -2.67%. December E-mini S&P futures (ESZ26 ) fell -1.91%, and December E-mini Nasdaq futures...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-11-16T23:19:36+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
-   ]
-  },
-  {
-   "id": "6a48f1b19c81",
-   "title": "Cattle Pulling off Early Lows at Monday’s Midday",
-   "link": "https://www.nasdaq.com/articles/cattle-pulling-early-lows-mondays-midday",
-   "summary": "Live cattle futures are showing 12 to 60 cent losses across most contracts on Monday. Cash trade last week saw some light dressed trade at $335-340 in the North, with a few southern sales at $218. Feeder cattle futures are $1.40 to $2.15 lower across the front months on the...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-16T23:19:36+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e3bf76456719",
-   "title": "Stock Indexes Retreat as Chipmakers and AI Stocks Fall",
-   "link": "https://www.nasdaq.com/articles/stock-indexes-retreat-chipmakers-and-ai-stocks-fall",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) is down -0.95% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.47%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -1.58%. December E-mini S&P futures (ESZ26 ) are down -1.02%, and December E-mini Nasdaq futures...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-11-16T23:19:35+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
-   ]
-  },
-  {
-   "id": "5107868475e0",
-   "title": "Dollar Climbs on Stock Weakness and Fed Tightening Prospects",
-   "link": "https://www.nasdaq.com/articles/dollar-climbs-stock-weakness-and-fed-tightening-prospects",
-   "summary": "The dollar index (DXY00 ) climbed to a fresh 1.5-year high today and is up +0.10%. The dollar is climbing today amid weakness in stocks, which is boosting demand for dollar liquidity. The dollar also has carryover support from last Friday, when several Fed members expressed their support for additional...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "macro",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-11-16T23:19:35+00:00",
-   "tickers": []
-  },
-  {
-   "id": "daf72b3232e1",
-   "title": "Weakness in Chipmakers and AI Stocks Weighs on Stock Indexes",
-   "link": "https://www.nasdaq.com/articles/weakness-chipmakers-and-ai-stocks-weighs-stock-indexes",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) is down -0.75% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.22%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -1.36%. December E-mini S&P futures (ESZ26 ) are down -0.80%, and December E-mini Nasdaq futures...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-16T23:19:35+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
-   ]
-  },
-  {
-   "id": "2cf2992f9999",
-   "title": "Corn Posting Midday Gains",
-   "link": "https://www.nasdaq.com/articles/corn-posting-midday-gains-0",
-   "summary": "Corn futures are showing 1 to 2 cent gains on Monday, with new crop seeing fractional losses. The CmdtyView national average Cash Corn price is up 1 1/2 cents at $4.15 1/2. USDA reported a private export sale of 130,000 MT to Colombia this morning, all for 2026/27. Weekly FGIS...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-11-16T23:19:35+00:00",
-   "tickers": [
-    "MT"
-   ]
   },
   {
    "id": "d93698527a44",
@@ -2285,20 +2459,18 @@
    "tickers": []
   },
   {
-   "id": "843274e61c14",
-   "title": "Rising Indian Sugar Production Weighs on Prices",
-   "link": "https://www.nasdaq.com/articles/rising-indian-sugar-production-weighs-prices",
-   "summary": "March NY world sugar #11 (SBH27 ) closed down -0.31 (-1.68%) on Monday, and March London ICE white sugar #5 (SWH2 7) closed down -10.50 (-2.02%). Sugar prices moved lower on Monday amid an increase in India’s sugar production. India’s Sugar & Bio-Energy Manufacturers Association (ISMA) reported Monday that India’s...",
+   "id": "db7b88d14183",
+   "title": "CVC plans to back out of Italian deal with Advent, triggering potential legal clash",
+   "link": "https://www.ft.com/content/bd65d6e0-3ecb-498c-b684-c7e4c782a0ae?syn-25a6b1a6=1",
+   "summary": "Move to renege on agreement to buy food group Irca leads to dispute between two leading buyout firms",
    "article_text": "",
-   "source": "NASDAQ Stocks",
+   "source": "FT Companies",
    "category": "stocks",
-   "type": "stocks",
+   "type": "ma",
    "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-16T23:08:34+00:00",
-   "tickers": [
-    "ICE"
-   ]
+   "domain": "ft.com",
+   "published": "2026-11-16T23:08:52+00:00",
+   "tickers": []
   },
   {
    "id": "a208d677b08a",
@@ -4716,7 +4888,7 @@
    "title": "Stocks making the biggest moves Monday: Intel, Lumentum, Sandisk, Coinbase, Nvidia & more",
    "link": "https://www.cnbc.com/2026/11/16/stocks-moving-the-most-today-live-updates.html",
    "summary": "Follow along as CNBC highlights the biggest stock market moves of the day.",
-   "article_text": "Stocks moving the most today: Live updates Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu The Intel logo is displayed on a sign in front of Intel headquarters on Jan. 22, 2026 in Santa Clara, California. Justin Sullivan | Getty Images The artificial intelligence trade dropped to start the week, as \"picks and shovels\" plays declined alongside Nvidia. Lumentum, Sandisk and Bloom Energy tumbled alongside the chip giant ahead of Nvidia's earnings due Tuesday afternoon. Coinbase and Strategy, both of which are tied to bitcoin, also dropped as traders went risk-off. Investors sought shelter in consumer staples, lifting the Consumer Staples Select SPDR ETF (XLP) to a record high. In extended trading, shares of Intel dropped after Nvidia disclosed that it slashed its stake in the chipmaker. Follow along as CNBC highlights the biggest stock market moves of the day. 1 Hour Ago Intel shares slide in extended trading after Nvidia cuts its stake Intel fell in after-hours trading Monday after Nvidia disclosed that it has cut its stake in the company. Shares of Intel were last down 3%. Intel shares on Monday Nvidia said in a regulatory filing that it trimmed its stake by 25% in the quarter ending Sept. 30, selling nearly $5.5 billion in shares. The move lowers Nvidia's holding in Intel to 161 million shares from 215 million. -- Darla Mercado 4 Hours Ago Neocloud stocks dip near session lows; CoreWeave dips 6% on the day Shares of neocloud companies slumped on Monday, tumbling near session lows in the afternoon. CoreWeave was last down 6%, while Iren Limited dropped 9%. Rum Group fell 13%, and SharonAI Holdings lost 12%. Nebius was off almost 8%. Iren, Nebius and CoreWeave are heading for their third straight losing day. -- Darla Mercado, Gina Francolla 4 Hours Ago Procter & Gamble is up nearly 2% as investors turn to defensive stocks Procter & Gamble outperformed Monday, with consumer staples the only S&P 500 sector trading higher. Shares of the Tide and Pampers maker rose almost 2%. The stock is up 16.6% over the past 52 weeks, according to FactSet data. PG - stock price The gains come at a time when investors are looking beyond the AI trade and shifting toward defensive sectors . P&G's rise also comes ahead of its investor day Thursday , when CEO Shailesh Jejurikar and other executives are set to outline the company's strategy and plans for long-term growth. — Deena Zaidi 6 Hours Ago Nvidia hits session lows on report the board isn't considering returning Huang to CEO post Shares of Nvidia touched session lows after CNBC reported, citing a source familiar, that the chip company's board of directors isn't considering bringing back Jensen Huang as CEO. The stock was last down about 3.7% on the day. Nvidia on Monday Read more from CNBC on this latest Nvidia development here . -- Darla Mercado 6 Hours Ago Strategy and Coinbase tumble alongside bitcoin downturn Strategy dropped 7% and Coinbase Global fell 6% as equities tied to cryptocurrencies weakened alongside bitcoin , which briefly fell to $62,000 over the weekend before recovering Monday. Bitcoin fell to its lowest levels since August since Friday as a wave of forced liquidations accelerated as market liquidity weakened and risk appetite dropped off. Bitcoin is coming off its sixth straight weekly decline . Strategy has lost a third of its value in 2026 — Scott Schnipper, Tanaya Macheel 6 Hours Ago Artificial intelligence trade slides as traders shun stocks tied to the build-out \"Picks and shovels\" stocks tied to the AI data center build-out effort resumed their tumble on Monday. Photonics stock Lumentum dropped more than 7%, as did memory maker Sandisk . Chipmaker Intel and data center power stock Bloom Energy declined more than 6%. Sandisk in Monday's trading The iShares A.I. Innovation and Tech Active ETF (BAI) was heading for its third consecutive losing day, down 4% Monday afternoon. — Darla Mercado 7 Hours Ago Flight to safety lifts consumer staples ETF to an all-time high The Consumer Staples Select Sector SPDR ETF (XLP) ticked higher to reach an all-time high as traders dropped tech for safer corners of the stock market. Staples and healthcare were the only positive sectors of the S&P 500 as of noon Monday, with the XLP up about 0.2% on the day. The Consumer Staples Select Sector SPDR ETF (XLP) on Monday Manufacturers of household products Procter & Gamble , Church & Dwight and Colgate-Palmolive all advanced more than 1% to hit 52-week highs. Big-box store chain Costco Wholesale also inched up to a 52-week high, last trading up less than 1%. -- Darla Mercado 9 Hours Ago Tyson Foods rallies on earnings beat Shares of Tyson Foods advanced more than 9% on better-than-expected quarterly results. The company delivered earnings per share of 61 cents on revenue of $14.59 billion. Analysts polled by FactSet expected a profit of 53 cents per share on revenue of $14.1 billion. Tyson is known for its portfolio of food products which include beef, pork, chicken, and prepared foods. To be sure, the company's guidance for fiscal 2027 was cause for some pause. Management expects operating income of $1.7 billion to $2.15 billion, which is in line with FactSet's $2.13 billion estimate. The company also expects beef production to decrease by about 2% next year and anticipates an operating income loss in the segment. — Paulina Likos 10 Hours Ago L3Harris drops 4% after U.S. blames contractor for Friday's nationwide groundstop The New York Stock Exchange welcomes L3Harris Technologies on April 23rd, 2026. NYSE L3Harris , a defense electronics contractor, fell 4% after the Trump administration blamed it for Friday's nearly five-hour nationwide groundstop of all airline traffic. Transportation Secretary Sean Duffy on Saturday said the ground stop occurred while L3Harris was performing routine maintenance. \"This was an FAA system that didn't meet the moment,\" Duffy said at a press conference. Cancelation rates for the top six U.S. airlines reached 32% Friday and 30% on Saturday, according to FlightAware data analyzed by UBS. L3Harris shares over the past five days — Ananya Chetia 10 Hours Ago Johnson & Johnson edges higher after acquiring Ollin Biosciences Shares for Johnson & Johnson gained 1.4% after the company announced it will acquire clinical-stage biopharmaceutical company Ollin Biosciences for $2.2 billion. Johnson & Johnson also announced it will receive $750 million from Blackstone Life Sciences to fully cover the Phase 3 development of OLN324, an \"investigational, next-generation bispecific antibody.\" — Ananya Chetia 11 Hours Ago Shares for Aramark tumble over 5% following earnings Shares for Aramark fell more than 5% after the company posted fiscal fourth-quarter results that missed the expectations. The operator of cafeterias, hospital kitchens and sports stadium food stands reported adjusted earnings per share of 71 cents on revenue of $5.29 billion. Analysts polled by FactSet expected a profit of 75 cents per share on revenue of $5.03 billion. The company also expects adjusted earnings per share to increase between 20% and 25% and revenue to grow between 9% and 10% for the full year. — Ananya Chetia 12 Hours Ago Top airline shares down after Friday's nationwide ground stop of flights Passengers queue at the Southwest Airlines desk to speak with a representative at Eppley Airfield in Omaha, Neb., on Friday, Nov. 13, 2026. Nikos Frazier | Omaha World-Herald | Lee Newspapers | Getty Images Shares related to airlines, including American Airlines , Delta and United Airlines were down over 1% after the Federal Aviation Administration briefly issued a nationwide ground stop on all flights on Friday, causing flight delays and travel disruptions. On Sunday, President Donald Trump blamed the Biden administration for the FAA stop. \"The Biden Administration was an FAA disaster. Everything they touched turned bad,\" he wrote on social media. — Ananya",
+   "article_text": "Stocks moving the most today: Live updates Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu The Intel logo is displayed on a sign in front of Intel headquarters on Jan. 22, 2026 in Santa Clara, California. Justin Sullivan | Getty Images The artificial intelligence trade dropped to start the week, as \"picks and shovels\" plays declined alongside Nvidia. Lumentum, Sandisk and Bloom Energy tumbled alongside the chip giant ahead of Nvidia's earnings due Tuesday afternoon. Coinbase and Strategy, both of which are tied to bitcoin, also dropped as traders went risk-off. Investors sought shelter in consumer staples, lifting the Consumer Staples Select SPDR ETF (XLP) to a record high. In extended trading, shares of Intel dropped after Nvidia disclosed that it slashed its stake in the chipmaker. Follow along as CNBC highlights the biggest stock market moves of the day. 1 Hour Ago Intel shares slide in extended trading after Nvidia cuts its stake Intel fell in after-hours trading Monday after Nvidia disclosed that it has cut its stake in the company. Shares of Intel were last down 3%. Intel shares on Monday Nvidia said in a regulatory filing that it trimmed its stake by 25% in the quarter ending Sept. 30, selling nearly $5.5 billion in shares. The move lowers Nvidia's holding in Intel to 161 million shares from 215 million. -- Darla Mercado 4 Hours Ago Neocloud stocks dip near session lows; CoreWeave dips 6% on the day Shares of neocloud companies slumped on Monday, tumbling near session lows in the afternoon. CoreWeave was last down 6%, while Iren Limited dropped 9%. Rum Group fell 13%, and SharonAI Holdings lost 12%. Nebius was off almost 8%. Iren, Nebius and CoreWeave are heading for their third straight losing day. -- Darla Mercado, Gina Francolla 4 Hours Ago Procter & Gamble is up nearly 2% as investors turn to defensive stocks Procter & Gamble outperformed Monday, with consumer staples the only S&P 500 sector trading higher. Shares of the Tide and Pampers maker rose almost 2%. The stock is up 16.6% over the past 52 weeks, according to FactSet data. PG - stock price The gains come at a time when investors are looking beyond the AI trade and shifting toward defensive sectors . P&G's rise also comes ahead of its investor day Thursday , when CEO Shailesh Jejurikar and other executives are set to outline the company's strategy and plans for long-term growth. — Deena Zaidi 6 Hours Ago Nvidia hits session lows on report the board isn't considering returning Huang to CEO post Shares of Nvidia touched session lows after CNBC reported, citing a source familiar, that the chip company's board of directors isn't considering bringing back Jensen Huang as CEO. The stock was last down about 3.7% on the day. Nvidia on Monday Read more from CNBC on this latest Nvidia development here . -- Darla Mercado 6 Hours Ago Strategy and Coinbase tumble alongside bitcoin downturn Strategy dropped 7% and Coinbase Global fell 6% as equities tied to cryptocurrencies weakened alongside bitcoin , which briefly fell to $62,000 over the weekend before recovering Monday. Bitcoin fell to its lowest levels since August since Friday as a wave of forced liquidations accelerated as market liquidity weakened and risk appetite dropped off. Bitcoin is coming off its sixth straight weekly decline . Strategy has lost a third of its value in 2026 — Scott Schnipper, Tanaya Macheel 7 Hours Ago Artificial intelligence trade slides as traders shun stocks tied to the build-out \"Picks and shovels\" stocks tied to the AI data center build-out effort resumed their tumble on Monday. Photonics stock Lumentum dropped more than 7%, as did memory maker Sandisk . Chipmaker Intel and data center power stock Bloom Energy declined more than 6%. Sandisk in Monday's trading The iShares A.I. Innovation and Tech Active ETF (BAI) was heading for its third consecutive losing day, down 4% Monday afternoon. — Darla Mercado 7 Hours Ago Flight to safety lifts consumer staples ETF to an all-time high The Consumer Staples Select Sector SPDR ETF (XLP) ticked higher to reach an all-time high as traders dropped tech for safer corners of the stock market. Staples and healthcare were the only positive sectors of the S&P 500 as of noon Monday, with the XLP up about 0.2% on the day. The Consumer Staples Select Sector SPDR ETF (XLP) on Monday Manufacturers of household products Procter & Gamble , Church & Dwight and Colgate-Palmolive all advanced more than 1% to hit 52-week highs. Big-box store chain Costco Wholesale also inched up to a 52-week high, last trading up less than 1%. -- Darla Mercado 9 Hours Ago Tyson Foods rallies on earnings beat Shares of Tyson Foods advanced more than 9% on better-than-expected quarterly results. The company delivered earnings per share of 61 cents on revenue of $14.59 billion. Analysts polled by FactSet expected a profit of 53 cents per share on revenue of $14.1 billion. Tyson is known for its portfolio of food products which include beef, pork, chicken, and prepared foods. To be sure, the company's guidance for fiscal 2027 was cause for some pause. Management expects operating income of $1.7 billion to $2.15 billion, which is in line with FactSet's $2.13 billion estimate. The company also expects beef production to decrease by about 2% next year and anticipates an operating income loss in the segment. — Paulina Likos 10 Hours Ago L3Harris drops 4% after U.S. blames contractor for Friday's nationwide groundstop The New York Stock Exchange welcomes L3Harris Technologies on April 23rd, 2026. NYSE L3Harris , a defense electronics contractor, fell 4% after the Trump administration blamed it for Friday's nearly five-hour nationwide groundstop of all airline traffic. Transportation Secretary Sean Duffy on Saturday said the ground stop occurred while L3Harris was performing routine maintenance. \"This was an FAA system that didn't meet the moment,\" Duffy said at a press conference. Cancelation rates for the top six U.S. airlines reached 32% Friday and 30% on Saturday, according to FlightAware data analyzed by UBS. L3Harris shares over the past five days — Ananya Chetia 10 Hours Ago Johnson & Johnson edges higher after acquiring Ollin Biosciences Shares for Johnson & Johnson gained 1.4% after the company announced it will acquire clinical-stage biopharmaceutical company Ollin Biosciences for $2.2 billion. Johnson & Johnson also announced it will receive $750 million from Blackstone Life Sciences to fully cover the Phase 3 development of OLN324, an \"investigational, next-generation bispecific antibody.\" — Ananya Chetia 11 Hours Ago Shares for Aramark tumble over 5% following earnings Shares for Aramark fell more than 5% after the company posted fiscal fourth-quarter results that missed the expectations. The operator of cafeterias, hospital kitchens and sports stadium food stands reported adjusted earnings per share of 71 cents on revenue of $5.29 billion. Analysts polled by FactSet expected a profit of 75 cents per share on revenue of $5.03 billion. The company also expects adjusted earnings per share to increase between 20% and 25% and revenue to grow between 9% and 10% for the full year. — Ananya Chetia 12 Hours Ago Top airline shares down after Friday's nationwide ground stop of flights Passengers queue at the Southwest Airlines desk to speak with a representative at Eppley Airfield in Omaha, Neb., on Friday, Nov. 13, 2026. Nikos Frazier | Omaha World-Herald | Lee Newspapers | Getty Images Shares related to airlines, including American Airlines , Delta and United Airlines were down over 1% after the Federal Aviation Administration briefly issued a nationwide ground stop on all flights on Friday, causing flight delays and travel disruptions. On Sunday, President Donald Trump blamed the Biden administration for the FAA stop. \"The Biden Administration was an FAA disaster. Everything they touched turned bad,\" he wrote on social media. — Ananya",
    "source": "CNBC Top",
    "category": "markets",
    "type": "markets",
@@ -5543,22 +5715,6 @@
    "published": "2026-11-16T22:25:09+00:00",
    "tickers": [
     "CME"
-   ]
-  },
-  {
-   "id": "58f178a36e27",
-   "title": "Cocoa Prices Fall on Abundant Supplies",
-   "link": "https://www.nasdaq.com/articles/cocoa-prices-fall-abundant-supplies",
-   "summary": "December ICE NY cocoa (CCZ26 ) closed down -77 (-1.50%) on Monday, and ICE London cocoa #7 (CAZ26 ) closed down -34 (-0.88%). Cocoa prices retreated on Monday amid signs of abundant current supplies. Cocoa prices have trended lower over the past month and posted a 4.75-month low last Tuesday...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-11-16T22:25:09+00:00",
-   "tickers": [
-    "ICE"
    ]
   },
   {
@@ -8702,169 +8858,6 @@
    "tickers": [
     "MET"
    ]
-  },
-  {
-   "id": "44a93236ec8f",
-   "title": "8-K - Sunrun Inc. (0001469367) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1469367/000162828026074241/0001628280-26-074241-index.htm",
-   "summary": "Filed: 2026-11-16 AccNo: 0001628280-26-074241 Size: 1 MB Item 3.03: Material Modifications to Rights of Security Holders Item 5.03: Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-11-16T21:48:27+00:00",
-   "tickers": []
-  },
-  {
-   "id": "5c5da09d2701",
-   "title": "8-K - MDWerks, Inc. (0001295514) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1295514/000149315226052471/0001493152-26-052471-index.htm",
-   "summary": "Filed: 2026-11-16 AccNo: 0001493152-26-052471 Size: 220 KB Item 7.01: Regulation FD Disclosure Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-11-16T21:48:19+00:00",
-   "tickers": []
-  },
-  {
-   "id": "97c9a27c8bd1",
-   "title": "Rio Tinto signs electricity deal to restart New Zealand smelter line",
-   "link": "https://seekingalpha.com/news/4673325-rio-tinto-signs-electricity-deal-to-restart-new-zealand-smelter-line?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-16T21:48:02+00:00",
-   "tickers": []
-  },
-  {
-   "id": "615eb8f25946",
-   "title": "NeuroPace Investigation Notice: Levi & Korsinsky Notifies Investors of Pending Investigation Into NeuroPace (NPCE)",
-   "link": "https://www.prnewswire.com/news-releases/neuropace-investigation-notice-levi--korsinsky-notifies-investors-of-pending-investigation-into-neuropace-npce-302940943.html",
-   "summary": "NeuroPace raised its 2026 revenue outlook on August 11, 2026, then cut it to $91-$92 million one quarter later. The investigation concerns potential federal securities law violations tied to those statements. NEW YORK, Nov. 16, 2026 /PRNewswire/ -- NeuroPace, Inc. (NASDAQ: NPCE) shares...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "prnewswire.com",
-   "published": "2026-11-16T21:48:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "fa7877555e5e",
-   "title": "Cue Biopharma Reports Third Quarter 2026 Financial Results and Recent Business Highlights",
-   "link": "https://www.globenewswire.com/news-release/2026/11/16/3404177/0/en/cue-biopharma-reports-third-quarter-2026-financial-results-and-recent-business-highlights.html",
-   "summary": "BOSTON, Nov. 16, 2026 (GLOBE NEWSWIRE) -- Cue Biopharma, Inc. (Nasdaq: CUE), a clinical stage biopharmaceutical company targeting transformative therapies for immune-mediated diseases, today reported third quarter 2026 financial results as well as recent business highlights.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-11-16T21:48:00+00:00",
-   "tickers": [
-    "NDAQ"
-   ]
-  },
-  {
-   "id": "717c89c3ed23",
-   "title": "Intel Corporation Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - INTC",
-   "link": "https://www.prnewswire.com/news-releases/intel-corporation-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--intc-302940932.html",
-   "summary": "NEW YORK, Nov. 16, 2026 /PRNewswire/ -- The DJS Law Group reminds investors of a class action lawsuit against Intel Corporation (\"Intel\" or \"the Company\") (NASDAQ: INTC) for violations of §§10(b) and 20(a) of the Securities Exchange Act of 1934 and Rule 10b-5 promulgated thereunder by the...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "prnewswire.com",
-   "published": "2026-11-16T21:47:00+00:00",
-   "tickers": [
-    "INTC"
-   ]
-  },
-  {
-   "id": "922f59791588",
-   "title": "Lear to Participate in the Goldman Sachs 18th Annual Industrials & Autos Week",
-   "link": "https://www.prnewswire.com/news-releases/lear-to-participate-in-the-goldman-sachs-18th-annual-industrials--autos-week-302941072.html",
-   "summary": "SOUTHFIELD, Mich., Nov. 16, 2026 /PRNewswire/ -- Lear Corporation (NYSE: LEA), a global automotive technology leader in Seating and E-Systems, will participate in a fireside chat on December 3, 2026, at the Goldman Sachs 18th Annual Industrials & Autos Week in London. Representing Lear...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-11-16T21:47:00+00:00",
-   "tickers": [
-    "LEA",
-    "GS"
-   ]
-  },
-  {
-   "id": "8d7fc87ea411",
-   "title": "8-K - HORMEL FOODS CORP /DE/ (0000048465) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/48465/000004846526000065/0000048465-26-000065-index.htm",
-   "summary": "Filed: 2026-11-16 AccNo: 0000048465-26-000065 Size: 1 MB Item 1.01: Entry into a Material Definitive Agreement Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-11-16T21:46:44+00:00",
-   "tickers": [
-    "DE"
-   ]
-  },
-  {
-   "id": "6fc905685045",
-   "title": "Evolution Metals & Technologies Q3 non-GAAP EPS of -$0.02, revenue of $2.2M",
-   "link": "https://seekingalpha.com/news/4673332-evolution-metals-technologies-q3-non-gaap-eps-of--002-revenue-of-22m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-16T21:46:37+00:00",
-   "tickers": []
-  },
-  {
-   "id": "7392cb641003",
-   "title": "3 Red Sox Emerge as Trade Candidates After Jake Bauers Signing",
-   "link": "https://biztoc.com/x/9b46f521957e56ff?ref=rss",
-   "summary": "The Boston Red Sox made a significant move last week, as they signed star first baseman Jake Bauers to a four-year, $58 million contract. The Red Sox's decision to sign Bauers is not too difficult to understand. Boston needed another power hitter, and the 2026 NLCS MVP is coming off a 26-home-run…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-16T21:46:35+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ab3d9335513f",
-   "title": "8-K - FG Communities Holdings Inc. (0001591890) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1591890/000149315226052468/0001493152-26-052468-index.htm",
-   "summary": "Filed: 2026-11-16 AccNo: 0001493152-26-052468 Size: 304 KB Item 7.01: Regulation FD Disclosure Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-11-16T21:46:22+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8885,7 +8878,6 @@
   "MLM": "Martin Marietta Materials",
   "SITE": "SiteOne Landscape Supply",
   "BKLN": "Invesco Senior Loan ETF",
-  "GS": "The Goldman Sachs Group",
   "HON": "Honeywell International",
   "AMD": "Advanced Micro Devices",
   "TECK": "Teck Resources Limited",
@@ -9000,7 +8992,6 @@
   "AAON": "AAON",
   "DAVE": "Dave",
   "FLEX": "Flex",
-  "LEA": "Lear",
   "T": "AT&T",
   "V": "Visa"
  }
