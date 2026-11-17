@@ -1,8 +1,52 @@
 {
- "generated": "2026-11-17T04:55:31.037554+00:00",
+ "generated": "2026-11-17T05:02:04.961473+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "75c8e68b124f",
+   "title": "Tech sell-off deepens as Nvidia results loom",
+   "link": "https://www.ft.com/content/4a3b9892-67c6-4177-8503-80c0a5eb3b60?syn-25a6b1a6=1",
+   "summary": "Investors fret over tighter US chip export controls and potential slowdown in AI data centre build-out",
+   "article_text": "",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "ft.com",
+   "published": "2026-11-17T05:00:01+00:00",
+   "tickers": []
+  },
+  {
+   "id": "68cf9ccbdb58",
+   "title": "Nvidia Tugs Market Lower Again",
+   "link": "https://seekingalpha.com/article/4968892-nvidia-tugs-market-lower-again?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-17T04:55:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b23390dba104",
+   "title": "Why I Would Buy Reddit After The Selloff",
+   "link": "https://seekingalpha.com/article/4968876-why-i-would-buy-reddit-stock-after-selloff?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-17T04:54:33+00:00",
+   "tickers": [
+    "RDDT"
+   ]
+  },
   {
    "id": "5b3573009226",
    "title": "From Druckenmiller's Chip Dump To Aschenbrenner's $18.7 Billion Vanishing Act: What The \"Smart Money\" Was Doing Right Before The AI Trade Blew Up",
@@ -104,18 +148,34 @@
    "tickers": []
   },
   {
-   "id": "75c8e68b124f",
-   "title": "Asian tech stocks follow Wall Street lower as Nvidia results loom",
-   "link": "https://www.ft.com/content/4a3b9892-67c6-4177-8503-80c0a5eb3b60?syn-25a6b1a6=1",
-   "summary": "Investors fret over tighter US chip export controls and potential slowdown in AI data centre build-out",
+   "id": "bc52aab6955e",
+   "title": "U.S. Commerce Dept, DOJ say they investigated Nvidia partner Megaspeed in 2024",
+   "link": "https://www.investing.com/news/stock-market-news/us-commerce-dept-doj-say-they-investigated-nvidia-partner-megaspeed-in-2024-5031631",
+   "summary": "",
    "article_text": "",
-   "source": "FT Companies",
+   "source": "Investing Stock",
    "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "ft.com",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
    "published": "2026-11-17T04:48:34+00:00",
    "tickers": []
+  },
+  {
+   "id": "64526e1cb483",
+   "title": "Analysis-Indonesia on a ’slippery slope’ as political tumult adds to MSCI-led market angst",
+   "link": "https://www.investing.com/news/economy-news/analysisindonesia-on-a-slippery-slope-as-political-tumult-adds-to-msciled-market-angst-5031630",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-17T04:48:22+00:00",
+   "tickers": [
+    "MSCI"
+   ]
   },
   {
    "id": "ddb5b9c43374",
@@ -129,6 +189,48 @@
    "sentiment": "neutral",
    "domain": "cnbc.com",
    "published": "2026-11-17T04:48:15+00:00",
+   "tickers": []
+  },
+  {
+   "id": "8b4e34fcf058",
+   "title": "Tenable Holdings director Arthur Coviello Jr. sells $487,993 in shares",
+   "link": "https://www.investing.com/news/insider-trading-news/tenable-holdings-director-arthur-coviello-jr-sells-487993-in-shares-93CH-5031629",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-17T04:46:11+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ac41576f5c9b",
+   "title": "Tenable co-CEO Stephen Vintz sells $4.03 million in TENB stock",
+   "link": "https://www.investing.com/news/insider-trading-news/tenable-coceo-stephen-vintz-sells-403-million-in-tenb-stock-93CH-5031628",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-17T04:46:08+00:00",
+   "tickers": []
+  },
+  {
+   "id": "bc953c66a5d7",
+   "title": "Saba Capital Management buys $3,120 in Gabelli Healthcare & WellnessRx Trust",
+   "link": "https://www.investing.com/news/insider-trading-news/saba-capital-management-buys-3120-in-gabelli-healthcare--wellnessrx-trust-93CH-5031627",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-17T04:45:58+00:00",
    "tickers": []
   },
   {
@@ -174,6 +276,20 @@
    "tickers": []
   },
   {
+   "id": "218b9343ba28",
+   "title": "U.S. tightens rules to restrict China’s access to advanced AI chips overseas",
+   "link": "https://www.investing.com/news/stock-market-news/china-chipmakers-rally-as-us-curbs-threaten-ai-developers-access-to-nvidia-5031619",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-17T04:44:24+00:00",
+   "tickers": []
+  },
+  {
    "id": "e2ca194e438c",
    "title": "SmallRig s'associe à des personnalités du monde de l'art pour discuter de créativité et d'authenticité à l'ère de l'IA, et de la manière dont l'art et la technologie peuvent stimuler l'innovation.",
    "link": "https://www.prnewswire.com/news-releases/smallrig-sassocie-a-des-personnalites-du-monde-de-lart-pour-discuter-de-creativite-et-dauthenticite-a-lere-de-lia-et-de-la-maniere-dont-lart-et-la-technologie-peuvent-stimuler-linnovation-302941448.html",
@@ -185,6 +301,34 @@
    "sentiment": "neutral",
    "domain": "prnewswire.com",
    "published": "2026-11-17T04:44:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e966ae39611c",
+   "title": "US air travel recovery stumbles on United pause as funding fight brews",
+   "link": "https://www.investing.com/news/stock-market-news/us-transport-chief-urges-congress-to-quickly-pass-air-traffic-telecom-funding-5030069",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-17T04:42:41+00:00",
+   "tickers": []
+  },
+  {
+   "id": "7b055ee118be",
+   "title": "US AI chip curbs threaten Southeast Asia data centre boom, shares tumble",
+   "link": "https://www.investing.com/news/stock-market-news/us-ai-chip-curbs-threaten-southeast-asia-data-centre-boom-shares-tumble-5031618",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-11-17T04:42:25+00:00",
    "tickers": []
   },
   {
@@ -231,6 +375,20 @@
    "sentiment": "neutral",
    "domain": "prnewswire.com",
    "published": "2026-11-17T04:38:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c1cb4d288ac1",
+   "title": "Vivos earnings beat by $0.14, revenue topped estimates",
+   "link": "https://www.investing.com/news/earnings/vivos-earnings-beat-by-014-revenue-topped-estimates-5031617",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-11-17T04:37:55+00:00",
    "tickers": []
   },
   {
@@ -347,6 +505,20 @@
    "sentiment": "neutral",
    "domain": "biztoc.com",
    "published": "2026-11-17T04:36:39+00:00",
+   "tickers": []
+  },
+  {
+   "id": "178a1335b0ba",
+   "title": "Exclusive-China taps US AI models to train homegrown rivals as chip curbs bite",
+   "link": "https://www.investing.com/news/economy-news/exclusivechina-taps-us-ai-models-to-train-homegrown-rivals-as-chip-curbs-bite-5031568",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-17T04:36:19+00:00",
    "tickers": []
   },
   {
@@ -849,20 +1021,6 @@
    "tickers": [
     "MSFT"
    ]
-  },
-  {
-   "id": "178a1335b0ba",
-   "title": "Exclusive-China taps US AI models to train homegrown rivals as chip curbs bite",
-   "link": "https://www.investing.com/news/economy-news/exclusivechina-taps-us-ai-models-to-train-homegrown-rivals-as-chip-curbs-bite-5031568",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-17T04:18:22+00:00",
-   "tickers": []
   },
   {
    "id": "baf42f4a3696",
@@ -7816,20 +7974,6 @@
    "tickers": []
   },
   {
-   "id": "e966ae39611c",
-   "title": "US air travel recovery stumbles on United pause as funding fight brews",
-   "link": "https://www.investing.com/news/stock-market-news/us-transport-chief-urges-congress-to-quickly-pass-air-traffic-telecom-funding-5030069",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-17T00:30:23+00:00",
-   "tickers": []
-  },
-  {
    "id": "7ce43f8fd9a0",
    "title": "Elah Holdings, Inc. Announces Release of Third Quarter 2026 Report to Stockholders",
    "link": "https://www.prnewswire.com/news-releases/elah-holdings-inc-announces-release-of-third-quarter-2026-report-to-stockholders-302941215.html",
@@ -8624,154 +8768,6 @@
    "domain": "biztoc.com",
    "published": "2026-11-17T00:03:06+00:00",
    "tickers": []
-  },
-  {
-   "id": "554e0cb30b42",
-   "title": "U.S. works to close loophole that let China access advanced AI chips",
-   "link": "https://biztoc.com/x/cc01a6ca002842c7?ref=rss",
-   "summary": "The Trump administration announced new rules today to further restrict China's access to advanced chips for the use of AI. It comes as questions are mounting about how the Commerce Department allowed loopholes for chip exports. The rule puts new restrictions on overseas data centers and is…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-17T00:03:05+00:00",
-   "tickers": []
-  },
-  {
-   "id": "1f5f4fe560c2",
-   "title": "Trump administration seeks to deflect responsibility for nationwide ground stop",
-   "link": "https://biztoc.com/x/8a0220eb1c6ab8b3?ref=rss",
-   "summary": "Three days after air travel was halted in the longest nationwide ground stop since 9/11, the focus has turned to how the air traffic control network can be fixed. The Trump administration is calling for tens of billions of dollars to pay for improvements, but Democrats are questioning that price…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-17T00:03:03+00:00",
-   "tickers": []
-  },
-  {
-   "id": "c221d4f1bbbf",
-   "title": "4DMedical at Bell Potter Healthcare Conference: push from validation to scale",
-   "link": "https://www.investing.com/news/transcripts/4dmedical-at-bell-potter-healthcare-conference-push-from-validation-to-scale-93CH-5031313",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-17T00:02:58+00:00",
-   "tickers": []
-  },
-  {
-   "id": "f56ab82c51eb",
-   "title": "News Wrap: Trump departs for trip to Asia, meetings with Xi and Putin",
-   "link": "https://biztoc.com/x/2e01e84847c70ae3?ref=rss",
-   "summary": "In our news wrap Monday, President Trump left for Asia, where he'll meet regional leaders, followed by talks with Chinese President Xi Jinping and Russia's Vladimir Putin, Ukrainian President Volodymyr Zelenskyy warned that North Korea is providing Russia with ballistic missiles and customers at…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-17T00:02:54+00:00",
-   "tickers": [
-    "NWSA"
-   ]
-  },
-  {
-   "id": "10b1d7cf0162",
-   "title": "Ping An Insurance to relocate into new Hong Kong office above West Kowloon rail hub",
-   "link": "https://biztoc.com/x/ce1080df1a01a1b2?ref=rss",
-   "summary": "is preparing to consolidate its Hong Kong operations in a new office tower atop the West Kowloon high-speed rail terminus next year, giving the financial conglomerate a strategic springboard to capture growing cross-border flows across the Greater Bay Area and Asia-Pacific region, according to its…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-17T00:02:53+00:00",
-   "tickers": [
-    "WST"
-   ]
-  },
-  {
-   "id": "8acd938aeabf",
-   "title": "North Dakota woman buys Ford Bronco, drives 27 hours home after flights grounded",
-   "link": "https://biztoc.com/x/01bd036467a066e0?ref=rss",
-   "summary": "From a sea of lost luggage to endless delays, patience has been tested for tens of thousands of travelers impacted by Friday's historic nationwide . The ground stop doubled or tripled travel times for some, while others said they slept on airport floors as nearby hotels charged premiums for a…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-17T00:02:47+00:00",
-   "tickers": [
-    "F"
-   ]
-  },
-  {
-   "id": "0ecfd4294f50",
-   "title": "Aged 16-24 and looking for work? Use our look-up to find out which areas have the most jobs",
-   "link": "https://biztoc.com/x/ea04f32f11482a01?ref=rss",
-   "summary": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-17T00:02:46+00:00",
-   "tickers": []
-  },
-  {
-   "id": "89091baaa0bd",
-   "title": "United Airlines, major US banks report system outages",
-   "link": "https://biztoc.com/x/a25cc1b1378e9746?ref=rss",
-   "summary": "Customers of major US banks reported difficulty accessing their accounts Monday, as United Airlines also reported a widespread system outage, elevating concerns about the durability of US digital infrastructure days after a tech failure grounded commercial flights nationwide. United said later on…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-17T00:02:43+00:00",
-   "tickers": []
-  },
-  {
-   "id": "3dd4efa2e35d",
-   "title": "This Anthropic proxy play is getting traders' attention – here's where they see it going",
-   "link": "https://biztoc.com/x/e397716c08aa5ee9?ref=rss",
-   "summary": "Who says you can't tailgate an IPO? Traders are preparing for this week's blockbuster Anthropic IPO in different ways, including buying options on one publicly-traded fund that invests in private assets. The Destiny Tech100 (DXYZ) is a publicly-traded, closed-end fund that invests in equity,…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-17T00:02:39+00:00",
-   "tickers": []
-  },
-  {
-   "id": "a4148521a50d",
-   "title": "What happens after Walmart leaves town is worse than expected",
-   "link": "https://biztoc.com/x/6c76d1750a04625b?ref=rss",
-   "summary": "A Walmart trip is rarely just a trip to grab groceries at the retail giant. For many consumers, it often involves more. Someone will fill the gas tank, get lunch, visit a pharmacy, or stop at another store nearby. The nearby stores depend on Walmart foot traffic more than many realize. So, what…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-17T00:02:39+00:00",
-   "tickers": [
-    "WMT"
-   ]
   }
  ],
  "ticker_names": {
@@ -8888,6 +8884,7 @@
   "LEN": "Lennar",
   "NDAQ": "Nasdaq",
   "OMER": "Omeros",
+  "RDDT": "Reddit",
   "SPCX": "SpaceX",
   "ACM": "AECOM",
   "GRAL": "GRAIL",
@@ -8897,6 +8894,7 @@
   "TU": "TELUS",
   "DAVE": "Dave",
   "IEX": "IDEX",
+  "MSCI": "MSCI",
   "V": "Visa"
  }
 }
