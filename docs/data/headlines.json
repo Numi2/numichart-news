@@ -1,8 +1,25 @@
 {
- "generated": "2026-11-17T02:29:10.622444+00:00",
+ "generated": "2026-11-17T02:36:54.644268+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "5ab7e623208c",
+   "title": "Nasdaq 100 sinks 2.7% in gloomy start to pivotal week for AI trade",
+   "link": "https://www.ft.com/content/12d927a9-98b1-40b9-8f75-01fb56a693d1?syn-25a6b1a6=1",
+   "summary": "US chip stocks fall as Nvidia sustains fresh bout of selling pressure",
+   "article_text": "",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "ft.com",
+   "published": "2026-11-17T02:29:11+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ"
+   ]
+  },
   {
    "id": "bc83cc5ee02f",
    "title": "Xcel Brands, Inc. (XELB) Q3 2026 Earnings Call Transcript",
@@ -177,20 +194,6 @@
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
    "published": "2026-11-17T02:18:50+00:00",
-   "tickers": []
-  },
-  {
-   "id": "baf42f4a3696",
-   "title": "Soybeans Closes Lower, Despite Record NOPA Crush",
-   "link": "https://www.nasdaq.com/articles/soybeans-closes-lower-despite-record-nopa-crush",
-   "summary": "Soybeans posted Monday losses of 2 ½ to 6 cents across the board, fading a record NOPA crush. The cmdtyView national average Cash Bean price was down 6 cents at $11.68 3/4. Soymeal futures are trading with $2.20 to $4.80 gains at the close. Soy Oil futures were 120 to...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-11-17T02:14:52+00:00",
    "tickers": []
   },
   {
@@ -640,6 +643,20 @@
    "tickers": [
     "KTOS"
    ]
+  },
+  {
+   "id": "baf42f4a3696",
+   "title": "Soybeans Closes Lower, Despite Record NOPA Crush",
+   "link": "https://www.nasdaq.com/articles/soybeans-closes-lower-despite-record-nopa-crush",
+   "summary": "Soybeans posted Monday losses of 2 ½ to 6 cents across the board, fading a record NOPA crush. The cmdtyView national average Cash Bean price was down 6 cents at $11.68 3/4. Soymeal futures are trading with $2.20 to $4.80 gains at the close. Soy Oil futures were 120 to...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T02:01:02+00:00",
+   "tickers": []
   },
   {
    "id": "843274e61c14",
@@ -8817,20 +8834,6 @@
    "tickers": [
     "LULU"
    ]
-  },
-  {
-   "id": "2c247da952c3",
-   "title": "PEGATRON Advances Agentic AI and HPC Infrastructure with High-Density Computing Solutions at SC26",
-   "link": "https://www.prnewswire.com/news-releases/pegatron-advances-agentic-ai-and-hpc-infrastructure-with-high-density-computing-solutions-at-sc26-302940502.html",
-   "summary": "CHICAGO, Nov. 16, 2026 /PRNewswire/ -- PEGATRON, a globally recognized provider of comprehensive AI infrastructure and server solutions, will showcase its latest AI and high-performance computing (HPC) platforms at SC26, demonstrating how high-density CPU infrastructure, GPU-accelerated...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-11-16T23:00:00+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
