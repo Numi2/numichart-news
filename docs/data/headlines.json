@@ -1,8 +1,52 @@
 {
- "generated": "2026-11-17T04:21:16.808073+00:00",
+ "generated": "2026-11-17T04:29:02.299878+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "a9210c5dce8a",
+   "title": "Whitecap Resources declares CAD 0.0617 dividend",
+   "link": "https://seekingalpha.com/news/4673425-whitecap-resources-declares-cad-0_0617-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-17T04:23:52+00:00",
+   "tickers": []
+  },
+  {
+   "id": "595d0de483ff",
+   "title": "Yalla Group Limited (YALA) Q3 2026 Earnings Call Transcript",
+   "link": "https://seekingalpha.com/article/4968864-yalla-group-limited-yala-q3-2026-earnings-call-transcript?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-17T04:22:46+00:00",
+   "tickers": []
+  },
+  {
+   "id": "07faca81a319",
+   "title": "Microsoft detects high-volume phishing campaign using fake 365 alerts",
+   "link": "https://seekingalpha.com/news/4673422-microsoft-detects-high-volume-phishing-campaign-using-fake-365-alerts?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-17T04:18:45+00:00",
+   "tickers": [
+    "MSFT"
+   ]
+  },
   {
    "id": "a8b45ba4124f",
    "title": "Barfresh signals $20M-$22M FY 2026 revenue and expects positive adjusted EBITDA in Q4 as Defiance plant targets early to mid-2027 start",
@@ -8754,54 +8798,6 @@
    "domain": "investing.com",
    "published": "2026-11-16T23:37:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "b9a5fe09507f",
-   "title": "Exclusive-DOJ to review DoorDash-Instacart merger, sources say",
-   "link": "https://www.investing.com/news/stock-market-news/exclusivedoordashinstacart-merger-to-be-reviewed-by-doj-sources-say-5031159",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-16T23:36:43+00:00",
-   "tickers": [
-    "DASH"
-   ]
-  },
-  {
-   "id": "0c863cbe5968",
-   "title": "Cheniere Energy promotes Davis to President and CFO",
-   "link": "https://seekingalpha.com/news/4673400-cheniere-energy-promotes-davis-to-president-and-cfo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-16T23:36:36+00:00",
-   "tickers": [
-    "LNG"
-   ]
-  },
-  {
-   "id": "6a5284a46c5a",
-   "title": "Vivos Therapeutics reports Q3 revenue growth, regains Nasdaq compliance",
-   "link": "https://www.investing.com/news/company-news/vivos-therapeutics-reports-q3-revenue-growth-regains-nasdaq-compliance-93CH-5031269",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-16T23:36:36+00:00",
-   "tickers": [
-    "NDAQ"
-   ]
   }
  ],
  "ticker_names": {
@@ -8861,7 +8857,6 @@
   "DIS": "The Walt Disney",
   "EXP": "Eagle Materials",
   "GILD": "Gilead Sciences",
-  "LNG": "Cheniere Energy",
   "PYPL": "PayPal Holdings",
   "RRC": "Range Resources",
   "WDC": "Western Digital",
