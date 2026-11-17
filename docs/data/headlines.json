@@ -1,8 +1,38 @@
 {
- "generated": "2026-11-17T05:49:10.800243+00:00",
+ "generated": "2026-11-17T05:56:25.916663+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "ec3e2e1040a2",
+   "title": "Saab: 2027 Is Nearly Secured, Buy For The 2028 Upside",
+   "link": "https://seekingalpha.com/article/4968893-saab-2027-is-nearly-secured-buy-for-the-2028-upside?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-17T05:52:00+00:00",
+   "tickers": [
+    "SAAB"
+   ]
+  },
+  {
+   "id": "2cce7256b7a4",
+   "title": "Iran escalates threats as third U.S. carrier arrives in Middle East, tanker struck in Hormuz",
+   "link": "https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html",
+   "summary": "Iran has ratcheted up threats against U.S. forces as a third American aircraft carrier arrived in the Gulf, stoking fears of a resumption of military tensions.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-11-17T05:51:13+00:00",
+   "tickers": []
+  },
   {
    "id": "f0751047be15",
    "title": "Bank Leumi Delivers Strong Third Quarter 2026 Results with High Growth in Loan Portfolio and an Efficiency Ratio Among the Best Globally; Net Income Reached NIS $3B ($979M), ROE of 16.9% and Dividend Distribution of NIS 1.5 ($490M)",
@@ -317,20 +347,6 @@
    "tickers": [
     "VIK"
    ]
-  },
-  {
-   "id": "2cce7256b7a4",
-   "title": "Third U.S. carrier arrives in the Gulf, stoking concerns about renewed conflicts with Iran",
-   "link": "https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html",
-   "summary": "Iran has ratcheted up threats against U.S. forces as a third American aircraft carrier arrived in the Gulf, stoking fears of a resumption of military tensions.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-11-17T05:29:11+00:00",
-   "tickers": []
   },
   {
    "id": "b83aba9f63d1",
@@ -8694,22 +8710,6 @@
    "domain": "globenewswire.com",
    "published": "2026-11-17T00:55:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "f8cbe10ee4f6",
-   "title": "Hogs Close Mixed on Monday",
-   "link": "https://www.nasdaq.com/articles/hogs-close-mixed-monday-3",
-   "summary": "Lean hog futures posted mixed trade, with contracts anywhere from down 70 cents to 32 cents higher. USDA’s national base hog price was reported at $37.01 on Monday afternoon, down 74 cents from the day prior. The CME Lean Hog Index was down $1.05 on November 12 at $57.73. Managed...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-17T00:54:12+00:00",
-   "tickers": [
-    "CME"
-   ]
   }
  ],
  "ticker_names": {
@@ -8791,7 +8791,6 @@
   "ACN": "Accenture",
   "AL": "Air Lease",
   "BLK": "BlackRock",
-  "CME": "CME Group",
   "NXT": "Nextpower",
   "RBA": "RB Global",
   "SNOW": "Snowflake",
@@ -8826,6 +8825,7 @@
   "AAON": "AAON",
   "DAVE": "Dave",
   "MSCI": "MSCI",
-  "V": "Visa"
+  "V": "Visa",
+  "SAAB": "Saab"
  }
 }
