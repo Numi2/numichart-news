@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-17T13:14:54.934671+00:00",
+ "generated": "2026-11-17T13:22:16.839016+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
   {
    "id": "837534bb63c8",
-   "title": "'Big Short' investor Steve Eisman to discuss Nvidia, Anthropic and AI bull on CNBC",
+   "title": "Investor Steve Eisman says the AI neocloud stocks are in 'big trouble' from Nvidia fallout",
    "link": "https://www.cnbc.com/2026/11/17/big-short-investor-steve-eisman-to-discuss-nvidia-anthropic-and-ai-bull-on-cnbc.html",
    "summary": "Steve Eisman is appearing on \"Squawk Box\" on Tuesday.",
    "article_text": "",
@@ -14,7 +14,386 @@
    "type": "markets",
    "sentiment": "neutral",
    "domain": "cnbc.com",
-   "published": "2026-11-17T13:13:16+00:00",
+   "published": "2026-11-17T13:20:46+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b70c40a1c90f",
+   "title": "Focus Technology and Tencent Cloud Partner to Advance AI in Cross-Border Trade",
+   "link": "https://www.prnewswire.com/news-releases/focus-technology-and-tencent-cloud-partner-to-advance-ai-in-cross-border-trade-302942169.html",
+   "summary": "The strategic cooperation will cover cloud infrastructure, AI computing resources and the application of AI in trade-related business scenarios. SHENZHEN, China, , Nov. 17, 2026 /PRNewswire/ -- Focus Technology Co., Ltd., the operator of Made-in-China.com, and Tencent Cloud signed a...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-11-17T13:18:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "5fbe537bdf30",
+   "title": "Elbit Systems declares $1.00 dividend",
+   "link": "https://seekingalpha.com/news/4673613-elbit-systems-declares-100-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-17T13:17:18+00:00",
+   "tickers": [
+    "ESLT"
+   ]
+  },
+  {
+   "id": "3bf0079c0d95",
+   "title": "The Fed rate may need to rise by 1 percentage point, Musalem says",
+   "link": "https://seekingalpha.com/news/4673602-the-fed-rate-may-need-to-rise-by-1-percentage-point-musalem-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "macro",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-17T13:17:07+00:00",
+   "tickers": []
+  },
+  {
+   "id": "cf55d8df56f8",
+   "title": "Nvidia has lost $2 trillion in value. Here's what options traders expect from earnings",
+   "link": "https://www.cnbc.com/2026/11/17/nvidia-has-lost-2-trillion-in-value-heres-what-options-traders-expect-from-earnings.html",
+   "summary": "Nvidia options are pricing in a bigger move than usual.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-11-17T13:16:43+00:00",
+   "tickers": []
+  },
+  {
+   "id": "6b9dba67e770",
+   "title": "8-K - 1847 Holdings LLC (0001599407) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/1599407/000121390026121118/0001213900-26-121118-index.htm",
+   "summary": "Filed: 2026-11-17 AccNo: 0001213900-26-121118 Size: 240 KB Item 2.02: Results of Operations and Financial Condition Item 9.01: Financial Statements and Exhibits",
+   "article_text": "",
+   "source": "SEC 8-K Filings",
+   "category": "filings",
+   "type": "8k",
+   "sentiment": "neutral",
+   "domain": "sec.gov",
+   "published": "2026-11-17T13:16:30+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ccbdd5459d41",
+   "title": "Anthropic IPO: For hundreds of billions of dollars flowing into AI startups, a big debut is a must",
+   "link": "https://www.cnbc.com/2026/11/17/anthropic-ipo-ai-venture-capital.html",
+   "summary": "Venture investors are sitting on big gains from the AI buildout. Anthropic's IPO could set the stage for many smaller AI startups seeking exits.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "offering",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-11-17T13:15:44+00:00",
+   "tickers": []
+  },
+  {
+   "id": "7c25176b676f",
+   "title": "8-K - Lulu's Fashion Lounge Holdings, Inc. (0001780201) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/1780201/000110465926128845/0001104659-26-128845-index.htm",
+   "summary": "Filed: 2026-11-17 AccNo: 0001104659-26-128845 Size: 1 MB Item 1.01: Entry into a Material Definitive Agreement Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant Item 9.01: Financial Statements and Exhibits",
+   "article_text": "",
+   "source": "SEC 8-K Filings",
+   "category": "filings",
+   "type": "8k",
+   "sentiment": "neutral",
+   "domain": "sec.gov",
+   "published": "2026-11-17T13:15:44+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e9631d05a858",
+   "title": "5N Plus: Mechazilla And The Second Space Age",
+   "link": "https://seekingalpha.com/article/4968914-5n-plus-q3-mechazilla-and-the-second-space-age?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-17T13:15:12+00:00",
+   "tickers": []
+  },
+  {
+   "id": "877e6fb19b6d",
+   "title": "Roth 401(k) matches are 'surging,' report finds. What workers should know",
+   "link": "https://www.cnbc.com/2026/11/17/roth-401k-employer-match.html",
+   "summary": "More employers are adding Roth 401(k) matching options. Here’s how the tax treatment differs from a traditional 401(k) match.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-11-17T13:15:01+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f2c3edbd5c64",
+   "title": "Fidus Investment: The Modest Discount And Generous Dividends Are Hard To Ignore",
+   "link": "https://seekingalpha.com/article/4968507-fidus-investment-modest-discount-generous-dividends-hard-to-ignore?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-17T13:15:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f36d103d20c8",
+   "title": "Market Brief: Behind The AI Stock Turmoil",
+   "link": "https://seekingalpha.com/article/4969050-market-brief-behind-ai-stock-turmoil?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-17T13:15:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "3b2de6b18657",
+   "title": "Pure Financial Advisors, LLC Acquires Mendel Money Management Inc., Bolstering Its Midwest Presence",
+   "link": "https://www.prnewswire.com/news-releases/pure-financial-advisors-llc-acquires-mendel-money-management-inc-bolstering-its-midwest-presence-302941510.html",
+   "summary": "SAN DIEGO, Nov. 17, 2026 /PRNewswire/ -- Pure Financial Advisors, LLC (\"Pure\"), a San Diego, CA-based financial education, planning, and investment advice company, has announced the acquisition of Mendel Money Management Inc. (\"Mendel Money Management\") of Northbrook, Illinois, a suburb...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-11-17T13:15:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e0443aa370e9",
+   "title": "ADP National Employment Report Preliminary Estimate for October 31, 2026",
+   "link": "https://www.prnewswire.com/news-releases/adp-national-employment-report-preliminary-estimate-for-october-31-2026-302941211.html",
+   "summary": "ROSELAND, N.J., Nov. 17, 2026 /PRNewswire/ -- For the four weeks ending October 31, 2026, U.S. private employers added an average of 23,750 jobs per week, according to the NER Pulse, a weekly update of the monthly ADP National Employment Report (NER). Hiring strengthened this week. These...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-11-17T13:15:00+00:00",
+   "tickers": [
+    "ADP"
+   ]
+  },
+  {
+   "id": "9bcc18e135b5",
+   "title": "Thinking of Giving a Dog as a Holiday Gift? Bark Busters Shares What Families Should Consider First",
+   "link": "https://www.prnewswire.com/news-releases/thinking-of-giving-a-dog-as-a-holiday-gift-bark-busters-shares-what-families-should-consider-first-302939255.html",
+   "summary": "In-home dog training experts share practical advice on giving pets as holiday gifts. DANVILLE, Calif., Nov. 17, 2026 /PRNewswire/ -- Few holiday surprises seem more heartwarming than a puppy beneath the Christmas tree. But before giving a dog as a gift, Bark Busters Home Dog Training...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-11-17T13:15:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a8015fd4932c",
+   "title": "Sabre to Host 2026 Investor Day Today",
+   "link": "https://www.prnewswire.com/news-releases/sabre-to-host-2026-investor-day-today-302941685.html",
+   "summary": "Company to outline strategy for sustainable growth and shareholder value creation, including 2027 financial guidance and longer-term outlook through 2030 SOUTHLAKE, Texas, Nov. 17, 2026 /PRNewswire/ -- Sabre Corporation (\"Sabre\") (NASDAQ: SABR), a leading global travel technology company,...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-11-17T13:15:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b9f11e422c0d",
+   "title": "Pediatric Associates Family of Companies (PAFC) Names Dr. Vivian Ziltzer as Chief Clinical Officer",
+   "link": "https://www.prnewswire.com/news-releases/pediatric-associates-family-of-companies-pafc-names-dr-vivian-ziltzer-as-chief-clinical-officer-302941206.html",
+   "summary": "Pediatric Healthcare Veteran to Spearhead Clinical Integration and Strategy, Enhance Care at Nation's Largest Pediatric Primary Care Organization PLANTATION, Fla., Nov. 17, 2026 /PRNewswire/ -- Pediatric Associates Family of Companies (PAFC), the largest pediatric primary care...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-11-17T13:15:00+00:00",
+   "tickers": [
+    "MSTR"
+   ]
+  },
+  {
+   "id": "84706c102844",
+   "title": "Ambient Clinical Analytics announces AWARE - Sepsis DART™ is now a qualified solution on leading healthcare platform",
+   "link": "https://www.prnewswire.com/news-releases/ambient-clinical-analytics-announces-aware---sepsis-dart-is-now-a-qualified-solution-on-leading-healthcare-platform-302941531.html",
+   "summary": "Real-time sepsis surveillance and SEP-1 bundle tracking ROCHESTER, Minn., Nov. 17, 2026 /PRNewswire/ -- Ambient Clinical Analytics (Ambient™) today announced that AWARE - Sepsis DART™ is now a qualified solution on Mayo Clinic Platform. Sepsis DART is real-time sepsis surveillance and...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-11-17T13:15:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "202b9ebbf775",
+   "title": "Christmas Isn't One Day, It's a Month of Parties: Oriental Trading Helps Families, Teachers, Churches and Businesses Pull Off Every Single One",
+   "link": "https://www.prnewswire.com/news-releases/christmas-isnt-one-day-its-a-month-of-parties-oriental-trading-helps-families-teachers-churches-and-businesses-pull-off-every-single-one-302941336.html",
+   "summary": "With stocking stuffers and handouts starting at 3¢ per piece, craft kits from 38¢ a piece and pageant costumes from $3.99, Oriental Trading supplies the class parties, church pageants and office parties that make up the season. OMAHA, Neb., Nov. 17, 2026 /PRNewswire/ -- For many people,...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-11-17T13:15:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "6d748855827c",
+   "title": "Metafoodx Introduces Chef Echo, an Agentic AI Assistant for Commercial Kitchens",
+   "link": "https://www.prnewswire.com/news-releases/metafoodx-introduces-chef-echo-an-agentic-ai-assistant-for-commercial-kitchens-302942165.html",
+   "summary": "Chef Echo Preview Program registration opens today; technology executive Alan Deane joins as Chief Revenue Officer. SAN JOSE, Calif., Nov. 17, 2026 /PRNewswire/ -- Metafoodx, a food operations intelligence platform for commercial kitchens, today introduced Chef Echo, an agentic AI chef...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-11-17T13:15:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "831800b78f75",
+   "title": "BetterLife Pharma Announces New Preclinical Research Highlighting Neuroplasticity-Related Effects of Non-Hallucinogenic BETR-001 at Neuroscience 2026",
+   "link": "https://www.globenewswire.com/news-release/2026/11/17/3404582/0/en/betterlife-pharma-announces-new-preclinical-research-highlighting-neuroplasticity-related-effects-of-non-hallucinogenic-betr-001-at-neuroscience-2026.html",
+   "summary": "Single-nucleus RNA sequencing identifies molecular responses overlapping with LSD, providing additional scientific support for BetterLife's planned BETR-001 clinical program Single-nucleus RNA sequencing identifies molecular responses overlapping with LSD, providing additional scientific support for BetterLife's planned BETR-001 clinical program",
+   "article_text": "",
+   "source": "GlobeNewswire",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "globenewswire.com",
+   "published": "2026-11-17T13:15:00+00:00",
+   "tickers": [
+    "RNA"
+   ]
+  },
+  {
+   "id": "19c0d9d9fcbb",
+   "title": "Turbo Energy Announces Proposed Acquisition To Expand Its Integrated Solar, Storage and Energy Management Platform",
+   "link": "https://www.globenewswire.com/news-release/2026/11/17/3404583/0/en/turbo-energy-announces-proposed-acquisition-to-expand-its-integrated-solar-storage-and-energy-management-platform.html",
+   "summary": "Solar generation, battery storage and intelligent energy management at the core of Turbo Energy’s proposed expansion across the energy project lifecycle.",
+   "article_text": "",
+   "source": "GlobeNewswire",
+   "category": "press",
+   "type": "ma",
+   "sentiment": "positive",
+   "domain": "globenewswire.com",
+   "published": "2026-11-17T13:15:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "57b188178915",
+   "title": "Mobilicom Secures $863,000 in Follow-On Orders for U.S. DoW Program of Record, Bringing Cumulative Orders to $4.7 Million as Monthly Deliveries Continue",
+   "link": "https://www.globenewswire.com/news-release/2026/11/17/3404584/0/en/mobilicom-secures-863-000-in-follow-on-orders-for-u-s-dow-program-of-record-bringing-cumulative-orders-to-4-7-million-as-monthly-deliveries-continue.html",
+   "summary": "Orders Include Upgraded ICE Electronic Warfare & Cybersecurity Software Licensing Integrated into Datalink Solutions, Increasing Value Per Drone",
+   "article_text": "",
+   "source": "GlobeNewswire",
+   "category": "press",
+   "type": "press",
+   "sentiment": "positive",
+   "domain": "globenewswire.com",
+   "published": "2026-11-17T13:15:00+00:00",
+   "tickers": [
+    "ICE"
+   ]
+  },
+  {
+   "id": "522fe250a5e2",
+   "title": "Disney beats fourth-quarter estimates, targets $3 billion in savings through cost-cutting efforts",
+   "link": "https://www.cnbc.com/2026/11/17/disney-dis-earnings-q-2026.html",
+   "summary": "Investors will be looking for more insight into CEO Josh D'Amaro's strategy following several rounds of layoffs.",
+   "article_text": "Disney (DIS) earnings Q4 2026 Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Key Points Disney topped Wall Street estimates for revenue and earnings per share for its fiscal fourth quarter. It's targeting $3 billion in cost savings by fiscal 2029 via measures that include layoffs, CFO Hugh Johnston told CNBC. The company's results were once again boosted by strength in its streaming and parks divisions. In this article DIS Follow your favorite stocks CREATE FREE ACCOUNT watch now VIDEO 2:20 02:20 Disney tops estimates on revenue, EPS in fourth-quarter earnings Squawk Box Disney on Tuesday reported quarterly earnings and revenue that exceeded analysts' expectations and announced it's targeting $3 billion in cost savings by fiscal 2029. Those cost-cutting efforts include several rounds of layoffs announced in recent months, Disney's chief financial officer, Hugh Johnston, told CNBC. The most recent round, which seeks to reduce costs by up to 20%, was reported earlier this month . Future cost-saving measures will include reductions in administrative and other general expenses, Johnston said, while adding, \"We do expect more layoffs.\" These cuts will help Disney fund its $26 billion in projected content spend for fiscal 2027, a 9% increase from fiscal 2026. The entertainment giant is also forecasting double-digit growth in earnings per share in the next fiscal year, as well as segment operating income growth of around 8%. Disney noted that the majority of that growth will be concentrated in the first half of the year due to the theatrical debut of \"Avengers: Doomsday\" and a boost from the Super Bowl, which will air on Disney's ESPN and ABC networks. \"The growth is really going to come in the first half of this year,\" Johnston said. \"That's the opposite of what we saw in '26, where the growth was backloaded.\" The company will also increase its annual dividend to $2 a share, a 33% increase from the previously declared dividend. It will be payable in two installments of $1 per share, one in January and one in July. Here's how Disney performed in its fiscal fourth quarter ended Oct. 3 , compared with what Wall Street expected, according to LSEG: Earnings per share: $1.77 adjusted vs. $1.67 expected Revenue : $25.95 billion vs. $25.18 billion expected Disney reported net income for the fiscal fourth quarter of $2.61 billion, or $1.51 per share, compared with $1.31 billion, or 73 cents per share, during the same period the year prior. Adjusting for one-time items, including severance and other restructuring charges as well as the value of intangible assets, Disney reported earnings per share of $1.77. The company's revenue for the quarter was 16% higher year over year, and results were once again lifted by its parks and streaming divisions. Strength in parks Disney's experiences segment, which includes its theme parks and cruises, reported nearly $10.11 billion in revenue, up 15% year over year. Operating income for the unit increased 20% to $2.25 billion. The division is already a top performer for the company, but it benefited in the fiscal fourth quarter because of an extra calendar week compared with the previous fiscal year. While international attendance continues to lag at Disney's domestic parks, it is being offset by domestic attendance, especially at the Walt Disney World resort in Orlando, Florida, Johnston said. Growth at Disneyland Paris was driven by recent investments including an expansion area called World of Frozen. Attendance at the Hong Kong and Shanghai parks remained soft because of broad economic challenges in those regions, according to Disney. The company expects operating income for the experiences segment to grow in the high-single digits in fiscal 2027. Growth is expected to be front-loaded as the company laps the launch of the Disney Adventure cruise ship, which set sail in March. Sports, streaming and entertainment Over at its entertainment division, Disney saw revenue increase 17% to $11.89 billion. Operating income nearly doubled to $1.33 billion. Revenue from streaming, specifically, rose 19% to $6.1 billion, Disney said. The segment benefited from the extra week on the fiscal calendar as well as from growth in subscription and affiliate fees. Additionally, the company saw higher theatrical distribution revenue from titles like \"Toy Story 5.\" Disney said Tuesday it expects operating income for the entertainment division to grow in the high-single digits in the coming fiscal year. The company's sports division saw revenue increase 16% in the fiscal fourth quarter, reaching $4.61 billion. Operating income for the segment surged more than 50% to $1.39 billion. Subscription and affiliate fees fueled this growth alongside an increase in advertising revenue. The company expects its sports division's operating income to grow by double digits in fiscal 2027. It noted that the fiscal first quarter of the year will see some declines because of the timing of College Football Playoff games and the New Year's window. However, the fiscal second quarter will benefit from the college championship as well as the broadcast of Super Bowl 61. Disney's outlook for overall and segment results for fiscal 2027 excludes the impact of a 53rd week in fiscal 2026. Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
+   "source": "CNBC Earnings",
+   "category": "earnings",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "cnbc.com",
+   "published": "2026-11-17T13:14:48+00:00",
+   "tickers": [
+    "DIS"
+   ]
+  },
+  {
+   "id": "e28b8334ce50",
+   "title": "JD.com's sluggish revenue growth leaves Wall Street unimpressed",
+   "link": "https://seekingalpha.com/news/4673237-jdcoms-sluggish-revenue-growth-leaves-wall-street-unimpressed?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-17T13:14:19+00:00",
+   "tickers": []
+  },
+  {
+   "id": "355adb540cde",
+   "title": "Stocks making the biggest moves premarket: Disney, Home Depot, Nvidia & more",
+   "link": "https://www.cnbc.com/2026/11/17/stocks-moving-the-most-today-live-updates.html",
+   "summary": "Disney shares ticked higher in early after the media giant reported quarterly results that beat analyst expectations.",
+   "article_text": "Stocks moving the most today: Live updates Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Cheng Xin | Getty Images Disney shares ticked higher in early after the media giant reported quarterly results that beat analyst expectations. Nvidia rose as well, as the chipmaker tried to recoup some of its losses from the previous session. Traders also awaited the company's latest earnings report, due after the bell Tuesday. Follow along as CNBC highlights the biggest stock market moves of the day. 5 Min Ago Data center and infrastructure stocks rally Data center and infrastructure stocks rallied after a Reuters report , citing people briefed on the matter, said the Trump administration plans to block imports of Chinese data center equipment. Shares of photonic technology companies rallied following the news. Here are some of the moves. Coherent shares rally 11% Applied Optoelectronics shares rally 8.6% Lumentum shares 5.6% Coherent — Sarah Min 19 Min Ago Sellas Life Sciences rises after cancer vaccine trial results Shares of biopharmaceutical company Sellas Life Sciences rose more than 7% after it reported positive trial results for one of its immunotherapeutic cancer vaccines. Galinpepimut-S, which is designed to treat acute myeloid leukemia, in a phase 3 trial met its primary endpoint for overall survival. The company added it reduced the risk of death by 41% and showed no new safety risks compared to previous trials. Sellas Life Sciences 3-month. — Davis Giangiulio 1 Hour Ago Deutsche Bank shares slip after internal files leak points to suspicious activity at bank Shares for Deutsche Bank fell over 2.5% after whistleblowers leaked about 15 million internal files from the bank, exposing alleged, systemic failures and suspicious payments linked to convicted sex offender Jeffrey Epstein. dbf — Ananya Chetia 1 Hour Ago Intel slides after Nvidia cuts its stake Intel slipped after Nvidia disclosed that it has cut its stake in the company. Nvidia said in a regulatory filing that it trimmed its stake by 25% in the quarter ending Sept. 30, selling nearly $5.5 billion in shares. The move lowers Nvidia's holding in Intel to 161 million shares from 215 million. — Darla Mercado 1 Hour Ago Nvidia shares rise ahead of earnings Nvidia shares gained 1% ahead of the chipmaker's earnings, and following days of decline amid the fallout from Jensen Huang's resignation as CEO. Huang resigned from Nvidia, the company's board announced on Thursday, following reports that he had a relationship with a woman U.S. intelligence reportedly believes to be a Chinese spy. Huang told employees he had an affair in an email on Nov. 8. Nvidia — Kai Nicol-Schwarz and Sarah Min 1 Hour Ago Home Depot falls after CEO change Home Depot shares were down nearly 2% after the home improvement giant announced Richard McPhail would take over as CEO from Ted Decker, effective next week. Decker, who will remain as chairman, had been on medical leave since August. HD 5-day chart — Fred Imbert 1 Hour Ago Disney ticks higher on earnings beat Disney reported fiscal fourth-quarter results that beat the Street , sending the stock higher by nearly 2%. The media giant earned an adjusted $1.77 per share on revenue of $25.95 billion. Analysts polled by LSEG expected a profit of $1.67 per share on revenue of $25.18 billion. The company also announced it's targeting $3 billion in cost cuts by fiscal 2029. DIS 5-day chart — Fred Imbert",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-11-17T13:13:54+00:00",
+   "tickers": [
+    "HD",
+    "DIS"
+   ]
+  },
+  {
+   "id": "0c2c3552b1f2",
+   "title": "A Kalshi Ad With Martha Stewart Warns Against Insider Trading",
+   "link": "https://www.nytimes.com/2026/11/17/business/dealbook/kalshi-martha-stewart-ad.html",
+   "summary": "The lifestyle guru appears in a new ad by the prediction market Kalshi as it announces changes to how it polices illicit trading on its platform.",
+   "article_text": "",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "negative",
+   "domain": "nytimes.com",
+   "published": "2026-11-17T13:13:04+00:00",
    "tickers": []
   },
   {
@@ -46,6 +425,88 @@
    "tickers": []
   },
   {
+   "id": "fb0a3c3ae53b",
+   "title": "Madrigal Pharmaceuticals, Inc. (MDGL) Presents at Jefferies Global Healthcare Conference 2026 Transcript",
+   "link": "https://seekingalpha.com/article/4969023-madrigal-pharmaceuticals-inc-mdgl-presents-at-jefferies-global-healthcare-conference-2026?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-17T13:12:50+00:00",
+   "tickers": [
+    "MDGL",
+    "JEF"
+   ]
+  },
+  {
+   "id": "88173f048caa",
+   "title": "Here are Tuesday's biggest analyst calls: Nvidia, Anthropic, SpaceX, Amazon, Tesla, Alphabet, BlackRock & more",
+   "link": "https://www.cnbc.com/2026/11/17/tuesday-wall-street-analyst-calls-like-nvidia-anthropic.html",
+   "summary": "Here are Tuesday's biggest calls on Wall Street.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-11-17T13:12:03+00:00",
+   "tickers": [
+    "BLK",
+    "GOOG",
+    "SPCX",
+    "AMZN"
+   ]
+  },
+  {
+   "id": "db4ee0505677",
+   "title": "Credicorp Ltd. Outlines Mid-Term Ambitions of ~22% ROE and <42% Efficiency ratio",
+   "link": "https://www.nasdaq.com/articles/credicorp-ltd-outlines-mid-term-ambitions-22-roe-and",
+   "summary": "Credicorp Ltd. presented its 2026 Strategic Update, outlining its mid-term ambitions to achieve a return on equity of approximately ~22% ROE and an efficiency ratio of <42% Efficiency ratio. The company plans to scale its ecosystem advantage by expanding its active lending cli",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T13:12:03+00:00",
+   "tickers": [
+    "BAP"
+   ]
+  },
+  {
+   "id": "154851b76efe",
+   "title": "Opera Limited to Replace ADSs with Ordinary Shares Listed Directly on Nasdaq",
+   "link": "https://www.nasdaq.com/articles/opera-limited-replace-adss-ordinary-shares-listed-directly-nasdaq",
+   "summary": "Opera Limited announced it will replace its American Depositary Shares (“ADSs”) with its ordinary shares listed on The Nasdaq Global Select Market. Each ADS will be exchanged automatically for one ordinary share. Holders’ economic interest and voting rights are",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T13:11:53+00:00",
+   "tickers": [
+    "NDAQ"
+   ]
+  },
+  {
+   "id": "9508e7dc91db",
+   "title": "Mesoblast Reports US$115M in FY2026 Net Revenue and Outlines Clinical Milestones at ASX Investor Day",
+   "link": "https://www.nasdaq.com/articles/mesoblast-reports-us-115m-fy2026-net-revenue-and-outlines-clinical-milestones-asx-investor",
+   "summary": "Mesoblast Limited announced its participation in the Australian Securities Exchange (ASX) Investor Day, highlighting its transition to a commercial-stage biotechnology company and key financial milestones. For FY2026, the company reported net revenue of US$115M and a gross profit",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T13:11:53+00:00",
+   "tickers": []
+  },
+  {
    "id": "112244c3dd4e",
    "title": "Investors look to Nvidia's earnings and Anthropic's IPO to refresh the tech rally",
    "link": "https://www.cnbc.com/2026/11/17/nvidia-earnings-anthropic-ipo-tech-rally.html",
@@ -59,6 +520,39 @@
    "published": "2026-11-17T13:11:40+00:00",
    "tickers": [
     "SPCX"
+   ]
+  },
+  {
+   "id": "e35458c2190b",
+   "title": "Infleqtion: The Sector Derated, The Revenue Quality Didn't Improve",
+   "link": "https://seekingalpha.com/article/4969027-infleqtion-sector-derated-revenue-quality-didnt-improve?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-17T13:11:18+00:00",
+   "tickers": []
+  },
+  {
+   "id": "4bb33fe54fe2",
+   "title": "Stock Indexes Settle Sharply Lower on Big Tech Drubbing",
+   "link": "https://www.nasdaq.com/articles/stock-indexes-settle-sharply-lower-big-tech-drubbing",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down -1.92% on Monday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -1.41%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -2.67%. December E-mini S&P futures (ESZ26 ) fell -1.91%, and December E-mini Nasdaq futures...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T13:11:12+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
    ]
   },
   {
@@ -997,6 +1491,52 @@
    "tickers": []
   },
   {
+   "id": "05ae444891e4",
+   "title": "HUYA Inc. Reports Third Quarter 2026 Unaudited Financial Results",
+   "link": "https://www.nasdaq.com/articles/huya-inc-reports-third-quarter-2026-unaudited-financial-results",
+   "summary": "HUYA Inc. reported its unaudited financial results for the third quarter ended September 30, 2026. Total net revenues increased by 3.8% to RMB1,752.8 million (US$261.4 million) for the third quarter of 2026, from RMB1,688.3 million for the same period of 2025. Operating income wa",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T13:01:20+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f6cc223744f0",
+   "title": "Home Depot Revenue Rises 4.9% to $43.4 Billion for Period Ended November 1, 2026",
+   "link": "https://www.nasdaq.com/articles/home-depot-revenue-rises-49-434-billion-period-ended-november-1-2026",
+   "summary": "The Home Depot, Inc. reported revenue of $43.4 billion for the third quarter ended November 1, 2026, a 4.9% increase from the prior year's $41.35 billion. Sequentially, revenue fell 9.3% from $47.86 billion in the preceding quarter.",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T13:01:19+00:00",
+   "tickers": [
+    "HD"
+   ]
+  },
+  {
+   "id": "c23c9e5878f1",
+   "title": "Rentokil Initial plc Announces Purchase of Own Shares on 17 November 2026",
+   "link": "https://www.nasdaq.com/articles/rentokil-initial-plc-announces-purchase-own-shares-17-november-2026",
+   "summary": "Rentokil Initial plc announced that, from 09 November 2026 up to and including 13 November 2026, it has purchased ordinary shares through Goldman Sachs International on the London Stock Exchange. The purchase was made in accordance with the authority granted by shareholders at th",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T13:01:19+00:00",
+   "tickers": [
+    "GS"
+   ]
+  },
+  {
    "id": "7cec0cfec731",
    "title": "Wall Street Breakfast Podcast: Happy Red Cup Day!",
    "link": "https://seekingalpha.com/article/4969047-wall-street-breakfast-podcast-happy-red-cup-day?source=feed_all_articles",
@@ -1055,23 +1595,6 @@
    "tickers": []
   },
   {
-   "id": "355adb540cde",
-   "title": "Stocks making the biggest moves premarket: Disney, Home Depot, Nvidia & more",
-   "link": "https://www.cnbc.com/2026/11/17/stocks-moving-the-most-today-live-updates.html",
-   "summary": "Disney shares ticked higher in early after the media giant reported quarterly results that beat analyst expectations.",
-   "article_text": "Stocks moving the most today: Live updates Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Cheng Xin | Getty Images Disney shares ticked higher in early after the media giant reported quarterly results that beat analyst expectations. Nvidia rose as well, as the chipmaker tried to recoup some of its losses from the previous session. Traders also awaited the company's latest earnings report, due after the bell Tuesday. Follow along as CNBC highlights the biggest stock market moves of the day. 11 Min Ago Sellas Life Sciences rises after cancer vaccine trial results Shares of biopharmaceutical company Sellas Life Sciences rose more than 7% after it reported positive trial results for one of its immunotherapeutic cancer vaccines. Galinpepimut-S, which is designed to treat acute myeloid leukemia, in a phase 3 trial met its primary endpoint for overall survival. The company added it reduced the risk of death by 41% and showed no new safety risks compared to previous trials. Sellas Life Sciences 3-month. — Davis Giangiulio 56 Min Ago Deutsche Bank shares slip after internal files leak points to suspicious activity at bank Shares for Deutsche Bank fell over 2.5% after whistleblowers leaked about 15 million internal files from the bank, exposing alleged, systemic failures and suspicious payments linked to convicted sex offender Jeffrey Epstein. dbf — Ananya Chetia 57 Min Ago Intel slides after Nvidia cuts its stake Intel slipped after Nvidia disclosed that it has cut its stake in the company. Nvidia said in a regulatory filing that it trimmed its stake by 25% in the quarter ending Sept. 30, selling nearly $5.5 billion in shares. The move lowers Nvidia's holding in Intel to 161 million shares from 215 million. — Darla Mercado 58 Min Ago Nvidia shares rise ahead of earnings Nvidia shares gained 1% ahead of the chipmaker's earnings, and following days of decline amid the fallout from Jensen Huang's resignation as CEO. Huang resigned from Nvidia, the company's board announced on Thursday, following reports that he had a relationship with a woman U.S. intelligence reportedly believes to be a Chinese spy. Huang told employees he had an affair in an email on Nov. 8. Nvidia — Kai Nicol-Schwarz and Sarah Min 58 Min Ago Home Depot falls after CEO change Home Depot shares were down nearly 2% after the home improvement giant announced Richard McPhail would take over as CEO from Ted Decker, effective next week. Decker, who will remain as chairman, had been on medical leave since August. HD 5-day chart — Fred Imbert 59 Min Ago Disney ticks higher on earnings beat Disney reported fiscal fourth-quarter results that beat the Street , sending the stock higher by nearly 2%. The media giant earned an adjusted $1.77 per share on revenue of $25.95 billion. Analysts polled by LSEG expected a profit of $1.67 per share on revenue of $25.18 billion. The company also announced it's targeting $3 billion in cost cuts by fiscal 2029. DIS 5-day chart — Fred Imbert",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-11-17T13:00:31+00:00",
-   "tickers": [
-    "HD",
-    "DIS"
-   ]
-  },
-  {
    "id": "0bf56da18529",
    "title": "8-K - JPMORGAN CHASE & CO (0000019617) (Filer)",
    "link": "https://www.sec.gov/Archives/edgar/data/19617/000001961726000407/0000019617-26-000407-index.htm",
@@ -1097,20 +1620,6 @@
    "sentiment": "neutral",
    "domain": "sec.gov",
    "published": "2026-11-17T13:00:25+00:00",
-   "tickers": []
-  },
-  {
-   "id": "0c2c3552b1f2",
-   "title": "A Kalshi Ad With Martha Stewart Warns Against Insider Trading",
-   "link": "https://www.nytimes.com/2026/11/17/business/dealbook/kalshi-martha-stewart-ad.html",
-   "summary": "The lifestyle guru appears in a new ad by the prediction market Kalshi as it announces changes to how it polices illicit trading on its platform.",
-   "article_text": "",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "negative",
-   "domain": "nytimes.com",
-   "published": "2026-11-17T13:00:18+00:00",
    "tickers": []
   },
   {
@@ -1703,6 +2212,20 @@
    "tickers": []
   },
   {
+   "id": "69f71df708f3",
+   "title": "Forget Nvidia Stock at $160 per Share. Buy This Semiconductor ETF Instead.",
+   "link": "https://www.nasdaq.com/articles/forget-nvidia-stock-160-share-buy-semiconductor-etf-instead",
+   "summary": "Key PointsNvidia’s stock is down about 26% in a month on a tech sell-off, data center worries, and a leadership scandal, even though its business is still growing fast.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T12:58:02+00:00",
+   "tickers": []
+  },
+  {
    "id": "8ce0fd50ff98",
    "title": "Anthropic attracts second Buy rating as independent analysts set $100-plus targets",
    "link": "https://www.investing.com/news/stock-market-news/anthropic-attracts-second-buy-rating-as-independent-analysts-set-100plus-targets-5032771",
@@ -1802,6 +2325,22 @@
    "published": "2026-11-17T12:56:09+00:00",
    "tickers": [
     "AGX"
+   ]
+  },
+  {
+   "id": "843274e61c14",
+   "title": "Rising Indian Sugar Production Weighs on Prices",
+   "link": "https://www.nasdaq.com/articles/rising-indian-sugar-production-weighs-prices",
+   "summary": "March NY world sugar #11 (SBH27 ) closed down -0.31 (-1.68%) on Monday, and March London ICE white sugar #5 (SWH2 7) closed down -10.50 (-2.02%). Sugar prices moved lower on Monday amid an increase in India’s sugar production. India’s Sugar & Bio-Energy Manufacturers Association (ISMA) reported Monday that India’s...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T12:56:02+00:00",
+   "tickers": [
+    "ICE"
    ]
   },
   {
@@ -1972,6 +2511,64 @@
    "tickers": []
   },
   {
+   "id": "e969851f7fcc",
+   "title": "Why a Data Center Slowdown Would Reach Utilities and Electrical Suppliers Before Chipmakers",
+   "link": "https://www.nasdaq.com/articles/why-data-center-slowdown-would-reach-utilities-and-electrical-suppliers-chipmakers",
+   "summary": "Key PointsA slower pace of data center construction could delay utilities' infrastructure investments and future earnings growth.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T12:53:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "92d42c10d115",
+   "title": "Amesite Inc. Announces New NurseMagic® Enterprise Agreement Serving Approximately 2,000 Patients",
+   "link": "https://www.nasdaq.com/articles/amesite-inc-announces-new-nursemagicr-enterprise-agreement-serving-approximately-2000",
+   "summary": "Amesite Inc. announced on November 16, 2026, that it has entered into a new NurseMagic® enterprise agreement with a healthcare organization serving approximately 2,000 patients. According to the company, the contract ramps its revenue, user base, and patient census, while exp",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T12:52:09+00:00",
+   "tickers": []
+  },
+  {
+   "id": "2df63898d51f",
+   "title": "Franco-Nevada Corporation Notes Partner Update on Cobre Panamá Mine Discussions",
+   "link": "https://www.nasdaq.com/articles/franco-nevada-corporation-notes-partner-update-cobre-panama-mine-discussions",
+   "summary": "Franco-Nevada Corporation noted that its partner, First Quantum Minerals Ltd., has provided an update following an announcement by the President of Panama, José Raúl Mulino, that the Government of Panama will commence formal discussions with First Quantum regarding",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T12:52:00+00:00",
+   "tickers": [
+    "FNV"
+   ]
+  },
+  {
+   "id": "f105ea2a8304",
+   "title": "Weibo Corporation Reports Third Quarter 2026 Net Revenues of US$410.2 million",
+   "link": "https://www.nasdaq.com/articles/weibo-corporation-reports-third-quarter-2026-net-revenues-us-4102-million",
+   "summary": "Weibo Corporation reported its unaudited financial results for the third quarter ended September 30, 2026. Total net revenues were US$410.2 million, a decrease of 7% compared to US$442.3 million for the same period last year. Advertising and marketing revenues were US$344.1 milli",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T12:51:59+00:00",
+   "tickers": []
+  },
+  {
    "id": "5a03bff12335",
    "title": "Quest Global wird in der ISG Provider Lens® Studie „Automotive and Mobility Services and Solutions 2026\" in zwei Kategorien als führendes Unternehmen und in einer dritten als aufstrebendes Unternehmen anerkannt.",
    "link": "https://www.prnewswire.com/news-releases/quest-global-wird-in-der-isg-provider-lens-studie-automotive-and-mobility-services-and-solutions-2026-in-zwei-kategorien-als-fuhrendes-unternehmen-und-in-einer-dritten-als-aufstrebendes-unternehmen-anerkannt-302942130.html",
@@ -2044,6 +2641,20 @@
    "tickers": []
   },
   {
+   "id": "29bcdea97b3a",
+   "title": "Griffon Corp. Profit Rises In Q4",
+   "link": "https://www.nasdaq.com/articles/griffon-corp-profit-rises-q4",
+   "summary": "(RTTNews) - Griffon Corp. (GFF) revealed earnings for its fourth quarter that Increases, from the same period last year",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T12:50:16+00:00",
+   "tickers": []
+  },
+  {
    "id": "fff291fef5b3",
    "title": "8-K - SYPRIS SOLUTIONS INC (0000864240) (Filer)",
    "link": "https://www.sec.gov/Archives/edgar/data/864240/000143774926037305/0001437749-26-037305-index.htm",
@@ -2055,6 +2666,20 @@
    "sentiment": "neutral",
    "domain": "sec.gov",
    "published": "2026-11-17T12:50:13+00:00",
+   "tickers": []
+  },
+  {
+   "id": "64563b58ff73",
+   "title": "A Familiar Setup for Crypto? November 2026 Is Starting to Look a Lot Like November 2022.",
+   "link": "https://www.nasdaq.com/articles/familiar-setup-crypto-november-2026-starting-look-lot-november-2022",
+   "summary": "Key PointsThe crypto market is in a sharp decline.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T12:50:02+00:00",
    "tickers": []
   },
   {
@@ -2159,6 +2784,20 @@
    ]
   },
   {
+   "id": "373a7745bcc9",
+   "title": "Midera Raises Annual Sales Outlook- Update",
+   "link": "https://www.nasdaq.com/articles/midera-raises-annual-sales-outlook-update",
+   "summary": "(RTTNews) - Midera Food Processing, Inc. (MFP)Tuesday said it raised the full-year guidance following improved third-quarter results, now expecting higher sales and adjusted EBITDA.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T12:48:59+00:00",
+   "tickers": []
+  },
+  {
    "id": "0d6897a60692",
    "title": "International Seaways: Even After Some Rough Waters, INSW Is Still A Buy",
    "link": "https://seekingalpha.com/article/4969012-international-seaways-stock-even-after-some-rough-waters-insw-is-still-buy?source=feed_all_articles",
@@ -2214,6 +2853,20 @@
    "sentiment": "neutral",
    "domain": "prnewswire.com",
    "published": "2026-11-17T12:48:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "bed5e2c72456",
+   "title": "Griffon Board Approves Additional $400 Mln Shares Repurchase Plan",
+   "link": "https://www.nasdaq.com/articles/griffon-board-approves-additional-400-mln-shares-repurchase-plan",
+   "summary": "(RTTNews) - Tuesday, Griffon Corporation (GFF) announced that its Board of Directors has authorized the repurchase of an additional $400 million worth of the company's common stock.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T12:47:31+00:00",
    "tickers": []
   },
   {
@@ -2289,22 +2942,6 @@
    "domain": "biztoc.com",
    "published": "2026-11-17T12:46:55+00:00",
    "tickers": []
-  },
-  {
-   "id": "843274e61c14",
-   "title": "Rising Indian Sugar Production Weighs on Prices",
-   "link": "https://www.nasdaq.com/articles/rising-indian-sugar-production-weighs-prices",
-   "summary": "March NY world sugar #11 (SBH27 ) closed down -0.31 (-1.68%) on Monday, and March London ICE white sugar #5 (SWH2 7) closed down -10.50 (-2.02%). Sugar prices moved lower on Monday amid an increase in India’s sugar production. India’s Sugar & Bio-Energy Manufacturers Association (ISMA) reported Monday that India’s...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-17T12:46:45+00:00",
-   "tickers": [
-    "ICE"
-   ]
   },
   {
    "id": "58f178a36e27",
@@ -2960,6 +3597,22 @@
    "tickers": []
   },
   {
+   "id": "0487e9d75aa8",
+   "title": "NIO Inc. Announces Board Meeting on December 1, 2026 to Approve Q3 2026 Results",
+   "link": "https://www.nasdaq.com/articles/nio-inc-announces-board-meeting-december-1-2026-approve-q3-2026-results",
+   "summary": "NIO Inc. announced that its board of directors will hold a Board meeting on Tuesday, December 1, 2026 (Beijing/Hong Kong/Singapore Time) to approve the Company’s unaudited financial results for the third quarter 2026. The Company will publish its Q3 2026 Results on Tuesday,",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T12:41:40+00:00",
+   "tickers": [
+    "NIO"
+   ]
+  },
+  {
    "id": "a049292bf455",
    "title": "Speed camera fault may have allowed drivers to escape fines",
    "link": "https://biztoc.com/x/fc1d506f398a9aac?ref=rss",
@@ -3017,6 +3670,22 @@
    "domain": "prnewswire.com",
    "published": "2026-11-17T12:41:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "41486588f70a",
+   "title": "NVIDIA Board Forms National Security And Export Control Oversight Committee",
+   "link": "https://www.nasdaq.com/articles/nvidia-board-forms-national-security-and-export-control-oversight-committee",
+   "summary": "(RTTNews) - Tuesday, NVIDIA Corporation (NVDA) announced that its Board of Directors has formed the National Security and Export Control Oversight Committee to oversee the company's national security policies, export control compliance and global trade risk management.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T12:40:56+00:00",
+   "tickers": [
+    "NVDA"
+   ]
   },
   {
    "id": "ab404f735ecb",
@@ -3165,25 +3834,6 @@
    "tickers": []
   },
   {
-   "id": "4bb33fe54fe2",
-   "title": "Stock Indexes Settle Sharply Lower on Big Tech Drubbing",
-   "link": "https://www.nasdaq.com/articles/stock-indexes-settle-sharply-lower-big-tech-drubbing",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down -1.92% on Monday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -1.41%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -2.67%. December E-mini S&P futures (ESZ26 ) fell -1.91%, and December E-mini Nasdaq futures...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-11-17T12:36:26+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
-   ]
-  },
-  {
    "id": "3f11b265b676",
    "title": "Roche’s breast cancer pill Wilserdly approved in the U.S.",
    "link": "https://seekingalpha.com/news/4673580-roches-breast-cancer-pill-approved-us?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -3299,6 +3949,20 @@
     "SNDK",
     "MU"
    ]
+  },
+  {
+   "id": "eea801f822f1",
+   "title": "Energizer Holdings Sees Organic Sales Decline In FY27; Stock Up 4.4% - Update",
+   "link": "https://www.nasdaq.com/articles/energizer-holdings-sees-organic-sales-decline-fy27-stock-44-update",
+   "summary": "(RTTNews) - While reporting financial results for the fourth quarter on Tuesday, battery manufacturer Energizer Holdings, Inc. (ENR) provided organic sales guidance for the first quarter and for the full year 2027.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T12:32:34+00:00",
+   "tickers": []
   },
   {
    "id": "08980d2940ca",
@@ -4189,6 +4853,38 @@
    "tickers": []
   },
   {
+   "id": "316b4a7bf1d1",
+   "title": "Best Buy's Black Friday Sale Starts Nov. 19 With 10 Days Of Deals",
+   "link": "https://www.nasdaq.com/articles/best-buys-black-friday-sale-starts-nov-19-10-days-deals",
+   "summary": "(RTTNews) - Best Buy Co., Inc. (BBY) Tuesday said its 2026 Black Friday sale will begin November 19, offering 10 days of deals on popular technology products and other holiday gifts.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T12:28:13+00:00",
+   "tickers": [
+    "BBY"
+   ]
+  },
+  {
+   "id": "168cb1a6b476",
+   "title": "Spire Lowers FY27 Adj. EPS Guidance Range; Introduces FY28 Adj. EPS Guidance",
+   "link": "https://www.nasdaq.com/articles/spire-lowers-fy27-adj-eps-guidance-range-introduces-fy28-adj-eps-guidance",
+   "summary": "(RTTNews) - Spire Inc. (SR) said it now expects fiscal 2027 adjusted earnings to be in the range of $5.05-$5.25 per share, compared with its previous guidance range of $5.40-$5.60 per share. The company said the updated outlook primarily reflects recent regulatory outcomes in Ten",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-11-17T12:28:09+00:00",
+   "tickers": [
+    "RRC"
+   ]
+  },
+  {
    "id": "bfb996bbf95c",
    "title": "Fund managers just slashed their tech bets at the fastest pace in two decades — and this is the tail risk keeping them up at night",
    "link": "https://www.marketwatch.com/story/fund-managers-just-slashed-their-tech-bets-at-the-fastest-pace-in-two-decades-and-this-is-the-tail-risk-keeping-them-up-at-night-60fcc160?mod=mw_rss_topstories",
@@ -4916,22 +5612,6 @@
    "published": "2026-11-17T12:14:19+00:00",
    "tickers": [
     "SLS"
-   ]
-  },
-  {
-   "id": "522fe250a5e2",
-   "title": "Disney beats fourth-quarter estimates, targets $3 billion in savings through cost-cutting efforts",
-   "link": "https://www.cnbc.com/2026/11/17/disney-dis-earnings-q-2026.html",
-   "summary": "Investors will be looking for more insight into CEO Josh D'Amaro's strategy following several rounds of layoffs.",
-   "article_text": "Disney (DIS) earnings Q4 2026 Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Key Points Disney topped Wall Street estimates for revenue and earnings per share for its fiscal fourth quarter. It's targeting $3 billion in cost savings by fiscal year 2029 via measures that include layoffs, CFO Hugh Johnston told CNBC. The company's results were once again boosted by strength in its streaming and parks divisions. In this article DIS Follow your favorite stocks CREATE FREE ACCOUNT watch now VIDEO 2:20 02:20 Disney tops estimates on revenue, EPS in fourth-quarter earnings Squawk Box Disney on Tuesday reported quarterly earnings and revenue that exceeded analysts' expectations and announced it's targeting $3 billion in cost savings by fiscal year 2029. Those cost-cutting efforts include several rounds of layoffs announced in recent months, Disney's Chief Financial Officer Hugh Johnston told CNBC. The most recent round, which seeks to reduce costs by up to 20%, was reported earlier this month . Future cost-saving measures will include reductions in administrative and other general expenses, Johnston said, while adding, \"We do expect more layoffs.\" These cuts will help Disney fund its $26 billion in projected content spend for fiscal 2027, a 9% increase from fiscal 2026. The entertainment giant is also forecasting double-digit growth in earnings per share in the next fiscal year, as well as segment operating income growth of around 8%. Disney noted that the majority of that growth will be concentrated in the first half of the year due to the theatrical debut of \"Avengers: Doomsday\" and a boost from the Super Bowl, which will air on Disney's ESPN and ABC networks. \"The growth is really going to come in the first half of this year,\" Johnston said. \"That's the opposite of what we saw in '26, where the growth was backloaded.\" The company will also increase its annual dividend to $2 a share, a 33% increase from the previously declared dividend. It will be payable in two installments of $1 per share, one in January and one in July. Here's how Disney performed in its fiscal fourth quarter ended Oct. 3 , compared with what Wall Street expected, according to LSEG: Earnings per share: $1.77 adjusted vs. $1.67 expected Revenue : $25.95 billion vs. $25.18 billion expected Disney reported net income for the fiscal fourth quarter of $2.61 billion, or $1.51 per share, compared with $1.31 billion, or 73 cents per share, during the same period the year prior. Adjusting for one-time items, including severance and other restructuring charges as well as the value of intangible assets, Disney reported earnings per share of $1.77. The company's revenue for the quarter was 16% higher year over year, and results were once again lifted by its parks and streaming divisions. Strength in parks Disney's experiences segment, which includes its theme parks and cruises, reported nearly $10.11 billion in revenue, up 15% year over year. Operating income for the unit increased 20% to $2.25 billion. The division is already a top performer for the company, but it benefited in the fiscal fourth quarter because of an extra calendar week compared to the previous fiscal year. While international attendance continues to lag at Disney's domestic parks, it is being offset by domestic attendance, especially at the Walt Disney World resort in Orlando, Florida, Johnston said. Growth at Disneyland Paris was driven by recent investments including an expansion area called World of Frozen. Attendance at the Hong Kong and Shanghai parks remained soft because of broad economic challenges in those regions, according to Disney. The company expects operating income for the experiences segment to grow in the high-single digits in fiscal 2027. Growth is expected to be frontloaded as the company laps the launch of the Disney Adventure cruise ship, which set sail in March. Sports, streaming and entertainment Over at its entertainment division, Disney saw revenue increase 17% to $11.89 billion. Operating income nearly doubled to $1.33 billion. Revenue from streaming, specifically, rose 19% to $6.1 billion, Disney said. The segment benefited from the extra week on the fiscal calendar as well as from growth in subscription and affiliate fees. Additionally, the company saw higher theatrical distribution revenue from titles like \"Toy Story 5.\" Disney said Tuesday it expects operating income for the entertainment division to grow in the high-single digits in the coming fiscal year. The company's sports division saw revenue increase 16% in the fiscal fourth quarter, reaching $4.61 billion. Operating income for the segment increased more than 50% to $1.39 billion. Subscription and affiliate fees fueled this growth alongside an increase in advertising revenue. The company expects its sports division's operating income to grow by double digits in fiscal 2027. It noted that the fiscal first quarter of the year will see some declines because of the timing of College Football Playoff games and the New Year's window. However, the fiscal second quarter will benefit from the college championship as well as the broadcast of Super Bowl 61. Disney's outlook for overall and segment results for fiscal year 2027 excludes the impact of a 53rd week in fiscal year 2026. Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
-   "source": "CNBC Earnings",
-   "category": "earnings",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "cnbc.com",
-   "published": "2026-11-17T12:14:17+00:00",
-   "tickers": [
-    "DIS"
    ]
   },
   {
@@ -8215,706 +8895,6 @@
    "domain": "biztoc.com",
    "published": "2026-11-17T11:42:54+00:00",
    "tickers": []
-  },
-  {
-   "id": "044cec76715f",
-   "title": "US government confirms investigation into tech firm Megaspeed",
-   "link": "https://biztoc.com/x/8a31a2f5a72ad9bb?ref=rss",
-   "summary": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-11-17T11:42:54+00:00",
-   "tickers": []
-  },
-  {
-   "id": "fe1a436423f6",
-   "title": "Incyte Corporation (INCY) Presents at Jefferies Global Healthcare Conference 2026 Transcript",
-   "link": "https://seekingalpha.com/article/4968986-incyte-corporation-incy-presents-at-jefferies-global-healthcare-conference-2026-transcript?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-17T11:42:50+00:00",
-   "tickers": [
-    "INCY",
-    "JEF"
-   ]
-  },
-  {
-   "id": "37408adcc45c",
-   "title": "Nvidia Creates Board Committee To Oversee National Security and Chip Exports",
-   "link": "https://biztoc.com/x/a09204582118055e?ref=rss",
-   "summary": "Nvidia has created a committee to oversee national security policies, export controls and global trade risks, Reuters reported. The move follows CEO Jensen Huang’s resignation amid revelations about alleged personal relationships, including one involving a suspected Chinese spy. The developments…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-17T11:42:50+00:00",
-   "tickers": []
-  },
-  {
-   "id": "430a0ce97730",
-   "title": "Exelixis, Inc. (EXEL) Presents at UBS Global Biopharma Conference 2026 Transcript",
-   "link": "https://seekingalpha.com/article/4968983-exelixis-inc-exel-presents-at-ubs-global-biopharma-conference-2026-transcript?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-17T11:42:46+00:00",
-   "tickers": [
-    "EXEL",
-    "UBS"
-   ]
-  },
-  {
-   "id": "800c26e36d60",
-   "title": "Most Small-Cap Value Funds Weight by Size. RZV Puts the Most Money in the Cheapest Stocks in the S&P 600",
-   "link": "https://biztoc.com/x/ec3d0c9c242ee506?ref=rss",
-   "summary": "The post Most Small-Cap Value Funds Weight by Size. RZV Puts the Most Money in the Cheapest Stocks in the S&P 600 appeared first on 24/7 Wall St.. A mainstream small-cap value ETF typically gives its biggest positions to the biggest companies in its value group. The Invesco S&P SmallCap 600 Pure…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-17T11:42:45+00:00",
-   "tickers": [
-    "IVZ"
-   ]
-  },
-  {
-   "id": "12df1fcf3547",
-   "title": "Disney Plans to Finance Growth With $3 Billion in Cost Savings",
-   "link": "https://biztoc.com/x/f5d926da931f6ed6?ref=rss",
-   "summary": "The company reported a surge in quarterly profit and, in a surprise, said it would stop disclosing how much money its streaming business makes.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-17T11:42:44+00:00",
-   "tickers": [
-    "DIS"
-   ]
-  },
-  {
-   "id": "6795503e7930",
-   "title": "Intel Stock Falls. Jensen Huang Delivered One Final Blow Before His Exit",
-   "link": "https://biztoc.com/x/b32bc3c357df5f5b?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-11-17T11:42:43+00:00",
-   "tickers": [
-    "INTC"
-   ]
-  },
-  {
-   "id": "cde6e0beebde",
-   "title": "Disney beats earnings forecasts, plans to increase content spending",
-   "link": "https://www.investing.com/news/stock-market-news/disney-beats-earnings-forecasts-plans-to-increase-content-spending-5032413",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-11-17T11:42:38+00:00",
-   "tickers": [
-    "DIS"
-   ]
-  },
-  {
-   "id": "cf55d8df56f8",
-   "title": "Nvidia has lost $2 trillion in value. Here's what options traders expect from earnings",
-   "link": "https://www.cnbc.com/2026/11/17/nvidia-has-lost-2-trillion-in-value-heres-what-options-traders-expect-from-earnings.html",
-   "summary": "Nvidia options are pricing in a bigger move than usual.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-11-17T11:42:28+00:00",
-   "tickers": []
-  },
-  {
-   "id": "9a8cccb53767",
-   "title": "8-K - Linkhome Holdings Inc. (0002017758) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/2017758/000121390026121085/0001213900-26-121085-index.htm",
-   "summary": "Filed: 2026-11-17 AccNo: 0001213900-26-121085 Size: 196 KB Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-11-17T11:41:33+00:00",
-   "tickers": []
-  },
-  {
-   "id": "149faa851cd1",
-   "title": "MSP Recovery, Inc. Enters into Funding Agreements with Hazel and VRM, and Announces Resignation of Baker Tilly US, LLP",
-   "link": "https://www.nasdaq.com/articles/msp-recovery-inc-enters-funding-agreements-hazel-and-vrm-and-announces-resignation-baker",
-   "summary": "MSP Recovery, Inc. entered into a series of letter agreements with Hazel Partners Holdings LLC, in its capacity as administrative agent and lender under the company existing working capital credit facility. Under these agreements, Hazel provided funding of $0.03 million on Octobe",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-17T11:41:18+00:00",
-   "tickers": []
-  },
-  {
-   "id": "29acc3e58d9f",
-   "title": "Zentek Ltd. Reports September 30, 2026 Interim Results and $19,671,935 Impairment Reversal",
-   "link": "https://www.nasdaq.com/articles/zentek-ltd-reports-september-30-2026-interim-results-and-19671935-impairment-reversal",
-   "summary": "Zentek Ltd. reported its unaudited condensed interim consolidated financial results for the three and six months ended September 30, 2026. The company recorded net income of $17,200,847 for the three-month period ended September 30, 2026, compared to a net loss of $2,391,190 for",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-17T11:41:10+00:00",
-   "tickers": []
-  },
-  {
-   "id": "1b99025f4d7e",
-   "title": "United States Antimony Corporation Reports Third Quarter 2026 Financial and Operating Results",
-   "link": "https://www.nasdaq.com/articles/united-states-antimony-corporation-reports-third-quarter-2026-financial-and-operating",
-   "summary": "United States Antimony Corporation reported its financial and operating results for the third quarter of 2026. Third quarter revenue was $10.1 million, up 16% year-over-year and up 28% from Q2. Gross profit more than doubled to $4.3 million, with the gross profit margin expanding",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-17T11:41:09+00:00",
-   "tickers": []
-  },
-  {
-   "id": "1fa34cafbf26",
-   "title": "Anthropic: have been approved to list our class a common stock on NASDAQ Global Select market under symbol “ANT”",
-   "link": "https://www.investing.com/news/stock-market-news/anthropic-have-been-approved-to-list-our-class-a-common-stock-on-nasdaq-global-select-market-under-symbol-ant-432SI-5032359",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "fda",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-11-17T11:41:02+00:00",
-   "tickers": []
-  },
-  {
-   "id": "dcc775c4a3ac",
-   "title": "Will Your S&P 500 Index Fund Be Forced to Buy Anthropic? Here’s What the Rules Say.",
-   "link": "https://www.nasdaq.com/articles/will-your-sp-500-index-fund-be-forced-buy-anthropic-heres-what-rules-say",
-   "summary": "Key PointsS&P’s rules require a year of trading and positive GAAP earnings, so Anthropic won’t join the S&P 500 anytime soon.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-17T11:41:02+00:00",
-   "tickers": []
-  },
-  {
-   "id": "06524d172c01",
-   "title": "Sine Health Receives FDA 510(k) Clearance for the First Smartphone Essential Tremor Monitoring Device",
-   "link": "https://www.prnewswire.com/news-releases/sine-health-receives-fda-510k-clearance-for-the-first-smartphone-essential-tremor-monitoring-device-302942052.html",
-   "summary": "Sine measures tremor passively through a patient's own smartphone. It is the company's second FDA clearance since founding last year STOCKHOLM, Nov. 17, 2026 /PRNewswire/ -- Sine Health today announced that the U.S. Food and Drug Administration (FDA) has granted 510(k) clearance (K261026)...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "fda",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-11-17T11:41:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "f3c8924caa88",
-   "title": "Trump’s New A.I. Chip Rules Rattle Southeast Asia",
-   "link": "https://www.nytimes.com/2026/11/17/business/southeast-asia-china-ai-chips.html",
-   "summary": "New U.S. restrictions could jeopardize billions in investment and force countries in the region to strike an increasingly difficult balance between Washington and Beijing.",
-   "article_text": "",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "nytimes.com",
-   "published": "2026-11-17T11:40:40+00:00",
-   "tickers": []
-  },
-  {
-   "id": "2f5832a74d74",
-   "title": "John Hancock 2030 Lifetime Blend Portfolio Q3 2026 Commentary",
-   "link": "https://seekingalpha.com/article/4969007-john-hancock-2030-lifetime-blend-portfolio-q3-2026-commentary?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-17T11:40:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "55ee82440c8c",
-   "title": "Walt Disney Co Reveals Advance In Q4 Profit",
-   "link": "https://www.nasdaq.com/articles/walt-disney-co-reveals-advance-q4-profit",
-   "summary": "(RTTNews) - Walt Disney Co (DIS) revealed a profit for its fourth quarter that Increases, from the same period last year",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-11-17T11:39:39+00:00",
-   "tickers": [
-    "DIS"
-   ]
-  },
-  {
-   "id": "3a80fcd72341",
-   "title": "Exclusive-GM plans 20% boost in robotics as factory costs rise",
-   "link": "https://www.investing.com/news/stock-market-news/exclusivegm-plans-20-boost-in-robotics-as-factory-costs-rise-5032317",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-11-17T11:37:13+00:00",
-   "tickers": [
-    "GM"
-   ]
-  },
-  {
-   "id": "6bcd8c1daa8a",
-   "title": "The fight to reinstate Jensen Huang overshadows Nvidia earnings",
-   "link": "https://seekingalpha.com/news/4673512-the-fight-to-reinstate-jensen-huang-overshadows-nvidia-earnings?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-17T11:37:07+00:00",
-   "tickers": []
-  },
-  {
-   "id": "534f26145026",
-   "title": "Walt Disney beats top-line and bottom-line estimates; reaffirms FY2027 adjusted EPS outlook",
-   "link": "https://seekingalpha.com/news/4673558-walt-disney-beats-top-line-and-bottom-line-estimates-reaffirms-fy2027-adjusted-eps-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-17T11:36:53+00:00",
-   "tickers": [
-    "DIS"
-   ]
-  },
-  {
-   "id": "e1805b15c9f4",
-   "title": "Google Embraces Geothermal Technology to Vaporize Rock for Clean Power",
-   "link": "https://biztoc.com/x/478bb00f6e2f0b87?ref=rss",
-   "summary": "The company is securing electricity from startup Quaise, which uses a gyrotron to drill 3 miles beneath the Earth’s surface.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-17T11:36:09+00:00",
-   "tickers": [
-    "GOOGL"
-   ]
-  },
-  {
-   "id": "18659303107f",
-   "title": "8-K - ITT INC. (0000216228) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/216228/000021622826000081/0000216228-26-000081-index.htm",
-   "summary": "Filed: 2026-11-17 AccNo: 0000216228-26-000081 Size: 207 KB Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-11-17T11:35:08+00:00",
-   "tickers": [
-    "ITT"
-   ]
-  },
-  {
-   "id": "e6a9688a24c9",
-   "title": "The Stock Market Is Doing Something for Just the 3rd Time in Nearly 30 Years, and History Is Clear Where the S&P 500 Is Headed",
-   "link": "https://www.nasdaq.com/articles/stock-market-doing-something-just-3rd-time-nearly-30-years-and-history-clear-where-sp-500",
-   "summary": "Key PointsThe Shiller CAPE ratio measures stock market valuations over a long-term time horizon.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-17T11:35:02+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e828319d9df5",
-   "title": "Here's What $1,000 in Each of These 3 Space Stocks Could Be Worth by 2030",
-   "link": "https://www.nasdaq.com/articles/heres-what-1000-each-these-3-space-stocks-could-be-worth-2030-0",
-   "summary": "Key PointsSpaceX is growing fast and is already valued as one of the world's largest companies.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-17T11:35:02+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d00c10151c69",
-   "title": "Zurich Insurance Group AG (ZUR:CA) Analyst/Investor Day - Slideshow",
-   "link": "https://seekingalpha.com/article/4969008-zurich-insurance-group-ag-zur-ca-analyst-investor-day-slideshow?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-17T11:34:15+00:00",
-   "tickers": []
-  },
-  {
-   "id": "5a34896e1112",
-   "title": "S&P Global Inc. Announces Pricing of $750,000,000, $600,000,000 and $650,000,000 Senior Notes",
-   "link": "https://www.nasdaq.com/articles/sp-global-inc-announces-pricing-750000000-600000000-and-650000000-senior-notes",
-   "summary": "On November 16, 2026, S&P Global Inc. and Standard & Poor’s Financial Services LLC, as guarantor, entered into an underwriting agreement with BofA Securities, Inc. and Goldman Sachs & Co. LLC, as representatives of the several underwriters, in connection with th",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-17T11:34:12+00:00",
-   "tickers": [
-    "GS",
-    "SPGI"
-   ]
-  },
-  {
-   "id": "1a3daca330f4",
-   "title": "Banco Santander (Brasil) S.A. Receives New Appraisal Report Following November 12, 2026 Update",
-   "link": "https://www.nasdaq.com/articles/banco-santander-brasil-sa-receives-new-appraisal-report-following-november-12-2026-update",
-   "summary": "Banco Santander (Brasil) S.A. announced that it has received a new version of the appraisal report for Santander Brasil and Banco Santander, for the purposes of the Brazilian Exchange Offer, prepared by UBS BB Corretora De Câmbio, Títulos e Valores Mobiliários",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-17T11:34:12+00:00",
-   "tickers": [
-    "UBS"
-   ]
-  },
-  {
-   "id": "aa49ce1540d3",
-   "title": "Duke Energy Corporation Announces NCUC Approval of Comprehensive Settlements for DEC and DEP on November 16, 2026",
-   "link": "https://www.nasdaq.com/articles/duke-energy-corporation-announces-ncuc-approval-comprehensive-settlements-dec-and-dep",
-   "summary": "On November 16, 2026, the North Carolina Utilities Commission issued written orders approving the Comprehensive Revenue Requirement Settlements for Duke Energy Corporation subsidiaries Duke Energy Carolinas and Duke Energy Progress. Originally filed on July 17, 2026, and August 5",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "fda",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-17T11:34:12+00:00",
-   "tickers": [
-    "DUK"
-   ]
-  },
-  {
-   "id": "65e9ceef280c",
-   "title": "8-K - Walt Disney Co (0001744489) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1744489/000174448926000067/0001744489-26-000067-index.htm",
-   "summary": "Filed: 2026-11-17 AccNo: 0001744489-26-000067 Size: 516 KB Item 7.01: Regulation FD Disclosure Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-11-17T11:34:02+00:00",
-   "tickers": [
-    "DIS"
-   ]
-  },
-  {
-   "id": "e483c1d16f38",
-   "title": "Home Depot names Richard McPhail as new CEO, beats earnings expectations",
-   "link": "https://www.cnbc.com/2026/11/17/home-depot-hd-q3-earnings-2026.html",
-   "summary": "Home Depot named Richard McPhail as its new CEO effective next week.",
-   "article_text": "Home Depot (HD) Q3 earnings 2026 Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Key Points Home Depot named Richard McPhail as its new CEO effective next week. McPhail currently serves as CFO. CEO Ted Decker had been on a temporary medical leave of absence but has since returned, according to Home Depot. The company made the announcement as it posted earnings and revenue that beat expectations. In this article HD Follow your favorite stocks CREATE FREE ACCOUNT Home Depot store logo sign is seen in Chicago, Illinois, United States, on August 3, 2026. Marcin Golba | Nurphoto | Getty Images Home Depot on Tuesday announced its Chief Financial Officer Richard McPhail will become CEO of the company, replacing Ted Decker, effective next week. Alongside McPhail's appointment, Home Depot said Ann-Marie Campbell, currently senior executive vice president of U.S. stores and operations, will become president and chief operating officer. Jordan Broggi has been chosen as CFO to replace McPhail. Decker, CEO since 2022, had been on temporary medical leave since August. The company said on Tuesday that Decker has returned from leave but is now stepping down from his role. He will continue to serve as chair of the board of directors, the company said. McPhail has been with the company since 2005, holding multiple executive roles. \"We're not going to change course,\" McPhail told CNBC's Becky Quick. He said the company will continue to lean into winning professional shoppers like contractors and using AI tools to encourage sales. McPhail added that while the company faces more challenges now than it did at the start of the year, it is still winning share of the home improvement market. Home Depot has been pressured by a sluggish housing market, higher mortgage rates and a more cautious consumer. Still, the company has previously said it's seen resilience among its pro shoppers who are still shopping for their home improvement projects. The announcement came alongside Home Depot's fiscal third-quarter earnings report, in which the home improvement retailer beat analysts' expectations on the top and bottom lines. The company said comparable sales rose 2.2% during the period, compared with estimates of up 1.8%, according to StreetAccount. Here's how Home Depot performed in its fiscal third quarter compared with what Wall Street was expecting, based on a survey of analysts by LSEG: Earnings per share: $3.86 adjusted vs. $3.84 expected Revenue: $43.4 billion vs. $42.80 billion expected The company reported net income of $3.71 billion, or $3.72 per share, compared with $3.60 billion, or $3.62 per share, the year prior. Excluding one-time items, Home Depot reported adjusted earnings per share of $3.86. Revenue rose 4.9% compared to the year-ago period. In the third quarter, the company said online comparable sales grew around 13%, which marked its sixth straight quarter of double-digit positive growth for the metric. For the full year, Home Depot said it expects total sales to rise roughly 4.5%, the top end of its previously provided range. It also anticipates comparable sales will grow around 1.4%, compared with an outlook of flat to a 2% increase. Home Depot added it expects adjusted earnings per share to rise 2% this year, compared with prior guidance of flat to a 4% increase. Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
-   "source": "CNBC Earnings",
-   "category": "earnings",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "cnbc.com",
-   "published": "2026-11-17T11:33:44+00:00",
-   "tickers": [
-    "HD"
-   ]
-  },
-  {
-   "id": "635dbb8604a7",
-   "title": "Disney turns to job cuts in latest cost blitz",
-   "link": "https://www.ft.com/content/68aac78a-baee-4123-9c65-7b6e631a02ac?syn-25a6b1a6=1",
-   "summary": "A pledge to reduce $3bn in annual spending comes after similar moves at Skydance and Netflix",
-   "article_text": "",
-   "source": "FT Companies",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "ft.com",
-   "published": "2026-11-17T11:33:18+00:00",
-   "tickers": [
-    "NFLX",
-    "DIS"
-   ]
-  },
-  {
-   "id": "e8aaa24aff2d",
-   "title": "Oxford Nanopore at Jefferies Global Healthcare Conference: sharper focus",
-   "link": "https://www.investing.com/news/transcripts/oxford-nanopore-at-jefferies-global-healthcare-conference-sharper-focus-93CH-5032375",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-17T11:33:03+00:00",
-   "tickers": [
-    "JEF"
-   ]
-  },
-  {
-   "id": "1485c064a938",
-   "title": "Needham reiterates Buy on Veritone stock after Q3 revenue miss",
-   "link": "https://www.investing.com/news/analyst-ratings/needham-reiterates-buy-on-veritone-stock-after-q3-revenue-miss-93CH-5032376",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "analyst",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-17T11:33:03+00:00",
-   "tickers": []
-  },
-  {
-   "id": "7784d6b125c6",
-   "title": "EyePoint, Inc. (EYPT) Presents at UBS Global Biopharma Conference 2026 Transcript",
-   "link": "https://seekingalpha.com/article/4968997-eyepoint-inc-eypt-presents-at-ubs-global-biopharma-conference-2026-transcript?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-17T11:32:48+00:00",
-   "tickers": [
-    "UBS"
-   ]
-  },
-  {
-   "id": "65a91809f6bd",
-   "title": "Luxury Stocks Lead French Market Decline Amid Multiple Headwinds",
-   "link": "https://www.nasdaq.com/articles/luxury-stocks-lead-french-market-decline-amid-multiple-headwinds",
-   "summary": "(RTTNews) - French stocks drifted lower on Tuesday as uncertainty surrounding AI trade, and concerns about renewed civil unrest in France rendered the mood cautious.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-17T11:31:53+00:00",
-   "tickers": []
-  },
-  {
-   "id": "f9664fc1594e",
-   "title": "MINISO Group Holding Limited 2026 Q3 - Results - Earnings Call Presentation",
-   "link": "https://seekingalpha.com/article/4969005-miniso-group-holding-limited-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-17T11:31:49+00:00",
-   "tickers": []
-  },
-  {
-   "id": "db5a43701443",
-   "title": "Brand Engagement Network reports Nasdaq non-compliance on multiple governance rules",
-   "link": "https://www.investing.com/news/sec-filings/brand-engagement-network-reports-nasdaq-noncompliance-on-multiple-governance-rules-93CH-5032372",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-17T11:31:37+00:00",
-   "tickers": [
-    "BNAI",
-    "NDAQ"
-   ]
-  },
-  {
-   "id": "fabb2b973ccb",
-   "title": "Nvidia board rejects calls for Jensen Huang return",
-   "link": "https://biztoc.com/x/604611833546d699?ref=rss",
-   "summary": "Nvidia's board of directors is not considering a return for its former chief executive Jensen Huang, according to a report, despite a growing public campaign advocating for his reinstatement. More than 190,000 individuals have signed a petition calling for Mr Huang to be reinstated following his…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-17T11:31:36+00:00",
-   "tickers": []
-  },
-  {
-   "id": "1818861d5497",
-   "title": "Home Depot taps Richard McPhail as new CEO, reports Q3 earnings beat",
-   "link": "https://biztoc.com/x/10fb6697f5966b8c?ref=rss",
-   "summary": "beat Wall Street's metrics across the board in the third quarter and adjusted its full-year outlook amid a shake-up in its C-suite leadership. The company announced that Richard McPhail, who joined the company in 2005 and currently serves as CFO, will become CEO on Nov. 23. Current CEO Ted Decker…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-11-17T11:31:12+00:00",
-   "tickers": [
-    "HD"
-   ]
-  },
-  {
-   "id": "f847a5de4719",
-   "title": "CoreWeave Answered the Biggest Question About AI Stocks. Now Nvidia Has to Confirm It",
-   "link": "https://biztoc.com/x/c2595e5986fea1f2?ref=rss",
-   "summary": "It's been a rough few weeks for AI stocks. On Nov. 5 alone, the Nasdaq Composite fell 5.5%, which left it about 12% below the record it set in October. AI cloud providers, also known as neoclouds) took some of the worst damage. CoreWeave (NASDAQ:CRWV), Nebius (NASDAQ:NBIS) and Iren (NASDAQ:IREN)…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-17T11:31:09+00:00",
-   "tickers": [
-    "CRWV",
-    "NBIS",
-    "IREN",
-    "NDAQ"
-   ]
-  },
-  {
-   "id": "ea36220c9219",
-   "title": "8-K - Matson, Inc. (0000003453) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/3453/000110465926128804/0001104659-26-128804-index.htm",
-   "summary": "Filed: 2026-11-17 AccNo: 0001104659-26-128804 Size: 2 MB Item 7.01: Regulation FD Disclosure Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-11-17T11:30:34+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d16e925d1dfe",
-   "title": "Investors slashed tech exposure last month, anticipate less capital spending",
-   "link": "https://www.investing.com/news/economy-news/investors-slashed-tech-exposure-last-month-anticipate-less-capital-spending-5032364",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-11-17T11:30:33+00:00",
-   "tickers": []
-  },
-  {
-   "id": "3b2e8bd2b291",
-   "title": "8-K - Walt Disney Co (0001744489) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1744489/000174448926000065/0001744489-26-000065-index.htm",
-   "summary": "Filed: 2026-11-17 AccNo: 0001744489-26-000065 Size: 18 MB Item 2.02: Results of Operations and Financial Condition Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-11-17T11:30:22+00:00",
-   "tickers": [
-    "DIS"
-   ]
-  },
-  {
-   "id": "f7c2177f883a",
-   "title": "Starbucks' Red Cup Day arrives with U.S. comparable sales sizzling again",
-   "link": "https://seekingalpha.com/news/4673100-starbucks-red-cup-day-arrives-with-us-comparable-sales-sizzling-again?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-17T11:30:17+00:00",
-   "tickers": [
-    "SBUX"
-   ]
   }
  ],
  "ticker_names": {
@@ -8934,10 +8914,11 @@
   "AEM": "Agnico Eagle Mines Limited",
   "GEHC": "GE HealthCare Technologies",
   "SLS": "SELLAS Life Sciences Group",
+  "ADP": "Automatic Data Processing",
   "ICE": "Intercontinental Exchange",
   "JEF": "Jefferies Financial Group",
   "APO": "Apollo Global Management",
-  "BNAI": "Brand Engagement Network",
+  "MDGL": "Madrigal Pharmaceuticals",
   "AAOI": "Applied Optoelectronics",
   "BMRN": "BioMarin Pharmaceutical",
   "GS": "The Goldman Sachs Group",
@@ -8950,6 +8931,7 @@
   "BIRK": "Birkenstock Holding",
   "IP": "International Paper",
   "NXST": "Nexstar Media Group",
+  "RNA": "Avidity Biosciences",
   "ROK": "Rockwell Automation",
   "BRK-A": "Berkshire Hathaway",
   "COGT": "Cogent Biosciences",
@@ -8978,6 +8960,7 @@
   "EXP": "Eagle Materials",
   "LNG": "Cheniere Energy",
   "PWR": "Quanta Services",
+  "RRC": "Range Resources",
   "VIK": "Viking Holdings",
   "WDC": "Western Digital",
   "HPQ": "Hewlett-Packard",
@@ -8989,6 +8972,8 @@
   "CB": "Chubb Limited",
   "CSCO": "Cisco Systems",
   "DX": "Dynex Capital",
+  "ESLT": "Elbit Systems",
+  "FNV": "Franco-Nevada",
   "FTAI": "FTAI Aviation",
   "GXO": "GXO Logistics",
   "POST": "Post Holdings",
@@ -8998,7 +8983,6 @@
   "IREN": "IREN Limited",
   "KLAR": "Klarna Group",
   "LRCX": "Lam Research",
-  "NBIS": "Nebius Group",
   "PRMB": "Primo Brands",
   "SPY": "SPDR S&P 500",
   "UBS": "UBS Group AG",
@@ -9006,7 +8990,6 @@
   "GOOGL": "Google Cloud",
   "TSLA": "Supercharger",
   "NVDA": "Grace Hopper",
-  "DUK": "Duke Energy",
   "EQNR": "Equinor ASA",
   "FE": "FirstEnergy",
   "NVS": "Novartis AG",
@@ -9024,20 +9007,19 @@
   "WT": "WisdomTree",
   "MSFT": "Office 365",
   "PARA": "Paramount+",
+  "BAP": "Credicorp",
   "BC": "Brunswick",
   "BLK": "BlackRock",
   "C": "Citigroup",
-  "CRWV": "CoreWeave",
-  "SBUX": "Starbucks",
   "ADBE": "Photoshop",
   "NWSA": "News Corp",
   "AVGO": "Broadcom",
+  "BBY": "Best Buy",
   "BP": "BP p.l.c",
   "CE": "Celanese",
   "COHR": "Coherent",
   "ENB": "Enbridge",
   "EVR": "Evercore",
-  "EXEL": "Exelixis",
   "GME": "GameStop",
   "GOOG": "Alphabet",
   "NI": "NiSource",
@@ -9049,8 +9031,7 @@
   "SNDK": "Sandisk",
   "VTRS": "Viatris",
   "WDAY": "Workday",
-  "NFLX": "Netflix",
-  "INCY": "Incyte",
+  "NIO": "NIO Inc",
   "NDAQ": "Nasdaq",
   "ORCL": "Oracle",
   "SPCX": "SpaceX",
