@@ -1,22 +1,228 @@
 {
- "generated": "2026-11-18T05:43:39.206827+00:00",
+ "generated": "2026-11-18T05:50:19.591768+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "68b2a3fe6815",
+   "title": "Nissan's Hybrid-Only Models to Debut in the US From Next Decade",
+   "link": "https://biztoc.com/x/e9bc44d7f6fe3977?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-18T05:48:48+00:00",
+   "tickers": []
+  },
+  {
+   "id": "03794f51ce54",
+   "title": "Anthropic Crypto Bets Imply $1.7 Trillion Value Despite AI Rout",
+   "link": "https://biztoc.com/x/81d9cdec5ccca1a5?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-18T05:48:33+00:00",
+   "tickers": []
+  },
+  {
+   "id": "2dc205306bcb",
+   "title": "Michael Burry Passed On Nvidia Calls Before Earnings — Here’s What Caught His Eye At Alibaba, Netflix And JD",
+   "link": "https://biztoc.com/x/3721b0815e33af10?ref=rss",
+   "summary": "Michael Burry Passed On Nvidia Calls Before Earnings — Here’s What Caught His Eye At Alibaba, Netflix And JD - Michael Burry passed on Nvidia calls before earnings and held $140 puts expiring in February 2027. - He estimated JD had about $20 per share in net cash and had already added to calls…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-18T05:48:22+00:00",
+   "tickers": [
+    "NFLX"
+   ]
+  },
+  {
+   "id": "ba2bc4d990b4",
+   "title": "Iran attacks Kuwait, Bahrain as Hormuz standoff persists",
+   "link": "https://biztoc.com/x/2d9290a15eea9ab8?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-18T05:48:11+00:00",
+   "tickers": []
+  },
   {
    "id": "854f0fbce886",
    "title": "JPMorgan is working on AI agent transactions that don’t involve humans",
    "link": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
    "summary": "JPMorgan and Hyundai Card are looking to expand the use of AI agents in financial transactions.",
-   "article_text": "JPMorgan is working on AI agent transactions that don’t involve humans Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Key Points JPMorgan and Hyundai Card completed a proof-of-concept in which AI agents carried out simulated foreign exchange transactions without direct human intervention. The companies aim to expand testing in the first half of 2027 to more complex transactions involving multiple AI agents, according to Wee Kee Toh, global head of Kinexys Insights at Kinexys by JP Morgan. JPMorgan says the bigger hurdle is not the technology itself but setting governance and transaction limits before autonomous AI agents can be used commercially. In this article JPM Follow your favorite stocks CREATE FREE ACCOUNT The J.P. Morgan logo sign is seen in New York City, United States, on August 6, 2026. JPMorgan Chase & Co. is a leading American global financial services firm and the largest bank in the United States. (Photo by Marcin Golba/NurPhoto via Getty Images) Nurphoto | Nurphoto | Getty Images Artificial intelligence agents have already proven to be helpful, or cause a lot of trouble, or both. One area seen as high-potential is in payments, where — if they're able to be trusted — the agents could deal with all sorts of money matters on behalf of people. That's why JPMorgan Chase and South Korea's Hyundai Card are testing how AI agents can handle financial transactions without direct human intervention, including whether they can eventually negotiate and make payments with one another. The companies have completed an initial proof-of-concept involving a simulated foreign exchange transaction and are targeting the first half of 2027 for a more complex phase involving multiple AI agents. What happens when agents are negotiating, agreeing directly with each other and then making payments? What does that actually look like? Wee Kee Toh Global Head, Kinexys Insights Wee Kee Toh, global head of Kinexys Insights at Kinexys by JP Morgan, told CNBC that the next step is to test what happens when autonomous agents move beyond execution and begin interacting with each other in an ecosystem. \"That, I would say, is really the biggest part of what we want to get as an expansion of the phase one scope,\" he added. The initial trial involved a Hyundai Card AI agent requesting a foreign exchange transaction to maintain euro liquidity in its Kinexys blockchain deposit account. JPMorgan said it was the first private blockchain-based autonomous bank-agent-to-client-agent test for corporate treasury management. The accountability question While the initial trial has been completed, JPMorgan has yet to set a timeline for commercializing the technology. Toh said building the technology itself was relatively straightforward, but establishing appropriate governance and internal controls proved more difficult. \"Technology-wise, it's really not the biggest hurdle,\" he said, pointing instead to questions around accountability and the risks of allowing AI agents to execute financial transactions without direct human oversight. However, the potential of such agents to change interactions with financial services has to come with equivalent accountability, according to experts. Data management and protection software company AvePoint found in its State of AI 2026 report that unauthorized autonomous agent actions were the third most common AI agent-related security breach, affecting 34.1% of companies that reported such incidents. Those actions included executing transaction and modifying data without approval, though the findings were not isolated to corporate treasury payments. \"When agents negotiate and execute autonomously … governance shifts from monitoring human behavior to monitoring machine-to-machine dependencies,\" said AvePoint CEO Tianyi Jiang. \"The worst-case scenario is a cascading failure where one compromised or hallucinating agent feeds bad data to another, triggering a high-speed chain reaction of flawed financial transfers before a human even realizes it is happening.\" To address such concerns, Kinexys developed a framework that restricts AI agents to predefined transaction parameters, automatically rejecting requests that fall outside authorized limits. \"You are going to draw a box around the agent. The agent will never be able to do anything out of the box,\" Toh said. For example, an AI agent authorized to transact up to $5 million would be blocked from executing transactions above that threshold, he said. Hassan Ahmed, Coinbase's Singapore country director, said safe agentic payments will require clear guardrails, including spending limits, restricted account permissions and explicit authorization requirements. Users should also be able to monitor activity and revoke access at any time, he said, given the potential for AI to create new opportunities for malicious actors. \"While private or permissioned environments may offer additional controls for certain use cases, we should not lose sight of the potential of open blockchain networks to support more accessible, interoperable and efficient financial systems,\" Ahmed said. Beyond the pilot JPMorgan and Hyundai Card are also exploring whether to extend their collaboration to other businesses within Hyundai Motor Group, whose broader operations were one reason the bank selected the credit card company as a partner, Toh said. No specific projects have been announced. Hyundai Motor Group holds a combined 78.04% stake in Hyundai Card through Hyundai Motor, Kia and Hyundai Commercial, according to the card issuer's website . Hyundai Card has previously experimented with blockchain-based cross-border payments. In July, the company said it completed a proof-of-concept involving a $20,000 transfer using the USDT stablecoin between Hyundai Motor's U.S. and Mexican subsidiaries, with the transfer and verification process taking an average of seven minutes. Kinexys has also been expanding its blockchain-based payments business. The JPMorgan unit said in August that it had processed more than $4 trillion in transactions since inception, averaging about $7 billion a day. Separately, JPMorgan launched a proof-of-concept for its dollar-denominated deposit token, JPMD, in June 2025, before making it available to institutional clients that November . Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
+   "article_text": "JPMorgan is working on AI agent transactions that don’t involve humans Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Key Points JPMorgan and Hyundai Card completed a proof-of-concept in which AI agents carried out simulated foreign exchange transactions without direct human intervention. The companies aim to expand testing in the first half of 2027 to more complex transactions involving multiple AI agents, according to Wee Kee Toh, global head of Kinexys Insights at Kinexys by JP Morgan. JPMorgan says the bigger hurdle is not the technology itself but setting governance and transaction limits before autonomous AI agents can be used commercially. In this article JPM Follow your favorite stocks CREATE FREE ACCOUNT The J.P. Morgan logo sign is seen in New York City, United States, on August 6, 2026. JPMorgan Chase & Co. is a leading American global financial services firm and the largest bank in the United States. (Photo by Marcin Golba/NurPhoto via Getty Images) Nurphoto | Nurphoto | Getty Images Artificial intelligence agents have already proven to be helpful, or cause a lot of trouble, or both. One area seen as high-potential is in payments, where — if they're able to be trusted — the agents could deal with all sorts of money matters on behalf of people. That's why JPMorgan Chase and South Korea's Hyundai Card are testing how AI agents can handle financial transactions without direct human intervention, including whether they can eventually negotiate and make payments with one another. The companies have completed an initial proof-of-concept involving a simulated foreign exchange transaction and are targeting the first half of 2027 for a more complex phase involving multiple AI agents. What happens when agents are negotiating, agreeing directly with each other and then making payments? What does that actually look like? Wee Kee Toh Global Head, Kinexys Insights Wee Kee Toh, global head of Kinexys Insights at Kinexys by JP Morgan, told CNBC that the next step is to test what happens when autonomous agents move beyond execution and begin interacting with each other in an ecosystem. \"That, I would say, is really the biggest part of what we want to get as an expansion of the phase one scope,\" he added. The initial trial involved a Hyundai Card AI agent requesting a foreign exchange transaction to maintain euro liquidity in its Kinexys blockchain deposit account. JPMorgan said it was the first private blockchain-based autonomous bank-agent-to-client-agent test for corporate treasury management. The accountability question While the initial trial has been completed, JPMorgan has yet to set a timeline for commercializing the technology. Toh said building the technology itself was relatively straightforward, but establishing appropriate governance and internal controls proved more difficult. \"Technology-wise, it's really not the biggest hurdle,\" he said, pointing instead to questions around accountability and the risks of allowing AI agents to execute financial transactions without direct human oversight. However, the potential of such agents to change interactions with financial services has to come with equivalent accountability, according to experts. Data management and protection software company AvePoint found in its State of AI 2026 report that unauthorized autonomous agent actions were the third most common AI agent-related security breach, affecting 34.1% of companies that reported such incidents. Those actions included executing transaction and modifying data without approval, though the findings were not isolated to corporate treasury payments. \"When agents negotiate and execute autonomously … governance shifts from monitoring human behavior to monitoring machine-to-machine dependencies,\" said AvePoint CEO Tianyi Jiang. Jiang explained that interacting AI agents could amplify errors and trigger transactions before humans can intervene. “The worst-case scenario is a cascading failure where one compromised or hallucinating agent feeds bad data to another,” he said, potentially “triggering a high-speed chain reaction of flawed financial transfers before a human even realizes it is happening.” To address such concerns, Kinexys developed a framework that restricts AI agents to predefined transaction parameters, automatically rejecting requests that fall outside authorized limits. \"You are going to draw a box around the agent. The agent will never be able to do anything out of the box,\" Toh said. For example, an AI agent authorized to transact up to $5 million would be blocked from executing transactions above that threshold, he said. Hassan Ahmed, Coinbase's Singapore country director, said safe agentic payments will require clear guardrails, including spending limits, restricted account permissions and explicit authorization requirements. Users should also be able to monitor activity and revoke access at any time, he said, given the potential for AI to create new opportunities for malicious actors. \"While private or permissioned environments may offer additional controls for certain use cases, we should not lose sight of the potential of open blockchain networks to support more accessible, interoperable and efficient financial systems,\" Ahmed said. Beyond the pilot JPMorgan and Hyundai Card are also exploring whether to extend their collaboration to other businesses within Hyundai Motor Group, whose broader operations were one reason the bank selected the credit card company as a partner, Toh said. No specific projects have been announced. Hyundai Motor Group holds a combined 78.04% stake in Hyundai Card through Hyundai Motor, Kia and Hyundai Commercial, according to the card issuer's website . Hyundai Card has previously experimented with blockchain-based cross-border payments. In July, the company said it completed a proof-of-concept involving a $20,000 transfer using the USDT stablecoin between Hyundai Motor's U.S. and Mexican subsidiaries, with the transfer and verification process taking an average of seven minutes. Kinexys has also been expanding its blockchain-based payments business. The JPMorgan unit said in August that it had processed more than $4 trillion in transactions since inception, averaging about $7 billion a day. Separately, JPMorgan launched a proof-of-concept for its dollar-denominated deposit token, JPMD, in June 2025, before making it available to institutional clients that November . Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
    "source": "CNBC Top",
    "category": "markets",
    "type": "markets",
    "sentiment": "neutral",
    "domain": "cnbc.com",
-   "published": "2026-11-18T05:37:27+00:00",
+   "published": "2026-11-18T05:46:17+00:00",
    "tickers": [
     "JIRE"
+   ]
+  },
+  {
+   "id": "95003e8c312c",
+   "title": "U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud",
+   "link": "https://biztoc.com/x/07d2a3a6a8d8a9db?ref=rss",
+   "summary": "Vercel Security Checkpoint cle1::1794980754-vSVy3GDl2wPquUnxo5lVjKENQlQxe0Wi",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-11-18T05:46:04+00:00",
+   "tickers": []
+  },
+  {
+   "id": "55c2402255ae",
+   "title": "The Trump White House is starting to admit that your bank account and airline tickets are under attack from rogue AI",
+   "link": "https://biztoc.com/x/18f98d58e85de570?ref=rss",
+   "summary": "Homeland Security Secretary Markwayne Mullin went on Fox News Monday night with a theory for the week of breakdowns that grounded flights, knocked out Outlook and slowed Chase accounts: artificial intelligence. The failures came in five days. Microsoft had a worldwide outage on Thursday, Nov. 12,…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-18T05:46:01+00:00",
+   "tickers": [
+    "MSFT",
+    "FOX",
+    "NWSA"
+   ]
+  },
+  {
+   "id": "994e8bca39b7",
+   "title": "TRUSTA Debuts at SuperComputing 2026 with Upgraded AI Scaler Toolkit",
+   "link": "https://www.prnewswire.com/news-releases/trusta-debuts-at-supercomputing-2026-with-upgraded-ai-scaler-toolkit-302943335.html",
+   "summary": "Integrating GPU, DRAM, and SSD Resources to Accelerate Enterprise AI Inference and Deployment TAIPEI, Nov. 18, 2026 /PRNewswire/ -- TRUSTA, the enterprise storage brand of memory leader ADATA, today makes its debut at SuperComputing 2026 (SC26), the world's premier event for...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "positive",
+   "domain": "prnewswire.com",
+   "published": "2026-11-18T05:46:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "802bb303da17",
+   "title": "Ark Invest buys crypto stocks as it sells $85 million in Nvidia, Coinbase brings onchain loans to New York, and more",
+   "link": "https://biztoc.com/x/5d10fff4b3b1c5b9?ref=rss",
+   "summary": "In today's newsletter, Ark Invest buys crypto stocks while selling $85 million in Nvidia; Coinbase expands onchain crypto loans to New York via Morpho; and more.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-18T05:45:55+00:00",
+   "tickers": [
+    "COIN"
+   ]
+  },
+  {
+   "id": "247b8e995cb0",
+   "title": "Cyberattack hits 178 organizations: Credit cards, crypto, other data at risk",
+   "link": "https://biztoc.com/x/fdf1e4b2e9b10b37?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-18T05:45:45+00:00",
+   "tickers": []
+  },
+  {
+   "id": "3f7d4a038fa4",
+   "title": "Nvidia beats forecasts and rules out Huang’s return as CEO",
+   "link": "https://biztoc.com/x/7d085ab8f5d813fb?ref=rss",
+   "summary": "Nvidia reported better-than-expected results, raised its forecast for next fiscal year and said it had no plans to bring back co-founder Jensen Huang as CEO.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-11-18T05:45:45+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e27322d15293",
+   "title": "Anthropic IPO set to redraw venture capital’s power rankings",
+   "link": "https://biztoc.com/x/5270c1f63251a9d4?ref=rss",
+   "summary": "Small group of lesser-known firms primed for returns at multiples that would surpass larger, blue-chip rivals",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "offering",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-18T05:45:44+00:00",
+   "tickers": []
+  },
+  {
+   "id": "728f4f767d64",
+   "title": "Start your subscription today",
+   "link": "https://biztoc.com/x/8d7cc7cf66619628?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-18T05:45:43+00:00",
+   "tickers": []
+  },
+  {
+   "id": "2f5fb98cd072",
+   "title": "Cotton Bounces on Turnaround Tuesday",
+   "link": "https://www.nasdaq.com/articles/cotton-bounces-turnaround-tuesday",
+   "summary": "Cotton futures posted gains of 20 to 48 points across the board on Tuesday, holding early gains into the close. Crude oil was down 11 cents per barrel on the session to $85.61, with the US dollar index $0.020 lower. Crop Progress data showed the US cotton harvest at 77%...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-18T05:39:24+00:00",
+   "tickers": []
+  },
+  {
+   "id": "1c05fe2bae22",
+   "title": "Microsoft Foundry adds Baseten, DeepSeek AI inference",
+   "link": "https://seekingalpha.com/news/4673999-microsoft-foundry-adds-baseten-deepseek-ai-inference?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-18T05:39:09+00:00",
+   "tickers": [
+    "MSFT"
    ]
   },
   {
@@ -299,6 +505,20 @@
    "tickers": []
   },
   {
+   "id": "bb96692d3ab9",
+   "title": "European Shares Set For Softer Open Ahead Of Fed Minutes",
+   "link": "https://www.nasdaq.com/articles/european-shares-set-softer-open-ahead-fed-minutes",
+   "summary": "(RTTNews) - European stocks are seen opening mostly lower on Wednesday as investors await the release of minutes from the Federal Open Market Committee's October meeting later in the day for clues as to whether policymakers are leaning towards another rate increase next month.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-18T05:29:33+00:00",
+   "tickers": []
+  },
+  {
    "id": "8899740535ba",
    "title": "Medline prices 60M share secondary offering at $35.50/share alongside $200M concurrent repurchase",
    "link": "https://seekingalpha.com/news/4673992-medline-prices-60m-share-secondary-offering-at-3550share-alongside-200m-concurrent-repurchase?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -312,6 +532,25 @@
    "published": "2026-11-18T05:27:56+00:00",
    "tickers": [
     "MDLN"
+   ]
+  },
+  {
+   "id": "42c335bb82e0",
+   "title": "Stock Indexes Finish Lower as Tech Stocks Retreat",
+   "link": "https://www.nasdaq.com/articles/stock-indexes-finish-lower-tech-stocks-retreat",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down -1.03% on Tuesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -1.64%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -0.72%. December E-mini S&P futures (ESZ26 ) fell -1.07%, and December E-mini Nasdaq futures...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-11-18T05:25:20+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
    ]
   },
   {
@@ -502,6 +741,22 @@
    "domain": "investing.com",
    "published": "2026-11-18T05:17:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "4ba9391d529f",
+   "title": "Comfort Systems USA Increases Stock Buyback Authorization From 12.75 Mln To 13.43 Mln Shares",
+   "link": "https://www.nasdaq.com/articles/comfort-systems-usa-increases-stock-buyback-authorization-1275-mln-1343-mln-shares",
+   "summary": "(RTTNews) - Comfort Systems USA, Inc. (FIX), a building and service provider, on Tuesday announced that its Board of Directors has increased its stock repurchase program.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-11-18T05:16:51+00:00",
+   "tickers": [
+    "FIX"
+   ]
   },
   {
    "id": "e3665ac34130",
@@ -1517,20 +1772,6 @@
    "tickers": []
   },
   {
-   "id": "2f5fb98cd072",
-   "title": "Cotton Bounces on Turnaround Tuesday",
-   "link": "https://www.nasdaq.com/articles/cotton-bounces-turnaround-tuesday",
-   "summary": "Cotton futures posted gains of 20 to 48 points across the board on Tuesday, holding early gains into the close. Crude oil was down 11 cents per barrel on the session to $85.61, with the US dollar index $0.020 lower. Crop Progress data showed the US cotton harvest at 77%...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-18T04:49:30+00:00",
-   "tickers": []
-  },
-  {
    "id": "8ed35b6104d0",
    "title": "Soybeans Fail to Hold Front Month Gains on Tuesday",
    "link": "https://www.nasdaq.com/articles/soybeans-fail-hold-front-month-gains-tuesday",
@@ -1998,25 +2239,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-11-18T04:37:32+00:00",
    "tickers": []
-  },
-  {
-   "id": "42c335bb82e0",
-   "title": "Stock Indexes Finish Lower as Tech Stocks Retreat",
-   "link": "https://www.nasdaq.com/articles/stock-indexes-finish-lower-tech-stocks-retreat",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down -1.03% on Tuesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -1.64%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -0.72%. December E-mini S&P futures (ESZ26 ) fell -1.07%, and December E-mini Nasdaq futures...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-11-18T04:36:07+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
-   ]
   },
   {
    "id": "8a5e703ca42a",
@@ -8574,231 +8796,6 @@
    "domain": "nasdaq.com",
    "published": "2026-11-18T01:00:18+00:00",
    "tickers": []
-  },
-  {
-   "id": "f0a8fa143e9f",
-   "title": "Nvidia: The $668 Billion Problem Nobody Is Talking About",
-   "link": "https://seekingalpha.com/article/4969357-nvidia-the-668-billion-problem-nobody-is-talking-about?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-18T01:00:03+00:00",
-   "tickers": []
-  },
-  {
-   "id": "70f5c8888eca",
-   "title": "Nvidia Has a $118 Billion Promise Tucked Inside Its Blowout Quarter. Here's What It Means for the Stock",
-   "link": "https://www.nasdaq.com/articles/nvidia-has-118-billion-promise-tucked-inside-its-blowout-quarter-heres-what-it-means-stock",
-   "summary": "Key PointsNvidia's revenue jumped 103% to $115.8 billion, and shares rose about 5% after hours.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-18T01:00:02+00:00",
-   "tickers": []
-  },
-  {
-   "id": "8a7df5b05b62",
-   "title": "Linux Foundation Announces the Open Financial Trust Alliance to Strengthen Coordinated Protection Against Fraud, Scams and Financial Crime",
-   "link": "https://www.prnewswire.com/news-releases/linux-foundation-announces-the-open-financial-trust-alliance-to-strengthen-coordinated-protection-against-fraud-scams-and-financial-crime-302942989.html",
-   "summary": "Global, open, cross-sector alliance connects existing fraud prevention frameworks to enable interoperability Summary On Nov. 18, 2026, the Linux Foundation announced the Open Financial Trust Alliance (OFTA), a global, open, cross-sector alliance developing the technical interoperability...",
-   "article_text": "",
-   "source": "PR Newswire Fin",
-   "category": "press",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "prnewswire.com",
-   "published": "2026-11-18T01:00:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "81ae4e15de79",
-   "title": "Japan exports set record in October on strong chip-related demand",
-   "link": "https://biztoc.com/x/fd4c7db856e8ef2c?ref=rss",
-   "summary": "By Makiko Yamazaki TOKYO, Nov 18 (Reuters) - Japan's exports rose for a 14th successive month in October, government data showed on Wednesday, setting a record monthly value as robust global investment continued to support demand for shipments related to semiconductors. The data highlights the…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-11-18T00:59:48+00:00",
-   "tickers": []
-  },
-  {
-   "id": "87da31f45005",
-   "title": "3 Regional Bank Stocks For Higher Rates In The US",
-   "link": "https://biztoc.com/x/3ec8a234487762f7?ref=rss",
-   "summary": "When a Federal Reserve official talks about \"soon\" rate hikes and a higher path for borrowing costs through 2027, the ripple effects can reshape which stocks quietly gain an edge. Rising real yields can reward some balance sheets while putting others under strain, so sitting on the sidelines can…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-18T00:59:43+00:00",
-   "tickers": []
-  },
-  {
-   "id": "4b83f155dee3",
-   "title": "Q3 Results Meet Growth But Margins Constrain Upside",
-   "link": "https://biztoc.com/x/fcfa4c5c8c80af32?ref=rss",
-   "summary": "Home Depot entered this earnings release priced for resilience, not drama, after a flat few months and a modest 30-day gain of about 9%. Yet the stock dropped about 2.5% on the day as investors reacted to the Q3 2027 report and a premium P/E near 23.8x that already implied high expectations. The…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-18T00:59:42+00:00",
-   "tickers": [
-    "HD"
-   ]
-  },
-  {
-   "id": "118c508f5a95",
-   "title": "DEFSEC TECHNOLOGIES INC. COMMENTS ON NASDAQ NOTIFICATION REGARDING BID PRICE DEFICIENCY AND PROACTIVE STEPS ALREADY TAKEN TO REGAIN AND MAINTAIN COMPLIANCE",
-   "link": "https://biztoc.com/x/811cd5be886e2397?ref=rss",
-   "summary": "OTTAWA, ON, Nov. 17, 2026 /CNW/ -- DEFSEC Technologies Inc. (TSXV: DFSC) (TSXV: DFSC.WT.U) (NASDAQ: DFSC) (NASDAQ: DFSCW) (\"DEFSEC\" or the \"Company\") today announced that it has received a letter (the \"Letter\") from the Nasdaq Listing Qualifications Department (the \"Staff\") notifying the Company…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "analyst",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-18T00:59:37+00:00",
-   "tickers": [
-    "NDAQ",
-    "WT"
-   ]
-  },
-  {
-   "id": "a19dbca129ae",
-   "title": "Billionaire Paul Tudor Jones doubles stake in BlackRock's Bitcoin ETF",
-   "link": "https://biztoc.com/x/00c2be3a419ce5e6?ref=rss",
-   "summary": "Billionaire hedge fund manager Paul Tudor Jones' asset management firm, Tudor Investment Corporation, nearly doubled its stake in the BlackRock Bitcoin ETF (Nasdaq: IBIT) in the third quarter of the year, the Nov. 16 filing with the Securities and Exchange Commission (SEC) shows. Launched in…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-18T00:59:30+00:00",
-   "tickers": [
-    "BLK",
-    "NDAQ",
-    "IBIT"
-   ]
-  },
-  {
-   "id": "17071bcf7701",
-   "title": "CrowdStrike Holdings (CRWD) Lands Frost Radar Honor As New AI Agent Risks Rise",
-   "link": "https://biztoc.com/x/eb47bfb4916d1c7d?ref=rss",
-   "summary": "CrowdStrike Holdings (NasdaqGS:CRWD) was named a Visionary Leader in the 2026 Frost Radar AI Security Operations Centers report. - The report cited CrowdStrike for work on agentic security operations centers and AI driven security tooling. - CrowdStrike introduced Agentic Adversary Emulation, an…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-11-18T00:59:28+00:00",
-   "tickers": [
-    "CRWD"
-   ]
-  },
-  {
-   "id": "115e3d8e7cc7",
-   "title": "Chevron Says AI Has Already Captured Over $100 Million in Value. Here's Where It Might Find an Even Bigger Payoff",
-   "link": "https://biztoc.com/x/3b7352e0d0aa4665?ref=rss",
-   "summary": "To say that artificial intelligence (AI) stocks are prominent and top of mind for many investors is an understatement. Still, hefty market capitalizations and popularity don't always paint the full picture. Sure, plenty of companies and high-ranking executives at those corporations are using AI,…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-18T00:59:26+00:00",
-   "tickers": [
-    "CVX"
-   ]
-  },
-  {
-   "id": "29af85c58ecf",
-   "title": "Service Corporation International: A Great Business At Just An Okay Price That's Worth Buying",
-   "link": "https://seekingalpha.com/article/4969358-service-corporation-international-stock-great-business-okay-price-worth-buying?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-18T00:58:40+00:00",
-   "tickers": [
-    "SCI"
-   ]
-  },
-  {
-   "id": "603acfbf1bd2",
-   "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
-   "link": "https://biztoc.com/x/cf798653b016d680?ref=rss",
-   "summary": "Nvidia will no longer sell its H200 chips in China, acting CEO Colette Kress said Tuesday, ending the company’s participation in a controversial loophole in the U.S. ban on the sale of advanced chips to the country. China’s access to leading AI accelerators was an important topic during the…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-18T00:57:30+00:00",
-   "tickers": []
-  },
-  {
-   "id": "f17094453da5",
-   "title": "Nvidia says it does not intend to reinstate Jensen Huang as CEO",
-   "link": "https://biztoc.com/x/b160741fea33b3da?ref=rss",
-   "summary": "Starting Nvidia’s quarterly earnings call on Tuesday, new board chair Harvey Jones said that when former CEO Jensen Huang resigned, “the Nvidia board unanimously accepted his resignation and does not intend to reinstate Jensen as CEO.” Nvidia says it does not intend to reinstate Jensen Huang as…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-18T00:57:29+00:00",
-   "tickers": []
-  },
-  {
-   "id": "97dd06be31da",
-   "title": "A.I. Helps Find Major Security Bug in Java, a Software Platform Vital to the Internet",
-   "link": "https://biztoc.com/x/f160d6fc518e2fa5?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-18T00:57:26+00:00",
-   "tickers": []
-  },
-  {
-   "id": "01996195dc7d",
-   "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
-   "link": "https://biztoc.com/x/e41809dcf9615510?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-18T00:57:26+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8813,7 +8810,6 @@
   "WST": "West Pharmaceutical Services",
   "QQQ": "Invesco QQQ Trust, Series 1",
   "AMC": "AMC Entertainment Holdings",
-  "IBIT": "iShares Bitcoin Trust ETF",
   "ICE": "Intercontinental Exchange",
   "JEF": "Jefferies Financial Group",
   "ODFL": "Old Dominion Freight Line",
@@ -8885,12 +8881,10 @@
   "CRM": "Salesforce",
   "F": "Ford Motor",
   "RIG": "Transocean",
-  "WT": "WisdomTree",
   "MSFT": "Office 365",
   "DE": "John Deere",
   "PARA": "Paramount+",
   "BC": "Brunswick",
-  "BLK": "BlackRock",
   "C": "Citigroup",
   "CRWV": "CoreWeave",
   "OS": "OneStream",
@@ -8903,12 +8897,12 @@
   "AES": "The AES",
   "BLSH": "Bullish",
   "CNC": "Centene",
-  "CVX": "Chevron",
   "HUBB": "Hubbell",
   "IVZ": "Invesco",
   "MDLN": "Medline",
   "NOVT": "Novanta",
   "SCI": "Service",
+  "NFLX": "Netflix",
   "ECL": "Ecolab",
   "MTZ": "MasTec",
   "NDAQ": "Nasdaq",
