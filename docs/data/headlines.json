@@ -1,8 +1,38 @@
 {
- "generated": "2026-11-18T04:40:28.010982+00:00",
+ "generated": "2026-11-18T04:46:19.548248+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "27dfe67c51f7",
+   "title": "'Who and what comes next': Analysts expect Nvidia investor uncertainty despite earnings beat",
+   "link": "https://www.cnbc.com/2026/11/18/nvidia-earnings-market-analysis.html",
+   "summary": "Nvidia’s Q3 results should help ease short-term concerns, but uncertainty remains around long-term leadership.",
+   "article_text": "",
+   "source": "CNBC Earnings",
+   "category": "earnings",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "cnbc.com",
+   "published": "2026-11-18T04:40:29+00:00",
+   "tickers": []
+  },
+  {
+   "id": "fc60bf054851",
+   "title": "APA Corporation: The Market Is Still Underestimating Its Improving Fundamentals (Rating Downgrade)",
+   "link": "https://seekingalpha.com/article/4969381-apa-corporation-stock-market-still-underestimating-its-improving-fundamentals?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-18T04:39:37+00:00",
+   "tickers": [
+    "APA"
+   ]
+  },
   {
    "id": "35ee0c52cc2c",
    "title": "Medline's Backers Raise $2.1 Billion in Stock Offering",
@@ -31,6 +61,67 @@
    "sentiment": "neutral",
    "domain": "biztoc.com",
    "published": "2026-11-18T04:37:48+00:00",
+   "tickers": []
+  },
+  {
+   "id": "6d4983bdc491",
+   "title": "W.T.B. Financial Corporation declares $1.85 dividend",
+   "link": "https://seekingalpha.com/news/4673990-w-t-b-financial-corporation-declares-1_85-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-18T04:37:45+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c90bf2602aa5",
+   "title": "W.T.B. Financial declares $1.85 dividend",
+   "link": "https://seekingalpha.com/news/4673989-w-t-b-financial-declares-1_85-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-18T04:37:32+00:00",
+   "tickers": []
+  },
+  {
+   "id": "42c335bb82e0",
+   "title": "Stock Indexes Finish Lower as Tech Stocks Retreat",
+   "link": "https://www.nasdaq.com/articles/stock-indexes-finish-lower-tech-stocks-retreat",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down -1.03% on Tuesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -1.64%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -0.72%. December E-mini S&P futures (ESZ26 ) fell -1.07%, and December E-mini Nasdaq futures...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-11-18T04:36:07+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
+  },
+  {
+   "id": "2f5fb98cd072",
+   "title": "Cotton Bounces on Turnaround Tuesday",
+   "link": "https://www.nasdaq.com/articles/cotton-bounces-turnaround-tuesday",
+   "summary": "Cotton futures posted gains of 20 to 48 points across the board on Tuesday, holding early gains into the close. Crude oil was down 11 cents per barrel on the session to $85.61, with the US dollar index $0.020 lower. Crop Progress data showed the US cotton harvest at 77%...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-18T04:36:07+00:00",
    "tickers": []
   },
   {
@@ -230,25 +321,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-11-18T04:26:36+00:00",
    "tickers": []
-  },
-  {
-   "id": "42c335bb82e0",
-   "title": "Stock Indexes Finish Lower as Tech Stocks Retreat",
-   "link": "https://www.nasdaq.com/articles/stock-indexes-finish-lower-tech-stocks-retreat",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down -1.03% on Tuesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -1.64%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -0.72%. December E-mini S&P futures (ESZ26 ) fell -1.07%, and December E-mini Nasdaq futures...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-11-18T04:25:46+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
-   ]
   },
   {
    "id": "5030b1c35cb0",
@@ -691,20 +763,6 @@
    "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-11-18T04:05:10+00:00",
-   "tickers": []
-  },
-  {
-   "id": "27dfe67c51f7",
-   "title": "'Who and what comes next': Analysts expect Nvidia investor uncertainty despite earnings beat",
-   "link": "https://www.cnbc.com/2026/11/18/nvidia-earnings-market-analysis.html",
-   "summary": "Nvidia’s Q3 results should help ease short-term concerns, but uncertainty remains around long-term leadership.",
-   "article_text": "",
-   "source": "CNBC Earnings",
-   "category": "earnings",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "cnbc.com",
-   "published": "2026-11-18T04:04:26+00:00",
    "tickers": []
   },
   {
@@ -1246,20 +1304,6 @@
    "sentiment": "neutral",
    "domain": "biztoc.com",
    "published": "2026-11-18T03:43:53+00:00",
-   "tickers": []
-  },
-  {
-   "id": "2f5fb98cd072",
-   "title": "Cotton Bounces on Turnaround Tuesday",
-   "link": "https://www.nasdaq.com/articles/cotton-bounces-turnaround-tuesday",
-   "summary": "Cotton futures posted gains of 20 to 48 points across the board on Tuesday, holding early gains into the close. Crude oil was down 11 cents per barrel on the session to $85.61, with the US dollar index $0.020 lower. Crop Progress data showed the US cotton harvest at 77%...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-18T03:42:46+00:00",
    "tickers": []
   },
   {
@@ -8774,50 +8818,6 @@
    "domain": "nasdaq.com",
    "published": "2026-11-18T00:00:52+00:00",
    "tickers": []
-  },
-  {
-   "id": "0a937f9fb7b3",
-   "title": "Boston Scientific Corporation Approves 2027 Executive Compensation Plans and Appoints David S. Wichmann as Lead Independent Director",
-   "link": "https://www.nasdaq.com/articles/boston-scientific-corporation-approves-2027-executive-compensation-plans-and-appoints",
-   "summary": "On November 17, 2026, the Board of Directors of Boston Scientific Corporation approved the Company’s 2027 Annual Bonus Plan, effective for the performance year of January 1, 2027 through December 31, 2027. The plan provides an annual cash incentive opportunity for eligible",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-11-18T00:00:51+00:00",
-   "tickers": [
-    "BSX"
-   ]
-  },
-  {
-   "id": "635a4f99a9d6",
-   "title": "Nvidia: The Numbers Are Screaming - The Market Isn't Listening",
-   "link": "https://seekingalpha.com/article/4969338-nvidia-the-numbers-are-screaming-the-market-isnt-listening?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-18T00:00:30+00:00",
-   "tickers": []
-  },
-  {
-   "id": "a067fcc2695d",
-   "title": "Singapore Stock Market May Open Under Pressure On Wednesday",
-   "link": "https://www.nasdaq.com/articles/singapore-stock-market-may-open-under-pressure-wednesday",
-   "summary": "(RTTNews) - The Singapore stock market has moved lower in four straight sessions, retreating more than 175 points or 3.4 percent along the way. The Straits Times Index now sits just above the 5,100-point plateau and it may spin its wheels again on Wednesday.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-18T00:00:20+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8857,7 +8857,6 @@
   "ZM": "Zoom Communications",
   "MRVL": "Marvell Technology",
   "AUR": "Aurora Innovation",
-  "BSX": "Boston Scientific",
   "CG": "The Carlyle Group",
   "FLY": "Firefly Aerospace",
   "RIVN": "Rivian Automotive",
