@@ -1,8 +1,52 @@
 {
- "generated": "2026-11-18T07:38:25.134145+00:00",
+ "generated": "2026-11-18T07:44:10.728640+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "8021797556d1",
+   "title": "Stock futures rise as Nvidia gains on earnings beat and solid outlook: Live updates",
+   "link": "https://www.cnbc.com/2026/11/17/stock-market-today-live-updates.html",
+   "summary": "Nvidia shares rose in extended trading after the company’s first earnings report since co-founder Jensen Huang resigned last week.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "cnbc.com",
+   "published": "2026-11-18T07:41:03+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ac7880ca5d08",
+   "title": "TSMC: The Biggest Loser From The Nvidia Debacle (Rating Downgrade)",
+   "link": "https://seekingalpha.com/article/4969424-tsmc-the-biggest-loser-from-the-nvidia-debacle?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-18T07:38:42+00:00",
+   "tickers": [
+    "TSM"
+   ]
+  },
+  {
+   "id": "4b17a2fc6715",
+   "title": "Record high diesel prices drive UK inflation to 1-year high of 3.6%",
+   "link": "https://www.cnbc.com/2026/11/18/uk-inflation-cpi-fuel-prices.html",
+   "summary": "It put the U.K.'s annual inflation rate at a 1-year high.",
+   "article_text": "",
+   "source": "CNBC Economy",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "positive",
+   "domain": "cnbc.com",
+   "published": "2026-11-18T07:35:18+00:00",
+   "tickers": []
+  },
   {
    "id": "ad346db2d600",
    "title": "Microsoft says its new AI coding model rivals Claude Opus 5.5 at 5% of the cost",
@@ -1003,20 +1047,6 @@
    "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-11-18T07:08:46+00:00",
-   "tickers": []
-  },
-  {
-   "id": "8021797556d1",
-   "title": "Stock futures rise as Nvidia gains on earnings beat and solid outlook: Live updates",
-   "link": "https://www.cnbc.com/2026/11/17/stock-market-today-live-updates.html",
-   "summary": "Nvidia shares rose in extended trading after the company’s first earnings report since co-founder Jensen Huang resigned last week.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "cnbc.com",
-   "published": "2026-11-18T07:07:49+00:00",
    "tickers": []
   },
   {
@@ -8735,34 +8765,6 @@
    "sentiment": "neutral",
    "domain": "biztoc.com",
    "published": "2026-11-18T02:48:12+00:00",
-   "tickers": []
-  },
-  {
-   "id": "df941b9fe029",
-   "title": "‘Primary expectations’ for lower expectations for Nvidia is China share of business: D.A. Davidson",
-   "link": "https://biztoc.com/x/51ba73a11e4b724e?ref=rss",
-   "summary": "Gil Luria, managing director at D.A. Davidson, told CNBC that Jensen Huang's departure is only a secondary factor in the lowering ...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-11-18T02:48:06+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6dc3aaf5ff49",
-   "title": "Markwayne Mullin took government jet to LSU-Texas game amid travel mess",
-   "link": "https://biztoc.com/x/3e36986693fe0893?ref=rss",
-   "summary": "While the rest of America was dealing with the fallout from thousands of grounded planes DHS Secretary Markwayne Mullin took a ...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-18T02:48:02+00:00",
    "tickers": []
   }
  ],
