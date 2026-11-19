@@ -1,8 +1,36 @@
 {
- "generated": "2026-11-19T09:51:28.441285+00:00",
+ "generated": "2026-11-19T09:57:47.064559+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "8d6a398153b1",
+   "title": "Tokio Marine Holdings reports 1H results",
+   "link": "https://seekingalpha.com/news/4674590-tokio-marine-holdings-reports-1h-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-19T09:54:23+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b8ff065a4e1f",
+   "title": "Transaction in Own Shares",
+   "link": "https://www.globenewswire.com/news-release/2026/11/19/3406359/0/en/transaction-in-own-shares.html",
+   "summary": "",
+   "article_text": "",
+   "source": "GlobeNewswire",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "globenewswire.com",
+   "published": "2026-11-19T09:54:00+00:00",
+   "tickers": []
+  },
   {
    "id": "b78affa842bd",
    "title": "Form 8.5 (EPT/RI)-Logistics Development Group plc",
@@ -17,6 +45,22 @@
    "published": "2026-11-19T09:48:00+00:00",
    "tickers": [
     "FORM"
+   ]
+  },
+  {
+   "id": "7e3bafefbb2a",
+   "title": "Texas Roadhouse: Delivered The Beef But There's One Catch (Rating Downgrade)",
+   "link": "https://seekingalpha.com/article/4969996-texas-roadhouse-stock-delivered-beef-but-theres-one-catch-rating-downgrade?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-19T09:47:46+00:00",
+   "tickers": [
+    "TXRH"
    ]
   },
   {
@@ -8729,50 +8773,6 @@
     "NYT",
     "SPCX"
    ]
-  },
-  {
-   "id": "2b31afbedad9",
-   "title": "Russia: 53 Ukrainian drones downed overnight",
-   "link": "https://biztoc.com/x/35c21a187c56f658?ref=rss",
-   "summary": "More to come......",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-19T06:10:19+00:00",
-   "tickers": []
-  },
-  {
-   "id": "78067774659b",
-   "title": "Lyft Sees Strong Start to Quarter as Rider Incentives Pay Off, but CEO Urges Caution",
-   "link": "https://biztoc.com/x/643e168811e1bf11?ref=rss",
-   "summary": "Key Points - Interested in Lyft, Inc.? Here are five stocks we like better. - Lyft's quarter is off to a stronger-than-expected start as rider incentives bring customers back, but CEO David Risher cautioned investors not to revise forecasts based on early results because conditions can change. -…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-11-19T06:10:19+00:00",
-   "tickers": [
-    "LYFT"
-   ]
-  },
-  {
-   "id": "f6d254533b00",
-   "title": "Donald Trump’s Nuclear Dream Plays Right Into China’s Hands",
-   "link": "https://biztoc.com/x/cddeda410aca90a3?ref=rss",
-   "summary": "Donald Trump has convinced his Chinese counterpart to hear a new grand bargain that could include limits on strategic weapons, but the U.S. president’s obsession with a peace prize-worthy nuclear treaty could be a boon to Xi Jinping instead. Trump and Xi are meeting with Russian leader Vladimir…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-19T06:10:09+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8822,6 +8822,7 @@
   "D": "Dominion Energy",
   "EXP": "Eagle Materials",
   "RRC": "Range Resources",
+  "TXRH": "Texas Roadhouse",
   "GM": "General Motors",
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
@@ -8892,7 +8893,6 @@
   "KKR": "KKR &",
   "LIN": "Linde",
   "MAS": "Masco",
-  "IONQ": "IonQ",
-  "LYFT": "Lyft"
+  "IONQ": "IonQ"
  }
 }
