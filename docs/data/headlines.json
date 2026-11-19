@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-19T23:06:45.240769+00:00",
+ "generated": "2026-11-19T23:14:02.336763+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
   {
    "id": "9f3ae3a7636a",
-   "title": "California AG issues subpoena to Nvidia in probe of China chips",
+   "title": "California attorney general issues Nvidia subpoena in probe of China chip diversion",
    "link": "https://www.cnbc.com/2026/11/19/nvidia-california-bonta-subpoena-china-chips.html",
    "summary": "The investigation by California Attorney General Rob Bonta comes on the heels of the resignation of Nvidia CEO Jensen Huang.",
    "article_text": "",
@@ -14,7 +14,589 @@
    "type": "legal",
    "sentiment": "negative",
    "domain": "cnbc.com",
-   "published": "2026-11-19T23:04:13+00:00",
+   "published": "2026-11-19T23:12:19+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c589d2281a3e",
+   "title": "IDEX Corporation (IEX) Presents at Baird 2026 Global Industrial Conference 2026 - Slideshow",
+   "link": "https://seekingalpha.com/article/4970356-idex-corporation-iex-presents-at-baird-2026-global-industrial-conference-2026-slideshow?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-19T23:10:02+00:00",
+   "tickers": [
+    "IEX"
+   ]
+  },
+  {
+   "id": "eb376d9ab770",
+   "title": "Cotton Claw Some Gains Back on Thursday",
+   "link": "https://biztoc.com/x/c9a7060f054ee231?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-11-19T23:10:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "7334b2d67482",
+   "title": "Eagles' Vic Fangio Admits Jordan Davis Trade Was Difficult on a Personal Level",
+   "link": "https://biztoc.com/x/1d5875873493f832?ref=rss",
+   "summary": "The Philadelphia Eagles sent defensive tackle Jordan Davis to the Jacksonville Jaguars before the 2026 trade deadline, landing a 2027 first-round pick and a 2029 second-round pick in return. Davis was beloved by his Philadelphia teammates, the coaching staff and the Eagles fanbase. And when…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-19T23:09:57+00:00",
+   "tickers": []
+  },
+  {
+   "id": "af0511a2707f",
+   "title": "HSBC Just Turned Bullish on Cisco Stock Again. Here’s Why It Expects 40% Upside",
+   "link": "https://biztoc.com/x/6ac00c5855223fe8?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-19T23:09:56+00:00",
+   "tickers": [
+    "HSBC",
+    "BLSH",
+    "CSCO"
+   ]
+  },
+  {
+   "id": "c82eb90a7747",
+   "title": "These Bay Area investors are reaping the rewards of Anthropic's record-breaking IPO",
+   "link": "https://biztoc.com/x/2ee23f56c33f2831?ref=rss",
+   "summary": "The San Francisco AI lab's IPO has minted a new class of millionaires and sent early investors' stakes soaring in value.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "offering",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-19T23:09:56+00:00",
+   "tickers": []
+  },
+  {
+   "id": "923b09fc13e8",
+   "title": "SpaceX Stock Is Down Nearly 40% from Its Post-IPO Highs but Nvidia Is Still Loading Up",
+   "link": "https://biztoc.com/x/b9523b4cb496d1ff?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "offering",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-19T23:09:53+00:00",
+   "tickers": [
+    "SPCX",
+    "POST"
+   ]
+  },
+  {
+   "id": "5aeb6de47636",
+   "title": "Hog Bulls Post Strength on Thursday",
+   "link": "https://biztoc.com/x/25d654e20b03ebd1?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-19T23:09:53+00:00",
+   "tickers": [
+    "POST"
+   ]
+  },
+  {
+   "id": "5b5423910270",
+   "title": "Soybeans Fade Lower on Thursday",
+   "link": "https://biztoc.com/x/18849857a1a20adb?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-11-19T23:09:53+00:00",
+   "tickers": []
+  },
+  {
+   "id": "9c4b71e6ac1e",
+   "title": "Wheat Rally Back on Thursday",
+   "link": "https://biztoc.com/x/62c6cdb8d95c4a9c?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-11-19T23:09:50+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f6996dc89e83",
+   "title": "US panel warns of China’s biotech rise, fuelling push to curb ties as Chinese firms unfazed",
+   "link": "https://biztoc.com/x/de5390823d45b67f?ref=rss",
+   "summary": "Fresh warnings from a US congressional advisory body about the rapid rise of China’s biopharmaceutical sector are fuelling Washington’s push to curb cross-border ties, analysts said, though China’s industry appears largely unfazed. China was gaining a “competitive advantage” in biopharmaceuticals,…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-19T23:09:42+00:00",
+   "tickers": []
+  },
+  {
+   "id": "118f2e121fb0",
+   "title": "Biglaw Firm Announces Yet Another Below-Market Compensation Package For Associates",
+   "link": "https://biztoc.com/x/2543ce531e8b3699?ref=rss",
+   "summary": "Milbank announced its raises back in June. The firm then announced special bonuses in July. Cravath took five months to confirm those raises and one-up the special bonuses. Though a few Biglaw firms braved the wild to match without Cravath’s approval, the majority of Biglaw firms are finally…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-19T23:09:38+00:00",
+   "tickers": []
+  },
+  {
+   "id": "6dda78340c92",
+   "title": "151 humanoid robots dance in sync to break Guinness World Record",
+   "link": "https://biztoc.com/x/13ddaf8912821894?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-19T23:09:37+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e0c171230500",
+   "title": "Video How Anthropic grew into a trillion-dollar firm 3:41",
+   "link": "https://biztoc.com/x/aaf237cdd9d1da1c?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-19T23:09:37+00:00",
+   "tickers": []
+  },
+  {
+   "id": "91b0d814d1fb",
+   "title": "AI Investors May Want to Wait For Anthropic Dust to Settle",
+   "link": "https://biztoc.com/x/d020c8b965c37d88?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-19T23:09:36+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f9dd8a9d8f82",
+   "title": "3 takeaways from Trump, Xi and Putin's historic summit",
+   "link": "https://biztoc.com/x/d3ed195e981618c2?ref=rss",
+   "summary": "The meeting between U.S. President Donald Trump, China's Xi Jinping and Russia's Vladimir Putin on Thursday was the first-ever sit-down for the leaders of the three countries.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-19T23:09:35+00:00",
+   "tickers": []
+  },
+  {
+   "id": "95ccb11d4578",
+   "title": "A fight over chips is roiling Donald Trump’s cabinet",
+   "link": "https://biztoc.com/x/9f4f4e177b7e6b28?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-19T23:09:33+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f0856d9e7386",
+   "title": "Microreactor maker Radiant commits $100M to El Segundo HQ expansion",
+   "link": "https://biztoc.com/x/c914f69d5e91d6ea?ref=rss",
+   "summary": "The company is opening a new facility to expand its headquarters in El Segundo. Radiant is on contract to deliver about two dozen reactors over the next three years to the U.S. military.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-19T23:09:33+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ccc5cc565602",
+   "title": "Corn Holds on to Thursday Gains",
+   "link": "https://biztoc.com/x/e80d132cff6c564b?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-11-19T23:09:32+00:00",
+   "tickers": []
+  },
+  {
+   "id": "325c0b7f7ba4",
+   "title": "Cattle Rally Higher on Thursday, as Cash Remains Slow",
+   "link": "https://biztoc.com/x/fb2dd0a1fcadaf97?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-11-19T23:09:31+00:00",
+   "tickers": []
+  },
+  {
+   "id": "8b1eee74b2bd",
+   "title": "California attorney general issues Nvidia subpoena in probe of China chip diversion",
+   "link": "https://biztoc.com/x/9f9aeff8f0c3df82?ref=rss",
+   "summary": "California Attorney General Rob Bonta has issued an investigative subpoena to Nvidia as part of a probe of whether the company's advanced semiconductor chips ended up in China in contravention of U.S. export restrictions, his office said Thursday. The probe comes a week after Nvidia CEO Jensen…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-11-19T23:09:29+00:00",
+   "tickers": []
+  },
+  {
+   "id": "288d05117ce7",
+   "title": "Suze Orman Says Good Intentions Don’t Fund Your Retirement. Here’s What Does",
+   "link": "https://biztoc.com/x/0b9b8089c1fc5a1b?ref=rss",
+   "summary": "The post Suze Orman Says Good Intentions Don’t Fund Your Retirement. Here’s What Does appeared first on 24/7 Wall St.. Suze Orman, the longtime personal finance broadcaster, fit an entire retirement plan into three sentences on the “Classic Suze School: The Richest Advice Ever” episode of her…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-19T23:09:29+00:00",
+   "tickers": []
+  },
+  {
+   "id": "da77aaaba76e",
+   "title": "He Holds $1 Million of Stock in His 401(k) and Expects His Kids to Inherit It Tax-Free. The Step-Up Covers Only Taxable Accounts, Leaving Them Income Tax on Every Dollar",
+   "link": "https://biztoc.com/x/bc026d07ceedff1f?ref=rss",
+   "summary": "The post He Holds $1 Million of Stock in His 401(k) and Expects His Kids to Inherit It Tax-Free. The Step-Up Covers Only Taxable Accounts, Leaving Them Income Tax on Every Dollar appeared first on 24/7 Wall St.. A 70-year-old has $1 million in his traditional 401(k), nearly all of it in stock…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-19T23:09:29+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f728f4c57a80",
+   "title": "He Retires at 53 on a Decade of AI-Stock Gains and Starts Fixed IRA Withdrawals of $40,000 a Year. Changing the Schedule Before 59½ Triggers a 10% Penalty on Every Past Withdrawal",
+   "link": "https://biztoc.com/x/bc0d0c7174118092?ref=rss",
+   "summary": "The post He Retires at 53 on a Decade of AI-Stock Gains and Starts Fixed IRA Withdrawals of $40,000 a Year. Changing the Schedule Before 59½ Triggers a 10% Penalty on Every Past Withdrawal appeared first on 24/7 Wall St.. A 53-year-old leaves his job after a decade of AI-stock gains. He rolls his…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-11-19T23:09:28+00:00",
+   "tickers": []
+  },
+  {
+   "id": "4fa762652e95",
+   "title": "Two 68-Year-Old Neighbors With Diabetes Leave Medicare Advantage by Dec. 7. His Plan Is Closing, So Medigap Must Take Him. She’s Leaving by Choice, So a Medigap Insurer Can Turn Her Down",
+   "link": "https://biztoc.com/x/9941c9619666d338?ref=rss",
+   "summary": "The post Two 68-Year-Old Neighbors With Diabetes Leave Medicare Advantage by Dec. 7. His Plan Is Closing, So Medigap Must Take Him. She’s Leaving by Choice, So a Medigap Insurer Can Turn Her Down appeared first on 24/7 Wall St.. Two neighbors on the same street are both 68, both manage type 2…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-19T23:09:25+00:00",
+   "tickers": [
+    "CHH"
+   ]
+  },
+  {
+   "id": "dbde1f0bc275",
+   "title": "Anthropic Founders' Lock-Up Restrictions and Future AI Trade",
+   "link": "https://biztoc.com/x/74aa43fdb8d08f07?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-19T23:09:23+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c71a63b0e6bb",
+   "title": "Gap Struggles With Slow Start to Holiday Quarter and Cuts Outlook",
+   "link": "https://biztoc.com/x/78a4a07ec89b8911?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-11-19T23:09:22+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c4e1490bccc8",
+   "title": "Taiwan Strangles The Shorts After The Taiex Loses 5,000 Points In Three Days",
+   "link": "https://biztoc.com/x/49d7b1ce2d08e2b0?ref=rss",
+   "summary": "Taiwan Strangles The Shorts After The Taiex Loses 5,000 Points In Three Days Regulators don't cut a short-selling quota twice in two weeks because the first cut worked. On Thursday, hours after the Taiex plunged 1,768 points or 4.4% to 38,426.89, and the small-cap TPEx crashed 7.2% with more…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-19T23:09:18+00:00",
+   "tickers": []
+  },
+  {
+   "id": "62a6348ac295",
+   "title": "Carney Wireless Comments Stoke Speculation About Telus Merger Approval",
+   "link": "https://biztoc.com/x/4529e55086481219?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-19T23:09:17+00:00",
+   "tickers": []
+  },
+  {
+   "id": "8aee071ebd12",
+   "title": "Procter & Gamble’s Job Cuts Come as Earnings Growth Gets Harder to Come By",
+   "link": "https://biztoc.com/x/1bd560d0533470a9?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-11-19T23:09:13+00:00",
+   "tickers": [
+    "PG"
+   ]
+  },
+  {
+   "id": "16ba04d1780b",
+   "title": "Prosecutor declines to charge Wisconsin officer who fatally shot Black man in Madison",
+   "link": "https://biztoc.com/x/05a9bf29ccd3b7f9?ref=rss",
+   "summary": "The Wisconsin police officer who shot and killed a 38-year-old Black man in Madison in July will not face criminal charges, a prosecutor announced Thursday, sparking calls for justice from the victim's family members and community advocates.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-11-19T23:09:13+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e51f98d6ca01",
+   "title": "Trump Pardons Pete Rose as Garcia Calls Biden’s Pardons a ‘Mistake’",
+   "link": "https://biztoc.com/x/531621017b4c2015?ref=rss",
+   "summary": "President Donald Trump has granted a pardon to the late baseball star Pete Rose, he announced on Truth Social on Thursday, the same day Representative Robert Garcia called former President Joe Biden's grants a mistake. Rose, baseball’s career hits leader who died in 2024, pleaded guilty in 1990 to…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-11-19T23:09:10+00:00",
+   "tickers": []
+  },
+  {
+   "id": "59cd41c440f7",
+   "title": "RADIN Health Unveils RADINA™, the Autonomous AI Ecosystem for Imaging, at RSNA 2026",
+   "link": "https://www.prnewswire.com/news-releases/radin-health-unveils-radina-the-autonomous-ai-ecosystem-for-imaging-at-rsna-2026-302946222.html",
+   "summary": "One autonomous AI platform guiding every patient from referral to follow-up, automating repetitive work, connecting workflows, and helping imaging organizations scale without adding administrative complexity. SHERIDAN, Wyo., Nov. 19, 2026 /PRNewswire/ -- RADIN Health today announced...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-11-19T23:09:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "7ee1d7844b26",
+   "title": "Sime Darby Berhad (SMEBF) Shareholder/Analyst Call - Slideshow",
+   "link": "https://seekingalpha.com/article/4970355-sime-darby-berhad-smebf-shareholder-analyst-call-slideshow?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-19T23:08:52+00:00",
+   "tickers": []
+  },
+  {
+   "id": "0fc21ab861f1",
+   "title": "Sime Darby Berhad (SMEBF) Shareholder/Analyst Call - Slideshow",
+   "link": "https://seekingalpha.com/article/4970354-sime-darby-berhad-smebf-shareholder-analyst-call-slideshow?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-19T23:08:14+00:00",
+   "tickers": []
+  },
+  {
+   "id": "aaaf1c3e3cae",
+   "title": "TPG, Corpay to take BILL private in $6B acquisition",
+   "link": "https://seekingalpha.com/news/4674988-tpg-corpay-to-take-bill-private-in-6b-acquisition?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-19T23:08:04+00:00",
+   "tickers": [
+    "BILL",
+    "CPAY",
+    "TPG"
+   ]
+  },
+  {
+   "id": "830d638c8c8c",
+   "title": "Infineon Technologies AG 2026 Q4 - Results - Earnings Call Presentation",
+   "link": "https://seekingalpha.com/article/4970353-infineon-technologies-ag-2026-q4-results-earnings-call-presentation?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-19T23:06:38+00:00",
+   "tickers": []
+  },
+  {
+   "id": "2b70d5644848",
+   "title": "Autolus Therapeutics plc 2026 Q3 - Results - Earnings Call Presentation",
+   "link": "https://seekingalpha.com/article/4970351-autolus-therapeutics-plc-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-19T23:05:30+00:00",
+   "tickers": []
+  },
+  {
+   "id": "387b4fd3299c",
+   "title": "Revolution Medicines Presents Updated Phase 1/2 Data for RASONQUE® (daraxonrasib) Plus Chemotherapy in First-Line Metastatic Pancreatic Cancer at ENA 2026",
+   "link": "https://www.globenewswire.com/news-release/2026/11/19/3407195/0/en/revolution-medicines-presents-updated-phase-1-2-data-for-rasonque-daraxonrasib-plus-chemotherapy-in-first-line-metastatic-pancreatic-cancer-at-ena-2026.html",
+   "summary": "REDWOOD CITY, Calif., Nov. 19, 2026 (GLOBE NEWSWIRE) -- Revolution Medicines, Inc. (Nasdaq: RVMD), a global, commercial-stage oncology company dedicated to discovering, developing and delivering innovative medicines for patients with RAS-addicted cancers, today announced encouraging updated results from the Phase 1/2 RMC-GI-102 open-label study evaluating RASONQUE (daraxonrasib) in combination with gemcitabine and nab-paclitaxel (GnP) as a potential first-line treatment for patients with metastatic pancreatic adenocarcinoma (PDAC). The data will be presented today during a late-breaking oral session at the EORTC-NCI-AACR (ENA) Symposium on Molecular Targets and Cancer Therapeutics in Barcelona, Spain.",
+   "article_text": "",
+   "source": "GlobeNewswire",
+   "category": "press",
+   "type": "fda",
+   "sentiment": "neutral",
+   "domain": "globenewswire.com",
+   "published": "2026-11-19T23:05:00+00:00",
+   "tickers": [
+    "RVMD",
+    "NDAQ"
+   ]
+  },
+  {
+   "id": "6611c873030a",
+   "title": "Valid Soluções S.A. 2026 Q3 - Results - Earnings Call Presentation",
+   "link": "https://seekingalpha.com/article/4970350-valid-solucoes-s-a-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-19T23:04:50+00:00",
+   "tickers": []
+  },
+  {
+   "id": "195d9808784e",
+   "title": "Glory Ltd. 2027 Q2 - Results - Earnings Call Presentation",
+   "link": "https://seekingalpha.com/article/4970349-glory-ltd-2027-q2-results-earnings-call-presentation?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-19T23:04:31+00:00",
    "tickers": []
   },
   {
@@ -32,6 +614,20 @@
    "tickers": [
     "NDAQ"
    ]
+  },
+  {
+   "id": "bfef3575dea3",
+   "title": "Digi International Inc. 2026 Q4 - Results - Earnings Call Presentation",
+   "link": "https://seekingalpha.com/article/4970348-digi-international-inc-2026-q4-results-earnings-call-presentation?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-19T23:03:42+00:00",
+   "tickers": []
   },
   {
    "id": "07862e7a44f4",
@@ -119,55 +715,6 @@
    "published": "2026-11-19T23:02:04+00:00",
    "tickers": [
     "MRK"
-   ]
-  },
-  {
-   "id": "67eda646bb59",
-   "title": "Larger-Than-Average Storage Build Knocks Nat-Gas Prices Lower",
-   "link": "https://www.nasdaq.com/articles/larger-average-storage-build-knocks-nat-gas-prices-lower",
-   "summary": "December Nymex natural gas (NGZ26 ) closed down -0.104 (-3.08%) on Thursday. Dec nat-gas prices settled sharply lower on Thursday as a larger-than-average build in weekly storage weighed on prices. The EIA reported Thursday that nat-gas inventories rose by +20 bcf in the week ended November 13, above the five-year...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-11-19T23:01:44+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d7adf7a55c56",
-   "title": "Ecuador Flooding Sparks Short Covering in Cocoa Futures",
-   "link": "https://www.nasdaq.com/articles/ecuador-flooding-sparks-short-covering-cocoa-futures",
-   "summary": "December ICE NY cocoa (CCZ26 ) closed up +216 (+4.46%) on Thursday, and ICE London cocoa #7 (CAZ26 ) closed up +135 (+3.61%). Cocoa prices settled sharply higher on Thursday as floods in Ecuador sparked short covering in cocoa futures. Heavy rains in Ecuador caused flooding that destroyed rural roads,...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-19T23:01:44+00:00",
-   "tickers": [
-    "ICE"
-   ]
-  },
-  {
-   "id": "f8fe8aab5f4f",
-   "title": "Stocks Climb on AI Optimism After Strong Debut for Anthropic",
-   "link": "https://www.nasdaq.com/articles/stocks-climb-ai-optimism-after-strong-debut-anthropic",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) is up +1.13% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.30%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +2.00%. December E-mini S&P futures (ESZ26 ) are up +0.85%, and December E-mini Nasdaq futures...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-11-19T23:01:43+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
    ]
   },
   {
@@ -378,23 +925,6 @@
    "tickers": [
     "BILL",
     "CPAY"
-   ]
-  },
-  {
-   "id": "1551995a0338",
-   "title": "Reduced Coffee Exports from Colombia Boosts Arabica Prices",
-   "link": "https://www.nasdaq.com/articles/reduced-coffee-exports-colombia-boosts-arabica-prices",
-   "summary": "March arabica coffee (KCH26 ) closed up +0.55 (+0.20%) on Thursday, and January ICE robusta coffee (RMF27 ) closed down -41 (-1.36%). Coffee prices settled mixed on Thursday, with robusta falling to a 2.75-year low. Arabica coffee erased early losses and moved higher Thursday after the USDA’s FAS cut its...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "upgrade",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-11-19T22:56:20+00:00",
-   "tickers": [
-    "ICE",
-    "FAS"
    ]
   },
   {
@@ -729,6 +1259,23 @@
    "tickers": []
   },
   {
+   "id": "8943487555da",
+   "title": "Stock Market Today, Nov. 19: CoreWeave Falls as Profit-Taking Follows Anthropic IPO Pricing Above Range",
+   "link": "https://www.nasdaq.com/articles/stock-market-today-nov-19-coreweave-falls-profit-taking-follows-anthropic-ipo-pricing",
+   "summary": "CoreWeave (NASDAQ:CRWV), a specialized cloud infrastructure provider, closed at $44.91, down 6.10%. The stock moved after Anthropic priced its IPO above range, which initially lifted AI infrastructure sentiment, resulting in profit taking before concerns over AI costs and rising",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "offering",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-19T22:53:05+00:00",
+   "tickers": [
+    "CRWV",
+    "RRC"
+   ]
+  },
+  {
    "id": "1b0d0e3397c4",
    "title": "Intuit’s downbeat outlook deepens Wall Street’s anxiety about software companies",
    "link": "https://www.marketwatch.com/story/intuits-downbeat-outlook-deepens-wall-streets-anxiety-about-software-companies-15b878e5?mod=mw_rss_topstories",
@@ -891,6 +1438,36 @@
    "tickers": []
   },
   {
+   "id": "67eda646bb59",
+   "title": "Larger-Than-Average Storage Build Knocks Nat-Gas Prices Lower",
+   "link": "https://www.nasdaq.com/articles/larger-average-storage-build-knocks-nat-gas-prices-lower",
+   "summary": "December Nymex natural gas (NGZ26 ) closed down -0.104 (-3.08%) on Thursday. Dec nat-gas prices settled sharply lower on Thursday as a larger-than-average build in weekly storage weighed on prices. The EIA reported Thursday that nat-gas inventories rose by +20 bcf in the week ended November 13, above the five-year...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-11-19T22:45:09+00:00",
+   "tickers": []
+  },
+  {
+   "id": "d7adf7a55c56",
+   "title": "Ecuador Flooding Sparks Short Covering in Cocoa Futures",
+   "link": "https://www.nasdaq.com/articles/ecuador-flooding-sparks-short-covering-cocoa-futures",
+   "summary": "December ICE NY cocoa (CCZ26 ) closed up +216 (+4.46%) on Thursday, and ICE London cocoa #7 (CAZ26 ) closed up +135 (+3.61%). Cocoa prices settled sharply higher on Thursday as floods in Ecuador sparked short covering in cocoa futures. Heavy rains in Ecuador caused flooding that destroyed rural roads,...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-19T22:45:09+00:00",
+   "tickers": [
+    "ICE"
+   ]
+  },
+  {
    "id": "d5edf303b9f8",
    "title": "Stocks Erase Early Gains as Anthropic Optimism Fades",
    "link": "https://www.nasdaq.com/articles/stocks-erase-early-gains-anthropic-optimism-fades",
@@ -907,6 +1484,56 @@
     "NDAQ",
     "SPY",
     "DIA"
+   ]
+  },
+  {
+   "id": "f8fe8aab5f4f",
+   "title": "Stocks Climb on AI Optimism After Strong Debut for Anthropic",
+   "link": "https://www.nasdaq.com/articles/stocks-climb-ai-optimism-after-strong-debut-anthropic",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) is up +1.13% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.30%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +2.00%. December E-mini S&P futures (ESZ26 ) are up +0.85%, and December E-mini Nasdaq futures...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-11-19T22:45:08+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
+  },
+  {
+   "id": "c99a63b082c7",
+   "title": "Crypto Market Today, Nov. 19: Bitcoin Approaches $60,000 as ETF Outflows Surpass $2.5 Billion in 2026",
+   "link": "https://www.nasdaq.com/articles/crypto-market-today-nov-19-bitcoin-approaches-60000-etf-outflows-surpass-25-billion-2026",
+   "summary": "Cryptocurrency markets extended their losses on Thursday, November 19, as a broad-based sell-off on Wall Street, mounting concerns over further Federal Reserve interest rate hikes, and weakening ETF demand continued to weigh on digital assets.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-19T22:45:02+00:00",
+   "tickers": []
+  },
+  {
+   "id": "5c7bb555f76c",
+   "title": "This Beaten-Down Semiconductor Stock Could Soar in 2027",
+   "link": "https://www.nasdaq.com/articles/beaten-down-semiconductor-stock-could-soar-2027",
+   "summary": "Key PointsBroadcom designs some of the custom AI chips behind Alphabet, Meta, and Anthropic’s build-outs.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-11-19T22:45:02+00:00",
+   "tickers": [
+    "GOOG",
+    "META"
    ]
   },
   {
@@ -965,6 +1592,20 @@
    "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-11-19T22:43:20+00:00",
+   "tickers": []
+  },
+  {
+   "id": "01620ea0a012",
+   "title": "Anthropic Jumped 17% on its Opening Day. Here's How That Ranks Among Big Tech IPOs",
+   "link": "https://www.nasdaq.com/articles/anthropic-jumped-17-its-opening-day-heres-how-ranks-among-big-tech-ipos",
+   "summary": "Key PointsAnthropic jumped 17% on its opening day.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-11-19T22:43:11+00:00",
    "tickers": []
   },
   {
@@ -1630,7 +2271,7 @@
    "title": "Stocks making the biggest moves Thursday: Intuit, Gap, Anthropic, Ross Stores & more",
    "link": "https://www.cnbc.com/2026/11/19/stocks-moving-the-most-today-live-updates.html",
    "summary": "Follow along as CNBC covers the biggest stock market moves of the day.",
-   "article_text": "Stocks moving the most today: Live updates Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Dado Ruvic | Reuters In after hours Thursday, shares of Anthropic took a breather following their long-awaited debut on the market. The stock ended the regular session up 17%, but the rally failed to reignite the artificial intelligence trade. Intuit, the maker of TurboTax software, declined after its current quarter missed expectations. Follow along as CNBC covers the biggest stock market moves of the day. 1 Hour Ago Anthropic trades lower in after hours following its debut The company behind Claude saw shares slip 2% in extended trading. Anthropic in Thursday's trading Anthropic debuted on Thursday, closing 17% higher on the day. Though the company is the first pure-play AI company to come to market, the novelty wasn't enough to lift the market and the stocks in the AI trade. The Nasdaq Composite ended the day down more than 2%. -- Darla Mercado 1 Hour Ago Ross Stores' current-quarter projections miss expectations Ross Stores fell 7% as the discount retailer's forecast disappointed traders. Ross Stores on Thursday The company sees fourth-quarter earnings in a range of $2.16 to $2.25 a share, while analysts polled by LSEG sought $2.28 per share. Same-store sales for the period are also expected to rise 4% to 5%, compared to the StreetAccount consensus call for 5.1%. -- Darla Mercado 1 Hour Ago Gap ticks higher on earnings beat, but revenue misses the mark The company behind Old Navy and Banana Republic inched up 1% after third-quarter earnings surpassed expectations. Gap earned 82 cents a share on an adjusted basis, beating the LSEG consensus estimate of 78 cents. Revenue, however, fell short, coming in at $4.01 billion versus the $4.02 billion analysts were looking for. The company also announced that Ashley Kechter will be the new CEO of its Athleta brand starting next month. Athleta's prior CEO, Maggie Gauger, left to join Lululemon. -- Darla Mercado 1 Hour Ago Elastic N.V. slides after weak forecast overshadows earnings beat The data analytics company slipped 8% after its third-quarter earnings and revenue forecasts fell short of expectations. Elastic is calling for adjusted earnings in a range of 90 cents to 92 cents a share, missing the LSEG consensus estimate of 95 cents. The revenue forecast for $507.5 million to $508.5 million also fell short of the anticipated $518 million. Elastic on Thursday Second quarter adjusted earnings of 94 cents a share beat the LSEG consensus estimate of 81 cents per share. — Darla Mercado 2 Hours Ago Intuit shares drop after current-quarter guidance fails to impress Shares of the TurboTax parent tumbled 13% in extended trading after the company's second-quarter earnings projections missed estimates. Intuit on Thursday Intuit sees adjusted earnings in a range of $3.17 to $3.22 per share, while analysts polled by FactSet were looking for $3.73 per share. Separately, Intuit's first-quarter results surpassed estimates on the top and bottom lines. — Darla Mercado 5 Hours Ago NetEase shares slip after third-quarter earnings Shares of NetEase slid almost 9% after the gaming company reported weaker-than-expected earnings. NTES on Thursday The company reported 14.21 yuan in adjusted earnings per American depositary share and 27.85 billion yuan in net revenue. Analysts polled by FactSet expected 16.32 yuan in adjusted earnings per American depositary share and 30.22 billion yuan net revenue for the third quarter. — Ananya Chetia 5 Hours Ago B.Riley upgrades AST SpaceMobile to buy from neutral Shares for AST SpaceMobile popped 3% after B.Riley upgraded the company to buy from neutral. This comes despite a 60% drop in the company's shares in the last three months. ASTS The firm maintained AST SpaceMobile's price target at $48, implying nearly 90% upside from Wednesday's close. — Ananya Chetia, Nick Wells 5 Hours Ago Shares of Temu parent company surge after solid third quarter earnings U.S. traded shares of PDD Holdings rallied more than 12% in Thursday's midday trading to around $87 per share. The holding company, which operates several Chinese e-commerce and retail platforms like Pinduoduo and Temu, delivered third quarter earnings before the market open Thursday that boosted investor confidence. PDD in Thursday's trading While the company's revenue for the quarter, ended Sept. 30, was flat year over year, its third quarter adjusted operating profit topped estimates. Despite Thursday's strong stock performance, shares of PDD Holdings are still down 23% year to date. — Paulina Likos 6 Hours Ago AI-linked plays’ earlier gains unravel as broader market sells off after Anthropic’s debut A slate of stocks linked to the artificial intelligence build-out effort tumbled as the broad market dropped following Anthropic's IPO. Memory stocks Micron and Sandisk were both down more than 1% in midday trading. Neoclouds CoreWeave and Nebius lost 4% and 7% respectively. Photonics company Lumentum slid 3%. CoreWeave on Thursday The S&P 500 and the tech-heavy Nasdaq Composite were last down more than 1% on the day. -- Darla Mercado 6 Hours Ago Williams-Sonoma tumbles on soft same-store sales Shares of the home furnishings retailer dropped 13% after same-store sales in the third quarter missed the Street's expectations. Williams-Sonoma saw its comparable sales rise 5.1%, while analysts polled by FactSet sought 5.6%. Williams-Sonoma on Thursday The company also reiterated its guidance for the full year unchanged, calling for annual net revenue to grow 4.7% to 7.2%, with same-store sales in a range of 4% to 6.5%. — Darla Mercado, Nick Wells 6 Hours Ago Anthropic surges on first day of trading Anthropic shares were up 27% at around $105 on their first day of trading. The stock opened at $111.50 before pulling back slightly from that level. The AI giant priced its IPO at $83 per share. ANT intraday — Fred Imbert 7 Hours Ago CoreWeave rises as Anthropic makes public debut Visual China Group | Getty Images Neocloud CoreWeave gained 1% on enthusiasm from the Anthropic IPO plus a change in Texas permitting that favors data center development. Texas officials started issuing air permits again for data center construction projects, according to Reuters , which bodes well for the future of the physical component of the AI buildout. Nvidia's highly anticipated earnings call earlier this week also offered clarity on the leadership direction for the firm, which Wall Street analysts responded positively to. Analysts at Truist were encouraged on Tuesday by Nvidia statements on the call about its relationship to neoclouds. \"Notably, NVIDIA's earnings commentary … [described] neoclouds as an 'increasingly important' part of the global AI infrastructure ecosystem and stating that it will continue working with and supporting leading neocloud partners, while becoming more disciplined and selective in that support.\" – Tobias Burns 7 Hours Ago AMD falls after Hunterbrook Capital says it is short the chipmaker watch now VIDEO 1:42 01:42 Shares of AMD fall after Hunterbrook discloses short position Squawk on the Street AMD shares tumbled more than 9% after Hunterbrook Capital revealed it took a short position on the company. In a post titled \"AMD has its own China problem\", Hunterbrook alleges that \"AMD firmware keeps turning up at a blacklisted Chinese company and three companies tied to it, just as U.S. export restrictions are scheduled to expand.\" \"AMD, which bills over 20% of its revenue to customers in China and Hong Kong, also depends on a Chinese partner to finish most of its chips,\" Hunterbrook added. CNBC reached out to AMD for comment. — Fred Imbert 8 Hours Ago Coherent shares rise after $2 billion buyback authorization The New York Stock Exchange welcomes Coherent Corp. (NYSE: COHR) in celebration of its first anniversary of its acquisition of Coherent, Inc., and three months since it",
+   "article_text": "Stocks moving the most today: Live updates Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Dado Ruvic | Reuters In after hours Thursday, shares of Anthropic took a breather following their long-awaited debut on the market. The stock ended the regular session up 17%, but the rally failed to reignite the artificial intelligence trade. Intuit, the maker of TurboTax software, declined after its current quarter missed expectations. Follow along as CNBC covers the biggest stock market moves of the day. 1 Hour Ago Anthropic trades lower in after hours following its debut The company behind Claude saw shares slip 2% in extended trading. Anthropic in Thursday's trading Anthropic debuted on Thursday, closing 17% higher on the day. Though the company is the first pure-play AI company to come to market, the novelty wasn't enough to lift the market and the stocks in the AI trade. The Nasdaq Composite ended the day down more than 2%. -- Darla Mercado 1 Hour Ago Ross Stores' current-quarter projections miss expectations Ross Stores fell 7% as the discount retailer's forecast disappointed traders. Ross Stores on Thursday The company sees fourth-quarter earnings in a range of $2.16 to $2.25 a share, while analysts polled by LSEG sought $2.28 per share. Same-store sales for the period are also expected to rise 4% to 5%, compared to the StreetAccount consensus call for 5.1%. -- Darla Mercado 1 Hour Ago Gap ticks higher on earnings beat, but revenue misses the mark The company behind Old Navy and Banana Republic inched up 1% after third-quarter earnings surpassed expectations. Gap earned 82 cents a share on an adjusted basis, beating the LSEG consensus estimate of 78 cents. Revenue, however, fell short, coming in at $4.01 billion versus the $4.02 billion analysts were looking for. The company also announced that Ashley Kechter will be the new CEO of its Athleta brand starting next month. Athleta's prior CEO, Maggie Gauger, left to join Lululemon. -- Darla Mercado 2 Hours Ago Elastic N.V. slides after weak forecast overshadows earnings beat The data analytics company slipped 8% after its third-quarter earnings and revenue forecasts fell short of expectations. Elastic is calling for adjusted earnings in a range of 90 cents to 92 cents a share, missing the LSEG consensus estimate of 95 cents. The revenue forecast for $507.5 million to $508.5 million also fell short of the anticipated $518 million. Elastic on Thursday Second quarter adjusted earnings of 94 cents a share beat the LSEG consensus estimate of 81 cents per share. — Darla Mercado 2 Hours Ago Intuit shares drop after current-quarter guidance fails to impress Shares of the TurboTax parent tumbled 13% in extended trading after the company's second-quarter earnings projections missed estimates. Intuit on Thursday Intuit sees adjusted earnings in a range of $3.17 to $3.22 per share, while analysts polled by FactSet were looking for $3.73 per share. Separately, Intuit's first-quarter results surpassed estimates on the top and bottom lines. — Darla Mercado 5 Hours Ago NetEase shares slip after third-quarter earnings Shares of NetEase slid almost 9% after the gaming company reported weaker-than-expected earnings. NTES on Thursday The company reported 14.21 yuan in adjusted earnings per American depositary share and 27.85 billion yuan in net revenue. Analysts polled by FactSet expected 16.32 yuan in adjusted earnings per American depositary share and 30.22 billion yuan net revenue for the third quarter. — Ananya Chetia 5 Hours Ago B.Riley upgrades AST SpaceMobile to buy from neutral Shares for AST SpaceMobile popped 3% after B.Riley upgraded the company to buy from neutral. This comes despite a 60% drop in the company's shares in the last three months. ASTS The firm maintained AST SpaceMobile's price target at $48, implying nearly 90% upside from Wednesday's close. — Ananya Chetia, Nick Wells 6 Hours Ago Shares of Temu parent company surge after solid third quarter earnings U.S. traded shares of PDD Holdings rallied more than 12% in Thursday's midday trading to around $87 per share. The holding company, which operates several Chinese e-commerce and retail platforms like Pinduoduo and Temu, delivered third quarter earnings before the market open Thursday that boosted investor confidence. PDD in Thursday's trading While the company's revenue for the quarter, ended Sept. 30, was flat year over year, its third quarter adjusted operating profit topped estimates. Despite Thursday's strong stock performance, shares of PDD Holdings are still down 23% year to date. — Paulina Likos 6 Hours Ago AI-linked plays’ earlier gains unravel as broader market sells off after Anthropic’s debut A slate of stocks linked to the artificial intelligence build-out effort tumbled as the broad market dropped following Anthropic's IPO. Memory stocks Micron and Sandisk were both down more than 1% in midday trading. Neoclouds CoreWeave and Nebius lost 4% and 7% respectively. Photonics company Lumentum slid 3%. CoreWeave on Thursday The S&P 500 and the tech-heavy Nasdaq Composite were last down more than 1% on the day. -- Darla Mercado 6 Hours Ago Williams-Sonoma tumbles on soft same-store sales Shares of the home furnishings retailer dropped 13% after same-store sales in the third quarter missed the Street's expectations. Williams-Sonoma saw its comparable sales rise 5.1%, while analysts polled by FactSet sought 5.6%. Williams-Sonoma on Thursday The company also reiterated its guidance for the full year unchanged, calling for annual net revenue to grow 4.7% to 7.2%, with same-store sales in a range of 4% to 6.5%. — Darla Mercado, Nick Wells 6 Hours Ago Anthropic surges on first day of trading Anthropic shares were up 27% at around $105 on their first day of trading. The stock opened at $111.50 before pulling back slightly from that level. The AI giant priced its IPO at $83 per share. ANT intraday — Fred Imbert 7 Hours Ago CoreWeave rises as Anthropic makes public debut Visual China Group | Getty Images Neocloud CoreWeave gained 1% on enthusiasm from the Anthropic IPO plus a change in Texas permitting that favors data center development. Texas officials started issuing air permits again for data center construction projects, according to Reuters , which bodes well for the future of the physical component of the AI buildout. Nvidia's highly anticipated earnings call earlier this week also offered clarity on the leadership direction for the firm, which Wall Street analysts responded positively to. Analysts at Truist were encouraged on Tuesday by Nvidia statements on the call about its relationship to neoclouds. \"Notably, NVIDIA's earnings commentary … [described] neoclouds as an 'increasingly important' part of the global AI infrastructure ecosystem and stating that it will continue working with and supporting leading neocloud partners, while becoming more disciplined and selective in that support.\" – Tobias Burns 7 Hours Ago AMD falls after Hunterbrook Capital says it is short the chipmaker watch now VIDEO 1:42 01:42 Shares of AMD fall after Hunterbrook discloses short position Squawk on the Street AMD shares tumbled more than 9% after Hunterbrook Capital revealed it took a short position on the company. In a post titled \"AMD has its own China problem\", Hunterbrook alleges that \"AMD firmware keeps turning up at a blacklisted Chinese company and three companies tied to it, just as U.S. export restrictions are scheduled to expand.\" \"AMD, which bills over 20% of its revenue to customers in China and Hong Kong, also depends on a Chinese partner to finish most of its chips,\" Hunterbrook added. CNBC reached out to AMD for comment. — Fred Imbert 8 Hours Ago Coherent shares rise after $2 billion buyback authorization The New York Stock Exchange welcomes Coherent Corp. (NYSE: COHR) in celebration of its first anniversary of its acquisition of Coherent, Inc., and three months since it",
    "source": "CNBC Top",
    "category": "markets",
    "type": "markets",
@@ -1640,6 +2281,23 @@
    "tickers": [
     "ROST",
     "INTU"
+   ]
+  },
+  {
+   "id": "1551995a0338",
+   "title": "Reduced Coffee Exports from Colombia Boosts Arabica Prices",
+   "link": "https://www.nasdaq.com/articles/reduced-coffee-exports-colombia-boosts-arabica-prices",
+   "summary": "March arabica coffee (KCH26 ) closed up +0.55 (+0.20%) on Thursday, and January ICE robusta coffee (RMF27 ) closed down -41 (-1.36%). Coffee prices settled mixed on Thursday, with robusta falling to a 2.75-year low. Arabica coffee erased early losses and moved higher Thursday after the USDA’s FAS cut its...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "upgrade",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-11-19T22:37:46+00:00",
+   "tickers": [
+    "ICE",
+    "FAS"
    ]
   },
   {
@@ -1701,6 +2359,22 @@
    "tickers": []
   },
   {
+   "id": "2d63a6e62177",
+   "title": "Gap Q3 Profit Rise 32%; Lowers FY Outlook",
+   "link": "https://www.nasdaq.com/articles/gap-q3-profit-rise-32-lowers-fy-outlook",
+   "summary": "(RTTNews) - Gap Inc. (GAP), the apparel retailer behind Old Navy, Gap, Banana Republic and Athleta, on Thursday reported higher third-quarter profit, reflecting improved performance at Gap and Old Navy, which offset weakness at Athleta.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "downgrade",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-11-19T22:36:03+00:00",
+   "tickers": [
+    "GAP"
+   ]
+  },
+  {
    "id": "b28595b3b5e8",
    "title": "Nike declares $0.41 dividend",
    "link": "https://seekingalpha.com/news/4674980-nike-declares-0_41-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -1727,6 +2401,22 @@
    "domain": "seekingalpha.com",
    "published": "2026-11-19T22:34:54+00:00",
    "tickers": []
+  },
+  {
+   "id": "fb493361c0ca",
+   "title": "Keysight Technologies Reports Strong Q4 Net Income Growth",
+   "link": "https://www.nasdaq.com/articles/keysight-technologies-reports-strong-q4-net-income-growth",
+   "summary": "(RTTNews) - Keysight Technologies, Inc. (KEYS) on Thursday, reported a sharp increase in net income for the fourth quarter of fiscal 2026, supported by stronger revenue and a substantial rise in customer orders compared with the prior-year quarter.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-11-19T22:34:09+00:00",
+   "tickers": [
+    "KEYS"
+   ]
   },
   {
    "id": "2a8907f57b98",
@@ -7774,6 +8464,20 @@
    ]
   },
   {
+   "id": "e7b8f53700bf",
+   "title": "Activist hedge fund calls for departure of Accor CEO",
+   "link": "https://www.ft.com/content/fb14f7c2-37c0-42ea-b05e-ee0fd31b6f9b?syn-25a6b1a6=1",
+   "summary": "Parvus says head of French hotel group has presided over ‘unfocused strategy’",
+   "article_text": "",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "ft.com",
+   "published": "2026-11-19T21:29:52+00:00",
+   "tickers": []
+  },
+  {
    "id": "db4fcac566f5",
    "title": "8-K - PLEXUS CORP (0000785786) (Filer)",
    "link": "https://www.sec.gov/Archives/edgar/data/785786/000078578626000068/0000785786-26-000068-index.htm",
@@ -8183,728 +8887,6 @@
    "tickers": [
     "SCI"
    ]
-  },
-  {
-   "id": "b38d9dec79cd",
-   "title": "Intuit Beats Fiscal Q1 Goals, Gives Soft Outlook, Sells Mailchimp",
-   "link": "https://biztoc.com/x/68d24a53082aa676?ref=rss",
-   "summary": "Financial software firm Intuit beat Wall Street's estimates for its fiscal first quarter but missed with its outlook. The post Intuit Beats Fiscal Q1 Goals, Gives Soft Outlook, Sells Mailchimp appeared first on Investor's Business Daily.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-11-19T21:23:40+00:00",
-   "tickers": [
-    "INTU"
-   ]
-  },
-  {
-   "id": "8d892ba4ec00",
-   "title": "Nike Is Giving Valedictorians Free Air Force 1s. It May Get Something More Valuable in Return",
-   "link": "https://biztoc.com/x/31cf357d6930150d?ref=rss",
-   "summary": "The sneaker giant’s nationwide giveaway, which was proposed by Mississippi senator-elect Scott Colom, comes as the retailer works to regain momentum.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-19T21:23:38+00:00",
-   "tickers": []
-  },
-  {
-   "id": "a39e56a41e7d",
-   "title": "Target admits it made two major mistakes",
-   "link": "https://biztoc.com/x/f33d4dab0976f943?ref=rss",
-   "summary": "Target Chief Merchandising Officer Cara Sylvester has made it clear that while the company has posted some strong results, its turnaround has just begun. She also shared her vision for what a visit to the chain’s brick-and-mortar stores should deliver to customers. “Target has the ability to turn…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-19T21:23:37+00:00",
-   "tickers": []
-  },
-  {
-   "id": "a21b92e57a0c",
-   "title": "Gap names new Athleta CEO, lowers full-year guidance",
-   "link": "https://biztoc.com/x/ec9e6596dc92198b?ref=rss",
-   "summary": "Gap on Thursday announced Ashley Kechter as the new CEO of Athleta. The retailer also reported mixed fiscal third-quarter earnings.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-11-19T21:23:33+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ae353be32a8c",
-   "title": "Readers Who Pay in Full Say Card Companies Turned Them Down. Here’s What Actually Drives Approvals",
-   "link": "https://biztoc.com/x/23d081831f8647de?ref=rss",
-   "summary": "The post Readers Who Pay in Full Say Card Companies Turned Them Down. Here’s What Actually Drives Approvals. appeared first on 24/7 Wall St.. One reader replied to our earlier article about running every bill through one card and paying it off monthly. The reader said they had been turned down for…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-19T21:23:32+00:00",
-   "tickers": []
-  },
-  {
-   "id": "0efb74ca320c",
-   "title": "Birchcliff Energy Ltd. Receives TSX Approval for Renewal of Normal Course Issuer Bid",
-   "link": "https://biztoc.com/x/9715d6c0c2721c40?ref=rss",
-   "summary": "CALGARY, Alberta, Nov. 19, 2026 (GLOBE NEWSWIRE) -- Birchcliff Energy Ltd. (“Birchcliff” or the “Corporation”) (TSX: BIR) is pleased to announce that the",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "fda",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-19T21:23:32+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b5e0316738b0",
-   "title": "U.S. Indexes Dropped Thursday; Williams-Sonoma Posted Biggest Loss",
-   "link": "https://biztoc.com/x/e349023780905ab7?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-11-19T21:23:25+00:00",
-   "tickers": [
-    "WSM"
-   ]
-  },
-  {
-   "id": "80dfa6e33582",
-   "title": "\"Cuck Simulator\": Critics Give GTA VI A 99 Score. Actual Gamers Want Their Hookers Back",
-   "link": "https://biztoc.com/x/2be2c5276a0140ac?ref=rss",
-   "summary": "\"Cuck Simulator\": Critics Give GTA VI A 99 Score. Actual Gamers Want Their Hookers Back Grand Theft Auto VI went on sale Thursday on PlayStation 5 and Xbox Series X|S after a 13-year wait, carrying a 99 on Metacritic that ties the highest score the site has ever given a game. About 150 critics…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-19T21:23:24+00:00",
-   "tickers": [
-    "MSFT"
-   ]
-  },
-  {
-   "id": "a40041301962",
-   "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
-   "link": "https://biztoc.com/x/f15049c5c73b976f?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "fda",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-11-19T21:23:23+00:00",
-   "tickers": []
-  },
-  {
-   "id": "f3d22c240082",
-   "title": "Anthropic IPO Live Updates: Stock Begins Trading at $111.50 Per Share",
-   "link": "https://biztoc.com/x/f19084708cb4bede?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "offering",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-19T21:23:21+00:00",
-   "tickers": []
-  },
-  {
-   "id": "fbf29fd0a4b7",
-   "title": "Meta now sells 3D movies on Quest VR headsets",
-   "link": "https://biztoc.com/x/60eca5f783898836?ref=rss",
-   "summary": "Meta now offers more than 150 3D movies that you can buy or rent to watch in VR on its Quest 3 and 3S headsets, the company announced today. The movies are available in Meta’s TV app and include titles like Avatar, Spider-Man: Far From Home, Jurassic World Rebirth, Wicked: For Good, and a Billie…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-19T21:23:21+00:00",
-   "tickers": [
-    "META"
-   ]
-  },
-  {
-   "id": "0082f0496da6",
-   "title": "Senate Nears a Vote on a Landmark Permitting Bill. Here’s Who Could Benefit",
-   "link": "https://biztoc.com/x/76394a1a7b10b37c?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-19T21:23:17+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ce37569c0eda",
-   "title": "JPMorgan Chase Customer Data Is Exposed in Latest Hack",
-   "link": "https://biztoc.com/x/5bfc67e95c013876?ref=rss",
-   "summary": "The bank, which earlier this week suffered a brief technology outage, said no sensitive information was taken in an incident that also affected Mastercard and Visa.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-19T21:23:10+00:00",
-   "tickers": [
-    "JPM",
-    "MA",
-    "JIRE",
-    "V"
-   ]
-  },
-  {
-   "id": "983cd86f2605",
-   "title": "Anthropic’s stock closes 17% higher as AI company completes largest-ever IPO",
-   "link": "https://biztoc.com/x/e7c21f3897e423f3?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "offering",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-19T21:23:09+00:00",
-   "tickers": []
-  },
-  {
-   "id": "bf7656316c15",
-   "title": "Here Is Vanguard’s 6-Point Plan to Fix Retirement",
-   "link": "https://biztoc.com/x/b379283511cf1073?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-19T21:23:09+00:00",
-   "tickers": [
-    "VYMI"
-   ]
-  },
-  {
-   "id": "677344d4b683",
-   "title": "Trump's Warm Embrace of Xi and Putin Showcases His Strongman Ties",
-   "link": "https://biztoc.com/x/e8f7ffdfc5b739ba?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-19T21:23:07+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ec8087ed86d5",
-   "title": "Gildan Activewear Inc. Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - GIL",
-   "link": "https://www.prnewswire.com/news-releases/gildan-activewear-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--gil-302946102.html",
-   "summary": "NEW YORK, Nov. 19, 2026 /PRNewswire/ -- The DJS Law Group reminds investors of a class action lawsuit against Gildan Activewear Inc. (\"Gildan\" or \"the Company\") (NYSE: GIL) for violations of §§10(b) and 20(a) of the Securities Exchange Act of 1934 and Rule 10b-5 promulgated thereunder by...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "prnewswire.com",
-   "published": "2026-11-19T21:23:00+00:00",
-   "tickers": [
-    "GIL"
-   ]
-  },
-  {
-   "id": "bdb2cf8768be",
-   "title": "Mayne Pharma Group Limited (MAYNF) Discusses Acquisition by Gedeon Richter Through Scheme of Arrangement Transcript",
-   "link": "https://seekingalpha.com/article/4970321-mayne-pharma-group-limited-maynf-discusses-acquisition-by-gedeon-richter-through-scheme-of?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-19T21:22:58+00:00",
-   "tickers": []
-  },
-  {
-   "id": "cd15f5d8c91c",
-   "title": "Red Cat Holdings, Inc. (RCAT) Q3 2026 Earnings Call Transcript",
-   "link": "https://seekingalpha.com/article/4968818-red-cat-holdings-inc-rcat-q3-2026-earnings-call-transcript?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-19T21:22:52+00:00",
-   "tickers": [
-    "RCAT"
-   ]
-  },
-  {
-   "id": "a94fed9c2800",
-   "title": "Jefferies cuts Futu stock price target on soft market conditions",
-   "link": "https://www.investing.com/news/analyst-ratings/jefferies-cuts-futu-stock-price-target-on-soft-market-conditions-93CH-5040043",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-11-19T21:22:47+00:00",
-   "tickers": [
-    "JEF"
-   ]
-  },
-  {
-   "id": "7162dab60d5d",
-   "title": "Natural Grocers by Vitamin Cottage Q4 GAAP EPS of $0.48 misses by $0.06, revenue of $347.53M misses by $5.12M",
-   "link": "https://seekingalpha.com/news/4674915-natural-grocers-by-vitamin-cottage-q4-gaap-eps-of-048-misses-by-006-revenue-of-34753m-misses-by-512m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "earnings",
-   "sentiment": "negative",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-19T21:22:42+00:00",
-   "tickers": []
-  },
-  {
-   "id": "7e5193d7ae91",
-   "title": "Gap names new Athleta CEO, lowers full-year guidance",
-   "link": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html",
-   "summary": "Gap on Thursday announced Ashley Kechter as the new CEO of Athleta. The retailer also reported mixed fiscal third-quarter earnings.",
-   "article_text": "",
-   "source": "CNBC Earnings",
-   "category": "earnings",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "cnbc.com",
-   "published": "2026-11-19T21:22:23+00:00",
-   "tickers": []
-  },
-  {
-   "id": "a2f6f1f3a7ab",
-   "title": "StoneX Group plunges 27% after fiscal Q4 earnings miss",
-   "link": "https://seekingalpha.com/news/4674896-stonex-group-plunges-27-after-fiscal-q4-earnings-miss?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "earnings",
-   "sentiment": "negative",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-19T21:22:15+00:00",
-   "tickers": []
-  },
-  {
-   "id": "1b8f2b23c2f8",
-   "title": "Casella Waste Systems appoints Clean Harbors co-CEO to board",
-   "link": "https://seekingalpha.com/news/4674906-casella-waste-systems-appoints-clean-harbors-co-ceo-to-board?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-19T21:22:04+00:00",
-   "tickers": [
-    "CWST",
-    "CLH"
-   ]
-  },
-  {
-   "id": "bc9baaa960c6",
-   "title": "UnitedHealth’s stock tumbles after government signals crackdown on Medicare Advantage fraud",
-   "link": "https://www.marketwatch.com/story/unitedhealths-stock-keeps-plunging-after-government-signals-crackdown-on-medicare-advantage-fraud-c4770a45?mod=mw_rss_topstories",
-   "summary": "UnitedHealth Group’s stock fell again on Thursday amid a tough week in which the government pledged to crack down on Medicare Advantage fraud and lawmakers renewed calls for Medicare for All.",
-   "article_text": "",
-   "source": "MarketWatch",
-   "category": "markets",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "marketwatch.com",
-   "published": "2026-11-19T21:22:00+00:00",
-   "tickers": [
-    "UNH"
-   ]
-  },
-  {
-   "id": "65294e3e46ad",
-   "title": "GIL Investors Have Opportunity to Lead Gildan Activewear Inc. Securities Fraud Lawsuit with SBS Law",
-   "link": "https://www.prnewswire.com/news-releases/gil-investors-have-opportunity-to-lead-gildan-activewear-inc-securities-fraud-lawsuit-with-sbs-law-302946101.html",
-   "summary": "LOS ANGELES, Nov. 19, 2026 /PRNewswire/ -- Schall, Brown & Schwartz LLP (\"SBS\"), a national shareholder rights litigation firm, reminds investors of a class action lawsuit against Gildan Activewear Inc. (\"Gildan\" or \"the Company\") (NYSE: GIL) for violations of §§10(b) and 20(a) of the...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "prnewswire.com",
-   "published": "2026-11-19T21:22:00+00:00",
-   "tickers": [
-    "GIL"
-   ]
-  },
-  {
-   "id": "f2b772bf4945",
-   "title": "BAC Investors Have Opportunity to Lead Bank of America Corporation Securities Fraud Lawsuit with SBS Law",
-   "link": "https://www.prnewswire.com/news-releases/bac-investors-have-opportunity-to-lead-bank-of-america-corporation-securities-fraud-lawsuit-with-sbs-law-302946098.html",
-   "summary": "LOS ANGELES, Nov. 19, 2026 /PRNewswire/ -- Schall, Brown & Schwartz LLP (\"SBS\"), a national shareholder rights litigation firm, reminds investors of a class action lawsuit against Bank of America Corporation (\"Bank of America\" or \"the Company\") (NYSE: BAC) for violations of §§10(b) and...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "prnewswire.com",
-   "published": "2026-11-19T21:22:00+00:00",
-   "tickers": [
-    "BAC"
-   ]
-  },
-  {
-   "id": "72474cc8af4e",
-   "title": "Bank of America Corporation Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - BAC",
-   "link": "https://www.prnewswire.com/news-releases/bank-of-america-corporation-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--bac-302946096.html",
-   "summary": "NEW YORK, Nov. 19, 2026 /PRNewswire/ -- The DJS Law Group reminds investors of a class action lawsuit against Bank of America Corporation (\"Bank of America\" or \"the Company\") (NYSE: BAC) for violations of §§10(b) and 20(a) of the Securities Exchange Act of 1934 and Rule 10b-5 promulgated...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "prnewswire.com",
-   "published": "2026-11-19T21:22:00+00:00",
-   "tickers": [
-    "BAC"
-   ]
-  },
-  {
-   "id": "c736d24f0077",
-   "title": "Wabash Announces Quarterly Dividend",
-   "link": "https://www.globenewswire.com/news-release/2026/11/19/3407139/10640/en/wabash-announces-quarterly-dividend.html",
-   "summary": "FAYETTE, Ind., Nov. 19, 2026 (GLOBE NEWSWIRE) -- Wabash (NYSE: WNC) today announced that its board of directors declared a regular quarterly dividend of $0.08 per share of the company’s common stock, payable on January 28, 2027, to stockholders of record on January 7, 2027.",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-11-19T21:22:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "83a20d64a1fd",
-   "title": "Elastic tumbles after guidance falls short due to FX headwinds",
-   "link": "https://seekingalpha.com/news/4674878-elastic-tumbles-after-guidance-falls-short-due-to-fx-headwinds?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "earnings",
-   "sentiment": "negative",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-19T21:21:34+00:00",
-   "tickers": [
-    "ESTC"
-   ]
-  },
-  {
-   "id": "8bca8fd69439",
-   "title": "Diversified Energy closes $1.8 billion Permian Basin acquisition",
-   "link": "https://www.investing.com/news/company-news/diversified-energy-closes-18-billion-permian-basin-acquisition-93CH-5040034",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-19T21:20:37+00:00",
-   "tickers": []
-  },
-  {
-   "id": "bc198318377e",
-   "title": "Endava receives NYSE non-compliance notice over delayed filing",
-   "link": "https://www.investing.com/news/company-news/endava-receives-nyse-noncompliance-notice-over-delayed-filing-93CH-5040033",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-19T21:20:35+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6ab2bcc2e7f1",
-   "title": "Dow closes below 50,000; Nasdaq falls 2% as Anthropic IPO fails to resuscitate AI trade: Live updates",
-   "link": "https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html",
-   "summary": "Traders are focused on how Anthropic performs when it debuts on the Nasdaq Thursday.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "offering",
-   "sentiment": "negative",
-   "domain": "cnbc.com",
-   "published": "2026-11-19T21:20:34+00:00",
-   "tickers": [
-    "NDAQ"
-   ]
-  },
-  {
-   "id": "b2c954ba68d7",
-   "title": "Stifel reports client assets rise 5% in October",
-   "link": "https://www.investing.com/news/company-news/stifel-reports-client-assets-rise-5-in-october-93CH-5040032",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-11-19T21:20:34+00:00",
-   "tickers": []
-  },
-  {
-   "id": "78c9c9c77fb2",
-   "title": "Natural Grocers declares $0.15 quarterly dividend",
-   "link": "https://www.investing.com/news/company-news/natural-grocers-declares-015-quarterly-dividend-93CH-5040031",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-19T21:20:31+00:00",
-   "tickers": []
-  },
-  {
-   "id": "21f80df93003",
-   "title": "Lear declares $0.77 quarterly dividend",
-   "link": "https://www.investing.com/news/company-news/lear-declares-077-quarterly-dividend-93CH-5040028",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-19T21:20:30+00:00",
-   "tickers": [
-    "LEA"
-   ]
-  },
-  {
-   "id": "5506c565e08c",
-   "title": "Twilio slumps 9% amid broader tech decline",
-   "link": "https://seekingalpha.com/news/4674898-twilio-slumps-9-amid-broader-tech-decline?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "negative",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-19T21:20:30+00:00",
-   "tickers": [
-    "TWLO"
-   ]
-  },
-  {
-   "id": "a08d8396a783",
-   "title": "Verde Resources, Inc. Adopts Amended and Restated Articles of Incorporation and Bylaws",
-   "link": "https://www.nasdaq.com/articles/verde-resources-inc-adopts-amended-and-restated-articles-incorporation-and-bylaws",
-   "summary": "On November 13, 2026, the board of directors of Verde Resources, Inc. approved the adoption of the amended and restated articles of incorporation of the company. The amended and restated articles of incorporation were filed with the secretary of state of the state of Nevada on No",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-19T21:20:22+00:00",
-   "tickers": []
-  },
-  {
-   "id": "dab4b2dff149",
-   "title": "Power Solutions International, Inc. Appoints Robert Losier as Interim Chief Financial Officer",
-   "link": "https://www.nasdaq.com/articles/power-solutions-international-inc-appoints-robert-losier-interim-chief-financial-officer",
-   "summary": "Power Solutions International, Inc. announced that its Board of Directors appointed Robert Losier as Interim Chief Financial Officer, effective November 28, 2026. In that role, Mr. Losier will serve as the Company’s principal financial officer and principal accounting offic",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-19T21:20:21+00:00",
-   "tickers": []
-  },
-  {
-   "id": "73691dbac400",
-   "title": "Russia stocks lower at close of trade; MOEX Russia Index down 2.06%",
-   "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-down-206-5040016",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-11-19T21:20:04+00:00",
-   "tickers": []
-  },
-  {
-   "id": "2891d73adc4e",
-   "title": "8-K - Blue Owl Digital Infrastructure Trust (0002069692) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/2069692/000206969226000074/0002069692-26-000074-index.htm",
-   "summary": "Filed: 2026-11-19 AccNo: 0002069692-26-000074 Size: 193 KB Item 3.02: Unregistered Sales of Equity Securities Item 8.01: Other Events",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-11-19T21:19:56+00:00",
-   "tickers": [
-    "OWL"
-   ]
-  },
-  {
-   "id": "78574b59e5de",
-   "title": "8-K - ATLANTIC AMERICAN CORP (0000008177) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/8177/000114036126044918/0001140361-26-044918-index.htm",
-   "summary": "Filed: 2026-11-19 AccNo: 0001140361-26-044918 Size: 154 KB Item 8.01: Other Events",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-11-19T21:19:55+00:00",
-   "tickers": []
-  },
-  {
-   "id": "64ee2143a8fe",
-   "title": "8-K/A - NIKE, Inc. (0000320187) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/320187/000032018726000212/0000320187-26-000212-index.htm",
-   "summary": "Filed: 2026-11-19 AccNo: 0000320187-26-000212 Size: 146 KB Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-11-19T21:19:32+00:00",
-   "tickers": [
-    "NKE"
-   ]
-  },
-  {
-   "id": "c37fcf218ae0",
-   "title": "8-K - Blue Owl Real Estate Net Lease Trust (0001944366) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1944366/000194436626000097/0001944366-26-000097-index.htm",
-   "summary": "Filed: 2026-11-19 AccNo: 0001944366-26-000097 Size: 175 KB Item 3.02: Unregistered Sales of Equity Securities Item 8.01: Other Events",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-11-19T21:19:18+00:00",
-   "tickers": [
-    "OWL"
-   ]
-  },
-  {
-   "id": "27988fc8fe5b",
-   "title": "Anthropic shares end debut 17% above IPO price after sharp late-day retreat",
-   "link": "https://www.investing.com/news/stock-market-news/anthropic-opens-34-above-ipo-price-reaches-2-trillion-valuation-in-nasdaq-debut-5039595",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "offering",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-19T21:18:39+00:00",
-   "tickers": []
-  },
-  {
-   "id": "505a04658575",
-   "title": "8-K - NIKE, Inc. (0000320187) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/320187/000032018726000211/0000320187-26-000211-index.htm",
-   "summary": "Filed: 2026-11-19 AccNo: 0000320187-26-000211 Size: 149 KB Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-11-19T21:18:31+00:00",
-   "tickers": [
-    "NKE"
-   ]
-  },
-  {
-   "id": "ba7a5e59bfc1",
-   "title": "8-K - Post Holdings, Inc. (0001530950) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1530950/000153095026000100/0001530950-26-000100-index.htm",
-   "summary": "Filed: 2026-11-19 AccNo: 0001530950-26-000100 Size: 3 MB Item 2.02: Results of Operations and Financial Condition Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers Item 7.01: Regulation FD Disclosure Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-11-19T21:18:25+00:00",
-   "tickers": [
-    "POST"
-   ]
-  },
-  {
-   "id": "22c9bd7e0911",
-   "title": "Leonardo DRS to develop next-generation infrared sensor for THAAD",
-   "link": "https://seekingalpha.com/news/4674901-leonardo-drs-to-develop-next-generation-infrared-sensor-for-thaad?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-19T21:18:16+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8918,20 +8900,20 @@
   "SCHF": "Schwab International Equity ETF",
   "HII": "Huntington Ingalls Industries",
   "TTWO": "Take-Two Interactive Software",
+  "CHH": "Choice Hotels International",
   "QQQ": "Invesco QQQ Trust, Series 1",
   "ADP": "Automatic Data Processing",
   "ICE": "Intercontinental Exchange",
-  "JEF": "Jefferies Financial Group",
   "APO": "Apollo Global Management",
   "CFG": "Citizens Financial Group",
   "AMD": "Advanced Micro Devices",
   "LOGI": "Logitech International",
   "WBD": "Warner Bros. Discovery",
-  "CWST": "Casella Waste Systems",
   "KEYS": "Keysight Technologies",
   "BIO": "Bio-Rad Laboratories",
   "CRWD": "CrowdStrike Holdings",
   "PG": "The Procter & Gamble",
+  "RVMD": "Revolution Medicines",
   "SHW": "The Sherwin-Williams",
   "VO": "Vanguard Mid-Cap ETF",
   "FIX": "Comfort Systems USA",
@@ -8942,7 +8924,6 @@
   "SBAC": "SBA Communications",
   "SCHW": "The Charles Schwab",
   "BSX": "Boston Scientific",
-  "GIL": "Gildan Activewear",
   "HOOD": "Robinhood Markets",
   "LITE": "Lumentum Holdings",
   "MU": "Micron Technology",
@@ -8954,14 +8935,13 @@
   "LOW": "Lowe's Companies",
   "NSC": "Norfolk Southern",
   "OWL": "Blue Owl Capital",
-  "RCAT": "Red Cat Holdings",
   "GE": "General Electric",
-  "BAC": "Bank of America",
   "BG": "Bunge Global SA",
   "BRBR": "BellRing Brands",
   "CI": "The Cigna Group",
   "COIN": "Coinbase Global",
   "DIS": "The Walt Disney",
+  "RRC": "Range Resources",
   "WDC": "Western Digital",
   "WSM": "Williams-Sonoma",
   "META": "Meta Platforms",
@@ -8969,14 +8949,14 @@
   "MTH": "Meritage Homes",
   "QBTS": "D-Wave Quantum",
   "BILL": "BILL Holdings",
-  "CLH": "Clean Harbors",
+  "CSCO": "Cisco Systems",
   "EGO": "Eldorado Gold",
   "FHN": "First Horizon",
   "GWW": "W.W. Grainger",
+  "HSBC": "HSBC Holdings",
   "MT": "ArcelorMittal",
   "NXE": "NexGen Energy",
   "POST": "Post Holdings",
-  "UNH": "United Health",
   "MSTR": "MicroStrategy",
   "CRUS": "Cirrus Logic",
   "HL": "Hecla Mining",
@@ -9015,6 +8995,7 @@
   "RS": "Reliance",
   "SQ": "Cash App",
   "AES": "The AES",
+  "BLSH": "Bullish",
   "CNC": "Centene",
   "COMP": "Compass",
   "ESTC": "Elastic",
@@ -9035,14 +9016,13 @@
   "ORCL": "Oracle",
   "SAP": "SAP SE",
   "SPCX": "SpaceX",
-  "TWLO": "Twilio",
   "ALC": "Alcon",
   "BRZE": "Braze",
   "FDX": "FedEx",
   "INTC": "Intel",
   "DAVE": "Dave",
   "FLEX": "Flex",
-  "LEA": "Lear",
+  "IEX": "IDEX",
   "LYFT": "Lyft",
   "MSCI": "MSCI",
   "NKE": "NIKE",
