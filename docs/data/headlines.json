@@ -1,8 +1,54 @@
 {
- "generated": "2026-11-20T06:53:27.511608+00:00",
+ "generated": "2026-11-20T06:59:13.724997+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "39989130065f",
+   "title": "Ross Stores declares $0.445 dividend",
+   "link": "https://seekingalpha.com/news/4675041-ross-stores-declares-0445-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-20T06:53:25+00:00",
+   "tickers": [
+    "ROST"
+   ]
+  },
+  {
+   "id": "0c178f681008",
+   "title": "Amphenol: More Connections Per System Drive Profit Growth",
+   "link": "https://seekingalpha.com/article/4970471-amphenol-more-connections-per-system-drive-profit-growth?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-20T06:53:02+00:00",
+   "tickers": [
+    "APH"
+   ]
+  },
+  {
+   "id": "e2153965c9dd",
+   "title": "Precinct Properties New Zealand Limited, Precinct Properties Investments Limited (AOTUD) Shareholder/Analyst Call Transcript",
+   "link": "https://seekingalpha.com/article/4970455-precinct-properties-new-zealand-limited-precinct-properties-investments-limited-aotud?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-20T06:52:53+00:00",
+   "tickers": []
+  },
   {
    "id": "c103c88c106e",
    "title": "Equinor ASA: Announcement of cash dividend of NOK 3.7448 per share for second quarter 2026",
@@ -96,6 +142,50 @@
    "tickers": []
   },
   {
+   "id": "5168a242aec3",
+   "title": "Araghchi mocks Israeli envoy over US troops comments",
+   "link": "https://biztoc.com/x/fee0d9493b194a7f?ref=rss",
+   "summary": "Iranian Foreign Minister Abbas Araghchi mocked Israeli Ambassador to the United States Yechiel Leiter on Friday over his comments on US troops returning home.\"We did not know that the Israeli Ambassad...",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-20T06:44:10+00:00",
+   "tickers": []
+  },
+  {
+   "id": "7ebfc43a1528",
+   "title": "Support tech fixed malware by charging client less for their services",
+   "link": "https://biztoc.com/x/e0167ee7752946e1?ref=rss",
+   "summary": "Palo Alto Networks opens wallet for open-weight training biz Security shop buys the hand that feeds it - SC26 Qualcomm offers test drive of its rack-scale Nvidia AI challenger Selected customers can put Dragonfly AI200 through its paces on Cirrascale's cloud - To rank the world's biggest…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-20T06:44:10+00:00",
+   "tickers": [
+    "PANW"
+   ]
+  },
+  {
+   "id": "c894a98b7ccc",
+   "title": "Poland unveils suspected violation of airspace",
+   "link": "https://biztoc.com/x/fed3d03b6ee1a4b2?ref=rss",
+   "summary": "The Polish Armed Forces Operational Command announced on Friday that unidentified aerial objects potentially violated the country's airspace.In a statement shared on social media, the military said it...",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-20T06:44:09+00:00",
+   "tickers": []
+  },
+  {
    "id": "874ff5e480fc",
    "title": "How Milan's Property and Wealth Boom Is Pricing Out Residents",
    "link": "https://biztoc.com/x/2cedb5e3761d77f8?ref=rss",
@@ -107,6 +197,20 @@
    "sentiment": "neutral",
    "domain": "biztoc.com",
    "published": "2026-11-20T06:44:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "0af4ed1a0b63",
+   "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
+   "link": "https://biztoc.com/x/050b746157e671f9?ref=rss",
+   "summary": "PHP's default file-based session storage can be made to return objects an attacker chose, by cutting off a session write at the right moment. When combined with a second weakness, such as a suitable gadget chain in the app, those objects can allow the attacker to run code on the server. Today's…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-20T06:43:41+00:00",
    "tickers": []
   },
   {
@@ -8623,106 +8727,6 @@
    "domain": "investing.com",
    "published": "2026-11-20T02:01:35+00:00",
    "tickers": []
-  },
-  {
-   "id": "03a8ef4edfd0",
-   "title": "NexPoint director Brian Mitts sells $56,750 in company stock",
-   "link": "https://www.investing.com/news/insider-trading-news/nexpoint-director-brian-mitts-sells-56750-in-company-stock-93CH-5040509",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-20T02:01:05+00:00",
-   "tickers": []
-  },
-  {
-   "id": "66d361bfecb6",
-   "title": "NexPoint Residential CFO Paul Richards buys $14,740 in company stock",
-   "link": "https://www.investing.com/news/insider-trading-news/nexpoint-residential-cfo-paul-richards-buys-14740-in-company-stock-93CH-5040508",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-20T02:01:04+00:00",
-   "tickers": []
-  },
-  {
-   "id": "2bcf63fd5f75",
-   "title": "Kura Oncology CCO Brian Powl sells $3,256 in shares",
-   "link": "https://www.investing.com/news/insider-trading-news/kura-oncology-cco-brian-powl-sells-3256-in-shares-93CH-5040507",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-20T02:01:03+00:00",
-   "tickers": []
-  },
-  {
-   "id": "c60fe232fec7",
-   "title": "Grand Theft Auto VI draws rave reviews as gamers enter Vice City",
-   "link": "https://www.investing.com/news/stock-market-news/gamers-get-ready-to-enter-vice-city-as-grand-theft-auto-vi-begins-globalrollout-5035485",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-20T02:00:45+00:00",
-   "tickers": []
-  },
-  {
-   "id": "34cf34cec074",
-   "title": "Thai Stock Market May See Renewed Selling Pressure On Friday",
-   "link": "https://www.nasdaq.com/articles/thai-stock-market-may-see-renewed-selling-pressure-friday",
-   "summary": "(RTTNews) - The Thai stock market on Thursday ended the three-day slide in which it had given up almost 35 points or 2.2 percent. The Stock Exchange of Thailand now sits just above the 1,470-point plateau although it may turn lower again on Friday.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-20T02:00:25+00:00",
-   "tickers": []
-  },
-  {
-   "id": "fa75aa4fe1a1",
-   "title": "Spectral AI, Inc. Enters into $15.0 million Standby Equity Purchase Agreement",
-   "link": "https://www.nasdaq.com/articles/spectral-ai-inc-enters-150-million-standby-equity-purchase-agreement",
-   "summary": "On November 13, 2026, Spectral AI, Inc. entered into a Standby Equity Purchase Agreement with YA II PN, LTD, which amends the Standby Equity Purchase Agreement previously entered into on March 19, 2024. Under the agreement, Spectral AI, Inc. has the right to sell to YA II PN, LTD",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-20T01:58:56+00:00",
-   "tickers": []
-  },
-  {
-   "id": "2a1c2574d09a",
-   "title": "Intuit Inc. Recasts Historical Financials to Reflect Segment Change Effective August 1, 2026",
-   "link": "https://www.nasdaq.com/articles/intuit-inc-recasts-historical-financials-reflect-segment-change-effective-august-1-2026",
-   "summary": "Intuit Inc. filed a Current Report on Form 8-K to provide recast consolidated financial information for each of the three years covered in its Annual Report on Form 10-K for the fiscal year ended July 31, 2026. This update conforms to a segment reporting change effective August 1",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-20T01:58:47+00:00",
-   "tickers": [
-    "INTU"
-   ]
   }
  ],
  "ticker_names": {
@@ -8754,6 +8758,7 @@
   "MGA": "Magna International",
   "LUNR": "Intuitive Machines",
   "NYT": "The New York Times",
+  "PANW": "Palo Alto Networks",
   "BEAM": "Beam Therapeutics",
   "CVLT": "Commvault Systems",
   "LITE": "Lumentum Holdings",
@@ -8801,6 +8806,7 @@
   "DT": "Dynatrace",
   "FRO": "Frontline",
   "NWSA": "News Corp",
+  "APH": "Amphenol",
   "APPF": "AppFolio",
   "DASH": "DoorDash",
   "NI": "NiSource",
