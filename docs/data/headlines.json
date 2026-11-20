@@ -1,8 +1,24 @@
 {
- "generated": "2026-11-20T07:50:41.321499+00:00",
+ "generated": "2026-11-20T07:57:02.129140+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "6ebaa24c50a1",
+   "title": "Nasdaq futures fall after Anthropic fails to lift market sentiment: Live updates",
+   "link": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
+   "summary": "The major averages fell more than 2% each in regular trading.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "cnbc.com",
+   "published": "2026-11-20T07:55:46+00:00",
+   "tickers": [
+    "NDAQ"
+   ]
+  },
   {
    "id": "871a3487ba26",
    "title": "Huhtamaki's financial reporting 2027",
@@ -77,6 +93,20 @@
    "sentiment": "neutral",
    "domain": "globenewswire.com",
    "published": "2026-11-20T07:45:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b4960b4ccd3a",
+   "title": "New Found Gold: Production Begins, As Gold Forecasts Remain Positive",
+   "link": "https://seekingalpha.com/article/4970489-new-found-goldproduction-begins-as-gold-forecasts-remain-positive?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-20T07:44:59+00:00",
    "tickers": []
   },
   {
@@ -392,25 +422,6 @@
    "tickers": []
   },
   {
-   "id": "85536830706d",
-   "title": "Stock Indices Plunge Amid Broad Market Weakness",
-   "link": "https://www.nasdaq.com/articles/stock-indices-plunge-amid-broad-market-weakness",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down -2.02% on Thursday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -2.19%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -2.21%. December E-mini S&P futures (ESZ26 ) fell -2.03%, and December E-mini Nasdaq futures...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-11-20T07:38:05+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
-   ]
-  },
-  {
    "id": "a078f1fe9fc7",
    "title": "German producer prices surge 8.1% in October",
    "link": "https://www.investing.com/news/economic-indicators/german-producer-prices-surge-81-in-october-93CH-5040838",
@@ -453,22 +464,6 @@
    "domain": "investing.com",
    "published": "2026-11-20T07:36:38+00:00",
    "tickers": []
-  },
-  {
-   "id": "6ebaa24c50a1",
-   "title": "Nasdaq futures fall after Anthropic fails to lift market sentiment: Live updates",
-   "link": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
-   "summary": "The major averages fell more than 2% each in regular trading.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "negative",
-   "domain": "cnbc.com",
-   "published": "2026-11-20T07:35:55+00:00",
-   "tickers": [
-    "NDAQ"
-   ]
   },
   {
    "id": "7e1de646f52a",
@@ -5909,6 +5904,25 @@
    "tickers": []
   },
   {
+   "id": "85536830706d",
+   "title": "Stock Indices Plunge Amid Broad Market Weakness",
+   "link": "https://www.nasdaq.com/articles/stock-indices-plunge-amid-broad-market-weakness",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down -2.02% on Thursday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -2.19%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -2.21%. December E-mini S&P futures (ESZ26 ) fell -2.03%, and December E-mini Nasdaq futures...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-11-20T04:55:15+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
+  },
+  {
    "id": "863dea89c150",
    "title": "Corpay, TPG To Buy BILL Holdings For $6 Bln",
    "link": "https://www.nasdaq.com/articles/corpay-tpg-buy-bill-holdings-6-bln",
@@ -8748,22 +8762,6 @@
    "domain": "prnewswire.com",
    "published": "2026-11-20T03:11:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "71eee066a5c4",
-   "title": "AV Access Unveils iDock B12 8K KVM Docking Station for High-Refresh Gaming and Dual-Computer Workstations",
-   "link": "https://www.prnewswire.com/news-releases/av-access-unveils-idock-b12-8k-kvm-docking-station-for-high-refresh-gaming-and-dual-computer-workstations-302946392.html",
-   "summary": "The iDock B12 delivers smooth 4K@165Hz gaming with VRR, 2.5GbE networking, and 11-in-1 connectivity for dual-PC setups. SPOKANE, Wash., Nov. 19, 2026 /PRNewswire/ -- AV Access, a leading provider of Pro AV and AV over IP solutions, has introduced the iDock B12, an 8K dual-monitor KVM...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-11-20T03:09:00+00:00",
-   "tickers": [
-    "IP"
-   ]
   }
  ],
  "ticker_names": {
@@ -8794,7 +8792,6 @@
   "PG": "The Procter & Gamble",
   "SMCI": "Super Micro Computer",
   "AKAM": "Akamai Technologies",
-  "IP": "International Paper",
   "MGA": "Magna International",
   "LUNR": "Intuitive Machines",
   "NYT": "The New York Times",
