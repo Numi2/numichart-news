@@ -1,8 +1,39 @@
 {
- "generated": "2026-11-20T10:12:35.290104+00:00",
+ "generated": "2026-11-20T10:20:07.233500+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "8671f41b2b84",
+   "title": "Omnicell: Turning A Net Cash Balance Sheet Into A Weapon Against Pyxis",
+   "link": "https://seekingalpha.com/article/4970525-omnicell-turning-a-net-cash-balance-sheet-into-a-weapon-against-pyxis?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-20T10:14:37+00:00",
+   "tickers": []
+  },
+  {
+   "id": "5a5fc625d1e0",
+   "title": "Supermicro levert eerste all-flash-opslagservers met PCIe Gen 6-prestaties en brede ondersteuning voor softwaregedefinieerde opslag voor AI-training en -inferentie",
+   "link": "https://www.prnewswire.com/news-releases/supermicro-levert-eerste-all-flash-opslagservers-met-pcie-gen-6-prestaties-en-brede-ondersteuning-voor-softwaregedefinieerde-opslag-voor-ai-training-en--inferentie-302946815.html",
+   "summary": "De nu leverbare all-flash-servers bieden PCIe Gen 6-prestaties met een tot 100% hogere bandbreedte bij sequentieel lezen. Supermicro breidt zijn Petascale-portfolio uit met de eerste van meerdere nieuwe opslagproducten op basis van AMD EPYC™ 9006-processors met SP7- en SP8-sockets. Het...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-11-20T10:14:00+00:00",
+   "tickers": [
+    "AMD",
+    "SMCI"
+   ]
+  },
   {
    "id": "17f35f6c3d69",
    "title": "ONERugged Launches Industrial Panel PCs and Embedded Box PCs for Industry 4.0 Automation",
@@ -727,6 +758,20 @@
    "tickers": [
     "OPEN"
    ]
+  },
+  {
+   "id": "dd15b3261b02",
+   "title": "Kushner says Russia 'comfortable' with idea of NATO-like security guarantees for Ukraine",
+   "link": "https://www.cnbc.com/2026/11/20/kushner-ukraine-nato-russia-trump-putin.html",
+   "summary": "Kushner said President Donald Trump is open to such a guarantee, but its form and whether Russia and Ukraine would accept it remain unclear.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-11-20T09:56:03+00:00",
+   "tickers": []
   },
   {
    "id": "5121d56f5913",
@@ -8733,50 +8778,6 @@
    "domain": "biztoc.com",
    "published": "2026-11-20T05:58:16+00:00",
    "tickers": []
-  },
-  {
-   "id": "c41f9fd1a9df",
-   "title": "Anthropic Debuts in a New Era for the AI Trade",
-   "link": "https://biztoc.com/x/b90ec05aa4fd636a?ref=rss",
-   "summary": "Oughts-era sitcom star turned venture capitalist Ashton Kutcher hit paydirt with the Anthropic IPO (no joke), but how’s about the rest of us? And what does the historic debut say about the AI trade? Shares of the world’s first publicly traded frontier lab spiked more than 34% in the opening hours…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-20T05:58:14+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b119fe05b540",
-   "title": "Outdated RMD Info Abounds Online",
-   "link": "https://biztoc.com/x/a964a8d2f521706e?ref=rss",
-   "summary": "We all make mistakes sometimes. And slipups are easy when it comes to something as complicated as required minimum distributions, with nearly half of the information online being incomplete at best. Such mistakes are unfortunate but understandable, said Trigg Thorstenson, founder of SimpleRMD,…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-20T05:58:13+00:00",
-   "tickers": [
-    "RMD"
-   ]
-  },
-  {
-   "id": "72a43eda2c72",
-   "title": "2 beloved Cincinnati Zoo animals die a decade apart",
-   "link": "https://biztoc.com/x/b486b482cd0aa2e0?ref=rss",
-   "summary": "The Cincinnati Zoo is once again facing the tragic death of a beloved animal. Fiona the hippo died at the zoo Thursday a decade after Harambe the gorilla.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-20T05:58:13+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8806,6 +8807,7 @@
   "VRTX": "Vertex Pharmaceuticals",
   "OPEN": "Opendoor Technologies",
   "PG": "The Procter & Gamble",
+  "SMCI": "Super Micro Computer",
   "AKAM": "Akamai Technologies",
   "BRK-A": "Berkshire Hathaway",
   "NYT": "The New York Times",
@@ -8884,7 +8886,6 @@
   "INTU": "Intuit",
   "NDAQ": "Nasdaq",
   "RDDT": "Reddit",
-  "RMD": "ResMed",
   "SPCX": "SpaceX",
   "BRZE": "Braze",
   "CR": "Crane",
