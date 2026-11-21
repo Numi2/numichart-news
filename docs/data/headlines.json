@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T09:45:52.063409+00:00",
+ "generated": "2026-11-21T09:51:43.938829+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -75,6 +75,36 @@
    "sentiment": "neutral",
    "domain": "biztoc.com",
    "published": "2026-11-21T09:34:15+00:00",
+   "tickers": []
+  },
+  {
+   "id": "5f300e93ca45",
+   "title": "Casella Waste Systems executive VP sells $700,000 in stock",
+   "link": "https://www.investing.com/news/insider-trading-news/casella-waste-systems-executive-vp-sells-700000-in-stock-93CH-5043317",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-21T09:31:15+00:00",
+   "tickers": [
+    "CWST"
+   ]
+  },
+  {
+   "id": "1023efc9fed9",
+   "title": "3D Systems director Thomas W. Erickson buys $163,200 in stock",
+   "link": "https://www.investing.com/news/insider-trading-news/3d-systems-director-thomas-w-erickson-buys-163200-in-stock-93CH-5043316",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-21T09:31:03+00:00",
    "tickers": []
   },
   {
@@ -8798,36 +8828,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-11-21T00:32:45+00:00",
    "tickers": []
-  },
-  {
-   "id": "81ac40685086",
-   "title": "Insmed: Maintaining Strong Buy On Commercial Execution And Takeover Interest",
-   "link": "https://seekingalpha.com/article/4970736-insmed-maintaining-strong-buy-on-commercial-execution-and-takeover-interest?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "ma",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-21T00:31:15+00:00",
-   "tickers": [
-    "INSM"
-   ]
-  },
-  {
-   "id": "b34b02c6dbcf",
-   "title": "PubMatic CEO Rajeev Goel sells $1.03 million in stock",
-   "link": "https://www.investing.com/news/insider-trading-news/pubmatic-ceo-rajeev-goel-sells-103-million-in-stock-93CH-5042944",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-21T00:31:03+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8854,6 +8854,7 @@
   "CHTR": "Charter Communications",
   "SFM": "Sprouts Farmers Market",
   "ZBH": "Zimmer Biomet Holdings",
+  "CWST": "Casella Waste Systems",
   "CRWD": "CrowdStrike Holdings",
   "MCHP": "Microchip Technology",
   "PG": "The Procter & Gamble",
@@ -8960,7 +8961,6 @@
   "ZS": "Zscaler",
   "CPAY": "Corpay",
   "ECL": "Ecolab",
-  "INSM": "Insmed",
   "NDAQ": "Nasdaq",
   "ORCL": "Oracle",
   "PFE": "Pfizer",
