@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T10:08:26.280980+00:00",
+ "generated": "2026-11-21T10:16:09.584678+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -218,6 +218,20 @@
    "tickers": []
   },
   {
+   "id": "edbca908508b",
+   "title": "Anthropic’s Debut Shows the Disconnect Between Wall Street and Silicon Valley",
+   "link": "https://www.nytimes.com/2026/11/21/business/anthropics-debut-shows-the-disconnect-between-wall-street-and-silicon-valley.html",
+   "summary": "The A.I. giant broke records with its initial public offering this week before a rocky first full day of trading, as the markets plunged on worries about artificial intelligence spending.",
+   "article_text": "",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-11-21T10:03:44+00:00",
+   "tickers": []
+  },
+  {
    "id": "46d0237915c4",
    "title": "How to Plan for an A.I. Emergency, or Any Calamity",
    "link": "https://www.nytimes.com/2026/11/21/business/ai-emergency-plan.html",
@@ -300,6 +314,25 @@
    "domain": "nytimes.com",
    "published": "2026-11-21T10:00:25+00:00",
    "tickers": []
+  },
+  {
+   "id": "1da8d0fb5f6e",
+   "title": "Stocks Meltdown as AI Trade Unravels",
+   "link": "https://www.nasdaq.com/articles/stocks-meltdown-ai-trade-unravels",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down -3.70% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -1.93%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -5.61%. December E-mini S&P futures (ESZ26 ) fell -3.34%, and December E-mini Nasdaq futures...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-21T10:00:21+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
   },
   {
    "id": "4e8f1cb68ee6",
@@ -793,25 +826,6 @@
    "domain": "investing.com",
    "published": "2026-11-21T09:12:18+00:00",
    "tickers": []
-  },
-  {
-   "id": "1da8d0fb5f6e",
-   "title": "Stocks Meltdown as AI Trade Unravels",
-   "link": "https://www.nasdaq.com/articles/stocks-meltdown-ai-trade-unravels",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down -3.70% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -1.93%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -5.61%. December E-mini S&P futures (ESZ26 ) fell -3.34%, and December E-mini Nasdaq futures...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-21T09:11:20+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
-   ]
   },
   {
    "id": "156a731cfdf1",
@@ -8782,20 +8796,6 @@
    "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-11-21T00:50:35+00:00",
-   "tickers": []
-  },
-  {
-   "id": "25a7131d13ed",
-   "title": "LiveOne, Inc. Enters Shares Issuance Agreement and Extends Performance License Agreement",
-   "link": "https://www.nasdaq.com/articles/liveone-inc-enters-shares-issuance-agreement-and-extends-performance-license-agreement",
-   "summary": "Effective as of September 10, 2026, LiveOne, Inc., its wholly owned subsidiary Slacker, Inc., and Global Music Rights, LLC entered into a Shares Issuance Agreement pursuant to which the Company agreed to issue to GMR 40,000 shares of its common stock, $0.001 par value per share.",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-21T00:49:38+00:00",
    "tickers": []
   }
  ],
