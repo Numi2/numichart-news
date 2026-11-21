@@ -1,8 +1,24 @@
 {
- "generated": "2026-11-21T16:51:11.073993+00:00",
+ "generated": "2026-11-21T16:58:18.073168+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "38d1c663b3f8",
+   "title": "‘Texans don’t want ICE killing people here’: TX Lt. Gov-Elect on Homan’s vow to increase ICE arrests",
+   "link": "https://biztoc.com/x/4e1478f0a04999f3?ref=rss",
+   "summary": "ICE released data showing that it has deported more than 483K people this year alone, the highest annual figure in ICE's reported ...",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-21T16:51:39+00:00",
+   "tickers": [
+    "ICE"
+   ]
+  },
   {
    "id": "cf8a8d9bd76a",
    "title": "L'ADFW 2026 dévoile son programme le plus ambitieux jamais conçu en collaboration avec ses partenaires, avec L'IMAD en tête d'affiche",
@@ -16,6 +32,22 @@
    "domain": "prnewswire.com",
    "published": "2026-11-21T16:45:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "7e12c9154b0e",
+   "title": "Why Applied Aerospace & Defense Stock Tanked This Week",
+   "link": "https://www.nasdaq.com/articles/why-applied-aerospace-defense-stock-tanked-week",
+   "summary": "Key PointsWall Street downgrades and mounting operational headwinds sent Applied Aerospace & Defense stock plunging 23.3% this week.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-21T16:41:14+00:00",
+   "tickers": [
+    "AMAT"
+   ]
   },
   {
    "id": "f933563456b7",
@@ -230,6 +262,20 @@
    "tickers": [
     "NDAQ"
    ]
+  },
+  {
+   "id": "14e9e39324ba",
+   "title": "If I Could Only Hold 1 ETF Through the Next Stock Market Crash, Here's What I'd Buy",
+   "link": "https://www.nasdaq.com/articles/if-i-could-only-hold-1-etf-through-next-stock-market-crash-heres-what-id-buy",
+   "summary": "Key PointsThe best ETF to hold through a market crash is one you can hold through good and bad.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-11-21T16:35:02+00:00",
+   "tickers": []
   },
   {
    "id": "e5268a491f9d",
@@ -8724,50 +8770,6 @@
    "tickers": [
     "BYD"
    ]
-  },
-  {
-   "id": "537e3a7924b9",
-   "title": "Yamazaki Baking (TSE:2212) Stock Still Looks Reasonable Despite A 203% Run",
-   "link": "https://biztoc.com/x/77f2d7040b99ac9b?ref=rss",
-   "summary": "Yamazaki Baking has delivered strong share price gains in recent years, which naturally raises the question of whether the current ¥4,322 level is still grounded in the cash it can generate for shareholders. With a Discounted Cash Flow (DCF) intrinsic value estimate available, the stock invites a…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-21T09:34:44+00:00",
-   "tickers": []
-  },
-  {
-   "id": "720c34e5d8cd",
-   "title": "Stock Looks Like A Bargain On Cash Flow",
-   "link": "https://biztoc.com/x/3ede35f616f4c924?ref=rss",
-   "summary": "Donaldson Company has pulled back over the past year after a strong multi year run, which puts the focus squarely on whether the current share price lines up with the cash the business can generate. With the stock now around US$80.85, investors are asking if that level is still grounded in the…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-21T09:34:26+00:00",
-   "tickers": [
-    "DCI"
-   ]
-  },
-  {
-   "id": "1825b12af1d8",
-   "title": "He Lived in a Mobile Home With No TV, No Computer and Almost No Furniture, and Got Around Town on a Riding Mower. He Studied Financial Publications Beside a Brook. When He Died at 82, He Left $3.8 Million",
-   "link": "https://biztoc.com/x/5b67798c00cc469d?ref=rss",
-   "summary": "The post He Lived in a Mobile Home With No TV, No Computer and Almost No Furniture, and Got Around Town on a Riding Mower. He Studied Financial Publications Beside a Brook. When He Died at 82, He Left $3.8 Million appeared first on 24/7 Wall St.. Geoffrey Holt’s mobile home in Hinsdale, New…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-21T09:34:15+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8798,6 +8800,7 @@
   "CRK": "Comstock Resources",
   "LUV": "Southwest Airlines",
   "NYT": "The New York Times",
+  "AMAT": "Applied Materials",
   "CG": "The Carlyle Group",
   "DELL": "Dell Technologies",
   "LITE": "Lumentum Holdings",
@@ -8851,7 +8854,6 @@
   "MSFT": "Office 365",
   "BLK": "BlackRock",
   "CRWV": "CoreWeave",
-  "DCI": "Donaldson",
   "FRO": "Frontline",
   "SBUX": "Starbucks",
   "NWSA": "News Corp",
