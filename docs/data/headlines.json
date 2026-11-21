@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T17:28:09.498228+00:00",
+ "generated": "2026-11-21T17:34:16.910250+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -50,6 +50,20 @@
    "tickers": [
     "MRCY"
    ]
+  },
+  {
+   "id": "fc6a878f4c15",
+   "title": "Bitcoin rises after falling to two-year low",
+   "link": "https://www.investing.com/news/forex-news/bitcoin-falls-357-to-56814-5043137",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Forex",
+   "category": "fx",
+   "type": "fx",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-11-21T17:12:18+00:00",
+   "tickers": []
   },
   {
    "id": "c3b939afc0c6",
@@ -1258,7 +1272,7 @@
   },
   {
    "id": "83cd2c5f266b",
-   "title": "Treasury secretary rules out further restrictions on Nvidia chip sales to China",
+   "title": "Treasury secretary rules out further curbs on Nvidia chip sales to China",
    "link": "https://seekingalpha.com/news/4675394-bessent-says-no-new-rules-to-bar-nvidia-chip-sales-china?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
    "summary": "",
    "article_text": "",
@@ -8767,22 +8781,6 @@
    "domain": "biztoc.com",
    "published": "2026-11-21T10:20:06+00:00",
    "tickers": []
-  },
-  {
-   "id": "49364175260c",
-   "title": "What Dave Ramsey Told a Caller Whose $1 Million in Student Loans Costs More Interest Than a Typical Paycheck",
-   "link": "https://biztoc.com/x/b1184bbe94a402d2?ref=rss",
-   "summary": "The post What Dave Ramsey Told a Caller Whose $1 Million in Student Loans Costs More Interest Than a Typical Paycheck appeared first on 24/7 Wall St.. One caller on The Ramsey Show summed up a financial emergency in one sentence. Dave Ramsey, the debt-free radio host, posted it to his X account on…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-21T10:20:04+00:00",
-   "tickers": [
-    "DAVE"
-   ]
   }
  ],
  "ticker_names": {
@@ -8897,7 +8895,6 @@
   "FDX": "FedEx",
   "GGG": "Graco",
   "INTC": "Intel",
-  "DAVE": "Dave",
   "ETSY": "Etsy",
   "T": "AT&T",
   "V": "Visa"
