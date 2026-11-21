@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T10:43:51.225453+00:00",
+ "generated": "2026-11-21T10:50:16.435025+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -185,6 +185,20 @@
    "sentiment": "positive",
    "domain": "biztoc.com",
    "published": "2026-11-21T10:31:40+00:00",
+   "tickers": []
+  },
+  {
+   "id": "61208822ad21",
+   "title": "Legend Biotech CEO Ingrid Zhang purchases $163,200 in shares",
+   "link": "https://www.investing.com/news/insider-trading-news/legend-biotech-ceo-ingrid-zhang-purchases-163200-in-shares-93CH-5043358",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-21T10:31:17+00:00",
    "tickers": []
   },
   {
@@ -467,6 +481,20 @@
    "sentiment": "neutral",
    "domain": "biztoc.com",
    "published": "2026-11-21T10:20:11+00:00",
+   "tickers": []
+  },
+  {
+   "id": "3d29f115a35c",
+   "title": "Italy’s Webuild completes €339 million takeover of construction group Trevi",
+   "link": "https://www.investing.com/news/company-news/italys-webuild-completes-339-million-takeover-of-construction-group-trevi-5043350",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-21T10:20:08+00:00",
    "tickers": []
   },
   {
@@ -8743,44 +8771,12 @@
    "domain": "biztoc.com",
    "published": "2026-11-21T01:13:24+00:00",
    "tickers": []
-  },
-  {
-   "id": "ddada4f63d42",
-   "title": "The Dividend Aristocrats Returned 37.4% Over Five Years. Fidelity’s High Dividend Fund Returned 79.93%, Pays More, and Charges 0.15%",
-   "link": "https://biztoc.com/x/354df49b4f1f4b93?ref=rss",
-   "summary": "The post The Dividend Aristocrats Returned 37.4% Over Five Years. Fidelity’s High Dividend Fund Returned 79.93%, Pays More, and Charges 0.15% appeared first on 24/7 Wall St.. The ProShares S&P 500 Dividend Aristocrats ETF (CBOE:NOBL) is many retirees’ default for reliable dividend income. NOBL…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-11-21T01:13:22+00:00",
-   "tickers": [
-    "NOBL",
-    "CBOE"
-   ]
-  },
-  {
-   "id": "e86109e5a501",
-   "title": "Trump, Xi and Putin Raise Stakes for Smaller Powers Like Singapore",
-   "link": "https://biztoc.com/x/f56c6ad40f00b810?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-11-21T01:13:19+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
   "JIRE": "JPMorgan International Research Enhanced Equity ETF",
   "VYMI": "Vanguard International High Dividend Yield ETF",
   "CEF": "Sprott Physical Gold and Silver Trust Units",
-  "NOBL": "ProShares S&P 500 Dividend Aristocrats ETF",
   "DIA": "SPDR Dow Jones Industrial Average ETF",
   "KIE": "State Street SPDR S&P Insurance ETF",
   "TTWO": "Take-Two Interactive Software",
