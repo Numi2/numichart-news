@@ -1,8 +1,22 @@
 {
- "generated": "2026-11-21T03:33:54.286373+00:00",
+ "generated": "2026-11-21T03:39:59.945335+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "47ec2d759277",
+   "title": "CECO Environmental Corp. (CECO) Presents at 18th Annual Southwest IDEAS Conference - Slideshow",
+   "link": "https://seekingalpha.com/article/4970768-ceco-environmental-corp-ceco-presents-at-18th-annual-southwest-ideas-conference-slideshow?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-21T03:33:15+00:00",
+   "tickers": []
+  },
   {
    "id": "42d6f845a9b7",
    "title": "Pernod Ricard SA (PRNDY) Shareholder/Analyst Call - Slideshow",
@@ -202,53 +216,6 @@
    "tickers": []
   },
   {
-   "id": "749e977140c3",
-   "title": "Corn Holding onto Friday Losses at Midday",
-   "link": "https://www.nasdaq.com/articles/corn-holding-friday-losses-midday",
-   "summary": "Corn futures are trading with 1 to 3 cent losses across most contracts at midday. December options expire today. The CmdtyView national average Cash Corn price is down 3/4 cent at $4.06 1/2. Export Sales data from Thursday tallied corn export commitments at 29.261 MMT, 28% behind the same week...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-11-21T03:21:48+00:00",
-   "tickers": []
-  },
-  {
-   "id": "1da8d0fb5f6e",
-   "title": "Stocks Meltdown as AI Trade Unravels",
-   "link": "https://www.nasdaq.com/articles/stocks-meltdown-ai-trade-unravels",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down -3.70% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -1.93%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -5.61%. December E-mini S&P futures (ESZ26 ) fell -3.34%, and December E-mini Nasdaq futures...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-21T03:21:48+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
-   ]
-  },
-  {
-   "id": "527a2b534759",
-   "title": "Wheat Closes Mixed on Friday",
-   "link": "https://www.nasdaq.com/articles/wheat-closes-mixed-friday-0",
-   "summary": "The wheat complex saw mixed trade on Friday, as December options expired. Chicago SRW futures were mixed, with front months steady to 4 cents lower and deferreds fractionally to 2 ½ cents higher. December was 19 cents lower for the week. KC HRW futures were anywhere from 1 cent lower...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-21T03:21:48+00:00",
-   "tickers": []
-  },
-  {
    "id": "cc2ff1b9b25a",
    "title": "Wonder weighs Grubhub sale as retailers emerge as potential buyers - WSJ",
    "link": "https://www.investing.com/news/company-news/wonder-weighs-grubhub-sale-as-retailers-emerge-as-potential-buyers--wsj-5043112",
@@ -303,6 +270,39 @@
    "domain": "investing.com",
    "published": "2026-11-21T03:15:57+00:00",
    "tickers": []
+  },
+  {
+   "id": "749e977140c3",
+   "title": "Corn Holding onto Friday Losses at Midday",
+   "link": "https://www.nasdaq.com/articles/corn-holding-friday-losses-midday",
+   "summary": "Corn futures are trading with 1 to 3 cent losses across most contracts at midday. December options expire today. The CmdtyView national average Cash Corn price is down 3/4 cent at $4.06 1/2. Export Sales data from Thursday tallied corn export commitments at 29.261 MMT, 28% behind the same week...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-11-21T03:15:55+00:00",
+   "tickers": []
+  },
+  {
+   "id": "1da8d0fb5f6e",
+   "title": "Stocks Meltdown as AI Trade Unravels",
+   "link": "https://www.nasdaq.com/articles/stocks-meltdown-ai-trade-unravels",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down -3.70% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -1.93%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -5.61%. December E-mini S&P futures (ESZ26 ) fell -3.34%, and December E-mini Nasdaq futures...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-21T03:15:55+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
   },
   {
    "id": "688cbc46a915",
@@ -940,6 +940,20 @@
    "sentiment": "neutral",
    "domain": "prnewswire.com",
    "published": "2026-11-21T02:51:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "527a2b534759",
+   "title": "Wheat Closes Mixed on Friday",
+   "link": "https://www.nasdaq.com/articles/wheat-closes-mixed-friday-0",
+   "summary": "The wheat complex saw mixed trade on Friday, as December options expired. Chicago SRW futures were mixed, with front months steady to 4 cents lower and deferreds fractionally to 2 ½ cents higher. December was 19 cents lower for the week. KC HRW futures were anywhere from 1 cent lower...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-21T02:49:58+00:00",
    "tickers": []
   },
   {
@@ -8850,20 +8864,6 @@
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
    "published": "2026-11-20T22:21:39+00:00",
-   "tickers": []
-  },
-  {
-   "id": "fa0dd375d7ee",
-   "title": "SUNation Energy GAAP EPS of -$1.81, revenue of $11.2M",
-   "link": "https://seekingalpha.com/news/4675372-sunation-energy-gaap-eps-of-1_81-revenue-of-11_2m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-20T22:20:35+00:00",
    "tickers": []
   }
  ],
