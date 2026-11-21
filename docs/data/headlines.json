@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T03:39:59.945335+00:00",
+ "generated": "2026-11-21T03:46:33.554950+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -29,6 +29,66 @@
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
    "published": "2026-11-21T03:32:34+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e3725fdceeab",
+   "title": "Home Depot chair Edward Decker sells $6.55M in shares",
+   "link": "https://www.investing.com/news/insider-trading-news/home-depot-chair-edward-decker-sells-655m-in-shares-93CH-5043120",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-21T03:31:06+00:00",
+   "tickers": [
+    "HD"
+   ]
+  },
+  {
+   "id": "81b941d38e9d",
+   "title": "Peloton chief accounting officer Saqib Baig sells $14,582 in stock",
+   "link": "https://www.investing.com/news/insider-trading-news/peloton-chief-accounting-officer-saqib-baig-sells-14582-in-stock-93CH-5043119",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-21T03:30:57+00:00",
+   "tickers": []
+  },
+  {
+   "id": "8fec957e9bec",
+   "title": "Peloton COO Charles Kirol sells $35,736 in PTON shares",
+   "link": "https://www.investing.com/news/insider-trading-news/peloton-coo-charles-kirol-sells-35736-in-pton-shares-93CH-5043118",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-21T03:30:50+00:00",
+   "tickers": [
+    "PTON"
+   ]
+  },
+  {
+   "id": "d9d95311804f",
+   "title": "San Juan Basin Royalty Trust director Eric Oliver buys $1.8M units",
+   "link": "https://www.investing.com/news/insider-trading-news/san-juan-basin-royalty-trust-director-eric-oliver-buys-18m-units-93CH-5043117",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-21T03:30:48+00:00",
    "tickers": []
   },
   {
@@ -216,6 +276,53 @@
    "tickers": []
   },
   {
+   "id": "749e977140c3",
+   "title": "Corn Holding onto Friday Losses at Midday",
+   "link": "https://www.nasdaq.com/articles/corn-holding-friday-losses-midday",
+   "summary": "Corn futures are trading with 1 to 3 cent losses across most contracts at midday. December options expire today. The CmdtyView national average Cash Corn price is down 3/4 cent at $4.06 1/2. Export Sales data from Thursday tallied corn export commitments at 29.261 MMT, 28% behind the same week...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-11-21T03:21:48+00:00",
+   "tickers": []
+  },
+  {
+   "id": "1da8d0fb5f6e",
+   "title": "Stocks Meltdown as AI Trade Unravels",
+   "link": "https://www.nasdaq.com/articles/stocks-meltdown-ai-trade-unravels",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down -3.70% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -1.93%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -5.61%. December E-mini S&P futures (ESZ26 ) fell -3.34%, and December E-mini Nasdaq futures...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-21T03:21:48+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
+  },
+  {
+   "id": "527a2b534759",
+   "title": "Wheat Closes Mixed on Friday",
+   "link": "https://www.nasdaq.com/articles/wheat-closes-mixed-friday-0",
+   "summary": "The wheat complex saw mixed trade on Friday, as December options expired. Chicago SRW futures were mixed, with front months steady to 4 cents lower and deferreds fractionally to 2 ½ cents higher. December was 19 cents lower for the week. KC HRW futures were anywhere from 1 cent lower...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-21T03:21:48+00:00",
+   "tickers": []
+  },
+  {
    "id": "cc2ff1b9b25a",
    "title": "Wonder weighs Grubhub sale as retailers emerge as potential buyers - WSJ",
    "link": "https://www.investing.com/news/company-news/wonder-weighs-grubhub-sale-as-retailers-emerge-as-potential-buyers--wsj-5043112",
@@ -270,39 +377,6 @@
    "domain": "investing.com",
    "published": "2026-11-21T03:15:57+00:00",
    "tickers": []
-  },
-  {
-   "id": "749e977140c3",
-   "title": "Corn Holding onto Friday Losses at Midday",
-   "link": "https://www.nasdaq.com/articles/corn-holding-friday-losses-midday",
-   "summary": "Corn futures are trading with 1 to 3 cent losses across most contracts at midday. December options expire today. The CmdtyView national average Cash Corn price is down 3/4 cent at $4.06 1/2. Export Sales data from Thursday tallied corn export commitments at 29.261 MMT, 28% behind the same week...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-11-21T03:15:55+00:00",
-   "tickers": []
-  },
-  {
-   "id": "1da8d0fb5f6e",
-   "title": "Stocks Meltdown as AI Trade Unravels",
-   "link": "https://www.nasdaq.com/articles/stocks-meltdown-ai-trade-unravels",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down -3.70% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -1.93%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -5.61%. December E-mini S&P futures (ESZ26 ) fell -3.34%, and December E-mini Nasdaq futures...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-21T03:15:55+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
-   ]
   },
   {
    "id": "688cbc46a915",
@@ -940,20 +1014,6 @@
    "sentiment": "neutral",
    "domain": "prnewswire.com",
    "published": "2026-11-21T02:51:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "527a2b534759",
-   "title": "Wheat Closes Mixed on Friday",
-   "link": "https://www.nasdaq.com/articles/wheat-closes-mixed-friday-0",
-   "summary": "The wheat complex saw mixed trade on Friday, as December options expired. Chicago SRW futures were mixed, with front months steady to 4 cents lower and deferreds fractionally to 2 ½ cents higher. December was 19 cents lower for the week. KC HRW futures were anywhere from 1 cent lower...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-21T02:49:58+00:00",
    "tickers": []
   },
   {
@@ -8809,62 +8869,6 @@
    "tickers": [
     "LMT"
    ]
-  },
-  {
-   "id": "e1cc081e36b7",
-   "title": "Charlie's Holdings reports results",
-   "link": "https://seekingalpha.com/news/4675373-charlies-holdings-reports-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-20T22:23:08+00:00",
-   "tickers": []
-  },
-  {
-   "id": "46ef3a51f553",
-   "title": "Spot gold posts worst week in 8 months, futures notch worst week since March 2020",
-   "link": "https://www.investing.com/news/commodities-news/gold-slides-to-14mth-low-set-for-weekly-drop-amid-fed-hike-bets-5040648",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-20T22:23:04+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d67725739617",
-   "title": "VisionWave Holdings shareholders approve major share increase and new incentive plan",
-   "link": "https://www.investing.com/news/sec-filings/visionwave-holdings-shareholders-approve-major-share-increase-and-new-incentive-plan-93CH-5042793",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-11-20T22:22:18+00:00",
-   "tickers": []
-  },
-  {
-   "id": "4a4c03b650ce",
-   "title": "AI coding platform Cognition embarks on new $2B funding round: report",
-   "link": "https://seekingalpha.com/news/4675369-ai-coding-platform-cognition-embarks-on-new-2b-funding-round-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-20T22:21:39+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8892,6 +8896,7 @@
   "LHX": "L3Harris Technologies",
   "CRWD": "CrowdStrike Holdings",
   "VOO": "Vanguard S&P 500 ETF",
+  "PTON": "Peloton Interactive",
   "SYF": "Synchrony Financial",
   "ACGL": "Arch Capital Group",
   "BEN": "Franklin Resources",
@@ -8924,6 +8929,7 @@
   "B": "Barrick Mining",
   "DPZ": "Domino's Pizza",
   "GM": "General Motors",
+  "HD": "The Home Depot",
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
   "NEE": "NextEra Energy",
