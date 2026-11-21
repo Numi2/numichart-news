@@ -1,8 +1,22 @@
 {
- "generated": "2026-11-21T19:02:27.474607+00:00",
+ "generated": "2026-11-21T19:11:41.979087+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "e3b149c7e6e5",
+   "title": "Russian cargo ship hit by drones in Baltic, Finland tightens security",
+   "link": "https://www.cnbc.com/2026/11/21/russian-cargo-ship-hit-by-drones-in-baltic-finland-tightens-security.html",
+   "summary": "The Sparta II was damaged in international waters west of Russia's Gogland island, Finland's Defence Forces said.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-11-21T19:06:33+00:00",
+   "tickers": []
+  },
   {
    "id": "6a39e325f54b",
    "title": "How to Go 2x Long Anthropic (ANT): Leverage Shares by Themes Explains ANUU, the 2x Leveraged Anthropic ETF Launching Monday",
@@ -178,6 +192,25 @@
    "published": "2026-11-21T18:57:35+00:00",
    "tickers": [
     "DG"
+   ]
+  },
+  {
+   "id": "1da8d0fb5f6e",
+   "title": "Stocks Meltdown as AI Trade Unravels",
+   "link": "https://www.nasdaq.com/articles/stocks-meltdown-ai-trade-unravels",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down -3.70% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -1.93%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -5.61%. December E-mini S&P futures (ESZ26 ) fell -3.34%, and December E-mini Nasdaq futures...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-21T18:56:37+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
    ]
   },
   {
@@ -645,25 +678,6 @@
    "domain": "biztoc.com",
    "published": "2026-11-21T18:27:14+00:00",
    "tickers": []
-  },
-  {
-   "id": "1da8d0fb5f6e",
-   "title": "Stocks Meltdown as AI Trade Unravels",
-   "link": "https://www.nasdaq.com/articles/stocks-meltdown-ai-trade-unravels",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down -3.70% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -1.93%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -5.61%. December E-mini S&P futures (ESZ26 ) fell -3.34%, and December E-mini Nasdaq futures...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-21T18:23:44+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
-   ]
   },
   {
    "id": "fbccda6d68a8",
@@ -8809,20 +8823,6 @@
    "sentiment": "neutral",
    "domain": "biztoc.com",
    "published": "2026-11-21T11:51:42+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b5651f3fb782",
-   "title": "France rejects EU budget proposal over farm funding concerns",
-   "link": "https://biztoc.com/x/fde511cdabb7d5fc?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-21T11:51:41+00:00",
    "tickers": []
   }
  ],
