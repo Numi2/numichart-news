@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T07:08:03.807419+00:00",
+ "generated": "2026-11-21T07:16:20.253481+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -426,6 +426,20 @@
    "tickers": []
   },
   {
+   "id": "55a69a33ba2a",
+   "title": "After Its Worst Week in 18 Years, Nvidia Now Faces an SEC Investigation. What It Means for Investors",
+   "link": "https://www.nasdaq.com/articles/after-its-worst-week-18-years-nvidia-now-faces-sec-investigation-what-it-means-investors",
+   "summary": "Key PointsNvidia fell 14% on Friday as Reuters reported that the SEC had opened an accounting probe into the company.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-11-21T06:30:05+00:00",
+   "tickers": []
+  },
+  {
    "id": "25cfd322d53e",
    "title": "The Last Word with Lawrence O'Donnell - Nov. 20 | Audio Only",
    "link": "https://biztoc.com/x/d5314c18f7cd3d98?ref=rss",
@@ -815,6 +829,20 @@
    "category": "markets",
    "type": "markets",
    "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-11-21T06:00:02+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e03fc0c14a3c",
+   "title": "Europe's cyber weak spot is the everyday businesses nobody thought to protect",
+   "link": "https://www.cnbc.com/2026/11/21/cyber-attacks-fridges-cybersecurity.html",
+   "summary": "Known vulnerabilities are leaving everyday businesses increasingly exposed to cyber sabotage, as AI enables cybercriminals to work better and faster.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
    "domain": "cnbc.com",
    "published": "2026-11-21T06:00:02+00:00",
    "tickers": []
@@ -8796,38 +8824,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-11-20T23:27:54+00:00",
    "tickers": []
-  },
-  {
-   "id": "6e7ff3d0dbc8",
-   "title": "The Nasdaq Just Had Its 6th Correction in 4 Years. History Says This Is the Likelihood of a Full-Blown Bear Market",
-   "link": "https://biztoc.com/x/d1ea9092535a953b?ref=rss",
-   "summary": "Tech stocks are having a brutal November. The Nasdaq Composite (^IXIC -5.28%) is now down nearly 17% from its Oct. 6 peak. A correction means an index closes at least 10% below its record, while a bear market means a decline of 20% or more. Several factors are weighing on the tech-heavy Nasdaq,…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-20T23:27:38+00:00",
-   "tickers": [
-    "NDAQ"
-   ]
-  },
-  {
-   "id": "64fdb0a8668e",
-   "title": "With GTA 6 Release, DoorDash and Other Food Delivery Apps Are Making a Killing",
-   "link": "https://biztoc.com/x/019f8d87e77901e4?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-20T23:27:17+00:00",
-   "tickers": [
-    "DASH"
-   ]
   }
  ],
  "ticker_names": {
@@ -8932,7 +8928,6 @@
   "NWSA": "News Corp",
   "AVGO": "Broadcom",
   "BCS": "Barclays",
-  "DASH": "DoorDash",
   "DUOL": "Duolingo",
   "GOOG": "Alphabet",
   "RAL": "Ralliant",
