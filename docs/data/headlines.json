@@ -1,8 +1,41 @@
 {
- "generated": "2026-11-21T21:18:38.687170+00:00",
+ "generated": "2026-11-21T21:25:36.250320+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "092cc3958067",
+   "title": "Deposit Costs Climb As Banks Brace For Tougher Competition",
+   "link": "https://seekingalpha.com/article/4970860-deposit-costs-climb-as-banks-brace-for-tougher-competition?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-21T21:20:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "1da8d0fb5f6e",
+   "title": "Stocks Meltdown as AI Trade Unravels",
+   "link": "https://www.nasdaq.com/articles/stocks-meltdown-ai-trade-unravels",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down -3.70% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -1.93%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -5.61%. December E-mini S&P futures (ESZ26 ) fell -3.34%, and December E-mini Nasdaq futures...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-21T21:16:28+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
+  },
   {
    "id": "71c47cf0f488",
    "title": "These Are the Top 10 Largest IPOs Following Anthropic's Historic Market Debut",
@@ -210,6 +243,20 @@
    "sentiment": "neutral",
    "domain": "biztoc.com",
    "published": "2026-11-21T21:14:07+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ec6047dd089b",
+   "title": "Dream of gas-powered vehicles falters in China’s hydrogen capital",
+   "link": "https://www.ft.com/content/91d25e77-efa2-4ced-a9e1-92f53fa18e4d?syn-25a6b1a6=1",
+   "summary": "High costs and dwindling subsidies leave rows of hydrogen-powered buggies sitting idle in the southern city of Foshan",
+   "article_text": "",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "ft.com",
+   "published": "2026-11-21T21:00:02+00:00",
    "tickers": []
   },
   {
@@ -2316,25 +2363,6 @@
    "published": "2026-11-21T18:57:35+00:00",
    "tickers": [
     "DG"
-   ]
-  },
-  {
-   "id": "1da8d0fb5f6e",
-   "title": "Stocks Meltdown as AI Trade Unravels",
-   "link": "https://www.nasdaq.com/articles/stocks-meltdown-ai-trade-unravels",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down -3.70% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -1.93%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -5.61%. December E-mini S&P futures (ESZ26 ) fell -3.34%, and December E-mini Nasdaq futures...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-21T18:56:37+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
    ]
   },
   {
@@ -8814,34 +8842,6 @@
    "sentiment": "neutral",
    "domain": "biztoc.com",
    "published": "2026-11-21T13:53:49+00:00",
-   "tickers": []
-  },
-  {
-   "id": "4ff165eb3bf7",
-   "title": "Anthropic worker claims to have solved a famed math problem with help of AI tool Claude",
-   "link": "https://biztoc.com/x/59f846fcfc46ea00?ref=rss",
-   "summary": "A mathematician who works for artificial intelligence giant Anthropic ANT-Q claims he has solved a Holy Grail of math problems with the help of the company’s AI tool Claude. It marks the second time in recent months that an AI company or someone linked to one claims to have cracked a famed…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-21T13:53:46+00:00",
-   "tickers": []
-  },
-  {
-   "id": "8e4063a24314",
-   "title": "Trump's 'Lake America' Order Challenged Over George Washington Treaty",
-   "link": "https://biztoc.com/x/f6849372893d8385?ref=rss",
-   "summary": "Donald Trump is facing renewed demands to reverse his decision to rename Lake Ontario “Lake America,” as Native American leaders escalate a dispute involving a 232-year-old treaty signed under George Washington. The National Congress of American Indians (NCAI), which represents tribal governments…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-21T13:53:42+00:00",
    "tickers": []
   }
  ],
