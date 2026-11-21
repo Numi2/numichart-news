@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T07:37:38.612068+00:00",
+ "generated": "2026-11-21T07:44:20.401207+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -389,6 +389,20 @@
    "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-11-21T07:01:05+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e320b1366b66",
+   "title": "Split $3,000 Across These 3 Value Stocks and Ignore Them Until 2031",
+   "link": "https://www.nasdaq.com/articles/split-3000-across-these-3-value-stocks-and-ignore-them-until-2031-0",
+   "summary": "Key PointsValue stocks have outperformed growth stocks over the past year.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-21T06:59:02+00:00",
    "tickers": []
   },
   {
@@ -8809,23 +8823,6 @@
    "tickers": [
     "LHX"
    ]
-  },
-  {
-   "id": "f6674c4067a8",
-   "title": "Data Center AI Chips Could Change the Winners: Broadcom and Marvell",
-   "link": "https://biztoc.com/x/e16795d45944b4ab?ref=rss",
-   "summary": "The post Data Center AI Chips Could Change the Winners: Broadcom and Marvell appeared first on 24/7 Wall St.. Broadcom and Marvell stand to benefit as hyperscalers expand custom AI processors alongside merchant GPUs. AI training and inference impose different demands on computing, memory…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-20T23:41:30+00:00",
-   "tickers": [
-    "AVGO",
-    "MRVL"
-   ]
   }
  ],
  "ticker_names": {
@@ -8862,7 +8859,6 @@
   "BEN": "Franklin Resources",
   "BRK-A": "Berkshire Hathaway",
   "ISRG": "Intuitive Surgical",
-  "MRVL": "Marvell Technology",
   "ORA": "Ormat Technologies",
   "RBLX": "Roblox Corporation",
   "CAR": "Avis Budget Group",
