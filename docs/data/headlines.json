@@ -1,8 +1,38 @@
 {
- "generated": "2026-11-21T14:38:16.135756+00:00",
+ "generated": "2026-11-21T14:45:03.960621+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "9758e5cca8ed",
+   "title": "Graco: Dividend Growth And Safety At A Discount",
+   "link": "https://seekingalpha.com/article/4970840-graco-dividend-growth-and-safety-at-a-discount?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-21T14:36:19+00:00",
+   "tickers": [
+    "GGG"
+   ]
+  },
+  {
+   "id": "be44cbc2d723",
+   "title": "Earnings Scoreboard: 11 of 14 reporting firms beat EPS estimates; 12 grow Y/Y profits",
+   "link": "https://seekingalpha.com/news/4675046-earnings-scoreboard-11-of-14-reporting-firms-beat-eps-estimates-12-grow-yy-profits?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-21T14:35:42+00:00",
+   "tickers": []
+  },
   {
    "id": "f1fe10785a20",
    "title": "Endeavour Silver Corp. (EDR:CA) Discusses Pitarrilla Feasibility Study and Long-Term Silver Production - Slideshow",
@@ -458,6 +488,22 @@
     "NDAQ",
     "SPY",
     "DIA"
+   ]
+  },
+  {
+   "id": "91a2f97f16bd",
+   "title": "Costco’s U.S. Comparable Sales Jumped 12.6% in October. Here’s the Number That Shows Its Moat Is Widening.",
+   "link": "https://www.nasdaq.com/articles/costcos-us-comparable-sales-jumped-126-october-heres-number-shows-its-moat-widening",
+   "summary": "Key PointsEven excluding the impact of gas and foreign exchange, Costco's domestic same-store sales were up a strong 8.1%.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-11-21T14:10:02+00:00",
+   "tickers": [
+    "COST"
    ]
   },
   {
@@ -8709,48 +8755,6 @@
    "tickers": [
     "NVMI"
    ]
-  },
-  {
-   "id": "90aee7341ba4",
-   "title": "Kyiv struck by new barrage of Russian missiles",
-   "link": "https://biztoc.com/x/f2def22fb0603f9d?ref=rss",
-   "summary": "Ukraine's capital, Kyiv, came under another Russian ballistic missile attack early on Saturday morning, local time. Local media indicated that the city's bridges may have been targeted again after a l...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-21T05:01:03+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ecbec3f0e834",
-   "title": "Aeon Biopharma CAO Jennifer Sy buys $19,984 of company stock",
-   "link": "https://www.investing.com/news/insider-trading-news/aeon-biopharma-cao-jennifer-sy-buys-19984-of-company-stock-93CH-5043167",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-21T05:01:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "712438cfc931",
-   "title": "Aeon Biopharma CEO Robert Bancroft buys $19,590 in company stock",
-   "link": "https://www.investing.com/news/insider-trading-news/aeon-biopharma-ceo-robert-bancroft-buys-19590-in-company-stock-93CH-5043166",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-21T05:00:57+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8871,6 +8875,7 @@
   "CR": "Crane",
   "FDX": "FedEx",
   "FIG": "Figma",
+  "GGG": "Graco",
   "INTC": "Intel",
   "DAVE": "Dave",
   "ETSY": "Etsy",
