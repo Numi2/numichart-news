@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T19:11:41.979087+00:00",
+ "generated": "2026-11-21T19:17:38.822544+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -15,6 +15,20 @@
    "sentiment": "neutral",
    "domain": "cnbc.com",
    "published": "2026-11-21T19:06:33+00:00",
+   "tickers": []
+  },
+  {
+   "id": "0532e193fac5",
+   "title": "Trump orders contractors to report Congress inquiries",
+   "link": "https://www.investing.com/news/economy-news/trump-orders-contractors-to-report-congress-inquiries-5043559",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-21T19:00:57+00:00",
    "tickers": []
   },
   {
@@ -898,6 +912,20 @@
    "sentiment": "neutral",
    "domain": "biztoc.com",
    "published": "2026-11-21T18:12:07+00:00",
+   "tickers": []
+  },
+  {
+   "id": "7754d5b944e6",
+   "title": "EU raises prospect of ‘no deal’ at COP31",
+   "link": "https://www.ft.com/content/b3ba64e9-9482-4525-acc7-49825f3daace?syn-25a6b1a6=1",
+   "summary": "Escalation in tactics comes as Saudi Arabia leads opposition to inclusion of fossil fuel phase out in final agreement",
+   "article_text": "",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "ft.com",
+   "published": "2026-11-21T18:07:02+00:00",
    "tickers": []
   },
   {
@@ -8796,34 +8824,6 @@
    "tickers": [
     "MSTR"
    ]
-  },
-  {
-   "id": "5fa7ccdb18b1",
-   "title": "New US AI Chip Rules Against China Threaten Pain for Southeast Asia",
-   "link": "https://biztoc.com/x/4faa2d0795b2a6aa?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-21T11:51:44+00:00",
-   "tickers": []
-  },
-  {
-   "id": "1adf9ed7b19c",
-   "title": "Costa proposes new EU budget, signals big tech tax",
-   "link": "https://biztoc.com/x/276fc9648f644b96?ref=rss",
-   "summary": "European Council President Antonio Costa put forward a new proposal for the next European Union 2028-2034 budget, calling it \"a realistic budget.\"\"My proposal is 10% lower than the Commission's origin...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-21T11:51:42+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
