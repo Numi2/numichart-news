@@ -1,8 +1,22 @@
 {
- "generated": "2026-11-21T20:04:11.905121+00:00",
+ "generated": "2026-11-21T20:14:03.923868+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "04d59adcb25a",
+   "title": "Nvidia Said to Face S.E.C. Probe Into Its Accounting Practices",
+   "link": "https://www.nytimes.com/2026/11/20/business/nvidia-sec-accounting.html",
+   "summary": "Questions around the company’s accounting had surfaced amid revelations about its questionable chip sales in Asia.",
+   "article_text": "",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "nytimes.com",
+   "published": "2026-11-21T20:07:36+00:00",
+   "tickers": []
+  },
   {
    "id": "e1d1b1b0aa8e",
    "title": "IRGC says it attacked two US bases in Bahrain",
@@ -198,6 +212,20 @@
    "tickers": [
     "GOOGL"
    ]
+  },
+  {
+   "id": "c3d037f12c0f",
+   "title": "Meet the Warren Buffett Rule That Makes This Consumer Stock a Buy With $1,000 Right Now",
+   "link": "https://www.nasdaq.com/articles/meet-warren-buffett-rule-makes-consumer-stock-buy-1000-right-now-0",
+   "summary": "Key PointsBuffett learned the hard way that a great business at a fair price beats a so-so business at a bargain price.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-21T19:47:02+00:00",
+   "tickers": []
   },
   {
    "id": "238bc5ae9cfd",
@@ -441,6 +469,23 @@
    "published": "2026-11-21T19:40:28+00:00",
    "tickers": [
     "ICE"
+   ]
+  },
+  {
+   "id": "5b3448937ac7",
+   "title": "MSCI Is Cutting Strategy and Metaplanet From Its Indexes. Here's What It Means for Bitcoin Treasury Company Stocks.",
+   "link": "https://www.nasdaq.com/articles/msci-cutting-strategy-and-metaplanet-its-indexes-heres-what-it-means-bitcoin-treasury",
+   "summary": "Key PointsMSCI will remove Strategy and Metaplanet from its indexes at the close of Nov. 30.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-21T19:37:02+00:00",
+   "tickers": [
+    "MSCI",
+    "MSTR"
    ]
   },
   {
@@ -4321,20 +4366,6 @@
    "sentiment": "positive",
    "domain": "prnewswire.com",
    "published": "2026-11-21T16:08:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "04d59adcb25a",
-   "title": "Nvidia Said to Face S.E.C. Probe Into Its Accounting Practices",
-   "link": "https://www.nytimes.com/2026/11/20/business/nvidia-sec-accounting.html",
-   "summary": "Questions around the company’s accounting had surfaced amid revelations about its questionable chip sales in Asia.",
-   "article_text": "",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "nytimes.com",
-   "published": "2026-11-21T16:06:22+00:00",
    "tickers": []
   },
   {
@@ -8811,34 +8842,6 @@
    "domain": "biztoc.com",
    "published": "2026-11-21T12:52:31+00:00",
    "tickers": []
-  },
-  {
-   "id": "0c3da099f132",
-   "title": "An early breakdown in the polar vortex is threatening already depleted gas stocks",
-   "link": "https://www.cnbc.com/2026/11/21/polar-vortex-europe-gas-prices.html",
-   "summary": "Colder weather and low wind speeds could strain Europe’s gas market, where storage started winter at its lowest level in more than a decade.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-11-21T12:47:25+00:00",
-   "tickers": []
-  },
-  {
-   "id": "530a2997017f",
-   "title": "COLO: A Sell In This Environment, Take Profits",
-   "link": "https://seekingalpha.com/article/4970823-colo-the-global-x-msci-colombia-etf-is-a-sell-in-this-environment-take-profits?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-21T12:45:00+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8906,6 +8909,7 @@
   "UNP": "Union Pacific",
   "WFC": "Wells Fargo &",
   "UNH": "United Health",
+  "MSTR": "MicroStrategy",
   "SPY": "SPDR S&P 500",
   "UBS": "UBS Group AG",
   "GOOGL": "Google Cloud",
@@ -8961,6 +8965,7 @@
   "GGG": "Graco",
   "INTC": "Intel",
   "ETSY": "Etsy",
+  "MSCI": "MSCI",
   "T": "AT&T",
   "V": "Visa"
  }
