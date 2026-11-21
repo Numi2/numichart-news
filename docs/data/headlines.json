@@ -1,8 +1,22 @@
 {
- "generated": "2026-11-21T20:21:58.221562+00:00",
+ "generated": "2026-11-21T20:28:17.611911+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "52f2eeb7f490",
+   "title": "Weekly Commentary: Crisis Dynamics Unleashed",
+   "link": "https://seekingalpha.com/article/4970859-weekly-commentary-crisis-dynamics-unleashed?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-21T20:20:00+00:00",
+   "tickers": []
+  },
   {
    "id": "520c08e8ee40",
    "title": "Key deals this week: PANW, FANG, ZS, LLY, and more",
@@ -153,6 +167,20 @@
    "sentiment": "negative",
    "domain": "nytimes.com",
    "published": "2026-11-21T20:07:36+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ad42e91ac3ac",
+   "title": "Cattle Posting Mixed Trade Ahead of USDA Report",
+   "link": "https://www.nasdaq.com/articles/cattle-posting-mixed-trade-ahead-usda-report",
+   "summary": "Live cattle futures are down a tick to 52 cents higher at midday. Cash trade has been limited with USDA picking up a few $215-216 sales in the north so far this week. The Friday Fed Cattle Exchange auction saw no sales on the 2,092 head offered, with a few...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-21T20:06:10+00:00",
    "tickers": []
   },
   {
@@ -8807,38 +8835,6 @@
    "tickers": [
     "DINO"
    ]
-  },
-  {
-   "id": "39401200d0b2",
-   "title": "TSMC: Look At The Warning Signs From Chinese Tech Giants",
-   "link": "https://seekingalpha.com/article/4970831-tsmc-look-at-the-warning-signs-from-chinese-tech-giants?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "negative",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-21T13:04:54+00:00",
-   "tickers": [
-    "TSM"
-   ]
-  },
-  {
-   "id": "b30e88391785",
-   "title": "The five best stocks to buy before year-end, according to Bank of America",
-   "link": "https://www.cnbc.com/2026/11/21/five-best-stocks-to-buy-before-year-end-according-to-bank-of-america.html",
-   "summary": "Bank of America said there are several stocks that all investors should own by the end of 2026.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-11-21T13:04:17+00:00",
-   "tickers": [
-    "BAC"
-   ]
   }
  ],
  "ticker_names": {
@@ -8848,7 +8844,6 @@
   "DIA": "SPDR Dow Jones Industrial Average ETF",
   "CIBR": "First Trust NASDAQ Cybersecurity ETF",
   "BTC": "Grayscale Bitcoin Mini Trust (BTC)",
-  "TSM": "Taiwan Semiconductor Manufacturing",
   "IBM": "International Business Machines",
   "TTWO": "Take-Two Interactive Software",
   "WST": "West Pharmaceutical Services",
