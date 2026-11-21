@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T21:56:31.664786+00:00",
+ "generated": "2026-11-21T22:05:19.930826+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -120,6 +120,22 @@
    "domain": "biztoc.com",
    "published": "2026-11-21T21:44:31+00:00",
    "tickers": []
+  },
+  {
+   "id": "382310a2c421",
+   "title": "If You’d Invested $10,000 in Rocket Lab 5 Years Ago, Here’s How Much You’d Have Today -- Even After a 60% Crash",
+   "link": "https://www.nasdaq.com/articles/if-youd-invested-10000-rocket-lab-5-years-ago-heres-how-much-youd-have-today-even-after-60",
+   "summary": "Key PointsSpaceX just achieved a huge milestone, catching the upper portion of its Starship rocket.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-11-21T21:43:02+00:00",
+   "tickers": [
+    "RKLB"
+   ]
   },
   {
    "id": "e6f046cf3895",
@@ -8829,20 +8845,6 @@
    "domain": "biztoc.com",
    "published": "2026-11-21T14:08:57+00:00",
    "tickers": []
-  },
-  {
-   "id": "44c596214df9",
-   "title": "‘The bottleneck used to be dumpling-folding talent’: Din Tai Fung CEO on America’s top-grossing restaurant chain turning craft into corporate training",
-   "link": "https://biztoc.com/x/fb8bdd2bc27a54ef?ref=rss",
-   "summary": "The restaurant chain with the highest per-store sales in America says the thing that used to limit its growth was a labor shortage of a very specific kind. Anyone who’s had the soup dumplings at the memorable chain can attest to seeing the lab-coated technicians behind the glass windows working…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-11-21T14:08:57+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8931,6 +8933,7 @@
   "KR": "The Kroger",
   "MA": "Mastercard",
   "MCD": "McDonald's",
+  "RKLB": "Rocket Lab",
   "MSFT": "Office 365",
   "DE": "John Deere",
   "PARA": "Paramount+",
