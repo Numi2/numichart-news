@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T12:43:51.038984+00:00",
+ "generated": "2026-11-22T12:50:40.460473+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -301,6 +301,36 @@
    "sentiment": "negative",
    "domain": "seekingalpha.com",
    "published": "2026-11-22T12:34:33+00:00",
+   "tickers": []
+  },
+  {
+   "id": "d3bf32628c89",
+   "title": "Galaxy Digital director Douglas Deason acquires $200,850 in shares",
+   "link": "https://www.investing.com/news/insider-trading-news/galaxy-digital-director-douglas-deason-acquires-200850-in-shares-93CH-5043959",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-22T12:31:11+00:00",
+   "tickers": [
+    "GLXY"
+   ]
+  },
+  {
+   "id": "0b19e90072f6",
+   "title": "COP31 climate talks break down as EU and others reject deal",
+   "link": "https://www.investing.com/news/commodities-news/cop31-climate-talks-close-to-final-deal-says-summit-president-5043619",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-22T12:30:27+00:00",
    "tickers": []
   },
   {
@@ -1315,20 +1345,6 @@
    "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-11-22T11:46:08+00:00",
-   "tickers": []
-  },
-  {
-   "id": "0b19e90072f6",
-   "title": "COP31 climate talks break down as EU, others reject deal",
-   "link": "https://www.investing.com/news/commodities-news/cop31-climate-talks-close-to-final-deal-says-summit-president-5043619",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-22T11:42:26+00:00",
    "tickers": []
   },
   {
@@ -8815,20 +8831,6 @@
    "tickers": [
     "MSFT"
    ]
-  },
-  {
-   "id": "903904099393",
-   "title": "Kevin O’Leary Says $5 Million Liquid Is When You’ve Made It. Here’s What the Typical American Has at Every Age",
-   "link": "https://biztoc.com/x/f471d6e7c14de5fd?ref=rss",
-   "summary": "The post Kevin O’Leary Says $5 Million Liquid Is When You’ve Made It. Here’s What the Typical American Has at Every Age appeared first on 24/7 Wall St.. Kevin O’Leary says you have made it when you have $5 million liquid. “5 million. Liquid. Liquid,” the “Shark Tank” investor said on “The Iced…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-22T00:16:28+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8898,6 +8900,7 @@
   "PYPL": "PayPal Holdings",
   "CCK": "Crown Holdings",
   "DPZ": "Domino's Pizza",
+  "GLXY": "Galaxy Digital",
   "HD": "The Home Depot",
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
