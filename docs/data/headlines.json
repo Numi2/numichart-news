@@ -1,8 +1,38 @@
 {
- "generated": "2026-11-22T13:46:43.811619+00:00",
+ "generated": "2026-11-22T13:53:36.002006+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "f99a9af0ce1a",
+   "title": "On Holding: Best In Class Margins And Strong DTC Sales",
+   "link": "https://seekingalpha.com/article/4970925-on-holding-best-in-class-margins-and-strong-dtc-sales?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-22T13:50:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "fa3060d4ac54",
+   "title": "Keurig Dr Pepper: An Updated Assessment (Rating Downgrade)",
+   "link": "https://seekingalpha.com/article/4970909-keurig-dr-pepper-an-updated-assessment-rating-downgrade?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-22T13:45:28+00:00",
+   "tickers": [
+    "KDP"
+   ]
+  },
   {
    "id": "88206d0ffd5e",
    "title": "Four injured in Ukraine's strike on Belgorod region",
@@ -8805,38 +8835,6 @@
    "domain": "biztoc.com",
    "published": "2026-11-22T01:47:38+00:00",
    "tickers": []
-  },
-  {
-   "id": "edcc42fdc801",
-   "title": "If a Stock Market Crash Is Coming, Warren Buffett Says This Is the No. 1 Move All Investors Should Make",
-   "link": "https://biztoc.com/x/65dd99bf2d399541?ref=rss",
-   "summary": "It's been a lucrative year for the stock market, with the S&P 500 (SNPINDEX:^GSPC) notching more than two dozen record highs in 2026. However, the headwinds have been coming in strong lately. Volatility within the tech sector has rattled Wall Street, and the tech-focused Nasdaq Composite…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-11-22T01:47:24+00:00",
-   "tickers": [
-    "NDAQ"
-   ]
-  },
-  {
-   "id": "1ceed2782689",
-   "title": "Prediction: Some Anthropic Investors Are About to Learn an Expensive Lesson",
-   "link": "https://biztoc.com/x/dadd3462b6f2b652?ref=rss",
-   "summary": "Anthropic (NASDAQ:ANT) made history this week with the largest stock market debut on record, securing $81 billion in funding and surpassing SpaceX's initial public offering (IPO) earlier this year. There was no shortage of investor enthusiasm either, as the stock popped by more than 17% during its…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-22T01:47:22+00:00",
-   "tickers": [
-    "SPCX"
-   ]
   }
  ],
  "ticker_names": {
@@ -8892,6 +8890,7 @@
   "AXP": "American Express",
   "COST": "Costco Wholesale",
   "JPM": "JPMorgan Chase &",
+  "KDP": "Keurig Dr Pepper",
   "LOW": "Lowe's Companies",
   "VMC": "Vulcan Materials",
   "GE": "General Electric",
