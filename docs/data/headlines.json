@@ -1,8 +1,36 @@
 {
- "generated": "2026-11-22T20:24:28.535593+00:00",
+ "generated": "2026-11-22T20:31:26.876666+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "14ce6ce1e066",
+   "title": "Social Security should be shut down, this Republican senator says",
+   "link": "https://www.marketwatch.com/story/social-security-should-be-shut-down-this-republican-senator-says-8f7fef81?mod=mw_rss_topstories",
+   "summary": "The program’s trust funds are forecast to run out of money in the next six years.",
+   "article_text": "",
+   "source": "MarketWatch",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "marketwatch.com",
+   "published": "2026-11-22T20:26:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "7f121bc0ae51",
+   "title": "Umh Properties evp, cfo Miller buys $999 in company stock",
+   "link": "https://www.investing.com/news/insider-trading-news/umh-properties-evp-cfo-miller-buys-999-in-company-stock-93CH-5044109",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-22T20:16:06+00:00",
+   "tickers": []
+  },
   {
    "id": "31c0005ab1b8",
    "title": "Jeff Bezos donated $198.9 million in Amazon stock in two days, including shares he's held since 1994",
@@ -205,6 +233,24 @@
    "published": "2026-11-22T20:10:00+00:00",
    "tickers": [
     "BC"
+   ]
+  },
+  {
+   "id": "a8da89591ba4",
+   "title": "Uber Trades at 16 Times Forward Earnings and a 30% Discount to Its All-Time High Stock Price. Here’s Why Robotaxis Make That a Mistake.",
+   "link": "https://www.nasdaq.com/articles/uber-trades-16-times-forward-earnings-and-30-discount-its-all-time-high-stock-price-heres",
+   "summary": "Key PointsTwo of the leading self-driving platforms -- Waymo and Tesla -- could grow their adoption over time.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-11-22T20:05:02+00:00",
+   "tickers": [
+    "TSLA",
+    "GOOGL",
+    "UBER"
    ]
   },
   {
@@ -8816,57 +8862,6 @@
    "domain": "globenewswire.com",
    "published": "2026-11-22T12:00:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "d719f8b1e301",
-   "title": "The Stock Market Is Doing Something for Only the 5th Time This Century, and History Says It's Obvious What Comes Next for Stocks",
-   "link": "https://www.nasdaq.com/articles/stock-market-doing-something-only-5th-time-century-and-history-says-its-obvious-what-comes",
-   "summary": "Key PointsIt’s been a stellar year for the Dow Jones Industrial Average, S&P 500, and Nasdaq Composite, which vaulted to several record highs on the heels of the artificial intelligence (AI) infrastructure build-out.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-22T11:56:02+00:00",
-   "tickers": [
-    "NDAQ"
-   ]
-  },
-  {
-   "id": "c6d43a2b9810",
-   "title": "A $37 Billion Fund Just Bought These 3 Stocks",
-   "link": "https://biztoc.com/x/bc0c3a65ac0d38d1?ref=rss",
-   "summary": "Key Takeaways - Dragoneer Investment Group, which manages $37 billion, made new stakes in SK hynix and Intel its two biggest holdings by Sept. 30, and it bought more Amazon. - Since the quarter ended, SK hynix has fallen 44% and Intel 57%, while Amazon has barely moved. - SK hynix trades at about…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-22T11:54:26+00:00",
-   "tickers": [
-    "AMZN",
-    "INTC"
-   ]
-  },
-  {
-   "id": "9d8fdf0b854f",
-   "title": "A $3.1 Billion Fund Just Bought These 3 Stocks",
-   "link": "https://biztoc.com/x/bc59a6f6916e6cdb?ref=rss",
-   "summary": "Key Takeaways - A $3.1 billion fund added to Microsoft, Amazon and MSCI in the third quarter, its three biggest new or added positions, per its 13F filed Nov. 16. - Microsoft is now the fund's second-largest holding at 14.1% of its US stocks, with Amazon third at 10.7%. - Analysts' average targets…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-22T11:54:13+00:00",
-   "tickers": [
-    "MSCI",
-    "MSFT",
-    "AMZN"
-   ]
   }
  ],
  "ticker_names": {
@@ -8903,6 +8898,7 @@
   "MU": "Micron Technology",
   "OLED": "Universal Display",
   "RIVN": "Rivian Automotive",
+  "UBER": "Uber Technologies",
   "AXP": "American Express",
   "COST": "Costco Wholesale",
   "JPM": "JPMorgan Chase &",
@@ -8979,7 +8975,6 @@
   "INTC": "Intel",
   "LIN": "Linde",
   "ETSY": "Etsy",
-  "MSCI": "MSCI",
   "ROKU": "Roku"
  }
 }
