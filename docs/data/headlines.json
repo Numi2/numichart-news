@@ -1,8 +1,25 @@
 {
- "generated": "2026-11-22T05:11:14.934656+00:00",
+ "generated": "2026-11-22T05:17:58.818133+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "6c88e40f5dc2",
+   "title": "Vistance Networks: A Bargain Valuation Isn't Enough To Stay Bullish (Rating Downgrade)",
+   "link": "https://seekingalpha.com/article/4970899-vistance-networks-stock-bargain-valuation-not-enough-to-stay-bullish-rating-downgrade?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-22T05:10:53+00:00",
+   "tickers": [
+    "VISN",
+    "BLSH"
+   ]
+  },
   {
    "id": "cf286de9ddb9",
    "title": "NatGasHub.com Ranked Number 182 Fastest-Growing Company in North America on the 2026 Deloitte Technology Fast 500™",
@@ -99,6 +116,20 @@
    "sentiment": "neutral",
    "domain": "prnewswire.com",
    "published": "2026-11-22T04:59:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "527a2b534759",
+   "title": "Wheat Closes Mixed on Friday",
+   "link": "https://www.nasdaq.com/articles/wheat-closes-mixed-friday-0",
+   "summary": "The wheat complex saw mixed trade on Friday, as December options expired. Chicago SRW futures were mixed, with front months steady to 4 cents lower and deferreds fractionally to 2 ½ cents higher. December was 19 cents lower for the week. KC HRW futures were anywhere from 1 cent lower...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-22T04:58:25+00:00",
    "tickers": []
   },
   {
@@ -8795,34 +8826,6 @@
    "domain": "biztoc.com",
    "published": "2026-11-21T17:57:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "92e7596103a0",
-   "title": "The FBI and USDA were reportedly hacked",
-   "link": "https://biztoc.com/x/20c452a806a81b1f?ref=rss",
-   "summary": "Friday, it was reported that both the US Department of Agriculture (USDA) and the FBI were hacked. In reporting on the FBI hack, CNN noted that this is the second such attack on the agency in the last few months, this time targeting the National Crime Information Center (NCIC), which federal,…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-21T17:56:59+00:00",
-   "tickers": []
-  },
-  {
-   "id": "a9b8ffbdb657",
-   "title": "He’ll Remarry at 66 and Leave His Two Kids on the 401(k) Beneficiary Form. Unless His New Wife Signs a Notarized Waiver, Federal Law Will Hand Her the Entire Account",
-   "link": "https://biztoc.com/x/a1f1f15afcef1a94?ref=rss",
-   "summary": "The post He’ll Remarry at 66 and Leave His Two Kids on the 401(k) Beneficiary Form. Unless His New Wife Signs a Notarized Waiver, Federal Law Will Hand Her the Entire Account appeared first on 24/7 Wall St.. He’s 66 and planning a second wedding. Somewhere in his employer’s benefits portal sits a…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-21T17:56:54+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8865,6 +8868,7 @@
   "MU": "Micron Technology",
   "TXN": "Texas Instruments",
   "UBER": "Uber Technologies",
+  "VISN": "Vistance Networks",
   "BKNG": "Booking Holdings",
   "GLD": "SPDR Gold Shares",
   "J": "Jacobs Solutions",
