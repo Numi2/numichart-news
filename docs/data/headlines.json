@@ -1,8 +1,24 @@
 {
- "generated": "2026-11-22T02:44:35.048909+00:00",
+ "generated": "2026-11-22T02:51:20.291059+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "ec930deed09b",
+   "title": "BlackRock: The Growth Is Already Priced In",
+   "link": "https://seekingalpha.com/article/4970891-blackrock-the-growth-is-already-priced-in?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-22T02:42:52+00:00",
+   "tickers": [
+    "BLK"
+   ]
+  },
   {
    "id": "1d3c60112297",
    "title": "Intel Says It Just Signed Its First Customer for Its Most Advanced Chipmaking Process. The Stock Is Still More Than 60% Below Its June Record",
@@ -8817,20 +8833,6 @@
    "domain": "biztoc.com",
    "published": "2026-11-21T16:41:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "c1418938c470",
-   "title": "Anthropic’s Debut Shows the Disconnect Between Wall Street and Silicon Valley",
-   "link": "https://biztoc.com/x/ed7d2fb990e45a0e?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-21T16:40:59+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8921,6 +8923,7 @@
   "DE": "John Deere",
   "PARA": "Paramount+",
   "BC": "Brunswick",
+  "BLK": "BlackRock",
   "CME": "CME Group",
   "SNOW": "Snowflake",
   "NWSA": "News Corp",
