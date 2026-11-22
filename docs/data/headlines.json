@@ -1,8 +1,22 @@
 {
- "generated": "2026-11-22T14:25:10.649892+00:00",
+ "generated": "2026-11-22T14:31:37.767570+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "43c3e01bfce8",
+   "title": "UN climate talks collapse as EU and others reject deal",
+   "link": "https://www.cnbc.com/2026/11/22/cop31-climate-talks-break-down-as-eu-and-others-reject-deal.html",
+   "summary": "Ireland's environment minister said the European Union could not support the proposed deal, in part because it made no mention of the fossil fuels.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-11-22T14:28:45+00:00",
+   "tickers": []
+  },
   {
    "id": "b0a16657f882",
    "title": "Sanctioned Russian vessel ablaze in Finnish waters after drone attack",
@@ -15,20 +29,6 @@
    "sentiment": "neutral",
    "domain": "ft.com",
    "published": "2026-11-22T14:15:40+00:00",
-   "tickers": []
-  },
-  {
-   "id": "43c3e01bfce8",
-   "title": "COP31 climate talks break down as EU and others reject deal",
-   "link": "https://www.cnbc.com/2026/11/22/cop31-climate-talks-break-down-as-eu-and-others-reject-deal.html",
-   "summary": "Ireland's environment minister said the European Union could not support the proposed deal, in part because it made no mention of the fossil fuels.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-11-22T14:13:37+00:00",
    "tickers": []
   },
   {
@@ -293,6 +293,20 @@
    "sentiment": "negative",
    "domain": "biztoc.com",
    "published": "2026-11-22T14:09:33+00:00",
+   "tickers": []
+  },
+  {
+   "id": "0b19e90072f6",
+   "title": "COP31 climate talks collapse as EU and others reject deal",
+   "link": "https://www.investing.com/news/commodities-news/cop31-climate-talks-close-to-final-deal-says-summit-president-5043619",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-22T14:06:23+00:00",
    "tickers": []
   },
   {
@@ -1481,20 +1495,6 @@
    "tickers": [
     "SPCX"
    ]
-  },
-  {
-   "id": "0b19e90072f6",
-   "title": "COP31 climate talks set to collapse as EU and others reject deal",
-   "link": "https://www.investing.com/news/commodities-news/cop31-climate-talks-close-to-final-deal-says-summit-president-5043619",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-22T13:00:27+00:00",
-   "tickers": []
   },
   {
    "id": "51a66add2d79",
