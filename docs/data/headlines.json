@@ -1,8 +1,38 @@
 {
- "generated": "2026-11-22T14:38:07.933507+00:00",
+ "generated": "2026-11-22T14:43:41.681454+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "04a8427ff8dd",
+   "title": "I’ve studied over 200 kids—ditch these 6 parenting habits to avoid raising a people pleaser",
+   "link": "https://www.cnbc.com/make-it/2026/11/22/parenting-habits-people-pleaser.html",
+   "summary": "Reem Raouda, a conscious parenting coach who's worked with over 200 families, shares six habits worth reconsidering, like treating disagreement as disrespect.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-11-22T14:39:01+00:00",
+   "tickers": []
+  },
+  {
+   "id": "5295432e0088",
+   "title": "Oracle Is A Buy: It's In The Bargain Bin And Won't Be There Much Longer",
+   "link": "https://seekingalpha.com/article/4970931-oracle-buy-its-in-bargain-bin-wont-be-there-much-longer?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-22T14:38:42+00:00",
+   "tickers": [
+    "ORCL"
+   ]
+  },
   {
    "id": "2c0e76ad9c39",
    "title": "How Six Americans Under 40 Are Saving for Retirement",
@@ -8831,36 +8861,6 @@
    "domain": "investing.com",
    "published": "2026-11-22T03:45:48+00:00",
    "tickers": []
-  },
-  {
-   "id": "9e6b82d4d412",
-   "title": "Washington governor, union denounce ICE arrests of travelers at Seattle airport",
-   "link": "https://www.investing.com/news/stock-market-news/washington-governor-union-denounce-ice-arrests-of-travelers-at-seattle-airport-5043737",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-22T03:36:18+00:00",
-   "tickers": [
-    "ICE"
-   ]
-  },
-  {
-   "id": "55b16d7de09c",
-   "title": "Ukraine Is Racing to Keep Its Booming Defense Industry From Stalling",
-   "link": "https://biztoc.com/x/465da9acce0e187a?ref=rss",
-   "summary": "Kyiv is struggling to further build out its reborn defense industry amid heavy bombardment from Russia and a dire need for capital.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-22T03:33:54+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8990,6 +8990,7 @@
   "GRMN": "Garmin",
   "INCY": "Incyte",
   "NDAQ": "Nasdaq",
+  "ORCL": "Oracle",
   "PFE": "Pfizer",
   "RMD": "ResMed",
   "SPCX": "SpaceX",
