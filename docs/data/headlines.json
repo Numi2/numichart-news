@@ -1,8 +1,22 @@
 {
- "generated": "2026-11-22T19:06:51.033120+00:00",
+ "generated": "2026-11-22T19:13:51.023307+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "b14c9aaae810",
+   "title": "Bessent refuses to rule out Huang’s return to Nvidia",
+   "link": "https://www.ft.com/content/91b7a3a6-8ac5-4327-ad03-6d951f287346?syn-25a6b1a6=1",
+   "summary": "Treasury secretary says it depends ‘where the buck stops’ as US president calls for former chief’s reinstatement",
+   "article_text": "",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "ft.com",
+   "published": "2026-11-22T19:08:31+00:00",
+   "tickers": []
+  },
   {
    "id": "b5449d645a35",
    "title": "Gregory M. Shepard sells $2.19M in Atlas Energy Solutions stock",
@@ -204,6 +218,22 @@
    "published": "2026-11-22T18:57:53+00:00",
    "tickers": [
     "DAL"
+   ]
+  },
+  {
+   "id": "30e396a6b98b",
+   "title": "Palantir Stock Could Finish 2026 Lower. Its Only 2 Losing Years Ended Very Differently.",
+   "link": "https://www.nasdaq.com/articles/palantir-stock-could-finish-2026-lower-its-only-2-losing-years-ended-very-differently",
+   "summary": "Key PointsPalantir shares dropped around 23% in 2021, then shed another 65% in 2022.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-11-22T18:57:02+00:00",
+   "tickers": [
+    "PLTR"
    ]
   },
   {
@@ -1045,20 +1075,6 @@
     "UNH",
     "MRK"
    ]
-  },
-  {
-   "id": "b14c9aaae810",
-   "title": "Bessent refuses to rule out Huang’s return to Nvidia",
-   "link": "https://www.ft.com/content/91b7a3a6-8ac5-4327-ad03-6d951f287346?syn-25a6b1a6=1",
-   "summary": "Treasury secretary says it depends ‘where the buck stops’ as US president calls for former CEO’s reinstatement",
-   "article_text": "",
-   "source": "FT Companies",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "ft.com",
-   "published": "2026-11-22T18:11:01+00:00",
-   "tickers": []
   },
   {
    "id": "a1270019f582",
@@ -8854,20 +8870,6 @@
    "tickers": [
     "DPZ"
    ]
-  },
-  {
-   "id": "ce8f2571769b",
-   "title": "What Every 60-Year-Old Should Know About Social Security",
-   "link": "https://biztoc.com/x/c7a7b907d1b1df8e?ref=rss",
-   "summary": "I suspect that nearly every American who is 60 is already thinking about retirement -- as they should. And that involves contemplating upcoming decisions about Social Security. Making the right choices can have lifelong implications. There's still plenty of time to finalize those decisions, but…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-22T10:53:02+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8890,6 +8892,7 @@
   "VZ": "Verizon Communications",
   "WBD": "Warner Bros. Discovery",
   "KNSL": "Kinsale Capital Group",
+  "PLTR": "Palantir Technologies",
   "EIX": "Edison International",
   "JAZZ": "Jazz Pharmaceuticals",
   "PG": "The Procter & Gamble",
