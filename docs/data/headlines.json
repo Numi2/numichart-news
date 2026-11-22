@@ -1,8 +1,52 @@
 {
- "generated": "2026-11-22T18:25:58.547621+00:00",
+ "generated": "2026-11-22T18:32:17.881571+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "ed9303dae260",
+   "title": "FTSE 100 catering giant Compass plans to move main listing to New York",
+   "link": "https://www.ft.com/content/7b48ea5e-6372-4bb7-ae5c-8b7ddd020883?syn-25a6b1a6=1",
+   "summary": "£43bn group set to announce intention to move as soon as Tuesday",
+   "article_text": "",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "ft.com",
+   "published": "2026-11-22T18:28:00+00:00",
+   "tickers": [
+    "COMP"
+   ]
+  },
+  {
+   "id": "4ac18334c845",
+   "title": "These little-known investments could be among the best bargains in a crash",
+   "link": "https://www.marketwatch.com/story/these-little-known-investments-could-be-among-the-best-bargains-in-a-crash-78a379b4?mod=mw_rss_topstories",
+   "summary": "If this stock market turmoil turns into a full-blown crash, look for low-risk investment bargains among closed-end funds.",
+   "article_text": "",
+   "source": "MarketWatch",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "marketwatch.com",
+   "published": "2026-11-22T18:23:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "0329d035fbe2",
+   "title": "US intelligence chief predicts more tech outages as systems undergo upgrades",
+   "link": "https://www.investing.com/news/stock-market-news/us-intelligence-chief-predicts-more-tech-outages-as-systems-undergo-upgrades-5044089",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-11-22T18:18:21+00:00",
+   "tickers": []
+  },
   {
    "id": "c9276bd0cbf5",
    "title": "Everything Is Breaking. Here’s the Cybersecurity Stock That Benefits",
@@ -238,6 +282,20 @@
     "UNH",
     "MRK"
    ]
+  },
+  {
+   "id": "b14c9aaae810",
+   "title": "Bessent refuses to rule out Huang’s return to Nvidia",
+   "link": "https://www.ft.com/content/91b7a3a6-8ac5-4327-ad03-6d951f287346?syn-25a6b1a6=1",
+   "summary": "Treasury secretary says it depends ‘where the buck stops’ as US president and key tech leaders call for former chief’s reinstatement",
+   "article_text": "",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "ft.com",
+   "published": "2026-11-22T18:11:01+00:00",
+   "tickers": []
   },
   {
    "id": "a1270019f582",
@@ -1459,22 +1517,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-11-22T16:44:15+00:00",
    "tickers": []
-  },
-  {
-   "id": "ed9303dae260",
-   "title": "FTSE 100 catering giant Compass plans to move main listing to New York",
-   "link": "https://www.ft.com/content/7b48ea5e-6372-4bb7-ae5c-8b7ddd020883?syn-25a6b1a6=1",
-   "summary": "£43bn group set to announce intention to move as soon as Tuesday",
-   "article_text": "",
-   "source": "FT Companies",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "ft.com",
-   "published": "2026-11-22T16:43:09+00:00",
-   "tickers": [
-    "COMP"
-   ]
   },
   {
    "id": "d34909ad0c6d",
@@ -8823,48 +8865,6 @@
    "sentiment": "neutral",
    "domain": "biztoc.com",
    "published": "2026-11-22T10:07:34+00:00",
-   "tickers": []
-  },
-  {
-   "id": "0b20c7ab9e8b",
-   "title": "Russian drone strike traps 14 in Kyiv region as cargo ship burns off Finland",
-   "link": "https://biztoc.com/x/25e13c0030d58c08?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-22T10:07:34+00:00",
-   "tickers": []
-  },
-  {
-   "id": "4c7ece04203c",
-   "title": "What Adam Smith Missed",
-   "link": "https://biztoc.com/x/1a951f0a2295dc9a?ref=rss",
-   "summary": "By Mordecai Kurz, Project Syndicate | November 22, 2026 For all that he got right, the \"founding father\" of economics failed to see how technological innovations lead to market monopolization. If AI is left to the invisible hand, it will almost certainly increase economic and political inequality,…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-11-22T10:07:28+00:00",
-   "tickers": []
-  },
-  {
-   "id": "2b9a220670e9",
-   "title": "Half of recent college grads can't find a job that actually requires a degree",
-   "link": "https://biztoc.com/x/1a9d15d103adc6e9?ref=rss",
-   "summary": "Half of 2025 college grads were underemployed. © 2011 Dorann Weber/Getty Images More and more college grads are settling for jobs that don't necessarily require a degree. Underemployment can have long-term career consequences and differs by major. The share of bachelor's degree holders in…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-22T10:07:26+00:00",
    "tickers": []
   }
  ],
