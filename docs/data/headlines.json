@@ -1,8 +1,38 @@
 {
- "generated": "2026-11-22T20:12:11.049595+00:00",
+ "generated": "2026-11-22T20:18:20.784293+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "0d25945c32a1",
+   "title": "'Hunger Games' helps box office rebound amid GTA 6 fever",
+   "link": "https://seekingalpha.com/news/4675413-hunger-games-helps-box-office-rebound-amid-gta-6-fever?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-22T20:10:59+00:00",
+   "tickers": []
+  },
+  {
+   "id": "91ca65a4cae7",
+   "title": "Luca Mining Provides Clarification Regarding Media-Reported Statements Related to the Campo Morado Mine",
+   "link": "https://www.prnewswire.com/news-releases/luca-mining-provides-clarification-regarding-media-reported-statements-related-to-the-campo-morado-mine-302947688.html",
+   "summary": "VANCOUVER, BC, Nov. 22, 2026 /PRNewswire/ -- Luca Mining Corp. (\"Luca\" or the \"Company\") (TSXV: LUCA) (OTCQX: LUCMF) (Frankfurt: Z68) wishes to clarify recent reports published by various Mexican media outlets stating that the Company's Campo Morado Mine, located in Arcelia, Guerrero...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-11-22T20:10:00+00:00",
+   "tickers": [
+    "BC"
+   ]
+  },
   {
    "id": "a7f135b38f4c",
    "title": "Here's What a $1,000 Investment in Broadcom Stock Could Be Worth By 2035",
@@ -8834,36 +8864,6 @@
    "domain": "biztoc.com",
    "published": "2026-11-22T11:39:04+00:00",
    "tickers": []
-  },
-  {
-   "id": "ca5bbaf2c5bc",
-   "title": "Mortgage and refinance interest rates today, Sunday, November 22, 2026: 5/1 ARM purchase rates down the most this past week",
-   "link": "https://biztoc.com/x/4015c8e89c2e456b?ref=rss",
-   "summary": "Mortgage and refinance interest rates today, Sunday, November 22, 2026: 5/1 ARM purchase rates down the most this past week Compared with last week, 5/1 ARM purchase mortgage rates are down the most of any product, according to Zillow rate data provided to Yahoo Finance. Today, Sunday, November…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-22T11:38:50+00:00",
-   "tickers": []
-  },
-  {
-   "id": "c4488eb98d2b",
-   "title": "Tesla Full Self-Driving v15 rollout begins: full release notes and improvements",
-   "link": "https://biztoc.com/x/4bfc75f0795a4e04?ref=rss",
-   "summary": "Tesla has announced that Full Self-Driving version 15 is now rolling out, after CEO Elon Musk said earlier today that the wide rollout would occur in December. Now, Tesla is rolling out to Early Access Program (EAP) members v15’s first builds, and there are a lot of new improvements. Tesla…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-22T11:38:39+00:00",
-   "tickers": [
-    "TSLA"
-   ]
   }
  ],
  "ticker_names": {
@@ -8942,6 +8942,7 @@
   "MSFT": "Office 365",
   "DE": "John Deere",
   "PARA": "Paramount+",
+  "BC": "Brunswick",
   "C": "Citigroup",
   "MDT": "Medtronic",
   "TRP": "TC Energy",
