@@ -1,8 +1,801 @@
 {
- "generated": "2026-11-23T21:14:38.553072+00:00",
+ "generated": "2026-11-23T21:22:35.342449+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "a444e4cff368",
+   "title": "Ashland edges higher after Clariant confirms takeover talks",
+   "link": "https://seekingalpha.com/news/4675847-ashland-edges-higher-after-clariant-confirms-takeover-talks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-23T21:21:18+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e5cd796e6c13",
+   "title": "Qualcomm climbs 10%, pulled higher by broad tech rally",
+   "link": "https://seekingalpha.com/news/4675856-qualcomm-climbs-10-pulled-higher-by-broad-tech-rally?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-23T21:21:09+00:00",
+   "tickers": []
+  },
+  {
+   "id": "95d731b6875f",
+   "title": "8-K - CALIFORNIA WATER SERVICE GROUP (0001035201) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/1035201/000110465926131084/0001104659-26-131084-index.htm",
+   "summary": "Filed: 2026-11-23 AccNo: 0001104659-26-131084 Size: 1 MB Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant Item 9.01: Financial Statements and Exhibits",
+   "article_text": "",
+   "source": "SEC 8-K Filings",
+   "category": "filings",
+   "type": "8k",
+   "sentiment": "neutral",
+   "domain": "sec.gov",
+   "published": "2026-11-23T21:20:33+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f187827a1666",
+   "title": "8-K - BRISTOL MYERS SQUIBB CO (0000014272) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/14272/000114036126045300/0001140361-26-045300-index.htm",
+   "summary": "Filed: 2026-11-23 AccNo: 0001140361-26-045300 Size: 271 KB Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers Item 9.01: Financial Statements and Exhibits",
+   "article_text": "",
+   "source": "SEC 8-K Filings",
+   "category": "filings",
+   "type": "8k",
+   "sentiment": "neutral",
+   "domain": "sec.gov",
+   "published": "2026-11-23T21:20:20+00:00",
+   "tickers": []
+  },
+  {
+   "id": "289d9cbc20dc",
+   "title": "Cisco and OpenAI Launch Shirudo, A New Project to Safeguard Agentic AI",
+   "link": "https://www.prnewswire.com/news-releases/cisco-and-openai-launch-shirudo-a-new-project-to-safeguard-agentic-ai-302948660.html",
+   "summary": "An industry-first open source project, Shirudo, helps systems defend themselves at machine speed News Summary Defenders can start protecting systems before a permanent patch is in place. Cisco and OpenAI are making that possible through an open source effort to build infrastructure that...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-11-23T21:20:00+00:00",
+   "tickers": [
+    "CSCO",
+    "NWSA"
+   ]
+  },
+  {
+   "id": "fa30d66aca06",
+   "title": "Welgemda™ (BBP-418, Ribitol) Receives Traditional Approval as the First and Only Treatment for Individuals Living with LGMD2I/R9",
+   "link": "https://www.globenewswire.com/news-release/2026/11/23/3408902/0/en/welgemda-bbp-418-ribitol-receives-traditional-approval-as-the-first-and-only-treatment-for-individuals-living-with-lgmd2i-r9.html",
+   "summary": "- Welgemda is the first and only FDA-approved therapy for individuals living with LGMD2I/R9 (FKRP-related), and represents the first approved treatment for any form of limb-girdle muscular dystrophy",
+   "article_text": "",
+   "source": "GlobeNewswire",
+   "category": "press",
+   "type": "fda",
+   "sentiment": "neutral",
+   "domain": "globenewswire.com",
+   "published": "2026-11-23T21:20:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "af9e86e69b0e",
+   "title": "DNA X, Inc GAAP EPS of -$0.71",
+   "link": "https://seekingalpha.com/news/4675864-dna-x-inc-gaap-eps-of-0_71?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-23T21:19:53+00:00",
+   "tickers": []
+  },
+  {
+   "id": "1fc05a94ef90",
+   "title": "Jacobs Engineering Non-GAAP EPS of $2.20 beats by $0.08, revenue of $4.7B beats by $810M",
+   "link": "https://seekingalpha.com/news/4675863-jacobs-engineering-non-gaap-eps-of-2_20-beats-by-0_08-revenue-of-4_7b-beats-by-810m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-23T21:19:43+00:00",
+   "tickers": [
+    "J"
+   ]
+  },
+  {
+   "id": "62c1d1e651b0",
+   "title": "8-K - TechnipFMC plc (0001681459) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/1681459/000162828026075503/0001628280-26-075503-index.htm",
+   "summary": "Filed: 2026-11-23 AccNo: 0001628280-26-075503 Size: 57 MB Item 1.01: Entry into a Material Definitive Agreement Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant Item 9.01: Financial Statements and Exhibits",
+   "article_text": "",
+   "source": "SEC 8-K Filings",
+   "category": "filings",
+   "type": "8k",
+   "sentiment": "neutral",
+   "domain": "sec.gov",
+   "published": "2026-11-23T21:19:25+00:00",
+   "tickers": [
+    "FTI"
+   ]
+  },
+  {
+   "id": "3f560cf1a170",
+   "title": "Stocks to watch after hours: HPE, SYM, A, and PTON",
+   "link": "https://seekingalpha.com/news/4675832-stocks-to-watch-after-hours-hpe-sym-a-and-pton?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-23T21:19:23+00:00",
+   "tickers": [
+    "HPE",
+    "SYM",
+    "PTON"
+   ]
+  },
+  {
+   "id": "54fa727e7294",
+   "title": "Palantir Technologies jumps 11% as broad market advances",
+   "link": "https://seekingalpha.com/news/4675855-palantir-technologies-jumps-11-percent-as-broad-market-advances?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-23T21:19:15+00:00",
+   "tickers": [
+    "PLTR"
+   ]
+  },
+  {
+   "id": "9afb210682f9",
+   "title": "8-K - Nuvve Holding Corp. (0001836875) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/1836875/000183687526000098/0001836875-26-000098-index.htm",
+   "summary": "Filed: 2026-11-23 AccNo: 0001836875-26-000098 Size: 177 KB Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
+   "article_text": "",
+   "source": "SEC 8-K Filings",
+   "category": "filings",
+   "type": "8k",
+   "sentiment": "neutral",
+   "domain": "sec.gov",
+   "published": "2026-11-23T21:19:08+00:00",
+   "tickers": []
+  },
+  {
+   "id": "2f503b26318c",
+   "title": "Short sellers get smoked as Nvidia tallies biggest one-day gain in stock-market history",
+   "link": "https://www.marketwatch.com/story/short-sellers-get-smoked-as-nvidia-tallies-biggest-one-day-gain-in-stock-market-history-e9dc6e9c?mod=mw_rss_topstories",
+   "summary": "Two products aiming to profit off daily declines in Nvidia shares were nearly wiped out as the stock rallied more than 30%.",
+   "article_text": "",
+   "source": "MarketWatch",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "marketwatch.com",
+   "published": "2026-11-23T21:19:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "4bd69901cad0",
+   "title": "Inventiva S.A reports 9M results",
+   "link": "https://seekingalpha.com/news/4675862-inventiva-sa-reports-9m-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-23T21:18:24+00:00",
+   "tickers": []
+  },
+  {
+   "id": "1cb026524dc3",
+   "title": "8-K - COMPASS MINERALS INTERNATIONAL INC (0001227654) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/1227654/000122765426000095/0001227654-26-000095-index.htm",
+   "summary": "Filed: 2026-11-23 AccNo: 0001227654-26-000095 Size: 1 MB Item 2.02: Results of Operations and Financial Condition Item 9.01: Financial Statements and Exhibits",
+   "article_text": "",
+   "source": "SEC 8-K Filings",
+   "category": "filings",
+   "type": "8k",
+   "sentiment": "neutral",
+   "domain": "sec.gov",
+   "published": "2026-11-23T21:17:35+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e81b554e19db",
+   "title": "8-K - Ingredion Inc (0001046257) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/1046257/000104625726000270/0001046257-26-000270-index.htm",
+   "summary": "Filed: 2026-11-23 AccNo: 0001046257-26-000270 Size: 201 KB Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers",
+   "article_text": "",
+   "source": "SEC 8-K Filings",
+   "category": "filings",
+   "type": "8k",
+   "sentiment": "neutral",
+   "domain": "sec.gov",
+   "published": "2026-11-23T21:17:18+00:00",
+   "tickers": [
+    "INGR"
+   ]
+  },
+  {
+   "id": "16c26ee3dd99",
+   "title": "Marvell: Don't Fight The Market; Sell",
+   "link": "https://seekingalpha.com/article/4971191-marvell-dont-fight-the-market-sell?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-23T21:16:58+00:00",
+   "tickers": [
+    "MRVL"
+   ]
+  },
+  {
+   "id": "58beef93cf11",
+   "title": "Christmas Came Early For AI: Jensen Huang Is Back",
+   "link": "https://seekingalpha.com/article/4971190-christmas-came-early-for-ai-jensen-huang-is-back?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-23T21:16:51+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a485ce38e4fb",
+   "title": "8-K - Texas Ventures Acquisition III Corp (0002033991) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/2033991/000110465926131079/0001104659-26-131079-index.htm",
+   "summary": "Filed: 2026-11-23 AccNo: 0001104659-26-131079 Size: 284 KB Item 1.01: Entry into a Material Definitive Agreement Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant Item 9.01: Financial Statements and Exhibits",
+   "article_text": "",
+   "source": "SEC 8-K Filings",
+   "category": "filings",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "sec.gov",
+   "published": "2026-11-23T21:16:29+00:00",
+   "tickers": []
+  },
+  {
+   "id": "cfaeb7e61623",
+   "title": "8-K - Dakota Gold Corp. (0001852353) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/1852353/000110465926131078/0001104659-26-131078-index.htm",
+   "summary": "Filed: 2026-11-23 AccNo: 0001104659-26-131078 Size: 57 MB Item 7.01: Regulation FD Disclosure Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
+   "article_text": "",
+   "source": "SEC 8-K Filings",
+   "category": "filings",
+   "type": "8k",
+   "sentiment": "neutral",
+   "domain": "sec.gov",
+   "published": "2026-11-23T21:16:24+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a2ebcad22288",
+   "title": "HPE just posted its strongest growth ever — and its stock is tacking on more big gains",
+   "link": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
+   "summary": "Earnings are the latest catalyst for HPE’s stock, which already got a big bump Monday from Jensen Huang’s return as Nvidia CEO.",
+   "article_text": "",
+   "source": "MarketWatch",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "marketwatch.com",
+   "published": "2026-11-23T21:16:00+00:00",
+   "tickers": [
+    "HPE"
+   ]
+  },
+  {
+   "id": "74c3c3d59f46",
+   "title": "8-K - SEMTECH CORP (0000088941) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/88941/000008894126000045/0000088941-26-000045-index.htm",
+   "summary": "Filed: 2026-11-23 AccNo: 0000088941-26-000045 Size: 772 KB Item 2.02: Results of Operations and Financial Condition Item 7.01: Regulation FD Disclosure Item 9.01: Financial Statements and Exhibits",
+   "article_text": "",
+   "source": "SEC 8-K Filings",
+   "category": "filings",
+   "type": "8k",
+   "sentiment": "neutral",
+   "domain": "sec.gov",
+   "published": "2026-11-23T21:15:49+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a99be23037b6",
+   "title": "8-K - NATURAL ALTERNATIVES INTERNATIONAL INC (0000787253) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/787253/000143774926038071/0001437749-26-038071-index.htm",
+   "summary": "Filed: 2026-11-23 AccNo: 0001437749-26-038071 Size: 448 KB Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers Item 9.01: Financial Statements and Exhibits",
+   "article_text": "",
+   "source": "SEC 8-K Filings",
+   "category": "filings",
+   "type": "8k",
+   "sentiment": "neutral",
+   "domain": "sec.gov",
+   "published": "2026-11-23T21:15:40+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c6e60367ef74",
+   "title": "8-K - CENTRAL GARDEN & PET CO (0000887733) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/887733/000088773326000024/0000887733-26-000024-index.htm",
+   "summary": "Filed: 2026-11-23 AccNo: 0000887733-26-000024 Size: 1 MB Item 2.02: Results of Operations and Financial Condition Item 9.01: Financial Statements and Exhibits",
+   "article_text": "",
+   "source": "SEC 8-K Filings",
+   "category": "filings",
+   "type": "8k",
+   "sentiment": "neutral",
+   "domain": "sec.gov",
+   "published": "2026-11-23T21:15:38+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b6468a7a7a0d",
+   "title": "8-K - GoodRx Holdings, Inc. (0001809519) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/1809519/000180951926000212/0001809519-26-000212-index.htm",
+   "summary": "Filed: 2026-11-23 AccNo: 0001809519-26-000212 Size: 274 KB Item 3.01: Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing Item 7.01: Regulation FD Disclosure Item 9.01: Financial Statements and Exhibits",
+   "article_text": "",
+   "source": "SEC 8-K Filings",
+   "category": "filings",
+   "type": "8k",
+   "sentiment": "neutral",
+   "domain": "sec.gov",
+   "published": "2026-11-23T21:15:35+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ff28734f031a",
+   "title": "Stocks Rebound Sharply as Nvidia Reinstates CEO Huang",
+   "link": "https://www.nasdaq.com/articles/stocks-rebound-sharply-nvidia-reinstates-ceo-huang",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) is up +5.15%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +3.05%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +7.34%. December E-mini S&P futures (ESZ26 ) are up +4.85%, and December E-mini Nasdaq futures (NQZ26...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-23T21:15:30+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
+  },
+  {
+   "id": "e399f00676bc",
+   "title": "Cocoa Prices Supported by Reduced Ivory Coast Shipments",
+   "link": "https://www.nasdaq.com/articles/cocoa-prices-supported-reduced-ivory-coast-shipments",
+   "summary": "December ICE NY cocoa (CCZ26 ) is up +66 (+1.29%), and ICE London cocoa #7 (CAZ26 ) is up +40 (+1.02%). Reduced cocoa shipments from the Ivory Coast are supportive of prices. Ivory Coast government data on Monday showed farmers delivered 53,748 MT of cocoa to ports in the week...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-11-23T21:15:30+00:00",
+   "tickers": [
+    "ICE",
+    "MT"
+   ]
+  },
+  {
+   "id": "4599fbeed8d2",
+   "title": "Zoom shares fall despite earnings beat and dividend initiation",
+   "link": "https://www.investing.com/news/stock-market-news/zoom-shares-fall-despite-earnings-beat-and-dividend-initiation-5046411",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-23T21:15:30+00:00",
+   "tickers": [
+    "ZM"
+   ]
+  },
+  {
+   "id": "27929aae0b23",
+   "title": "Dollar Gains as Stocks Recover and T-Note Yields Rise",
+   "link": "https://www.nasdaq.com/articles/dollar-gains-stocks-recover-and-t-note-yields-rise",
+   "summary": "The dollar index (DXY00 ) is up +0.43%, supported by improved dollar interest rate differentials, with the 10-year T-note yield up +1.2 bp at 4.956%. The T-note yield is slightly higher on reduced safe-haven demand for Treasury securities due to today's sharp upward rebound in stocks. The dollar was undercut...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-11-23T21:15:29+00:00",
+   "tickers": []
+  },
+  {
+   "id": "557f0ed63190",
+   "title": "8-K - IT TECH PACKAGING, INC. (0001358190) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/1358190/000121390026123183/0001213900-26-123183-index.htm",
+   "summary": "Filed: 2026-11-23 AccNo: 0001213900-26-123183 Size: 1 MB Item 3.03: Material Modifications to Rights of Security Holders Item 5.03: Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year Item 9.01: Financial Statements and Exhibits",
+   "article_text": "",
+   "source": "SEC 8-K Filings",
+   "category": "filings",
+   "type": "8k",
+   "sentiment": "neutral",
+   "domain": "sec.gov",
+   "published": "2026-11-23T21:15:27+00:00",
+   "tickers": [
+    "TECH"
+   ]
+  },
+  {
+   "id": "2d02db93cb01",
+   "title": "8-K - ALTA EQUIPMENT GROUP INC. (0001759824) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/1759824/000119312526472368/0001193125-26-472368-index.htm",
+   "summary": "Filed: 2026-11-23 AccNo: 0001193125-26-472368 Size: 17 MB Item 1.01: Entry into a Material Definitive Agreement Item 3.02: Unregistered Sales of Equity Securities Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers Item 7.01: Regulation FD Disclosure Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
+   "article_text": "",
+   "source": "SEC 8-K Filings",
+   "category": "filings",
+   "type": "8k",
+   "sentiment": "neutral",
+   "domain": "sec.gov",
+   "published": "2026-11-23T21:15:23+00:00",
+   "tickers": []
+  },
+  {
+   "id": "55b65237ee9a",
+   "title": "8-K - CONSOLIDATED EDISON INC (0001047862) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/1047862/000119312526472369/0001193125-26-472369-index.htm",
+   "summary": "Filed: 2026-11-23 AccNo: 0001193125-26-472369 Size: 165 KB Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers",
+   "article_text": "",
+   "source": "SEC 8-K Filings",
+   "category": "filings",
+   "type": "8k",
+   "sentiment": "neutral",
+   "domain": "sec.gov",
+   "published": "2026-11-23T21:15:23+00:00",
+   "tickers": []
+  },
+  {
+   "id": "1b1a275cb977",
+   "title": "8-K - CONSOLIDATED EDISON CO OF NEW YORK INC (0000023632) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/23632/000119312526472369/0001193125-26-472369-index.htm",
+   "summary": "Filed: 2026-11-23 AccNo: 0001193125-26-472369 Size: 165 KB Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers",
+   "article_text": "",
+   "source": "SEC 8-K Filings",
+   "category": "filings",
+   "type": "8k",
+   "sentiment": "neutral",
+   "domain": "sec.gov",
+   "published": "2026-11-23T21:15:23+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f04b6c9b88f7",
+   "title": "8-K - Barings BDC, Inc. (0001379785) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/1379785/000137978526000044/0001379785-26-000044-index.htm",
+   "summary": "Filed: 2026-11-23 AccNo: 0001379785-26-000044 Size: 5 MB Item 1.01: Entry into a Material Definitive Agreement Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant Item 9.01: Financial Statements and Exhibits",
+   "article_text": "",
+   "source": "SEC 8-K Filings",
+   "category": "filings",
+   "type": "8k",
+   "sentiment": "neutral",
+   "domain": "sec.gov",
+   "published": "2026-11-23T21:15:15+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ba192951c758",
+   "title": "8-K - Apnimed, Inc. (0001745648) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/1745648/000119312526472366/0001193125-26-472366-index.htm",
+   "summary": "Filed: 2026-11-23 AccNo: 0001193125-26-472366 Size: 193 KB Item 1.01: Entry into a Material Definitive Agreement Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers",
+   "article_text": "",
+   "source": "SEC 8-K Filings",
+   "category": "filings",
+   "type": "8k",
+   "sentiment": "neutral",
+   "domain": "sec.gov",
+   "published": "2026-11-23T21:15:14+00:00",
+   "tickers": []
+  },
+  {
+   "id": "4b533af0dcbd",
+   "title": "8-K - TScan Therapeutics, Inc. (0001783328) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/1783328/000119312526472365/0001193125-26-472365-index.htm",
+   "summary": "Filed: 2026-11-23 AccNo: 0001193125-26-472365 Size: 169 KB Item 5.07: Submission of Matters to a Vote of Security Holders",
+   "article_text": "",
+   "source": "SEC 8-K Filings",
+   "category": "filings",
+   "type": "8k",
+   "sentiment": "neutral",
+   "domain": "sec.gov",
+   "published": "2026-11-23T21:15:13+00:00",
+   "tickers": []
+  },
+  {
+   "id": "590beb5ea28c",
+   "title": "8-K - WOLVERINE WORLD WIDE INC /DE/ (0000110471) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/110471/000162828026075499/0001628280-26-075499-index.htm",
+   "summary": "Filed: 2026-11-23 AccNo: 0001628280-26-075499 Size: 141 KB Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers",
+   "article_text": "",
+   "source": "SEC 8-K Filings",
+   "category": "filings",
+   "type": "8k",
+   "sentiment": "neutral",
+   "domain": "sec.gov",
+   "published": "2026-11-23T21:15:11+00:00",
+   "tickers": [
+    "DE"
+   ]
+  },
+  {
+   "id": "0ae11b76128d",
+   "title": "Fidelity National Financial CEO Mike Nolan and CFO Tony Park to Speak at the KBW 2026 Title Insurance Day",
+   "link": "https://www.prnewswire.com/news-releases/fidelity-national-financial-ceo-mike-nolan-and-cfo-tony-park-to-speak-at-the-kbw-2026-title-insurance-day-302948513.html",
+   "summary": "JACKSONVILLE, Fla., Nov. 23, 2026 /PRNewswire/ -- Fidelity National Financial, Inc. (NYSE: FNF) today announced that Mike Nolan, Chief Executive Officer, and Tony Park, Chief Financial Officer, will participate in a virtual fireside chat at the KBW Title Insurance Day on Thursday,...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-11-23T21:15:00+00:00",
+   "tickers": [
+    "FNF"
+   ]
+  },
+  {
+   "id": "f7ea74775cb9",
+   "title": "OppFi to Participate in NYSE Financials Virtual Investor Access Day",
+   "link": "https://www.prnewswire.com/news-releases/oppfi-to-participate-in-nyse-financials-virtual-investor-access-day-302948659.html",
+   "summary": "CHICAGO, Nov. 23, 2026 /PRNewswire/ -- OppFi Inc. (NYSE: OPFI) (\"OppFi\" or the \"Company\"), a leading tech-enabled digital finance platform that works with banks to provide financial products and services for everyday Americans, today announced that management will participate in the NYSE...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-11-23T21:15:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "75076d902d9f",
+   "title": "Jack Henry Announces Regular Quarterly Dividend",
+   "link": "https://www.prnewswire.com/news-releases/jack-henry-announces-regular-quarterly-dividend-302948462.html",
+   "summary": "MONETT, Mo., Nov. 23, 2026 /PRNewswire/ -- Jack Henry & Associates, Inc. (NASDAQ: JKHY) today announced its Board of Directors maintained its quarterly cash dividend of $.61 per share. The cash dividend on its common stock, par value $.01 per share, is payable on December 30, 2026, to...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-11-23T21:15:00+00:00",
+   "tickers": [
+    "JKHY"
+   ]
+  },
+  {
+   "id": "836461af9548",
+   "title": "Dover Announces Fourth Quarter 2026 Earnings Release Date, Conference Call and Webcast",
+   "link": "https://www.prnewswire.com/news-releases/dover-announces-fourth-quarter-2026-earnings-release-date-conference-call-and-webcast-302948645.html",
+   "summary": "DOWNERS GROVE, Ill., Nov. 23, 2026 /PRNewswire/ -- Dover (NYSE: DOV) announced today that it will release fourth quarter 2026 earnings at approximately 6:00 a.m. Central time (7:00 a.m. Eastern time) on Thursday, January 28, 2027. Later that morning, Dover will host a conference call at...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-11-23T21:15:00+00:00",
+   "tickers": [
+    "DOV"
+   ]
+  },
+  {
+   "id": "026bdec0442b",
+   "title": "CONSUMER ALERT: \"Jingle Bells, Something Smells\" RCF Holiday Shopping PSA Campaign",
+   "link": "https://www.prnewswire.com/news-releases/consumer-alert-jingle-bells-something-smells-rcf-holiday-shopping-psa-campaign-302948666.html",
+   "summary": "RILA Communities Foundation launches Holiday Shopping PSA warning consumers about common scams to avoid this holiday season. WASHINGTON, Nov. 23, 2026 /PRNewswire/ -- As the holiday shopping season approaches, and jingle bells start ringing, the RILA Communities Foundation is urging...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-11-23T21:15:00+00:00",
+   "tickers": [
+    "PSA"
+   ]
+  },
+  {
+   "id": "3ba7f4a1b2b6",
+   "title": "California Water Service Group Finalizes Sale of $125 Million of Senior Unsecured Notes and California Water Service Company Finalizes Sale of $150 Million of First Mortgage Bonds",
+   "link": "https://www.globenewswire.com/news-release/2026/11/23/3408895/0/en/california-water-service-group-finalizes-sale-of-125-million-of-senior-unsecured-notes-and-california-water-service-company-finalizes-sale-of-150-million-of-first-mortgage-bonds.html",
+   "summary": "SAN JOSE, Calif., Nov. 23, 2026 (GLOBE NEWSWIRE) -- California Water Service Group (Group, NYSE: CWT), which is set to be renamed Watermark Utilities as of November 30, 2026, today announced the finalization of its sale of $125,000,000 in aggregate principal amount of Senior Unsecured Notes (the Notes) by Group and $150,000,000 in aggregate principal amount of First Mortgage Bonds (the Bonds) by California Water Service Company (Cal Water), a wholly owned subsidiary of Group, in private placement transactions.",
+   "article_text": "",
+   "source": "GlobeNewswire",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "globenewswire.com",
+   "published": "2026-11-23T21:15:00+00:00",
+   "tickers": [
+    "SCI"
+   ]
+  },
+  {
+   "id": "e8f9b0e458a0",
+   "title": "DNA X, Inc. Reports Third Quarter 2026 Financial Results",
+   "link": "https://www.globenewswire.com/news-release/2026/11/23/3408896/0/en/dna-x-inc-reports-third-quarter-2026-financial-results.html",
+   "summary": "-Strengthened balance sheet with $5.0 million in cash through the sale of preferred stock",
+   "article_text": "",
+   "source": "GlobeNewswire",
+   "category": "press",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "globenewswire.com",
+   "published": "2026-11-23T21:15:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "9e45c151a2ac",
+   "title": "GE Aerospace Defense & Systems Leadership Transition",
+   "link": "https://www.globenewswire.com/news-release/2026/11/23/3408897/0/en/ge-aerospace-defense-systems-leadership-transition.html",
+   "summary": "Amy Gowder to leave GE Aerospace; Darin DiTommaso named interim President and CEO, Defense & Systems Amy Gowder to leave GE Aerospace; Darin DiTommaso named interim President and CEO, Defense & Systems",
+   "article_text": "",
+   "source": "GlobeNewswire",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "globenewswire.com",
+   "published": "2026-11-23T21:15:00+00:00",
+   "tickers": [
+    "GE"
+   ]
+  },
+  {
+   "id": "b94f2905abdf",
+   "title": "Dentsply Sirona to Participate in the Piper Sandler 38th Annual Healthcare Conference",
+   "link": "https://www.globenewswire.com/news-release/2026/11/23/3408898/0/en/dentsply-sirona-to-participate-in-the-piper-sandler-38th-annual-healthcare-conference.html",
+   "summary": "CHARLOTTE, N.C., Nov. 23, 2026 (GLOBE NEWSWIRE) -- DENTSPLY SIRONA Inc. (“Dentsply Sirona” or the \"Company\") (Nasdaq: XRAY) today announced that the Company will participate in the Piper Sandler 38th Annual Healthcare Conference taking place on December 1 - 3, 2026 in New York. Dentsply Sirona Management is scheduled to join a fireside discussion on Tuesday, December 1, 2026, at 1:30 p.m. ET.",
+   "article_text": "",
+   "source": "GlobeNewswire",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "globenewswire.com",
+   "published": "2026-11-23T21:15:00+00:00",
+   "tickers": [
+    "NDAQ"
+   ]
+  },
+  {
+   "id": "5cbe46b45076",
+   "title": "CDT Environmental Technology Investment Holdings Limited Reports Unaudited Financial Results for the Six Months Ended June 30, 2026 and Provides Business Updates",
+   "link": "https://www.globenewswire.com/news-release/2026/11/23/3408899/0/en/cdt-environmental-technology-investment-holdings-limited-reports-unaudited-financial-results-for-the-six-months-ended-june-30-2026-and-provides-business-updates.html",
+   "summary": "CDT Environmental Technology reported $7.22M in H1 2026 revenue and a $1.28M net loss. It expects Q4 decisions on two sewage treatment bids",
+   "article_text": "",
+   "source": "GlobeNewswire",
+   "category": "press",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "globenewswire.com",
+   "published": "2026-11-23T21:15:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "703264c349bd",
+   "title": "Alta Equipment Group Agrees to Acquire Jackson Group Peterbilt in Proposed Transformative Deal",
+   "link": "https://www.globenewswire.com/news-release/2026/11/23/3408900/0/en/alta-equipment-group-agrees-to-acquire-jackson-group-peterbilt-in-proposed-transformative-deal.html",
+   "summary": "Proposed acquisition expected to create scaled dealership platform for essential equipment that powers the industrial economyWould add commercial truck vertical with premier Peterbilt dealership platform with 34 locations in the western U.S.Expected to enhance earnings quality and cash generation and support continued deleveraging",
+   "article_text": "",
+   "source": "GlobeNewswire",
+   "category": "press",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "globenewswire.com",
+   "published": "2026-11-23T21:15:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "8c9ba6328fc1",
+   "title": "8-K - Cleco Corporate Holdings LLC (0001089819) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/1089819/000108981926000021/0001089819-26-000021-index.htm",
+   "summary": "Filed: 2026-11-23 AccNo: 0001089819-26-000021 Size: 461 KB Item 1.01: Entry into a Material Definitive Agreement Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant Item 9.01: Financial Statements and Exhibits",
+   "article_text": "",
+   "source": "SEC 8-K Filings",
+   "category": "filings",
+   "type": "8k",
+   "sentiment": "neutral",
+   "domain": "sec.gov",
+   "published": "2026-11-23T21:14:41+00:00",
+   "tickers": []
+  },
+  {
+   "id": "205d3d13468b",
+   "title": "8-K - CLECO POWER LLC (0000018672) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/18672/000108981926000021/0001089819-26-000021-index.htm",
+   "summary": "Filed: 2026-11-23 AccNo: 0001089819-26-000021 Size: 461 KB Item 1.01: Entry into a Material Definitive Agreement Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant Item 9.01: Financial Statements and Exhibits",
+   "article_text": "",
+   "source": "SEC 8-K Filings",
+   "category": "filings",
+   "type": "8k",
+   "sentiment": "neutral",
+   "domain": "sec.gov",
+   "published": "2026-11-23T21:14:41+00:00",
+   "tickers": []
+  },
+  {
+   "id": "1649c4ef021b",
+   "title": "MindWave Innovations Inc., a subsidiary of Apimeds Pharmaceuticals US (NYSE American: APUS) Powers Over $25 Million USD in Insured ALCI Ecosystem Credits, Launched at UN Climate Conference COP31",
+   "link": "https://www.globenewswire.com/news-release/2026/11/23/3408894/0/en/mindwave-innovations-inc-a-subsidiary-of-apimeds-pharmaceuticals-us-nyse-american-apus-powers-over-25-million-usd-in-insured-alci-ecosystem-credits-launched-at-un-climate-conferenc.html",
+   "summary": "Credits are issued and managed on AQUAEChain, built on MindWave’s MindChain, a fully insured Layer 2 blockchain, with insurance coverage provided through Lloyd’s syndicate partners",
+   "article_text": "",
+   "source": "GlobeNewswire",
+   "category": "press",
+   "type": "press",
+   "sentiment": "positive",
+   "domain": "globenewswire.com",
+   "published": "2026-11-23T21:14:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "9f850bffc958",
+   "title": "8-K - Local Bounti Corporation/DE (0001840780) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/1840780/000162828026075497/0001628280-26-075497-index.htm",
+   "summary": "Filed: 2026-11-23 AccNo: 0001628280-26-075497 Size: 491 KB Item 2.02: Results of Operations and Financial Condition Item 9.01: Financial Statements and Exhibits",
+   "article_text": "",
+   "source": "SEC 8-K Filings",
+   "category": "filings",
+   "type": "8k",
+   "sentiment": "neutral",
+   "domain": "sec.gov",
+   "published": "2026-11-23T21:13:58+00:00",
+   "tickers": [
+    "DE"
+   ]
+  },
+  {
+   "id": "78c071aa4aec",
+   "title": "Symbotic earnings beat by $0.02, revenue topped estimates",
+   "link": "https://www.investing.com/news/earnings/symbotic-earnings-beat-by-002-revenue-topped-estimates-5046407",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-11-23T21:13:25+00:00",
+   "tickers": [
+    "SYM"
+   ]
+  },
   {
    "id": "c3d74fc4dd3d",
    "title": "8-K - VISA INC. (0001403161) (Filer)",
@@ -15,6 +808,106 @@
    "sentiment": "neutral",
    "domain": "sec.gov",
    "published": "2026-11-23T21:13:18+00:00",
+   "tickers": []
+  },
+  {
+   "id": "168def9b4cee",
+   "title": "Local Bounti to acquire Revol Greens facilities for $19.6 million",
+   "link": "https://www.investing.com/news/company-news/local-bounti-to-acquire-revol-greens-facilities-for-196-million-93CH-5046389",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-23T21:12:39+00:00",
+   "tickers": []
+  },
+  {
+   "id": "6a9e9846c334",
+   "title": "BP announces pricing for $6 billion debt tender offer",
+   "link": "https://www.investing.com/news/company-news/bp-announces-pricing-for-6-billion-debt-tender-offer-93CH-5046388",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-23T21:12:38+00:00",
+   "tickers": [
+    "BP"
+   ]
+  },
+  {
+   "id": "0e71ba83e77c",
+   "title": "Social media companies not liable for Buffalo mass shooting, New York’s highest court rules",
+   "link": "https://www.investing.com/news/stock-market-news/social-media-companies-not-liable-for-buffalo-mass-shooting-new-yorks-highest-court-rules-5046324",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-23T21:12:37+00:00",
+   "tickers": []
+  },
+  {
+   "id": "219e015e7e57",
+   "title": "HireQuest extends share buyback program by $17.2 million",
+   "link": "https://www.investing.com/news/company-news/hirequest-extends-share-buyback-program-by-172-million-93CH-5046387",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-11-23T21:12:33+00:00",
+   "tickers": []
+  },
+  {
+   "id": "919aa8d235ec",
+   "title": "Covenant Logistics declares $0.07 quarterly dividend",
+   "link": "https://www.investing.com/news/company-news/covenant-logistics-declares-007-quarterly-dividend-93CH-5046386",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-23T21:12:31+00:00",
+   "tickers": []
+  },
+  {
+   "id": "131aceb3c8e2",
+   "title": "Peloton authorizes $300 million share buyback program",
+   "link": "https://www.investing.com/news/company-news/peloton-authorizes-300-million-share-buyback-program-93CH-5046385",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-11-23T21:12:28+00:00",
+   "tickers": []
+  },
+  {
+   "id": "4abb965e0322",
+   "title": "Albertsons names Kris Staaf to new communications chief role",
+   "link": "https://www.investing.com/news/company-news/albertsons-names-kris-staaf-to-new-communications-chief-role-93CH-5046384",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-23T21:12:27+00:00",
    "tickers": []
   },
   {
@@ -32,6 +925,20 @@
    "tickers": [
     "HPE"
    ]
+  },
+  {
+   "id": "64e820a7cef9",
+   "title": "8-K - PELOTON INTERACTIVE, INC. (0001639825) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/1639825/000163982526000052/0001639825-26-000052-index.htm",
+   "summary": "Filed: 2026-11-23 AccNo: 0001639825-26-000052 Size: 150 MB Item 1.01: Entry into a Material Definitive Agreement Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant Item 7.01: Regulation FD Disclosure Item 9.01: Financial Statements and Exhibits",
+   "article_text": "",
+   "source": "SEC 8-K Filings",
+   "category": "filings",
+   "type": "8k",
+   "sentiment": "neutral",
+   "domain": "sec.gov",
+   "published": "2026-11-23T21:12:04+00:00",
+   "tickers": []
   },
   {
    "id": "8b7213f267cf",
@@ -136,6 +1043,58 @@
    "tickers": []
   },
   {
+   "id": "5c6c46823f91",
+   "title": "Stocks Rebound Sharply as Nvidia Reinstates Huang",
+   "link": "https://www.nasdaq.com/articles/stocks-rebound-sharply-nvidia-reinstates-huang-0",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) is up +4.06%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +2.06%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +6.11%. December E-mini S&P futures (ESZ26 ) are up +3.84%, and December E-mini Nasdaq futures (NQZ26...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-23T21:10:41+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
+  },
+  {
+   "id": "39cf00cc286f",
+   "title": "Stocks Rebound Sharply as Nvidia Reinstates Huang",
+   "link": "https://www.nasdaq.com/articles/stocks-rebound-sharply-nvidia-reinstates-huang",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) is up +4.06%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +2.06%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +6.11%. December E-mini S&P futures (ESZ26 ) are up +3.84%, and December E-mini Nasdaq futures (NQZ26...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-23T21:10:40+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
+  },
+  {
+   "id": "6aacd0ebd5da",
+   "title": "Cotton Rallying on Monday Morning",
+   "link": "https://www.nasdaq.com/articles/cotton-rallying-monday-morning-0",
+   "summary": "Cotton prices are up 117 to 228 points so far on Monday AM trade. Futures closed the Friday session with contracts down 18 to 48 points, as nearby December was down 331 points last week. Crude oil was up 88 cents per barrel on the session to $84.09, with the...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-23T21:10:40+00:00",
+   "tickers": []
+  },
+  {
    "id": "ee34aecfed01",
    "title": "8-K - FF EAI Robotics Ecosystem Inc. (0001460702) (Filer)",
    "link": "https://www.sec.gov/Archives/edgar/data/1460702/000149315226053754/0001493152-26-053754-index.htm",
@@ -147,6 +1106,34 @@
    "sentiment": "neutral",
    "domain": "sec.gov",
    "published": "2026-11-23T21:10:35+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ca6e55ad25fc",
+   "title": "SNDL Inc. Announces Renewal of Share Repurchase Program Up to C$100 million",
+   "link": "https://www.nasdaq.com/articles/sndl-inc-announces-renewal-share-repurchase-program-c-100-million",
+   "summary": "SNDL Inc. announced the renewal of its share repurchase program, authorizing the company to repurchase up to C$100 million of its common shares from time to time at prevailing market prices. Under the renewed program, SNDL Inc. may repurchase a maximum of approximately 23,573,925",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-11-23T21:10:18+00:00",
+   "tickers": []
+  },
+  {
+   "id": "2e6a338b176b",
+   "title": "Himalaya Shipping Ltd. CEO Lars-Christian Svensen Purchases 6,800 Shares",
+   "link": "https://www.nasdaq.com/articles/himalaya-shipping-ltd-ceo-lars-christian-svensen-purchases-6800-shares",
+   "summary": "Himalaya Shipping Ltd. has announced that its Contracted CEO, Lars-Christian Svensen, purchased 6,800 shares in the Company at an average price of NOK147.74 per share. Following the transaction, Mr. Svensen owns 29,986 shares and 185,000 share options in the Company. This informa",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-23T21:10:18+00:00",
    "tickers": []
   },
   {
@@ -236,6 +1223,20 @@
    "tickers": [
     "FLNC"
    ]
+  },
+  {
+   "id": "f87a0caf0e24",
+   "title": "Del Monte Enters Oversold Territory",
+   "link": "https://www.nasdaq.com/articles/del-monte-enters-oversold-territory",
+   "summary": "The DividendRank formula at Dividend Channel ranks a coverage universe of thousands of dividend stocks, according to a proprietary formula designed to identify those stocks that combine two important characteristics — strong fundamentals and a valuation that looks inexpensive.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-23T21:08:50+00:00",
+   "tickers": []
   },
   {
    "id": "936b953f0176",
@@ -370,6 +1371,20 @@
    "tickers": []
   },
   {
+   "id": "06903884e2aa",
+   "title": "Wedbush initiates Anthropic stock coverage with Outperform rating",
+   "link": "https://www.investing.com/news/analyst-ratings/wedbush-initiates-anthropic-stock-coverage-with-outperform-rating-93CH-5046376",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-11-23T21:07:21+00:00",
+   "tickers": []
+  },
+  {
    "id": "9cda02288a3d",
    "title": "Stocks Surge After Jensen Huang Is Reinstated as Nvidia CEO",
    "link": "https://www.nytimes.com/2026/11/22/business/nvidia-stock-huang-ai-sp500-markets.html",
@@ -426,6 +1441,20 @@
    "tickers": [
     "NDAQ"
    ]
+  },
+  {
+   "id": "726e417478af",
+   "title": "Wall Street jumps back as Jensen Huang returns as Nvidia CEO",
+   "link": "https://www.investing.com/news/stock-market-news/wall-street-futures-rebound-after-rough-week-for-ailinked-shares-5044594",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-11-23T21:06:55+00:00",
+   "tickers": []
   },
   {
    "id": "f18f42efb4ab",
@@ -700,6 +1729,52 @@
    "sentiment": "neutral",
    "domain": "sec.gov",
    "published": "2026-11-23T21:05:39+00:00",
+   "tickers": []
+  },
+  {
+   "id": "7a9b369f2fb8",
+   "title": "Coffee Prices Fall as Brazilian Real Posts New 1.75-Year Low",
+   "link": "https://www.nasdaq.com/articles/coffee-prices-fall-brazilian-real-posts-new-175-year-low",
+   "summary": "March arabica coffee (KCH26 ) is down -1.10 (-0.41%), and January ICE robusta coffee (RMF27 ) is down -21 (-0.73%). Coffee prices are trading lower again today, with arabica falling to a 1.5-week low and robusta falling to a 3-year low. Coffee prices are trading lower due to a further...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-11-23T21:05:31+00:00",
+   "tickers": [
+    "ICE"
+   ]
+  },
+  {
+   "id": "2f7c855f63b4",
+   "title": "Sugar Prices Rebound Higher",
+   "link": "https://www.nasdaq.com/articles/sugar-prices-rebound-higher",
+   "summary": "March NY world sugar #11 (SBH27 ) is up +0.64 (+3.76%), and March London ICE white sugar #5 (SWH27 ) is up +15.70 (+3.22%). Sugar prices have rebounded higher today on some short-covering after the recent sharp sell-off. NY sugar last Friday posted a new 3.5-month low. Sugar prices are...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-23T21:05:31+00:00",
+   "tickers": [
+    "ICE"
+   ]
+  },
+  {
+   "id": "cbb2f0638e36",
+   "title": "Wheat Kicking Off Monday with Strength",
+   "link": "https://www.nasdaq.com/articles/wheat-kicking-monday-strength",
+   "summary": "Wheat is showing fractional to 3 cent gains so far on Monday morning. The wheat complex saw mixed trade on Friday, as December options expired. Chicago SRW futures were mixed, with front months steady to 4 cents lower and deferreds fractionally to 2 ½ cents higher. December was 19 cents...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-23T21:05:30+00:00",
    "tickers": []
   },
   {
@@ -1320,6 +2395,22 @@
    "tickers": []
   },
   {
+   "id": "bedd85aeb478",
+   "title": "SPXU Crosses Below Key Moving Average Level",
+   "link": "https://www.nasdaq.com/articles/spxu-crosses-below-key-moving-average-level",
+   "summary": "In trading on Monday, shares of the ProShares UltraPro Short S&P 500 ETF (Symbol: SPXU) crossed below their 200 day moving average of $40.41, changing hands as low as $38.67 per share. ProShares UltraPro Short S&P 500 shares are currently trading off about 14.1% on the",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-23T21:02:43+00:00",
+   "tickers": [
+    "SPXU"
+   ]
+  },
+  {
    "id": "080c729ca146",
    "title": "8-K - NORTECH SYSTEMS INC (0000722313) (Filer)",
    "link": "https://www.sec.gov/Archives/edgar/data/722313/000149315226053742/0001493152-26-053742-index.htm",
@@ -1332,6 +2423,22 @@
    "domain": "sec.gov",
    "published": "2026-11-23T21:02:36+00:00",
    "tickers": []
+  },
+  {
+   "id": "187c66ea8240",
+   "title": "Invesco (IVZ) Shares Cross Above 200 DMA",
+   "link": "https://www.nasdaq.com/articles/invesco-ivz-shares-cross-above-200-dma",
+   "summary": "In trading on Monday, shares of Invesco Ltd (Symbol: IVZ) crossed above their 200 day moving average of $28.01, changing hands as high as $28.59 per share. Invesco Ltd shares are currently trading up about 7% on the day. The chart below shows the one year performance of IVZ sh",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-23T21:02:24+00:00",
+   "tickers": [
+    "IVZ"
+   ]
   },
   {
    "id": "10b061ba7aaa",
@@ -1887,7 +2994,7 @@
    "link": "https://www.prnewswire.com/news-releases/banner-ridge-partners-announces-strategic-growth-investment-from-bisonti-partners-and-bonaccord-capital-partners-302947321.html",
    "summary": "Investment reflects Banner Ridge's growth trajectory, with assets under management more than doubling since 2024 NEW YORK, Nov. 23, 2026 /PRNewswire/ -- Banner Ridge Partners (\"Banner Ridge\" or the \"Firm\"), a $15.4 billion private markets investment specialist, today announced a strategic...",
    "article_text": "",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -2048,6 +3155,50 @@
    "tickers": []
   },
   {
+   "id": "6a93f11f990c",
+   "title": "CRK Stock Crowded With Sellers",
+   "link": "https://www.nasdaq.com/articles/crk-stock-crowded-sellers",
+   "summary": "In trading on Monday, shares of Comstock Resources Inc (Symbol: CRK) entered into oversold territory, changing hands as low as $11.38 per share. We define oversold territory using the Relative Strength Index, or RSI, which is a technical analysis indicator used to measure momen",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-23T20:56:40+00:00",
+   "tickers": [
+    "CRK"
+   ]
+  },
+  {
+   "id": "417135f07fe9",
+   "title": "Black Stone Minerals Stock Getting Very Oversold",
+   "link": "https://www.nasdaq.com/articles/black-stone-minerals-stock-getting-very-oversold",
+   "summary": "In trading on Monday, shares of Black Stone Minerals LP (Symbol: BSM) entered into oversold territory, changing hands as low as $13.05 per share. We define oversold territory using the Relative Strength Index, or RSI, which is a technical analysis indicator used to measure mome",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-23T20:56:26+00:00",
+   "tickers": []
+  },
+  {
+   "id": "36873c50b26f",
+   "title": "Obsidian Energy (OBE) Shares Enter Oversold Territory",
+   "link": "https://www.nasdaq.com/articles/obsidian-energy-obe-shares-enter-oversold-territory",
+   "summary": "In trading on Monday, shares of Obsidian Energy Ltd (Symbol: OBE) entered into oversold territory, changing hands as low as $8.18 per share. We define oversold territory using the Relative Strength Index, or RSI, which is a technical analysis indicator used to measure momentum",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-23T20:56:21+00:00",
+   "tickers": []
+  },
+  {
    "id": "43881a026482",
    "title": "8-K - Slam Corp. (0001838162) (Filer)",
    "link": "https://www.sec.gov/Archives/edgar/data/1838162/000121390026123161/0001213900-26-123161-index.htm",
@@ -2060,6 +3211,22 @@
    "domain": "sec.gov",
    "published": "2026-11-23T20:56:16+00:00",
    "tickers": []
+  },
+  {
+   "id": "8c90062584b3",
+   "title": "OXY Stock Crowded With Sellers",
+   "link": "https://www.nasdaq.com/articles/oxy-stock-crowded-sellers",
+   "summary": "In trading on Monday, shares of Occidental Petroleum Corp (Symbol: OXY) entered into oversold territory, changing hands as low as $52.55 per share. We define oversold territory using the Relative Strength Index, or RSI, which is a technical analysis indicator used to measure mo",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-23T20:56:11+00:00",
+   "tickers": [
+    "OXY"
+   ]
   },
   {
    "id": "823311f2a69f",
@@ -2078,6 +3245,24 @@
    ]
   },
   {
+   "id": "595d4da93e62",
+   "title": "IYE Makes Notable Cross Below Critical Moving Average",
+   "link": "https://www.nasdaq.com/articles/iye-makes-notable-cross-below-critical-moving-average",
+   "summary": "In trading on Monday, shares of the iShares U.S. Energy ETF (Symbol: IYE) crossed below their 200 day moving average of $63.19, changing hands as low as $63.05 per share. iShares U.S. Energy shares are currently trading off about 1.1% on the day. The chart below shows the one",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-23T20:55:57+00:00",
+   "tickers": [
+    "IYE",
+    "IYW",
+    "IAGG"
+   ]
+  },
+  {
    "id": "eba05bfe4918",
    "title": "Roundhill PLTR WeeklyPay ETF declares $0.2598 dividend",
    "link": "https://seekingalpha.com/news/4675820-roundhill-pltr-weeklypay-etf-declares-0_2598-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -2092,6 +3277,20 @@
    "tickers": [
     "PLTR"
    ]
+  },
+  {
+   "id": "96ccbaf14079",
+   "title": "Descartes Systems Group Launches Descartes Spot",
+   "link": "https://www.nasdaq.com/articles/descartes-systems-group-launches-descartes-spot",
+   "summary": "(RTTNews) - On Monday, Descartes Systems Group (DSGX) launched Descartes Spot, a freight spot-rate solution designed to help freight forwarders win more business by providing 90% of customer freight quote requests within 30 seconds.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-11-23T20:55:29+00:00",
+   "tickers": []
   },
   {
    "id": "787e28ec905f",
@@ -2143,6 +3342,22 @@
    ]
   },
   {
+   "id": "6f296aa8c406",
+   "title": "Amazon To Acquire Decart AI Technology And Team In Reported $7.5 Bln Deal",
+   "link": "https://www.nasdaq.com/articles/amazon-acquire-decart-ai-technology-and-team-reported-75-bln-deal",
+   "summary": "(RTTNews) - Amazon.com Inc. (AMZN) has agreed to acquire key artificial intelligence technology and personnel from Israeli startup Decart in a transaction reportedly valued at approximately $7.5 billion, as the technology giant seeks to strengthen its AI computing capabilities an",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-23T20:54:55+00:00",
+   "tickers": [
+    "AMZN"
+   ]
+  },
+  {
    "id": "258b2d078eeb",
    "title": "US to blacklist Megaspeed chip firm linked to Nvidia scandal, source says",
    "link": "https://www.investing.com/news/stock-market-news/us-to-blacklist-megaspeed-chip-firm-linked-to-nvidia-scandal-source-says-5046337",
@@ -2169,6 +3384,22 @@
    "domain": "investing.com",
    "published": "2026-11-23T20:54:17+00:00",
    "tickers": []
+  },
+  {
+   "id": "2bf48d8d2c8c",
+   "title": "AECOM Appointed To Provide Program Management Services For Adani Group",
+   "link": "https://www.nasdaq.com/articles/aecom-appointed-provide-program-management-services-adani-group",
+   "summary": "(RTTNews) - On Monday, AECOM (ACM) was appointed to provide program management services for three major, multi-year infrastructure projects for the Adani Group in India, involving a combined investment of approximately $15 billion. The projects aim to support India's Viksit Bhara",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-23T20:52:51+00:00",
+   "tickers": [
+    "ACM"
+   ]
   },
   {
    "id": "a3727578c331",
@@ -2198,6 +3429,20 @@
    "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-11-23T20:50:29+00:00",
+   "tickers": []
+  },
+  {
+   "id": "288f0945d656",
+   "title": "3 AI Stocks Billionaire Stanley Druckenmiller Has Been Quietly Buying",
+   "link": "https://www.nasdaq.com/articles/3-ai-stocks-billionaire-stanley-druckenmiller-has-been-quietly-buying",
+   "summary": "Key PointsSpaceX has the potential to disrupt multiple industries.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-23T20:50:02+00:00",
    "tickers": []
   },
   {
@@ -2350,20 +3595,6 @@
    "tickers": []
   },
   {
-   "id": "0e71ba83e77c",
-   "title": "Social media companies not liable for Buffalo mass shooting, New York’s highest court rules",
-   "link": "https://www.investing.com/news/stock-market-news/social-media-companies-not-liable-for-buffalo-mass-shooting-new-yorks-highest-court-rules-5046324",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-23T20:48:36+00:00",
-   "tickers": []
-  },
-  {
    "id": "8da2c840cb65",
    "title": "Watch CNBC's full interview with President Trump",
    "link": "https://biztoc.com/x/7467a86e4c4f5cfc?ref=rss",
@@ -2479,41 +3710,6 @@
    "published": "2026-11-23T20:47:43+00:00",
    "tickers": [
     "WMT"
-   ]
-  },
-  {
-   "id": "7a9b369f2fb8",
-   "title": "Coffee Prices Fall as Brazilian Real Posts New 1.75-Year Low",
-   "link": "https://www.nasdaq.com/articles/coffee-prices-fall-brazilian-real-posts-new-175-year-low",
-   "summary": "March arabica coffee (KCH26 ) is down -1.10 (-0.41%), and January ICE robusta coffee (RMF27 ) is down -21 (-0.73%). Coffee prices are trading lower again today, with arabica falling to a 1.5-week low and robusta falling to a 3-year low. Coffee prices are trading lower due to a further...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-11-23T20:46:59+00:00",
-   "tickers": [
-    "ICE"
-   ]
-  },
-  {
-   "id": "ff28734f031a",
-   "title": "Stocks Rebound Sharply as Nvidia Reinstates CEO Huang",
-   "link": "https://www.nasdaq.com/articles/stocks-rebound-sharply-nvidia-reinstates-ceo-huang",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) is up +5.15%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +3.05%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +7.34%. December E-mini S&P futures (ESZ26 ) are up +4.85%, and December E-mini Nasdaq futures (NQZ26...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-23T20:46:58+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
    ]
   },
   {
@@ -2959,20 +4155,6 @@
    "tickers": [
     "HOOD"
    ]
-  },
-  {
-   "id": "2f503b26318c",
-   "title": "Short sellers get smoked as Nvidia tallies biggest one-day gain in stock-market history",
-   "link": "https://www.marketwatch.com/story/short-sellers-get-smoked-as-nvidia-tallies-biggest-one-day-gain-in-stock-market-history-e9dc6e9c?mod=mw_rss_topstories",
-   "summary": "Two products aiming to profit off daily declines in Nvidia shares were nearly wiped out as the stock rallied more than 30%.",
-   "article_text": "",
-   "source": "MarketWatch",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "marketwatch.com",
-   "published": "2026-11-23T20:40:00+00:00",
-   "tickers": []
   },
   {
    "id": "84aaa80bed98",
@@ -4080,39 +5262,6 @@
    "tickers": []
   },
   {
-   "id": "39cf00cc286f",
-   "title": "Stocks Rebound Sharply as Nvidia Reinstates Huang",
-   "link": "https://www.nasdaq.com/articles/stocks-rebound-sharply-nvidia-reinstates-huang",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) is up +4.06%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +2.06%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +6.11%. December E-mini S&P futures (ESZ26 ) are up +3.84%, and December E-mini Nasdaq futures (NQZ26...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-23T20:19:23+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
-   ]
-  },
-  {
-   "id": "27929aae0b23",
-   "title": "Dollar Gains as Stocks Recover and T-Note Yields Rise",
-   "link": "https://www.nasdaq.com/articles/dollar-gains-stocks-recover-and-t-note-yields-rise",
-   "summary": "The dollar index (DXY00 ) is up +0.43%, supported by improved dollar interest rate differentials, with the 10-year T-note yield up +1.2 bp at 4.956%. The T-note yield is slightly higher on reduced safe-haven demand for Treasury securities due to today's sharp upward rebound in stocks. The dollar was undercut...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-11-23T20:19:23+00:00",
-   "tickers": []
-  },
-  {
    "id": "6871739e3fe8",
    "title": "Dollar Gains as Stocks Recover and T-Note Yields Rise",
    "link": "https://www.nasdaq.com/articles/dollar-gains-stocks-recover-and-t-note-yields-rise-0",
@@ -4865,22 +6014,6 @@
    ]
   },
   {
-   "id": "2f7c855f63b4",
-   "title": "Sugar Prices Rebound Higher",
-   "link": "https://www.nasdaq.com/articles/sugar-prices-rebound-higher",
-   "summary": "March NY world sugar #11 (SBH27 ) is up +0.64 (+3.76%), and March London ICE white sugar #5 (SWH27 ) is up +15.70 (+3.22%). Sugar prices have rebounded higher today on some short-covering after the recent sharp sell-off. NY sugar last Friday posted a new 3.5-month low. Sugar prices are...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-23T20:08:13+00:00",
-   "tickers": [
-    "ICE"
-   ]
-  },
-  {
    "id": "27962c83473e",
    "title": "Cotton Rally Holding on Monday",
    "link": "https://www.nasdaq.com/articles/cotton-rally-holding-monday",
@@ -5022,20 +6155,6 @@
    "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-11-23T20:07:30+00:00",
-   "tickers": []
-  },
-  {
-   "id": "726e417478af",
-   "title": "Wall Street roars back, Nvidia jumps 31% as Jensen Huang returns as CEO",
-   "link": "https://www.investing.com/news/stock-market-news/wall-street-futures-rebound-after-rough-week-for-ailinked-shares-5044594",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-11-23T20:06:59+00:00",
    "tickers": []
   },
   {
@@ -5974,23 +7093,6 @@
    ]
   },
   {
-   "id": "e399f00676bc",
-   "title": "Cocoa Prices Supported by Reduced Ivory Coast Shipments",
-   "link": "https://www.nasdaq.com/articles/cocoa-prices-supported-reduced-ivory-coast-shipments",
-   "summary": "December ICE NY cocoa (CCZ26 ) is up +66 (+1.29%), and ICE London cocoa #7 (CAZ26 ) is up +40 (+1.02%). Reduced cocoa shipments from the Ivory Coast are supportive of prices. Ivory Coast government data on Monday showed farmers delivered 53,748 MT of cocoa to ports in the week...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-11-23T19:52:54+00:00",
-   "tickers": [
-    "ICE",
-    "MT"
-   ]
-  },
-  {
    "id": "2e0584785ee6",
    "title": "Soybeans Posting Midday Gains on Monday",
    "link": "https://www.nasdaq.com/articles/soybeans-posting-midday-gains-monday",
@@ -6005,25 +7107,6 @@
    "tickers": []
   },
   {
-   "id": "5c6c46823f91",
-   "title": "Stocks Rebound Sharply as Nvidia Reinstates Huang",
-   "link": "https://www.nasdaq.com/articles/stocks-rebound-sharply-nvidia-reinstates-huang-0",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) is up +4.06%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +2.06%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +6.11%. December E-mini S&P futures (ESZ26 ) are up +3.84%, and December E-mini Nasdaq futures (NQZ26...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-23T19:52:52+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
-   ]
-  },
-  {
    "id": "46bfe6837c31",
    "title": "Crude Prices Fall on Reduced Concern About a New US Attack on Iran",
    "link": "https://www.nasdaq.com/articles/crude-prices-fall-reduced-concern-about-new-us-attack-iran",
@@ -6035,20 +7118,6 @@
    "sentiment": "negative",
    "domain": "nasdaq.com",
    "published": "2026-11-23T19:52:52+00:00",
-   "tickers": []
-  },
-  {
-   "id": "6aacd0ebd5da",
-   "title": "Cotton Rallying on Monday Morning",
-   "link": "https://www.nasdaq.com/articles/cotton-rallying-monday-morning-0",
-   "summary": "Cotton prices are up 117 to 228 points so far on Monday AM trade. Futures closed the Friday session with contracts down 18 to 48 points, as nearby December was down 331 points last week. Crude oil was up 88 cents per barrel on the session to $84.09, with the...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-23T19:52:51+00:00",
    "tickers": []
   },
   {
@@ -7802,1086 +8871,22 @@
    "domain": "prnewswire.com",
    "published": "2026-11-23T19:24:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "5ba8cb98f0b5",
-   "title": "Corn Starting Thanksgiving Week with Gains",
-   "link": "https://www.nasdaq.com/articles/corn-starting-thanksgiving-week-gains",
-   "summary": "Corn price action is up 3 to 4 cents in early Monday trade. Futures close the Friday session with contracts down 1 ¼ to 4 ½ cents across the board, facing weakness into the weekend. Open interest was down 33,118 contracts, mainly in the nearby December (-52,985 contracts). The CmdtyView...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-11-23T19:22:24+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ba2c13a561d9",
-   "title": "Where Things Stand Now",
-   "link": "https://seekingalpha.com/article/4971167-where-things-stand-now?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-23T19:22:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "dbcf8eefdea7",
-   "title": "‘Jensen’s judgment remains under question’: What Wall Street analysts are saying about Huang’s comeback",
-   "link": "https://www.businessinsider.com/jensen-huang-return-to-nvidia-wall-street-reaction-nvda-2026-11",
-   "summary": "",
-   "article_text": "",
-   "source": "Markets Insider",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "businessinsider.com",
-   "published": "2026-11-23T19:22:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "52ccce1689a6",
-   "title": "India’s rupee carry trade: RBI support holds but risks are building",
-   "link": "https://www.investing.com/news/forex-news/indias-rupee-carry-trade-rbi-support-holds-but-risks-are-building-93CH-5046267",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Forex",
-   "category": "fx",
-   "type": "fx",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-23T19:21:57+00:00",
-   "tickers": []
-  },
-  {
-   "id": "849b9d08464b",
-   "title": "Hewlett Packard Enterprise surges 18% as tech stocks rally, earnings on tap",
-   "link": "https://seekingalpha.com/news/4675768-hewlett-packard-enterprise-surges-18-as-tech-stocks-rally-earnings-on-tap?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-23T19:21:45+00:00",
-   "tickers": [
-    "HPE"
-   ]
-  },
-  {
-   "id": "1038867d6f9a",
-   "title": "Dogwood Therapeutics, Inc. (DWTX) Discusses Halneuron Phase IIb Top-Line Results in Chemotherapy-Induced Neuropathic Pain Transcript",
-   "link": "https://seekingalpha.com/article/4971170-dogwood-therapeutics-inc-dwtx-discusses-halneuron-phase-iib-top-line-results-in-chemotherapy?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-23T19:21:21+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ca06ad7c271f",
-   "title": "Nasdaq soars nearly 7% as Huang’s return to Nvidia reignites AI trade",
-   "link": "https://www.investing.com/news/stock-market-news/wall-street-futures-jump-after-major-indexes-enter-correction-territory-5044226",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-11-23T19:20:11+00:00",
-   "tickers": [
-    "NDAQ"
-   ]
-  },
-  {
-   "id": "ea422b4df6d1",
-   "title": "Here's the 1 Stock I'd Most Want to Buy If the Market Crashes",
-   "link": "https://www.nasdaq.com/articles/heres-1-stock-id-most-want-buy-if-market-crashes-0",
-   "summary": "Key PointsThe pharmaceutical giant has increased its dividend for 64 consecutive years, making it a Dividend King.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-11-23T19:20:02+00:00",
-   "tickers": []
-  },
-  {
-   "id": "3ea5ac431e19",
-   "title": "Huang's Nvidia Return Tests a Rule Breaker Trait",
-   "link": "https://www.nasdaq.com/articles/huangs-nvidia-return-tests-rule-breaker-trait",
-   "summary": "Nvidia (NASDAQ:NVDA) brought back Jensen Huang as CEO this morning, 11 days after he resigned. The stock jumped more than 30% in early trading. That regained most of the ground it had lost after Huang stepped down on Nov. 12.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-23T19:20:02+00:00",
-   "tickers": [
-    "NVDA"
-   ]
-  },
-  {
-   "id": "4767daba4966",
-   "title": "What's Next for Lennar Corporation Shareholders After 6.73% Stock Drop? Glancy Prongay Wolke & Rotter LLP Explains Securities Fraud Class Action Lead Plaintiff Deadline",
-   "link": "https://www.prnewswire.com/news-releases/whats-next-for-lennar-corporation-shareholders-after-6-73-stock-drop-glancy-prongay-wolke--rotter-llp-explains-securities-fraud-class-action-lead-plaintiff-deadline-302947509.html",
-   "summary": "Complaint alleges Lennar Corporation misled investors between February 7, 2025 and October 2, 2026; investors may seek lead plaintiff role by January 11, 2027 LOS ANGELES, Nov. 23, 2026 /PRNewswire/ -- Glancy Prongay Wolke & Rotter LLP (\"Glancy\") announced today that the class action...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "prnewswire.com",
-   "published": "2026-11-23T19:20:00+00:00",
-   "tickers": [
-    "LEN"
-   ]
-  },
-  {
-   "id": "9816118900f7",
-   "title": "Tech stocks rally after Nvidia board approves Jensen Huang's return as CEO",
-   "link": "https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html",
-   "summary": "The Nasdaq slid 10% last week in its worst week since the early days of Covid in 2020.",
-   "article_text": "Tech stocks rally after Nvidia board approves Jensen Huang's return as CEO Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Key Points Tech stock fortunes turned around following a torrid week for sector names that culminated in a steep sell-off Friday. Most major tech and AI buildout stocks rebounded. Nvidia bounced back sharply after Jensen Huang was reinstated as CEO. In this article ANT NVDA GOOGL META Follow your favorite stocks CREATE FREE ACCOUNT watch now VIDEO 5:00 05:00 'Squawk on the Street’ crew react to Nvidia reinstating Jensen Huang as CEO Squawk on the Street Major tech stocks rebounded across the board Monday, following Friday's steep sell-off when artificial intelligence stocks fell in the Nasdaq's worst week since 2020. Shares of Nvidia surged 30%, gaining back nearly $1 trillion in market cap after the company announced Monday morning that Jensen Huang was reinstated as CEO . Nvidia's surge and Huang's reinstatement followed a more than 40% slump in the stock over the past month. The company has been embattled as reports surfaced about Huang's multiple extramarital affairs — one of which was with a woman U.S. intelligence reportedly believes to be a Chinese spy. Huang resigned as CEO of the company he founded on Nov. 12. The Nasdaq Composite surged more than 6% Monday after sliding 10% last week. Tech stocks had a rocky week as investors remained nervous about the valuation of some AI companies and business models. All three major averages ended last week in correction territory, and the Nasdaq turned negative for 2026. Nvidia stock chart Shares of Big Tech companies and other stocks related to the AI trade saw a lift Monday on the Nvidia news. Shares of Alphabet and Meta each surged 6%, Amazon was up 4% and Microsoft jumped 2.5%. SpaceX added 6%, Arm Holdings surged 16% and AMD added more than 6%. Dell and Micron posted some of the sector's biggest gains of the day, gaining 21% and 18%, respectively. The iShares Semiconductor ETF gained 13%. Neoclouds, which have seen a particularly choppy few months amid AI boom financing concerns, surged on Huang's reinstatement. Nebius and CoreWeave were up 20%, and Iren gained 23%. Following a brief premarket surge, Anthropic shares traded largely flat in its third day of trading. Anthropic raised a record $93.5 billion in its IPO. The stock gained 17% in its debut on Thursday, before closing down 8.5% on Friday. Read more CNBC tech news Nvidia skyrockets 30% on Huang’s return as CEO, recovering nearly all the losses since he disclosed affair U.S. probes Megaspeed, Alice Huang as new figure emerges in Nvidia chip case Anthropic's record IPO collides with tech's worst week on Wall Street since 2020 CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks SpaceX sued by Oregon and Virginia over AI deepfake porn, Grok safety claims Speaking to CNBC's Eamon Javers about Huang's reinstatement, President Donald Trump on Monday said that last week's market sell-off \"probably\" influenced his support for the ousted CEO's return. \"Probably so, but the bigger impact was the long term. The bigger impact was, he's got other chips in his brain that nobody else knows about,\" Trump said on CNBC's \"Squawk on the Street.\" Trump said he spoke to Nvidia's board directly and that he \"convinced\" the board to reinstate Huang, who the president said \"did nothing wrong.\" \"That thing's like a rocket ship going in the wrong direction. Now it's a rocket ship going in the right direction, and it's taking the whole market with it,\" Trump said, referring to Nvidia's stock price. \"The board was in a bad position, but they were put in an easier position to do this when the stock lost 50% of its value or whatever the number was,\" the president said. watch now VIDEO 7:00 07:00 Altimeter's Brad Gerstner reacts to Jensen Huang's reinstatement as Nvidia CEO Halftime Report Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "cnbc.com",
-   "published": "2026-11-23T19:19:08+00:00",
-   "tickers": [
-    "NDAQ"
-   ]
-  },
-  {
-   "id": "64c111961c35",
-   "title": "Seagate Technology gains 14% amid broad market rally",
-   "link": "https://seekingalpha.com/news/4675766-seagate-technology-gains-14-amid-broad-market-rally?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-23T19:19:07+00:00",
-   "tickers": [
-    "STX"
-   ]
-  },
-  {
-   "id": "0f3b31871121",
-   "title": "Baron Financials ETF Q3 2026 Shareholder Letter",
-   "link": "https://seekingalpha.com/article/4971150-baron-financials-etf-q3-2026-shareholder-letter?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-23T19:19:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "f92124265f1b",
-   "title": "How Much You Really Need Invested to Generate $50,000 a Year in Retirement",
-   "link": "https://biztoc.com/x/5a099383cae5551f?ref=rss",
-   "summary": "The post How Much You Really Need Invested to Generate $50,000 a Year in Retirement appeared first on 24/7 Wall St.. The target is $50,000 a year. Under the common rule of multiplying annual spending by 25, that much income takes $1.25 million. A dividend portfolio uses a simpler formula: income…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-23T19:18:53+00:00",
-   "tickers": []
-  },
-  {
-   "id": "27351c467fe6",
-   "title": "Jensen Huang Just Returned to Nvidia and the Stock Soared 31%. A Retiree Who Moved Shares to a Roth IRA on Friday Got the Best Deal in 18 Months. Here’s What the Same Move Costs Now",
-   "link": "https://biztoc.com/x/4930b7fa817655b5?ref=rss",
-   "summary": "The post Jensen Huang Just Returned to Nvidia and the Stock Soared 31%. A Retiree Who Moved Shares to a Roth IRA on Friday Got the Best Deal in 18 Months. Here’s What the Same Move Costs Now appeared first on 24/7 Wall St.. A 64-year-old retiree with 1,000 Nvidia (NASDAQ: NVDA) shares in a…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-23T19:18:45+00:00",
-   "tickers": [
-    "NVDA"
-   ]
-  },
-  {
-   "id": "4ac276b54fd9",
-   "title": "Intel boosted by tech rally, rises 13%",
-   "link": "https://seekingalpha.com/news/4675769-intel-boosted-by-tech-rally-rises-13?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-23T19:17:20+00:00",
-   "tickers": [
-    "INTC"
-   ]
-  },
-  {
-   "id": "28becc204835",
-   "title": "'It's a little nerve-racking': Travelers anxious ahead of holiday travel after flight disruptions",
-   "link": "https://biztoc.com/x/f41ff23627c725d2?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-23T19:17:18+00:00",
-   "tickers": []
-  },
-  {
-   "id": "3f3702868980",
-   "title": "After $14B Intra-Cellular success, Sharon Mates returns with new biotech Ritzey Therapeutics",
-   "link": "https://biztoc.com/x/e16d08e2a566b972?ref=rss",
-   "summary": "403 ERROR The request could not be satisfied. Request blocked. We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner. If you provide content to customers through…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-23T19:17:06+00:00",
-   "tickers": []
-  },
-  {
-   "id": "7e645c07d23a",
-   "title": "Festive Fun Begins November 27 as Winter Fest OC Kicks off its 12th Season",
-   "link": "https://www.prnewswire.com/news-releases/festive-fun-begins-november-27-as-winter-fest-oc-kicks-off-its-12th-season-302948566.html",
-   "summary": "Winter Fest OC Returns with Outdoor Ice Skating, Festive Attractions and Holiday Festivities for the Whole Family COSTA MESA, Calif., Nov. 23, 2026 /PRNewswire/ -- Winter Fest OC, Southern California's largest winter festival, kicks off its twelfth season of bringing holiday magic to all...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-11-23T19:17:00+00:00",
-   "tickers": [
-    "OC"
-   ]
-  },
-  {
-   "id": "09cefeffb2d5",
-   "title": "How to protect your retirement savings if the AI boom fizzles",
-   "link": "https://biztoc.com/x/9f96cb267517d44a?ref=rss",
-   "summary": "After stock markets, including the tech-heavy NASDAQ, got pummeled on Nov. 20, 2026, many Americans are asking themselves whether the huge bet on artificial intelligence is heading south. While markets rebounded the following Monday, this question still has profound implications for retirement…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-23T19:16:56+00:00",
-   "tickers": []
-  },
-  {
-   "id": "eb2d4aed8cfe",
-   "title": "Medifast director Parsa Kiai buys $77,610 in stock",
-   "link": "https://www.investing.com/news/insider-trading-news/medifast-director-parsa-kiai-buys-77610-in-stock-93CH-5046261",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-23T19:15:58+00:00",
-   "tickers": []
-  },
-  {
-   "id": "dc2ef1b5cea5",
-   "title": "Intersection, a new public artwork installed at the South Shore entrance to the Jacques Cartier Bridge",
-   "link": "https://biztoc.com/x/aff6994d89d9127e?ref=rss",
-   "summary": "LONGUEUIL, Quebec, Nov. 23, 2026 (GLOBE NEWSWIRE) -- The Jacques Cartier and Champlain Bridges Incorporated (JCCBI) installed Intersection, a public",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-23T19:15:46+00:00",
-   "tickers": []
-  },
-  {
-   "id": "4cd4cbcc0ef5",
-   "title": "Nvidia: Don't Chase The Jensen Bounce (Rating Upgrade)",
-   "link": "https://seekingalpha.com/article/4971159-nvidia-dont-chase-the-jensen-bounce?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-23T19:15:45+00:00",
-   "tickers": []
-  },
-  {
-   "id": "8e9afd37bb2e",
-   "title": "Operation Fortress: AZIO AI Advances Fort Buchanan and Lake City Army Microgrids Concurrently, Powered by Its Atlas One Playbook",
-   "link": "https://biztoc.com/x/37e0cc8bf17e59cd?ref=rss",
-   "summary": "The approximately $45.0 million Fort Buchanan microgrid in Puerto Rico and the approximately $99.6 million, 15 MW Lake City microgrid and combined heat",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-23T19:15:45+00:00",
-   "tickers": []
-  },
-  {
-   "id": "a3d0a3fc59ac",
-   "title": "Morgan Freeman Doesn’t Want AI to Recreate Him. He Would Allow Just 1 Exception",
-   "link": "https://biztoc.com/x/07d573fb7d973f90?ref=rss",
-   "summary": "The actor recently set a clear boundary on the technology recreating his likeness. However, there is one aspect of it he is ready to embrace.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-23T19:15:44+00:00",
-   "tickers": []
-  },
-  {
-   "id": "640447f55135",
-   "title": "Jensen Huang Is Back at Nvidia 11 Days After Resigning. The Board’s Reversal Exposes a Bigger Risk",
-   "link": "https://biztoc.com/x/567e8d5f55bbadf7?ref=rss",
-   "summary": "Can one man alone be too big to fail?",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-23T19:15:44+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d5571357ff4a",
-   "title": "NVDA Stock Alert: What to Know as Nvidia Reinstates Jensen Huang as CEO",
-   "link": "https://biztoc.com/x/fae29eca3d7c31bb?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-23T19:15:43+00:00",
-   "tickers": [
-    "NVDA"
-   ]
-  },
-  {
-   "id": "360b97906d4b",
-   "title": "GTA VI Is More Than a Video Game. It’s a Branding Lesson for Entrepreneurs",
-   "link": "https://biztoc.com/x/073b4c0296452488?ref=rss",
-   "summary": "Who says you can’t build an empire and steal cars in GTA VI?",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-23T19:15:37+00:00",
-   "tickers": []
-  },
-  {
-   "id": "c5c2bae585de",
-   "title": "ARM Stock Rises as CEO Rene Haas Reaffirms Commitment to Arm Holdings",
-   "link": "https://biztoc.com/x/840bb490f7b6693a?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-11-23T19:15:30+00:00",
-   "tickers": [
-    "ARM"
-   ]
-  },
-  {
-   "id": "4e6dff62c920",
-   "title": "Writers unhappy with PEN America's response to war in Gaza form new chapter",
-   "link": "https://biztoc.com/x/6f95e2c55dc19e74?ref=rss",
-   "summary": "Novelist Maaza Mengiste says they don't seek rivalry with PEN America but differ in structure and priorities.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-23T19:15:26+00:00",
-   "tickers": [
-    "PEN"
-   ]
-  },
-  {
-   "id": "cb76b5675486",
-   "title": "Patrick Mahomes Identifies Clear Turning Point in Chiefs 2026 Season",
-   "link": "https://biztoc.com/x/837a343c1510ec17?ref=rss",
-   "summary": "Since back-to-back losses to the Seattle Seahawks and Denver Broncos in Weeks 7 and 8, the Kansas City Chiefs bounced back with three consecutive victories. On Sunday, the Chiefs notched a dominant 34-7 win over the Arizona Cardinals — improving their 2026 season record to 8-2. Quarterback Patrick…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-23T19:15:25+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b9193f3c2773",
-   "title": "Jensen Huang's Nvidia Return Doesn't Solve AI's Financial Stability Problems",
-   "link": "https://biztoc.com/x/9a7097570ea463b3?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-23T19:15:23+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e4603a67b592",
-   "title": "PwC's talent leader shares how the firm will certify 85,000 workers in critical thinking for the AI age",
-   "link": "https://biztoc.com/x/7eb5ea530f172fe2?ref=rss",
-   "summary": "PwC's Critical Thinking and Judgment certificate program will launch in December. Leon Neal/Getty Images PwC announced a critical thinking certification to sharpen AI-era skills for 85,000 people. The program will include a mix of online courses and hands-on practice. PwC's talent acquisition and…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-23T19:15:22+00:00",
-   "tickers": []
-  },
-  {
-   "id": "3680bb1895c5",
-   "title": "Super Bowl LXI will play live on Imax screens nationwide",
-   "link": "https://biztoc.com/x/339b28314bf04e9f?ref=rss",
-   "summary": "Super Bowl LXI will play live on Imax screens nationwide - Click here to listen to this article If your living room TV isn’t cutting it, the Super Bowl is coming to a much bigger screen. The big game will be shown this February on hundreds of Imax screens across the U.S. and in certain…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-23T19:15:22+00:00",
-   "tickers": []
-  },
-  {
-   "id": "37fa410ee766",
-   "title": "6 Actionable Steps That Encourage Your Team to Fail Fast",
-   "link": "https://biztoc.com/x/cf386733effaf10b?ref=rss",
-   "summary": "The greatest innovations emerge in cultures that encourage risk taking.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-23T19:15:17+00:00",
-   "tickers": []
-  },
-  {
-   "id": "3ff02210ac7d",
-   "title": "Republicans Breaking With Trump Over Jensen Huang's Nvidia Return—Full List",
-   "link": "https://biztoc.com/x/7f830e34ed18a419?ref=rss",
-   "summary": "Republican lawmakers are challenging President Donald Trump's intervention in Nvidia's decision to reinstate Jensen Huang as CEO, questioning the administration's national security assurances and demanding answers about the company's response to allegations of Chinese intelligence…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-23T19:15:16+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e329a0354d57",
-   "title": "Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription",
-   "link": "https://biztoc.com/x/ffe7fe66e4a99d75?ref=rss",
-   "summary": "Nothing’s new AI device is the Ear Note, a set of earbuds and their microphone-equipped charging case that can record and transcribe conversations, with a connected app to manage the recordings, transcriptions and AI-generated summaries, similar to Apple’s new Watch feature and devices like…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-23T19:15:16+00:00",
-   "tickers": [
-    "AAPL"
-   ]
-  },
-  {
-   "id": "458139b5cbfa",
-   "title": "Canada invests in new mineral exploration capabilities through the Canadian Digital Core Library",
-   "link": "https://biztoc.com/x/40794f756a2f0486?ref=rss",
-   "summary": "RICHMOND HILL, ON, Nov. 23, 2026 /CNW/ -- Canada has what the world wants, including the mineral resources that are central to building a strong, secure",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-23T19:15:14+00:00",
-   "tickers": []
-  },
-  {
-   "id": "553518746b0f",
-   "title": "Apple's New AirPods Max, HomePod Mini 2 to Get Product(Red) Release for Holidays",
-   "link": "https://biztoc.com/x/5f295dbf907de572?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-23T19:15:14+00:00",
-   "tickers": [
-    "AAPL"
-   ]
-  },
-  {
-   "id": "0ab4cb2d2b05",
-   "title": "Super Bowl to Air Live on Imax Screens in Disney, NFL Deal",
-   "link": "https://biztoc.com/x/2577f3a6ca8eb93d?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-23T19:15:13+00:00",
-   "tickers": [
-    "DIS"
-   ]
-  },
-  {
-   "id": "639e683a3c54",
-   "title": "Coffee Break: Dangerous Belief Systems Power the Pentagon & Anthropic",
-   "link": "https://biztoc.com/x/50ec38bdf9e3b948?ref=rss",
-   "summary": "It’s easy to get distracted by Anthropic’s rapidly declining stock price or the Pentagon’s many tactical and strategic failures and forget that both organizations remain massively dangerous, in no small part due to powerful belief systems that infuse them. Who Cares About Belief Systems? And why…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-23T19:15:11+00:00",
-   "tickers": []
-  },
-  {
-   "id": "7d0dcc8b8592",
-   "title": "Ken Chenault on Why CEOs Shouldn’t Lose Their Nerve",
-   "link": "https://biztoc.com/x/136329e2d6145438?ref=rss",
-   "summary": "The executive known for coolheadedness reflects on leading American Express through 9/11, the rudderless evolution of AI and why every CEO needs a moral red line.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-23T19:15:11+00:00",
-   "tickers": [
-    "AXP"
-   ]
-  },
-  {
-   "id": "6b0f84762a40",
-   "title": "Texas Is America’s Data Center Capital, But the Next Boom May Go Somewhere Else",
-   "link": "https://biztoc.com/x/1ac5519c00873166?ref=rss",
-   "summary": "Low costs fueled Texas’s data center boom, but a new governor could change the equation.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-23T19:15:11+00:00",
-   "tickers": []
-  },
-  {
-   "id": "15b72d548975",
-   "title": "DNI Jay Clayton tapped as acting national cyber director",
-   "link": "https://biztoc.com/x/b9466a30eef0aef7?ref=rss",
-   "summary": "Director of National Intelligence Jay Clayton has been tapped to serve as acting national cyber director while the Trump administration's permanent nominee for the role awaits Senate confirmation, a White House official told CNBC on Monday. Trump had already added artificial intelligence czar to…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-23T19:15:06+00:00",
-   "tickers": []
-  },
-  {
-   "id": "f9815ebcee14",
-   "title": "NYC's Mamdani Blasts Amazon's $5 Fee Hike: 'It's Greed'",
-   "link": "https://biztoc.com/x/10d34ec497ae2f1d?ref=rss",
-   "summary": "New York City lawmakers are considering reworking a bill that would force Amazon.com Inc. to directly hire delivery workers, with a possible compromise allowing Amazon to use carriers or contract with independent operators. #amazon #mamdani #nyc #news The proposed revisions would require Amazon…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-11-23T19:15:06+00:00",
-   "tickers": [
-    "AMZN"
-   ]
-  },
-  {
-   "id": "d7d428a32fbc",
-   "title": "Something Went Terribly Wrong In This NIH-Funded Bat Virus Experiment",
-   "link": "https://biztoc.com/x/c0a6fd8160357210?ref=rss",
-   "summary": "Something Went Terribly Wrong In This NIH-Funded Bat Virus Experiment The National Institutes of Health paid for a Hendra virus experiment on bats in Australia that the lab's own ethics committee shut down in 2023, after staff had to kill all eight bats in a room because they could not raise it…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-23T19:15:05+00:00",
-   "tickers": []
-  },
-  {
-   "id": "da669f52c8c5",
-   "title": "Mikie Sherrill has some asks for the new Democratic Congress",
-   "link": "https://biztoc.com/x/368dee4f35f0cffb?ref=rss",
-   "summary": "New Jersey is sending one of the nation’s most lopsidedly Democratic congressional delegations to Washington next year, and the state’s Democratic governor has some requests for what they’ll get done. In a letter to New Jersey’s 13 Democratic members of Congress — two of whom flipped GOP-held…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-23T19:15:03+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d20123b2afe8",
-   "title": "Jensen Huang returns to Nvidia HQ to cheers: 'I'm going to be a better CEO the second time around'",
-   "link": "https://biztoc.com/x/83cfbfcf6ab5575b?ref=rss",
-   "summary": "Nvidia CEO Jensen Huang Bloomberg/Getty Images Jensen Huang returned to Nvidia HQ Monday to cheers and chants from employees. Huang apologized for the turmoil and vowed to be \"a better CEO the second time around.\" Huang joked that he needed a new computer from IT on his first day back. Jensen…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-23T19:15:03+00:00",
-   "tickers": []
-  },
-  {
-   "id": "743978f51a71",
-   "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
-   "link": "https://biztoc.com/x/2bbf0a54ca569abd?ref=rss",
-   "summary": "Google announced on Monday that it’s expanding Personal Intelligence in Search’s AI Mode with integrations for Google Drive, Google Wallet, and the Gemini app. Personal Intelligence is designed to offer users more personalized, context-aware answers by connecting to their Google apps and drawing…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-23T19:15:02+00:00",
-   "tickers": [
-    "GOOGL"
-   ]
-  },
-  {
-   "id": "89318f6d42bd",
-   "title": "Citadel Securities Says 2018 Playbook Warns of More Market Pain",
-   "link": "https://biztoc.com/x/c482665b261de085?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-11-23T19:15:01+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b14fd5071f05",
-   "title": "The world’s back office aims to become a “deep-tech” powerhouse",
-   "link": "https://biztoc.com/x/840cd23b82b68413?ref=rss",
-   "summary": "Why Bangalore’s next reincarnation depends on the government in Delhi",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-23T19:14:56+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d6f56f82046b",
-   "title": "KLA Corporation soars 14% as chip shares advance",
-   "link": "https://seekingalpha.com/news/4675767-kla-corporation-soars-14-as-chip-shares-advance?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-23T19:14:55+00:00",
-   "tickers": [
-    "KLAC"
-   ]
-  },
-  {
-   "id": "d0f4b17a8c04",
-   "title": "NCLA Victory: Department of Labor Rescinds Unlawful Independent Contractor Rule",
-   "link": "https://markets.businessinsider.com/news/stocks/ncla-victory-department-of-labor-rescinds-unlawful-independent-contractor-rule-1036793239",
-   "summary": "Washington, DC, Nov. 23, 2026 (GLOBE NEWSWIRE) -- Today, the U.S. Department of Labor rescinded its vague 2024 independent contractor rule, noting arguments the New Civil Liberties Alliance has made...",
-   "article_text": "",
-   "source": "Markets Insider",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "markets.businessinsider.com",
-   "published": "2026-11-23T19:14:55+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b8d9e1b47da6",
-   "title": "HelloNation Article Explains Furnace Repair Signs With Insights From HVAC Experts Dan and Matt Ambrose",
-   "link": "https://www.prnewswire.com/news-releases/hellonation-article-explains-furnace-repair-signs-with-insights-from-hvac-experts-dan-and-matt-ambrose-302858280.html",
-   "summary": "The article outlines early warning signs that help homeowners address furnace issues before winter increases system demand. ROCHESTER, N.Y., Nov. 23, 2026 /PRNewswire/ -- What are the most common furnace repair signs homeowners should watch for before winter arrives? The answer is...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-11-23T19:14:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "f61c6d9a3d5b",
-   "title": "Tech rally lifts Teradyne by 14%",
-   "link": "https://seekingalpha.com/news/4675763-tech-rally-lifts-teradyne-by-14?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-23T19:12:55+00:00",
-   "tickers": [
-    "TER"
-   ]
-  },
-  {
-   "id": "a4267af307e5",
-   "title": "DNI Jay Clayton tapped as acting national cyber director",
-   "link": "https://www.cnbc.com/2026/11/23/jay-clayton-cyber-director-kirsten-davies-trump.html",
-   "summary": "President Donald Trump last week said he decided to replace Sean Cairncross as national cyber director \"because I didn't think that person was good enough.\"",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-11-23T19:12:49+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b20ba110d846",
-   "title": "Kalshi pauses operations in Utah after adverse federal court ruling",
-   "link": "https://www.investing.com/news/stock-market-news/kalshi-pauses-operations-in-utah-after-adverse-federal-court-ruling-5046257",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-23T19:12:40+00:00",
-   "tickers": []
-  },
-  {
-   "id": "1eafd48ad5de",
-   "title": "US lawmakers vow to sharpen Huang probes as he returns to Nvidia",
-   "link": "https://www.ft.com/content/6b4e5bfb-d566-4a61-a12c-057881a261b8?syn-25a6b1a6=1",
-   "summary": "Democrats and Republicans insist tech CEO must testify in public",
-   "article_text": "",
-   "source": "FT Companies",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "ft.com",
-   "published": "2026-11-23T19:11:29+00:00",
-   "tickers": []
-  },
-  {
-   "id": "2d4d8079e180",
-   "title": "Tasmea Limited (TMLDF) M&A Call Transcript",
-   "link": "https://seekingalpha.com/article/4971154-tasmea-limited-tmldf-m-and-a-call-transcript?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-23T19:11:16+00:00",
-   "tickers": []
-  },
-  {
-   "id": "5553eb30e74f",
-   "title": "Visa: A Great Business At The Wrong Price",
-   "link": "https://seekingalpha.com/article/4971147-visa-a-great-business-at-the-wrong-price?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-23T19:10:57+00:00",
-   "tickers": [
-    "V"
-   ]
-  },
-  {
-   "id": "0cf45f393aaa",
-   "title": "Lam Research climbs 14% as semiconductor peers rebound",
-   "link": "https://seekingalpha.com/news/4675764-lam-research-climbs-14-percent-as-semiconductor-peers-rebound?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-23T19:10:47+00:00",
-   "tickers": [
-    "LRCX"
-   ]
-  },
-  {
-   "id": "6df52dafcba4",
-   "title": "What's Next for Kinross Gold Corporation Shareholders After 11.59% Stock Drop? Glancy Prongay Wolke & Rotter LLP Explains Securities Fraud Class Action Lead Plaintiff Deadline",
-   "link": "https://www.prnewswire.com/news-releases/whats-next-for-kinross-gold-corporation-shareholders-after-11-59-stock-drop-glancy-prongay-wolke--rotter-llp-explains-securities-fraud-class-action-lead-plaintiff-deadline-302947506.html",
-   "summary": "Complaint alleges Kinross Gold Corporation misled investors between February 18, 2026 and September 23, 2026; investors may seek lead plaintiff role by January 5, 2027 LOS ANGELES, Nov. 23, 2026 /PRNewswire/ -- Glancy Prongay Wolke & Rotter LLP (\"Glancy\") announced today that the class...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "prnewswire.com",
-   "published": "2026-11-23T19:10:00+00:00",
-   "tickers": [
-    "KGC"
-   ]
-  },
-  {
-   "id": "14de73f85880",
-   "title": "ESPN, NFL to show Super Bowl 61 in Imax theaters",
-   "link": "https://www.cnbc.com/2026/11/23/espn-nfl-super-bowl-imax.html",
-   "summary": "In addition to ESPN channels, Super Bowl 61 will also be available on streaming platform Disney+ as well as the company's broadcast network ABC.",
-   "article_text": "ESPN, NFL to show Super Bowl 61 in Imax theaters Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Key Points Super Bowl 61 and its halftime show featuring Jay-Z will be streamed live in hundreds of Imax theaters in the U.S. and select international markets. Disney has already announced expanded viewing options for this season's game, including on Disney+. Tickets are expected to go on sale in January. Pricing was not disclosed. In this article IMAX DIS Follow your favorite stocks CREATE FREE ACCOUNT Moviegoers watch the film \"Ne Zha 2\" at an Imax GT Cinema on in Guiyang, China, Feb. 23, 2025. China News Service | China News Service | Getty Images Super Bowl 61 will be telecast live in hundreds of Imax theaters in February via a partnership with the NFL and Disney's ESPN, which has the broadcast rights to the 2027 game. It marks the largest Imax live event in the company's history and the first time that the Super Bowl will be available in the format, according to a news release. The four-hour event on Feb. 14 will include ESPN's main Super Bowl game telecast, as well as Jay-Z's halftime performance and pregame and postgame coverage. Tickets will be available for theaters in the United States and select international markets, including Australia, New Zealand and Brazil. Tickets are expected to go on sale in January. Pricing was not disclosed. \"Watching the Super Bowl with your fellow fans is one of the great shared experiences in sports, and this first-of-its-kind collaboration with the NFL and IMAX takes it to a historic new scale,\" said Ken Potrock, president of major event integration for The Walt Disney Company. In addition to ESPN channels, this season's championship game will also be available on streaming platform Disney+ as well as Disney's broadcast network ABC. Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-11-23T19:08:37+00:00",
-   "tickers": [
-    "DIS"
-   ]
-  },
-  {
-   "id": "1f4bc2296e0b",
-   "title": "TD Cowen names top infrastructure software stock for 2027",
-   "link": "https://www.investing.com/news/stock-market-news/td-cowen-names-top-infrastructure-software-stock-for-2027-5046256",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-11-23T19:08:24+00:00",
-   "tickers": [
-    "TD"
-   ]
-  },
-  {
-   "id": "6671ada6468b",
-   "title": "Western Digital surges 14%, lifted by tech rally",
-   "link": "https://seekingalpha.com/news/4675765-western-digital-surges-14-lifted-by-tech-rally?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-23T19:07:44+00:00",
-   "tickers": [
-    "WDC"
-   ]
-  },
-  {
-   "id": "cfd3adbdce4a",
-   "title": "Nvidia, Micron among market cap stock movers on Monday",
-   "link": "https://www.investing.com/news/stock-market-news/nvidia-micron-among-market-cap-stock-movers-on-monday-93CH-5046255",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-23T19:07:41+00:00",
-   "tickers": [
-    "MU"
-   ]
-  },
-  {
-   "id": "6e64e10bff50",
-   "title": "Kiniksa Pharmaceuticals stock hits all-time high of 99.37 USD",
-   "link": "https://www.investing.com/news/company-news/kiniksa-pharmaceuticals-stock-hits-alltime-high-of-9937-usd-93CH-5046252",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-11-23T19:07:16+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e6089ad08372",
-   "title": "Oracle Stock Snaps Losing Streak. Funding for Data-Center Buildout Is in Place",
-   "link": "https://biztoc.com/x/8af6ab938ada67f6?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-23T19:07:05+00:00",
-   "tickers": [
-    "ORCL"
-   ]
-  },
-  {
-   "id": "acbeae2aa014",
-   "title": "Intersection, a new public artwork installed at the South Shore entrance to the Jacques Cartier Bridge",
-   "link": "https://markets.businessinsider.com/news/stocks/intersection-a-new-public-artwork-installed-at-the-south-shore-entrance-to-the-jacques-cartier-bridge-1036793192",
-   "summary": "LONGUEUIL, Quebec, Nov. 23, 2026 (GLOBE NEWSWIRE) -- The Jacques Cartier and Champlain Bridges Incorporated (JCCBI) installed Intersection, a public artwork created by visual artist Karole...",
-   "article_text": "",
-   "source": "Markets Insider",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "markets.businessinsider.com",
-   "published": "2026-11-23T19:05:43+00:00",
-   "tickers": []
-  },
-  {
-   "id": "c520e405d70c",
-   "title": "Solaris Energy Infrastructure rallies 15% amid tech surge",
-   "link": "https://seekingalpha.com/news/4675759-solaris-energy-infrastructure-rallies-15-amid-tech-surge?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-23T19:05:30+00:00",
-   "tickers": [
-    "SEI"
-   ]
-  },
-  {
-   "id": "602f39d2bcf3",
-   "title": "Anthropic Went Public Into An AI Selloff, And Its Numbers Argue Against It",
-   "link": "https://seekingalpha.com/article/4971146-anthropic-went-public-into-ai-selloff-and-its-numbers-argue-against-it?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-23T19:05:20+00:00",
-   "tickers": []
-  },
-  {
-   "id": "79b6af3801d1",
-   "title": "If You're Worried About the Stock Market Right Now, History Says This 1 Move Will Make or Break Your Portfolio",
-   "link": "https://www.nasdaq.com/articles/if-youre-worried-about-stock-market-right-now-history-says-1-move-will-make-or-break-your",
-   "summary": "Key PointsThe S&P 500 just suffered its biggest weekly loss since April 2025.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-23T19:05:02+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
   "VYMI": "Vanguard International High Dividend Yield ETF",
+  "IAGG": "iShares International Aggregate Bond Fund",
   "DIA": "SPDR Dow Jones Industrial Average ETF",
   "ITA": "iShares U.S. Aerospace & Defense ETF",
   "BTC": "Grayscale Bitcoin Mini Trust (BTC)",
   "TSM": "Taiwan Semiconductor Manufacturing",
   "VYM": "Vanguard High Dividend Yield ETF",
   "SCHF": "Schwab International Equity ETF",
-  "SEI": "Solaris Energy Infrastructure",
+  "SPXU": "ProShares UltraPro Short S&P500",
   "CHH": "Choice Hotels International",
+  "FNF": "Fidelity National Financial",
+  "IYW": "iShares U.S. Technology ETF",
   "QQQ": "Invesco QQQ Trust, Series 1",
-  "STX": "Seagate Technology Holdings",
   "HPE": "Hewlett Packard Enterprise",
   "ARWR": "Arrowhead Pharmaceuticals",
   "ICE": "Intercontinental Exchange",
@@ -8893,6 +8898,8 @@
   "SMH": "VanEck Semiconductor ETF",
   "GS": "The Goldman Sachs Group",
   "INSP": "Inspire Medical Systems",
+  "IYE": "iShares U.S. Energy ETF",
+  "JKHY": "Jack Henry & Associates",
   "AMD": "Advanced Micro Devices",
   "SWK": "Stanley Black & Decker",
   "USO": "United States Oil Fund",
@@ -8905,13 +8912,17 @@
   "BMY": "Bristol-Myers Squibb",
   "CRWD": "CrowdStrike Holdings",
   "MCHP": "Microchip Technology",
+  "OXY": "Occidental Petroleum",
   "PG": "The Procter & Gamble",
   "SMCI": "Super Micro Computer",
   "URA": "Global X Uranium ETF",
   "VOO": "Vanguard S&P 500 ETF",
   "KYMR": "Kymera Therapeutics",
+  "PTON": "Peloton Interactive",
   "ZM": "Zoom Communications",
+  "CRK": "Comstock Resources",
   "GPI": "Group 1 Automotive",
+  "MRVL": "Marvell Technology",
   "NYT": "The New York Times",
   "TPL": "Texas Pacific Land",
   "TT": "Trane Technologies",
@@ -8924,21 +8935,22 @@
   "MU": "Micron Technology",
   "TXN": "Texas Instruments",
   "UBER": "Uber Technologies",
-  "AXP": "American Express",
   "COST": "Costco Wholesale",
+  "J": "Jacobs Solutions",
   "NVO": "Novo Nordisk A/S",
   "TFC": "Truist Financial",
+  "GE": "General Electric",
   "APLD": "Applied Digital",
   "BG": "Bunge Global SA",
   "DIS": "The Walt Disney",
   "RRC": "Range Resources",
   "VAL": "Valaris Limited",
   "VIK": "Viking Holdings",
-  "WDC": "Western Digital",
   "FLNC": "Fluence Energy",
   "GM": "General Motors",
   "META": "Meta Platforms",
   "NVT": "nVent Electric",
+  "PSA": "Public Storage",
   "CSCO": "Cisco Systems",
   "EG": "Everest Group",
   "LLY": "Eli Lilly and",
@@ -8948,24 +8960,24 @@
   "HL": "Hecla Mining",
   "HRL": "Hormel Foods",
   "IDCC": "InterDigital",
-  "KGC": "Kinross Gold",
-  "LRCX": "Lam Research",
   "SPY": "SPDR S&P 500",
   "GOOGL": "Google Cloud",
   "TSLA": "Supercharger",
   "NVDA": "Grace Hopper",
-  "ARM": "Arm Holdings",
   "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
   "BX": "Blackstone",
+  "FTI": "TechnipFMC",
   "PBF": "PBF Energy",
   "RKLB": "Rocket Lab",
+  "TECH": "Bio-Techne",
   "MSFT": "Office 365",
   "DE": "John Deere",
   "AMBA": "Ambarella",
   "C": "Citigroup",
   "CME": "CME Group",
   "CRWV": "CoreWeave",
+  "INGR": "Ingredion",
   "SOLV": "Solventum",
   "NWSA": "News Corp",
   "AVGO": "Broadcom",
@@ -8973,13 +8985,12 @@
   "BP": "BP p.l.c",
   "EVR": "Evercore",
   "GOOG": "Alphabet",
-  "PEN": "Penumbra",
   "SYM": "Symbotic",
-  "TER": "Teradyne",
   "SNAP": "Snapchat",
   "FOX": "Fox Corp",
   "BLSH": "Bullish",
   "GLW": "Corning",
+  "IVZ": "Invesco",
   "MDLN": "Medline",
   "MET": "MetLife",
   "PEP": "PepsiCo",
@@ -8990,22 +9001,21 @@
   "NFLX": "Netflix",
   "ZS": "Zscaler",
   "ABBV": "AbbVie",
-  "LEN": "Lennar",
   "LRN": "Stride",
   "NDAQ": "Nasdaq",
   "ORCL": "Oracle",
   "SPCX": "SpaceX",
   "SRE": "Sempra",
+  "ACM": "AECOM",
   "AMGN": "Amgen",
   "CR": "Crane",
   "CX": "CEMEX",
+  "DOV": "Dover",
   "INTC": "Intel",
   "KEX": "Kirby",
   "KKR": "KKR &",
   "XPEV": "XPeng",
   "ETSY": "Etsy",
-  "POOL": "Pool",
-  "V": "Visa",
-  "KLAC": "KLA"
+  "POOL": "Pool"
  }
 }
