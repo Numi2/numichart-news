@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T03:46:02.192733+00:00",
+ "generated": "2026-11-23T03:52:30.299338+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -14,7 +14,21 @@
    "type": "markets",
    "sentiment": "negative",
    "domain": "cnbc.com",
-   "published": "2026-11-23T03:40:39+00:00",
+   "published": "2026-11-23T03:50:14+00:00",
+   "tickers": []
+  },
+  {
+   "id": "53311b2d89be",
+   "title": "South Korea's KOSPI drops 5% as AI fears trigger broader stock sell-off",
+   "link": "https://seekingalpha.com/news/4675418-south-koreas-kospi-drops-5-as-ai-fears-trigger-broader-stock-sell-off?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-23T03:45:50+00:00",
    "tickers": []
   },
   {
@@ -8634,7 +8648,7 @@
    "link": "https://www.prnewswire.com/news-releases/how-to-short-anthropic-ant-leverage-shares-by-themes-explains-andd-and-anss-inverse-anthropic-etfs-short-selling-and-put-options-302947480.html",
    "summary": "With Anthropic now trading on Nasdaq (ticker: ANT), Leverage Shares by Themes outlines three ways investors can take a bearish view on Anthropic stock, including planned 2X Short (ANDD) and 1X Short (ANSS) Anthropic ETFs. GREENWICH, Conn., Nov. 22, 2026 /PRNewswire/ -- Leverage Shares by...",
    "article_text": "",
-   "source": "PR Newswire Fin",
+   "source": "PR Newswire All",
    "category": "press",
    "type": "press",
    "sentiment": "neutral",
@@ -8786,22 +8800,6 @@
    "domain": "biztoc.com",
    "published": "2026-11-22T18:57:59+00:00",
    "tickers": []
-  },
-  {
-   "id": "5bb097e87747",
-   "title": "Issue with automation system causes Delta flight delays in Atlanta",
-   "link": "https://biztoc.com/x/469a6e12ff62d82a?ref=rss",
-   "summary": "An issue with Delta Air Lines’ weight and balance automation system was causing flight delays Sunday at its hub in Atlanta and nationwide",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-22T18:57:53+00:00",
-   "tickers": [
-    "DAL"
-   ]
   }
  ],
  "ticker_names": {
