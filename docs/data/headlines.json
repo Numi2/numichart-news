@@ -1,8 +1,52 @@
 {
- "generated": "2026-11-23T05:34:24.864206+00:00",
+ "generated": "2026-11-23T05:40:10.022258+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "fb3065665c85",
+   "title": "The Chemours Company Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - CC",
+   "link": "https://www.prnewswire.com/news-releases/the-chemours-company-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--cc-302947814.html",
+   "summary": "NEW YORK, Nov. 23, 2026 /PRNewswire/ -- The DJS Law Group reminds investors of a class action lawsuit against The Chemours Company (\"Chemours\" or \"the Company\") (NYSE: CC) for violations of §§10(b) and 20(a) of the Securities Exchange Act of 1934 and Rule 10b-5 promulgated thereunder by...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "prnewswire.com",
+   "published": "2026-11-23T05:37:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c1ad6721e244",
+   "title": "DUOL Investors Have Opportunity to Lead Duolingo, Inc. Securities Fraud Lawsuit with SBS Law",
+   "link": "https://www.prnewswire.com/news-releases/duol-investors-have-opportunity-to-lead-duolingo-inc-securities-fraud-lawsuit-with-sbs-law-302947811.html",
+   "summary": "LOS ANGELES, Nov. 23, 2026 /PRNewswire/ -- Schall, Brown & Schwartz LLP (\"SBS\"), a national shareholder rights litigation firm, reminds investors of a class action lawsuit against Duolingo, Inc. (\"Duolingo\" or \"the Company\") (NASDAQ: DUOL) for violations of §§10(b) and 20(a) of the...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "prnewswire.com",
+   "published": "2026-11-23T05:35:00+00:00",
+   "tickers": [
+    "DUOL"
+   ]
+  },
+  {
+   "id": "3cbfa3ebadbb",
+   "title": "In Vietnam, an Electric Vehicle Revolution Without Cars",
+   "link": "https://www.nytimes.com/2026/11/23/business/electric-motorcyles-vietnam.html",
+   "summary": "An oil shock is speeding a transformation of Vietnam’s streets, challenging global motorcycle giants and lifting a new generation of domestic manufacturers.",
+   "article_text": "",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-11-23T05:33:32+00:00",
+   "tickers": []
+  },
   {
    "id": "fff0ae070d87",
    "title": "Brookfield agrees to buy PGP Glass from Blackstone for $1.7B",
@@ -955,20 +999,6 @@
    "tickers": [
     "WDAY"
    ]
-  },
-  {
-   "id": "3cbfa3ebadbb",
-   "title": "In Vietnam, an Electric Vehicle Revolution Without Cars",
-   "link": "https://www.nytimes.com/2026/11/23/business/electric-motorcyles-vietnam.html",
-   "summary": "An oil shock is speeding a transformation of Vietnam’s streets, challenging global motorcycle giants and lifting a new generation of domestic manufacturers.",
-   "article_text": "",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "nytimes.com",
-   "published": "2026-11-23T05:01:13+00:00",
-   "tickers": []
   },
   {
    "id": "584d46dea5bb",
@@ -8769,39 +8799,6 @@
    "tickers": [
     "NVDA"
    ]
-  },
-  {
-   "id": "583ee4521b13",
-   "title": "Jim Cramer sends a strong signal to Google stock investors",
-   "link": "https://biztoc.com/x/2a8d689954169f61?ref=rss",
-   "summary": "Jim Cramer thinks one of the market’s biggest losers this fall could be setting up for a comeback. The “Mad Money” host said on November 19 that Alphabet looks ready to rebound, leaning on work from Larry Williams, the chartist he has long called his favorite, according to CNBC. Cramer has leaned…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-11-22T21:44:48+00:00",
-   "tickers": [
-    "GOOG",
-    "GOOGL"
-   ]
-  },
-  {
-   "id": "80fef2553c23",
-   "title": "Ferrovial: 3 Key Takeaways for Long-Term Investors",
-   "link": "https://biztoc.com/x/6cd51e5b38219a87?ref=rss",
-   "summary": "On its third-quarter of 2026 earnings call, held on Oct. 28, 2026, Ferrovial (NASDAQ:FER) announced revenue growth across its highways and construction divisions, backed by major express lane awards in North America. Long-term investors should pay attention because the infrastructure manager is…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-22T21:44:48+00:00",
-   "tickers": [
-    "FER"
-   ]
   }
  ],
  "ticker_names": {
@@ -8875,7 +8872,6 @@
   "SMR": "NuScale Power",
   "SOUN": "SoundHound AI",
   "MSTR": "MicroStrategy",
-  "FER": "Ferrovial SE",
   "SPY": "SPDR S&P 500",
   "UBS": "UBS Group AG",
   "GOOGL": "Google Cloud",
