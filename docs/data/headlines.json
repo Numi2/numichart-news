@@ -1,8 +1,22 @@
 {
- "generated": "2026-11-24T03:30:32.371811+00:00",
+ "generated": "2026-11-24T03:38:15.821409+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "72787db816c8",
+   "title": "U.S. court orders to proceed with planned ammunition detonation in Iowa",
+   "link": "https://www.cnbc.com/2026/11/24/iowa-detonation-bomb-court-.html",
+   "summary": "A U.S. court cleared the Army to detonate degraded explosives at an Iowa ammunition plant amid public concern over contamination and health risks.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-11-24T03:32:26+00:00",
+   "tickers": []
+  },
   {
    "id": "acb9c352ee7b",
    "title": "MemTensor Releases and Open-Sources MemT-1.0-Pro, a 554B Memory-Native Model",
@@ -260,6 +274,36 @@
    "tickers": []
   },
   {
+   "id": "a9c5d57f6c83",
+   "title": "Asian Markets A Sea Of Green",
+   "link": "https://www.nasdaq.com/articles/asian-markets-sea-green-0",
+   "summary": "(RTTNews) - Asian stock markets are a sea of green on Tuesday, following the broadly positive cues from Wall Street overnight, boosted by markets in South Korea, Japan and Taiwan amid a relief rally in semiconductor supplier stocks in the region following the reinstatement of AI",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-24T03:20:32+00:00",
+   "tickers": []
+  },
+  {
+   "id": "9a14de0b8211",
+   "title": "SpaceX Stock Is Down 39% From Its High. Here's What Has to Happen Before I'd Buy.",
+   "link": "https://www.nasdaq.com/articles/spacex-stock-down-39-its-high-heres-what-has-happen-id-buy",
+   "summary": "Key PointsSpaceX's valuation remains exceptionally high.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-24T03:20:02+00:00",
+   "tickers": [
+    "SPCX"
+   ]
+  },
+  {
    "id": "60bf3eee6c02",
    "title": "Stock futures inch higher as traders see whether Nvidia can extend rally from Jensen Huang’s return: Live updates",
    "link": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html",
@@ -274,6 +318,50 @@
    "tickers": [
     "NDAQ"
    ]
+  },
+  {
+   "id": "7a9b369f2fb8",
+   "title": "Coffee Prices Fall as Brazilian Real Posts New 1.75-Year Low",
+   "link": "https://www.nasdaq.com/articles/coffee-prices-fall-brazilian-real-posts-new-175-year-low",
+   "summary": "March arabica coffee (KCH26 ) is down -1.10 (-0.41%), and January ICE robusta coffee (RMF27 ) is down -21 (-0.73%). Coffee prices are trading lower again today, with arabica falling to a 1.5-week low and robusta falling to a 3-year low. Coffee prices are trading lower due to a further...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-11-24T03:17:10+00:00",
+   "tickers": [
+    "ICE"
+   ]
+  },
+  {
+   "id": "f1030d81fcf7",
+   "title": "Wheat Fading Back From Early Gains on Monday",
+   "link": "https://www.nasdaq.com/articles/wheat-fading-back-early-gains-monday",
+   "summary": "The wheat complex is mixed on Monday, but holding close to unchanged. Chicago SRW futures are fractionally to 2 cents higher at midday. KC HRW futures are trading with contracts steady to 2 cents lower. MPLS spring wheat is down 1 to 3 ents. USDA reported a private export sale...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-11-24T03:17:10+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c7cc8d8ecf87",
+   "title": "Wheat Posts Mixed Trade on Monday",
+   "link": "https://www.nasdaq.com/articles/wheat-posts-mixed-trade-monday-0",
+   "summary": "The wheat complex saw mixed trade on Monday. Chicago SRW futures were 2 1/4 to 4 1/2 cents higher on the day. KC wheat futures posted mixed trade as front months were down as much as 3 1/4 cents and deferreds up as much as 1 1/2. MPLS Spring wheat...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-24T03:17:10+00:00",
+   "tickers": []
   },
   {
    "id": "febe8131a141",
@@ -345,6 +433,34 @@
    "sentiment": "negative",
    "domain": "nytimes.com",
    "published": "2026-11-24T03:12:26+00:00",
+   "tickers": []
+  },
+  {
+   "id": "5d50b30c64f8",
+   "title": "Cotton Rallies on Monday",
+   "link": "https://www.nasdaq.com/articles/cotton-rallies-monday-0",
+   "summary": "Cotton futures spent much of the Monday session rallying, with futures shooting higher out of the gates to close 147 to 207 points in the green on the day. Crude oil was down $3.09 per barrel on the session to $80.32, with the US dollar index $0.540 higher on the...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-11-24T03:11:48+00:00",
+   "tickers": []
+  },
+  {
+   "id": "758401947a6c",
+   "title": "Cattle Fade Back into Monday’s Close",
+   "link": "https://www.nasdaq.com/articles/cattle-fade-back-mondays-close",
+   "summary": "Live Cattle futures held the gains into Monday's close with most contracts closing 7 cents to $1.55 higher. Cash trade showed up at $217-218 sales in the north last week, up $2-3 on the week, with Southern sales at $217-220 and some up to $222. Feeder Cattle futures faded lower,...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-24T03:11:48+00:00",
    "tickers": []
   },
   {
@@ -476,22 +592,6 @@
    "tickers": []
   },
   {
-   "id": "7a9b369f2fb8",
-   "title": "Coffee Prices Fall as Brazilian Real Posts New 1.75-Year Low",
-   "link": "https://www.nasdaq.com/articles/coffee-prices-fall-brazilian-real-posts-new-175-year-low",
-   "summary": "March arabica coffee (KCH26 ) is down -1.10 (-0.41%), and January ICE robusta coffee (RMF27 ) is down -21 (-0.73%). Coffee prices are trading lower again today, with arabica falling to a 1.5-week low and robusta falling to a 3-year low. Coffee prices are trading lower due to a further...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-11-24T03:05:37+00:00",
-   "tickers": [
-    "ICE"
-   ]
-  },
-  {
    "id": "20c3284915a5",
    "title": "Federal Home Loan Mortgage Corporation - Preferred Stock Consensus Price Target Decreased by 49.02% to $11.58",
    "link": "https://www.nasdaq.com/articles/federal-home-loan-mortgage-corporation-preferred-stock-consensus-price-target-decreased-1",
@@ -531,34 +631,6 @@
    "sentiment": "neutral",
    "domain": "investing.com",
    "published": "2026-11-24T03:00:46+00:00",
-   "tickers": []
-  },
-  {
-   "id": "5d50b30c64f8",
-   "title": "Cotton Rallies on Monday",
-   "link": "https://www.nasdaq.com/articles/cotton-rallies-monday-0",
-   "summary": "Cotton futures spent much of the Monday session rallying, with futures shooting higher out of the gates to close 147 to 207 points in the green on the day. Crude oil was down $3.09 per barrel on the session to $80.32, with the US dollar index $0.540 higher on the...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-11-24T02:59:18+00:00",
-   "tickers": []
-  },
-  {
-   "id": "f1030d81fcf7",
-   "title": "Wheat Fading Back From Early Gains on Monday",
-   "link": "https://www.nasdaq.com/articles/wheat-fading-back-early-gains-monday",
-   "summary": "The wheat complex is mixed on Monday, but holding close to unchanged. Chicago SRW futures are fractionally to 2 cents higher at midday. KC HRW futures are trading with contracts steady to 2 cents lower. MPLS spring wheat is down 1 to 3 ents. USDA reported a private export sale...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-11-24T02:59:17+00:00",
    "tickers": []
   },
   {
@@ -796,20 +868,6 @@
    "tickers": []
   },
   {
-   "id": "758401947a6c",
-   "title": "Cattle Fade Back into Monday’s Close",
-   "link": "https://www.nasdaq.com/articles/cattle-fade-back-mondays-close",
-   "summary": "Live Cattle futures held the gains into Monday's close with most contracts closing 7 cents to $1.55 higher. Cash trade showed up at $217-218 sales in the north last week, up $2-3 on the week, with Southern sales at $217-220 and some up to $222. Feeder Cattle futures faded lower,...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-24T02:52:43+00:00",
-   "tickers": []
-  },
-  {
    "id": "7762d6f00f7b",
    "title": "Hogs Close with Weakness as Cutout Bounces",
    "link": "https://www.nasdaq.com/articles/hogs-close-weakness-cutout-bounces",
@@ -986,20 +1044,6 @@
    "tickers": [
     "KYMR"
    ]
-  },
-  {
-   "id": "c7cc8d8ecf87",
-   "title": "Wheat Posts Mixed Trade on Monday",
-   "link": "https://www.nasdaq.com/articles/wheat-posts-mixed-trade-monday-0",
-   "summary": "The wheat complex saw mixed trade on Monday. Chicago SRW futures were 2 1/4 to 4 1/2 cents higher on the day. KC wheat futures posted mixed trade as front months were down as much as 3 1/4 cents and deferreds up as much as 1 1/2. MPLS Spring wheat...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-24T02:47:18+00:00",
-   "tickers": []
   },
   {
    "id": "85c3f10d5ad3",
@@ -8812,50 +8856,6 @@
    "domain": "biztoc.com",
    "published": "2026-11-23T22:48:49+00:00",
    "tickers": []
-  },
-  {
-   "id": "3f294c06348d",
-   "title": "Why Anthropic’s Stock Is Sitting Out Nvidia’s Big Rally",
-   "link": "https://biztoc.com/x/aea983e04f6defdd?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-11-23T22:48:45+00:00",
-   "tickers": []
-  },
-  {
-   "id": "660227768b3f",
-   "title": "New York judge urged Kalshi to compromise on limiting bets by anyone under 21",
-   "link": "https://biztoc.com/x/7637ef973a0d1b73?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-23T22:48:43+00:00",
-   "tickers": []
-  },
-  {
-   "id": "59477d79d252",
-   "title": "Earnings call transcript: Semtech tops Q3 2027 estimates, shares swing",
-   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-semtech-tops-q3-2027-estimates-shares-swing-93CH-5046624",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-11-23T22:48:40+00:00",
-   "tickers": [
-    "SMTC"
-   ]
   }
  ],
  "ticker_names": {
