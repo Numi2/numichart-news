@@ -1,8 +1,38 @@
 {
- "generated": "2026-11-24T05:38:23.331619+00:00",
+ "generated": "2026-11-24T05:45:38.253901+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "a2352d1406d6",
+   "title": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal",
+   "link": "https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html",
+   "summary": "The administration added Megaspeed to the entity list, a trade blacklist, after weeks of sparring among top officials on the decision.",
+   "article_text": "",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "negative",
+   "domain": "nytimes.com",
+   "published": "2026-11-24T05:39:23+00:00",
+   "tickers": []
+  },
+  {
+   "id": "864095ca4566",
+   "title": "ValuEngine Weekly Market Commentary: Bear Market For Nasdaq-100 Headlines Historic Weekly Meltdown",
+   "link": "https://seekingalpha.com/article/4971298-valuengine-weekly-market-commentary-bear-market-for-nasdaq-100-headlines-historic-weekly-meltdown?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-24T05:35:00+00:00",
+   "tickers": [
+    "NDAQ"
+   ]
+  },
   {
    "id": "fe58ddd15d74",
    "title": "Yangtze River Pharmaceutical Wins Five Gold Awards at 51st International Convention on Quality Control Circles, Underscoring Quality-Driven Global Expansion",
@@ -4575,20 +4605,6 @@
    ]
   },
   {
-   "id": "a2352d1406d6",
-   "title": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal",
-   "link": "https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html",
-   "summary": "The administration added Megaspeed to the entity list, a trade blacklist, after weeks of sparring among top officials on the decision.",
-   "article_text": "",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "negative",
-   "domain": "nytimes.com",
-   "published": "2026-11-24T03:12:26+00:00",
-   "tickers": []
-  },
-  {
    "id": "e63b2b70c582",
    "title": "Anthropic Stock Fell About 20% From Its First Trade in Its First 2 Days. Here's the Price at Which I'd Buy It.",
    "link": "https://www.nasdaq.com/articles/anthropic-stock-fell-about-20-its-first-trade-its-first-2-days-heres-price-which-id-buy-it",
@@ -8831,20 +8847,6 @@
    "sentiment": "positive",
    "domain": "biztoc.com",
    "published": "2026-11-24T00:35:12+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b7f4bbc04c25",
-   "title": "CFTC staff say bitcoin, ether can count toward derivatives firms’ operating expenses",
-   "link": "https://biztoc.com/x/ece852aad073ffc1?ref=rss",
-   "summary": "Staff at the CFTC issued an advisory saying certain regulated firms may count crypto such as bitcoin and ether toward operating costs.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-24T00:35:11+00:00",
    "tickers": []
   }
  ],
