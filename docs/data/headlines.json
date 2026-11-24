@@ -1,8 +1,53 @@
 {
- "generated": "2026-11-24T04:43:35.606192+00:00",
+ "generated": "2026-11-24T04:50:37.865296+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "c246befc1500",
+   "title": "SBC Medical Group Holdings GAAP EPS of $0.15 beats by $0.01, revenue of $58.6M beats by $3.66M",
+   "link": "https://seekingalpha.com/news/4675967-sbc-medical-group-holdings-gaap-eps-of-015-beats-by-001-revenue-of-586m-beats-by-366m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-24T04:46:05+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e2c9aaf91b5d",
+   "title": "Surgepays GAAP EPS of $0.34 beats by $0.41, revenue of $17.27M beats by $0.77M",
+   "link": "https://seekingalpha.com/news/4675965-surgepays-gaap-eps-of-034-beats-by-041-revenue-of-1727m-beats-by-077m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "earnings",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-24T04:43:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "322f267054fd",
+   "title": "Suncor Energy names Enbridge veteran Max Chan as CFO",
+   "link": "https://seekingalpha.com/news/4675962-suncor-energy-names-enbridge-veteran-max-chan-as-cfo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-24T04:42:13+00:00",
+   "tickers": [
+    "SU",
+    "ENB"
+   ]
+  },
   {
    "id": "9d1e6e9e51cd",
    "title": "FS Credit Opportunities reports Q3 results",
@@ -8813,53 +8858,6 @@
    "tickers": [
     "MU"
    ]
-  },
-  {
-   "id": "792d480ad74f",
-   "title": "Visa chief risk officer Fabara sells $589,680 in company stock",
-   "link": "https://www.investing.com/news/insider-trading-news/visa-chief-risk-officer-fabara-sells-589680-in-company-stock-93CH-5046697",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-23T23:35:25+00:00",
-   "tickers": [
-    "V"
-   ]
-  },
-  {
-   "id": "a924178f498b",
-   "title": "Inside Trump's cryptocurrency gala for $TRUMP meme coin's largest buyers",
-   "link": "https://biztoc.com/x/615eb72f4b0e0547?ref=rss",
-   "summary": "Washington — President Trump hosted a gala Sunday night at his Northern Virginia golf club for , a novelty product whose value rises and falls with the interest of buyers. The event marked $TRUMP coin gala, in which those competing for access to the dinner and proximity to the president can try to…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-23T23:34:50+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b080eab587c2",
-   "title": "Meta Muse can do your Black Friday shopping at Walmart",
-   "link": "https://biztoc.com/x/cda94c67859984ed?ref=rss",
-   "summary": "Walmart will now let Meta’s Muse shop on your behalf, allowing the AI agent to find and purchase Black Friday deals via Walmart’s Sparky AI assistant. The retail giant is rolling out a live implementation of the Agent Gateway it announced last month, which helps AI agents find relevant products…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-23T23:34:28+00:00",
-   "tickers": [
-    "WMT",
-    "META"
-   ]
   }
  ],
  "ticker_names": {
@@ -8933,6 +8931,7 @@
   "MT": "ArcelorMittal",
   "OC": "Owens Corning",
   "POST": "Post Holdings",
+  "SU": "Suncor Energy",
   "PINS": "Pinterest Inc",
   "HRL": "Hormel Foods",
   "IREN": "IREN Limited",
@@ -8962,6 +8961,7 @@
   "NWSA": "News Corp",
   "AIZ": "Assurant",
   "BBY": "Best Buy",
+  "ENB": "Enbridge",
   "RS": "Reliance",
   "WWD": "Woodward",
   "SNAP": "Snapchat",
@@ -8985,7 +8985,6 @@
   "TWLO": "Twilio",
   "FRMI": "Fermi",
   "XPEV": "XPeng",
-  "MSCI": "MSCI",
-  "V": "Visa"
+  "MSCI": "MSCI"
  }
 }
