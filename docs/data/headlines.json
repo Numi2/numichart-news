@@ -1,8 +1,67 @@
 {
- "generated": "2026-11-24T20:26:22.713501+00:00",
+ "generated": "2026-11-24T20:33:19.304712+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "1ae3252a9219",
+   "title": "8-K - SOBR Safe, Inc. (0001425627) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/1425627/000147793226007280/0001477932-26-007280-index.htm",
+   "summary": "Filed: 2026-11-24 AccNo: 0001477932-26-007280 Size: 165 KB Item 3.01: Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing Item 9.01: Financial Statements and Exhibits",
+   "article_text": "",
+   "source": "SEC 8-K Filings",
+   "category": "filings",
+   "type": "8k",
+   "sentiment": "neutral",
+   "domain": "sec.gov",
+   "published": "2026-11-24T20:32:23+00:00",
+   "tickers": []
+  },
+  {
+   "id": "16cd36dc57d7",
+   "title": "Grayscale: Bitcoin is oversold, but AI risks now drive the outlook",
+   "link": "https://seekingalpha.com/news/4676341-grayscale-bitcoin-is-oversold-but-ai-risks-now-drive-the-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "guidance",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-24T20:29:50+00:00",
+   "tickers": []
+  },
+  {
+   "id": "efe7bfd61709",
+   "title": "ALWAYS BEST CARE APPOINTS KATRINA GARNER AS FIRST CHIEF PARTNERSHIP OFFICER",
+   "link": "https://www.prnewswire.com/news-releases/always-best-care-appoints-katrina-garner-as-first-chief-partnership-officer-302949846.html",
+   "summary": "New C-suite role will focus on healthcare partnerships that create growth opportunities for franchise owners and strengthen care transitions for clients ROSEVILLE, Calif., Nov. 24, 2026 /PRNewswire/ -- Always Best Care Senior Services, a leading provider of non-medical in-home care and...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-11-24T20:28:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "5f1ed54b5729",
+   "title": "SpaceX, Tesla appoint five directors to negotiate on possible deal - FT",
+   "link": "https://seekingalpha.com/news/4676337-spacex-tesla-appoint-five-directors-to-negotiate-on-possible-deal---ft?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-24T20:27:23+00:00",
+   "tickers": [
+    "SPCX",
+    "TSLA"
+   ]
+  },
   {
    "id": "883e12c0905f",
    "title": "Medications recalled nationwide, including some GLP-1 injections",
@@ -59,6 +118,20 @@
    "sentiment": "negative",
    "domain": "biztoc.com",
    "published": "2026-11-24T20:25:10+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e1a75bd79ec9",
+   "title": "S&P upgrades E.W. Scripps to ‘B-’ on cost cuts and debt reduction progress",
+   "link": "https://www.investing.com/news/stock-market-news/sp-upgrades-ew-scripps-to-b-on-cost-cuts-and-debt-reduction-progress-5048953",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-11-24T20:24:51+00:00",
    "tickers": []
   },
   {
@@ -166,6 +239,20 @@
    ]
   },
   {
+   "id": "b8fbd25ac1e2",
+   "title": "China’s Huawei convicted at US criminal trial stemming from Iran business",
+   "link": "https://www.investing.com/news/economy-news/chinas-huawei-convicted-at-us-criminal-trial-stemming-from-iran-business-5048943",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-24T20:24:16+00:00",
+   "tickers": []
+  },
+  {
    "id": "2548c9be7352",
    "title": "Patrick Mahomes Delivers Clear Message Before Matchup Against Josh Allen",
    "link": "https://biztoc.com/x/0987486d4d8d0ee5?ref=rss",
@@ -177,6 +264,34 @@
    "sentiment": "neutral",
    "domain": "biztoc.com",
    "published": "2026-11-24T20:24:14+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a0c29e9bec2b",
+   "title": "SANY продвигается к будущему робототехники, основанной на искусственном интеллекте, на выставке bauma CHINA 2026",
+   "link": "https://www.prnewswire.com/news-releases/sany-----------bauma-china-2026-302949844.html",
+   "summary": "ШАНХАЙ, 24 ноября 2026 г. /PRNewswire/ -- Войдите в интеллектуальный зал SANY на bauma CHINA 2026, и рабочее место завтра уже работает. Автономный колесный погрузчик планирует свой собственный маршрут и загружает материал без посторонней помощи. 100-тонный карьерный грузовик стоит без...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-11-24T20:24:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "46522bb6cc44",
+   "title": "Iowa American Water Urges Customers to Prepare for Cold Weather",
+   "link": "https://www.prnewswire.com/news-releases/iowa-american-water-urges-customers-to-prepare-for-cold-weather-302949845.html",
+   "summary": "Tips to Protect Pipes Before Freezing Temperatures DAVENPORT, Iowa, Nov. 24, 2026 /PRNewswire/ -- As cold weather approaches, Iowa American Water reminds customers to prepare their home and pipes, providing handy tips to help avoid costly repairs and unwanted stress from frozen pipes....",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-11-24T20:24:00+00:00",
    "tickers": []
   },
   {
@@ -252,6 +367,20 @@
    "tickers": [
     "MS"
    ]
+  },
+  {
+   "id": "ae7a00ba9463",
+   "title": "Axogen stock hits all-time high at 59.78 USD",
+   "link": "https://www.investing.com/news/company-news/axogen-stock-hits-alltime-high-at-5978-usd-93CH-5048951",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-11-24T20:23:22+00:00",
+   "tickers": []
   },
   {
    "id": "a1b24a435c02",
@@ -418,6 +547,36 @@
    "tickers": []
   },
   {
+   "id": "cca87973ad0d",
+   "title": "PepsiCo: Still Not Refreshing, Remains A Sell",
+   "link": "https://seekingalpha.com/article/4971580-pepsico-still-not-refreshing-remains-a-sell?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-24T20:23:04+00:00",
+   "tickers": [
+    "PEP"
+   ]
+  },
+  {
+   "id": "7acd7334904a",
+   "title": "UP TO 65% OFF MORE THAN A DOZEN HOTELS IN SAINT LUCIA FOR BLACK FRIDAY, CYBER MONDAY & TRAVEL TUESDAY",
+   "link": "https://www.prnewswire.com/news-releases/up-to-65-off-more-than-a-dozen-hotels-in-saint-lucia-for-black-friday-cyber-monday--travel-tuesday-302949843.html",
+   "summary": "One-Stop Hotel Deal Page Makes Searching for Saint Lucia Vacations Seamless CASTRIES, Saint Lucia, Nov. 24, 2026 /PRNewswire/ -- Saint Lucia is celebrating Black Friday, Cyber Monday and Travel Tuesday 2026, as two dozen hotels and Caribbean resorts have created limited-time deals and...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-11-24T20:23:00+00:00",
+   "tickers": []
+  },
+  {
    "id": "8bb822a50898",
    "title": "These 4 Utility Stocks Pay Dividends While AI Drives Electricity Demand Higher",
    "link": "https://biztoc.com/x/85ca68469c205bb7?ref=rss",
@@ -474,6 +633,20 @@
    "tickers": []
   },
   {
+   "id": "2f1c9a8af532",
+   "title": "Farmers & Merchants Bancorp extends CEO Lars Eller’s contract, increases compensation",
+   "link": "https://www.investing.com/news/sec-filings/farmers--merchants-bancorp-extends-ceo-lars-ellers-contract-increases-compensation-93CH-5048950",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-24T20:22:48+00:00",
+   "tickers": []
+  },
+  {
    "id": "af3332c8791b",
    "title": "8-K - DONALDSON Co INC (0000029644) (Filer)",
    "link": "https://www.sec.gov/Archives/edgar/data/29644/000002964426000122/0000029644-26-000122-index.htm",
@@ -504,6 +677,121 @@
    ]
   },
   {
+   "id": "1b9325e24023",
+   "title": "Linamar Corporation (LNR:CA) M&A Call Transcript",
+   "link": "https://seekingalpha.com/article/4971516-linamar-corporation-lnr-ca-m-and-a-call-transcript?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-24T20:21:16+00:00",
+   "tickers": []
+  },
+  {
+   "id": "736d72cafb50",
+   "title": "FS Bancorp launches $15M share repurchase program",
+   "link": "https://www.investing.com/news/company-news/fs-bancorp-launches-15m-share-repurchase-program-93CH-5048946",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-11-24T20:20:33+00:00",
+   "tickers": []
+  },
+  {
+   "id": "53edd341e876",
+   "title": "Notable Tuesday Option Activity: HOOD, TGT, HPE",
+   "link": "https://www.nasdaq.com/articles/notable-tuesday-option-activity-hood-tgt-hpe",
+   "summary": "Looking at options trading activity among components of the Russell 3000 index, there is noteworthy activity today in Robinhood Markets Inc (Symbol: HOOD), where a total volume of 116,525 contracts has been traded thus far today, a contract volume which is representative of appr",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-24T20:19:51+00:00",
+   "tickers": [
+    "HOOD",
+    "TGT",
+    "HPE"
+   ]
+  },
+  {
+   "id": "1c14105c0486",
+   "title": "Notable Tuesday Option Activity: COIN, TEX, AVGO",
+   "link": "https://www.nasdaq.com/articles/notable-tuesday-option-activity-coin-tex-avgo",
+   "summary": "Looking at options trading activity among components of the Russell 3000 index, there is noteworthy activity today in Coinbase Global Inc (Symbol: COIN), where a total volume of 66,678 contracts has been traded thus far today, a contract volume which is representative of approxi",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-24T20:19:49+00:00",
+   "tickers": [
+    "COIN",
+    "TEX",
+    "AVGO"
+   ]
+  },
+  {
+   "id": "f8a2b04a3bc0",
+   "title": "Notable Tuesday Option Activity: HNI, GEO, CAR",
+   "link": "https://www.nasdaq.com/articles/notable-tuesday-option-activity-hni-geo-car",
+   "summary": "Looking at options trading activity among components of the Russell 3000 index, there is noteworthy activity today in HNI Corp (Symbol: HNI), where a total volume of 6,542 contracts has been traded thus far today, a contract volume which is representative of approximately 654,20",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-24T20:19:47+00:00",
+   "tickers": [
+    "CAR"
+   ]
+  },
+  {
+   "id": "6870ee3e7ee8",
+   "title": "Noteworthy Tuesday Option Activity: AMBA, DLTR, STC",
+   "link": "https://www.nasdaq.com/articles/noteworthy-tuesday-option-activity-amba-dltr-stc",
+   "summary": "Among the underlying components of the Russell 3000 index, we saw noteworthy options trading volume today in Ambarella, Inc. (Symbol: AMBA), where a total of 9,041 contracts have traded so far, representing approximately 904,100 underlying shares. That amounts to about 64.2% of",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-24T20:19:46+00:00",
+   "tickers": [
+    "AMBA",
+    "DLTR"
+   ]
+  },
+  {
+   "id": "5e7493b0321a",
+   "title": "Noteworthy Tuesday Option Activity: PLTR, WYNN, AMZN",
+   "link": "https://www.nasdaq.com/articles/noteworthy-tuesday-option-activity-pltr-wynn-amzn",
+   "summary": "Among the underlying components of the Russell 3000 index, we saw noteworthy options trading volume today in Palantir Technologies Inc (Symbol: PLTR), where a total of 156,044 contracts have traded so far, representing approximately 15.6 million underlying shares. That amounts",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-24T20:19:41+00:00",
+   "tickers": [
+    "PLTR",
+    "WYNN",
+    "AMZN"
+   ]
+  },
+  {
    "id": "935d7f6e5c87",
    "title": "AuguStar Life Insurance Company Announces Pricing Terms of its Cash Tender Offer for Constellation Insurance, Inc.'s Outstanding 5.550% Senior Notes due 2030 (Currently Bearing Interest at a Rate of 5.800%) and 6.625% Senior Notes due 2031",
    "link": "https://www.prnewswire.com/news-releases/augustar-life-insurance-company-announces-pricing-terms-of-its-cash-tender-offer-for-constellation-insurance-incs-outstanding-5-550-senior-notes-due-2030-currently-bearing-interest-at-a-rate-of-5-800-and-6-625-senior-notes-302949842.html",
@@ -517,6 +805,69 @@
    "published": "2026-11-24T20:19:00+00:00",
    "tickers": [
     "STZ"
+   ]
+  },
+  {
+   "id": "c8383b1b6474",
+   "title": "Smaller Supplies from the Ivory Coast Boost Cocoa Prices",
+   "link": "https://www.nasdaq.com/articles/smaller-supplies-ivory-coast-boost-cocoa-prices",
+   "summary": "March ICE NY cocoa (CCH27 ) is up +110 (+2.08%) today, and ICE London cocoa #7 (CAZ26 ) closed up +29 (+0.73%). Cocoa prices rallied to 2.5-week highs today amid reduced cocoa shipments from the Ivory Coast. Ivory Coast government data on Monday showed farmers delivered 53,748 MT of cocoa...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-11-24T20:18:55+00:00",
+   "tickers": [
+    "ICE",
+    "MT"
+   ]
+  },
+  {
+   "id": "c3595a23d746",
+   "title": "Easing Supply Concerns Pressure Coffee Prices",
+   "link": "https://www.nasdaq.com/articles/easing-supply-concerns-pressure-coffee-prices",
+   "summary": "March arabica coffee (KCH26 ) is down -6.60 (-2.46%), and January ICE robusta coffee (RMF27 ) is down -47 (-1.65%). Coffee prices added to Monday’s losses today, with arabica falling to a 1.5-week low and robusta slipping to a 3-year low. Easing supply concerns are weighing on coffee prices. ICE...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-24T20:18:55+00:00",
+   "tickers": [
+    "ICE"
+   ]
+  },
+  {
+   "id": "499b05d744f0",
+   "title": "Wheat Fading Lower on Tuesday",
+   "link": "https://www.nasdaq.com/articles/wheat-fading-lower-tuesday",
+   "summary": "The wheat complex is slipping into the holiday, with contracts down across the three exchanges on Tuesday. Chicago SRW futures are down 4 to 6 cents so far on the day. KC wheat futures are 3 to 6 cents in the red so far on Tuesday. MPLS Spring wheat futures...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-11-24T20:18:55+00:00",
+   "tickers": []
+  },
+  {
+   "id": "7777ce3093b9",
+   "title": "Sanofi’s $41 billion Insmed bet charts life beyond Dupixent",
+   "link": "https://www.investing.com/news/stock-market-news/sanofi-strikes-41-billion-deal-to-acquire-us-drugmaker-insmed-5047163",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-24T20:18:35+00:00",
+   "tickers": [
+    "INSM"
    ]
   },
   {
@@ -550,6 +901,22 @@
    ]
   },
   {
+   "id": "5a6ced4a63a4",
+   "title": "Moody’s affirms Sanofi’s Aa3 rating, shifts outlook to negative on Insmed deal",
+   "link": "https://www.investing.com/news/stock-market-news/moodys-affirms-sanofis-aa3-rating-shifts-outlook-to-negative-on-insmed-deal-5048942",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-24T20:18:05+00:00",
+   "tickers": [
+    "INSM"
+   ]
+  },
+  {
    "id": "336142c91f93",
    "title": "Realty Meets Reality TV Series Spotlights Texas Real Estate and Lifestyle on REAL Shows Network",
    "link": "https://www.prnewswire.com/news-releases/realty-meets-reality-tv-series-spotlights-texas-real-estate-and-lifestyle-on-real-shows-network-302949841.html",
@@ -576,6 +943,22 @@
    "domain": "prnewswire.com",
    "published": "2026-11-24T20:16:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "b4b68a497781",
+   "title": "Yum Brands director sells $2.73 million in common stock",
+   "link": "https://www.investing.com/news/insider-trading-news/yum-brands-director-sells-273-million-in-common-stock-93CH-5048940",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-24T20:15:48+00:00",
+   "tickers": [
+    "YUM"
+   ]
   },
   {
    "id": "cd641fd14e54",
@@ -620,6 +1003,22 @@
    "tickers": []
   },
   {
+   "id": "146311d3a109",
+   "title": "Eli Lilly earns Moody’s upgrade to Aa2 as obesity drug demand fuels earnings",
+   "link": "https://www.investing.com/news/stock-market-news/eli-lilly-earns-moodys-upgrade-to-aa2-as-obesity-drug-demand-fuels-earnings-5048935",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-11-24T20:14:31+00:00",
+   "tickers": [
+    "LLY"
+   ]
+  },
+  {
    "id": "3ce5dc88217f",
    "title": "Credit Saint Launches Redesigned Credit Repair Website With Nico, a Revolutionary AI Assistant That Answers Credit Questions",
    "link": "https://www.prnewswire.com/news-releases/credit-saint-launches-redesigned-credit-repair-website-with-nico-a-revolutionary-ai-assistant-that-answers-credit-questions-302949839.html",
@@ -631,6 +1030,34 @@
    "sentiment": "positive",
    "domain": "prnewswire.com",
    "published": "2026-11-24T20:14:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "9a7445984aaf",
+   "title": "Cotton Bulls Powering Higher at Midday",
+   "link": "https://www.nasdaq.com/articles/cotton-bulls-powering-higher-midday",
+   "summary": "Cotton futures are trading with gains of 94 to 115 points across most contracts on Tuesday. Crude oil is down $1.17 per barrel on the session to $81.34, with the US dollar index $0.561 lower so far on the day. Crop Progress data showed the US cotton crop at 84%...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-24T20:12:32+00:00",
+   "tickers": []
+  },
+  {
+   "id": "8963046f484f",
+   "title": "Soybeans Rallying on Tuesday, as Meal Leads the Charge",
+   "link": "https://www.nasdaq.com/articles/soybeans-rallying-tuesday-meal-leads-charge",
+   "summary": "Soybeans are trading with contracts 6 to 9 ¾ cents higher at the midday portion of the Tuesday session. The cmdtyView national average Cash Bean price is up 11 cents at $11.81 1/4. Soymeal futures were $6.60 to $7.20 higher, with Soy Oil futures 44 to 49 points lower. On...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-11-24T20:12:32+00:00",
    "tickers": []
   },
   {
@@ -648,6 +1075,20 @@
    "tickers": [
     "ADI"
    ]
+  },
+  {
+   "id": "0c1d730b55d0",
+   "title": "Nvidia board’s Huang reversal raises doubts about independence, critics say",
+   "link": "https://www.investing.com/news/stock-market-news/nvidia-boards-huang-reversal-raises-doubts-about-independence-critics-say-5047621",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-11-24T20:12:16+00:00",
+   "tickers": []
   },
   {
    "id": "3f663b8f301f",
@@ -767,6 +1208,22 @@
    "tickers": [
     "PSN",
     "J"
+   ]
+  },
+  {
+   "id": "1b24dad7db49",
+   "title": "Digital Realty Trust (DLR) Shares Cross 3% Yield Mark",
+   "link": "https://www.nasdaq.com/articles/digital-realty-trust-dlr-shares-cross-3-yield-mark",
+   "summary": "Looking at the universe of stocks we cover at Dividend Channel, in trading on Tuesday, shares of Digital Realty Trust Inc (Symbol: DLR) were yielding above the 3% mark based on its quarterly dividend (annualized to $4.88), with the stock changing hands as low as $161.51 on the d",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-24T20:08:53+00:00",
+   "tickers": [
+    "DLR"
    ]
   },
   {
@@ -898,6 +1355,25 @@
    "domain": "biztoc.com",
    "published": "2026-11-24T20:08:01+00:00",
    "tickers": []
+  },
+  {
+   "id": "dfe61bdc8b92",
+   "title": "Stocks Mostly Lower on Weakness in Chipmakers and Renewed Trade Tensions",
+   "link": "https://www.nasdaq.com/articles/stocks-mostly-lower-weakness-chipmakers-and-renewed-trade-tensions",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) is down by -0.48% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.36%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -1.58%. December E-mini S&P futures (ESZ26 ) are down -0.47%, and December E-mini Nasdaq...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-11-24T20:08:01+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
   },
   {
    "id": "ab2efe05708c",
@@ -1152,6 +1628,36 @@
    ]
   },
   {
+   "id": "62a3c8c6df88",
+   "title": "Nvidia’s Huang said he violated code of conduct, source says",
+   "link": "https://www.investing.com/news/stock-market-news/nvidia-slips-as-investors-assess-risks-surrounding-huangs-return-as-ceo-5047757",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-24T20:06:38+00:00",
+   "tickers": []
+  },
+  {
+   "id": "58ae7358f9cf",
+   "title": "Ford in talks with the Pentagon to supply military vehicles",
+   "link": "https://www.investing.com/news/stock-market-news/pentagon-in-talks-with-general-motors-and-ford-on-military-drones-wsj-reports-5047560",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-24T20:06:23+00:00",
+   "tickers": [
+    "F"
+   ]
+  },
+  {
    "id": "3c62ac013d96",
    "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
    "link": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
@@ -1185,9 +1691,9 @@
    "link": "https://www.nasdaq.com/articles/bank-americas-preferred-stock-series-pp-shares-yield-pushes-past-7",
    "summary": "In trading on Tuesday, shares of Bank of America Corp's 4.125% Depositary Shares Non-Cumul Preferred Stock Ser PP (Symbol: BAC.PRP) were yielding above the 7% mark based on its quarterly dividend (annualized to $1.0312), with shares changing hands as low as $14.48 on the day.",
    "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
    "sentiment": "neutral",
    "domain": "nasdaq.com",
    "published": "2026-11-24T20:03:31+00:00",
@@ -1201,9 +1707,9 @@
    "link": "https://www.nasdaq.com/articles/capital-one-financials-preferred-stock-series-k-shares-cross-75-yield-mark",
    "summary": "In trading on Tuesday, shares of Capital One Financial Corp's 4.625% Dep Shares Non-Cumul Perp Pfd Stock Series K (Symbol: COF.PRK) were yielding above the 7.5% mark based on its quarterly dividend (annualized to $1.1562), with shares changing hands as low as $15.25 on the day.",
    "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
    "sentiment": "neutral",
    "domain": "nasdaq.com",
    "published": "2026-11-24T20:03:07+00:00",
@@ -1224,6 +1730,22 @@
    "domain": "cnbc.com",
    "published": "2026-11-24T20:02:49+00:00",
    "tickers": []
+  },
+  {
+   "id": "f155011873a5",
+   "title": "Dollar Weakness Spurs Short Covering in Sugar",
+   "link": "https://www.nasdaq.com/articles/dollar-weakness-spurs-short-covering-sugar",
+   "summary": "March NY world sugar #11 (SBH27 ) is up +0.06 (+0.34%) today, and March London ICE white sugar #5 (SWH27 ) is up +0.90 (+0.18%). Sugar prices are climbing today as a weaker dollar ($DXY ) has spurred some short covering in sugar futures. Sugar prices shook off the bearish...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-24T20:02:39+00:00",
+   "tickers": [
+    "ICE"
+   ]
   },
   {
    "id": "336d706fff09",
@@ -1381,7 +1903,7 @@
    "link": "https://www.prnewswire.com/news-releases/rosemurgy-13th-floor-giles-schmier-and-rockpoint-form-joint-venture-and-secure-construction-financing-to-develop-lutea-at-mainstreet-in-coconut-creek-florida-302949830.html",
    "summary": "404-Unit Multifamily Community To Be Developed Within the 200-Acre Mainstreet Master-Planned Community COCONUT CREEK, Fla., Nov. 24, 2026 /PRNewswire/ -- Rosemurgy Properties, 13th Floor Investments, Giles Capital Group, Schmier Property Group, and Rockpoint announced today the formation...",
    "article_text": "",
-   "source": "PR Newswire All",
+   "source": "PR Newswire Fin",
    "category": "press",
    "type": "press",
    "sentiment": "positive",
@@ -1420,69 +1942,6 @@
    "tickers": []
   },
   {
-   "id": "f155011873a5",
-   "title": "Dollar Weakness Spurs Short Covering in Sugar",
-   "link": "https://www.nasdaq.com/articles/dollar-weakness-spurs-short-covering-sugar",
-   "summary": "March NY world sugar #11 (SBH27 ) is up +0.06 (+0.34%) today, and March London ICE white sugar #5 (SWH27 ) is up +0.90 (+0.18%). Sugar prices are climbing today as a weaker dollar ($DXY ) has spurred some short covering in sugar futures. Sugar prices shook off the bearish...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-24T19:56:15+00:00",
-   "tickers": [
-    "ICE"
-   ]
-  },
-  {
-   "id": "9a7445984aaf",
-   "title": "Cotton Bulls Powering Higher at Midday",
-   "link": "https://www.nasdaq.com/articles/cotton-bulls-powering-higher-midday",
-   "summary": "Cotton futures are trading with gains of 94 to 115 points across most contracts on Tuesday. Crude oil is down $1.17 per barrel on the session to $81.34, with the US dollar index $0.561 lower so far on the day. Crop Progress data showed the US cotton crop at 84%...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-24T19:56:15+00:00",
-   "tickers": []
-  },
-  {
-   "id": "c8383b1b6474",
-   "title": "Smaller Supplies from the Ivory Coast Boost Cocoa Prices",
-   "link": "https://www.nasdaq.com/articles/smaller-supplies-ivory-coast-boost-cocoa-prices",
-   "summary": "March ICE NY cocoa (CCH27 ) is up +110 (+2.08%) today, and ICE London cocoa #7 (CAZ26 ) closed up +29 (+0.73%). Cocoa prices rallied to 2.5-week highs today amid reduced cocoa shipments from the Ivory Coast. Ivory Coast government data on Monday showed farmers delivered 53,748 MT of cocoa...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-11-24T19:56:14+00:00",
-   "tickers": [
-    "ICE",
-    "MT"
-   ]
-  },
-  {
-   "id": "c3595a23d746",
-   "title": "Easing Supply Concerns Pressure Coffee Prices",
-   "link": "https://www.nasdaq.com/articles/easing-supply-concerns-pressure-coffee-prices",
-   "summary": "March arabica coffee (KCH26 ) is down -6.60 (-2.46%), and January ICE robusta coffee (RMF27 ) is down -47 (-1.65%). Coffee prices added to Monday’s losses today, with arabica falling to a 1.5-week low and robusta slipping to a 3-year low. Easing supply concerns are weighing on coffee prices. ICE...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-24T19:56:14+00:00",
-   "tickers": [
-    "ICE"
-   ]
-  },
-  {
    "id": "3f031fe72d5d",
    "title": "Weakness in Tech Stocks Weighs on the Broader Market",
    "link": "https://www.nasdaq.com/articles/weakness-tech-stocks-weighs-broader-market",
@@ -1494,25 +1953,6 @@
    "sentiment": "neutral",
    "domain": "nasdaq.com",
    "published": "2026-11-24T19:56:14+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
-   ]
-  },
-  {
-   "id": "dfe61bdc8b92",
-   "title": "Stocks Mostly Lower on Weakness in Chipmakers and Renewed Trade Tensions",
-   "link": "https://www.nasdaq.com/articles/stocks-mostly-lower-weakness-chipmakers-and-renewed-trade-tensions",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) is down by -0.48% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.36%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -1.58%. December E-mini S&P futures (ESZ26 ) are down -0.47%, and December E-mini Nasdaq...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-11-24T19:56:13+00:00",
    "tickers": [
     "QQQ",
     "NDAQ",
@@ -1591,6 +2031,23 @@
    "domain": "biztoc.com",
    "published": "2026-11-24T19:54:42+00:00",
    "tickers": []
+  },
+  {
+   "id": "123602c6e815",
+   "title": "CrowdStrike’s all-stock bid for Zscaler: deal structure shifts risk to target holders",
+   "link": "https://www.investing.com/news/stock-market-news/crowdstrikes-allstock-bid-for-zscaler-deal-structure-shifts-risk-to-target-holders-93CH-5048924",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-24T19:54:15+00:00",
+   "tickers": [
+    "CRWD",
+    "ZS"
+   ]
   },
   {
    "id": "14f6ab5f6e7b",
@@ -1961,34 +2418,6 @@
    "tickers": []
   },
   {
-   "id": "499b05d744f0",
-   "title": "Wheat Fading Lower on Tuesday",
-   "link": "https://www.nasdaq.com/articles/wheat-fading-lower-tuesday",
-   "summary": "The wheat complex is slipping into the holiday, with contracts down across the three exchanges on Tuesday. Chicago SRW futures are down 4 to 6 cents so far on the day. KC wheat futures are 3 to 6 cents in the red so far on Tuesday. MPLS Spring wheat futures...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-11-24T19:50:06+00:00",
-   "tickers": []
-  },
-  {
-   "id": "8963046f484f",
-   "title": "Soybeans Rallying on Tuesday, as Meal Leads the Charge",
-   "link": "https://www.nasdaq.com/articles/soybeans-rallying-tuesday-meal-leads-charge",
-   "summary": "Soybeans are trading with contracts 6 to 9 ¾ cents higher at the midday portion of the Tuesday session. The cmdtyView national average Cash Bean price is up 11 cents at $11.81 1/4. Soymeal futures were $6.60 to $7.20 higher, with Soy Oil futures 44 to 49 points lower. On...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-11-24T19:50:06+00:00",
-   "tickers": []
-  },
-  {
    "id": "31d952d354a6",
    "title": "Corn Bulls Holding Firm on Tuesday",
    "link": "https://www.nasdaq.com/articles/corn-bulls-holding-firm-tuesday",
@@ -2074,20 +2503,6 @@
    "sentiment": "positive",
    "domain": "investing.com",
    "published": "2026-11-24T19:49:21+00:00",
-   "tickers": []
-  },
-  {
-   "id": "0c1d730b55d0",
-   "title": "Nvidia board’s Huang reversal raises doubts about independence, critics say",
-   "link": "https://www.investing.com/news/stock-market-news/nvidia-boards-huang-reversal-raises-doubts-about-independence-critics-say-5047621",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-11-24T19:49:05+00:00",
    "tickers": []
   },
   {
@@ -2804,20 +3219,6 @@
    "tickers": [
     "MCO"
    ]
-  },
-  {
-   "id": "62a3c8c6df88",
-   "title": "Nvidia slips as investors assess risks surrounding Huang’s return as CEO",
-   "link": "https://www.investing.com/news/stock-market-news/nvidia-slips-as-investors-assess-risks-surrounding-huangs-return-as-ceo-5047757",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-24T19:31:12+00:00",
-   "tickers": []
   },
   {
    "id": "a73df67cc393",
@@ -8410,394 +8811,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-11-24T18:01:26+00:00",
    "tickers": []
-  },
-  {
-   "id": "ccff1e0e7bd1",
-   "title": "Vipshop Holdings Limited (VIPS) Q3 2026 Earnings Call Transcript",
-   "link": "https://seekingalpha.com/article/4971448-vipshop-holdings-limited-vips-q3-2026-earnings-call-transcript?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-24T18:01:19+00:00",
-   "tickers": []
-  },
-  {
-   "id": "99217427f41c",
-   "title": "Medtronic earnings analysis: questions answered and next catalysts",
-   "link": "https://www.investing.com/news/stock-market-news/medtronic-earnings-analysis-questions-answered-and-next-catalysts-93CH-5048851",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-24T18:00:34+00:00",
-   "tickers": [
-    "MDT"
-   ]
-  },
-  {
-   "id": "e8b8751e2247",
-   "title": "Nvidia’s Huang returns to cheers in China, but political hurdles mount",
-   "link": "https://www.investing.com/news/stock-market-news/nvidias-huang-returns-to-cheers-in-china-but-political-hurdles-mount-5048427",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-24T18:00:19+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d40e031d45a3",
-   "title": "San Diego County Lodging Association Names Clancy Executive Director",
-   "link": "https://www.prnewswire.com/news-releases/san-diego-county-lodging-association-names-clancy-executive-director-302945836.html",
-   "summary": "Prioritizes membership growth, advocacy and hospitality partnerships SAN DIEGO, Nov. 24, 2026 /PRNewswire/ -- The San Diego County Lodging Association (SDCLA) today announced the appointment of Rena Clancy as its new executive director. Clancy brings more than 20 years of experience in...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-11-24T18:00:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b7953d9ec033",
-   "title": "Air Products to Speak at Goldman Sachs Industrials and Materials Conference on December 2",
-   "link": "https://www.prnewswire.com/news-releases/air-products-to-speak-at-goldman-sachs-industrials-and-materials-conference-on-december-2-302949515.html",
-   "summary": "CEO Eduardo Menezes and CFO Melissa Schaeffer to Participate in a Fireside Chat LEHIGH VALLEY, Pa. , Nov. 24, 2026 /PRNewswire/ -- Air Products' (NYSE:APD) Chief Executive Officer Eduardo Menezes and Chief Financial Officer Melissa Schaeffer will participate in a fireside chat at the...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-11-24T18:00:00+00:00",
-   "tickers": [
-    "APD",
-    "GS"
-   ]
-  },
-  {
-   "id": "01a9a5743aff",
-   "title": "Cox Automotive Forecast: November New-Vehicle Sales Pace Steadies as Fewer Selling Days Pull Volume Lower",
-   "link": "https://www.prnewswire.com/news-releases/cox-automotive-forecast-november-new-vehicle-sales-pace-steadies-as-fewer-selling-days-pull-volume-lower-302949722.html",
-   "summary": "November's new-vehicle sales pace is expected to finish near a seasonally adjusted rate of 15.8 million, up from 15.5 million in October and matching November 2025. November sales volume is expected to finish at 1.20 million, down 10.3% from October and down 7.3% from November 2025,...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "prnewswire.com",
-   "published": "2026-11-24T18:00:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "8a8963846f9d",
-   "title": "CASCADES ANNOUNCES NOTICE OF PARTIAL REDEMPTION FOR ITS 5.375% SENIOR NOTES DUE 2028",
-   "link": "https://www.prnewswire.com/news-releases/cascades-announces-notice-of-partial-redemption-for-its-5-375-senior-notes-due-2028--302949742.html",
-   "summary": "KINGSEY FALLS, QC, Nov. 24, 2026 /PRNewswire/ -- Cascades Inc. (TSX: CAS) (the \"Corporation\"), a leader in the manufacture of eco-friendly packaging and hygiene products, announced today that it and its indirect wholly-owned subsidiary, Cascades USA Inc., have issued a notice of partial...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "offering",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-11-24T18:00:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d4fb010883a9",
-   "title": "Appointment of Guillaume Hintzy as Group Chief Financial Officer of Voltalia",
-   "link": "https://www.globenewswire.com/news-release/2026/11/24/3409749/0/en/appointment-of-guillaume-hintzy-as-group-chief-financial-officer-of-voltalia.html",
-   "summary": "Appointment of Guillaume Hintzy asGroup Chief Financial Officer of Voltalia",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-11-24T18:00:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "da67ed875c64",
-   "title": "Nomination de Guillaume Hintzy en tant que Directeur administratif et financier Groupe de Voltalia",
-   "link": "https://www.globenewswire.com/news-release/2026/11/24/3409749/0/fr/nomination-de-guillaume-hintzy-en-tant-que-directeur-administratif-et-financier-groupe-de-voltalia.html",
-   "summary": "Nomination de Guillaume Hintzy en tant queDirecteur administratif et financier Groupe de Voltalia",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-11-24T18:00:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "06ab8902d915",
-   "title": "Scanfil at Stora Aktiedagarna 2026: growth, deals and global reach",
-   "link": "https://www.investing.com/news/transcripts/scanfil-at-stora-aktiedagarna-2026-growth-deals-and-global-reach-93CH-5048843",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-24T17:59:54+00:00",
-   "tickers": []
-  },
-  {
-   "id": "3b1f157f6ce0",
-   "title": "Agilent earnings analysis: questions answered and next catalysts",
-   "link": "https://www.investing.com/news/stock-market-news/agilent-earnings-analysis-questions-answered-and-next-catalysts-93CH-5048842",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-24T17:59:34+00:00",
-   "tickers": []
-  },
-  {
-   "id": "8e132eeb0777",
-   "title": "8-K - CIFC Credit Income Fund (0002056516) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/2056516/000119312526474528/0001193125-26-474528-index.htm",
-   "summary": "Filed: 2026-11-24 AccNo: 0001193125-26-474528 Size: 180 KB Item 3.02: Unregistered Sales of Equity Securities",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-11-24T17:59:27+00:00",
-   "tickers": []
-  },
-  {
-   "id": "c69f14260c33",
-   "title": "Zerostack earnings beat by $19.39, revenue topped estimates",
-   "link": "https://www.investing.com/news/earnings/zerostack-earnings-beat-by-1939-revenue-topped-estimates-5048841",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-11-24T17:59:27+00:00",
-   "tickers": []
-  },
-  {
-   "id": "684e4e02053d",
-   "title": "Trump Account contributions from friends and family pass $1 billion mark, Treasury says",
-   "link": "https://www.cnbc.com/2026/11/24/trump-accounts-family-contributions-billion.html",
-   "summary": "Trump Account contributions from friends and family have passed $1 billion, according to the Treasury Department. Here's what families need to know.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-11-24T17:59:12+00:00",
-   "tickers": []
-  },
-  {
-   "id": "cb4ffa466fb4",
-   "title": "Nike stock rating reiterated Buy by Jefferies on new product momentum",
-   "link": "https://www.investing.com/news/analyst-ratings/nike-stock-rating-reiterated-buy-by-jefferies-on-new-product-momentum-93CH-5048839",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-24T17:59:05+00:00",
-   "tickers": [
-    "JEF"
-   ]
-  },
-  {
-   "id": "a5f4d5f52360",
-   "title": "Zoom earnings analysis: questions answered and next catalysts",
-   "link": "https://www.investing.com/news/stock-market-news/zoom-earnings-analysis-questions-answered-and-next-catalysts-93CH-5048840",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-24T17:59:05+00:00",
-   "tickers": [
-    "ZM"
-   ]
-  },
-  {
-   "id": "50d4063b5af3",
-   "title": "Dollar Tree earnings analysis: questions answered and next catalysts",
-   "link": "https://www.investing.com/news/stock-market-news/dollar-tree-earnings-analysis-questions-answered-and-next-catalysts-93CH-5048838",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-24T17:58:50+00:00",
-   "tickers": [
-    "DLTR"
-   ]
-  },
-  {
-   "id": "60794b1fa864",
-   "title": "HPE earnings analysis: questions answered and next catalysts",
-   "link": "https://www.investing.com/news/stock-market-news/hpe-earnings-analysis-questions-answered-and-next-catalysts-93CH-5048836",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-24T17:58:13+00:00",
-   "tickers": [
-    "HPE"
-   ]
-  },
-  {
-   "id": "068a5d44e9d6",
-   "title": "Sanofi nears 19-month high after $41B Insmed deal",
-   "link": "https://seekingalpha.com/news/4676291-sanofi-stock-jumps-41b-insmed-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-24T17:58:06+00:00",
-   "tickers": [
-    "INSM"
-   ]
-  },
-  {
-   "id": "d67f6dfe7931",
-   "title": "Tuesday's ETF Movers: XBI, EMEQ",
-   "link": "https://www.nasdaq.com/articles/tuesdays-etf-movers-xbi-emeq",
-   "summary": "In trading on Tuesday, the State Street SPDR S&P Biotech ETF is outperforming other ETFs, up about 5.3% on the day. Components of that ETF showing particular strength include shares of Faeth Therapeutics, up about 20.9% and shares of Cogent Biosciences, up about 20.1% on th",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-24T17:57:22+00:00",
-   "tickers": [
-    "COGT",
-    "XBI",
-    "STT"
-   ]
-  },
-  {
-   "id": "6202e924ead1",
-   "title": "Georgia Power celebrates 100 years of Network Underground service in communities across Georgia",
-   "link": "https://www.prnewswire.com/news-releases/georgia-power-celebrates-100-years-of-network-underground-service-in-communities-across-georgia-302949726.html",
-   "summary": "Company unveils new training center in Atlanta to educate and prepare next generation ATLANTA, Nov. 24, 2026 /PRNewswire/ -- For a century, Georgia Power's Network Underground system has safely and reliably powered some of the state's busiest business districts, critical infrastructure...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-11-24T17:57:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b9a77ba0eb2f",
-   "title": "Visa: The Market Finally Recognizes Its Strength (Rating Downgrade)",
-   "link": "https://seekingalpha.com/article/4971543-visa-the-market-finally-recognizes-its-strength-downgrade?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-24T17:56:45+00:00",
-   "tickers": [
-    "V"
-   ]
-  },
-  {
-   "id": "9f3cb58d804c",
-   "title": "Tuesday Sector Laggards: Semiconductors, Computer Peripherals",
-   "link": "https://www.nasdaq.com/articles/tuesday-sector-laggards-semiconductors-computer-peripherals",
-   "summary": "In trading on Tuesday, semiconductors shares were relative laggards, down on the day by about 7.9%. Helping drag down the group were shares of Analog Devices, off about 18.1% and shares of Semtech down about 17.2% on the day. Also lagging the market Tuesday are computer periph",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-24T17:56:17+00:00",
-   "tickers": [
-    "ADI",
-    "SMTC"
-   ]
-  },
-  {
-   "id": "3bd2ee01e380",
-   "title": "Tuesday Sector Leaders: Biotechnology, Drugs",
-   "link": "https://www.nasdaq.com/articles/tuesday-sector-leaders-biotechnology-drugs-0",
-   "summary": "In trading on Tuesday, biotechnology shares were relative leaders, up on the day by about 4.8%. Leading the group were shares of Prelude Therapeutics, up about 25.4% and shares of C4 Therapeutics up about 20.7% on the day. Also showing relative strength are drugs shares, up on",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-24T17:56:02+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d9aee644c54c",
-   "title": "University of Phoenix assessment leaders present hands-on framework for building customized AI assessment assistants at national conference",
-   "link": "https://www.prnewswire.com/news-releases/university-of-phoenix-assessment-leaders-present-hands-on-framework-for-building-customized-ai-assessment-assistants-at-national-conference-302949758.html",
-   "summary": "Workshop at Indiana University's Assessment Institute demonstrates practical approaches to designing AI-powered tools for learning assessment PHOENIX, Nov. 24, 2026 /PRNewswire/ -- Gretchen Meyers, Ed.D., and Melinda Kulick, Ed.D., leaders in the University of Phoenix Assessment and...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-11-24T17:56:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "74d5b41f3a00",
-   "title": "Mid-cap energy stocks ranked by Quant ratings after earnings season",
-   "link": "https://seekingalpha.com/news/4676219-mid-cap-energy-stocks-ranked-by-quant-ratings-after-earnings-season?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-24T17:55:14+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8810,18 +8823,14 @@
   "WAB": "Westinghouse Air Brake Technologies",
   "BTC": "Grayscale Bitcoin Mini Trust (BTC)",
   "TSM": "Taiwan Semiconductor Manufacturing",
-  "XBI": "State Street SPDR S&P Biotech ETF",
   "TIGO": "Millicom International Cellular",
   "WST": "West Pharmaceutical Services",
   "QQQ": "Invesco QQQ Trust, Series 1",
-  "APD": "Air Products and Chemicals",
   "EL": "The Est?e Lauder Companies",
   "HPE": "Hewlett Packard Enterprise",
   "ICE": "Intercontinental Exchange",
-  "JEF": "Jefferies Financial Group",
   "TD": "The Toronto-Dominion Bank",
   "APO": "Apollo Global Management",
-  "GS": "The Goldman Sachs Group",
   "AMD": "Advanced Micro Devices",
   "BRX": "Brixmor Property Group",
   "CF": "CF Industries Holdings",
@@ -8829,6 +8838,7 @@
   "COF": "Capital One Financial",
   "DKS": "DICK'S Sporting Goods",
   "KEYS": "Keysight Technologies",
+  "PLTR": "Palantir Technologies",
   "CRWD": "CrowdStrike Holdings",
   "STZ": "Constellation Brands",
   "ABT": "Abbott Laboratories",
@@ -8836,12 +8846,11 @@
   "ITW": "Illinois Tool Works",
   "KYMR": "Kymera Therapeutics",
   "PAAS": "Pan American Silver",
-  "ZM": "Zoom Communications",
-  "COGT": "Cogent Biosciences",
   "NYT": "The New York Times",
   "BURL": "Burlington Stores",
   "CAR": "Avis Budget Group",
   "DELL": "Dell Technologies",
+  "HOOD": "Robinhood Markets",
   "MU": "Micron Technology",
   "SJM": "The J. M. Smucker",
   "AMTM": "Amentum Holdings",
@@ -8858,6 +8867,7 @@
   "BAC": "Bank of America",
   "BG": "Bunge Global SA",
   "CAH": "Cardinal Health",
+  "COIN": "Coinbase Global",
   "ELV": "Elevance Health",
   "GPN": "Global Payments",
   "TGTX": "TG Therapeutics",
@@ -8869,6 +8879,7 @@
   "EG": "Everest Group",
   "JOBY": "Joby Aviation",
   "KO": "The Coca-Cola",
+  "LLY": "Eli Lilly and",
   "MT": "ArcelorMittal",
   "O": "Realty Income",
   "POST": "Post Holdings",
@@ -8876,21 +8887,24 @@
   "WFC": "Wells Fargo &",
   "HRL": "Hormel Foods",
   "SPY": "SPDR S&P 500",
-  "STT": "State Street",
   "GOOGL": "Google Cloud",
   "TSLA": "Supercharger",
   "NVDA": "Grace Hopper",
   "DLTR": "Dollar Tree",
   "HSY": "The Hershey",
+  "YUM": "Yum! Brands",
   "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
+  "TGT": "Target Corp",
   "BX": "Blackstone",
+  "F": "Ford Motor",
   "MA": "Mastercard",
   "MCD": "McDonald's",
   "RGLD": "Royal Gold",
   "TECH": "Bio-Techne",
   "MSFT": "Office 365",
   "DE": "John Deere",
+  "AMBA": "Ambarella",
   "BC": "Brunswick",
   "BLK": "BlackRock",
   "CLS": "Celestica",
@@ -8908,10 +8922,11 @@
   "CVX": "Chevron",
   "MCO": "Moody's",
   "NTNX": "Nutanix",
+  "PEP": "PepsiCo",
   "PSN": "Parsons",
   "SCI": "Service",
-  "SMTC": "Semtech",
   "SNDK": "Sandisk",
+  "ZS": "Zscaler",
   "LI": "Li Auto",
   "INSM": "Insmed",
   "KSS": "Kohl's",
@@ -8919,7 +8934,7 @@
   "PFE": "Pfizer",
   "SAP": "SAP SE",
   "SPCX": "SpaceX",
-  "DAVE": "Dave",
-  "V": "Visa"
+  "TEX": "Terex",
+  "DAVE": "Dave"
  }
 }
