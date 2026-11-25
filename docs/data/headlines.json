@@ -1,8 +1,112 @@
 {
- "generated": "2026-11-25T09:07:04.861022+00:00",
+ "generated": "2026-11-25T09:19:02.375493+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "34334df6d248",
+   "title": "Nasdaq futures slide amid reports of fresh U.S. tariffs as tech sell-off intensifies: Live updates",
+   "link": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
+   "summary": "Wall Street is coming off a losing session for the S&P 500 and Nasdaq Composite.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "cnbc.com",
+   "published": "2026-11-25T09:15:59+00:00",
+   "tickers": [
+    "NDAQ"
+   ]
+  },
+  {
+   "id": "86e05f2d1647",
+   "title": "StoneX: Back To Last Year's Price After A 72% Jump In Earnings",
+   "link": "https://seekingalpha.com/article/4971757-stonex-back-to-last-years-price-after-a-72-percent-jump-in-earnings?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-25T09:14:01+00:00",
+   "tickers": []
+  },
+  {
+   "id": "69c383088af2",
+   "title": "Transaction in Own Shares",
+   "link": "https://www.globenewswire.com/news-release/2026/11/25/3410033/0/en/transaction-in-own-shares.html",
+   "summary": "",
+   "article_text": "",
+   "source": "GlobeNewswire",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "globenewswire.com",
+   "published": "2026-11-25T09:12:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "286482f3a5ed",
+   "title": "Nasdaq futures extend losses as tech stocks face renewed pressure",
+   "link": "https://seekingalpha.com/news/4676487-sp500-nasdaq-dow-jones-outlook-stock-market?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-25T09:10:54+00:00",
+   "tickers": [
+    "NDAQ"
+   ]
+  },
+  {
+   "id": "6ffde3f90347",
+   "title": "TSMC: AI Kingmaker Trading At A Bargain Price",
+   "link": "https://seekingalpha.com/article/4971755-tsmc-ai-kingmaker-trading-at-a-bargain-price?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-25T09:10:19+00:00",
+   "tickers": [
+    "TSM"
+   ]
+  },
+  {
+   "id": "097430323b27",
+   "title": "SBA Communication: Cheap Cash Flow, But The Recovery Will Take Time",
+   "link": "https://seekingalpha.com/article/4971754-sba-communication-reit-cheap-cash-flow-but-recovery-will-take-time?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-25T09:09:48+00:00",
+   "tickers": []
+  },
+  {
+   "id": "4fe033f8b1aa",
+   "title": "Bloom Energy: Life After The AI Bust (Rating Downgrade)",
+   "link": "https://seekingalpha.com/article/4971753-bloom-energy-stock-life-after-the-ai-bust-rating-downgrade?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-25T09:07:23+00:00",
+   "tickers": []
+  },
   {
    "id": "9d99556fd943",
    "title": "Virtune announces harmonization of rebalancing schedules for selected index ETPs",
@@ -29,6 +133,149 @@
    "sentiment": "neutral",
    "domain": "globenewswire.com",
    "published": "2026-11-25T09:05:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ec06aeecdfcc",
+   "title": "Black Friday shoppers face a surprising AI pricing twist",
+   "link": "https://biztoc.com/x/fd7a7b57a12048bf?ref=rss",
+   "summary": "Black Friday shoppers have spent years hunting for the biggest discounts. But retailers are finding a new way to make customers pay more without necessarily losing their business. Artificial intelligence is transforming retailers’ decisions about which things to sell, how much to reduce prices,…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-25T09:04:51+00:00",
+   "tickers": []
+  },
+  {
+   "id": "1be139560541",
+   "title": "Iran's military to boost surveillance in Hormuz",
+   "link": "https://biztoc.com/x/045809d856dac4e7?ref=rss",
+   "summary": "Iranian Army's spokesperson Mohammad Akraminia said on Wednesday that both the Iranian Army and the Islamic Revolutionary Guard Corps (IRGC) plan to strengthen control and surveillance in the Strait o...",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-11-25T09:04:50+00:00",
+   "tickers": []
+  },
+  {
+   "id": "33774636bb7b",
+   "title": "German auto workers on back foot as costs, competition bite",
+   "link": "https://biztoc.com/x/9a4b4dd3b38028ff?ref=rss",
+   "summary": "German auto workers profited during the industry's boom years, but are now increasingly being asked to trade past gains for future job security.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-25T09:04:45+00:00",
+   "tickers": []
+  },
+  {
+   "id": "d8b9fed36da0",
+   "title": "Japanese companies shift away from ESG-linked executive pay",
+   "link": "https://biztoc.com/x/f54f0cb3eec968a2?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-25T09:04:40+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ab5cf74778f3",
+   "title": "Steel distributors assert they’re being stiffed on tariff rebates",
+   "link": "https://biztoc.com/x/207c6977f01bd6be?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-25T09:04:38+00:00",
+   "tickers": []
+  },
+  {
+   "id": "74aa76bd1a2c",
+   "title": "The Supreme Court vs Political Popularity | Opinion",
+   "link": "https://biztoc.com/x/41e365d08930803a?ref=rss",
+   "summary": "With the midterm elections behind us, so-called “court reform” has reentered the political conversation. But what the hard left is proposing is nothing less than a coup. In recent years, several decisions from the U.S. Supreme Court have frustrated the left and their political objectives. Some…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-25T09:04:29+00:00",
+   "tickers": []
+  },
+  {
+   "id": "395566ea291b",
+   "title": "Imam Who Ran 'Britain's Biggest' Sharia Court Network Sued Over Historic Rapes",
+   "link": "https://biztoc.com/x/9221066dc262eee5?ref=rss",
+   "summary": "Imam Who Ran 'Britain's Biggest' Sharia Court Network Sued Over Historic Rapes The cleric who sat as chief judge of one of Britain's biggest networks of sharia courts is being sued at the High Court in London by a woman who says he repeatedly raped her as a girl in the 1980s, after his father…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-11-25T09:04:18+00:00",
+   "tickers": []
+  },
+  {
+   "id": "8260507ebf09",
+   "title": "GPIF agenda may signal portfolio review progress, JPMorgan says",
+   "link": "https://biztoc.com/x/82aaeb01032a5db5?ref=rss",
+   "summary": "Japan’s largest pension fund may be moving closer to deciding whether to revise its asset allocation, according to JPMorgan Chase, potentially reviving speculation that it could steer more of its ¥314 trillion ($2 trillion) portfolio toward domestic bonds. The Government Pension Investment Fund…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-25T09:04:18+00:00",
+   "tickers": [
+    "JPM",
+    "JIRE"
+   ]
+  },
+  {
+   "id": "8081e253d8a6",
+   "title": "Most Covered Call ETFs Fall Just as Hard in a Selloff. This One Didn’t",
+   "link": "https://biztoc.com/x/ed32c61bedde97f4?ref=rss",
+   "summary": "The post Most Covered Call ETFs Fall Just as Hard in a Selloff. This One Didn’t appeared first on 24/7 Wall St.. One misconception I frequently see investors repeat is that covered call ETFs somehow provide meaningful protection against a bear market or correction. That’s generally not true. The…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-11-25T09:04:14+00:00",
+   "tickers": []
+  },
+  {
+   "id": "a78b521326ad",
+   "title": "Remy Cointreau Shares Jump as Turnaround Efforts Progress",
+   "link": "https://biztoc.com/x/4be664177a4e2b6a?ref=rss",
+   "summary": "Shares were 11% higher in opening trade after the liquor group lifted its guidance for the fiscal year, and set out a plan to shrug off market weakness that has plagued the sector.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-11-25T09:04:13+00:00",
    "tickers": []
   },
   {
@@ -880,6 +1127,25 @@
    ]
   },
   {
+   "id": "5f067d940bb4",
+   "title": "Stocks Settle Mostly Lower on a Rout in Chipmakers and AI Stocks",
+   "link": "https://www.nasdaq.com/articles/stocks-settle-mostly-lower-rout-chipmakers-and-ai-stocks",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down by -0.50% on Tuesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.85%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -1.99%. December E-mini S&P futures (ESZ26 ) fell -0.52%, and December E-mini Nasdaq...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T08:40:31+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
+  },
+  {
    "id": "1339dba87cf4",
    "title": "Check out our livestream for an extra 10% off on top of our Black Friday discount",
    "link": "https://www.investing.com/news/stock-market-news/check-out-our-livestream-for-an-extra-10-off-on-top-of-our-black-friday-discount-5049948",
@@ -962,22 +1228,6 @@
    "domain": "investing.com",
    "published": "2026-11-25T08:37:15+00:00",
    "tickers": []
-  },
-  {
-   "id": "34334df6d248",
-   "title": "Nasdaq futures slide amid reports of fresh U.S. tariffs as tech sell-off intensifies: Live updates",
-   "link": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
-   "summary": "Wall Street is coming off a losing session for the S&P 500 and Nasdaq Composite.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "negative",
-   "domain": "cnbc.com",
-   "published": "2026-11-25T08:37:06+00:00",
-   "tickers": [
-    "NDAQ"
-   ]
   },
   {
    "id": "6238e273de1e",
@@ -1319,6 +1569,20 @@
    "tickers": [
     "LI"
    ]
+  },
+  {
+   "id": "932a5b23e232",
+   "title": "NCino Offers AI-Powered Lending Platform To Rabobank",
+   "link": "https://www.nasdaq.com/articles/ncino-offers-ai-powered-lending-platform-rabobank",
+   "summary": "(RTTNews) - nCino, Inc. (NCNO), a financial technology company, on Wednesday announced that it will offer its nCino Platform to Coöperatieve Rabobank U.A., a Dutch bank, to transform its business lending operations.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T08:29:12+00:00",
+   "tickers": []
   },
   {
    "id": "420c86a150f5",
@@ -3656,25 +3920,6 @@
    "published": "2026-11-25T07:11:21+00:00",
    "tickers": [
     "JEF"
-   ]
-  },
-  {
-   "id": "5f067d940bb4",
-   "title": "Stocks Settle Mostly Lower on a Rout in Chipmakers and AI Stocks",
-   "link": "https://www.nasdaq.com/articles/stocks-settle-mostly-lower-rout-chipmakers-and-ai-stocks",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down by -0.50% on Tuesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.85%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -1.99%. December E-mini S&P futures (ESZ26 ) fell -0.52%, and December E-mini Nasdaq...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-11-25T07:11:11+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
    ]
   },
   {
@@ -8518,269 +8763,13 @@
    "tickers": [
     "SCI"
    ]
-  },
-  {
-   "id": "a121c0e2f463",
-   "title": "How Boise State Could Lose the Pac-12 Title and Still Make the Playoff",
-   "link": "https://biztoc.com/x/1ce072204ae1f123?ref=rss",
-   "summary": "San Diego State will return to Boise on Dec. 4, less than two weeks after handing the Boise State Broncos their first Pac-12 loss. This time, the winner leaves Albertsons Stadium with the conference trophy. Boise State (9-2, 6-1 Pac-12) could lose the rematch and still make the College Football…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-25T04:46:26+00:00",
-   "tickers": []
-  },
-  {
-   "id": "47181e36c15d",
-   "title": "Shenzhou-24 docks with China Space Station",
-   "link": "https://biztoc.com/x/f8602c4b80adedad?ref=rss",
-   "summary": "The Shenzhou-24 mission has successfully docked with the China Space Station (CSS), the China Manned Space Agency said on Wednesday. Three astronauts were launched into space on a Long March 2F rocket...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-25T04:46:22+00:00",
-   "tickers": []
-  },
-  {
-   "id": "db0e5e132459",
-   "title": "Protesters March on Alaska Airlines Headquarters After Airport ICE Arrests",
-   "link": "https://biztoc.com/x/ddd7939ab6dbd75c?ref=rss",
-   "summary": "Airport workers, union representatives, and community members are calling on Alaska Airlines to take action against U.S. Immigration and Customs Enforcement (ICE) following the detention of two passengers at Seattle-Tacoma International Airport over the weekend. Demonstrators gathered Tuesday in…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-25T04:46:14+00:00",
-   "tickers": [
-    "ICE"
-   ]
-  },
-  {
-   "id": "33cd735eb504",
-   "title": "Tyson Foods officer sells over $1.3 million in company stock",
-   "link": "https://www.investing.com/news/insider-trading-news/tyson-foods-officer-sells-over-13-million-in-company-stock-93CH-5049705",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-25T04:46:13+00:00",
-   "tickers": [
-    "TSN"
-   ]
-  },
-  {
-   "id": "8ab12bdaf440",
-   "title": "Jacob Zuma's Comeback Deepens ANC's South Africa Crisis",
-   "link": "https://biztoc.com/x/f974f1a64cdf5262?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-25T04:46:08+00:00",
-   "tickers": []
-  },
-  {
-   "id": "aac4ca938dad",
-   "title": "Cramer Says Musk Or Huang's Removal Could 'Set Us Back'",
-   "link": "https://biztoc.com/x/73d6d801ea4d3da8?ref=rss",
-   "summary": "Jim Cramer says removing Elon Musk or Jensen Huang from their roles could hurt U.S. economic growth and national security.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-25T04:45:57+00:00",
-   "tickers": []
-  },
-  {
-   "id": "563207ba8dcd",
-   "title": "Energy Transfer: The Growth Story Is Getting Better",
-   "link": "https://seekingalpha.com/article/4971688-energy-transfer-stock-growth-story-getting-better?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-25T04:43:27+00:00",
-   "tickers": []
-  },
-  {
-   "id": "615450c368e8",
-   "title": "Everus Construction: A More Constructive Stance Here",
-   "link": "https://seekingalpha.com/article/4971687-everus-construction-a-more-constructive-stance-here?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-25T04:43:13+00:00",
-   "tickers": []
-  },
-  {
-   "id": "cc031253fb13",
-   "title": "Under Armour: Cheap On Sales, But The Turnaround Is Not Cheap (Hold)",
-   "link": "https://seekingalpha.com/article/4971686-under-armour-stock-cheap-on-sales-but-turnaround-not-cheap-hold?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-25T04:41:55+00:00",
-   "tickers": [
-    "UAA"
-   ]
-  },
-  {
-   "id": "b31d952da8a1",
-   "title": "Medtronic: 3 Key Takeaways for Long-Term Investors",
-   "link": "https://www.nasdaq.com/articles/medtronic-3-key-takeaways-long-term-investors",
-   "summary": "Key PointsMedtronic delivered 6.5% organic revenue growth in the second quarter.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-25T04:40:08+00:00",
-   "tickers": [
-    "MDT"
-   ]
-  },
-  {
-   "id": "4e507c32a7d0",
-   "title": "BlackRock, IFM may cut offer for Stack's Asia-Pacific data centers - report",
-   "link": "https://seekingalpha.com/news/4676429-blackrock-ifm-may-cut-offer-for-stacks-asia-pacific-data-centers---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-25T04:40:05+00:00",
-   "tickers": [
-    "BLK"
-   ]
-  },
-  {
-   "id": "86744a473abe",
-   "title": "iSpecimen Inc. Announces 1-for-6 Reverse Stock Split",
-   "link": "https://www.nasdaq.com/articles/ispecimen-inc-announces-1-6-reverse-stock-split",
-   "summary": "iSpecimen Inc. filed a Certificate of Amendment to its Fifth Amended and Restated Certificate of Incorporation with the Secretary of State of the State of Delaware to effect a reverse stock split of its common stock at a ratio of 1-for-6, effective as of 4:30 p.m. Eastern Time on",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "dividend",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-11-25T04:38:48+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b83845c29519",
-   "title": "Restaurant Brands International Inc. Announces Completion of Senior Secured Notes Offering",
-   "link": "https://www.nasdaq.com/articles/restaurant-brands-international-inc-announces-completion-senior-secured-notes-offering",
-   "summary": "On November 24, 2026, Restaurant Brands International Inc. announced that its subsidiaries, 1011778 B.C. Unlimited Liability Company and New Red Finance, Inc., completed the previously announced public offering of $500.0 million aggregate principal amount of their 6.000% Senior S",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "offering",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-11-25T04:38:48+00:00",
-   "tickers": [
-    "QSR"
-   ]
-  },
-  {
-   "id": "7321ca4c5e58",
-   "title": "AIM ImmunoTech Inc. Announces Non-Renewal of Employment Agreement for Chief Operating Officer, Executive Director for Governmental Relations, General Counsel, and Secretary Peter W. Rodino III",
-   "link": "https://www.nasdaq.com/articles/aim-immunotech-inc-announces-non-renewal-employment-agreement-chief-operating-officer",
-   "summary": "On November 20, 2026, AIM ImmunoTech Inc. notified Peter W. Rodino III, its Chief Operating Officer, Executive Director for Governmental Relations, General Counsel, and Secretary, that the Company will not renew his Employment Agreement dated as of March 24, 2021, as amended.",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-25T04:38:47+00:00",
-   "tickers": []
-  },
-  {
-   "id": "2a87edf19b2a",
-   "title": "FTAI Aviation: 3 Key Takeaways for Long-Term Investors",
-   "link": "https://www.nasdaq.com/articles/ftai-aviation-3-key-takeaways-long-term-investors",
-   "summary": "Key PointsAerospace Products produced 311 CFM56 engine modules in the third quarter.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-25T04:38:15+00:00",
-   "tickers": [
-    "FTAI"
-   ]
-  },
-  {
-   "id": "ab0b00f7a804",
-   "title": "From Backyard Pool to a Waterpark at Home: How iGarden Is Bringing AI to Outdoor Living",
-   "link": "https://www.prnewswire.com/news-releases/from-backyard-pool-to-a-waterpark-at-home-how-igarden-is-bringing-ai-to-outdoor-living-302950176.html",
-   "summary": "AI for Your Garden. Waterpark at Home. iGarden is transforming outdoor living through intelligent pool care, water entertainment and its Blue, Green & Energy ecosystem. LYON, France, Nov. 25, 2026 /PRNewswire/ -- A product at a professional pool trade show attracted an unexpected...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-11-25T04:38:00+00:00",
-   "tickers": [
-    "POOL"
-   ]
-  },
-  {
-   "id": "f03b760ec098",
-   "title": "Burry says Nvidia's 'short thesis' still valid; adds to JD.com, Tencent, BYD",
-   "link": "https://seekingalpha.com/news/4676427-burry-says-nvidias-short-thesis-still-valid-adds-to-jdcom-tencent-byd?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-25T04:37:07+00:00",
-   "tickers": [
-    "BYD"
-   ]
   }
  ],
  "ticker_names": {
   "JIRE": "JPMorgan International Research Enhanced Equity ETF",
   "DIA": "SPDR Dow Jones Industrial Average ETF",
   "BTC": "Grayscale Bitcoin Mini Trust (BTC)",
-  "QSR": "Restaurant Brands International",
+  "TSM": "Taiwan Semiconductor Manufacturing",
   "CRDO": "Credo Technology Group Holding",
   "CTSH": "Cognizant Technology Solutions",
   "MUB": "iShares National Muni Bond ETF",
@@ -8815,6 +8804,7 @@
   "BKNG": "Booking Holdings",
   "COST": "Costco Wholesale",
   "J": "Jacobs Solutions",
+  "JPM": "JPMorgan Chase &",
   "KDP": "Keurig Dr Pepper",
   "LOW": "Lowe's Companies",
   "NSC": "Norfolk Southern",
@@ -8829,7 +8819,6 @@
   "KMB": "Kimberly-Clark",
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
-  "FTAI": "FTAI Aviation",
   "JOBY": "Joby Aviation",
   "KO": "The Coca-Cola",
   "OC": "Owens Corning",
@@ -8839,7 +8828,6 @@
   "RBC": "RBC Bearings",
   "SPY": "SPDR S&P 500",
   "STT": "State Street",
-  "UAA": "Under Armour",
   "GOOGL": "Google Cloud",
   "TSLA": "Supercharger",
   "NVDA": "Grace Hopper",
@@ -8848,7 +8836,6 @@
   "CAT": "Caterpillar",
   "DLTR": "Dollar Tree",
   "EME": "EMCOR Group",
-  "TSN": "Tyson Foods",
   "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
   "BA": "The Boeing",
@@ -8864,7 +8851,6 @@
   "C": "Citigroup",
   "CME": "CME Group",
   "DCI": "Donaldson",
-  "MDT": "Medtronic",
   "SBUX": "Starbucks",
   "NWSA": "News Corp",
   "APP": "AppLovin",
@@ -8896,7 +8882,6 @@
   "SPCX": "SpaceX",
   "KKR": "KKR &",
   "IONQ": "IonQ",
-  "POOL": "Pool",
   "KLAC": "KLA"
  }
 }
