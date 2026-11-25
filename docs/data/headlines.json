@@ -1,8 +1,38 @@
 {
- "generated": "2026-11-25T20:36:16.933455+00:00",
+ "generated": "2026-11-25T20:43:22.517540+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "4a6af5f8873e",
+   "title": "A Rumored $300 Million Score on Nvidia’s Stock Surge Isn’t Backed by Trading Records",
+   "link": "https://www.nytimes.com/2026/11/25/business/nvidia-stock-insider-trading-rumor.html",
+   "summary": "Three data companies say they have no evidence to support the online claim that insider trading generated a 9,000 percent return.",
+   "article_text": "",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "positive",
+   "domain": "nytimes.com",
+   "published": "2026-11-25T20:40:45+00:00",
+   "tickers": []
+  },
+  {
+   "id": "34334df6d248",
+   "title": "Dow turns positive on the day as Wall Street attempts to recover from sell-off: Live updates",
+   "link": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
+   "summary": "Wall Street is coming off a losing session for the S&P 500 and Nasdaq Composite.",
+   "article_text": "",
+   "source": "CNBC Top",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-11-25T20:40:06+00:00",
+   "tickers": [
+    "NDAQ"
+   ]
+  },
   {
    "id": "3485cd27bb33",
    "title": "Lukoil to Sell Foreign Assets, but Not to Kushner and Witkoff Associates",
@@ -30,22 +60,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-11-25T20:31:29+00:00",
    "tickers": []
-  },
-  {
-   "id": "34334df6d248",
-   "title": "Dow turns positive on the day as Wall Street attempts to recover from sell-off: Live updates",
-   "link": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
-   "summary": "Wall Street is coming off a losing session for the S&P 500 and Nasdaq Composite.",
-   "article_text": "",
-   "source": "CNBC Top",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "cnbc.com",
-   "published": "2026-11-25T20:30:46+00:00",
-   "tickers": [
-    "NDAQ"
-   ]
   },
   {
    "id": "0e6fdad96dc6",
@@ -350,20 +364,6 @@
    "sentiment": "positive",
    "domain": "biztoc.com",
    "published": "2026-11-25T20:27:37+00:00",
-   "tickers": []
-  },
-  {
-   "id": "4a6af5f8873e",
-   "title": "Rumor About Big Score on Nvidia Stock Surge Is Not Backed by Trading Records",
-   "link": "https://www.nytimes.com/2026/11/25/business/nvidia-stock-insider-trading-rumor.html",
-   "summary": "Two data analytics firms say they have no evidence to support the online claim that insider trading generated a $300 million return.",
-   "article_text": "",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "positive",
-   "domain": "nytimes.com",
-   "published": "2026-11-25T20:27:35+00:00",
    "tickers": []
   },
   {
