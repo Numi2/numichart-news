@@ -1,8 +1,340 @@
 {
- "generated": "2026-11-25T02:20:43.249305+00:00",
+ "generated": "2026-11-25T02:30:50.627071+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "36f2d51b29ae",
+   "title": "Australian inflation heats up in October, core hits two-year high",
+   "link": "https://www.investing.com/news/economy-news/australian-inflation-heats-up-in-october-core-hits-twoyear-high-5049563",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-25T02:24:15+00:00",
+   "tickers": []
+  },
+  {
+   "id": "62cbce905276",
+   "title": "1 Reason I Haven’t Bought Oklo Stock -- and Probably Never Will",
+   "link": "https://www.nasdaq.com/articles/1-reason-i-havent-bought-oklo-stock-and-probably-never-will",
+   "summary": "Key PointsOklo's business model differs from other SMR stocks.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T02:20:02+00:00",
+   "tickers": [
+    "OKLO",
+    "SMR"
+   ]
+  },
+  {
+   "id": "1bf2acc8a33f",
+   "title": "CoreWeave executive Brian M. Venturo sells $261,611 in stock",
+   "link": "https://www.investing.com/news/insider-trading-news/coreweave-executive-brian-m-venturo-sells-261611-in-stock-93CH-5049560",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-25T02:19:54+00:00",
+   "tickers": [
+    "CRWV"
+   ]
+  },
+  {
+   "id": "5f067d940bb4",
+   "title": "Stocks Settle Mostly Lower on a Rout in Chipmakers and AI Stocks",
+   "link": "https://www.nasdaq.com/articles/stocks-settle-mostly-lower-rout-chipmakers-and-ai-stocks",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down by -0.50% on Tuesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.85%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -1.99%. December E-mini S&P futures (ESZ26 ) fell -0.52%, and December E-mini Nasdaq...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T02:17:35+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
+  },
+  {
+   "id": "eb90c5a30a0b",
+   "title": "Corn Closes Tuesday with Slight Gains",
+   "link": "https://www.nasdaq.com/articles/corn-closes-tuesday-slight-gains",
+   "summary": "Corn futures posted mostly higher trade on Tuesday, with nearby December down a tick and other contracts fractionally to 2 cents higher. The CmdtyView national average Cash Corn price was back up 2 cents at $4.03 1/2. EIA data will be released on Wednesday morning per the normal release, with...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T02:17:35+00:00",
+   "tickers": []
+  },
+  {
+   "id": "8c4960e65046",
+   "title": "Lawmaker Blasts Eviction Tied to AI Bot Error",
+   "link": "https://biztoc.com/x/ab8f89b68a22ccdb?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-25T02:16:22+00:00",
+   "tickers": []
+  },
+  {
+   "id": "904028755987",
+   "title": "CoreWeave general counsel sells $176k in stock for taxes",
+   "link": "https://www.investing.com/news/insider-trading-news/coreweave-general-counsel-sells-176k-in-stock-for-taxes-93CH-5049557",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-25T02:16:15+00:00",
+   "tickers": [
+    "CRWV"
+   ]
+  },
+  {
+   "id": "0bc3e8f84cdb",
+   "title": "Block CFO Amrita Ahuja sells $946,050 in company stock",
+   "link": "https://www.investing.com/news/insider-trading-news/block-cfo-amrita-ahuja-sells-946050-in-company-stock-93CH-5049556",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-25T02:15:59+00:00",
+   "tickers": [
+    "SQ"
+   ]
+  },
+  {
+   "id": "bdb8b31ab9ec",
+   "title": "CoreWeave officer Brannin McBee sells $163,378 in stock",
+   "link": "https://www.investing.com/news/insider-trading-news/coreweave-officer-brannin-mcbee-sells-163378-in-stock-93CH-5049555",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-25T02:15:57+00:00",
+   "tickers": [
+    "CRWV"
+   ]
+  },
+  {
+   "id": "63f0ee905380",
+   "title": "Talen Energy officer sells $685,921 in company stock",
+   "link": "https://www.investing.com/news/insider-trading-news/talen-energy-officer-sells-685921-in-company-stock-93CH-5049554",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-25T02:15:44+00:00",
+   "tickers": [
+    "TLN"
+   ]
+  },
+  {
+   "id": "a574c6cda79b",
+   "title": "BBVA Argentina ADR earnings missed by $0.31, revenue fell short of estimates",
+   "link": "https://www.investing.com/news/earnings/bbva-argentina-adr-earnings-missed-by-031-revenue-fell-short-of-estimates-5049553",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-11-25T02:15:42+00:00",
+   "tickers": []
+  },
+  {
+   "id": "216b6676d28a",
+   "title": "Utah Drops Criminal Charges Against Kalshi and Founders After Company Exits State",
+   "link": "https://biztoc.com/x/78a8a5d982f4ac9a?ref=rss",
+   "summary": "Utah moved to dismiss criminal charges against Kalshi and individual defendants Monday (Nov. 23) after the company blocked the state’s residents from using its prediction market, the Office of the Utah Attorney General said in a Tuesday (Nov. 24) press release. The AG asked a court to dismiss the…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-11-25T02:15:03+00:00",
+   "tickers": []
+  },
+  {
+   "id": "58944de29090",
+   "title": "Investors shut out of Anthropic's IPO may be the lucky ones",
+   "link": "https://biztoc.com/x/0eadd88ac5b64375?ref=rss",
+   "summary": "Almost everyone has been turned away at the door at least once. The concert sells out, or the restaurant runs out of tables, and you head home, certain the people inside got the better night. Every so often, the ones who got in walk out wishing they had stayed home. Wall Street is living that…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "offering",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-25T02:15:02+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e39073091cfe",
+   "title": "He Files for Social Security 7 Months Before Turning 62 to Get Ahead of the Line. His Application Is Too Early, and Refiling Late Costs Him About $6,300 in Missed Checks",
+   "link": "https://biztoc.com/x/65974b80ca592781?ref=rss",
+   "summary": "The post He Files for Social Security 7 Months Before Turning 62 to Get Ahead of the Line. His Application Is Too Early, and Refiling Late Costs Him About $6,300 in Missed Checks appeared first on 24/7 Wall St.. Picture a 61-year-old with a mid-May birthday who mails in a Social Security…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-11-25T02:14:52+00:00",
+   "tickers": []
+  },
+  {
+   "id": "342f9b9d8e9c",
+   "title": "The Deadly Problem the Car Industry Can’t Solve: Holdouts Who Won’t Buckle Up",
+   "link": "https://biztoc.com/x/4a0b39f0830cbe78?ref=rss",
+   "summary": "Despite awareness campaigns and new tech, carmakers and regulators can’t get everyone to use seat belts—a factor in 10,000 crash deaths a year.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "positive",
+   "domain": "biztoc.com",
+   "published": "2026-11-25T02:14:50+00:00",
+   "tickers": []
+  },
+  {
+   "id": "2e7ccd350c09",
+   "title": "Trump open to pardoning Jensen Huang if needed: NY Post",
+   "link": "https://biztoc.com/x/60fa391b884531be?ref=rss",
+   "summary": "President Donald Trump said he would be willing to pardon reinstated Nvidia CEO Jensen Huang if needed after Huang appears before Congress next week, according to an exclusive interview with the New York Post. Huang's reinstatement followed Trump's intervention with Nvidia's board, including a…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-25T02:14:49+00:00",
+   "tickers": [
+    "POST"
+   ]
+  },
+  {
+   "id": "ff3f7ab5aeda",
+   "title": "Shein to pay $100mn to resolve US allegations that it deceived customers",
+   "link": "https://biztoc.com/x/fd7141157aae04af?ref=rss",
+   "summary": "Regulators claim cotton that the retailer’s suppliers said was US-grown was harvested in China",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-25T02:14:44+00:00",
+   "tickers": []
+  },
+  {
+   "id": "2ef3f637debf",
+   "title": "Miss a $200,000 RMD and the IRS Takes $50,000. Fix It in Time and the Penalty Drops to $20,000",
+   "link": "https://biztoc.com/x/8d9b1916fd56937d?ref=rss",
+   "summary": "The post Miss a $200,000 RMD and the IRS Takes $50,000. Fix It in Time and the Penalty Drops to $20,000 appeared first on 24/7 Wall St.. Saving for retirement in a traditional IRA or 401(k) might seem like a good idea when you’re in the midst of your career. But in reality, it can backfire on you.…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-11-25T02:14:40+00:00",
+   "tickers": [
+    "RMD"
+   ]
+  },
+  {
+   "id": "40c76f76a30b",
+   "title": "This Nasdaq ETF Pays a 19% Yield Without Writing a Single Covered Call. Here’s How",
+   "link": "https://biztoc.com/x/7128dbc999c08e9c?ref=rss",
+   "summary": "The post This Nasdaq ETF Pays a 19% Yield Without Writing a Single Covered Call. Here’s How appeared first on 24/7 Wall St.. Whether you’re selling covered calls or cash-secured puts, the trade-off goes beyond sacrificing potential upside or accepting downside risk in exchange for income. At a…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-25T02:14:39+00:00",
+   "tickers": [
+    "NDAQ"
+   ]
+  },
+  {
+   "id": "9f647e42ac4c",
+   "title": "Japan stocks’ rebound threatened as retail margin losses balloon",
+   "link": "https://biztoc.com/x/c2eeddddac84ce12?ref=rss",
+   "summary": "Unrealized losses on long margin positions averaged 19.7% on Tuesday, hovering near the 20% level associated with a heightened risk of forced selling.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "negative",
+   "domain": "biztoc.com",
+   "published": "2026-11-25T02:14:38+00:00",
+   "tickers": []
+  },
+  {
+   "id": "de95f08259eb",
+   "title": "Stocks retreat as AI rebound stumbles, tariff threats loom",
+   "link": "https://biztoc.com/x/521d78e7a79fede6?ref=rss",
+   "summary": "",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-25T02:14:36+00:00",
+   "tickers": []
+  },
+  {
+   "id": "0e5d26b0bcbe",
+   "title": "Jensen Huang’s Vision for the New Nvidia Is a Lot Like the Old One",
+   "link": "https://biztoc.com/x/3dd8586046d5ac52?ref=rss",
+   "summary": "As Nvidia’s co-founder resumes control, the company is working to convince the market it’s business as usual while facing fresh challenges.",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-25T02:14:28+00:00",
+   "tickers": []
+  },
   {
    "id": "ca770e8a2829",
    "title": "Best Dividend Kings: November 2026",
@@ -34,6 +366,20 @@
    ]
   },
   {
+   "id": "e85db8b983ed",
+   "title": "RenovoRx Average Analyst Price Target Increased by 19.30% to $8.67",
+   "link": "https://www.nasdaq.com/articles/renovorx-average-analyst-price-target-increased-1930-867",
+   "summary": "The average one-year price target for RenovoRx (NASDAQCM:RNXT) has been revised to $8.67 / share. This is an increase of 19.30% from the prior estimate of $7.27 dated November 6, 2026. These figures represent aggregate analyst targets compiled as of November 20, 2026, and do not",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "analyst",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T02:10:57+00:00",
+   "tickers": []
+  },
+  {
    "id": "1fcfcb3d5f4e",
    "title": "Trump open to pardoning Jensen Huang if needed: NY Post",
    "link": "https://www.cnbc.com/2026/11/25/trump-huang-pardon-politics.html",
@@ -47,6 +393,66 @@
    "published": "2026-11-25T02:09:45+00:00",
    "tickers": [
     "POST"
+   ]
+  },
+  {
+   "id": "0af043c941c7",
+   "title": "GoodRx Holdings, Inc. Reports Third Quarter 2026 Results, Restates Prior Periods, and Expects to Regain Nasdaq Compliance",
+   "link": "https://www.nasdaq.com/articles/goodrx-holdings-inc-reports-third-quarter-2026-results-restates-prior-periods-and-expects",
+   "summary": "GoodRx Holdings, Inc. reported its third quarter 2026 financial results, with revenue increasing 11% year-over-year to $218.4 million compared to $196.0 million. Net income for the quarter was $16.4 million compared to $1.1 million in the prior year period. The company's Pharma D",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T02:08:57+00:00",
+   "tickers": [
+    "NDAQ"
+   ]
+  },
+  {
+   "id": "5bda6b515813",
+   "title": "Euro Tech Holdings Company Limited Reports Results of Annual Meeting",
+   "link": "https://www.nasdaq.com/articles/euro-tech-holdings-company-limited-reports-results-annual-meeting",
+   "summary": "On November 19, 2026, Euro Tech Holdings Company Limited held its Annual Meeting of Shareholders at the Charterhouse Causeway Bay, 209-219 Wanchai Road, Hong Kong, SAR China. Shareholders voted on the election of seven individuals to the Board of Directors and a proposal to adjou",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T02:08:57+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f1f8a62ee03c",
+   "title": "Banco BBVA Argentina S.A. submitted financial statements as of September 30, 2026",
+   "link": "https://www.nasdaq.com/articles/banco-bbva-argentina-sa-submitted-financial-statements-september-30-2026",
+   "summary": "Banco BBVA Argentina S.A. submitted its financial statements as of September 30, 2026, which were approved by the Board of Directors on November 24, 2026, as per Minutes No. 5382, in compliance with applicable laws and the regulations of the CNV and BYMA.",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T02:08:48+00:00",
+   "tickers": []
+  },
+  {
+   "id": "8569ae59a1c4",
+   "title": "Arista Networks president sells $1.74 million in stock",
+   "link": "https://www.investing.com/news/insider-trading-news/arista-networks-president-sells-174-million-in-stock-93CH-5049545",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-25T02:04:41+00:00",
+   "tickers": [
+    "ANET"
    ]
   },
   {
@@ -64,6 +470,20 @@
    "tickers": [
     "AMBA"
    ]
+  },
+  {
+   "id": "5085e79da976",
+   "title": "Janus International Group Consensus Price Target Lowered by 27.76% to $5.47",
+   "link": "https://www.nasdaq.com/articles/janus-international-group-consensus-price-target-lowered-2776-547",
+   "summary": "The average one-year price target for Janus International Group (NYSE:JBI) has been revised to $5.47 / share. This is a decrease of 27.76% from the prior estimate of $7.57 dated November 6, 2026. These figures represent aggregate analyst targets compiled by Fintel, rather than a",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "analyst",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T02:02:11+00:00",
+   "tickers": []
   },
   {
    "id": "b927964d42c7",
@@ -107,6 +527,20 @@
    "sentiment": "neutral",
    "domain": "biztoc.com",
    "published": "2026-11-25T02:01:51+00:00",
+   "tickers": []
+  },
+  {
+   "id": "40273ebe3eef",
+   "title": "Owlet Consensus Price Target Decreased by 30.77% to $9.18",
+   "link": "https://www.nasdaq.com/articles/owlet-consensus-price-target-decreased-3077-918",
+   "summary": "The average one-year price target for Owlet (NYSE:OWLT) has been revised to $9.18 / share. This represents a decrease of 30.77% from the prior estimate of $13.26 dated November 6, 2026. These figures are aggregate analyst targets and do not constitute a recommendation by Fintel.",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "analyst",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T02:01:38+00:00",
    "tickers": []
   },
   {
@@ -171,6 +605,23 @@
    "published": "2026-11-25T02:00:55+00:00",
    "tickers": [
     "PLTR"
+   ]
+  },
+  {
+   "id": "17726b3b9dbc",
+   "title": "Seaport Global Initiates Coverage of BorgWarner with Buy Rating",
+   "link": "https://www.nasdaq.com/articles/seaport-global-initiates-coverage-borgwarner-buy-rating",
+   "summary": "Fintel reports that on November 24, 2026, Seaport Global initiated coverage of BorgWarner (NYSE:BWA) (DB:BGW) with a Buy recommendation.",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "analyst",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T02:00:45+00:00",
+   "tickers": [
+    "BWA",
+    "DB"
    ]
   },
   {
@@ -377,6 +828,78 @@
    "tickers": []
   },
   {
+   "id": "d8ee1516af0f",
+   "title": "Soybeans Hold onto Tuesday Gains, as Meal Leads the Charge and Oil Provides the Pressure",
+   "link": "https://www.nasdaq.com/articles/soybeans-hold-tuesday-gains-meal-leads-charge-and-oil-provides-pressure",
+   "summary": "Soybeans posted Tuesday gains of 4 ¼ to 8 ¾ cents across the board on Tuesday. The cmdtyView national average Cash Bean price was up 5 3/4 cents at $11.76. Soymeal futures were $5.50 to $7.30 higher, with Soy Oil futures down 94 to 125 points. Wednesday will have normal...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "legal",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T01:58:53+00:00",
+   "tickers": []
+  },
+  {
+   "id": "0a83934fe740",
+   "title": "Dollar Falls With T-Note Yields",
+   "link": "https://www.nasdaq.com/articles/dollar-falls-t-note-yields",
+   "summary": "The dollar index (DXY00 ) fell by -0.48% on Tuesday. The dollar was undercut Tuesday by falling T-note yields, after the 10-year T-note yield dropped to a 2-week low of 4.88%. Renewed trade tensions also weighed on the dollar after the Wall Street Journal reported that the US will soon...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T01:58:52+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f66f5abf8b1c",
+   "title": "The Children's Place, Inc. Files Intellectual Property Assignment Agreement with Mithaq Capital SPC",
+   "link": "https://www.nasdaq.com/articles/childrens-place-inc-files-intellectual-property-assignment-agreement-mithaq-capital-spc",
+   "summary": "The Children's Place, Inc. has filed an Amendment No. 1 to its Current Report on Form 8-K solely to file the Intellectual Property Assignment Agreement as Exhibit 10.1. The agreement, dated as of November 22, 2026, was entered into by and among the Company, the other assignors pa",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T01:58:34+00:00",
+   "tickers": []
+  },
+  {
+   "id": "0ee5700de2fd",
+   "title": "Nixxy, Inc. Announces 1-for-20 Reverse Stock Split and Corresponding Share Reduction",
+   "link": "https://www.nasdaq.com/articles/nixxy-inc-announces-1-20-reverse-stock-split-and-corresponding-share-reduction",
+   "summary": "On November 19, 2026, Nixxy, Inc. filed a certificate of change with the Secretary of State of the State of Nevada to effect a 1-for-20 reverse stock split of its common stock. The reverse stock split became effective at 12:01 a.m., Eastern Time, on November 20, 2026, and the com",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "dividend",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T01:58:33+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c9ab88484108",
+   "title": "Pulmatrix, Inc. Receives Nasdaq Non-Compliance Notice and Updates Board Composition for Pending Eos Merger",
+   "link": "https://www.nasdaq.com/articles/pulmatrix-inc-receives-nasdaq-non-compliance-notice-and-updates-board-composition-pending",
+   "summary": "Pulmatrix, Inc. received a letter on November 20, 2026, from the Listing Qualifications Department of the Nasdaq Stock Market indicating that the company is no longer in compliance with the minimum stockholders' equity requirement for continued listing on the Nasdaq Capital Marke",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T01:58:33+00:00",
+   "tickers": [
+    "NDAQ"
+   ]
+  },
+  {
    "id": "a3e68019316f",
    "title": "SoftBank drops 14% as Wall Street AI sell-off ripples across Asian tech names",
    "link": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html",
@@ -389,6 +912,22 @@
    "domain": "cnbc.com",
    "published": "2026-11-25T01:57:29+00:00",
    "tickers": []
+  },
+  {
+   "id": "2d3ee6fdb180",
+   "title": "Chimera Investment Consensus Price Target Decreased by 33.13% to $9.44",
+   "link": "https://www.nasdaq.com/articles/chimera-investment-consensus-price-target-decreased-3313-944",
+   "summary": "The average one-year price target for Chimera Investment (NYSE:CIM) (DB:4CR0) has been revised to $9.44 / share. This represents a decrease of 33.13% from the prior estimate of $14.11 dated November 6, 2026. These figures are aggregate analyst targets compiled by Fintel and do no",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "analyst",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-25T01:55:55+00:00",
+   "tickers": [
+    "DB"
+   ]
   },
   {
    "id": "e681a5056cfd",
@@ -474,39 +1013,6 @@
    "category": "stocks",
    "type": "downgrade",
    "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-11-25T01:45:37+00:00",
-   "tickers": []
-  },
-  {
-   "id": "5f067d940bb4",
-   "title": "Stocks Settle Mostly Lower on a Rout in Chipmakers and AI Stocks",
-   "link": "https://www.nasdaq.com/articles/stocks-settle-mostly-lower-rout-chipmakers-and-ai-stocks",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down by -0.50% on Tuesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.85%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -1.99%. December E-mini S&P futures (ESZ26 ) fell -0.52%, and December E-mini Nasdaq...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-11-25T01:45:37+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
-   ]
-  },
-  {
-   "id": "eb90c5a30a0b",
-   "title": "Corn Closes Tuesday with Slight Gains",
-   "link": "https://www.nasdaq.com/articles/corn-closes-tuesday-slight-gains",
-   "summary": "Corn futures posted mostly higher trade on Tuesday, with nearby December down a tick and other contracts fractionally to 2 cents higher. The CmdtyView national average Cash Corn price was back up 2 cents at $4.03 1/2. EIA data will be released on Wednesday morning per the normal release, with...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
    "domain": "nasdaq.com",
    "published": "2026-11-25T01:45:37+00:00",
    "tickers": []
@@ -941,20 +1447,6 @@
    "sentiment": "positive",
    "domain": "nasdaq.com",
    "published": "2026-11-25T01:35:03+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d8ee1516af0f",
-   "title": "Soybeans Hold onto Tuesday Gains, as Meal Leads the Charge and Oil Provides the Pressure",
-   "link": "https://www.nasdaq.com/articles/soybeans-hold-tuesday-gains-meal-leads-charge-and-oil-provides-pressure",
-   "summary": "Soybeans posted Tuesday gains of 4 ¼ to 8 ¾ cents across the board on Tuesday. The cmdtyView national average Cash Bean price was up 5 3/4 cents at $11.76. Soymeal futures were $5.50 to $7.30 higher, with Soy Oil futures down 94 to 125 points. Wednesday will have normal...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-11-25T01:35:02+00:00",
    "tickers": []
   },
   {
@@ -2458,20 +2950,6 @@
    ]
   },
   {
-   "id": "0a83934fe740",
-   "title": "Dollar Falls With T-Note Yields",
-   "link": "https://www.nasdaq.com/articles/dollar-falls-t-note-yields",
-   "summary": "The dollar index (DXY00 ) fell by -0.48% on Tuesday. The dollar was undercut Tuesday by falling T-note yields, after the 10-year T-note yield dropped to a 2-week low of 4.88%. Renewed trade tensions also weighed on the dollar after the Wall Street Journal reported that the US will soon...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-11-25T00:51:37+00:00",
-   "tickers": []
-  },
-  {
    "id": "fcd3872bef57",
    "title": "Australia CPI inflation rises above forecasts in Oct",
    "link": "https://www.investing.com/news/economic-indicators/australia-cpi-inflation-rises-above-forecasts-in-oct-5049453",
@@ -2876,7 +3354,7 @@
    "title": "Stock futures slip as traders await key inflation report, assess tech sell-off: Live updates",
    "link": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
    "summary": "Wall Street is coming off a losing session for the S&P 500 and Nasdaq Composite.",
-   "article_text": "Stock market today: Live updates Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Traders work on the floor at the New York Stock Exchange (NYSE) in New York City, US, November 20, 2026. Brendan Mcdermid | Reuters U.S. stock futures were marginally lower on Tuesday night, following a slide in tech stocks during the regular session that drove the S&P 500 and Nasdaq Composite lower. Traders also looked ahead to fresh inflation data. Dow Jones Industrial Average futures lost 68 points, or 0.1%, while S&P 500 futures declined 0.2%. Nasdaq-100 futures traded down 0.3%. In Asia, South Korea's Kospi plunged 4.49% on Wednesday, while Japan's Nikkei 225 fell 1.41%. Australia's S&P/ASX 200 was down 0.41%. Ambarella plunged 37% in U.S. extended trading after the designer of low-power AI vision and video chips issued fourth quarter revenue guidance of $70 million to $75 million. That fell massively short of the $112 million analysts polled by LSEG were expecting. Wall Street is coming off a losing session for the S&P 500 and Nasdaq Composite , after tech stocks gave back some of their gains from the prior session as Nvidia sank and Anthropic fell below its IPO price. The broader index fell 0.5% and the Nasdaq slid 1.5%. On the other hand, the 30-stock Dow which has less exposure to tech, climbed more than 400 points, or 0.9%. The choppy trading action was just the latest in a volatile month. Even before the ouster and reinstatement of Nvidia's Jensen Huang, and Democrats' sweep in the midterm elections, investors were deliberating the future of the artificial intelligence build-out amid a worsening macroeconomic outlook. \"Let's remember that the sell-off in the AI ecosystem predated the news about Huang and Nvidia,\" Liz Ann Sonders, chief investment strategist at Schwab Center for Financial Research, told CNBC's \" Closing Bell \" on Tuesday. \"The concerns about capex, the data center build-out, the spread between the cost of capital and return on invested capital, the bifurcation that's happening in the market now between sort of profitable segments of the market and unprofitable,\" she added. \"I think that is the bigger, more aggregate story.\" Traders are turning their attention toward the personal consumption expenditures price index for October, due on Wednesday morning. Economists polled by Dow Jones see the headline reading rising by 0.3% for the month and 3.8% annually. Weekly jobless claims are also due, arriving a day earlier than usual as U.S. markets will be closed on Thursday for the Thanksgiving holiday. 2 Hours Ago Asia tech stocks tumble after Wall Street AI sell-off overnight Asian technology stocks fell sharply Wednesday, tracking overnight losses in their U.S. peers as concerns over the artificial intelligence investment boom continued to weigh on investor sentiment. Japan's tech conglomerate SoftBank Group lost 9.55%. Advantest plunged 12.54% while Tokyo Electron shed over 10%. Lasertec similarly plunged 10.45%. South Korean chip heavyweights Samsung Electronics and SK Hynix fell 7.31% and 6.99%, respectively, while LG Innotek shed 6.68%. The sell-off followed a decline in the tech-heavy Nasdaq Composite overnight, as Nvidia sank and Anthropic fell below its initial public offering price. —Lee Ying Shan 2 Hours Ago South Korea's Kospi leads declines as Asia markets open lower Asia-Pacific markets opened lower on Wednesday, with South Korean stocks leading declines. The country's benchmark Kospi plunged 4.49%, while the small-cap Kosdaq declined 2.97%. Japan's Nikkei 225 fell 1.41% and the Topix traded 0.46% lower. Australia's S&P/ASX 200 was down 0.41%. — Lee Ying Shan 3 Hours Ago Asia-Pacific markets set for subdued open as Nvidia-led tech rally loses steam Asia-Pacific markets were set to open mixed Wednesday, after Wall Street's technology rally lost momentum with Nvidia and other artificial intelligence-linked stocks declining overnight. Futures for Japan's Nikkei 225 in Chicago were at 57,465 while in Osaka they were last at 57,370 compared with the index's previous close of 58,644.63. Futures for Hong Kong's",
+   "article_text": "Stock market today: Live updates Skip Navigation Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Traders work on the floor at the New York Stock Exchange (NYSE) in New York City, US, November 20, 2026. Brendan Mcdermid | Reuters U.S. stock futures were marginally lower on Tuesday night, following a slide in tech stocks during the regular session that drove the S&P 500 and Nasdaq Composite lower. Traders also looked ahead to fresh inflation data. Dow Jones Industrial Average futures lost 68 points, or 0.1%, while S&P 500 futures declined 0.2%. Nasdaq-100 futures traded down 0.3%. In Asia, South Korea's Kospi plunged 4.49% on Wednesday, while Japan's Nikkei 225 fell 1.41%. Australia's S&P/ASX 200 was down 0.41%. Ambarella plunged 37% in U.S. extended trading after the designer of low-power AI vision and video chips issued fourth quarter revenue guidance of $70 million to $75 million. That fell massively short of the $112 million analysts polled by LSEG were expecting. Wall Street is coming off a losing session for the S&P 500 and Nasdaq Composite , after tech stocks gave back some of their gains from the prior session as Nvidia sank and Anthropic fell below its IPO price. The broader index fell 0.5% and the Nasdaq slid 1.5%. On the other hand, the 30-stock Dow which has less exposure to tech, climbed more than 400 points, or 0.9%. The choppy trading action was just the latest in a volatile month. Even before the ouster and reinstatement of Nvidia's Jensen Huang, and Democrats' sweep in the midterm elections, investors were deliberating the future of the artificial intelligence build-out amid a worsening macroeconomic outlook. \"Let's remember that the sell-off in the AI ecosystem predated the news about Huang and Nvidia,\" Liz Ann Sonders, chief investment strategist at Schwab Center for Financial Research, told CNBC's \" Closing Bell \" on Tuesday. \"The concerns about capex, the data center build-out, the spread between the cost of capital and return on invested capital, the bifurcation that's happening in the market now between sort of profitable segments of the market and unprofitable,\" she added. \"I think that is the bigger, more aggregate story.\" Traders are turning their attention toward the personal consumption expenditures price index for October, due on Wednesday morning. Economists polled by Dow Jones see the headline reading rising by 0.3% for the month and 3.8% annually. Weekly jobless claims are also due, arriving a day earlier than usual as U.S. markets will be closed on Thursday for the Thanksgiving holiday. 2 Hours Ago Asia tech stocks tumble after Wall Street AI sell-off overnight Asian technology stocks fell sharply Wednesday, tracking overnight losses in their U.S. peers as concerns over the artificial intelligence investment boom continued to weigh on investor sentiment. Japan's tech conglomerate SoftBank Group lost 9.55%. Advantest plunged 12.54% while Tokyo Electron shed over 10%. Lasertec similarly plunged 10.45%. South Korean chip heavyweights Samsung Electronics and SK Hynix fell 7.31% and 6.99%, respectively, while LG Innotek shed 6.68%. The sell-off followed a decline in the tech-heavy Nasdaq Composite overnight, as Nvidia sank and Anthropic fell below its initial public offering price. —Lee Ying Shan 2 Hours Ago South Korea's Kospi leads declines as Asia markets open lower Asia-Pacific markets opened lower on Wednesday, with South Korean stocks leading declines. The country's benchmark Kospi plunged 4.49%, while the small-cap Kosdaq declined 2.97%. Japan's Nikkei 225 fell 1.41% and the Topix traded 0.46% lower. Australia's S&P/ASX 200 was down 0.41%. — Lee Ying Shan 3 Hours Ago Asia-Pacific markets set for subdued open as Nvidia-led tech rally loses steam Asia-Pacific markets were set to open mixed Wednesday, after Wall Street's technology rally lost momentum with Nvidia and other artificial intelligence-linked stocks declining overnight. Futures for Japan's Nikkei 225 in Chicago were at 57,465 while in Osaka they were last at 57,370 compared with the index's previous close of 58,644.63. Futures for Hong Kong's Hang Seng index last traded at 22,372 compared with the index's last close of 22,219.65. Australia's S&P/ASX 200 was down 0.29% — Lee Y",
    "source": "CNBC Top",
    "category": "markets",
    "type": "macro",
@@ -8403,469 +8881,6 @@
    "domain": "biztoc.com",
    "published": "2026-11-24T22:25:46+00:00",
    "tickers": []
-  },
-  {
-   "id": "b935699cebff",
-   "title": "From ‘Ocean’s Eleven’ to Singani 63: Inside Steven Soderbergh’s 14-Year Journey Building a Spirits Brand",
-   "link": "https://biztoc.com/x/da885101e4fc94ed?ref=rss",
-   "summary": "The Oscar-winning filmmaker’s Bolivian booze company began with a black-market bottle. Is it the one project he can’t finish?",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-24T22:25:43+00:00",
-   "tickers": []
-  },
-  {
-   "id": "61ccdd347114",
-   "title": "Shein to pay $100 million to settle claims it deceived customers",
-   "link": "https://biztoc.com/x/8021373ac34081c8?ref=rss",
-   "summary": "Shein has agreed to pay $100 million to settle allegations that the fast-fashion company harmed consumers by misleading them about its products and policies. The Federal Trade Commission alleges that the Singapore-based retailer made it hard for customers to resolve purchase problems, broke its…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-24T22:25:39+00:00",
-   "tickers": []
-  },
-  {
-   "id": "af62786c7ab4",
-   "title": "Trump's net approval hits a new low. One-quarter of his 2024 voters don't approve of his job handling",
-   "link": "https://biztoc.com/x/c5856bc36ea6f12b?ref=rss",
-   "summary": "The share of registered voters who approve of how Donald Trump is handling his job reached a new low, continuing a long-term downward trend",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "fda",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-11-24T22:25:38+00:00",
-   "tickers": []
-  },
-  {
-   "id": "d1b1f0daff3e",
-   "title": "Americans are divided about Trump's meeting with Xi and Putin",
-   "link": "https://biztoc.com/x/cef8100b402ef588?ref=rss",
-   "summary": "28% of Americans consider China an enemy of the U.S, 32% say China is unfriendly, 17% say it is friendly, and 4% say it is an ally",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-24T22:25:37+00:00",
-   "tickers": []
-  },
-  {
-   "id": "60e9b19b3660",
-   "title": "U.S. Stocks Mixed as Huang Relief Rally Fades",
-   "link": "https://biztoc.com/x/fa0602394447abb5?ref=rss",
-   "summary": "U.S. stocks finished mixed, with the Nasdaq and S&P 500 giving back some of Monday’s rally, as traders digested the implications of President Donald Trump’s push to reinstall Jensen Huang as head of Nvidia.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-11-24T22:25:35+00:00",
-   "tickers": [
-    "NDAQ"
-   ]
-  },
-  {
-   "id": "f3aa20d065d9",
-   "title": "Deere Stock Is Up 32% This Year. Now Comes the Hard Part for 2027",
-   "link": "https://biztoc.com/x/a02030443493f0b6?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-24T22:25:34+00:00",
-   "tickers": [
-    "DE"
-   ]
-  },
-  {
-   "id": "7eba6ff15d7a",
-   "title": "Media advisory – Parliamentary Secretary Bardeesy to deliver remarks at the Canadian Science and Innovation Policy Conference",
-   "link": "https://biztoc.com/x/b312d390c9e32f50?ref=rss",
-   "summary": "OTTAWA, ON, Nov. 24, 2026 /CNW/ -- Karim Bardeesy, Parliamentary Secretary to the Minister of Industry, will deliver remarks at the Canadian Science and",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-24T22:25:33+00:00",
-   "tickers": []
-  },
-  {
-   "id": "523ae8f3efc6",
-   "title": "Workday’s AI Pivot and Earnings Beat Isn’t Enough to Lift Stock",
-   "link": "https://biztoc.com/x/da314294680289de?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "earnings",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-11-24T22:25:33+00:00",
-   "tickers": [
-    "WDAY"
-   ]
-  },
-  {
-   "id": "83279d70e59d",
-   "title": "American Exceptionalism Will Win AI",
-   "link": "https://biztoc.com/x/4ab51667f0e07796?ref=rss",
-   "summary": "Preserving our country’s edge requires government policies that don’t hamstring the economy.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-11-24T22:25:32+00:00",
-   "tickers": []
-  },
-  {
-   "id": "60e8f56b7484",
-   "title": "Huawei Found Guilty Of Plotting To Steal US Trade Secrets And Lying To Banks Over Iran",
-   "link": "https://biztoc.com/x/bbc636949d8f0962?ref=rss",
-   "summary": "Huawei Found Guilty Of Plotting To Steal US Trade Secrets And Lying To Banks Over Iran A federal jury in Brooklyn on Tuesday found Huawei guilty on 10 of the 12 criminal counts it faced, including conspiracy to steal trade secrets from American companies and bank fraud, closing out a case that…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-24T22:25:31+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e3e47b8f697b",
-   "title": "Hailey Bieber Sold Rhode for $1 Billion. ‘The New York Times’ Asked Her the Wrong Question",
-   "link": "https://biztoc.com/x/e3fb994e0debe0da?ref=rss",
-   "summary": "Andrew Ross Sorkin asked what she understood before everybody else. A better question explains what her customers buy, and why no rivalcopies the formula. Andrew Ross Sorkin asked what she understood before everybody else. A better question explains what her customers buy, and why no rival copies…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-24T22:25:30+00:00",
-   "tickers": [
-    "NYT",
-    "ROST"
-   ]
-  },
-  {
-   "id": "fcac36ab0f5a",
-   "title": "OpenAI chief scientist thinks ‘perplexity’ might be the key to coordinating an AI slowdown",
-   "link": "https://biztoc.com/x/d9e9b67adbf06319?ref=rss",
-   "summary": "Hello and welcome to Eye on AI. In this edition: Nvidia rehires Jensen Huang as CEO. Anthropic IPO mints centimillionaires. Oregon and Virginia sue SpaceX over sexualized AI images. Some AI models are getting better at scientific judgment. But many remain poor at basic office tasks. The biggest…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-24T22:25:29+00:00",
-   "tickers": [
-    "SPCX"
-   ]
-  },
-  {
-   "id": "90c91994dcce",
-   "title": "WiseTech's White Cleared in Human Trafficking Probe by Police",
-   "link": "https://biztoc.com/x/8ad275ad9a89f2af?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-11-24T22:25:27+00:00",
-   "tickers": []
-  },
-  {
-   "id": "f9fdb11338f5",
-   "title": "Melania Trump Is No Eleanor Roosevelt, But She Can Help Ukraine",
-   "link": "https://biztoc.com/x/be525ba99873fa0b?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-24T22:25:25+00:00",
-   "tickers": []
-  },
-  {
-   "id": "4d9b47d88183",
-   "title": "China’s Huawei Convicted of Fraud in U.S. Criminal Trial",
-   "link": "https://biztoc.com/x/7bbbd0dae5e736a4?ref=rss",
-   "summary": "A federal jury convicted the tech and telecom giant of fraud and other offenses but acquitted it of racketeering conspiracy.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "legal",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-11-24T22:25:23+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ed265b8bc166",
-   "title": "Mayfair Gold Announces Overnight Marketed Public Offering",
-   "link": "https://www.globenewswire.com/news-release/2026/11/24/3409918/0/en/mayfair-gold-announces-overnight-marketed-public-offering.html",
-   "summary": "The offering documentation is or will be accessible through SEDAR+ and EDGAR",
-   "article_text": "",
-   "source": "GlobeNewswire",
-   "category": "press",
-   "type": "offering",
-   "sentiment": "neutral",
-   "domain": "globenewswire.com",
-   "published": "2026-11-24T22:25:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "49e9d8fefa1f",
-   "title": "8-K - Ocean Power Technologies, Inc. (0001378140) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1378140/000149315226054056/0001493152-26-054056-index.htm",
-   "summary": "Filed: 2026-11-24 AccNo: 0001493152-26-054056 Size: 285 KB Item 5.07: Submission of Matters to a Vote of Security Holders Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-11-24T22:24:49+00:00",
-   "tickers": []
-  },
-  {
-   "id": "a8420d59182c",
-   "title": "Kutcho Copper announces C$1M private placement",
-   "link": "https://seekingalpha.com/news/4676410-kutcho-copper-announces-c-1m-private-placement?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-24T22:24:06+00:00",
-   "tickers": []
-  },
-  {
-   "id": "59d189c4ab09",
-   "title": "Gold slips after sharp rebound with inflation, Fed expectations in focus",
-   "link": "https://www.investing.com/news/commodities-news/gold-extends-rebound-as-nvidia-ceo-news-lifts-equities-dipbuying-lifts-bullion-5046835",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-24T22:22:45+00:00",
-   "tickers": []
-  },
-  {
-   "id": "037a5d0620e0",
-   "title": "Earnings call transcript: Ambarella Q3 2027 profit beats, but stock plunges",
-   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-ambarella-q3-2027-profit-beats-but-stock-plunges-93CH-5049252",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-24T22:22:43+00:00",
-   "tickers": [
-    "AMBA"
-   ]
-  },
-  {
-   "id": "eb13de9bc897",
-   "title": "The Western Investment GAAP EPS of -C$0.007, revenue of C$11.1M",
-   "link": "https://seekingalpha.com/news/4676412-the-western-investment-gaap-eps-of-c0007-revenue-of-c111m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-24T22:21:32+00:00",
-   "tickers": []
-  },
-  {
-   "id": "356c1b1f4103",
-   "title": "8-K - RenX Enterprises Corp. (0001959023) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1959023/000121390026123758/0001213900-26-123758-index.htm",
-   "summary": "Filed: 2026-11-24 AccNo: 0001213900-26-123758 Size: 233 KB Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-11-24T22:21:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "500dc2a597a9",
-   "title": "Bold Eagle Acquisition enters $1.08 million promissory note with sponsor",
-   "link": "https://www.investing.com/news/sec-filings/bold-eagle-acquisition-enters-108-million-promissory-note-with-sponsor-93CH-5049251",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-24T22:21:00+00:00",
-   "tickers": [
-    "EXP"
-   ]
-  },
-  {
-   "id": "c5ed426e80b2",
-   "title": "8-K - New Horizon Aircraft Ltd. (0001930021) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1930021/000121390026123757/0001213900-26-123757-index.htm",
-   "summary": "Filed: 2026-11-24 AccNo: 0001213900-26-123757 Size: 245 KB Item 5.07: Submission of Matters to a Vote of Security Holders",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-11-24T22:20:53+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ac164f983a5b",
-   "title": "8-K - Global Crossing Airlines Group Inc. (0001846084) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1846084/000119312526476166/0001193125-26-476166-index.htm",
-   "summary": "Filed: 2026-11-24 AccNo: 0001193125-26-476166 Size: 182 KB Item 1.01: Entry into a Material Definitive Agreement Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-11-24T22:20:51+00:00",
-   "tickers": []
-  },
-  {
-   "id": "447ec0713bbe",
-   "title": "DBV Technologies S.A. Approves November 2026 Performance Share Unit Plan and Grants PSUs to Executive Officers",
-   "link": "https://www.nasdaq.com/articles/dbv-technologies-sa-approves-november-2026-performance-share-unit-plan-and-grants-psus",
-   "summary": "On November 20, 2026, the Board of Directors of DBV Technologies S.A., upon recommendation of the Compensation Committee, approved the DBV Technologies November 2026 Performance Share Unit Plan and granted performance share units to key executive officers. The grants include 270,",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-11-24T22:20:46+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b83f23db281a",
-   "title": "Tompkins Financial Corporation Reports Departure of Executive Vice President John M. McKenna",
-   "link": "https://www.nasdaq.com/articles/tompkins-financial-corporation-reports-departure-executive-vice-president-john-m-mckenna",
-   "summary": "On November 20, 2026, Tompkins Financial Corporation and Executive Vice President, John M. McKenna entered into a Joint Amendment to Award Agreements under the 2019 Tompkins Financial Corporation Equity Incentive Plan. The Amendment was approved by the Compensation Committee of t",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-24T22:20:45+00:00",
-   "tickers": []
-  },
-  {
-   "id": "4a8ecc6382e1",
-   "title": "8-K - DESTINY MEDIA TECHNOLOGIES INC (0001099369) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1099369/000106299326006263/0001062993-26-006263-index.htm",
-   "summary": "Filed: 2026-11-24 AccNo: 0001062993-26-006263 Size: 383 KB Item 2.02: Results of Operations and Financial Condition Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-11-24T22:20:24+00:00",
-   "tickers": []
-  },
-  {
-   "id": "174e06e0b3d0",
-   "title": "8-K - iSpecimen Inc. (0001558569) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1558569/000121390026123756/0001213900-26-123756-index.htm",
-   "summary": "Filed: 2026-11-24 AccNo: 0001213900-26-123756 Size: 208 KB Item 5.03: Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-11-24T22:20:16+00:00",
-   "tickers": []
-  },
-  {
-   "id": "f31e05462f13",
-   "title": "Wall Street's $1.4 Trillion Bubble May Be on the Verge of Bursting -- but It's Not Artificial Intelligence (AI)",
-   "link": "https://www.nasdaq.com/articles/wall-streets-14-trillion-bubble-may-be-verge-bursting-its-not-artificial-intelligence-ai",
-   "summary": "Key PointsMargin debt reached a record $1.5 trillion back in June.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-24T22:20:02+00:00",
-   "tickers": []
-  },
-  {
-   "id": "c1fac0fd6eb1",
-   "title": "Fort Worth Magazine Names Seven Goranson Bain Ausley Lawyers to Its 2026 Top Attorneys List",
-   "link": "https://www.prnewswire.com/news-releases/fort-worth-magazine-names-seven-goranson-bain-ausley-lawyers-to-its-2026-top-attorneys-list-302949928.html",
-   "summary": "FORT WORTH, Texas, Nov. 24, 2026 /PRNewswire/ -- Fort Worth Magazine has selected seven Goranson Bain Ausley (GBA) lawyers for its 2026 Top Attorneys list: Clayton Bryant Gary L. Nickelson Chris Nickelson Cassidy Pearson Hailey Schmitt Andrew Tisdale Cindy V. Tisdale The magazine selects...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "positive",
-   "domain": "prnewswire.com",
-   "published": "2026-11-24T22:20:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "3164545f19c0",
-   "title": "Fountain Asset reports Q3 results",
-   "link": "https://seekingalpha.com/news/4676411-fountain-asset-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-24T22:19:46+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8939,23 +8954,25 @@
   "KO": "The Coca-Cola",
   "O": "Realty Income",
   "POST": "Post Holdings",
+  "SMR": "NuScale Power",
   "MSTR": "MicroStrategy",
   "ACMR": "ACM Research",
   "DTM": "DT Midstream",
   "SPY": "SPDR S&P 500",
+  "TLN": "Talen Energy",
   "UBS": "UBS Group AG",
   "GOOGL": "Google Cloud",
   "TSLA": "Supercharger",
   "NVDA": "Grace Hopper",
   "BYD": "Boyd Gaming",
   "DLTR": "Dollar Tree",
-  "ROST": "Ross Stores",
   "YUM": "Yum! Brands",
   "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
   "SHOP": "Shopify Inc",
   "BA": "The Boeing",
   "BN": "Brookfield",
+  "BWA": "BorgWarner",
   "BX": "Blackstone",
   "CLSK": "CleanSpark",
   "DTE": "DTE Energy",
@@ -8994,10 +9011,12 @@
   "M": "Macy's",
   "NDAQ": "Nasdaq",
   "ORCL": "Oracle",
+  "RMD": "ResMed",
   "SPCX": "SpaceX",
   "ACM": "AECOM",
   "AMCR": "Amcor",
   "INTC": "Intel",
-  "DAVE": "Dave"
+  "DAVE": "Dave",
+  "OKLO": "Oklo"
  }
 }
