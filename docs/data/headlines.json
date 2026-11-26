@@ -1,8 +1,52 @@
 {
- "generated": "2026-11-26T19:35:28.772465+00:00",
+ "generated": "2026-11-26T19:41:53.122769+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "5fdb7c2c6bba",
+   "title": "Dan Carney Has Died. He Co-Founded Pizza Hut and Then Made It Ubiquitous.",
+   "link": "https://www.nytimes.com/2026/11/26/business/dan-carney-dead.html",
+   "summary": "The franchise with the iconic red roof began small, in a tiny brick hut in Kansas. Little more than a decade later, it was the world’s biggest pizza chain. He was 95.",
+   "article_text": "",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-11-26T19:40:18+00:00",
+   "tickers": [
+    "YUM"
+   ]
+  },
+  {
+   "id": "84fd6b544161",
+   "title": "LiuGong демонстрирует передовое оборудование и интеллектуальные технологии на выставке Bauma CHINA 2026",
+   "link": "https://www.prnewswire.com/news-releases/liugong---------bauma-china-2026-302951360.html",
+   "summary": "ШАНХАЙ, 26 ноября 2026 г. /PRNewswire/ -- 24 ноября в Шанхайском новом международном выставочном центре открылась выставка bauma CHINA 2026. LiuGong (000528.SZ) продемонстрировал 39 передовых машин и отраслевых решений в павильоне площадью 4224 квадратных метра, посвященном безуглеродным...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-11-26T19:37:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "79c8e7b41fe6",
+   "title": "LiuGong présente ses équipements de pointe et ses technologies intelligentes au salon bauma CHINA 2026",
+   "link": "https://www.prnewswire.com/news-releases/liugong-presente-ses-equipements-de-pointe-et-ses-technologies-intelligentes-au-salon-bauma-china-2026-302951359.html",
+   "summary": "SHANGHAI, 26 novembre 2026 /PRNewswire/ -- Le salon bauma CHINA 2026 a ouvert ses portes le 24 novembre au Shanghai New International Expo Center. LiuGong (000528.SZ) a présenté 39 machines innovantes et solutions industrielles dans un pavillon de 4 224 mètres carrés consacré aux...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-11-26T19:33:00+00:00",
+   "tickers": []
+  },
   {
    "id": "2e012ebb0760",
    "title": "Coles Group Limited (CLEGF) Analyst/Investor Day Transcript",
@@ -8773,50 +8817,6 @@
    "domain": "biztoc.com",
    "published": "2026-11-26T15:08:18+00:00",
    "tickers": []
-  },
-  {
-   "id": "4ef7ab9d2a48",
-   "title": "Prescott, Arizona, Sits a Mile High With Cooler Summers Than Phoenix. What It Takes to Retire There at 65 on $900,000",
-   "link": "https://biztoc.com/x/22328a02470ef588?ref=rss",
-   "summary": "The post Prescott, Arizona, Sits a Mile High With Cooler Summers Than Phoenix. What It Takes to Retire There at 65 on $900,000 appeared first on 24/7 Wall St.. Retirees who winter in the Phoenix area often consider whether they can stay in Arizona and avoid the triple-digit summer heat. Prescott…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-26T15:08:17+00:00",
-   "tickers": []
-  },
-  {
-   "id": "cb8b5d33302a",
-   "title": "Donald Trump Shares Thanksgiving Message With Boast About U.S. Economy",
-   "link": "https://biztoc.com/x/592e257d435dcfa6?ref=rss",
-   "summary": "President Donald Trump has boasted about U.S. economic growth in a Thanksgiving Day message, as he called for an investigation into revised GDP figures. Writing on Truth Social on Thursday morning, Trump questioned why the GDP growth rate for the third-quarter was not released before the midterm…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-26T15:08:17+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ce693b4bcbec",
-   "title": "From volume to value: making tourism work for more of Europe",
-   "link": "https://biztoc.com/x/ed8891a4c21a0554?ref=rss",
-   "summary": "Tourism deserves a central place in European policymaking, writes Peter Lochbihler of Booking.com in an opinion piece for Euronews. The EU should support lesser-known destinations in attracting visitors worldwide, fostering local revitalisation, growth and prosperity.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-26T15:08:16+00:00",
-   "tickers": [
-    "BKNG"
-   ]
   }
  ],
  "ticker_names": {
@@ -8864,7 +8864,6 @@
   "MU": "Micron Technology",
   "UBER": "Uber Technologies",
   "WU": "The Western Union",
-  "BKNG": "Booking Holdings",
   "BMO": "Bank of Montreal",
   "COST": "Costco Wholesale",
   "GE": "General Electric",
@@ -8897,6 +8896,7 @@
   "DLTR": "Dollar Tree",
   "HSY": "The Hershey",
   "XOM": "Exxon Mobil",
+  "YUM": "Yum! Brands",
   "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
   "AZN": "AstraZeneca",
