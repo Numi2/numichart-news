@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T20:22:31.525472+00:00",
+ "generated": "2026-11-26T20:27:59.849323+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -14,8 +14,24 @@
    "type": "legal",
    "sentiment": "negative",
    "domain": "cnbc.com",
-   "published": "2026-11-26T20:18:11+00:00",
+   "published": "2026-11-26T20:25:28+00:00",
    "tickers": []
+  },
+  {
+   "id": "ab831a4b1349",
+   "title": "SAP reportedly weighs at least 10,000 job cuts in AI restructuring",
+   "link": "https://www.investing.com/news/company-news/sap-reportedly-weighs-at-least-10000-job-cuts-in-ai-restructuring-5052712",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-11-26T20:22:52+00:00",
+   "tickers": [
+    "SAP"
+   ]
   },
   {
    "id": "db2a972a4de4",
@@ -181,6 +197,20 @@
    "sentiment": "neutral",
    "domain": "biztoc.com",
    "published": "2026-11-26T20:11:01+00:00",
+   "tickers": []
+  },
+  {
+   "id": "3d6cd2e3628b",
+   "title": "Wheat Posting Mixed Trade on Wednesday",
+   "link": "https://www.nasdaq.com/articles/wheat-posting-mixed-trade-wednesday",
+   "summary": "The wheat complex is mixed across the three exchanges, with winter wheats holding lower. Chicago SRW futures are down 1 to 3 ¼ cents on the session. KC wheat futures are down 3 ¼ to 10 ¾ cents led by longs exiting ahead of next week’s first notice at for...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-26T20:09:02+00:00",
    "tickers": []
   },
   {
@@ -8795,36 +8825,6 @@
     "NWSA",
     "MS"
    ]
-  },
-  {
-   "id": "f924e93e93b8",
-   "title": "Take an inside look at Sysco's massive warehouses where your #groceries are prepared. #bigbusiness",
-   "link": "https://biztoc.com/x/1830d78addc001a6?ref=rss",
-   "summary": "Business Insider is a global newsroom covering business, technology, innovation, and the economy. Visit our homepage for the ...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-26T15:26:21+00:00",
-   "tickers": [
-    "SYY"
-   ]
-  },
-  {
-   "id": "8481ddd3f17f",
-   "title": "The Biggest Money Mistakes In Showbiz",
-   "link": "https://biztoc.com/x/18f929bc6cb3bf32?ref=rss",
-   "summary": "What's the worst money mistake you can make in entertainment? Forbes' Steve Bertoni asked actor Terry Crews and some of ...",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-26T15:26:17+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8960,7 +8960,6 @@
   "FDX": "FedEx",
   "INTC": "Intel",
   "KKR": "KKR &",
-  "SYY": "Sysco",
   "TOST": "Toast",
   "XPEV": "XPeng",
   "MSCI": "MSCI",
