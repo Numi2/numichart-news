@@ -1,8 +1,38 @@
 {
- "generated": "2026-11-26T02:43:45.634495+00:00",
+ "generated": "2026-11-26T02:50:31.831281+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "d1b3d2393271",
+   "title": "NYC rent freeze survives court challenge; REIT stocks in focus",
+   "link": "https://seekingalpha.com/news/4676730-nyc-rent-freeze-upheld-real-estate-stocks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-26T02:44:45+00:00",
+   "tickers": []
+  },
+  {
+   "id": "7770543306fd",
+   "title": "Nvidia chips reach Chinese-owned U.S. firms despite export curbs, CBS reports",
+   "link": "https://www.investing.com/news/stock-market-news/nvidia-chips-reach-chineseowned-us-firms-despite-export-curbs-cbs-reports-5051925",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-26T02:41:46+00:00",
+   "tickers": [
+    "PARA"
+   ]
+  },
   {
    "id": "be561653fdb3",
    "title": "GDP Per Capita: Q3 2026 Second Estimate",
@@ -15,6 +45,50 @@
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
    "published": "2026-11-26T02:40:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "5418d73cdd0f",
+   "title": "Data centre rush drives biggest rise in Australian business investment since mining boom",
+   "link": "https://www.investing.com/news/economy-news/data-centre-rush-drives-biggest-rise-in-australian-business-investment-since-mining-boom-5051924",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-11-26T02:36:51+00:00",
+   "tickers": []
+  },
+  {
+   "id": "15e233320404",
+   "title": "Air cargo demand from AI data centres shows no sign of slowing, SATS CEO says",
+   "link": "https://www.investing.com/news/stock-market-news/air-cargo-demand-from-ai-data-centres-shows-no-sign-of-slowing-sats-ceo-says-5051923",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-26T02:36:36+00:00",
+   "tickers": [
+    "SATS"
+   ]
+  },
+  {
+   "id": "800fabed066e",
+   "title": "New York court upholds Mayor Mamdani’s rent freeze",
+   "link": "https://www.investing.com/news/economy-news/new-york-court-upholds-mayor-mamdanis-rent-freeze-5051716",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-26T02:36:24+00:00",
    "tickers": []
   },
   {
@@ -33,6 +107,78 @@
     "SPCX",
     "AMZN"
    ]
+  },
+  {
+   "id": "63b20ac20ca5",
+   "title": "Asian tech stocks jump as bargain buyers boost battered AI trade",
+   "link": "https://www.investing.com/news/stock-market-news/asian-tech-stocks-jump-as-bargain-buyers-boost-battered-ai-trade-5051918",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-11-26T02:33:16+00:00",
+   "tickers": []
+  },
+  {
+   "id": "186a490b1fc2",
+   "title": "Black Stone Minerals director acquires $295,259 in common units",
+   "link": "https://www.investing.com/news/insider-trading-news/black-stone-minerals-director-acquires-295259-in-common-units-93CH-5051917",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-26T02:31:16+00:00",
+   "tickers": []
+  },
+  {
+   "id": "b0c5df9ff6f1",
+   "title": "ANI Pharmaceuticals director sells $141,064 in common stock",
+   "link": "https://www.investing.com/news/insider-trading-news/ani-pharmaceuticals-director-sells-141064-in-common-stock-93CH-5051916",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-26T02:31:02+00:00",
+   "tickers": []
+  },
+  {
+   "id": "cb60fe163b92",
+   "title": "Zscaler CFO sells $114,506 in company stock",
+   "link": "https://www.investing.com/news/insider-trading-news/zscaler-cfo-sells-114506-in-company-stock-93CH-5051915",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-26T02:31:00+00:00",
+   "tickers": [
+    "ZS"
+   ]
+  },
+  {
+   "id": "7e3aaa1d79ce",
+   "title": "Adma Biologics COO sells $416,100 in company shares",
+   "link": "https://www.investing.com/news/insider-trading-news/adma-biologics-coo-sells-416100-in-company-shares-93CH-5051914",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-26T02:30:58+00:00",
+   "tickers": []
   },
   {
    "id": "d2896db5cbae",
@@ -285,6 +431,20 @@
    "tickers": [
     "LRCX"
    ]
+  },
+  {
+   "id": "1c538cf757d8",
+   "title": "South Korea’s central bank raises rates, upgrades 2027 growth outlook",
+   "link": "https://www.investing.com/news/economy-news/south-koreas-central-bank-raises-rates-upgrades-2027-growth-outlook-5051906",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "upgrade",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-11-26T02:24:57+00:00",
+   "tickers": []
   },
   {
    "id": "b476e7cc233e",
@@ -5954,20 +6114,6 @@
    "tickers": []
   },
   {
-   "id": "800fabed066e",
-   "title": "New York court upholds Mayor Mamdani’s rent freeze",
-   "link": "https://www.investing.com/news/economy-news/new-york-court-upholds-mayor-mamdanis-rent-freeze-5051716",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-25T23:18:22+00:00",
-   "tickers": []
-  },
-  {
    "id": "e3766b4f3223",
    "title": "Gulf Keystone Petroleum Limited (GUKYF) Shareholder/Analyst Call - Slideshow",
    "link": "https://seekingalpha.com/article/4972074-gulf-keystone-petroleum-limited-gukyf-shareholder-analyst-call-slideshow?source=feed_all_articles",
@@ -8669,154 +8815,6 @@
    "tickers": [
     "FNV"
    ]
-  },
-  {
-   "id": "3485cd27bb33",
-   "title": "Lukoil to Sell Foreign Assets, but Not to Kushner and Witkoff Associates",
-   "link": "https://www.nytimes.com/2026/11/25/us/politics/lukoil-deal.html",
-   "summary": "Valuable properties belonging to the Russian energy giant will be sold to an American-led consortium. But Middle Eastern business contacts of the two Trump envoys pulled out because of political winds.",
-   "article_text": "",
-   "source": "NYT Business",
-   "category": "macro",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "nytimes.com",
-   "published": "2026-11-25T22:16:50+00:00",
-   "tickers": []
-  },
-  {
-   "id": "c7780146cbf6",
-   "title": "SHARE42924-USD Interactive Stock Chart | ShareX [New] USD Stock",
-   "link": "https://biztoc.com/x/16439399cde2c670?ref=rss",
-   "summary": "At Yahoo Finance, you get free stock quotes, up-to-date news, portfolio management resources, international market data, social interaction and mortgage rates that help you manage your financial life.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-25T22:16:13+00:00",
-   "tickers": [
-    "GTLS"
-   ]
-  },
-  {
-   "id": "3282098b3683",
-   "title": "Elon Musk's Neuralink gains FDA approval to conduct pivotal trial for chip implant",
-   "link": "https://seekingalpha.com/news/4676713-elon-musks-neuralink-gains-fda-approval-to-conduct-pivotal-trial-for-chip-implant?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "fda",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-25T22:16:12+00:00",
-   "tickers": []
-  },
-  {
-   "id": "c634677dd831",
-   "title": "Notable Two Hundred Day Moving Average Cross - EIG",
-   "link": "https://www.nasdaq.com/articles/notable-two-hundred-day-moving-average-cross-eig",
-   "summary": "In trading on Wednesday, shares of Employers Holdings Inc (Symbol: EIG) crossed below their 200 day moving average of $46.09, changing hands as low as $44.93 per share. Employers Holdings Inc shares are currently trading down about 2.4% on the day. The chart below shows the on",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-25T22:16:09+00:00",
-   "tickers": []
-  },
-  {
-   "id": "7620013e0532",
-   "title": "Gladstone Investment: A 15.7% Better Bargain Than When Ritchie Bought",
-   "link": "https://www.nasdaq.com/articles/gladstone-investment-157-better-bargain-when-ritchie-bought",
-   "summary": "There's an old saying on Wall Street about insider buying: there are many possible reasons to sell a stock, but only one reason to buy. Back on August 18, Gladstone Investment Corporation - Business Develo's Chief Financial Officer, Taylor Ritchie, invested $24,300.00 into 1,500",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-25T22:16:06+00:00",
-   "tickers": []
-  },
-  {
-   "id": "11c81760faae",
-   "title": "Oracle, CoreWeave and other tech stocks bounce back after selloff",
-   "link": "https://www.marketwatch.com/story/oracles-stock-sinks-toward-a-3-year-low-as-the-ai-trade-continues-to-unravel-d4698d77?mod=mw_rss_topstories",
-   "summary": "Oracle, CoreWeave and other technology stocks bounced back from early losses on Wednesday, after what appeared to be a major selloff eased ahead of the market’s close.",
-   "article_text": "",
-   "source": "MarketWatch",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "marketwatch.com",
-   "published": "2026-11-25T22:16:00+00:00",
-   "tickers": [
-    "CRWV",
-    "ORCL"
-   ]
-  },
-  {
-   "id": "99d0470534b6",
-   "title": "Japan Post sells $1.96 million in Aflac shares",
-   "link": "https://www.investing.com/news/insider-trading-news/japan-post-sells-196-million-in-aflac-shares-93CH-5051629",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-25T22:15:55+00:00",
-   "tickers": [
-    "AFL",
-    "POST"
-   ]
-  },
-  {
-   "id": "3ebf02d7935d",
-   "title": "Trump’s accounts traded Nvidia shares 44 times this year, records show",
-   "link": "https://biztoc.com/x/be06c92c0f76ed00?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-25T22:15:38+00:00",
-   "tickers": []
-  },
-  {
-   "id": "1b8644ee2734",
-   "title": "8-K - ORAGENICS INC (0001174940) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/1174940/000149315226054295/0001493152-26-054295-index.htm",
-   "summary": "Filed: 2026-11-25 AccNo: 0001493152-26-054295 Size: 257 KB Item 3.03: Material Modifications to Rights of Security Holders Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-11-25T22:15:32+00:00",
-   "tickers": []
-  },
-  {
-   "id": "f6e63c6a4aaa",
-   "title": "8-K - Soluna Holdings, Inc (0000064463) (Filer)",
-   "link": "https://www.sec.gov/Archives/edgar/data/64463/000149315226054296/0001493152-26-054296-index.htm",
-   "summary": "Filed: 2026-11-25 AccNo: 0001493152-26-054296 Size: 252 KB Item 3.01: Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing Item 8.01: Other Events",
-   "article_text": "",
-   "source": "SEC 8-K Filings",
-   "category": "filings",
-   "type": "8k",
-   "sentiment": "neutral",
-   "domain": "sec.gov",
-   "published": "2026-11-25T22:15:32+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8872,7 +8870,6 @@
   "AXP": "American Express",
   "BKNG": "Booking Holdings",
   "BMO": "Bank of Montreal",
-  "GTLS": "Chart Industries",
   "NOC": "Northrop Grumman",
   "NSC": "Norfolk Southern",
   "URBN": "Urban Outfitters",
@@ -8922,6 +8919,7 @@
   "ENB": "Enbridge",
   "GME": "GameStop",
   "GOOG": "Alphabet",
+  "SATS": "EchoStar",
   "SYM": "Symbotic",
   "SQ": "Cash App",
   "RTX": "Raytheon",
@@ -8938,7 +8936,6 @@
   "NDAQ": "Nasdaq",
   "ORCL": "Oracle",
   "SPCX": "SpaceX",
-  "AFL": "Aflac",
   "AGX": "Argan",
   "FDX": "FedEx",
   "FROG": "JFrog",
