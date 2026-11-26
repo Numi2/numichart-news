@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T18:38:07.598580+00:00",
+ "generated": "2026-11-26T18:44:07.661022+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -16,6 +16,23 @@
    "domain": "ft.com",
    "published": "2026-11-26T18:36:59+00:00",
    "tickers": []
+  },
+  {
+   "id": "7b1681ef637d",
+   "title": "NORTH ATLANTIC ENERGIES : Communiqué normé - Dépôt du projet de note en réponse",
+   "link": "https://www.globenewswire.com/news-release/2026/11/26/3411023/0/fr/north-atlantic-energies-communiqu%C3%A9-norm%C3%A9-d%C3%A9p%C3%B4t-du-projet-de-note-en-r%C3%A9ponse.html",
+   "summary": "COMMUNIQUÉ DU 26 NOVEMBRE 2026 RELATIF AU DÉPÔT DU PROJET DE NOTE ÉTABLI PAR LA SOCIÉTÉ",
+   "article_text": "",
+   "source": "GlobeNewswire",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "globenewswire.com",
+   "published": "2026-11-26T18:36:00+00:00",
+   "tickers": [
+    "AU",
+    "DE"
+   ]
   },
   {
    "id": "db86be8449b4",
@@ -8798,22 +8815,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-11-26T14:41:16+00:00",
    "tickers": []
-  },
-  {
-   "id": "028795e8c449",
-   "title": "Dynex Capital The Rare Case When We Like The Common More Than The Preferred",
-   "link": "https://seekingalpha.com/article/4972295-dynex-capital-the-rare-case-when-we-like-the-common-more-than-the-preferred?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-26T14:39:58+00:00",
-   "tickers": [
-    "DX"
-   ]
   }
  ],
  "ticker_names": {
@@ -8852,6 +8853,7 @@
   "MRVL": "Marvell Technology",
   "PANW": "Palo Alto Networks",
   "ATEC": "Alphatec Holdings",
+  "AU": "AngloGold Ashanti",
   "AUR": "Aurora Innovation",
   "BBWI": "Bath & Body Works",
   "DELL": "Dell Technologies",
@@ -8878,7 +8880,6 @@
   "HCA": "HCA Healthcare",
   "META": "Meta Platforms",
   "MS": "Morgan Stanley",
-  "DX": "Dynex Capital",
   "KO": "The Coca-Cola",
   "LLY": "Eli Lilly and",
   "O": "Realty Income",
@@ -8904,6 +8905,7 @@
   "MCD": "McDonald's",
   "STLA": "Stellantis",
   "MSFT": "Office 365",
+  "DE": "John Deere",
   "BC": "Brunswick",
   "CRWV": "CoreWeave",
   "DCI": "Donaldson",
