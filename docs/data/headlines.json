@@ -1,8 +1,24 @@
 {
- "generated": "2026-11-27T05:53:14.186358+00:00",
+ "generated": "2026-11-27T05:59:47.751989+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "ac02ef6f76bb",
+   "title": "RFI: Welltower Did 96% Of The Work",
+   "link": "https://seekingalpha.com/article/4972430-rfi-welltower-did-96-percent-of-the-work?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-27T05:52:53+00:00",
+   "tickers": [
+    "WELL"
+   ]
+  },
   {
    "id": "5406fdb70cb9",
    "title": "Bahrain condemns Houthi attacks on Saudi oil sites",
@@ -174,6 +190,20 @@
    "sentiment": "neutral",
    "domain": "biztoc.com",
    "published": "2026-11-27T05:47:59+00:00",
+   "tickers": []
+  },
+  {
+   "id": "22bc207c56b8",
+   "title": "Asian stocks jump on U.S. futures rally, China profit beats, shrugging off tariff risks",
+   "link": "https://seekingalpha.com/news/4676916-asian-stocks-jump-on-us-futures-rally-china-profit-beat-shrugging-off-tariff-risks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "macro",
+   "sentiment": "positive",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-27T05:47:55+00:00",
    "tickers": []
   },
   {
@@ -1142,6 +1172,20 @@
    "source": "FT Companies",
    "category": "stocks",
    "type": "stocks",
+   "sentiment": "positive",
+   "domain": "ft.com",
+   "published": "2026-11-27T05:00:22+00:00",
+   "tickers": []
+  },
+  {
+   "id": "dade96daef56",
+   "title": "Tech stocks set for worst month in four years as volatility surges",
+   "link": "https://www.ft.com/content/b80e6259-dca8-4da3-962d-402106a3cd81?syn-25a6b1a6=1",
+   "summary": "All-powerful AI trade has been eclipsed by wild swings in a market struggling to price future earnings",
+   "article_text": "",
+   "source": "FT Markets",
+   "category": "markets",
+   "type": "markets",
    "sentiment": "positive",
    "domain": "ft.com",
    "published": "2026-11-27T05:00:22+00:00",
@@ -8655,48 +8699,6 @@
    "tickers": [
     "DIS"
    ]
-  },
-  {
-   "id": "6af09f349c80",
-   "title": "'A golden age for builders': Here's what business leaders are thankful for this year",
-   "link": "https://biztoc.com/x/5c4a2596456950fc?ref=rss",
-   "summary": "Sam Altman, Fei-Fei Li, and Bill Ackman posted about what they were thankful for this Thanksgiving. Getty Images CEOs, VCs, and other business leaders are firing off their Thanksgiving posts — so what are they thankful for this year? Sam Altman said being a dad never gets old. Bill Ackman thanked…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-26T21:11:57+00:00",
-   "tickers": []
-  },
-  {
-   "id": "29ac247e8bf1",
-   "title": "Before He Moves Into a Nursing Home, They Spend $500,000 of Their Savings on a Smaller House. Medicaid Counts the Cash, Not the Home, So the $500,000 Drops Out of His Spend-Down",
-   "link": "https://biztoc.com/x/673569641d6206b7?ref=rss",
-   "summary": "The post Before He Moves Into a Nursing Home, They Spend $500,000 of Their Savings on a Smaller House. Medicaid Counts the Cash, Not the Home, So the $500,000 Drops Out of His Spend-Down appeared first on 24/7 Wall St.. Picture a situation senior law practitioners see all the time. A married…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "negative",
-   "domain": "biztoc.com",
-   "published": "2026-11-26T21:11:53+00:00",
-   "tickers": []
-  },
-  {
-   "id": "bb9f911eae30",
-   "title": "TSX ends higher after whipsaw session, helped by battery metal stocks & labor data",
-   "link": "https://www.investing.com/news/stock-market-news/canadas-tsx-futures-flat-in-holidaythinned-trade--and-macklems-warning-5052325",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-26T21:10:57+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8769,6 +8771,7 @@
   "RBA": "RB Global",
   "SBUX": "Starbucks",
   "TRP": "TC Energy",
+  "WELL": "Welltower",
   "ADBE": "Photoshop",
   "NWSA": "News Corp",
   "BBY": "Best Buy",
