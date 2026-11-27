@@ -1,8 +1,38 @@
 {
- "generated": "2026-11-27T23:25:16.919855+00:00",
+ "generated": "2026-11-27T23:31:38.277533+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "f1da903aa499",
+   "title": "NBC Pulls an Ad That Some Described as Antisemitic",
+   "link": "https://www.nytimes.com/2026/11/27/business/media/nbc-ad-snl.html",
+   "summary": "The commercial appeared during a “Saturday Night Live” holiday special on Wednesday.",
+   "article_text": "",
+   "source": "NYT Business",
+   "category": "macro",
+   "type": "macro",
+   "sentiment": "neutral",
+   "domain": "nytimes.com",
+   "published": "2026-11-27T23:29:54+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ac67de8b6cc5",
+   "title": "Saba Capital sells $8,031 in PIMCO Dynamic Income Strategy Fund",
+   "link": "https://www.investing.com/news/insider-trading-news/saba-capital-sells-8031-in-pimco-dynamic-income-strategy-fund-93CH-5053999",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-27T23:19:51+00:00",
+   "tickers": [
+    "MSTR"
+   ]
+  },
   {
    "id": "802632584f0e",
    "title": "TCC Group Holdings Co., Ltd. 2026 Q3 - Results - Earnings Call Presentation",
@@ -65,6 +95,22 @@
    ]
   },
   {
+   "id": "692727fc9c59",
+   "title": "Vaxcyte CEO Grant Pickering sells $2.27 million in common stock",
+   "link": "https://www.investing.com/news/insider-trading-news/vaxcyte-ceo-grant-pickering-sells-227-million-in-common-stock-93CH-5053993",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-27T23:16:10+00:00",
+   "tickers": [
+    "PCVX"
+   ]
+  },
+  {
    "id": "a5bed6ce8535",
    "title": "Tuya Inc. 2026 Q3 - Results - Earnings Call Presentation",
    "link": "https://seekingalpha.com/article/4972661-tuya-inc-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
@@ -76,6 +122,48 @@
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
    "published": "2026-11-27T23:15:57+00:00",
+   "tickers": []
+  },
+  {
+   "id": "3ea8d47fe9a8",
+   "title": "Geospace Technologies officer buys $10,844 in common stock",
+   "link": "https://www.investing.com/news/insider-trading-news/geospace-technologies-officer-buys-10844-in-common-stock-93CH-5053992",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-27T23:15:52+00:00",
+   "tickers": []
+  },
+  {
+   "id": "8f11cea11746",
+   "title": "Universal Insurance executive chairman sells $966,432 in stock",
+   "link": "https://www.investing.com/news/insider-trading-news/universal-insurance-executive-chairman-sells-966432-in-stock-93CH-5053991",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-27T23:15:48+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c4f40f313144",
+   "title": "Saba Capital buys $14,196 in Gabelli Healthcare & WellnessRx",
+   "link": "https://www.investing.com/news/insider-trading-news/saba-capital-buys-14196-in-gabelli-healthcare--wellnessrx-93CH-5053990",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-27T23:15:41+00:00",
    "tickers": []
   },
   {
@@ -299,64 +387,6 @@
    ]
   },
   {
-   "id": "727a15f11e31",
-   "title": "Hogs Close with Gains on Short Friday Session",
-   "link": "https://www.nasdaq.com/articles/hogs-close-gains-short-friday-session",
-   "summary": "Lean hog futures posted gains of 57 cents to $1.05 across the board on Friday, finding some strength on the short Friday session. December was still down $1.35 on the week. USDA’s national base hog price was reported at $33.37 on Friday afternoon, down 24 cents from the day prior....",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-11-27T23:06:58+00:00",
-   "tickers": []
-  },
-  {
-   "id": "14d77573c1a4",
-   "title": "Cattle Rally Out of Thanksgiving with Friday Gains",
-   "link": "https://www.nasdaq.com/articles/cattle-rally-out-thanksgiving-friday-gains",
-   "summary": "Live Cattle futures closed with Friday gains of 87 cents to $1.45 on the short session, with December up $1.35 on the week. Cash trade has seen very light trade at $355 dressed in the north this week, with live sales of $222. Southern business was up to $224. Feeder...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-11-27T23:06:58+00:00",
-   "tickers": []
-  },
-  {
-   "id": "ead6f2b91915",
-   "title": "Wheat Round Out Post-Thanksgiving Trade with Gains",
-   "link": "https://www.nasdaq.com/articles/wheat-round-out-post-thanksgiving-trade-gains",
-   "summary": "The wheat complex was higher across three exchanges on Friday’s short session. Chicago SRW futures were 1 to 4 1/4 cents higher on Friday with December slipping 7 ¾ cents this week. KC wheat futures were 3 ¼ to 6 ¼ cents higher at the close, with December 16 ½...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-11-27T23:06:58+00:00",
-   "tickers": [
-    "POST"
-   ]
-  },
-  {
-   "id": "19341a146905",
-   "title": "Nat-Gas Prices Tumble on Warm US Weather Forecasts",
-   "link": "https://www.nasdaq.com/articles/nat-gas-prices-tumble-warm-us-weather-forecasts",
-   "summary": "January Nymex natural gas (NGF27 ) closed down -0.167 (-4.57%) on Friday. Jan nat-gas prices settled sharply lower on Friday as forecasts pointed to above-normal US temperatures for the first half of December, potentially reducing heating demand for nat-gas. The Commodity Weather Group said Friday that forecasts trended warmer, with...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-11-27T23:06:57+00:00",
-   "tickers": []
-  },
-  {
    "id": "ef335ba4528d",
    "title": "Soybeans Rally on the Short Friday Session",
    "link": "https://www.nasdaq.com/articles/soybeans-rally-short-friday-session",
@@ -366,36 +396,6 @@
    "category": "stocks",
    "type": "stocks",
    "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-11-27T23:06:57+00:00",
-   "tickers": []
-  },
-  {
-   "id": "b18c1b523945",
-   "title": "Corn Bulls Rally on the Post-Thanksgiving Session",
-   "link": "https://www.nasdaq.com/articles/corn-bulls-rally-post-thanksgiving-session",
-   "summary": "Corn futures gapped higher at the hard open, with contracts closing with gains of 3 to 7 cents, as December was up 12 ¼ cents on the week. The CmdtyView national average Cash Corn price was up 7 3/4 cents at $4.18 1/4. First Notice Day for December is on...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-11-27T23:06:57+00:00",
-   "tickers": [
-    "POST"
-   ]
-  },
-  {
-   "id": "9e2d24438bf0",
-   "title": "Crude Prices Retreat on Possible Increase in OPEC Crude Output",
-   "link": "https://www.nasdaq.com/articles/crude-prices-retreat-possible-increase-opec-crude-output",
-   "summary": "January WTI crude oil (CLF27 ) closed down -0.60 (-0.72%) on Friday, and January RBOB gasoline (RBF27 ) closed up +0.0066 (+0.27%). Crude oil and gasoline prices gave up an early advance on Friday and settled mixed. Dollar strength on Friday weighed on energy prices. Also, the outlook for higher...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
    "domain": "nasdaq.com",
    "published": "2026-11-27T23:06:57+00:00",
    "tickers": []
@@ -413,38 +413,6 @@
    "domain": "nasdaq.com",
    "published": "2026-11-27T23:06:56+00:00",
    "tickers": []
-  },
-  {
-   "id": "9ce449fd0291",
-   "title": "Supply Woes Push Cocoa Prices to 3-Week Highs",
-   "link": "https://www.nasdaq.com/articles/supply-woes-push-cocoa-prices-3-week-highs",
-   "summary": "March ICE NY cocoa (CCH27 ) closed up +65 (+1.20%) on Friday, and ICE London cocoa #7 (CAZ26 ) closed up +62 (+1.54%). Cocoa prices extended this week’s rally on Friday and posted 3-week highs amid reduced cocoa shipments from the Ivory Coast. Ivory Coast government data on Monday showed...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-27T23:06:56+00:00",
-   "tickers": [
-    "ICE"
-   ]
-  },
-  {
-   "id": "d4bee18ee037",
-   "title": "Brazilian Real Strength Lifts Coffee Prices",
-   "link": "https://www.nasdaq.com/articles/brazilian-real-strength-lifts-coffee-prices",
-   "summary": "March arabica coffee (KCH26 ) closed up +5.55 (+2.06%) on Friday, and January ICE robusta coffee (RMF27 ) closed up +89 (+3.12%). Coffee prices settled sharply higher on Friday and posted 1-week highs. Short covering emerged in coffee futures Friday after the Brazilian real (^USDBRL ) rallied to a 2.5-week...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-27T23:06:56+00:00",
-   "tickers": [
-    "ICE"
-   ]
   },
   {
    "id": "86a2315a0e49",
@@ -472,6 +440,34 @@
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
    "published": "2026-11-27T23:05:34+00:00",
+   "tickers": []
+  },
+  {
+   "id": "3fface0c378b",
+   "title": "Casdin Partners buys $2.1 million in Standard BioTools stock",
+   "link": "https://www.investing.com/news/insider-trading-news/casdin-partners-buys-21-million-in-standard-biotools-stock-93CH-5053984",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-27T23:05:09+00:00",
+   "tickers": []
+  },
+  {
+   "id": "19341a146905",
+   "title": "Nat-Gas Prices Tumble on Warm US Weather Forecasts",
+   "link": "https://www.nasdaq.com/articles/nat-gas-prices-tumble-warm-us-weather-forecasts",
+   "summary": "January Nymex natural gas (NGF27 ) closed down -0.167 (-4.57%) on Friday. Jan nat-gas prices settled sharply lower on Friday as forecasts pointed to above-normal US temperatures for the first half of December, potentially reducing heating demand for nat-gas. The Commodity Weather Group said Friday that forecasts trended warmer, with...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-11-27T23:01:31+00:00",
    "tickers": []
   },
   {
@@ -505,6 +501,38 @@
    "sentiment": "neutral",
    "domain": "nasdaq.com",
    "published": "2026-11-27T23:01:31+00:00",
+   "tickers": [
+    "ICE"
+   ]
+  },
+  {
+   "id": "9ce449fd0291",
+   "title": "Supply Woes Push Cocoa Prices to 3-Week Highs",
+   "link": "https://www.nasdaq.com/articles/supply-woes-push-cocoa-prices-3-week-highs",
+   "summary": "March ICE NY cocoa (CCH27 ) closed up +65 (+1.20%) on Friday, and ICE London cocoa #7 (CAZ26 ) closed up +62 (+1.54%). Cocoa prices extended this week’s rally on Friday and posted 3-week highs amid reduced cocoa shipments from the Ivory Coast. Ivory Coast government data on Monday showed...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-27T23:01:30+00:00",
+   "tickers": [
+    "ICE"
+   ]
+  },
+  {
+   "id": "d4bee18ee037",
+   "title": "Brazilian Real Strength Lifts Coffee Prices",
+   "link": "https://www.nasdaq.com/articles/brazilian-real-strength-lifts-coffee-prices",
+   "summary": "March arabica coffee (KCH26 ) closed up +5.55 (+2.06%) on Friday, and January ICE robusta coffee (RMF27 ) closed up +89 (+3.12%). Coffee prices settled sharply higher on Friday and posted 1-week highs. Short covering emerged in coffee futures Friday after the Brazilian real (^USDBRL ) rallied to a 2.5-week...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-27T23:01:30+00:00",
    "tickers": [
     "ICE"
    ]
@@ -728,6 +756,94 @@
    "tickers": []
   },
   {
+   "id": "1534b2533895",
+   "title": "Cotton Rallies on the Short Friday Session",
+   "link": "https://www.nasdaq.com/articles/cotton-rallies-short-friday-session",
+   "summary": "Cotton futures closed the short Friday session with contracts up 64 to 142 points after shooting higher out of the gates at the open. December rallied for a 560 point gain this week. Crude oil was down 35 cents per barrel on the session to $83.33, with the US dollar...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-11-27T22:55:20+00:00",
+   "tickers": []
+  },
+  {
+   "id": "727a15f11e31",
+   "title": "Hogs Close with Gains on Short Friday Session",
+   "link": "https://www.nasdaq.com/articles/hogs-close-gains-short-friday-session",
+   "summary": "Lean hog futures posted gains of 57 cents to $1.05 across the board on Friday, finding some strength on the short Friday session. December was still down $1.35 on the week. USDA’s national base hog price was reported at $33.37 on Friday afternoon, down 24 cents from the day prior....",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-11-27T22:55:19+00:00",
+   "tickers": []
+  },
+  {
+   "id": "14d77573c1a4",
+   "title": "Cattle Rally Out of Thanksgiving with Friday Gains",
+   "link": "https://www.nasdaq.com/articles/cattle-rally-out-thanksgiving-friday-gains",
+   "summary": "Live Cattle futures closed with Friday gains of 87 cents to $1.45 on the short session, with December up $1.35 on the week. Cash trade has seen very light trade at $355 dressed in the north this week, with live sales of $222. Southern business was up to $224. Feeder...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-11-27T22:55:19+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ead6f2b91915",
+   "title": "Wheat Round Out Post-Thanksgiving Trade with Gains",
+   "link": "https://www.nasdaq.com/articles/wheat-round-out-post-thanksgiving-trade-gains",
+   "summary": "The wheat complex was higher across three exchanges on Friday’s short session. Chicago SRW futures were 1 to 4 1/4 cents higher on Friday with December slipping 7 ¾ cents this week. KC wheat futures were 3 ¼ to 6 ¼ cents higher at the close, with December 16 ½...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-11-27T22:55:19+00:00",
+   "tickers": [
+    "POST"
+   ]
+  },
+  {
+   "id": "b18c1b523945",
+   "title": "Corn Bulls Rally on the Post-Thanksgiving Session",
+   "link": "https://www.nasdaq.com/articles/corn-bulls-rally-post-thanksgiving-session",
+   "summary": "Corn futures gapped higher at the hard open, with contracts closing with gains of 3 to 7 cents, as December was up 12 ¼ cents on the week. The CmdtyView national average Cash Corn price was up 7 3/4 cents at $4.18 1/4. First Notice Day for December is on...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-11-27T22:55:19+00:00",
+   "tickers": [
+    "POST"
+   ]
+  },
+  {
+   "id": "9e2d24438bf0",
+   "title": "Crude Prices Retreat on Possible Increase in OPEC Crude Output",
+   "link": "https://www.nasdaq.com/articles/crude-prices-retreat-possible-increase-opec-crude-output",
+   "summary": "January WTI crude oil (CLF27 ) closed down -0.60 (-0.72%) on Friday, and January RBOB gasoline (RBF27 ) closed up +0.0066 (+0.27%). Crude oil and gasoline prices gave up an early advance on Friday and settled mixed. Dollar strength on Friday weighed on energy prices. Also, the outlook for higher...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-27T22:55:19+00:00",
+   "tickers": []
+  },
+  {
    "id": "86448e87e24e",
    "title": "Auddia releases financial statements of Thramann Holdings and pro forma data",
    "link": "https://www.investing.com/news/sec-filings/auddia-releases-financial-statements-of-thramann-holdings-and-pro-forma-data-93CH-5053972",
@@ -788,20 +904,6 @@
     "ROL",
     "DECK"
    ]
-  },
-  {
-   "id": "1534b2533895",
-   "title": "Cotton Rallies on the Short Friday Session",
-   "link": "https://www.nasdaq.com/articles/cotton-rallies-short-friday-session",
-   "summary": "Cotton futures closed the short Friday session with contracts up 64 to 142 points after shooting higher out of the gates at the open. December rallied for a 560 point gain this week. Crude oil was down 35 cents per barrel on the session to $83.33, with the US dollar...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-11-27T22:49:08+00:00",
-   "tickers": []
   },
   {
    "id": "3e33a6d120e9",
@@ -8751,110 +8853,6 @@
    "tickers": [
     "AMZN"
    ]
-  },
-  {
-   "id": "3bc6b0b78b86",
-   "title": "Oil trades lower as Middle East strikes collide with rising Gulf flows",
-   "link": "https://www.investing.com/news/commodities-news/oil-heads-for-first-weekly-gain-in-november-as-gulf-attacks-threaten-supply-recove-5052813",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "downgrade",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-11-27T18:28:24+00:00",
-   "tickers": []
-  },
-  {
-   "id": "154d69033839",
-   "title": "X Financial (XYF) Q3 2026 Earnings Call Transcript",
-   "link": "https://www.nasdaq.com/articles/x-financial-xyf-q3-2026-earnings-call-transcript",
-   "summary": "@media (max-width: 768px) { .image-container { width: 100% !important; float: none !important; margin: 0 0 1rem 0 !important; } } Image source: The Mo",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-27T18:28:06+00:00",
-   "tickers": []
-  },
-  {
-   "id": "49942ccc2ab6",
-   "title": "Sify Technologies GAAP EPS of INR 0.09, revenue of INR 13.8B",
-   "link": "https://seekingalpha.com/news/4677088-sify-technologies-gaap-eps-of-inr-009-revenue-of-inr-138b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha M&A",
-   "category": "ma",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-27T18:27:23+00:00",
-   "tickers": []
-  },
-  {
-   "id": "cafdbaab2f13",
-   "title": "Here's Why Vera Therapeutics Stock Surged Today (Hint: It's Not Great News For Vertex Shareholders)",
-   "link": "https://www.nasdaq.com/articles/heres-why-vera-therapeutics-stock-surged-today-hint-its-not-great-news-vertex-shareholders",
-   "summary": "Key PointsVera Therapeutics is a smaller company looking to establish sales of an already approved drug, Trutakna.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-11-27T18:27:13+00:00",
-   "tickers": [
-    "VERA",
-    "VRTX",
-    "NWSA"
-   ]
-  },
-  {
-   "id": "4256b2fe7d8b",
-   "title": "Cardiff Oncology receives Nasdaq notice for minimum bid price deficiency",
-   "link": "https://www.investing.com/news/sec-filings/cardiff-oncology-receives-nasdaq-notice-for-minimum-bid-price-deficiency-93CH-5053781",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-27T18:26:47+00:00",
-   "tickers": [
-    "NDAQ"
-   ]
-  },
-  {
-   "id": "3882725e8be7",
-   "title": "Trump’s Nvidia intervention has a cost for US stocks",
-   "link": "https://www.ft.com/content/3318a827-bf20-4826-947d-9327381c3c10?syn-25a6b1a6=1",
-   "summary": "Political meddling has already rubbed some of the gloss off the dollar and US Treasuries. Now it is hitting equities",
-   "article_text": "",
-   "source": "FT Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "ft.com",
-   "published": "2026-11-27T18:26:25+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e36e6427ff77",
-   "title": "Gold jumps 3% after hitting 15-month low earlier this week",
-   "link": "https://www.investing.com/news/commodities-news/gold-steadies-near-15month-low-as-fed-hike-bets-offset-techled-rally-5052805",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-11-27T18:26:17+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8875,7 +8873,6 @@
   "GS": "The Goldman Sachs Group",
   "AMD": "Advanced Micro Devices",
   "TQQQ": "ProShares UltraPro QQQ",
-  "VRTX": "Vertex Pharmaceuticals",
   "WMB": "The Williams Companies",
   "OPEN": "Opendoor Technologies",
   "BMY": "Bristol-Myers Squibb",
@@ -8891,7 +8888,6 @@
   "MU": "Micron Technology",
   "RGTI": "Rigetti Computing",
   "SOFI": "SoFi Technologies",
-  "VERA": "Vera Therapeutics",
   "WU": "The Western Union",
   "COST": "Costco Wholesale",
   "HCC": "Warrior Met Coal",
@@ -8973,6 +8969,7 @@
   "LINE": "Lineage",
   "MDB": "MongoDB",
   "MRK": "Merck &",
+  "PCVX": "Vaxcyte",
   "RDW": "Redwire",
   "ROL": "Rollins",
   "SCI": "Service",
