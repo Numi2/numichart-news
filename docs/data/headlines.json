@@ -1,8 +1,52 @@
 {
- "generated": "2026-11-27T22:21:59.342492+00:00",
+ "generated": "2026-11-27T22:28:07.698190+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "c84ddbdbb4af",
+   "title": "8-K - HeartSciences Inc. (0001468492) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/1468492/000121390026124612/0001213900-26-124612-index.htm",
+   "summary": "Filed: 2026-11-27 AccNo: 0001213900-26-124612 Size: 243 KB Item 1.01: Entry into a Material Definitive Agreement Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
+   "article_text": "",
+   "source": "SEC 8-K Filings",
+   "category": "filings",
+   "type": "8k",
+   "sentiment": "neutral",
+   "domain": "sec.gov",
+   "published": "2026-11-27T22:27:09+00:00",
+   "tickers": []
+  },
+  {
+   "id": "78e6f0a8f0df",
+   "title": "8-K - OLENOX INDUSTRIES INC. (0001023994) (Filer)",
+   "link": "https://www.sec.gov/Archives/edgar/data/1023994/000121390026124611/0001213900-26-124611-index.htm",
+   "summary": "Filed: 2026-11-27 AccNo: 0001213900-26-124611 Size: 198 KB Item 3.02: Unregistered Sales of Equity Securities",
+   "article_text": "",
+   "source": "SEC 8-K Filings",
+   "category": "filings",
+   "type": "8k",
+   "sentiment": "neutral",
+   "domain": "sec.gov",
+   "published": "2026-11-27T22:26:47+00:00",
+   "tickers": []
+  },
+  {
+   "id": "d05e0fd229a2",
+   "title": "MS&AD Insurance Group Holdings, Inc. (MSADY) Q2 2027 Earnings Call Transcript",
+   "link": "https://seekingalpha.com/article/4972649-ms-and-ad-insurance-group-holdings-inc-msady-q2-2027-earnings-call-transcript?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-27T22:21:16+00:00",
+   "tickers": [
+    "MS"
+   ]
+  },
   {
    "id": "548f16ce5e47",
    "title": "De la planification énergétique nationale à la mise en pratique industrielle : Huawei et ses partenaires s'unissent pour une vision inclusive de l'énergie en Afrique",
@@ -15,6 +59,20 @@
    "sentiment": "neutral",
    "domain": "prnewswire.com",
    "published": "2026-11-27T22:20:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "5d2094c2c310",
+   "title": "Wall Street ends higher as battered AI stocks gain in volatile week",
+   "link": "https://www.investing.com/news/stock-market-news/wall-st-futures-surge-as-investors-return-from-holiday-5053052",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-11-27T22:18:18+00:00",
    "tickers": []
   },
   {
@@ -86,6 +144,22 @@
    "domain": "globenewswire.com",
    "published": "2026-11-27T22:15:00+00:00",
    "tickers": []
+  },
+  {
+   "id": "235087fb0219",
+   "title": "60 Degrees Pharmaceuticals receives Nasdaq notice for equity listing deficiency",
+   "link": "https://www.investing.com/news/sec-filings/60-degrees-pharmaceuticals-receives-nasdaq-notice-for-equity-listing-deficiency-93CH-5053938",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-27T22:14:42+00:00",
+   "tickers": [
+    "NDAQ"
+   ]
   },
   {
    "id": "f31751ba1718",
@@ -268,6 +342,48 @@
    ]
   },
   {
+   "id": "254de450ebed",
+   "title": "Glass Lewis backs Vail Resorts board in proxy fight with activist Oasis",
+   "link": "https://www.investing.com/news/stock-market-news/glass-lewis-backs-vail-resorts-board-in-proxy-fight-with-activist-oasis-5053937",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-27T22:12:25+00:00",
+   "tickers": []
+  },
+  {
+   "id": "d7ec113ffaa1",
+   "title": "Stock Market Today, Nov. 27: Anthropic Jumps 11%, Reclaiming Its $83 IPO Price as Wall Street Rallies",
+   "link": "https://www.nasdaq.com/articles/stock-market-today-nov-27-anthropic-jumps-11-reclaiming-its-83-ipo-price-wall-street",
+   "summary": "Anthropic surged 10.98% on Friday, November 27, closing at $91.88 as renewed buying interest in artificial intelligence (AI) stocks fueled a broad market recovery. The rally pushed shares further above their $83 IPO price following a volatile first week of trading, as investors r",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "offering",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-11-27T22:11:03+00:00",
+   "tickers": []
+  },
+  {
+   "id": "c10c1147f06c",
+   "title": "Distribution Solutions Group shareholders approve merger with Eclipse Parent Acquisitions",
+   "link": "https://www.investing.com/news/sec-filings/distribution-solutions-group-shareholders-approve-merger-with-eclipse-parent-acquisitions-93CH-5053936",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "positive",
+   "domain": "investing.com",
+   "published": "2026-11-27T22:10:59+00:00",
+   "tickers": []
+  },
+  {
    "id": "dd6a936e5adc",
    "title": "8-K - Sentinel Holdings Ltd. (0000889353) (Filer)",
    "link": "https://www.sec.gov/Archives/edgar/data/889353/000109690626001913/0001096906-26-001913-index.htm",
@@ -282,6 +398,39 @@
    "tickers": []
   },
   {
+   "id": "ee97d9b89abe",
+   "title": "Stock Market Today, Nov. 27: Chip Stocks Rebound Sharply on Broad AI Enthusiasm",
+   "link": "https://www.nasdaq.com/articles/stock-market-today-nov-27-chip-stocks-rebound-sharply-broad-ai-enthusiasm",
+   "summary": "Intel (NASDAQ:INTC), a PC, data center, and foundry semiconductor maker closed at $57.40, up 5.38%. Chip and AI-linked stocks rebounded on Friday after Thanksgiving, and investors are now watching semiconductor demand and Intel's foundry roadmap.Trading volume reached 76.2 millio",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-27T22:09:43+00:00",
+   "tickers": [
+    "INTC"
+   ]
+  },
+  {
+   "id": "8ef209e01586",
+   "title": "Stock Market Today, Nov. 27: Sandisk Surges 16% as Memory Stocks Rebound From AI-Driven Selloff",
+   "link": "https://www.nasdaq.com/articles/stock-market-today-nov-27-sandisk-surges-16-memory-stocks-rebound-ai-driven-selloff",
+   "summary": "Sandisk (NASDAQ:SNDK), a NAND flash storage solutions provider, surged to $85.36, up 15.96%. Shares rose in premarket and early Friday trading as memory stocks rebounded from an AI-driven sell-off, and investors are now watching Micron's (NASDAQ:MU) earnings and NAND pricing.Trad",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-11-27T22:08:57+00:00",
+   "tickers": [
+    "SNDK",
+    "MU"
+   ]
+  },
+  {
    "id": "726b03dbaf21",
    "title": "8-K - Q/C TECHNOLOGIES, INC. (0001321834) (Filer)",
    "link": "https://www.sec.gov/Archives/edgar/data/1321834/000149315226054517/0001493152-26-054517-index.htm",
@@ -294,6 +443,22 @@
    "domain": "sec.gov",
    "published": "2026-11-27T22:08:17+00:00",
    "tickers": []
+  },
+  {
+   "id": "6a9a39e1f914",
+   "title": "Vivos Therapeutics shares suspended from Nasdaq after bid price falls below threshold",
+   "link": "https://www.investing.com/news/sec-filings/vivos-therapeutics-shares-suspended-from-nasdaq-after-bid-price-falls-below-threshold-93CH-5053931",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "negative",
+   "domain": "investing.com",
+   "published": "2026-11-27T22:06:11+00:00",
+   "tickers": [
+    "NDAQ"
+   ]
   },
   {
    "id": "540a7a9e0d5b",
@@ -324,6 +489,52 @@
    "tickers": []
   },
   {
+   "id": "18f7e2517d0d",
+   "title": "Frontier Nuclear gets Nasdaq minimum bid price deficiency notice",
+   "link": "https://www.investing.com/news/company-news/frontier-nuclear-gets-nasdaq-minimum-bid-price-deficiency-notice-93CH-5053929",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-27T22:04:31+00:00",
+   "tickers": [
+    "NDAQ"
+   ]
+  },
+  {
+   "id": "0972079719d8",
+   "title": "GoGo AI Network sets 10-to-1 share consolidation for December",
+   "link": "https://www.investing.com/news/company-news/gogo-ai-network-sets-10to1-share-consolidation-for-december-93CH-5053930",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-27T22:04:31+00:00",
+   "tickers": []
+  },
+  {
+   "id": "193db35803b5",
+   "title": "AppFolio Outlook: Scaling SaaS Ecosystem Drives Sustainable Profitability Growth",
+   "link": "https://www.nasdaq.com/articles/appfolio-outlook-scaling-saas-ecosystem-drives-sustainable-profitability-growth",
+   "summary": "Key PointsAppFolio continues to scale its AI-integrated property management platform profitably.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "guidance",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-27T22:03:53+00:00",
+   "tickers": [
+    "APPF"
+   ]
+  },
+  {
    "id": "008a21f72ea2",
    "title": "Exascale Labs Is Priced For GPU Demand It Has Yet To Lock In",
    "link": "https://seekingalpha.com/article/4972647-exascale-labs-is-priced-for-gpu-demand-it-has-yet-to-lock-in?source=feed_all_articles",
@@ -335,6 +546,20 @@
    "sentiment": "neutral",
    "domain": "seekingalpha.com",
    "published": "2026-11-27T22:03:01+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e70ddbe9494f",
+   "title": "Aspac II Acquisition Corp. issues $500,000 promissory note to sponsor",
+   "link": "https://www.investing.com/news/sec-filings/aspac-ii-acquisition-corp-issues-500000-promissory-note-to-sponsor-93CH-5053927",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-27T22:02:39+00:00",
    "tickers": []
   },
   {
@@ -366,6 +591,20 @@
    "tickers": []
   },
   {
+   "id": "2d4b25077de9",
+   "title": "Lensar director Elizabeth O’Farrell sells $90,640 in stock",
+   "link": "https://www.investing.com/news/insider-trading-news/lensar-director-elizabeth-ofarrell-sells-90640-in-stock-93CH-5053924",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-27T22:00:49+00:00",
+   "tickers": []
+  },
+  {
    "id": "ddf2b1c0607a",
    "title": "8-K - Moleculin Biotech, Inc. (0001659617) (Filer)",
    "link": "https://www.sec.gov/Archives/edgar/data/1659617/000143774926038383/0001437749-26-038383-index.htm",
@@ -377,6 +616,20 @@
    "sentiment": "neutral",
    "domain": "sec.gov",
    "published": "2026-11-27T22:00:31+00:00",
+   "tickers": []
+  },
+  {
+   "id": "88b8ad0ff569",
+   "title": "S&P lifts South Africa ratings on improving fiscal position",
+   "link": "https://www.investing.com/news/economy-news/sp-lifts-south-africa-ratings-on-improving-fiscal-position-5053922",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-27T22:00:23+00:00",
    "tickers": []
   },
   {
@@ -6434,20 +6687,6 @@
    "tickers": []
   },
   {
-   "id": "5d2094c2c310",
-   "title": "Wall Street ends higher as battered AI stocks gain in volatile week",
-   "link": "https://www.investing.com/news/stock-market-news/wall-st-futures-surge-as-investors-return-from-holiday-5053052",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing Stock",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "investing.com",
-   "published": "2026-11-27T18:42:17+00:00",
-   "tickers": []
-  },
-  {
    "id": "1bf3a3849c7a",
    "title": "CoreWeave Remains Non-Investable",
    "link": "https://seekingalpha.com/article/4972632-coreweave-remains-non-investable?source=feed_all_articles",
@@ -8623,241 +8862,6 @@
    "domain": "prnewswire.com",
    "published": "2026-11-27T17:59:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "e69e618d0df3",
-   "title": "Three Companies Control Canada’s Phone Bills and Hockey Broadcasts. $90,000 in Their Stocks Pays $4,373 a Year",
-   "link": "https://biztoc.com/x/a524252ccbf6de08?ref=rss",
-   "summary": "The post Three Companies Control Canada’s Phone Bills and Hockey Broadcasts. $90,000 in Their Stocks Pays $4,373 a Year appeared first on 24/7 Wall St.. Canadians pay their wireless, home internet, and sports streaming bills every month, whether markets are rising or falling. Three companies…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-27T17:58:55+00:00",
-   "tickers": []
-  },
-  {
-   "id": "69ee40a8336e",
-   "title": "Integra Publishes Annual Sustainability Report",
-   "link": "https://www.nasdaq.com/articles/integra-publishes-annual-sustainability-report",
-   "summary": "Integra Resources Corp. announced the publication of its 6th annual Sustainability Report covering the Florida Canyon Mine, the DeLamar Project, and the Nevada North Project. The report highlights the issuer's first full year operating Florida Canyon in northern Nevada and the si",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-27T17:58:48+00:00",
-   "tickers": []
-  },
-  {
-   "id": "500492fc6b76",
-   "title": "SemiLEDs Reports Fourth Quarter and Fiscal Year End 2026 Financial Results",
-   "link": "https://www.nasdaq.com/articles/semileds-reports-fourth-quarter-and-fiscal-year-end-2026-financial-results",
-   "summary": "SemiLEDs Corporation announced its financial results for the fourth quarter and full fiscal year 2026, ended August 31, 2026. Revenue for the fourth quarter of fiscal 2026 was $6.4 million, with GAAP net income attributable to SemiLEDs stockholders of $640 thousand, or $0.08 per",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-27T17:58:48+00:00",
-   "tickers": []
-  },
-  {
-   "id": "cd0b47d74cb6",
-   "title": "Oracle Has Frustrated Me, but Even With Zero AI Revenue the Stock Is Worth $133—So I’m Buying at $104",
-   "link": "https://biztoc.com/x/de05d104f6a4ec72?ref=rss",
-   "summary": "The post Oracle Has Frustrated Me, but Even With Zero AI Revenue the Stock Is Worth $133—So I’m Buying at $104 appeared first on 24/7 Wall St.. My position grew again this week, and I expect to buy more next month. Oracle (NYSE:ORCL) closed at $103.87, down 45.99% year to date, and every leg lower…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-27T17:58:39+00:00",
-   "tickers": [
-    "ORCL"
-   ]
-  },
-  {
-   "id": "6db931e1906e",
-   "title": "News Corporation Files Daily Buy-Back Notification Disclosures",
-   "link": "https://www.nasdaq.com/articles/news-corporation-files-daily-buy-back-notification-disclosures",
-   "summary": "News Corporation submitted daily share repurchase notifications to the Australian Securities Exchange regarding transactions conducted under its stock repurchase program. Under the terms of the program, the company is authorized to acquire up to $1 billion in the aggregate of its",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-27T17:58:38+00:00",
-   "tickers": [
-    "NWSA"
-   ]
-  },
-  {
-   "id": "5c87c8e903c3",
-   "title": "Trump demands GDP data probe as chances of rate hike rise: What to know",
-   "link": "https://biztoc.com/x/b0305214fb07668e?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-11-27T17:58:27+00:00",
-   "tickers": []
-  },
-  {
-   "id": "2cba8f13bf7b",
-   "title": "Target $140 Entries, $240 Exits After Ken Griffin and Citadel’s Distressed Bloom Energy Buy",
-   "link": "https://biztoc.com/x/32186744da8c3a91?ref=rss",
-   "summary": "The post Target $140 Entries, $240 Exits After Ken Griffin and Citadel’s Distressed Bloom Energy Buy appeared first on 24/7 Wall St.. Bloom Energy (NYSE:BE) trades at $152.89, with price levels near $140 and $240 worth tracking. The stock fell 25.02% in a month even though management raised…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-27T17:58:24+00:00",
-   "tickers": []
-  },
-  {
-   "id": "41daf53fc0a3",
-   "title": "Adobe’s 33% 2026 Slide is Worth Buying Says Wall Street Analyst Predicting 60% Gains After Recent Re-Rating",
-   "link": "https://biztoc.com/x/5e68902a67095dc8?ref=rss",
-   "summary": "The post Adobe’s 33% 2026 Slide is Worth Buying Says Wall Street Analyst Predicting 60% Gains After Recent Re-Rating appeared first on 24/7 Wall St.. Adobe (NASDAQ:ADBE) is down 33.48% in 2026. Autodesk (NASDAQ:ADSK) is down 16.63%. Both just beat estimates and raised guidance on AI demand. Adobe…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-27T17:58:23+00:00",
-   "tickers": [
-    "ADBE",
-    "ADSK"
-   ]
-  },
-  {
-   "id": "eba3e70db146",
-   "title": "Black Friday travel deals are here: Save up to 65% on hotels, cruises, and more",
-   "link": "https://biztoc.com/x/2838c4acdc0e1a72?ref=rss",
-   "summary": "Published on Nov. 27, 2026 Find the best Black Friday travel deals of 2026, including savings on hotels, resorts, cruises, flights, and tours for 2027 vacations. – Photo courtesy of Jón T Jónsson/Pexels Dreaming about where 2027 might take you? While others swarm malls on Black Friday, 10BEST's…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-27T17:57:47+00:00",
-   "tickers": []
-  },
-  {
-   "id": "e630b103fba9",
-   "title": "‘It’s not helping’: calls for guardrails and regulations as AI use rises at US retailers",
-   "link": "https://biztoc.com/x/a39907d56b471f40?ref=rss",
-   "summary": "As millions of Americans begin holiday shopping this Black Friday, consumers and workers alike are already seeing how artificial intelligence is reshaping the retail landscape. Anna, a cashier in a southern Oregon Walmart and leader with United for Respect, who requested to remain anonymous for…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-11-27T17:57:11+00:00",
-   "tickers": [
-    "WMT"
-   ]
-  },
-  {
-   "id": "00a1d751f889",
-   "title": "The Best 3 Stocks to Buy in December to Hold Into 2027",
-   "link": "https://www.nasdaq.com/articles/best-3-stocks-buy-december-hold-2027",
-   "summary": "Key PointsNetflix says its churn improved year over year in the third quarter, even after price hikes.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "ma",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-27T17:57:02+00:00",
-   "tickers": []
-  },
-  {
-   "id": "190da56e6ab0",
-   "title": "Kirkland & Ellis Faces Scrutiny Over Legal Waivers In $100B Continuation Fund Boom",
-   "link": "https://biztoc.com/x/363a3b50e1bd0324?ref=rss",
-   "summary": "Private equity investors are challenging continuation-fund legal terms they say could limit lawsuits over disputed asset valuations.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-27T17:56:52+00:00",
-   "tickers": []
-  },
-  {
-   "id": "781d5f5781a8",
-   "title": "Bitcoin Would Benefit 'Massively' if the Fed Does This Unexpected Move",
-   "link": "https://biztoc.com/x/79971b9972ec8ed0?ref=rss",
-   "summary": "Economist says a 3% inflation target could boost Bitcoin and gold long term, while an AI-led crash may trigger monetary easing and Bitcoin’s rise.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "macro",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-27T17:56:46+00:00",
-   "tickers": []
-  },
-  {
-   "id": "503c240f4841",
-   "title": "Agnc Investment Corp ADR D stock hits 52-week low at 23.4 USD",
-   "link": "https://www.investing.com/news/company-news/agnc-investment-corp-adr-d-stock-hits-52week-low-at-234-usd-93CH-5053761",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-27T17:56:22+00:00",
-   "tickers": []
-  },
-  {
-   "id": "113be204ab27",
-   "title": "CUPE 5089 condemn moves by Toronto Police Services to expand in TTC and take over members’ work",
-   "link": "https://biztoc.com/x/321682a5fb01b7c3?ref=rss",
-   "summary": "Union argues growth of TPS presence in transit system won’t address core safety issues TORONTO -- Toronto Police Services representatives have indicated",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "positive",
-   "domain": "biztoc.com",
-   "published": "2026-11-27T17:55:50+00:00",
-   "tickers": [
-    "TTC"
-   ]
-  },
-  {
-   "id": "d824ba5eb3c8",
-   "title": "US Grown 'Cali' Cannabis Keeps Turning Up In Europe",
-   "link": "https://biztoc.com/x/796cbb64c56b41fb?ref=rss",
-   "summary": "Cannabis advertised as \"California grown\" is being sold across Europe, research has found. \"The United States is also becoming a source of cannabis for Europe, partly due to the diversion of ‘Cali’ cannabis (meaning ‘from California’, although it is unclear whether the branding actually refers to…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-27T17:55:43+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8922,6 +8926,7 @@
   "CCK": "Crown Holdings",
   "CVE": "Cenovus Energy",
   "HD": "The Home Depot",
+  "MS": "Morgan Stanley",
   "QBTS": "D-Wave Quantum",
   "HSBC": "HSBC Holdings",
   "KO": "The Coca-Cola",
@@ -8959,10 +8964,9 @@
   "PKG": "Packaging",
   "TE": "T1 Energy",
   "TEAM": "Atlassian",
-  "ADBE": "Photoshop",
   "NWSA": "News Corp",
-  "ADSK": "Autodesk",
   "APH": "Amphenol",
+  "APPF": "AppFolio",
   "AVGO": "Broadcom",
   "AZO": "AutoZone",
   "BBY": "Best Buy",
@@ -8970,7 +8974,6 @@
   "GOOG": "Alphabet",
   "LQDA": "Liquidia",
   "RS": "Reliance",
-  "TTC": "The Toro",
   "SQ": "Cash App",
   "RTX": "Raytheon",
   "BLSH": "Bullish",
