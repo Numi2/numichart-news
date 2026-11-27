@@ -1,8 +1,52 @@
 {
- "generated": "2026-11-27T08:48:04.228074+00:00",
+ "generated": "2026-11-27T08:54:24.688380+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "f2e3cf8c6bc2",
+   "title": "ZPMC's Electric Container Handling Equipment Makes Its European Debut in Poland",
+   "link": "https://www.prnewswire.com/news-releases/zpmcs-electric-container-handling-equipment-makes-its-european-debut-in-poland-302951640.html",
+   "summary": "SHANGHAI, Nov. 27, 2026 /PRNewswire/ -- ZPMC recently delivered two 45-tonne electric reach stackers and two electric empty container handlers to Hutchison Ports' Gdynia Container Terminal Sp. z o.o. in Poland. The delivery is ZPMC's first in Europe for both types of equipment. It marks...",
+   "article_text": "",
+   "source": "PR Newswire All",
+   "category": "press",
+   "type": "press",
+   "sentiment": "neutral",
+   "domain": "prnewswire.com",
+   "published": "2026-11-27T08:50:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "ab0c598c0a8b",
+   "title": "Patria Investments: Brazil's Post-Election Selloff Created An Even Deeper Discount",
+   "link": "https://seekingalpha.com/article/4972466-patria-investments-brazil-post-election-selloff-created-an-even-deeper-discount?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-27T08:49:14+00:00",
+   "tickers": [
+    "POST"
+   ]
+  },
+  {
+   "id": "5e7a4ec6a4af",
+   "title": "‘Ready for any storm’: UAE minister optimistic on economy as IMF lifts forecast",
+   "link": "https://www.cnbc.com/2026/11/25/uae-iran-war-economy-oil.html",
+   "summary": "The UAE is optimistic about achieving 7%-8% economic growth next year, banking on a \"different\" economic model.",
+   "article_text": "",
+   "source": "CNBC Economy",
+   "category": "macro",
+   "type": "guidance",
+   "sentiment": "neutral",
+   "domain": "cnbc.com",
+   "published": "2026-11-27T08:47:36+00:00",
+   "tickers": []
+  },
   {
    "id": "4fd52383e15e",
    "title": "DVY Vs. SPHD: Dividend Growth Beats A Higher Yield",
@@ -8632,50 +8676,6 @@
    "domain": "investing.com",
    "published": "2026-11-27T01:59:53+00:00",
    "tickers": []
-  },
-  {
-   "id": "36514dff1272",
-   "title": "Blackstone: Filter Out The Noise",
-   "link": "https://seekingalpha.com/article/4972404-blackstone-filter-out-the-noise?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-27T01:57:24+00:00",
-   "tickers": [
-    "BX"
-   ]
-  },
-  {
-   "id": "1a7997ab34ad",
-   "title": "Two Measures Of Consumer Attitudes: November 2026",
-   "link": "https://seekingalpha.com/article/4972417-two-measures-of-consumer-attitudes-november-2026?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-27T01:55:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "56fabc459596",
-   "title": "Soybeans Rally into the Holiday",
-   "link": "https://www.nasdaq.com/articles/soybeans-rally-holiday",
-   "summary": "Soybeans closed the pre-Thanksgiving trade session with contracts steady to a dime higher on Wednesday. The cmdtyView national average Cash Bean price was up 11 cents at $11.87 3/4. Soymeal futures were 60 cents to $8.60 higher, with Soy Oil futures down 12 to 5 points higher. The market will...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-11-27T01:52:54+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8730,7 +8730,6 @@
   "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
   "BA": "The Boeing",
-  "BX": "Blackstone",
   "ERO": "Ero Copper",
   "F": "Ford Motor",
   "GEV": "GE Vernova",
