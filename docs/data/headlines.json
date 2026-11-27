@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T22:48:59.190911+00:00",
+ "generated": "2026-11-27T22:55:04.241352+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -151,6 +151,20 @@
    "sentiment": "neutral",
    "domain": "biztoc.com",
    "published": "2026-11-27T22:43:23+00:00",
+   "tickers": []
+  },
+  {
+   "id": "f899533e969c",
+   "title": "Terra Innovatum Global: 3 Key Takeaways for Long-Term Investors",
+   "link": "https://www.nasdaq.com/articles/terra-innovatum-global-3-key-takeaways-long-term-investors",
+   "summary": "Key PointsTerra commenced component down payments for its first nuclear reactor.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-27T22:42:27+00:00",
    "tickers": []
   },
   {
@@ -737,6 +751,69 @@
    "tickers": []
   },
   {
+   "id": "19341a146905",
+   "title": "Nat-Gas Prices Tumble on Warm US Weather Forecasts",
+   "link": "https://www.nasdaq.com/articles/nat-gas-prices-tumble-warm-us-weather-forecasts",
+   "summary": "January Nymex natural gas (NGF27 ) closed down -0.167 (-4.57%) on Friday. Jan nat-gas prices settled sharply lower on Friday as forecasts pointed to above-normal US temperatures for the first half of December, potentially reducing heating demand for nat-gas. The Commodity Weather Group said Friday that forecasts trended warmer, with...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "negative",
+   "domain": "nasdaq.com",
+   "published": "2026-11-27T22:23:47+00:00",
+   "tickers": []
+  },
+  {
+   "id": "068443562059",
+   "title": "Dollar Climbs on Higher T-Note Yields and Crude Prices",
+   "link": "https://www.nasdaq.com/articles/dollar-climbs-higher-t-note-yields-and-crude-prices",
+   "summary": "The dollar index (DXY00 ) is up by +0.32% today. The dollar is climbing today amid higher T-note yields, which strengthens the dollar’s interest-rate differentials. Also, today’s rise in WTI crude oil prices to a 1.5-week high raises inflation expectations and could prompt the Fed to tighten monetary policy, supporting...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-11-27T22:23:46+00:00",
+   "tickers": []
+  },
+  {
+   "id": "d4bee18ee037",
+   "title": "Brazilian Real Strength Lifts Coffee Prices",
+   "link": "https://www.nasdaq.com/articles/brazilian-real-strength-lifts-coffee-prices",
+   "summary": "March arabica coffee (KCH26 ) closed up +5.55 (+2.06%) on Friday, and January ICE robusta coffee (RMF27 ) closed up +89 (+3.12%). Coffee prices settled sharply higher on Friday and posted 1-week highs. Short covering emerged in coffee futures Friday after the Brazilian real (^USDBRL ) rallied to a 2.5-week...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-27T22:23:46+00:00",
+   "tickers": [
+    "ICE"
+   ]
+  },
+  {
+   "id": "68469488fbd7",
+   "title": "Stocks Supported by a Recovery in the AI Trade",
+   "link": "https://www.nasdaq.com/articles/stocks-supported-recovery-ai-trade",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) is up +0.77% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.75%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +0.90%. December E-mini S&P futures (ESZ26 ) are up +0.70%, and December E-mini Nasdaq 2futures...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-27T22:23:46+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
+   ]
+  },
+  {
    "id": "d05e0fd229a2",
    "title": "MS&AD Insurance Group Holdings, Inc. (MSADY) Q2 2027 Earnings Call Transcript",
    "link": "https://seekingalpha.com/article/4972649-ms-and-ad-insurance-group-holdings-inc-msady-q2-2027-earnings-call-transcript?source=feed_all_articles",
@@ -827,20 +904,6 @@
    "tickers": []
   },
   {
-   "id": "19341a146905",
-   "title": "Nat-Gas Prices Tumble on Warm US Weather Forecasts",
-   "link": "https://www.nasdaq.com/articles/nat-gas-prices-tumble-warm-us-weather-forecasts",
-   "summary": "January Nymex natural gas (NGF27 ) closed down -0.167 (-4.57%) on Friday. Jan nat-gas prices settled sharply lower on Friday as forecasts pointed to above-normal US temperatures for the first half of December, potentially reducing heating demand for nat-gas. The Commodity Weather Group said Friday that forecasts trended warmer, with...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "negative",
-   "domain": "nasdaq.com",
-   "published": "2026-11-27T22:18:04+00:00",
-   "tickers": []
-  },
-  {
    "id": "49a0dd7e6218",
    "title": "Stocks Settle Sharply Higher as Chipmakers and AI Stocks Rebound",
    "link": "https://www.nasdaq.com/articles/stocks-settle-sharply-higher-chipmakers-and-ai-stocks-rebound",
@@ -871,20 +934,6 @@
    "sentiment": "neutral",
    "domain": "nasdaq.com",
    "published": "2026-11-27T22:18:04+00:00",
-   "tickers": []
-  },
-  {
-   "id": "068443562059",
-   "title": "Dollar Climbs on Higher T-Note Yields and Crude Prices",
-   "link": "https://www.nasdaq.com/articles/dollar-climbs-higher-t-note-yields-and-crude-prices",
-   "summary": "The dollar index (DXY00 ) is up by +0.32% today. The dollar is climbing today amid higher T-note yields, which strengthens the dollar’s interest-rate differentials. Also, today’s rise in WTI crude oil prices to a 1.5-week high raises inflation expectations and could prompt the Fed to tighten monetary policy, supporting...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "positive",
-   "domain": "nasdaq.com",
-   "published": "2026-11-27T22:18:03+00:00",
    "tickers": []
   },
   {
@@ -1173,22 +1222,6 @@
    ]
   },
   {
-   "id": "d4bee18ee037",
-   "title": "Brazilian Real Strength Lifts Coffee Prices",
-   "link": "https://www.nasdaq.com/articles/brazilian-real-strength-lifts-coffee-prices",
-   "summary": "March arabica coffee (KCH26 ) closed up +5.55 (+2.06%) on Friday, and January ICE robusta coffee (RMF27 ) closed up +89 (+3.12%). Coffee prices settled sharply higher on Friday and posted 1-week highs. Short covering emerged in coffee futures Friday after the Brazilian real (^USDBRL ) rallied to a 2.5-week...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-27T22:11:06+00:00",
-   "tickers": [
-    "ICE"
-   ]
-  },
-  {
    "id": "b5dfefd8eb32",
    "title": "Sugar Prices Settle Higher on Supply Conccerns and Brazilian Real Strength",
    "link": "https://www.nasdaq.com/articles/sugar-prices-settle-higher-supply-conccerns-and-brazilian-real-strength",
@@ -1202,25 +1235,6 @@
    "published": "2026-11-27T22:11:06+00:00",
    "tickers": [
     "ICE"
-   ]
-  },
-  {
-   "id": "68469488fbd7",
-   "title": "Stocks Supported by a Recovery in the AI Trade",
-   "link": "https://www.nasdaq.com/articles/stocks-supported-recovery-ai-trade",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) is up +0.77% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.75%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +0.90%. December E-mini S&P futures (ESZ26 ) are up +0.70%, and December E-mini Nasdaq 2futures...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-27T22:11:05+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
    ]
   },
   {
@@ -8853,31 +8867,12 @@
     "SPCX",
     "LIN"
    ]
-  },
-  {
-   "id": "e5e4d342d0cd",
-   "title": "Wall Street’s $6T Rout Reversal: SOXL, DRAM See Heavy Black Friday Trading",
-   "link": "https://biztoc.com/x/8a293d038dbb2c49?ref=rss",
-   "summary": "S&P 500's $6 trillion selloff last week reverses as chip stocks rebound and SOXL, SOXS and DRAM ETFs see heavy trading.",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-27T18:11:53+00:00",
-   "tickers": [
-    "SOXL",
-    "SOXS"
-   ]
   }
  ],
  "ticker_names": {
   "JIRE": "JPMorgan International Research Enhanced Equity ETF",
   "GLTR": "abrdn Physical Precious Metals Basket Shares ETF",
   "VYMI": "Vanguard International High Dividend Yield ETF",
-  "SOXL": "Direxion Daily Semiconductor Bull 3X Shares",
-  "SOXS": "Direxion Daily Semiconductor Bear 3X Shares",
   "ETH": "Grayscale Ethereum Staking Mini ETF Shares",
   "KRE": "State Street SPDR S&P Regional Banking ETF",
   "DIA": "SPDR Dow Jones Industrial Average ETF",
