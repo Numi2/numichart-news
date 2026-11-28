@@ -1,8 +1,22 @@
 {
- "generated": "2026-11-28T17:32:44.599142+00:00",
+ "generated": "2026-11-28T17:38:55.354935+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "8864c1e6f052",
+   "title": "UK Department for Work and Pensions hit by cyber attack",
+   "link": "https://www.ft.com/content/59a87442-51ad-47b7-ba11-e36876456fd4?syn-25a6b1a6=1",
+   "summary": "Agency says it has taken most of its online services down while it investigates",
+   "article_text": "",
+   "source": "FT Companies",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "ft.com",
+   "published": "2026-11-28T17:33:49+00:00",
+   "tickers": []
+  },
   {
    "id": "8a013c93cf71",
    "title": "America Is Betting on Ostrich Again",
@@ -161,6 +175,25 @@
    "published": "2026-11-28T17:11:00+00:00",
    "tickers": [
     "DUOL"
+   ]
+  },
+  {
+   "id": "49a0dd7e6218",
+   "title": "Stocks Settle Sharply Higher as Chipmakers and AI Stocks Rebound",
+   "link": "https://www.nasdaq.com/articles/stocks-settle-sharply-higher-chipmakers-and-ai-stocks-rebound",
+   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed up +1.60% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +1.18%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +2.61%. December E-mini S&P futures (ESZ26 ) rose +1.57%, and December E-mini Nasdaq futures...",
+   "article_text": "",
+   "source": "NASDAQ Stocks",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-28T17:09:12+00:00",
+   "tickers": [
+    "QQQ",
+    "NDAQ",
+    "SPY",
+    "DIA"
    ]
   },
   {
@@ -1081,25 +1114,6 @@
    "domain": "biztoc.com",
    "published": "2026-11-28T16:22:03+00:00",
    "tickers": []
-  },
-  {
-   "id": "49a0dd7e6218",
-   "title": "Stocks Settle Sharply Higher as Chipmakers and AI Stocks Rebound",
-   "link": "https://www.nasdaq.com/articles/stocks-settle-sharply-higher-chipmakers-and-ai-stocks-rebound",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) closed up +1.60% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +1.18%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +2.61%. December E-mini S&P futures (ESZ26 ) rose +1.57%, and December E-mini Nasdaq futures...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-28T16:12:40+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
-   ]
   },
   {
    "id": "767350e58ef3",
@@ -8833,20 +8847,6 @@
    "tickers": [
     "ADBE"
    ]
-  },
-  {
-   "id": "8304f50da131",
-   "title": "After an S&P 500 Correction, Your Money Could Double in 4 Years. Stock Market History Shows Reasons for Hope.",
-   "link": "https://www.nasdaq.com/articles/after-sp-500-correction-your-money-could-double-4-years-stock-market-history-shows-reasons",
-   "summary": "Key PointsCapital Group research found that the S&P 500 delivered more than 18% average annualized returns in the five years immediately following the market’s biggest declines.",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-28T07:48:02+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
