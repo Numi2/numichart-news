@@ -1,8 +1,40 @@
 {
- "generated": "2026-11-28T13:50:24.262547+00:00",
+ "generated": "2026-11-28T13:56:49.631667+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "1528d36328f6",
+   "title": "Regeneron: Dupixent Is Booming, And The Pipeline Is Heating Up",
+   "link": "https://seekingalpha.com/article/4972766-regeneron-dupixent-booming-pipeline-heating-up?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-28T13:50:23+00:00",
+   "tickers": [
+    "REGN"
+   ]
+  },
+  {
+   "id": "304844f1babc",
+   "title": "TransDigm Group: Higher Leverage, Lower Intrinsic Value, Still A High-Altitude Buy",
+   "link": "https://seekingalpha.com/article/4972765-transdigm-group-higher-leverage-lower-intrinsic-value-still-a-high-altitude-buy?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-28T13:47:20+00:00",
+   "tickers": [
+    "TDG"
+   ]
+  },
   {
    "id": "48b50ad0f2e1",
    "title": "Higher Prices Test Holiday Shoppers",
@@ -8796,38 +8828,6 @@
    "domain": "investing.com",
    "published": "2026-11-28T01:16:01+00:00",
    "tickers": []
-  },
-  {
-   "id": "becfc54257fd",
-   "title": "Samsara CEO Sanjit Biswas sells over $9.8 million in stock",
-   "link": "https://www.investing.com/news/insider-trading-news/samsara-ceo-sanjit-biswas-sells-over-98-million-in-stock-93CH-5054077",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-28T01:16:01+00:00",
-   "tickers": [
-    "IOT"
-   ]
-  },
-  {
-   "id": "f8a413baa288",
-   "title": "Samsara officer John Bicket sells over $9.8 million in stock",
-   "link": "https://www.investing.com/news/insider-trading-news/samsara-officer-john-bicket-sells-over-98-million-in-stock-93CH-5054075",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-28T01:15:58+00:00",
-   "tickers": [
-    "IOT"
-   ]
   }
  ],
  "ticker_names": {
@@ -8849,6 +8849,7 @@
   "PRAX": "Praxis Precision Medicines",
   "ADP": "Automatic Data Processing",
   "FCNCA": "First Citizens BancShares",
+  "REGN": "Regeneron Pharmaceuticals",
   "APO": "Apollo Global Management",
   "CFG": "Citizens Financial Group",
   "ARR": "ARMOUR Residential REIT",
@@ -8885,6 +8886,7 @@
   "DIS": "The Walt Disney",
   "EXP": "Eagle Materials",
   "RRC": "Range Resources",
+  "TDG": "TransDigm Group",
   "TEL": "TE Connectivity",
   "CSIQ": "Canadian Solar",
   "DPZ": "Domino's Pizza",
@@ -8940,7 +8942,6 @@
   "FOX": "Fox Corp",
   "COMP": "Compass",
   "ETR": "Entergy",
-  "IOT": "Samsara",
   "IVZ": "Invesco",
   "PSN": "Parsons",
   "ROL": "Rollins",
