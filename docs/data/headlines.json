@@ -1,8 +1,22 @@
 {
- "generated": "2026-11-28T14:53:18.026728+00:00",
+ "generated": "2026-11-28T14:59:18.897747+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "6004c2fca11f",
+   "title": "U.S. forces repelled drones at U.K. airbase this month: FT",
+   "link": "https://seekingalpha.com/news/4677118-us-forces-repelled-drones-uk-airbase-this-month?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-28T14:53:48+00:00",
+   "tickers": []
+  },
   {
    "id": "6445b46bd371",
    "title": "Balance for Savers 65 and Older Is $299,442. The Median Is $95,425",
@@ -15,6 +29,37 @@
    "sentiment": "neutral",
    "domain": "biztoc.com",
    "published": "2026-11-28T14:51:27+00:00",
+   "tickers": []
+  },
+  {
+   "id": "91598d27ec0d",
+   "title": "Owens Corning: A Recovery Story That Requires Patience",
+   "link": "https://seekingalpha.com/article/4972770-owens-corning-a-recovery-story-that-requires-patience?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-28T14:51:22+00:00",
+   "tickers": [
+    "OC",
+    "GLW"
+   ]
+  },
+  {
+   "id": "42355dd9cc52",
+   "title": "Hartford International Growth Fund Q3 2026 Commentary",
+   "link": "https://seekingalpha.com/article/4972773-hartford-international-growth-fund-q3-2026-commentary?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "earnings",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-28T14:50:00+00:00",
    "tickers": []
   },
   {
@@ -8768,54 +8813,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-11-28T03:01:25+00:00",
    "tickers": []
-  },
-  {
-   "id": "e4e09f93caf7",
-   "title": "He Turned a Wichita 'Hut' Into a Global Pizza Empire",
-   "link": "https://biztoc.com/x/fa523517b116eb94?ref=rss",
-   "summary": "He Turned a Wichita 'Hut' Into a Global Pizza Empire The man who helped turn a 500-square-foot \"hut\" into a global pizza empire has died. Dan Carney, who launched Pizza Hut in Wichita, Kansas, in 1958 with his younger brother Frank after borrowing $600 from their mother, died Nov. 13 at his home…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-28T03:00:16+00:00",
-   "tickers": [
-    "YUM"
-   ]
-  },
-  {
-   "id": "eb88285095cd",
-   "title": "DPC Dash - Domino's Pizza China Wins Sixth Seven-Star Award, Underscoring Its Quality Control Advantage and Sustainable Operating Efficiency as It Expands",
-   "link": "https://www.prnewswire.com/news-releases/dpc-dash--dominos-pizza-china-wins-sixth-seven-star-award-underscoring-its-quality-control-advantage-and-sustainable-operating-efficiency-as-it-expands-302951723.html",
-   "summary": "HONG KONG, Nov. 27, 2026 /PRNewswire/ -- DPC Dash – Domino's Pizza China (\"DPC Dash\" or the \"Company\") (1405.HK), Domino's Pizza's exclusive master franchisee in the Chinese Mainland, the Hong Kong Special Administrative Region of China, and the Macau Special Administrative Region of...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "positive",
-   "domain": "prnewswire.com",
-   "published": "2026-11-28T03:00:00+00:00",
-   "tickers": [
-    "DPZ"
-   ]
-  },
-  {
-   "id": "05f799805c64",
-   "title": "Warriors Rule Stephen Curry Out for Additional Games With Injury",
-   "link": "https://biztoc.com/x/1dcfe90ff4f41a3d?ref=rss",
-   "summary": "The Golden State Warriors will have to wait a bit longer before they'll have two-time NBA MVP Stephen Curry back on the court. ESPN's Anthony Slater reported on Friday that Curry will miss at least three more games for Golden State. According to Slater, the 12-time All-Star guard will be…",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-28T02:59:59+00:00",
-   "tickers": [
-    "DIS"
-   ]
   }
  ],
  "ticker_names": {
@@ -8872,7 +8869,6 @@
   "ANET": "Arista Networks",
   "BRBR": "BellRing Brands",
   "COIN": "Coinbase Global",
-  "DIS": "The Walt Disney",
   "EXP": "Eagle Materials",
   "RRC": "Range Resources",
   "TDG": "TransDigm Group",
@@ -8884,6 +8880,7 @@
   "MS": "Morgan Stanley",
   "CSCO": "Cisco Systems",
   "KO": "The Coca-Cola",
+  "OC": "Owens Corning",
   "POST": "Post Holdings",
   "SMR": "NuScale Power",
   "TLRY": "Tilray Brands",
@@ -8924,6 +8921,7 @@
   "WWD": "Woodward",
   "SQ": "Cash App",
   "COMP": "Compass",
+  "GLW": "Corning",
   "IVZ": "Invesco",
   "PSN": "Parsons",
   "ROL": "Rollins",
