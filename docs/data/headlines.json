@@ -1,8 +1,57 @@
 {
- "generated": "2026-11-28T15:56:58.096748+00:00",
+ "generated": "2026-11-28T16:06:21.313143+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "0ac5829f95b2",
+   "title": "Insider Trades: Palantir, Walmart, Home Depot among notable names",
+   "link": "https://seekingalpha.com/news/4677103-insider-trades-palantir-walmart-home-depot-among-notable-names?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha M&A",
+   "category": "ma",
+   "type": "ma",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-28T16:03:28+00:00",
+   "tickers": [
+    "HD",
+    "PLTR",
+    "WMT"
+   ]
+  },
+  {
+   "id": "489c6655cbf5",
+   "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
+   "link": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
+   "summary": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
+   "article_text": "",
+   "source": "MarketWatch",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "marketwatch.com",
+   "published": "2026-11-28T16:00:00+00:00",
+   "tickers": []
+  },
+  {
+   "id": "e962a1a672fe",
+   "title": "Salesforce, Marvell To Headline Earnings Next Week",
+   "link": "https://seekingalpha.com/article/4972629-salesforce-marvell-to-headline-earnings-next-week?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-28T16:00:00+00:00",
+   "tickers": [
+    "CRM",
+    "MRVL"
+   ]
+  },
   {
    "id": "84b687c97116",
    "title": "Black Friday's hottest new shopper? Artificial intelligence",
@@ -8785,48 +8834,6 @@
    "domain": "seekingalpha.com",
    "published": "2026-11-28T05:10:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "518d62cb28cc",
-   "title": "The Roadmap Ahead",
-   "link": "https://seekingalpha.com/article/4972692-roadmap-ahead?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-28T05:05:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "f0a2616fc680",
-   "title": "China’s import logistics demand falls 0.6% in January-October",
-   "link": "https://www.investing.com/news/economy-news/chinas-import-logistics-demand-falls-06-in-januaryoctober-5054171",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "negative",
-   "domain": "investing.com",
-   "published": "2026-11-28T05:02:55+00:00",
-   "tickers": []
-  },
-  {
-   "id": "fe8400bc2eda",
-   "title": "Allstate Tech Meltdown Leaves Millions of Customers Stranded",
-   "link": "https://biztoc.com/x/16b65efad494f8fb?ref=rss",
-   "summary": "",
-   "article_text": "",
-   "source": "BizToc",
-   "category": "aggregator",
-   "type": "aggregator",
-   "sentiment": "neutral",
-   "domain": "biztoc.com",
-   "published": "2026-11-28T05:01:41+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8912,6 +8919,7 @@
   "AAPL": "Apple Watch",
   "AMZN": "Whole Foods",
   "SHOP": "Shopify Inc",
+  "CRM": "Salesforce",
   "GEV": "GE Vernova",
   "MA": "Mastercard",
   "MCD": "McDonald's",
