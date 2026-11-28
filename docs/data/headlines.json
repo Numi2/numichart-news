@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T09:45:40.882438+00:00",
+ "generated": "2026-11-28T09:51:30.786899+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
@@ -17,6 +17,23 @@
    "published": "2026-11-28T09:43:21+00:00",
    "tickers": [
     "KO"
+   ]
+  },
+  {
+   "id": "a9ce70d45959",
+   "title": "Musk says Google interested in renting more computing capacity from SpaceX",
+   "link": "https://www.investing.com/news/company-news/musk-says-google-interested-in-renting-more-computing-capacity-from-spacex-5054245",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing.com",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-28T09:42:18+00:00",
+   "tickers": [
+    "SPCX",
+    "GOOGL"
    ]
   },
   {
@@ -105,6 +122,23 @@
    "domain": "seekingalpha.com",
    "published": "2026-11-28T09:31:28+00:00",
    "tickers": []
+  },
+  {
+   "id": "19c95145e31f",
+   "title": "Musk says Google is interested in renting more computing capacity from SpaceX",
+   "link": "https://www.investing.com/news/stock-market-news/musk-says-google-is-interested-in-renting-more-computing-capacity-from-spacex-5054241",
+   "summary": "",
+   "article_text": "",
+   "source": "Investing Stock",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "investing.com",
+   "published": "2026-11-28T09:24:21+00:00",
+   "tickers": [
+    "SPCX",
+    "GOOGL"
+   ]
   },
   {
    "id": "a763e38c8b96",
@@ -8812,41 +8846,6 @@
    "domain": "investing.com",
    "published": "2026-11-27T22:25:09+00:00",
    "tickers": []
-  },
-  {
-   "id": "68469488fbd7",
-   "title": "Stocks Supported by a Recovery in the AI Trade",
-   "link": "https://www.nasdaq.com/articles/stocks-supported-recovery-ai-trade",
-   "summary": "The S&P 500 Index ($SPX ) (SPY ) is up +0.77% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.75%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +0.90%. December E-mini S&P futures (ESZ26 ) are up +0.70%, and December E-mini Nasdaq 2futures...",
-   "article_text": "",
-   "source": "NASDAQ Stocks",
-   "category": "stocks",
-   "type": "stocks",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-27T22:23:46+00:00",
-   "tickers": [
-    "QQQ",
-    "NDAQ",
-    "SPY",
-    "DIA"
-   ]
-  },
-  {
-   "id": "d05e0fd229a2",
-   "title": "MS&AD Insurance Group Holdings, Inc. (MSADY) Q2 2027 Earnings Call Transcript",
-   "link": "https://seekingalpha.com/article/4972649-ms-and-ad-insurance-group-holdings-inc-msady-q2-2027-earnings-call-transcript?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-27T22:21:16+00:00",
-   "tickers": [
-    "MS"
-   ]
   }
  ],
  "ticker_names": {
