@@ -1,8 +1,22 @@
 {
- "generated": "2026-11-28T14:46:50.017485+00:00",
+ "generated": "2026-11-28T14:53:18.026728+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "6445b46bd371",
+   "title": "Balance for Savers 65 and Older Is $299,442. The Median Is $95,425",
+   "link": "https://biztoc.com/x/848562b3f1d7ab37?ref=rss",
+   "summary": "The post The Average 401(k) Balance for Savers 65 and Older Is $299,442. The Median Is $95,425 appeared first on 24/7 Wall St.. You’ve probably heard it at a party. Someone a few years from retirement mentions how big their 401(k) has gotten, and you leave wondering whether you’re behind. If…",
+   "article_text": "",
+   "source": "BizToc",
+   "category": "aggregator",
+   "type": "aggregator",
+   "sentiment": "neutral",
+   "domain": "biztoc.com",
+   "published": "2026-11-28T14:51:27+00:00",
+   "tickers": []
+  },
   {
    "id": "7d971215565e",
    "title": "Towards a Child Marriage Free World by 2030: The World Unites to Mark the First International Day for the Elimination of Child, Early and Forced Marriage",
@@ -312,6 +326,38 @@
    "published": "2026-11-28T14:27:02+00:00",
    "tickers": [
     "TM"
+   ]
+  },
+  {
+   "id": "a0a38c04d561",
+   "title": "Why Abercrombie & Fitch Stock Surged This Week",
+   "link": "https://www.nasdaq.com/articles/why-abercrombie-fitch-stock-surged-week",
+   "summary": "Key PointsAbercrombie & Fitch delivered record third-quarter results and extended its sales growth streak to 16 consecutive quarters.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "positive",
+   "domain": "nasdaq.com",
+   "published": "2026-11-28T14:26:10+00:00",
+   "tickers": [
+    "ANF"
+   ]
+  },
+  {
+   "id": "904730f90628",
+   "title": "We May Be Witnessing Wall Street's 2 Biggest Bubbles Bursting Simultaneously",
+   "link": "https://www.nasdaq.com/articles/we-may-be-witnessing-wall-streets-2-biggest-bubbles-bursting-simultaneously",
+   "summary": "Key PointsThe Dow Jones Industrial Average, S&P 500, and Nasdaq Composite have soared since the 2022 bear market bottom, with artificial intelligence (AI) powering these gains.",
+   "article_text": "",
+   "source": "NASDAQ Markets",
+   "category": "markets",
+   "type": "markets",
+   "sentiment": "neutral",
+   "domain": "nasdaq.com",
+   "published": "2026-11-28T14:26:02+00:00",
+   "tickers": [
+    "NDAQ"
    ]
   },
   {
@@ -8770,52 +8816,6 @@
    "tickers": [
     "DIS"
    ]
-  },
-  {
-   "id": "7a8fbfac8390",
-   "title": "Tethys Petroleum J Q3 Earnings Summary",
-   "link": "https://www.nasdaq.com/articles/tethys-petroleum-j-q3-earnings-summary",
-   "summary": "(RTTNews) - Below are the earnings highlights for Tethys Petroleum J (TPL.TO):",
-   "article_text": "",
-   "source": "NASDAQ Markets",
-   "category": "markets",
-   "type": "earnings",
-   "sentiment": "neutral",
-   "domain": "nasdaq.com",
-   "published": "2026-11-28T02:57:28+00:00",
-   "tickers": [
-    "TPL"
-   ]
-  },
-  {
-   "id": "451277856fb4",
-   "title": "Viper Energy: Acquisitions Boost Oil Production To Over 70,000 Barrels Per Day",
-   "link": "https://seekingalpha.com/article/4972675-viper-energy-acquisitions-boost-oil-production-to-over-70000-barrels-per-day?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "upgrade",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-28T02:54:47+00:00",
-   "tickers": [
-    "VNOM"
-   ]
-  },
-  {
-   "id": "aa19a137a902",
-   "title": "Dividend Champion, Contender, And Challenger Highlights: Week November 29",
-   "link": "https://seekingalpha.com/article/4972674-dividend-champion-contender-and-challenger-highlights-week-november-29?source=feed_all_articles",
-   "summary": "",
-   "article_text": "",
-   "source": "Seeking Alpha",
-   "category": "stocks",
-   "type": "dividend",
-   "sentiment": "positive",
-   "domain": "seekingalpha.com",
-   "published": "2026-11-28T02:52:19+00:00",
-   "tickers": []
   }
  ],
  "ticker_names": {
@@ -8853,10 +8853,10 @@
   "TIP": "iShares TIPS Bond ETF",
   "VOO": "Vanguard S&P 500 ETF",
   "VOYG": "Voyager Technologies",
+  "ANF": "Abercrombie & Fitch",
   "LULU": "lululemon athletica",
   "BRK-A": "Berkshire Hathaway",
   "MRVL": "Marvell Technology",
-  "TPL": "Texas Pacific Land",
   "TYL": "Tyler Technologies",
   "DELL": "Dell Technologies",
   "ES": "Eversource Energy",
@@ -8892,7 +8892,6 @@
   "SPY": "SPDR S&P 500",
   "TM": "Toyota Motor",
   "UBS": "UBS Group AG",
-  "VNOM": "Viper Energy",
   "GOOGL": "Google Cloud",
   "TSLA": "Supercharger",
   "NVDA": "Grace Hopper",
