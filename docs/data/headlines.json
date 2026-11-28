@@ -1,8 +1,40 @@
 {
- "generated": "2026-11-28T10:15:51.150246+00:00",
+ "generated": "2026-11-28T10:23:00.999293+00:00",
  "feed_count": 28,
  "ticker_universe_size": 1754,
  "headlines": [
+  {
+   "id": "22c92b81a84d",
+   "title": "Voyager Technologies: The Growth Is Real, But We Need To See Profitability",
+   "link": "https://seekingalpha.com/article/4972743-voyager-technologies-growth-is-real-but-need-to-see-profitability?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "stocks",
+   "sentiment": "neutral",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-28T10:13:25+00:00",
+   "tickers": [
+    "VOYG"
+   ]
+  },
+  {
+   "id": "0ab0a09cc3a8",
+   "title": "Canadian Solar: The Business May Recover, Shareholders May Not (Rating Downgrade)",
+   "link": "https://seekingalpha.com/article/4972742-canadian-solar-business-may-recover-shareholders-may-not-rating-downgrade?source=feed_all_articles",
+   "summary": "",
+   "article_text": "",
+   "source": "Seeking Alpha",
+   "category": "stocks",
+   "type": "downgrade",
+   "sentiment": "negative",
+   "domain": "seekingalpha.com",
+   "published": "2026-11-28T10:12:21+00:00",
+   "tickers": [
+    "CSIQ"
+   ]
+  },
   {
    "id": "d4ec51cadbd4",
    "title": "AbbVie: Strong Core Growth, Long-Term Plan Tracks Well Into 2027",
@@ -8814,36 +8846,6 @@
    "domain": "prnewswire.com",
    "published": "2026-11-27T22:30:00+00:00",
    "tickers": []
-  },
-  {
-   "id": "16ace72ff610",
-   "title": "GOL lance l'opération Orange Friday avec jusqu'à 10 % de réduction sur les vols aller-retour entre les États-Unis et le Brésil",
-   "link": "https://www.prnewswire.com/news-releases/gol-lance-loperation-orange-friday-avec-jusqua-10--de-reduction-sur-les-vols-aller-retour-entre-les-etats-unis-et-le-bresil-302951941.html",
-   "summary": "La plus grande promotion de l'année de la compagnie aérienne est déjà en cours et se poursuit jusqu'au dimanche 29 novembre, avec des vols vers Rio de Janeiro, Fortaleza, Brasília et Belém. NEW YORK, 27 novembre 2026 /PRNewswire/ -- GOL Linhas Aéreas, la compagnie aérienne la plus...",
-   "article_text": "",
-   "source": "PR Newswire All",
-   "category": "press",
-   "type": "press",
-   "sentiment": "neutral",
-   "domain": "prnewswire.com",
-   "published": "2026-11-27T22:30:00+00:00",
-   "tickers": []
-  },
-  {
-   "id": "7f9a061cb69f",
-   "title": "Viatris director W. Don Cornwell to retire from board effective December 1",
-   "link": "https://www.investing.com/news/sec-filings/viatris-director-w-don-cornwell-to-retire-from-board-effective-december-1-93CH-5053945",
-   "summary": "",
-   "article_text": "",
-   "source": "Investing.com",
-   "category": "markets",
-   "type": "markets",
-   "sentiment": "neutral",
-   "domain": "investing.com",
-   "published": "2026-11-27T22:29:12+00:00",
-   "tickers": [
-    "VTRS"
-   ]
   }
  ],
  "ticker_names": {
@@ -8880,6 +8882,7 @@
   "JAZZ": "Jazz Pharmaceuticals",
   "PG": "The Procter & Gamble",
   "VOO": "Vanguard S&P 500 ETF",
+  "VOYG": "Voyager Technologies",
   "ABT": "Abbott Laboratories",
   "KYMR": "Kymera Therapeutics",
   "LULU": "lululemon athletica",
@@ -8908,6 +8911,7 @@
   "DIS": "The Walt Disney",
   "EXP": "Eagle Materials",
   "RRC": "Range Resources",
+  "CSIQ": "Canadian Solar",
   "DPZ": "Domino's Pizza",
   "ENPH": "Enphase Energy",
   "HD": "The Home Depot",
